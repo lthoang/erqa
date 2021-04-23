@@ -1,0 +1,141 @@
+Top question(s):
+Does this come in a box?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+Elmo laughs and moves... can be hard to understand him speech thoughI never had the opportunity to play with the previous incarnations such as Tickle-Me Elmo, so I am coming at this review from a new perspective.My 2 yo seems sufficiently entertained by Elmo's antics.
+Since Elmo is in a sitting position, he is perfect for toddlers to cradle in their arms like a baby or transport in a doll stroller.
+Tickling his tummy also works, though not as well.I do think the motor is loud, and can sometimes make it difficult to hear Elmo speak.
+When he laughs, he rolls around, kicks his legs and has that infectious Sesame Street laugh my kids and I have grown to love!I gave it four stars instead of five just because making silly sounds next to Elmo does not seem to work very well with ours.
+He didn't have any Elmo toys, though, so I picked this up.
+
+Question attention weights:
+0.42499080300331116,0.28253740072250366,0.29247182607650757
+Sentence attention weights:
+0.013236803002655506,0.011801527813076973,0.006411176640540361,0.0064501455053687096,0.008861688897013664,0.006782714277505875,0.011512873694300652,0.007075276225805283,0.00601200619712472,0.007619509939104319,0.012498995289206505,0.00693814642727375,0.007685912773013115,0.0067613092251122,0.0074088433757424355,0.01575348526239395,0.007096596993505955,0.007410753984004259,0.007541775703430176,0.008766589686274529,0.005486770533025265,0.007696797605603933,0.006883946247398853,0.008357705548405647,0.007381379138678312,0.009425189346075058,0.016716746613383293,0.007744039874523878,0.005935127381235361,0.006589067634195089,0.005853399634361267,0.005208754446357489,0.006216112058609724,0.005285641644150019,0.010632759891450405,0.008729883469641209,0.009681335650384426,0.009908970445394516,0.00926727894693613,0.010647883638739586,0.00877552479505539,0.008782840333878994,0.007388003636151552,0.007805598434060812,0.007207512389868498,0.009019589982926846,0.008059765212237835,0.00758215831592679,0.005951537750661373,0.009668514132499695,0.006216880865395069,0.008080841042101383,0.009105989709496498,0.0074650002643466,0.00810168869793415,0.008699021302163601,0.010695431381464005,0.007262835279107094,0.006804583128541708,0.017193326726555824,0.004924838896840811,0.003934996668249369,0.012747741304337978,0.014755518175661564,0.005470074713230133,0.008276112377643585,0.011083647608757019,0.006885210517793894,0.00761058833450079,0.007353166583925486,0.008647998794913292,0.013075015507638454,0.0072745527140796185,0.00662223668769002,0.009667785838246346,0.0060250423848629,0.007175222039222717,0.006675688084214926,0.00898529402911663,0.011269178241491318,0.013063415884971619,0.006431369576603174,0.011068731546401978,0.0069801355712115765,0.008925329893827438,0.007019557058811188,0.008006617426872253,0.007257858756929636,0.01945445127785206,0.00753997266292572,0.004236012231558561,0.00827530212700367,0.007508101407438517,0.007585444487631321,0.007163442205637693,0.0071466281078755856,0.007511214818805456,0.01029778178781271,0.008901312947273254,0.007221321575343609,0.007105827797204256,0.0076043689623475075,0.007292918395251036,0.009223926812410355,0.0037871587555855513,0.009486809372901917,0.01003270410001278,0.00540017569437623,0.0070647005923092365,0.010065690614283085,0.006837785243988037,0.007052209228277206,0.010188884101808071,0.00705198897048831,0.007145553827285767,0.00765665527433157,0.006968142930418253,0.007369876839220524,0.008647052571177483,0.006822060793638229
+0.013602124527096748,0.011777481995522976,0.006545409560203552,0.006548805627971888,0.008869628421962261,0.006788352504372597,0.012011278420686722,0.006919963285326958,0.005790287163108587,0.007515617646276951,0.012634973973035812,0.007033083122223616,0.007624903693795204,0.006670231930911541,0.007441768888384104,0.015953829512000084,0.007024681195616722,0.007250371389091015,0.007539414335042238,0.009043192490935326,0.0054451641626656055,0.0076337046921253204,0.006932183634489775,0.008288404904305935,0.00743793835863471,0.009469103068113327,0.017132308334112167,0.00767104746773839,0.005920013878494501,0.006571950390934944,0.006058476399630308,0.005054070148617029,0.005994216538965702,0.005178428255021572,0.010724005289375782,0.008867185562849045,0.009974322281777859,0.009415050968527794,0.009117965586483479,0.010608721524477005,0.00873102992773056,0.008426154963672161,0.007243526633828878,0.007639255374670029,0.007169530261307955,0.008998746052384377,0.007976840250194073,0.00743944151327014,0.005779321305453777,0.009877360425889492,0.00618070038035512,0.007889111526310444,0.009313673712313175,0.007326552178710699,0.008288036100566387,0.008682162500917912,0.011088414117693901,0.007219616323709488,0.006948173511773348,0.01757965423166752,0.00494932709261775,0.003862977959215641,0.013325714506208897,0.01517057791352272,0.005263643804937601,0.008106171153485775,0.011494587175548077,0.006759121548384428,0.007458611391484737,0.0074640801176428795,0.008522163145244122,0.01345245260745287,0.007115920074284077,0.0066657341085374355,0.009710200130939484,0.005871381610631943,0.007065148558467627,0.00668250722810626,0.008886439725756645,0.011702344752848148,0.013719957321882248,0.00632460368797183,0.01122969575226307,0.00680557731539011,0.0081276660785079,0.006936241872608662,0.007751596625894308,0.007217159029096365,0.019584501162171364,0.0074179344810545444,0.004097074270248413,0.008135633543133736,0.0073698884807527065,0.007740222383290529,0.007510990835726261,0.006782913114875555,0.007532239425927401,0.0099796699360013,0.0088106170296669,0.007070070598274469,0.006942974869161844,0.007585488725453615,0.007255883887410164,0.009515714831650257,0.003695911029353738,0.009717004373669624,0.01027105376124382,0.005381781607866287,0.006924882996827364,0.009859632700681686,0.006811064667999744,0.006907625123858452,0.010283788666129112,0.006908079143613577,0.00702148862183094,0.00751533592119813,0.0068135373294353485,0.007261620368808508,0.009100028313696384,0.006676774471998215
+0.01360901165753603,0.011846574954688549,0.006513998843729496,0.006531686522066593,0.008886924013495445,0.006762704346328974,0.012048747390508652,0.00693625770509243,0.00577631825581193,0.007529359310865402,0.012644479051232338,0.006985248997807503,0.007600473240017891,0.006658401805907488,0.007455175276845694,0.016027318313717842,0.007023646496236324,0.0072709545493125916,0.007498481310904026,0.008999199606478214,0.005389656405895948,0.007641516625881195,0.0068870470859110355,0.008326144888997078,0.00739536015316844,0.009501544758677483,0.017239972949028015,0.007672592531889677,0.005925115663558245,0.006528644356876612,0.005969693418592215,0.005062207579612732,0.006026414223015308,0.005142852198332548,0.010744960978627205,0.008863503113389015,0.009952922351658344,0.009470684453845024,0.009146558120846748,0.010655596852302551,0.008764412254095078,0.008471252396702766,0.007261889521032572,0.007664649281650782,0.007153898477554321,0.008988617919385433,0.007995239458978176,0.007456871680915356,0.005802497733384371,0.009835640899837017,0.00616192352026701,0.00792062096297741,0.009281864389777184,0.007339269854128361,0.008244330994784832,0.008674477227032185,0.011059305630624294,0.00721520371735096,0.0068810260854661465,0.017616678029298782,0.004902802407741547,0.0038178099785000086,0.013277219608426094,0.015230188146233559,0.005262949038296938,0.008098377846181393,0.011453837156295776,0.006749921478331089,0.0074887704104185104,0.007432546932250261,0.008553112857043743,0.01341923326253891,0.0071340096183121204,0.006653924006968737,0.00969583448022604,0.00589009141549468,0.007071285974234343,0.006620096042752266,0.008908377960324287,0.011657455936074257,0.013695751316845417,0.006314337253570557,0.011185339652001858,0.006822552066296339,0.008156055584549904,0.006935987155884504,0.00777986878529191,0.007224699016660452,0.019693434238433838,0.007428297307342291,0.004063069820404053,0.008132018148899078,0.007388551719486713,0.007682084105908871,0.007448630873113871,0.0067983283661305904,0.007523829583078623,0.01002849917858839,0.008830815553665161,0.007087406236678362,0.006964288651943207,0.0075941490940749645,0.007268740329891443,0.009437941946089268,0.0036693618167191744,0.009709546342492104,0.010286026634275913,0.005375072360038757,0.00694012688472867,0.00990192499011755,0.006787051446735859,0.006923902779817581,0.010324882343411446,0.006925754714757204,0.0070326803252100945,0.007535136304795742,0.0068315682001411915,0.007282136473804712,0.009042704477906227,0.00669196667149663
+Questions:
+Does this come in a box?
+what is the height of this product
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+If you thought that the Tickle Me Elmo craze had run its course, think again.
+This little guy is super cute, hilarious, and my little cousin absolutely loves him.
+There are several ways to make Elmo laugh - including tickling, squeezing his feet, and squeaking the Dorothy toy.
+The more you tickle him, the more Elmo will convulse with laughter.
+It's hilarious to watch even for adults.
+My two year old cousin laughs just as hard as Elmo.
+And, as an added bonus, this Elmo comes complete with jokes.The price is a little too steep for my liking (currently listed here on Amazon at $49.99), but I would still highly recommend.
+This is a great toy for younger kids.
+My favorite part of watching Sesame Street with my kids is hearing Elmo laugh.
+It always makes my kids giggle.
+We've had other Elmo toys that laugh, including the bigger Elmo that tipped over and tried to get back up - that one did not work out very well and honestly was a little creepy with its jerky mechanical movements.
+The LOL Elmo, however, has been nothing but a hit around our house.
+If you press his feet or his tummy, he cracks up.
+Holding a foot for a few seconds makes Elmo tell a cute preschool joke.
+Also, if you squeak Dorothy's fish bowl right next to Elmo, he laughs out loud.
+When he laughs, he rolls around, kicks his legs and has that infectious Sesame Street laugh my kids and I have grown to love!I gave it four stars instead of five just because making silly sounds next to Elmo does not seem to work very well with ours.
+Squeaking the fish bowl works about half of the time, and making silly sounds about a third of the time.
+It's still a very cute toy, and much loved by my daughter.
+I think it would make a great Christmas gift for any Elmo fan!
+This is, quite possibly, the worst of the Elmo toys.
+The original Tickle Me Elmo was great, innovative, and adorable.
+This version is attempting to pull from the success of that toy, but fails miserably.
+It's awkward to look at, doesn't work all that well as far as the tickling goes, and it's incredibly annoying.I would avoid it and just go with the original Tickle Me Elmo.
+This is a fun toy that will easily make any child or adult giggle.
+Elmo laughs, tells jokes, kicks his feet and waves his arms.
+He's easy to work, by squeezing his foot or squeezing his fish toy.
+Tickling his tummy also works, though not as well.I do think the motor is loud, and can sometimes make it difficult to hear Elmo speak.
+And I'm not sure how long this toy will last in the hands of a more aggressive child or toddler.
+The moving parts make the limbs and especially the head easy to pop off.
+Our 3 year old loves this Elmo doll, and as soon as she heard him laugh he became an instant favorite and laughs right along with him.
+She has another Elmo but because of the interactive nature and similar size and shape to the regular large plush dolls, he fits right in with the family and is not seen as a repeat item.
+If you already have a collection of Sesame Street characters, this one fits right in.
+He has the same soft, slightly shiny fur as the Gund line of full size dolls.
+The only difference is he is in a curled up position and has a harder body.I like this doll because its not too loud or shrill sounding, as many toys I worry about it hurting my child's ears.
+I still make sure Elmo is not in the bed at bedtime just in case.
+Just squeeze his foot or poke his stomach for a funny laugh, and he also responds to sound which is pretty fun and clever.
+It comes with Elmo's pet fish Dorothy in the form of a squeaky toy.
+A cute add-on but it doesn't tend to get used together with the doll in our house.
+This was one of our favorite toys this Christmas.
+If this item is intended for very young children, you may have a winner.
+My four year old liked it for 10 minutes and hasn't looked at it since.
+Definitely for the 12 to 36 month crowd.
+Having said that, Elmo is really cute and laughs a lot.
+I can see how small children would find it charming and engaging.
+"The Laugh Out Loud Elmo is truly a toy that kids love.
+The silly laughing sounds and the gestures are truly hysterical for both adults and children.
+In addition the doll is very well made and the soft so kids will enjoy just picking up Elmo even when he is not being silly.
+The included fish bowl ""remote"" is also very cute but easy to lose.
+Overall this is a great toy for the intended age group though it does get repetitive over time."
+I remember years ago when the world went nuts for Tickle Me Elmo.
+I have a feeling we're going to see that mad rush at christmas again for this new modern version of the adorable red monster!
+He is so darn cute!
+His giggle is contagious and you cant help laughing.
+I love His silly jokes and the different ways to make him laugh.
+Any preschooler will love Elmo!
+"Sure LOL Elmo was designed for preschoolers, but who doesn't love Elmo (I don't even want to know)?
+When LOL Elmo first arrived at my home, he was greeted by men and women long past preschool (actually, long past college and the school of hard knocks), and they were totally taken with him.
+When Elmo starts giggling and laughing, it's impossible not to laugh with him.
+I highly recommend keeping him around for ""bad days,"" whether you are 4 or 94.Under his furry exterior, Elmo is a hard-shelled machine, so I would not recommend him as a sleeping companion for young children (if they accidentally activated him while sleeping they would certainly wake up, too).
+Since Elmo is in a sitting position, he is perfect for toddlers to cradle in their arms like a baby or transport in a doll stroller.
+Elmo's fans will find the LOL Elmo to be an authentic reproduction.As for the target owners--little kids--they are delighted when Elmo begins laughing, kicking his feet, and shaking his arms.
+I did experience one problem: the hand controls on the LOL Elmo I received do not work consistently."
+My 17-month-old LOVES Elmo.
+He didn't have any Elmo toys, though, so I picked this up.
+He was so excited when he saw it that he could barely contain himself as I got it out of the box.
+He figured out right away how to tickle his feet to turn him on and then keep him going by tickling his belly.
+My son started laughing right away when Elmo started laughing.
+My son also enjoys squeaking Dorothy's fish bowl and quite often runs around with it just squeaking away.My son is a typical toddler and everything gets thrown around, so this toy has already been tossed around a bunch.
+It even took a dip in the dog's water bowl and was fine.
+My son likes hugging Elmo more than making him laugh, though, so I think that we might need to get him a plush Elmo since this one is pretty hard.Overall, it is a fun toy for Elmo fans.
+I can't say it is an everyday toy for my son but he does love his Elmo!
+From the first Elmo so many years ago when Rosie made him a holiday superstar to this fun Elmo I have always loved a giggle with a baby.
+However, no baby needed here.
+When I opened the box only my husband and I were home and we both just smiled and felt lightened all day when we could give Elmo's foot a squeeze and get a giggle.
+Rubbing his tummy is not as reliable to get the programmed response and this is the only flaw with Elmo.
+He is the rich red color you love and his fishbowl is squeaky and great for a little one's tiny fingers.
+I would buy this for a baby gift but I have a suspicion that my college kid can use a good chuckle occasionally and she might even be somewhat nostalgic.
+So if you missed giggling Elmo a decade ago buy it for today's teen and start those babies out giggling with on of the best!
+"This Elmo has been a great hit with my 23 month old twins.
+My 16 year old had a ""tickle me Elmo"" when he was small, and I was so afraid that this new incarnation would be just as annoying.
+Fortunately, the LOL Elmo does not have the same annoying laugh I remember.
+This Elmo is totally cute, and he will laugh and kick his feet to the delight of everyone, (not just toddlers).
+Elmo isn't a ""stuffed"" toy per se, the hardware that ensures his movement makes him a little less cuddly, but that has not been a problem at our house.
+Elmo comes with a small stuffed fishbowl that squeaks.
+The directions state to hold the fishbowl close to Elmo's tummy and squeak it to make him laugh, or it also says you can make a loud noise near his tummy to get the same reaction.
+This Elmo has been a great hit at our house, his laugh is contagious, and addictive, so be prepared to hear his laugh over and over again.
+I will say this, Elmo's laughs and comments are not as annoying as the Bouncing Tigger that my twins also love.
+I am very pleased with this toy."
+Elmo laughs and moves... can be hard to understand him speech thoughI never had the opportunity to play with the previous incarnations such as Tickle-Me Elmo, so I am coming at this review from a new perspective.My 2 yo seems sufficiently entertained by Elmo's antics.
+It is not complex.
+Squeeze his foot to activate, thereafter tickling his belly or making sounds actuates his antics.
+He laughs accompanied by frantic movements.
+He also tells jokes.
+Between the recoding quality, Elmo's speech pattern, and the noise from the movement actuators, Elmo can be hard to understand.
+This is a cute little toy, it giggles and talks, and kicks his feet while laughing.
+It's a cute idea, but like the Fur Real Pets, it is hard as a rock, and not cuddly at all.
+This is recommended for ages 18 mos.
+to 4, yet if you're looking for a toy for your toddler to cuddle with, this isn't the one.
+It is cute, how it giggles out of control, but that is it, not made to snuggle with.
+Just sayin'......
+This Elmo toy is really cute.
+My grandchildren, ages 18 months and 24 months, both love this toy, although the younger one is a little rough with Elmo.
+At least his durability is being tested and seems fine so far.
+The box includes Elmo, a squeaky toy of Dorothy in a fishbowl, and 4 AA demo batteries.
+Elmo is activated by tickling his feet or tummy.
+He also responds to the Dorothy squeaky toy.
+Elmo giggles, tells jokes, and wiggles just like any silly toddler.
+This little Elmo is more active than he appears.
+Kids love it.
+I would have given five stars had Elmo been more responsive.
+Sometimes he just doesn't laugh when he is activated, but that isn't much of an issue.
+Also, the insides are hard plastic, not a soft toy as some children would think.
+Overall, Elmo would make a wonderful present!
+This little Elmo is as cute as he looks in the picture!
+Soft and cuddly toy.
+My Godchild loves it!
+I keep a few toys around for when she comes over and she always goes right to this one.
+Very pleased with the quality and construction.
+Definitely recommend the Playskool Sesame Street LOL Elmo.
+Adorable.

@@ -1,0 +1,211 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+Brilliance of Colors: Ravensburger puzzles are more rich/brilliant than our Melissa & Doug puzzles.
+There are 24 colorful, bright pieces that little ones are drawn to immediately as monkey, lion, giraffe, zebra, tiger, snake and parrot emerge from the jungle as they piece the puzzle together.This two-dimensional puzzle, designed for children ages 3+, has nice thick pieces that are easy to wipe down.
+For anyone into puzzles, Ravensburger is one of the finest products you can buy, and this one is certainly no different.
+(Pieces won't slide or move easily when on carpeting.)
+Unlike Melissa and Doug puzzles, Ravensburger puzzles are matte and not glossy.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.005489693023264408,0.0034963684156537056,0.004919710569083691,0.004902191460132599,0.005030185449868441,0.005478319711983204,0.004653108771890402,0.0027753266040235758,0.007936464622616768,0.0073613328859210014,0.0062623596750199795,0.00859050638973713,0.006208532024174929,0.0056215617805719376,0.0054086134769022465,0.00407101446762681,0.005105993710458279,0.005430604796856642,0.006676755379885435,0.005522467195987701,0.005042442120611668,0.005736877676099539,0.006367934867739677,0.005486420821398497,0.0029003899544477463,0.003234902396798134,0.00419331481680274,0.005654940847307444,0.005013993941247463,0.0038486551493406296,0.004746776539832354,0.0050300247967243195,0.007512080017477274,0.004043240565806627,0.003963697236031294,0.00795313436537981,0.004011116921901703,0.006522740237414837,0.005324398633092642,0.005902696866542101,0.0044862511567771435,0.0044903745874762535,0.005433759652078152,0.005490234587341547,0.014071482233703136,0.004012131132185459,0.0044757346622645855,0.004934093449264765,0.003569079330191016,0.004045817535370588,0.005018180701881647,0.004115833435207605,0.005323642399162054,0.003639519214630127,0.004305352922528982,0.004795649088919163,0.00596656883135438,0.008738105185329914,0.007873977534472942,0.004860496148467064,0.0038649444468319416,0.003059632843360305,0.006190380547195673,0.005739957559853792,0.0037215512711554766,0.005088192876428366,0.004621478728950024,0.005913897883147001,0.004920974839478731,0.004934192635118961,0.005355372093617916,0.005891944747418165,0.005426950287073851,0.0050725797191262245,0.005023093894124031,0.0017744103679433465,0.0049378895200788975,0.006271077785640955,0.007027909625321627,0.004972349386662245,0.006214302498847246,0.006079523824155331,0.004838879220187664,0.008381985127925873,0.004533387720584869,0.005386179778724909,0.004672452807426453,0.004632406868040562,0.004353394731879234,0.005039171315729618,0.004338270518928766,0.005772246979176998,0.0047562276013195515,0.005348484497517347,0.005603416357189417,0.0027381181716918945,0.004406123887747526,0.004542480688542128,0.005492336582392454,0.003667011857032776,0.004890138283371925,0.00569933420047164,0.004855774808675051,0.004797013010829687,0.0039208754897117615,0.0031698925886303186,0.004675603937357664,0.0059776753187179565,0.003221116028726101,0.004098802339285612,0.005733182188123465,0.004802925046533346,0.004781296476721764,0.003919118084013462,0.005052217748016119,0.003707832656800747,0.006386644206941128,0.005740214139223099,0.004720531404018402,0.004297204781323671,0.005159882828593254,0.005670973565429449,0.004398501943796873,0.004699950572103262,0.004802976734936237,0.0072912066243588924,0.0042075649835169315,0.004696505144238472,0.004794962238520384,0.004782388918101788,0.0040369597263634205,0.0055324723944067955,0.0046116202138364315,0.004893091507256031,0.004767529666423798,0.005855427123606205,0.00621999055147171,0.004996949341148138,0.0029149448964744806,0.006257934961467981,0.004962475970387459,0.005755245685577393,0.006136694923043251,0.005938559304922819,0.0030583073385059834,0.005708079319447279,0.005147590767592192,0.005871707573533058,0.005859756376594305,0.004128782078623772,0.0062229023315012455,0.0050513483583927155,0.004850598052144051,0.006436230149120092,0.005659512709826231,0.004236734937876463,0.004635391756892204,0.0034471063409000635,0.0040044961497187614,0.005556134041398764,0.0049352184869349,0.005297738127410412,0.005295060109347105,0.004946544766426086,0.004883903078734875,0.004047189839184284,0.005411918740719557,0.004462454468011856,0.004570638760924339,0.0041199782863259315,0.0021832806523889303,0.004934248514473438,0.004696115385740995,0.0051660859026014805,0.004894068464636803,0.005597864743322134,0.005542552098631859,0.008222287520766258,0.006866049021482468,0.0041885352693498135,0.007232313975691795,0.00448269210755825,0.006135792471468449,0.004954773932695389,0.004502463154494762,0.004637397360056639,0.005650701466947794,0.005869310349225998,0.004780441056936979,0.003914957400411367,0.004627499263733625,0.006625105161219835,0.004943775944411755,0.005535116884857416,0.004456671886146069
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+I gave this puzzle to my three year old niece and she loved it.
+I find puzzles in general to be good for kids, as they encourage critical thinking and visual skills.
+Ravensburger puzzles are always well made -- they have sturdy cardboard and are tightly cut.
+This one also has a fun print that made my niece smile.
+Can't complain!
+This is a very sturdy puzzle.
+The pieces are big and fun for little ones, also firm enough to put it together on the floor without the carpet pushing your pieces apart.
+It has a brightly colored picture with easily recognized animals.
+"I prefer these to the large Melissa and Doug floor puzzles; although smaller and with larger pieces, they're definitely sturdier and the puzzles seem to ""click"" together more easily for my toddler.
+The scene on this puzzle is nice and bright, with large animals that my daughter instantly liked and started naming before she even put the puzzle together.
+She really likes puzzles, but I would say that this is an easy puzzle for ages 2+."
+For anyone into puzzles, Ravensburger is one of the finest products you can buy, and this one is certainly no different.
+Its definitely very high quality; as intended for a young child, its sturdiness and large size make for a durable product easy for small hands to manipulate.
+Further, the surface is coated so normal kid fluids (and those with kids know what I mean) can be easily wiped off.
+Lastly, the image is quite cute.
+Unlike some of the lesser colorful ones, the images are cute and the colors eye catching.
+My 3 y/o daughter enjoyed it.
+The colorful animals on this puzzle appealed to me, and I wasn't disappointed when I received the puzzle.
+The pieces are large, about the size of a child's board book, and they are easy for little hands to grasp.
+My four year old easily put this large puzzle together while my two year old excitedly pointed to animals and made their sounds.
+He tried to put pieces together, but isn't quite ready.
+The puzzle is durable, only one piece bent when the two year old jumped on the completed puzzle.
+The surface is protected so that the puzzle can wipe clean.
+I would definitely buy products from this company based on what I saw with this puzzle.
+This is my son's second Ravensburger floor puzzle and he really does enjoy them.
+He's gotten quite good at puzzles in general and the floor puzzles have held his interest quite well.
+The nice part about this puzzle is both the durability (since he loves to smash the edges together) and the picture.
+It's a very cute animal scene and that seems to hold his interest very well.
+Definitely recommended for the little ones.
+This is a 24 piece puzzle.
+It is 6 pieces long and four pieces high.
+This means 16 pieces make up the frame and only eight pieces compose the insides.
+This makes the puzzle very easy to put together, as every inside piece connects to a piece of the frame.The pieces fit together very well and are cut in such a way where they look uniform, but it's obvious if you try to put the wrong piece in the wrong place.The vibrant colors and the adorable picture is very well represented on the item page.The box is surprisingly sturdy, which is what you need for a child's puzzle.
+The box could be a little bit smaller to make for easier storage, but I could see where making it any smaller could lead to a bit of frustration for a young child trying to fit the pieces back into the box.
+"This Ravensburger ""Jungle Party"" floor puzzle is the perfect size for younger kids to build and the high quality pieces will ensure it will hold up for a long time.
+The puzzle features happy ""cartoonish"" animals frolicking in the jungle and is a scene that will delight children as the puzzle comes together.The 24 puzzle pieces are the on the large size, great for ages 3+, and they fit together very nicely.
+The completed puzzle is very large at 2' x 3', so building it on the floor is the best option for us.This is a great choice for younger puzzle builders!Highly Recommended!CFH"
+try this one too!not only for floors but jsut the right size for most table tops.kids love itI have tried it with two preschool classrooms and they love it and seek it out and want it more!great conversation starter about animals and the likeexcellent for visual discrimination of colors and shapes, ready for identification and labelling and comparingchallenges kids to develop physical and sensual skillsnice choice!
+"My son has a stack of floor puzzles almost as tall as him, and he is 42"" tall!
+Hence, you can consider this review an EXPERT review.
+However, until now, we had never tried a Ravensburger puzzle.
+The best we had found were those by Melissa & Doug.
+In fact, I have reviewed Melissa & Doug puzzles very highly on Amazon in the past, and I still believe they are great puzzles.
+However, like the first time you drive a luxury car, working that first Ravensburger puzzle is an eye-opening experience in premium quality.Since we have a large quantity of Melissa & Doug puzzles and I would consider them to be second best behind Ravensburger puzzles, I will compare and contrast them on several features:1.
+Brilliance of Colors: Ravensburger puzzles are more rich/brilliant than our Melissa & Doug puzzles.
+The Ravensburger puzzles are stunningly brilliant, I must say.2.
+Rigidity of Pieces: Hand down, the Ravensburger puzzle pieces are more rigid, which I believe will translate to a longer life in our household with 3 little ones abusing them regularly.3.
+Assembly Image:  This is a minor detail, but one worth noting.
+Melissa & Doug has all sorts of clutter on the front of the puzzle box, which obscures the puzzle image partially.
+How is a little guy supposed to know what the final image is going to look like if it is covered up with marketing messages on the front images?!?
+When assembling a Melissa & Doug puzzle, we always end up looking at a tiny little image of the full puzzle that is on the side of the box.
+Ravensburger obviously thought this through and decided to show the FULL IMAGE without any clutter covering it on the front of the box.
+NICE!4.
+Glossy vs. Matte: Melissa & Doug puzzles are glossy images, whereas the Ravensburger images are matte.
+"This Jungle Party Ravensburger Puzzle is a perfect floor puzzle for preschoolers.
+It's a super-sized puzzle that is a full 3 x 3 feet when assembled.
+Believe me, with pieces that measure approximately 9"" x 6 1/2"" inches they are perfect for little hands and easy to maneuver.
+There are 24 colorful, bright pieces that little ones are drawn to immediately as monkey, lion, giraffe, zebra, tiger, snake and parrot emerge from the jungle as they piece the puzzle together.This two-dimensional puzzle, designed for children ages 3+, has nice thick pieces that are easy to wipe down.
+I've always liked Ravensburger puzzles because whether you are buying the 500 pieceAfrican Splendorpuzzle for an older, more experienced child or one for a toddler, the name spells quality and satisfaction.
+These are a far cry from puzzles you might pick up in your local box store and, with care, will last through more than one youngster.If you're a family of puzzle fanatics, this beginning puzzle is sure to please.
+Ravensburger puzzle pieces always fit together well, the colors and patterns are bright and appealing, the pieces are thick, are high quality and affordable.
+This very appealing Jungle Party floor puzzle would be an excellent addition to your toddler's collection or a preschool or kindergarten classroom."
+My 20 month old loves helping me put the puzzle together and then we point out the animals and their sounds.
+The box is super sturdy as well as the puzzle pieces.
+I make it a point to go out of my way to collect the Ravensburger kids puzzles.
+They really hold up well and are worth it!
+This is an adorable jungle animal puzzle.
+My three year old daughter has thoroughly enjoyed playing with this puzzle.
+She has put it together over and over again.
+The pieces are durable and not too small for her.
+Ravensburger makes the best puzzles!
+"Puzzles teach a lot, and learning how to assemble the puzzle is an important early education goal that happens with toddlers.
+It's a big leap from seeing the picture and the pieces to assembling them on the floor, but getting there teaches a lot more than merely fitting pieces together.I tested it with my granddaughter, who is 2+ years old.
+She's bright, but this is her first puzzle.
+She was fascinated by the noise it made in the box, and by the pieces as they were spread out on the floor, but the whole concept of it being put together was something she wasn't quite ready for yet.
+For the next few months, we'll try it every few weeks to see when she's ready to actually attempt to assemble it.
+She'll also learn by example--with the adults doing the work initially!With that said about development and education (the toy is rated for over age 3), we can look at the puzzle itself.The pieces are giant sized, perfect for the first-time puzzle experience.
+They are also large enough that even grandparents can seek and find escaping puzzle pieces.
+(I'd estimate them at about 9"" long)The entire puzzle is made out of a good grade of thick, dense cardboard.
+It's very sturdy, with a well laminated picture.
+That doesn't mean its impossible to destroy, and leaving a toddler or preschooler unsupervised with a puzzle is sheer foolishness to begin with.
+Pieces would inevitably get lost, bent, broken, etc.It's a high quality puzzle, perfect for young puzzlers.
+It's easy to assemble, and easiest to work with on a tile floor instead of carpeting.
+(Pieces won't slide or move easily when on carpeting.)
+Overall, I'm very pleased with it, and we'll be able to use it for several years before it will be ""too young"" for her."
+I really like this as a floor puzzle!
+The pictures are crisp and the pieces are strong and durable.
+We had toddler feet walking all over the pieces on carpet and they did not bend or warp.
+We also had a juice spill on a couple of pieces and had no damage to the puzzle whatsoever.
+The pieces are well cut and fit together nicely.
+They are large enough for little hands to grab and manipulate easily.
+An excellent puzzle.
+Ravensburger just makes some great products and this is no exception.
+This puzzle is very well made and very durable.
+My kids loved putting together this floor puzzle.
+The puzzle has large pieces and ends up being 2 ft by 3 ft when completed.
+Would highly recommend this for young kids that are just starting out working on putting puzzles together as the pieces are large and easy to hold, east to see, and go together very well.
+This is the second Ravensburger floor puzzle I've owned and I think they are just great to assemble with my 4 year old granddaughter and her younger brother helping (or at least trying to help; he's only 2 1/2).Pros:- There aren't so many pieces that any are likely to get lost.- The pieces can easily be cleaned should this be necessary.- The puzzles can be assembled on a carpeted or uncarpeted floor, a tabletop or on top of a made bed.- They are easy to disassemble and store.- Convenient size for taking along on overnight trips by car (e.g., camping, cabin, hotel, visits with friends or relatives who have nothing kids can play with, etc.
+).- The images are bright, fun, attractive and appealing to kids.- A 24 piece puzzle this size is just right for younger children, as it is not too complicated without being overly simple either.- Just the right size and number of pieces for people with shorter attention spans (like me ;).Cons:- None whatsoever.Ravensburger is a German puzzle and game company founded in 1883 and known for making high quality games, jigsaw puzzles, children's books and crafts products.
+Ravensburg is a town in Southern Germany about 2 hours driving time from Munich and Zurich.
+According to Ravensurger, when you think of waltz you think of Vienna, when you think of fashion you think of Paris, and when you think of puzzles and games you think of Ravensburg.
+Ravensburger makes high quality products that I wouldn't hesitate to recommend.
+If your young kids are into puzzles, you can't go wrong with this one.
+The pieces are large and sturdy and the picture is colorful.
+The horizontal bands of color and patterns--grass on the bottom, sky in the middle, and trees on the top--make it very easy to figure out whereabouts the pieces go.
+My two preschoolers successfully assembled it on their own and enjoyed doing so; and I think they'll do it a few more times before they move on for good.
+"This is a great puzzle with a nice mix of exotic animals.
+The illustration is wonderful.
+The colors show beautifully through the non-glare finish upon rigid, clean cut pieces; the greens on both top and bottom in conjunction with a level horizon adds a little more challenge for the kids than does the layout of some puzzles which make each piece placement a little too obvious.
+""Jungle Party"" is one of Ravensburger's better children's puzzles."
+I ordered this for my grand daughter and she loves it.
+Nice colors and an all around 'good feel' to the pieces.
+The only thing I would change is I wish the pieces were thicker.
+With these bigger puzzles it's sometimes hard to get them to stay together when the pieces are only the thickness of a normal puzzle.
+Other than that it's super!
+As this puzzle is quite large at 2 X 3 feet.
+That said, this is a fun puzzle although I'm not so sure about the 36 month age designation.
+Maybe it was because my 3 year old grandson had never played with one before - but until he watched his 6 year old brother a few times - he didn't quite grasp the concept.Once he figured it out - they were both playing with it fine on the floor - until the 3 year old got frustrated that a piece wouldn't fit where he thought it should and ripped one of the locking tabs off.
+(No problem, fixed it with packing tape.
+)I think if they upped the age description to 4 years and maybe leave the outside interest at 6, this would be the type of product I would buy for my grandsons.
+The older one loves puzzles - but for the younger one, I don't think this is quite sturdy enough.
+They both liked the finished picture and the older one took it apart and reworked it several times during the course of their weekend stay.
+This is the first Ravensburger puzzle my family has owned, and overall I think it was a good first experience.My 6-year-old snatched it up right away and worked on it until it was finished.
+Then she broke it up and put it together again.
+(She really likes floor puzzles right now.)
+After that it was the 7-year-olds' turn, and he made quick work of it.The 2-year-old seemed more interested in stealing pieces than anything else.
+He did appreciate the colorful animal pictures.
+(The artwork is a very simple and warm style.
+It is nice.)
+My guess is that this puzzle more suits children in the 4 to 6 age range, but depending on the child's personality, younger children might be able to manage it as well.
+It certainly seems safe enough for younger children.The construction is sturdy.
+However, I checked the thickness of the pieces and they are about  the thickness of similar puzzles from Melissa and Doug.
+Not sure how that will affect long term durability.
+This puzzle seemed to stand up okay to the rough handling the 2-year-old gave it.
+Hasn't had the chew test yet, though.If I were to purchase another puzzle from Ravensburger, I would probably get one that was a little larger--3 x 2 is sort of small for a floor puzzle.
+A 3 x 4 would be a nicer size, I think.
+I am the mother of a 3 1/2 year old who loves puzzles and the Ravensburger are by far the best around.
+They are colorful, the pieces are easy to handle and best of all, they are really durable.
+I got this one for free from Vine, but I was so impressed by it that I actually went to my local toy store and bought some more.
+I intend to keep buying these as my daughter grows.
+(They come in different age groups.)
+Very impressed!
+The pieces are huge, very bright colors and well fitted cuts that fit together nicely.
+My niece enjoyed putting together and is all excited to put together with my grandson when he comes over.Gives the children something fun to do and feel like they accomplished something.
+We have several Ravensburger floor puzzles and they never fail to make for a happy play time.
+The pieces are nice and large so the little ones can do the puzzle.
+The pieces are sturdy, too.
+Once the puzzle is done, the kids have a sense of accomplishment because it is large (3x2) and looks impressive.
+The cute jungle creatures on the puzzle inspire all kinds of creative play.
+The pieces are huge and sturdy...it has been put together repeatedly (at least twice a day four days in a row so far)...stepped on, thrown around, and manhandled by a three year old boy who isn't known for delicacy.
+This puzzle is definitely durable.
+It is not too difficult...I think it is just easy enough and just hard enough to make this little guy want to do it over and over.
+He is good at puzzles, so I think it's at a good level for a 3 year old.
+It is a cute puzzle also...though my older children noticed that the animals wouldn't live in the same places (some are Asian animals some African).
+This is a great puzzle by Ravensburger for toddlers and special needs children.
+The pieces are huge making them easy to grab and find, as well as manipulate in their hands.
+The colorful puzzle is a jungle party theme, 24 pieces total.
+It measures 3x2 feet once put together.
+Puzzles are great for fine motor skills, association, task completion and independent play.
+The animals in the puzzle include a lion, monkey, giraffe, zebra, snake, parrot, and tiger.
+The pieces go together well and the puzzle pieces are sturdy.
+My 2 1/2 year old built it with her older brother who HATES puzzles because the pieces are small.
+He is special needs and does not have the skill to build it however with the size of the pieces together they were able to do this project and have fun.I'd like to note about the puzzle being very basic as another pointed out.
+Yes, it is simple and bold colors, less congestion especially for special needs or toddlers new to puzzles.
+Perhaps its more a beginner puzzle with its bold and basic characteristics however I am pleased with the product and had no issue with its durability even after my toddler jumped on the pieces and tossed them around.
+The quality of Ravensburger is immediately apparent with the Jungle Party puzzle.
+The box is thick, and the pieces are cut cleanly, allowing them to fit together with a satisfyingly crisp bond.
+There is also a nice texture and slick finish to make for easy cleaning.
+However, this is still a cardboard puzzle, and the pieces can bend pretty easily.
+Some minor bunching of the cardboard was present when I opened the box.The artwork is full of bright colors that children will enjoy.
+However, it is a bit heavy on gradients and is not as impressive or fun as it could have been.Overall, I think this is a fairly priced puzzle of high quality.
+The big pieces are fun to hold and there is no frustration from poorly cut pieces.
+Ravensburger produces quality products across their entire product line.
+They definitely lead ahead when compared to Melissa and Doug products, which are also a high quality producer and probably the closes competitor.
+Everything from the box to the puzzle pieces show a great build quality.
+The puzzle pieces are rigid and made of quality material.
+They are also coated to preserve the life of the pieces and have some kind of texture applied to the surface.
+Unlike Melissa and Doug puzzles, Ravensburger puzzles are matte and not glossy.
+AND, the puzzle pieces are washable!
+How many puzzles can lay claim to that?Usability was obviously engineered for little hands and minds.
+These puzzles teach basic problem solving logic and seem to thrill most kids I know, although they never thrilled me as a child.
+You will not be disappointed with this product and will probably be watching your children's children play with the same puzzle one day (we date our puzzles with a permanent marker on the back of the box).
+On a side note, we notice our daughter will almost always go for the Ravensburger puzzles over all others.
+We are not sure why, but we find it interesting nevertheless.
+The problem with most puzzles for small kids is that the pieces are too small and they get frustrated very quickly and wander off to do something else--then the pieces get lost and you've got yet another worthless partial puzzle to recyle.
+This puzzle is great because the pieces are huge and make it easy for the toddlers to feel like they've accomplished something fun.
+Also, given that the picture is full of different animals, it's easy for them to figure out where each piece should generally be placed for the finished puzzle.
+In short, they won't direct their admittedly limited attention span to chasing squirrels or their fellow siblings.
+"This item was tested by myself and my almost 5 year old grandson.
+He was able to put it together for the first time with only minimal help from ""grandma"" and after that he was able to put it together by himself.For children that are interested in puzzles, especially children that enjoy learning about Jungle Animals this is a really good puzzle.
+My grandson already knew what each animal is supposed to look like, so he found it quite easy to figure out where each piece should go.This puzzle covers six square feet when it is put together, so I suggest making sure that there is plenty of open space when your child is playing with this.Puzzles and children can be a really good mix, or a really bad one, depending on the interests and temprement of the child.My grandson really enjoys puzzles and the rest of the family likes that it is a quiet activity that he can safely do on his own, while we cook dinner, do laundry, or clean house."
+This is a well-made puzzle that lives up to the Ravensburger reputation.
+Wow, does it deliver!
+My kiddos love it, and even my three-year-old son can put it together on his own.
+The pieces are huge with plenty of detail on each piece to make it easy and fun to play with.I knocked off one star because another brand's floor puzzle came in a box that doubled as a carrying case, complete with a handle that made it easy for kids to carry, and this just came in a nice cardboard box.

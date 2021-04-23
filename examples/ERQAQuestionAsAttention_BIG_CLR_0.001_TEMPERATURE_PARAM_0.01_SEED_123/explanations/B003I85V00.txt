@@ -1,0 +1,198 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+And they are pretty big...1.
+She was very proud of making one tiny cake each for Dad, Mom, and herself, and she had a great time.
+There is no easy way to store the small pieces (the kit doesn't come with a storage box), so you will need to find our own storage method.
+"I really did want to like this kit.
+She is always begging my husband and I to cook with her.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.006309472024440765,0.002796657383441925,0.004560790490359068,0.006439046002924442,0.00508603360503912,0.003927781246602535,0.005321189761161804,0.0028176798950880766,0.0030918288975954056,0.003939883783459663,0.005081892479211092,0.006799138616770506,0.005071884486824274,0.006096516735851765,0.00796397216618061,0.008566981181502342,0.006711992435157299,0.0074709635227918625,0.004401972517371178,0.004324894864112139,0.00327413366176188,0.007093304768204689,0.0075868708081543446,0.008405914530158043,0.007493526674807072,0.00335002806968987,0.0040394156239926815,0.0048410361632704735,0.0064172400161623955,0.005758258514106274,0.007074746303260326,0.007895797491073608,0.007975811138749123,0.002353216987103224,0.006758935749530792,0.0065839956514537334,0.0026796564925462008,0.0072267428040504456,0.006595265120267868,0.007296325638890266,0.002497307490557432,0.007336019072681665,0.0051253982819616795,0.00730010075494647,0.0026242206804454327,0.006605574861168861,0.005625248420983553,0.0029804056975990534,0.0031205478589981794,0.0064879111014306545,0.005191952921450138,0.006245381664484739,0.007360877934843302,0.005476413760334253,0.005562474951148033,0.007593459915369749,0.007656075060367584,0.007242448162287474,0.005979814101010561,0.005153102800250053,0.0029223288875073195,0.007737234700471163,0.007470817770808935,0.00635714503005147,0.00482367817312479,0.0032021249644458294,0.008665289729833603,0.007888228632509708,0.008687878958880901,0.00374071323312819,0.005848593544214964,0.006306483410298824,0.00554190156981349,0.007581812329590321,0.007364270277321339,0.007557904347777367,0.003870819229632616,0.007472642231732607,0.006222493480890989,0.007591292727738619,0.0037773125804960728,0.004262160509824753,0.004578254651278257,0.004821151029318571,0.006311090663075447,0.005262759514153004,0.005360660143196583,0.00750809395685792,0.005673503503203392,0.0071613783948123455,0.004941089544445276,0.005701911170035601,0.004581179469823837,0.007228543981909752,0.004922728985548019,0.006933371536433697,0.007242572959512472,0.0034605839755386114,0.0028430954553186893,0.005677948705852032,0.0071915821172297,0.0063347904942929745,0.006184087600558996,0.004429416730999947,0.004991653375327587,0.005498695652931929,0.006099828984588385,0.003776666009798646,0.00620592525228858,0.0071622752584517,0.0072650667279958725,0.006651546340435743,0.004228488076478243,0.003232390619814396,0.007225689943879843,0.00527009554207325,0.004625111818313599,0.004953258670866489,0.0032939172815531492,0.002995797200128436,0.0034423673059791327,0.005160269793123007,0.004061571322381496,0.007956399582326412,0.002856348641216755,0.005748387426137924,0.00506791565567255,0.005660166498273611,0.007593865040689707,0.0032435827888548374,0.007059266325086355,0.006010875571519136,0.005685671232640743,0.008073548786342144,0.0033413919154554605,0.004397063981741667,0.004152427427470684,0.004207763355225325,0.0023501147516071796,0.004170788452029228,0.00769232539460063,0.005679024849087,0.00698485504835844,0.00815609097480774,0.005371080711483955,0.004804844968020916,0.007901370525360107,0.0023486425634473562,0.0028422654140740633,0.0027317104395478964,0.00722809974104166,0.00500003807246685,0.007233118638396263,0.005477788392454386,0.006137232296168804,0.003874759189784527,0.007069007959216833,0.005220323801040649,0.007976974360644817,0.006567155942320824,0.006181277334690094,0.007161246612668037,0.0041283536702394485,0.004533280618488789,0.0022635392379015684,0.0028688653837889433,0.00499969907104969,0.006533854175359011,0.00855266023427248,0.0032806762028485537,0.0038945365231484175,0.0036831467878073454,0.002807935466989875,0.0018334001069888473,0.004485891200602055,0.004552565049380064,0.0075234160758554935,0.0026334517169743776,0.003952960483729839,0.003899375209584832,0.0036677566822618246,0.006660762242972851
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+The best thing about this kit is the quality time you spend with your kid whilst whipping up batches of the worst tasting food you have ever put in your mouth.No one expects the end product to be a gourmet delight, but Great Lady Gaga, at least make it edible!
+Even my 6 year old daughter, ever the sweet tooth (and will eat ANYthing), said they were terrible.Not even going to rail on the cost of the replacement mixes because we won't be replacing (except with maybe actual recipes that result in something you could stomach)I will give them a nod for appealing external packaging/marketing.
+Looks good, but as others have mentioned, once you open the box (of horror), the reality of a poor product kicks in (including, I might add, no decent way to store all these pieces!
+That was REALLY a poor product design decision.
+)Steer clear of this gastronomical Armageddon and cook some real food with your kids.
+Not only will it be more fun for THEM (since they will be using REAL, grown up tools), but they won't be disillusioned and potentially scared away from cooking in the future based on the results of this product.
+A kid- pleasing toy, the Easy Bake Microwave and Style Deluxe Kit allows children to enjoy some creativity while also producing cakes and cookies, both in a matter of minutes.
+The kit comes complete with cutters, rolling pin, measuring spoons, and other necessities so that your child can create dessert treats, just like a grown- up.My girls love this kit and they were anxious to use it when it arrived at my front door.
+They enjoyed mixing up the cakes and creating special treats for their (and supposedly my) enjoyment.
+They had a good deal of fun watching and waiting as their treats emerged from the microwave, ready to consume.There is no doubt that the young ones in your home will love this kit and will rate it as one of their favorites.
+But from an adult perspective, there are some problems with this product.
+The greatest problem is the same one many others in this forum have stated, and that is the taste of the food.
+It is nasty, to say the least, and the mixes are loaded with artificial ingredients.
+Little ones don't seem to mind the taste so much, but adults will have a hard time keeping a straight face as they consume the cakes and tell their children what a great job they did.Are there other problems?
+Yes, among them the tiny pieces and cleaning them.
+There is no easy way to store the small pieces (the kit doesn't come with a storage box), so you will need to find our own storage method.
+We place ours in a large, plastic container for future use.
+The pieces take careful effort to clean, too.
+They need to be washed by hand (cannot place in dishwasher), but reaching into the small grooves takes, well, the small fingers of a child in order to reach.So, how to I rate the Easy Bake Microwave and Style Deluxe Kit?
+Well, it isn't anything like the Easy Bake products I remember my sisters using as a child and the included mixes create food that is barely edible.
+In spite of these cons, however, I have to give this product an average rating overall because it encourages fun and family togetherness.
+Regardless of what I think, my girls love it and will likely use it again.
+My 9 year old daughter loves to cook.
+She is always begging my husband and I to cook with her.
+After a long day at work we are not always in the mood to do anything.
+I saw that there is  microwave version of the Easy Bake and thought it might be the perfect solution for our family.
+At first I was confused - I wondered if it was an actual easy bake microwave, but it is not.
+It is actually the pans and everything you need to make it in your own microwave.I had an easy bake oven as a child and used it all the time, I figured my daughter might like a microwave version.She was very excited when she saw the package.
+I helped her open it and figure out how to make the cakes.
+She took control right away and wanted to make a cake all on her own.The fondant was a little difficult for her, and the end result of her cake creations did not look like the box, but she was thrilled!
+One downside is, is that she wants a lot more mixes.
+It could get expensive, but maybe some day it will pay off when she is a famous cake baker!
+!
+I tried out the Easy Bake Microwave mixes with my niece and two nephews to pass away an afternoon.
+They all had fun mixing the ingredients together and were anxiously awaiting when they could eat their food.
+While they had fun doing this, once it came to eating their food, it was pretty much disappointment all around.
+My niece made the pink cookies (she even made one for her teacher and principal) but didn't like the taste and ended up throwing them out.
+One of my nephews made the raspberry cake (which had an overwhelming raspberry smell) and didn't enjoy it.
+It had the look of foam and not cake.
+He did, however, enjoy the vanilla frosting that we made for it.
+And my other nephew made the chocolate chip cookies, which were not bad tasting at all.
+My other gripe about the food was it was hard to tell if the food was really ready or not because they looked a bit undone even after cooking them for an extra ten seconds.The tools that come with the set are handy but you have to handwash them and it's hard to get them really clean because they have a lot of small, hard to reach, nooks.
+I also didn't like that there aren't that many mixes in the box.
+So it won't be long before you run out of mixes to make.
+One thing I did like was the cooking it in a microwave instead of an Easy Bake Oven.So I personally would give this Easy Bake product a pass but I'm sure some kids would probably really enjoy it.
+"This product promises good fun for little girls (and boys for that matter), but there are some cons.
+First of all, the directions on the packaging do not tell you not to use hot water in the mixes.
+This is a mistake I made and the product started to cook before I could even get it into the microwave (and we are talking warm tap water here, not boiling water).
+Furthermore, each package only makes three cookies or cakes, so the picture on the front that suggests its aptness for a ""baking party"" is a little misleading.
+The finished product(s) tastes okay, but I wouldn't call it delicious by any stretch of the imagination.
+Furthermore, it is not as easy as it seems to get your finished goods looking as nice as they do on the package.
+It was fun for  the girls on some level, but I think the instructions could be a little more specific and the packaging art a little less misleading.All in all, it is worth the price if you have a couple of Betty Kayes at home :)"
+This item was fun and different, because of the fondant.
+It was easy to roll out and mold into different containers and different shapes.
+She really enjoyed trying to make items from the pictures in the instruction book.
+Overall this was very simple to use and for a 7 year old, she had a wonderful time!
+"I ordered this thinking it would be good fun for my kids and me.
+But when I got the cute little box, I noticed the ingredients of all the little mixes and things on the back.
+Artificial this, artificial that--the word ""artificial"" must appear 50 times.
+All the packets went in the trash.However, the hardware bits are good.
+There are cookie cutters, a rolling pin, measuring spoons.
+I will use those with my boys to make some goodies from homemade batters.
+So it's a good set for the little tools.
+They're just the right shape and size for little hands."
+"I'll say right off the bat that my 5 year old daughter loved the EASY BAKE MICROWAVE AND STYLE DELUXE DELIGHTS KIT.
+She loved mixing up the cakes, loading them into the ""cake pans,"" mixing and squishing the fondant with her hands, and pressing the fondant into the molds.
+She was very proud of making one tiny cake each for Dad, Mom, and herself, and she had a great time.
+That is definitely worth something in my book.Now for the BUTS.
+And they are pretty big...1.
+There is no way you can make the fancy detailed cakes and cookies on the package without using up all the mixes in the package.
+That means you would have to replace the mixes every time your little baker wanted to use the EASY BAKE MICROWAVE AND STYLE DELUXE DELIGHTS KIT.
+That makes this project a bit cost prohibitive.2.
+There are lots of little tiny pieces, all of which you need to make a single, tiny cake, and, of course, the EASY BAKE MICROWAVE AND STYLE DELUXE DELIGHTS KIT does not come with its own storage box.
+I always end up using Ziploc bags, but you can still easily lose one of the multitude of necessary, aforementioned, tiny pieces, which, of course, you cannot replace.3.
+Taste.
+YUCK.
+Admittedly, we have only make the raspberry flavored cakes with the hot pink fondant (the wee one is going through a MASSIVE pink phase), but they tasted dreadful (not that she knew), and are full of artificial ingredients.
+I really don't want to eat these, and I REALLY don't want my child to eat them (although she did declare her handy work delicious).
+I HOPE the chocolate will taste better, but I seriously doubt it will.4.
+MESSY.
+"Okay, so this review will be split into two points of view: mine and my 6-year-old daughter's.MY OPINION: This is a cute kit with a lot of parts.
+The cake mix comes in little packets that you mix with a small amount of water.
+Once the mix is made (and it smells horrible) you spoon it into the cake molds.
+They are much smaller than I thought but this is the first experience I've had with anything Easy Bake.
+I know, it's a sad statement on my childhood.
+The final cakes without fondant are no more than about 1 inches wide.Here comes the interesting part.
+You microwave the cake mix for 30 seconds.
+That's it.
+I can't imagine anything cooking like that in 30 seconds.
+So when it comes out, it is this semi-wet, spongy looking thing.
+I have to wonder what kind of food product (or chemicals) will mix and cook safely in 30 seconds.We then mixed the fondant which turned out to work well.
+We rolled it out, we pressed it into the molds and we used stamps on it to make designs.
+It helps to use a little confectioners sugar to keep the fondant from sticking to the tools and rolling pin.Our assembled cakes looked much more appetizing with the fondant than when they were just cakes.
+Assembly was fairly easy and because of the variety of tools, it was pretty easy to make something that looked good (good enough for a child).The final test was to try a bit.
+It was not tempting, even for someone like me with a sweet tooth.
+It tasted really odd and I had no desire to try another bite.MY DAUGHTER'S OPINION: ""I'm so excited!
+"What is that old saying ""Half the fun is getting there""?
+That is pretty much how to sum up the Easy Bake Microwave and Style Deluxe Delights.
+Most adults, by now, should be wary of anything that says ""Microwave"" next to ""Delights"" on the box.
+You simply cannot microwave a cake or cookie and expect it to be delectable.
+However, my 7 year old didn't care one bit.There were a lot of pieces which had my need for organization all aflutter.
+However, once laid out, it all made sense.
+The measuring spoons were all connected into a little flower shape and the rolling pin, with its interchangeable end caps made my daughter feel like a real baker.She loved mixing, measuring and pouring.
+She loved cooking the cakes and cookies and having them just come out, she didn't care if they were masterpieces or culinary delights.
+She had fun creating the fondant and rolling it and pressing it into the molds.
+What came out were wonky, imperfect treats that tasted a little like sweet sponges and iced cardboard.
+But she didn't care.
+Neither did her 4 year old little brother.It was a pain to wash, account for all the pieces and put them away.
+It was hard not to think of all of the chemicals we were ingesting in those tiny treats.
+It was impossible to calculate how much it would cost me the next time she wanted to create some goodies.
+But that was my problem, not hers.She loved it and honestly, that's all that mattered."
+My two daughters (4 and 7)  were over the moon when this showed up on our doorstep.
+Our easy bake oven was recalled years ago, and they had been pining for one ever since.
+I was excited to use the microwave rather than a bulky easy bake oven, because with 3 kids, I don't need anything else to store.Anyway, unlike with the oven, the cakes actually come out decent and my kids LOVE the entire experience.
+It is just that the directions are very clear that the fondant stains.
+And of course, the fondant is by far,  their favorite part.
+Despite the fact that I laid down three layers of wax paper, it was everywhere.
+I spent the whole time washing little hands, accessories and counters, and had a hard time enjoying the project.
+In all fairness, this kit is for 8 and up, and if my four year old wasn't involved, it would have been much less stressful.I would give it 5 stars if they came up with a way to make the icing washable.
+Until then, I've hidden this away and have developed a lengthy list of excuses every time the kids request another cake making session!
+"My daughter had the ""New"" Easy Bake oven a few years ago before it was recalled due to the extreme burn danger.
+As has always been the case with Easy Bake, you get small portions - given America's obesity epidemic, I see no problem with the small portions offered in these kits.
+The new updated microwave version is no different.
+The mixes make 3 items from each bag.
+The refills are exceptionally overpriced, but this provides great entertainment for small children at a sleepover.
+The girls made 3 items in the course of about 30 minutes, entirely on their own (9 years old).The taste left a LOT to be desired, but to them, it isn't about the taste, it's the fun times spent together making things.The kit does what it claims, and is entertaining.
+If you want a cake decorating kit, buy one of those.
+If you want large portions, go to the grocery store and make a mix with your kids and use aforementioned cake decorating kit."
+"My daughter loves to help out in the kitchen.
+We recently purchased the book ""Fairy Cooking"" for her and she loves making little desserts for our family so I knew that she would love the Easy Bake Microwave and Style Deluxe Delights.
+We have other children's ""cooking"" toys such as the Girl Gourmet sets, but I have to say the Easy Bake was much easier for her to do independently.
+My daughter is 5-years old so of course I had to help her with the microwave but she was able to measure out the ingredients and decorate the cakes by herself with minimal assistance from me.
+The microwaved cakes are as you would expect - kind of droopy and sticky looking.
+I didn't taste them but they did smell good.
+The fondant mixture was easy to mix up and the kit comes with molds so that you get a perfect smooth finish when applying the fondant to the cakes.
+My only complaint is that they don't give you a whole lot of fondant - you will have to purchase additional in order to make the pretty cakes and cookies as pictured on the box.
+Overall this is a pretty quality product and it definately exceeded my expectations."
+The cakes are easy bake, 30 seconds and done.
+The cookies and cakes are pretty as a button, at least on the pictures.All the bake tools are cute and pretty.
+This kit comes with all the ingredients, molds, microwave cover, rolling pin, and the only things not included are the bowls.
+Sounds fun?
+It is, until you start with all the preparations, reading of the instruction and finally cleaning of the mess.
+The cakes are much much smaller than the pics, they are the size of a bitesize chocolate.
+Getting the cakes out of the mold already was a disappointment, even with the greased mold, it is hard to take them out in perfect good shape - they crumbled.
+The decorations are easy to mold but hard to remove.In summary, all the work required is not worth in exchange for a little fun.
+"My 6 year old daughter loves to help me in the kitchen, and we regularly do some baking together.
+I will, however, admit that it's hard for me to let her do things herself, because I'm always worried that things will get really messed up.
+We had an easy bake oven and my daughter did have fun with it (and still continues to pull it out every once in awhile), but it's such a hassle to cook something for up to 15 minutes, and then to let it cool for another 10, only to get a little cake.The Easy Bake Microwave kit is different, because it allows your child to bake treats in the microwave.
+For those who say that you can't bake ""anything in 10 seconds in a microwave"", I disagree.
+I've purchased some of the Betty Crocker microwave treats and while they're definitely not gourmet, they're still pretty tasty.Mixing these kits is really simple, so my daughter was able to do it all on her own.
+And because it cooked so quickly, she was able to be fairly patient through the cool down time and had fun making the fondant with me.
+WARNING: it does stain, so make your little one very happy and take out an apron for her to wear while you're cooking!
+It also adds to the fun!How tasty were they?
+I didn't care for the cakes, but my daughter and son really liked them.
+The only problem I have with the kit is that you have to purchase more kits in order to bake more cakes.
+With the original Easy Bake Oven you could use regular cake mixes to make cakes, saving tons of money.
+I haven't yet found cheat options for this kit yet, but I'll definitely keep looking!"
+My 8 year old is in love with baking and cake decorating.
+I couldnt wait to have her try this out.
+She was not disappointed.
+It may be her favorite toy ever.
+I was less than thrilled with it (but I expected that).PROS:There's a good variety of cake/cookie/fondant mixes.
+There are a ton of tools included as well.Cakes and cookies cook in under 30 seconds.
+So unlike the easy bake oven, you can crank out several different types of goodies in a very short amount of time.There are plenty of decorating options.
+Using the tools and fondant, its like a giant edible play doh factory.
+Kids can spend a good amount of time decorating so it's a great rainy day project.CONS:Nothing is dishwasher safe and if you use the entire kit you'll be washing 20+ pieces by hand.Non-stick spray is recommended.Kids may get frustrated that their desserts don't look anything like those on the box.The taste (but the kids dont seem to mind it)OVERALL:My daughter keeps raving about it saying it gets two thumbs all the way up.
+If I was to rate it on her opinion it would get 5 stars.
+If I was to rate it on my experience I'd give it one star.
+"I really did want to like this kit.
+I thought this would make a sweet gift for my daughter's 9th birthday, since she loves to bake and frequently helps with cooking.
+She was very excited to receive the gift, and was immediately entranced by the pink, girly packaging.
+I was happy to find a way that would satisfy her interest in baking, eating, and crafts, and I was looking forwarded to seeing her create adorable concoctions.Not so much.Although my daughter can easily follow a cookie or cake recipe from a regular cookbook, the instructions in this kit were hard to follow and confusing.
+Instead of calling for regular measurable quantities, the instructions call for ""one flower"" or ""one spiral"" worth of ingredients, referring to the custom spoons included in the kit.
+So if you hoped your child would learn something about baking or kitchen math from this kit, you will be disappointed.Furthermore, although the kit purports to include everything needed, a spatula is required but not included.We followed the instructions precisely, twice, and both times the cake portion ended up as an amorphous blob in the baking chamber.
+We were so fed up with the whole experience we just gave up and decided to bake a real batch of cookies.Oh, and by the way,  I was appalled by the nutritional information on these concoctions.
+They are crammed full of fat and sugar.Since this kit is clearly marked as requiring adult participation, don't expect to just hand this to a girl and have her come back with a gorgeous little pastry.
+Someone will need to help.
+I found it torture to read complicated directions calling for a spiral of a mystery powder from a packet  instead of sensible directions calling for a teaspoon of  vanilla (for instance).If you want to give a thoughtful gift to encourage baking skills, I suggest a little creativity.
+Get a basket or a pie pan and fill it with the ingredients to make a batch of cookies.
+Maybe throw in a child-sized apron and some new measuring spoons.
+Put it in a gift bag with a bow, and ta-da!
+You have a cheaper and much more satisfying gift."

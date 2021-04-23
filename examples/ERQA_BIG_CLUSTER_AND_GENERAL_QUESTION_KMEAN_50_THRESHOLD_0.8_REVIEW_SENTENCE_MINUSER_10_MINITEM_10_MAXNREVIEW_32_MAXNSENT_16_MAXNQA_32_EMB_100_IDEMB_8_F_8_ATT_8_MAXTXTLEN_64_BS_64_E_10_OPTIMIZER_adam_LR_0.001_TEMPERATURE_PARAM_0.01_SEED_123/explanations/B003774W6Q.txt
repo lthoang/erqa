@@ -1,0 +1,100 @@
+Top question(s):
+Is it worth the money
+Is it worth the money
+Top sentence(s):
+Kids want to learn how things work, and this toy provides some teachable moments.
+The play weapon jammed several times, and the instructions show how to clear a jam should one occur.While the Nerf darts are completely spongy, this gun shoots them with some velocity.
+He'd been asking for one ever since the other kids in the neighborhood had the same kind and he had to sit out when they have Nerf wars.
+When I was a kid we all had the same single shot pump-powered nerf guns.
+Accuracy is not dead on, but who would not love to be able to fire over and over at a target again and again.
+
+Question attention weights:
+0.08526215702295303,0.13180696964263916,0.4028169512748718,0.2735329270362854,0.10658105462789536
+Sentence attention weights:
+0.008878187276422977,0.01289453823119402,0.018085144460201263,0.00964472908526659,0.012968354858458042,0.014162424020469189,0.012406602501869202,0.01435953937470913,0.013739267364144325,0.013706885278224945,0.014099868945777416,0.013028554618358612,0.016229093074798584,0.0046178302727639675,0.011505452916026115,0.01750032790005207,0.010131057351827621,0.018158089369535446,0.012235118076205254,0.013925021514296532,0.011548180133104324,0.015563776716589928,0.012627570889890194,0.013345735147595406,0.009829780086874962,0.010196740739047527,0.022583913058042526,0.008828836493194103,0.010895314626395702,0.024485157802700996,0.0197984017431736,0.00850379467010498,0.009661130607128143,0.018452242016792297,0.01541826594620943,0.013856317847967148,0.02383638545870781,0.013055861927568913,0.012625886127352715,0.01420933473855257,0.02025989256799221,0.015072807669639587,0.014598110690712929,0.014779256656765938,0.008900281973183155,0.008538339287042618,0.007642315234988928,0.009529951959848404,0.008437729440629482,0.010346267372369766,0.014509042724967003,0.006884562782943249,0.01029212586581707,0.013887380249798298,0.007729118224233389,0.015815328806638718,0.023845136165618896,0.013887380249798298,0.01519695669412613,0.008609130047261715,0.009389108046889305,0.015086891129612923,0.01717432774603367,0.012834913097321987,0.01159887108951807,0.016198020428419113,0.005568801425397396,0.013015142641961575,0.013056564144790173,0.013034428469836712,0.012239420786499977,0.014898843131959438,0.013467341661453247,0.016314687207341194,0.015762846916913986
+0.010796763934195042,0.012571497820317745,0.017469698563218117,0.01002814806997776,0.014159833081066608,0.013634178787469864,0.013417850248515606,0.013763736002147198,0.014287983998656273,0.01321778167039156,0.01350435335189104,0.012495703063905239,0.015359388664364815,0.005785393062978983,0.0120770875364542,0.016188424080610275,0.011219052597880363,0.017264055088162422,0.01243208721280098,0.014794345013797283,0.01120040938258171,0.014599150978028774,0.013051575981080532,0.013543433509767056,0.010320667177438736,0.011391852051019669,0.02029791660606861,0.010208943858742714,0.010950111784040928,0.02135692536830902,0.01785982958972454,0.009050041437149048,0.0109716160222888,0.01661813072860241,0.014924903400242329,0.013428254052996635,0.022070031613111496,0.015573508106172085,0.013401881791651249,0.013689089566469193,0.01807255484163761,0.014150782488286495,0.014113669283688068,0.014260445721447468,0.010879676789045334,0.009190220385789871,0.00935533456504345,0.010047241114079952,0.009219244122505188,0.011451387777924538,0.014724526554346085,0.00917714275419712,0.012008734047412872,0.013402755372226238,0.00906565971672535,0.015474926680326462,0.020969776436686516,0.013402755372226238,0.01463552750647068,0.009967680089175701,0.009697587229311466,0.014191179536283016,0.016379043459892273,0.012167621403932571,0.012052851729094982,0.01629231497645378,0.006920670159161091,0.013544926419854164,0.012769820168614388,0.012702650390565395,0.013273830525577068,0.014243114739656448,0.013092175126075745,0.015366549603641033,0.014759999699890614
+0.010852173902094364,0.013008469715714455,0.017448997125029564,0.009913455694913864,0.013848569244146347,0.014205606654286385,0.013590356335043907,0.014287943951785564,0.014363537542521954,0.01383192278444767,0.014018215239048004,0.012827718630433083,0.014333452098071575,0.005799595266580582,0.011143465526401997,0.016366560012102127,0.01120801456272602,0.016490748152136803,0.01261885091662407,0.014357774518430233,0.011156028136610985,0.015129325911402702,0.012234537862241268,0.01351823192089796,0.01039192732423544,0.011556349694728851,0.02045283652842045,0.010315215215086937,0.011131199076771736,0.02177131362259388,0.01754710264503956,0.009045549668371677,0.010866734199225903,0.016384460031986237,0.01560676097869873,0.01388818584382534,0.020348621532320976,0.013982276432216167,0.012955979444086552,0.01424136571586132,0.01849476620554924,0.01462036743760109,0.01463987771421671,0.014782152138650417,0.01039583794772625,0.00940829049795866,0.008874684572219849,0.010233345441520214,0.009266373701393604,0.011129642836749554,0.01448432169854641,0.008041774854063988,0.011314245872199535,0.013964242301881313,0.009375900030136108,0.014968257397413254,0.01938176155090332,0.013964242301881313,0.014619508758187294,0.009783739224076271,0.010003697127103806,0.014788872562348843,0.01653500832617283,0.013013281859457493,0.01107998751103878,0.01633559539914131,0.007021376397460699,0.013575675897300243,0.013246939517557621,0.0130696976557374,0.013223561458289623,0.014771532267332077,0.013660953380167484,0.01566128432750702,0.015229800716042519
+0.00949651189148426,0.013318361714482307,0.01747211627662182,0.010068917647004128,0.012910613790154457,0.014527887105941772,0.012793240137398243,0.014633024111390114,0.013604716397821903,0.014252889901399612,0.01436805259436369,0.013543423265218735,0.015137133188545704,0.005260818637907505,0.011021293699741364,0.01691623218357563,0.010647542774677277,0.016925755888223648,0.01246429793536663,0.013814572244882584,0.011994151398539543,0.015688838437199593,0.012119888328015804,0.013266580179333687,0.010103628970682621,0.01077414769679308,0.021556377410888672,0.00941711850464344,0.011224220506846905,0.02292879857122898,0.018598323687911034,0.008996279910206795,0.010064899921417236,0.017447642982006073,0.015750428661704063,0.014150146394968033,0.021591849625110626,0.012263611890375614,0.012454514391720295,0.0145493159070611,0.0194928590208292,0.01528117060661316,0.01491117849946022,0.015101372264325619,0.00892040878534317,0.009171542711555958,0.007951670326292515,0.010025478899478912,0.00886788871139288,0.010209867730736732,0.01415354572236538,0.006827191449701786,0.010162342339754105,0.014288756065070629,0.008659854531288147,0.01525791548192501,0.021411705762147903,0.014288756065070629,0.015140779316425323,0.008925682865083218,0.010006401687860489,0.01549172680824995,0.017026538029313087,0.01363591942936182,0.010991317220032215,0.016055822372436523,0.006375554483383894,0.012751311995089054,0.013457261025905609,0.013447212986648083,0.012431413866579533,0.015140572562813759,0.013906548731029034,0.016168711706995964,0.01594553329050541
+0.00901116244494915,0.013058281503617764,0.01722162961959839,0.010284997522830963,0.012676880694925785,0.014196961186826229,0.012252307496964931,0.014324096962809563,0.012990658171474934,0.013892192393541336,0.014036581851541996,0.013778100721538067,0.01653125323355198,0.005122153554111719,0.011800077743828297,0.016919957473874092,0.0104186050593853,0.01791170984506607,0.012275440618395805,0.014171399176120758,0.012369790114462376,0.015432067215442657,0.012665118090808392,0.013254273682832718,0.01008605770766735,0.010348644107580185,0.021601857617497444,0.008901271969079971,0.011285164393484592,0.022910133004188538,0.019338252022862434,0.009136327542364597,0.009641445241868496,0.01812293753027916,0.015172104351222515,0.01387876458466053,0.023228608071804047,0.012285861186683178,0.012637030333280563,0.014218189753592014,0.019588055089116096,0.015231244266033173,0.014574662782251835,0.014840684831142426,0.008643697015941143,0.00895239319652319,0.007923249155282974,0.00982922688126564,0.009030264802277088,0.01005597598850727,0.014292201027274132,0.0068632932379841805,0.00994548387825489,0.013950402848422527,0.00825504306703806,0.015900494530797005,0.02381914295256138,0.013950402848422527,0.015281436033546925,0.00865701399743557,0.010004797950387001,0.01531677320599556,0.01683254912495613,0.013291759416460991,0.01192598044872284,0.015924308449029922,0.006111560855060816,0.012377673760056496,0.013228301890194416,0.013225668109953403,0.012313983403146267,0.014858617447316647,0.013563566841185093,0.01619049906730652,0.01586122252047062
+Questions:
+Do I need to get batteries for it?
+Does the shield on the gun help
+Is it worth the money
+Is it worth the money
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+Nothing beats the thrill of going to battle with your kids when they have this nerf gun and trying to avoid the rapid firing of the nerf darts from the 18-round clip.
+My son loved this gun and plays with it all the time.
+The downside: buying more darts because we lose so many.
+These guns are safe, and bulky enough to provide kids with the equipment that enables them to live out all types of battlefield scenarios.
+Unfortunately, this gun does require a lot of batteries, and won't fire darts without them.
+But when its on, it is a lot of fun.
+"Overall, the Stampede ECS is a lot of fun, but probably not for everyone.According to the Amazon.com product page, the Stampede ECS is for Ages 6 and up but the box itself says it's for ages 8+.
+Once you see how big the box is, you kind of get a feeling that this toy is for the big boys.
+Before the Stampede arrived I saw the commercials for the blaster (at least I think it was for the same thing) on one of those cartoon channels my kid always watches.
+So, my kid was somewhat looking forward to it when I told him I was going to get the Stampede ECS.
+My kid was so excited when he saw the box arrive and kept on wanting to open and play with it, but it was just too big for him to carry around and play.
+So, if you have kids that are less than 8 years old and don't like to see them disappointed because they can't play with the Stampede, this may not be the right toy for you.Now, if you're a big boy (or big boy at heart), you are going to enjoy the Stampede ECS.
+For starters, you should be ready with 6 ""D"" batteries so you can enjoy this blaster the moment it arrives.
+You also need a pretty large open space to actually enjoy this because this fires the darts out a long way (I would like to say 25 feet maybe).
+I have used previous Nerf blasters but none that are automatic.
+So the ability to fire several darts one after the other is something that was quite entertaining, and I'm sure very useful when playing games against your friends.For the downside, this thing is quite huge.
+Depending on how big your kid is, I'm not sure an 8 or 9 year old would enjoy handling this beast.
+Aside from the size, it's also heavy especially with 6 D batteries.
+The batteries alone are heavy."
+This review is from: Nerf N-Strike Stampede ECS (Toy)Customer review from the Amazon Vine Program (What's this?
+)This is the first toy gun of any type my children experienced (under my supervision).
+It's for kids starting at 8 years old but fun for all ages and for boys and girls.
+I think this toy does not rank well for fun, educational value and durability.This toy gun is quite large and shoots durable Nerf cylinder-shaped darts.
+It comes with four ammunition clips, three that hold 18 rounds each and one that holds six rounds.
+The ammunition clips chamber just like the real thing.
+That's important because the realism makes it worthwhile to pick up all the spend darts in order to reload them.
+The play weapon jammed several times, and the instructions show how to clear a jam should one occur.While the Nerf darts are completely spongy, this gun shoots them with some velocity.
+That's because it's powered by 6 size D batteries (not included).
+It makes a cool set of sounds when the safety is off and it's fired.The parts of this toy gun are highly representational of the real thing, and that adds educational value.
+Kids want to learn how things work, and this toy provides some teachable moments.
+By closely supervising the kids, parents give lessons on safety.
+I personally do not see anything about this toy gun that would teach violence.I operate this toy without the removable shield.
+It would be different if one had more than one of these, in which case the shield would be practical for defense if participants were shooting each other.
+We have aimed at our large inflatable exercise ball, and the Nerf darts bounce off pretty far.
+So far, the toy hasn't been exciting.
+My son was so excited when this arrived.
+He'd been asking for one ever since the other kids in the neighborhood had the same kind and he had to sit out when they have Nerf wars.
+This is our first Nerf gun, so I'm not able to compare it to others, but I will say that he was impressed with this one.Pros:Son LOVED it.Comes with 60 darts (we used a permanent marker to mark his so they wouldn't get mixed up with the neighbor kids' darts)Gets the kids off the computer and outside to playBlast shield helps to ward off incoming fire from hitting your faceCons:SIX D-cell batteries!Heavy for a small kidOccasionally jamsBlast shield makes it harder to sight something
+This a great rapid fire machine gun type nerf toy.
+Makes my kids feel like they are in the Army.
+Accuracy is not dead on, but who would not love to be able to fire over and over at a target again and again.
+We love to shoot at monsters & aliens.
+Set up your own targets and have a ball.We love it.
+Makes a great birthday or Christmas present
+"The Nerf N- Strike Stampede is an awesome gun that most any child (or child like adult) will love.
+My 6 year old son has had a couple of Nerf guns but when he saw this he was absolutely in awe.
+The gun is extremely large and features a removable folding bipod and shield.
+The shield is somewhat cumbersome but the bipod is great and has a realistic action.
+The Stampede can shoot in semi-automatic  mode (one shot at a time) or you can hold the trigger for fully automatic mode which is able to empty an entire 18 round clip in a matter of seconds.
+We were able to shoot a ""dart""  clear across a room (about 20 feet) though the description says it can shoot 30 feet.
+The best thing is that the darts are completely harmless and unlikely to even break items within your house making this perfect for indoors and out.
+If your child is in the phase of playing with guns then he will certainly love this one... just be sure he or she can handle the weight.Positive Points:- Comes with three 18 round clips and one smaller 6 round clip so you have plenty of ammo- Extremely quick to fire in automatic mode - simply press and hold the trigger and you will unload a full clip in a few  seconds!- Nerf darts (ammo) are soft and safe even at point blank range so Moms need not worry.- Nice sound when fired which adds to the realism- Easy to reload- Has a safety lock so gun cannot be accidentally fired- Carrying handle is durable and makes it easy to carry the gun's hefty weightNegative Points Include:- HEAVY!
+It is difficult for my 6 year old son to carry around even though he loves playing with this.- Requires 6- D sized batteries which adds to the considerable weight- Plastic Shield is a nice thought but really is not useful during play- The folding bipod is great but seems to be less durable than the rest of the gun- Even with the bipod the gun will not stand on its own when placed on the ground"
+It doesn't get any better than this.
+3 Darts per second, fast reloading, long range, pretty good accuracy, and even a Bipod.
+I now dominate any nerf gun battle.
+When I was a kid we all had the same single shot pump-powered nerf guns.
+But now that there are so many options you might as well get the best, and this is it.
+You can easily run with it (a little big probably for kids younger than 5 or 6 to run easily with) and shoot with automatic ease from your hip.
+Or put up the shield, lower the bipod and get on your belly behind the bush and just wait for your unuspecting nephew to come around the corner and fill him full of nerf.Seriously, this gun is fun.
+I'm glad it comes with the 18 dart clips.
+Even those can run out quickly.
+Reloading is a snap.
+The problem then is going back and finding all your darts, putting them back in the clip.
+YOu will lose some darts quickly and will probably find yourself purchasing some more (Nerf Clip System Darts 36pk).
+They do get lost.Among all of the Nerf-N-Strike line that I have seen, this is in my opinion the gun that best combines the versatility and power.
+It has a long range, ease of use while engaged in short-range battles, and nice ground or perch set up for an ambush.
+Everything you want for your kid to play soldier, this durable toy combines safety and fine fun.
+It has enough heft to feel satisfying of that primal desire to play war.
+We purchased this gun for my 10 year old son.
+We were leery of it being too heavy for him to use between the weight of the gun and the added weight of the batteries and the gun size.
+However he has been very pleased with it and has used it a lot.
+The batteries lasted a lot longer than I thought they would.
+The gun comes with an amazing amount of bullets and the clips are easy to use.
+We are very pleased.

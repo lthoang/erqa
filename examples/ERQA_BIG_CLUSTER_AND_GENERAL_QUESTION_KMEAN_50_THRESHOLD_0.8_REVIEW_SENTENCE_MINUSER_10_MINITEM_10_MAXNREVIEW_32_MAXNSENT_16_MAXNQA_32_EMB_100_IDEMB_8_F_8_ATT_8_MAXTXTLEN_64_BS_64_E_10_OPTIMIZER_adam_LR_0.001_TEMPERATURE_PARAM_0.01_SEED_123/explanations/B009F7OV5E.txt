@@ -1,0 +1,125 @@
+Top question(s):
+What size princess dolls go in it?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+It was hard to maneuver the dolls inside without knocking over all the plastic furnishings.
+I do believe that two kids could probably play with this castle comfortably, but I think more than two kids may not be able to.Weight - The castle is made of plastic and cardboard, so it is lightweight enough that a child can move it without help.
+It is a good price point, but potentially flimsy for an average child's energy.
+I think she will enjoy it more as she gets a little older but I agree with the reviewers who say that it's too small for older kids (maybe over 4-5).
+But please keep in mind that going into this we only had one Disney princess doll this size and 4 Barbie dolls this size, all of their other toys are the smaller Polly Pocket sized Disney princess dolls.
+
+Question attention weights:
+0.0668230801820755,0.8611686825752258,0.07200821489095688
+Sentence attention weights:
+0.012004900723695755,0.010311389341950417,0.007977036759257317,0.009850273840129375,0.010593818500638008,0.0070066615007817745,0.00951441377401352,0.011341706849634647,0.013605148531496525,0.0059905764646828175,0.013979572802782059,0.0072682821191847324,0.009304826147854328,0.009184026159346104,0.009656607173383236,0.00940712820738554,0.011309756897389889,0.009175843559205532,0.008005796000361443,0.011331059969961643,0.008341669104993343,0.007192668039351702,0.009684707969427109,0.015655571594834328,0.005684182979166508,0.015603885054588318,0.010003960691392422,0.009298202581703663,0.010549161583185196,0.008654791861772537,0.008093055337667465,0.006705764215439558,0.00817291159182787,0.013188492506742477,0.00980526302009821,0.009382287971675396,0.005487839691340923,0.01055519375950098,0.010079593397676945,0.010360226966440678,0.010142926126718521,0.008965752087533474,0.011157123371958733,0.009417729452252388,0.013043041341006756,0.009919965639710426,0.008854717016220093,0.008430133573710918,0.00730659905821085,0.013453134335577488,0.005042823031544685,0.013122833333909512,0.00981771107763052,0.010796209797263145,0.009797504171729088,0.007495149504393339,0.008154177106916904,0.0085750138387084,0.01056385226547718,0.015498085878789425,0.012099412269890308,0.006692216731607914,0.011678658425807953,0.0101565420627594,0.008845099247992039,0.014807423576712608,0.011574968695640564,0.009597023017704487,0.00961825530976057,0.01437611784785986,0.006414004135876894,0.006892979610711336,0.00777770159766078,0.008655169978737831,0.008530658669769764,0.00882866233587265,0.008074079640209675,0.010278564877808094,0.006624429952353239,0.010384776629507542,0.009670809842646122,0.009924465790390968,0.00941974576562643,0.009304027073085308,0.005862430203706026,0.011602298356592655,0.009559459052979946,0.009004613384604454,0.0072708833031356335,0.011582846753299236,0.009389173239469528,0.009343041107058525,0.007227188441902399,0.010049373842775822,0.00844639353454113,0.008089520037174225,0.006523491814732552,0.006682284642010927,0.009881984442472458,0.012431686744093895,0.007564820349216461,0.01036513689905405,0.01003903429955244,0.009985766373574734
+0.012446267530322075,0.010498441755771637,0.008246404118835926,0.01104958076030016,0.010456183925271034,0.00745680695399642,0.009261861443519592,0.010948698967695236,0.01468433253467083,0.0068886177614331245,0.012030626647174358,0.007798285223543644,0.011017115786671638,0.00978742353618145,0.01117123942822218,0.00925422366708517,0.012210648506879807,0.009073653258383274,0.008903859183192253,0.011398875154554844,0.008867762982845306,0.0072939698584377766,0.010526019148528576,0.014139817096292973,0.006143057718873024,0.013349796645343304,0.010966045781970024,0.00949354562908411,0.011383352801203728,0.00738899689167738,0.007559051737189293,0.0060031176544725895,0.008283284492790699,0.01267361268401146,0.008711566217243671,0.010063005611300468,0.005780459381639957,0.00944516621530056,0.010301847010850906,0.011256263591349125,0.01056563388556242,0.008985696360468864,0.011430635116994381,0.01033827941864729,0.013677287846803665,0.010775366798043251,0.009073200635612011,0.008059396408498287,0.007466874085366726,0.011586002074182034,0.00508674792945385,0.010731557384133339,0.009703923016786575,0.010635554790496826,0.00952993519604206,0.006522438954561949,0.009092762134969234,0.009003049694001675,0.01093586627393961,0.012540378607809544,0.011788385920226574,0.0065936315804719925,0.010650637559592724,0.008636001497507095,0.008386447094380856,0.013285602442920208,0.010845733806490898,0.008586697280406952,0.010989552363753319,0.014677871949970722,0.006398370023816824,0.006951240822672844,0.006756999995559454,0.009394679218530655,0.008617833256721497,0.009815632365643978,0.007905435748398304,0.010887072421610355,0.006539138033986092,0.01009355392307043,0.010549836792051792,0.010404247790575027,0.009868373163044453,0.009736125357449055,0.006551082246005535,0.011473356746137142,0.01032546628266573,0.007729065604507923,0.007604273501783609,0.01140704657882452,0.010155420750379562,0.0102275051176548,0.007649906445294619,0.009454043582081795,0.009071223437786102,0.007467985153198242,0.006591011770069599,0.006945818196982145,0.010541758500039577,0.009981402195990086,0.007726915180683136,0.010214431211352348,0.009689418599009514,0.010880227200686932
+0.011983976699411869,0.010356411337852478,0.008010616526007652,0.009857799857854843,0.010650811716914177,0.006994875613600016,0.00952475517988205,0.01124709565192461,0.013630230911076069,0.00600914191454649,0.013945118524134159,0.00725955655798316,0.009293165989220142,0.00919686071574688,0.00963723286986351,0.009415371343493462,0.011329896748065948,0.009184039197862148,0.008006489835679531,0.011366081424057484,0.0083510996773839,0.007197163067758083,0.009710373356938362,0.015643535181879997,0.0056836530566215515,0.015473690815269947,0.010032269172370434,0.009315581060945988,0.01049953605979681,0.008635471574962139,0.008058597333729267,0.006661095190793276,0.008160054683685303,0.01318512111902237,0.009754013270139694,0.009412492625415325,0.005547299515455961,0.010528606362640858,0.01011635921895504,0.010373814962804317,0.0101630799472332,0.008969493210315704,0.011172933503985405,0.009445220232009888,0.013076803646981716,0.009954743087291718,0.008863060735166073,0.008462370373308659,0.007301486097276211,0.013294108211994171,0.005037523806095123,0.013147844932973385,0.009839369915425777,0.010780228301882744,0.0098499096930027,0.00747272465378046,0.008176802657544613,0.008605153299868107,0.010558606125414371,0.01547287032008171,0.0121333422139287,0.0066840760409832,0.011600368656218052,0.010117377154529095,0.008772078901529312,0.014741427265107632,0.011556162498891354,0.009648892097175121,0.009665263816714287,0.01434965617954731,0.006389537360519171,0.006871712394058704,0.007810661103576422,0.008675463497638702,0.008476248010993004,0.008828891441226006,0.008046308532357216,0.010320787318050861,0.006635137367993593,0.0103965038433671,0.00970559474080801,0.009948515333235264,0.009410964325070381,0.00932487566024065,0.005859764292836189,0.01160273514688015,0.009583601728081703,0.009014002978801727,0.007321683224290609,0.011572357267141342,0.009415780194103718,0.009371647611260414,0.007257022894918919,0.010030816309154034,0.008453535847365856,0.008069470524787903,0.006503860466182232,0.006667054258286953,0.009912033565342426,0.012392035685479641,0.007571900263428688,0.010372431948781013,0.010011463426053524,0.010023284703493118
+Questions:
+What size is it?
+What size princess dolls go in it?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+My five-year-old has a number of Disney princess dolls, and this seemed like a simple, fun play area for her to enjoy.
+Opening the box you can instantly see how flimsy and small this play set really is.
+Assembly is definitely required, and it took about 20-25 minutes to get everything in place.Essentially what you have here is a hunk of thin plastic with cardboard covering.
+It's a little surprising that Disney would put its name on such a budget dream castle.
+That said, there are a few creative Disney touches here and there.
+The plastic bed has a pattern that includes emblems from most of the Disney princesses.
+And each of the four zones in this tiny castle are separately theme to a different princess.
+Appropriately Cindarella has the kitchen, Ariel has the bathroom, and Sleeping Beauty the bedroom, while Belle gets the fireplace.My daughter liked this for a few minutes, but even at age 5, she quickly realized that this was a cheap hunk of plastic.
+It was hard to maneuver the dolls inside without knocking over all the plastic furnishings.
+And it was difficult to get more than two or three princesses comfortably into the castle at any time, despite the box showing fortified princesses occupying the castle at one time.
+If you're in the market for a Disney castle, I'm sure there are better but more expensive alternatives.
+Our 2.5 year old is very much enjoying her castle.
+The front of the castle has that the distinctive Disney look down to the pennants flying.
+It was surprisingly easy to assemble: around 15 minutes and no tools required.
+You snap things together and put cardboard into place.And that is the big downside.
+The details are mostly the cardboard although the plastic structure is cleverly done.
+There are a number of household items to encourage imaginative play.
+It is very easy to take the cardboard out and there are some small items like a pan and a pie.
+A nice detail is the stove flips up to show a baker's rack.Given the small items and the ability to take the cardboard out, you might want to consider the suggested age range of 3 and over.
+I think for the price point it is a decent value.
+However it is REALLY pink.
+Unless there is some strong affinity your child has for Disney I'd consider another castle.
+And you do get what you pay for.
+It is a good price point, but potentially flimsy for an average child's energy.
+Okay, I gave it a 4 stars because of course the girls loved it (they are 6), and they have continued to play with it, if it had been me alone I'd say 3 starts max.
+But please keep in mind that going into this we only had one Disney princess doll this size and 4 Barbie dolls this size, all of their other toys are the smaller Polly Pocket sized Disney princess dolls.
+This has what they call four areas of play, but really it is one room on top and one room on the bottom.
+It also comes with very little furniture.It was kind of a drag to put together, the cardboard parts are supposed to snap into tabs to hold them on but they would slide out and not stay when I was trying get it under all of them.We have theDisney Princess Royal Castleand it is WAY better, the girls have consistently played with it.
+It came with TONS of furniture, a doll, and has many more rooms to play in as well as it opens and closes and feels solid and came more assembled.
+I guess if I were to recommend a castle toy this would be the one I'd say to get, it is also cheaper to get dolls to go with this castle, any Target checkout line for $3.99.Anyway, so 4 stars because the girls liked it a lot, but not a first choice, really more of a 3 start toy in my book, too mush cardboard and doesn't feel solid and a drag to assemble.
+"The Disney Princess Castle is a good intermediate toy for your children who are growing out of Little People, but not quite old enough for Barbies yet, the preschool and kindergarten age group.
+If your child enjoys Disney Junior and Sophia the First, they would probably have a lot of enjoyment out of this toy.This castle comes with a a sink, shower, kitchen chair, living room chair, bed, chandelier, pie, cooking pan, and pillow.While the artwork is typically Disney, great colors and styling, I was not happy with the choice of materials.
+Instead of walls, there is a plastic frame that you pop cardboard facing pieces into.
+So the floors are cardboard with printed designs, and the front and back walls are also cardboard facings.
+As such, I suspect this toy will not be very durable, maybe a few months before pieces start to go missing, or the cardboard gets wet (from kids putting water in the sink).The castle is large enough to fit Barbie-sized dolls, and there are more durable furniture sets available separately that coordinate with this castle set.
+My daughters have already asked for the extra furniture sets, as they are advertised on the side of the box.
+The size of the castle, though, makes it a good fit for multiple children.
+Your younger children will enjoy using it with their Disney Princess dolls, and your older ones can come over and ""visit"" with their Barbie dolls.
+I enjoyed that aspect of the toy."
+This is the perfect size for my daughter, who is 32 inches tall and almost 2.
+She doesn't have any Barbie dolls as I don't think she would enjoy those quite yet.
+She just uses it will all of her small plush dolls or other little random toys and that's fine with her.
+She seems to be drawn to it due to the fact that it's just about the pinkest toy she has (go figure).
+Of course, I removed all of the little items for future use.
+I think she will enjoy it more as she gets a little older but I agree with the reviewers who say that it's too small for older kids (maybe over 4-5).
+For now it works and while it's not the favorite toy in the play room, it gets plenty of attention and use.
+I took off 1 star for the unwarranted $40 price tag.
+"My girls find no-fault in ANYTHING Disney Princess-related.
+However, the endless pumping from the Disney Princess cash cow has me frequently rolling my eyes.
+While a Snow White, Aurora or Disney logo sticker adorning any piece of plastic is a surefire way to excite little girls, it does not necessarily ensure quality ... and this is the issue I have with the DISNEY ROYAL CASTLE.WHAT IT IS:A two-story pink/purple plastic ""castle"" aimed at accommodating Disney Princess dolls ... assembly is required.
+The rooms in the castle included a bedroom, den, kitchen and bathroom ... spires and flags give it the Disney Princess appeal.
+In addition to the castle, the box includes s steps for a spiral staircase and some furniture (stove, shower, chair and an oddly long bed).
+An ornate front door, some gold columns/railings and a chandelier provide some additional royal flair.
+No dolls are included.PROBLEMS I HAD:- The plastic structure is flimsy which causes it to wobble when being used.- The floors and walls are simply thin cardboard inserts.
+The cardboard is susceptible to warping, if it isn't already warped by sitting in the box.
+Clear tape may be needed to ensure the cardboard stays in place.- Care and patience is required when assembling the castle in order to avoid damaging the plastic or tearing the walls/floors.- The castle is narrow and somewhat small.WHY THE PROBLEMS MAY NOT MATTER:- It's a Disney Princess Product ...- Movable parts:  Opening front door, adjustable shower and convertible stove/table are fun to play with.- Kids are creative enough to make do with a cardboard box ... the DISNEY ROYAL CASTLE projects enough pageantry for them to overlook the flimsy factor.I personally think the DISNEY ROYAL CASTLE is lacking quality, but I can't complain too much as my daughters have been immersed in playing with it from day one.
+In other words, my ""high-brow"" expectations/demands were summarily trumped by my daughters' happiness."
+The first thing I noticed with this castle is that is quite flimsy.
+My 12 year old put this toy together for my 7 year old.
+If my younger daughter is not careful she can easily pull it apart, although it does go back together again fairly easily.While this was made for Disney Princess dolls, they are the same size as Barbie dolls so this castle can work for Barbies as well.The castle is cramped but that does not bother my youngest - she puts 6 or 7 Barbies in the castle and has a heck of a time.
+This castle is made from a variety of stamped/extruded plastic pieces and some very thin cardboard with characters and decorations printed on both sides.
+There are two floors and three wall sections made from the thin cardboard, and they are barely held to the castle along the edges by plastic nubs that extend about 1mm over the cardboard.
+As you can imagine, this retention system means that the cardboard keeps popping off when exposed to toddler levels of gentleness.
+Also, the castle is quite a bit taller and wider than it is deep, so it tends to tip over very easily.My daughter (22 months) is certainly drawn to the bright pink castle with all of its Disney themed illustrations, and surprisingly enjoys playing with it according to the directions (by which I mean, the directions indicate that playtime consists of taking the flags off the castle, and replacing them, which seemed to me an anemic sort of fun when I read the directions, but is exactly what she enjoys doing).
+But she gets frustrated and upset when she accidentally puts her hand through the side of the castle, dislodging the cardboard and trapping her wrist between the cardboard walls and the unfinished seams of the stamped plastic pieces.
+They're not sharp enough to do any harm, but the sensation of being handcuffed to a castle is apparently unpleasant for a toddler.
+"There are things I like and things I dislike about this castle, and what I consider to be some of the ""pros"" of this toy could also be considered ""cons.
+""Size - This castle is somewhat small, so it doesn't take up a lot of room.
+Great for those with small play area, not so great if you have multiple children who might want to all play at the same time.
+I do believe that two kids could probably play with this castle comfortably, but I think more than two kids may not be able to.Weight - The castle is made of plastic and cardboard, so it is lightweight enough that a child can move it without help.
+The downside is that the castle is light enough that a child can move it.
+It also seems to be on the flimsy side.Color/Decoration - The castle is bright purple and pink, there are lots of details in the artwork.
+There are little flags and a chandelier that can be removed by a toddler, so you may want to glue those in place.
+The scroll work on the door is especially nice.Furniture - There are a few pieces of furniture included with the house.
+Some reviewers have expressed a desire for more furniture, but this castle is really too small to accommodate more furniture.Overall, my impression of this castle is that it is a nice ""starter"" castle for a younger girl - but not too young.
+One of my daughters just turned two, and she is still to ""little"" to play with and enjoy this castle.
+For younger/toddler girls, I would suggestFisher-Price Little People Disney Princess Songs PalaceThe Fisher Price castle has ""little people princesses"" that are more suited to toddlers.
+This castle would be great for 4-5 year olds who are old enough to play with the larger, ""Barbie"" sized dolls."
+This is an absolutely lovely little castle dollhouse that was pretty nightmarish to put together.
+I was excited when I saw that I didn't need any tools to put it together, but soon wished that set up was as simple as a few screws and a screwdriver.Basically, you pop the pieces together.
+Sounds simple until you actually try it.
+There are floor and wall pieces made of cardstock that need to be set into little grooves.
+These took me forever as they kept popping out of the grooves and I was trying so hard not to bend the cardstock.
+You then need to fit the walls and floors together.
+I had no problem with the bottom floor and wall, but when it came to the second floor, it was like trying to fit a square peg into a round hole.
+With a lot of under-my-breath cursing, I finally got it.The instructions are those wordless instructions that supposedly are good for folks who speak any language.
+Give me words!
+Trying to decipher the small diagrams and figure out what direction certain pieces go in was driving me crazy.Finally, the chandelier appears to be missing the hook.
+It looks like I got two of the same pieces instead of the piece that hooks into the other.
+My daughter's castle is still chandelier-less and shall remain so.In spite of my cursing and frustration, once it was set up, it was a dream.
+It's extremely cute and very sturdy.
+It looks like it can stand up to a lot of play.
+Keep in mind that there's nothing electronic about it - this is strictly imagination-based, but I would have loved it as a kid and my daughter loves it now.I would give it a two star for set up, but a five star for the product, so an average of three.
+I was so excited to get this so that I could play with my niece and when my little one gets older, this castle is a pain to put together for a busy mom.
+I feel like only 1 princess should be in this castle as 2 just seems to crowded.
+This also however is nothing fancy, it's just a front and back with a room & roof, not much Barbie exercising in this castle or moving around much for that matter.
+I think a 2 or 3 year old would love this more than my almost 8 yr old niece as she has a much bigger castle than this.
+"From the box you may be expecting a larger and more complete castle.
+But this is more of a faade, with only a couple of ""rooms"".
+However, what there is here is well done, and with the usual Disney eye to detail and quality.Cute touches include the shower, a little kitchen area (with a stove that doubles as a baking rack), bed, sink, etc.This is sorta the ""starter"" size of Disney Princess castles, and it is a good bargain at this price.
+But Disney does make some much nicer and more elaborate Castles for their Princesses, including some at over triple the price.Thus, you get what you pay for.
+This is the $50 (discounted here, of course) Disney Princess  Castle, you also can get a $150 and a $100 and I am sure others).
+For the money, it's a great castle.
+For your Princess, you may want to go bigger, of course!"

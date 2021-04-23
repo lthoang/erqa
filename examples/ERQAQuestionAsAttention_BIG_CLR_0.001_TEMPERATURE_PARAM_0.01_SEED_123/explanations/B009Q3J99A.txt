@@ -1,0 +1,215 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+It is geared towards the younger crowd because of the addition of the whimsy pieces.
+The picture is in sharp focus.
+This puzzle was easier than some that I have been doing lately and this made it enjoyable.
+This one totally has won me over!
+It's a super cute puzzle!
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.005252333823591471,0.005687166936695576,0.0058969855308532715,0.005919422954320908,0.002402953337877989,0.0020070660393685102,0.0057811192236840725,0.003750145435333252,0.005836082622408867,0.006405393127351999,0.007649565581232309,0.0025564669631421566,0.0058721206150949,0.00604009535163641,0.005857347510755062,0.0027197946328669786,0.004227516241371632,0.0025507607497274876,0.004866389557719231,0.002905372530221939,0.0056186215952038765,0.00663598021492362,0.006283690221607685,0.006131052505224943,0.0035095959901809692,0.006377578247338533,0.005303404293954372,0.006050013471394777,0.004686935339123011,0.006323783192783594,0.005559651646763086,0.004703727085143328,0.006161655765026808,0.004273458383977413,0.0037515948060899973,0.004381862934678793,0.0040541356429457664,0.005803471431136131,0.0044684987515211105,0.00511845713481307,0.004420669749379158,0.006225527264177799,0.0062286159954965115,0.0047422959469258785,0.003849914763122797,0.007333582732826471,0.0049516004510223866,0.006123747210949659,0.0037991045974195004,0.00460808165371418,0.0053213597275316715,0.005168844945728779,0.006110257003456354,0.0028459406457841396,0.005508997943252325,0.004375194199383259,0.0027264051605015993,0.0065499600023031235,0.003609956009313464,0.005685863085091114,0.004844228271394968,0.0065821013413369656,0.0027512679807841778,0.005468686576932669,0.0028683370910584927,0.005841023754328489,0.005273990798741579,0.005184192210435867,0.00571075826883316,0.004968774970620871,0.005549477878957987,0.0033903983421623707,0.003476024605333805,0.003143620677292347,0.004277084954082966,0.005631971638649702,0.00189593352843076,0.006082945968955755,0.003149868920445442,0.007007450331002474,0.0038507936988025904,0.004424510058015585,0.004632970783859491,0.005725608207285404,0.005686310585588217,0.004617869853973389,0.005232495255768299,0.0060796127654612064,0.006431032437831163,0.004536314867436886,0.005981122609227896,0.006610490381717682,0.004343971610069275,0.004846715833991766,0.006540171802043915,0.006182274781167507,0.005966851953417063,0.005795118398964405,0.0059397281147539616,0.003180990694090724,0.006087305955588818,0.0030015825759619474,0.0036857821978628635,0.004525186959654093,0.005343037191778421,0.0032703883480280638,0.00539054861292243,0.0024317693896591663,0.00432974100112915,0.0019097154727205634,0.006016516592353582,0.0040950109250843525,0.0038719845470041037,0.0037150916177779436,0.006090074777603149,0.0057810647413134575,0.005936190020292997,0.0019717023242264986,0.004625531379133463,0.005069597624242306,0.0027357779908925295,0.0050629726611077785,0.0062193721532821655,0.005979658104479313,0.004008391406387091,0.005427805706858635,0.005178872961550951,0.006041448097676039,0.0019081492209807038,0.005929083563387394,0.00437882961705327,0.005777668673545122,0.00349452649243176,0.005604245699942112,0.00567541504278779,0.005334692541509867,0.005609620362520218,0.0021903703454881907,0.005995817948132753,0.00479671498760581,0.005761695094406605,0.003504741471260786,0.005843106657266617,0.006139284931123257,0.0023067311849445105,0.0024903398007154465,0.0061162300407886505,0.0064172581769526005,0.0064172581769526005,0.0064172581769526005,0.006939520128071308,0.006581790745258331,0.003565368941053748,0.005186397582292557,0.006564955692738295,0.0057695237919688225,0.005911753512918949,0.00544567359611392,0.006551626604050398,0.004923849366605282,0.004713557660579681,0.005373793188482523,0.002406821586191654,0.0056696441024541855,0.005186427850276232,0.004061684478074312,0.004688411485403776,0.006135397590696812,0.006054877769201994,0.006045364309102297,0.003874054877087474,0.006120697595179081,0.00593145564198494,0.003164158435538411,0.006930165458470583,0.006141823250800371,0.004377007484436035,0.006033732555806637,0.005983666516840458,0.005168500822037458,0.006846038158982992,0.004769022110849619,0.007284086663275957,0.004504648502916098,0.005892193876206875,0.005404376890510321,0.005868898704648018,0.0048739174380898476,0.004339735023677349,0.006255125626921654,0.003202896798029542,0.005724586546421051,0.006002011243253946,0.005801438353955746,0.006590287201106548,0.004445245955139399,0.004714370239526033,0.005277671385556459,0.005520323757082224
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+I had so much fun putting this puzzle together.
+The 30 'shaped' pieces tickled me and made the puzzle super fun!
+After I put it together, I took it in to work and the ladies there had just as much fun.
+They acted like little kids fighting over who got to put in the 'boot'.
+Overall, this puzzle is a blast!
+"I think this puzzle provided a near perfect mixture of solid colors that presented a construction challenge alongside more easily joined pieces.
+The whimsy pieces also added a fun touch to the ""putting together"" process.
+We also loved the completed image when done.The quality of the finished puzzle and the colors were lovely.
+If you had the space, it would be a wall-mounter for sure."
+This is a nice puzzle.
+It is geared towards the younger crowd because of the addition of the whimsy pieces.
+Thirty special pieces have been added, each one of a different fun thing --a guitar, the eiffel tower, etc...
+This makes the puzzle MUCH more enjoyable for young ones.Additionally, no two pieces are alike.
+This is nice.
+I don't know how often I've been annoyed with puzzles with a LOT of pieces that are showing the sky, or some other large item with just one color for a large part of it, and too many puzzle pieces in that area of the puzzle look exactly the same.Well, you are NOT going to get that with this puzzle.
+It is much less repetitive.There is one tiny down side, however, because of all the whimsy pieces, and the other pieces which are really funkily shaped, and which don't really grip the pieces to the sides of it well -this is that the puzzle doesn't move easily.
+The pieces are much more likely to fall out when moved.
+This is not a puzzle that you can make and expect to pick right up.I didn't lower my rating on this puzzle because that flaw is really something I would care about for larger, more complicated puzzles, that I'd need (or want) to move.
+This one, since it is so small, and can be completed relatively easily, is not something I'd really need to move or display as a trophy.Recommended.
+I remember years ago, working a puzzle that contained some recognizable shapes, and oh how much fun that was.
+It was like a nice little surprise.
+That's one of the things we enjoyed about this puzzle.
+My 15 year old daughter and I worked this puzzle together and had a fun time.
+Three hundred pieces is challenging, yet, not too much work.
+In my mind, that makes it perfect for a relaxing time.I love the fun picture ( we are cat lovers) and so this was the perfect picture puzzle for us.The pieces are sturdy and each lay solid and flat on the table--unlike some cheaper puzzles that tend to warp and bend a bit.Have fun!
+This is a great puzzle.
+I got several of these puzzle for my grandparents, just for the whimsical pieces (odd shapes such as animals, symbols, etc).
+Unfortunately this puzzle was much easier than I expected.
+I wasn't paying attention to the size - 300 piece.
+But even with that in mind, this was a very entertaining puzzle, more so than the standard 300 piece puzzles.
+Plus, this allowed other younger people in the family to get more involved.
+Over all this is fun for someone that wants a slightly different puzzle but also something slightly harder than a standard 300 piece.
+Also for those cat lovers out there, it's a good choice as well.
+Maybe not for the puzzle pro though, at such a low piece count - probably designed for novice / young puzzle enthusiasts.
+This puzzle was the perfect one to start and finish on a recent rainy weekend.
+The quality of the pieces were as good as some more well known puzzle brands and I expect this puzzle to hold up well even after repeated use.
+I really liked the cat scene and the details within.
+Overall I am happy to add this one to our game closet.
+"I am new to Pastime Puzzles.
+Last week I put together a Penguin puzzle from this same company.
+That was my first time to ever do a puzzle with all unique pieces.
+It had 500 pieces bur it took me longer than I thought it would.
+Now I have the hang of it, this one went together very fast.
+This is like learning a new language in puzzles.
+I started with the frame first but instead of sorting by color and then by similar shapes, I went from top to the bottom of this picture.The pieces give you a satisfying ""snap"" when they go into place.
+The picture is in sharp focus.
+The colors are perky that the picture won my heart.
+There is even a kitten looking eight at you in the picture!
+They know that they are getting into some mischief when they surround the goldfish bowl.I heartedly recommend this 300 puzzle for people new to this style of whimsy pieces and then go on to those with more pieces."
+"Gorgeous , clear subject matter and details.
+This painting by Lane Kendrick is adorable - three kittens playing with a fishbowl.
+This puzzle is recommended for 8 years and up.
+A 7 year old could probably manage it as well.
+It has 300 pieces that measure about 1 3/4 x 1 1/4 inches.
+There are also ""whimsy"" pieces like stars,  boots, starfish, and ducks.
+The finished puzzle measures 18"" x 24"".
+There's a brief history on the side of the box about Parker Brothers puzzles.
+They are said to have been favorites of kings, presidents and celebrities.
+As an added bonus, there's a code inside the box top to win a free puzzle on their website.
+You can't beat that with a stick!"
+"I've never worked on a Pastime puzzle before, nor one with what are called ""whimsy"" pieces.
+Most of the whimsys are easily recognizable and when I discovered a place for them in the puzzle it was a great deal of fun.
+One or two pieces would divulge just where that wrench, snowman, duck, star, helicopter, key, truck, lamp, seahorse, car, or many other pieces were to go.The challenge factor will depend on the age and experience of the puzzler.
+It's difficult to say just how challenging it will be for each individual, but one thing I can say for certain was that the fun factor is high.
+""The Stand Off,"" a whimsically designed, animated, and colorful portrait of cats overseeing the fishbowl by Lane Kendrick was a wonderful design.The pieces of the puzzle are larger than most, somewhere in between those of a child's floor puzzle and the ""regular"" ones.
+All the pieces are different shapes and sizes, making this puzzle more interesting.
+They are solid, cut well, and the print doesn't pull away when a piece is placed.
+This puzzle can be worked on by several age groups, including children.
+The next builder of ""The Stand Off"" will be a ninety-year-old I share my puzzles with.
+I think she'll love this one!PASTIME PUZZLES (300-piece puzzles):Holly HillBalloons, BalloonsIsland in BloomGiant PandaCliff DwellersAfrican ElephantThe Stand OffSwan BoatsFamily TiesLone Wolf"
+I put together this puzzle with my nearly 3 year old son (puzzle genius) & my 5 year old daughter.
+My son likes to work in the inner pieces and my daughter the outer edges.
+The artwork on the puzzle is gorgeous and brought back memories of three kittens I had growing up.
+I just might have to use puzzle glue on this one and add it to the wall for keeps.The puzzle pieces are extremely durable and have stayed very solid even when being handled continually by young children.
+Absolutely no peeling and no rough edges.
+What makes this puzzle pretty unique is that it comes with 30 Whimsy pieces.
+The Whimsy pieces ( star, Eiffel tower, lamp, boot, key, and more!)
+were such fun to look at and my children were very thrilled to point out and find each one.
+We made a game out of who could use up all the Whimsy pieces first when putting the puzzle together.I'm always keeping an eye out for reasonably priced high quality puzzles that will be used over and over.
+This one totally has won me over!
+I'll definitely be adding more from Pastime Puzzles to the kids Christmas gifts this year!
+I always start a puzzle (and am trying to teach this to my 6 year old) by separating the edge pieces from the middles.
+With this puzzle we got the fun of separating out the whimsical shaped pieces as well.
+The pieces are such interesting and unique shapes that the kids were constantly throwing odd pieces into our whimsy pile, it was so much fun asking them what they thought the shapes were.
+I did find it a bit frustrating that many pieces that did not turn out to be edges had flat sides.
+However I figured out a trick, when I find a piece that looks like it might not be an edge I stand the piece up on it's flat looking side and try to rock it back and forth.
+If it's not an edge it will rock a little.
+The pieces are so nicely cut it really is easy to know right away if two pieces fit or not.
+This is a good quality puzzle and the whimsy pieces make it even more fun.
+She just finished her penguin puzzle and wanted to start this one immediately.
+This one is only 300 pieces so she will be done in no time.
+She loves the cat design-she is always bugging me to get a cat-we have 2 dogs and the answer is no!
+LOLThe pieces are sold and firm-not cheap.Nice puzzle.
+My family likes putting puzzles together and really enjoyed this one.
+My kids loved finding the whimsy pieces that are shaped like different things.
+They had so much fun finding them and were even finding shapes in other pieces that you could tell were not the whimsy pieces.
+The puzzle pieces are very high quality.
+Would really recommend this puzzle as it was great to put together and was not to hard for our family.
+The picture of the cats was not too hard due to the many different colors on this one.
+"I requested ""The Standoff"" from the Amazon Vine Program because I enjoy assembling puzzles, even though it has been years since I have done this.
+It made me miss the fun I had working on them with my mom when I was a child.
+I also requested this puzzle because my girlfriend, Tammy, owns three cute, precocious cats.
+One of them, Riley, looks just like the one sitting in the puzzle's lower, right-hand corner.Tammy and I began assembling the puzzle on Saturday evening.
+We spent nearly an hour and fifteen minutes working on it before we quit to watch a movie.
+We nearly had one-third of it completed.
+""The Standoff"" has 300 pieces that are of good size to hold in your hand and to find in case one falls onto the floor.
+They are also thick and durable, manufactured from good quality material.
+The puzzle box was securely wrapped in plastic to prevent water damage in case the mailman had left the package in the rain.
+For added protection, the pieces were enclosed in a plastic, transparent bag that I cut open and kept for future storage.Many of the pieces are interlocking.
+However, some pieces, called ""whimsies,"" have odd or peculiar shapes and resemble items such as a delivery truck, a lamp, a perfume bottle, a guitar and the historically famous tourist attraction, the Eiffel Tower.
+There are thirty of these whimsies and we had fun trying to determine what they are.
+One piece is an amphibian, either a frog or a salamander.
+Theses shapes were fun to discover and insert into the puzzle.
+However, because they don't interlock, sections of the puzzle would easily come apart, making the puzzle's assembly more challenging or frustrating, depending upon how you view it.
+""The Standoff"" was addictive.
+I worked on this puzzle with a group of 2 other adults and 2 kids (10 and 14).
+The 300 piece puzzle took us maybe an hour to complete with all of that manpower.
+We found the whimsy pieces -- 30 pieces with specific shapes, like a star, a car, a boot, the Eiffel Tower, etc -- a fun addition.
+It was neat to sort through the pieces and find a guitar there!Even the other pieces were not purely standard puzzle shapes, which made it a different experience, not really harder or easier, but just different.I've learned to stay away from cheap dollar store variety puzzles, so I did appreciate that these are of a better quality.I also really enjoyed the finished shape of the puzzle, more of a window-shape than a traditional rectangle.
+"Puzzles are good, cheap family entertainment.
+What makes this puzzle different is that it isn't just standard puzzle shapes.
+Sure it's 300 pieces, but 30 of those are what they call ""whimsy"" which are fun shapes.
+It makes the puzzle a bit more fun.
+It's a puzzle, what else can you say.
+Good quality pieces, no complaints."
+This is an excellent puzzle.
+It's a large 300 piece puzzle.
+The pieces are large and fit together well.
+There are 30 special pieces with shapes such as the Eiffel Tower, a boot, a crab, etc.
+The painting is very nice and done by Lane Kendrick.
+I'm a jigsaw puzzle aficionado with many puzzles under my belt and I enjoyed putting this one together!
+"This is a great puzzle, especially for kids who are graduating into the 300-500 piece level.
+Our eight year old loved the cat picture, and really enjoy the ""whimsy"" pieces - thirty of the pieces have recognizable shapes, like a guitar or the Eiffel Tower.The whimsy pieces do a great job making the construction process interesting, and the picture is very cute.
+The pieces are relatively large, and very well cut, so it's clear when you have a fit or when you don't.Highly recommended, especially for cat lovers."
+As you can see, this puzzle has a cute picture of cats and a goldfish.
+What made the puzzle extra-fun, though, was the novelty-shaped pieces mixed in with the regular-shaped pieces.
+Also, the puzzle pieces were a little larger than normal which makes them easier to handle.
+At 300 pieces it's a great transition puzzle from the 100-piece chunky-size children's puzzles to the more complex puzzles with more and smaller pieces.
+My teen daughter enjoyed putting this one together by herself.
+I've done a lot of puzzles in my life.
+Some had no picture, some had too many pieces.
+This one was the first one with a large selection of very unique pieces, 30 of which are actual recognizable shapes.The puzzle is fun to put together and the unique shapes add a new twist.
+Do they make it better?
+In some ways yes and other ways, they can be pretty obvious for piecing things together.
+For a younger puzzler (one who may tackle a 300 piece puzzle) this does add to the fun.The puzzle itself is a pretty heavy cardboard.
+Not as durable as a Ravensburger but not so thin that they will curl or bend too easily.
+"This puzzle is everything you want a puzzle to be.
+It's great at 300 pieces, not too large, not too small.
+My son and I did it together.
+We love cats in our family, so this was a great addition for us.
+It's a super cute puzzle!
+The pieces fit well together.
+We didn't have any issues with having to ""mash"" a piece in like I've experienced with other puzzles.If you or your kids enjoy puzzles, this is a great one to add to your collection."
+Took me and seven year old about two hours.
+Graphics are good, as is durability and fit.
+The short people loved the whimsy pieces.
+Worthwhile and a fair value.
+"The painting this puzzle depicts has a dream-like quality&mdash;or maybe it's the fish's nightmare?The 300 pieces go together quickly and without too much fussing about.
+I like the squarish shape and the ""whimsy"" pieces give it a little twist.The quality is good and the cardboard backing is sturdy."
+As a puzzle person, the most important aspect to a puzzle is that it will hold up to basic use.
+Most brands do not and you end up with peeling pieces that don't fit well together.
+Thankfully, this one has nice, quality pieces that are easy to see if they fit; and that also don't peel.The picture is easy enough that I can hand it to my kids and they finished it by the end of the day (ages 10 and down).
+But also large enough that when I got the itch to do a puzzle I could do it with a little challenge and half a day without eating up all the table space the entire day.
+The funky pieces are really fun... the kids had fun doing this puzzle with me just for that aspect!
+It does add a degree of difficulty to it, but it's also easier in some sections because of the unusual pieces.
+I usually am not a fan of odd-shaped pieces but this was done really well and I really enjoyed it.So overall, I highly recommend it and if you are looking for something a little different with some fun pieces, by all means try it out!
+I don't do a lot of puzzles but have younger kids which means I'm doing a lot more.
+This one is challenging with lots of pieces in the same color family.
+I think 8+ is right.
+It's well made.
+Great for a car lover or someone who enjoys putting time into puzzles.
+I got this puzzle because of the nice picture.
+My friend has cats and I figured it would be fun to put together when his family came over.
+I have put together other Pastime Puzzle before and the  whimsy pieces  add a fun touch to the puzzle.
+It was fun to put together with my friend and his  family.This has a small amount of pieces.
+There are enough color differences to make this easy to do and fun to do with children.
+The picture is one that cat lovers young and old can appreciate.I have done a number of puzzles and while I have used thinner puzzle pieces I have also used thicker ones as well.
+These to me are on the medium to thin side.
+The pieces are sturdy and strong though.
+They fit together well and hold together well.This is a fun 300 piece puzzle with enough color differences to make it perfect for a family to put together.
+I should keep children interested.This is also a great puzzle for Cat lovers.
+Once put together it can be glued together with puzzle glue and used as a picture.
+This puzzle was easier than some that I have been doing lately and this made it enjoyable.
+The pieces are large and durable.
+It was nice having many colors and designs to fit together.
+This is my second puzzle doing the whimsies and I would prefer not to have them because they easily come apart, but still a fun puzzle to do.
+This puzzle is not only pretty when finished but is easy to put together.
+It is great for older people who don't have all the functions of their hands and this makes them feel productive when they see how nice it is when they finally complete it.
+It doesn't take long with only being 300 pieces but gives enough entertainment to not get bored or angry because the pieces don't fit exactly right.
+I will be getting some more of these to donate to the Senior Center in our town for Christmas.
+I'm a huge Puzzle Fan and the Pastime Puzzles brand is new to me but I'm really loving it.Beautiful- I found this puzzle to be absolutely beautiful.
+It was nice and bright.
+Great artwork.Fun Shapes- I love the size and shapes of these puzzles.
+Each piece is unique and there's a huge variety of shapes and sizes which made the puzzle a lot of fun.
+There's no guesswork in connecting the pieces.
+They either fit or they don't.Ease- Although the unique pieces made the puzzle fun and interesting, I found it to make putting the puzzle together a bit faster and easier though.
+If you like a challenge I'd maybe go for a higher number of pieces than you normally do.I really loved this puzzle and I would recommend it.
+It's a little smaller than I expected, but the picture is great, as is the quality of the wood pieces.
+It's also neat that there are hidden novelty pieces as part of the puzzle.

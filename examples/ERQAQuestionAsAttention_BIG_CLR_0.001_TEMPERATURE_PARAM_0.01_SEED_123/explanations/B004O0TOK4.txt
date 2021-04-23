@@ -1,0 +1,137 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Can a 9 year old do it or is it for adults?
+Top sentence(s):
+Even with my bad eyesight, though, I was able to decipher all the numbers with a little squinting.I recommend turning all the pieces upside-down so the numbers are visible, then grouping them according to which level of the tower they will be used for, before beginning.
+My son is seven and not only enjoyed helping me put this puzzle together but was able to take over and almost finish it while I made dinner.
+Lots of fun and a great challenge."
+Or you can turn them all over for a real challenge and try one by one.
+The pieces do look a lot alike, so that made it a bit difficult for her, but we were able to complete it.
+
+Question attention weights:
+0.22792665660381317,0.2862526774406433,0.016676872968673706,0.4691437780857086
+Sentence attention weights:
+0.01115842442959547,0.00848372932523489,0.009307042695581913,0.009756314568221569,0.006320256274193525,0.01101568341255188,0.00650605745613575,0.009017127566039562,0.010642202571034431,0.007985228672623634,0.018052196130156517,0.006543915253132582,0.010311318561434746,0.011615435592830181,0.010287999175488949,0.01101568341255188,0.006034073885530233,0.0070143453776836395,0.003962788265198469,0.009464810602366924,0.010337859392166138,0.011002318933606148,0.006079117301851511,0.004767554346472025,0.008731445297598839,0.008269879966974258,0.008581027388572693,0.005268997047096491,0.007364797871559858,0.009557968936860561,0.005267564672976732,0.0057525355368852615,0.006544145289808512,0.011010341346263885,0.011696377769112587,0.006458478048443794,0.009490951895713806,0.0043847220949828625,0.004216786473989487,0.007241691928356886,0.008069838397204876,0.006771857384592295,0.011114897206425667,0.011889091692864895,0.004714642185717821,0.00721706124022603,0.010897147469222546,0.009976431727409363,0.01052946224808693,0.010387196205556393,0.009285765700042248,0.005503666587173939,0.008757468312978745,0.008761119097471237,0.01029448863118887,0.010076968930661678,0.00897061824798584,0.008359120227396488,0.006924849469214678,0.0076170251704752445,0.004531060345470905,0.004755759611725807,0.00694721844047308,0.012489345856010914,0.010415922850370407,0.005730556324124336,0.008933414705097675,0.013003617525100708,0.008330169133841991,0.0066903685219585896,0.010945471003651619,0.00811156164854765,0.010119633749127388,0.011823139153420925,0.008052347227931023,0.009174753911793232,0.007758510299026966,0.005427754949778318,0.00953553058207035,0.008464422076940536,0.011294201947748661,0.011610935442149639,0.006545582320541143,0.01194415520876646,0.0093609020113945,0.011788440868258476,0.011788440868258476,0.011854453943669796,0.011740517802536488,0.005116996821016073,0.010175896808505058,0.008382851257920265,0.008470728062093258,0.008990293368697166,0.011749868281185627,0.010701984167098999,0.007491294760257006,0.011704926379024982,0.011482569389045238,0.004411695059388876,0.011482569389045238,0.011508423835039139,0.01193767599761486,0.011502806097269058,0.01105183083564043,0.006582253612577915,0.004191527143120766,0.011192172765731812,0.004341047257184982,0.0058785234577953815,0.0075354729779064655,0.008110123686492443,0.008510902523994446,0.005689468700438738
+0.01145743578672409,0.007949200458824635,0.009417591616511345,0.010076199658215046,0.006078885402530432,0.011368016712367535,0.0061201537027955055,0.00907645933330059,0.011027393862605095,0.007800571620464325,0.017754221335053444,0.006160406395792961,0.010635292157530785,0.01193365827202797,0.010588076896965504,0.011368016712367535,0.005612844135612249,0.006829272489994764,0.0035106807481497526,0.009703487157821655,0.010534091852605343,0.01144107710570097,0.005509776994585991,0.004182607401162386,0.008002420887351036,0.008116091601550579,0.008570283651351929,0.0048033795319497585,0.007039499003440142,0.009609580039978027,0.004799333866685629,0.005407022312283516,0.006325164809823036,0.011319311335682869,0.012160779908299446,0.006081950850784779,0.009532897733151913,0.00375206652097404,0.003962728660553694,0.0069726817309856415,0.00835021398961544,0.006340262480080128,0.011434044688940048,0.012438681907951832,0.004359619226306677,0.007069456856697798,0.01118116918951273,0.010175511240959167,0.01073707826435566,0.010660339146852493,0.00949508510529995,0.005665121134370565,0.008520876057446003,0.008735740557312965,0.010545110329985619,0.010434841737151146,0.009029400534927845,0.008198403753340244,0.006569532211869955,0.0074630966410040855,0.0042348760180175304,0.004252058453857899,0.006647278089076281,0.012720003724098206,0.01059095747768879,0.005228693597018719,0.008986683562397957,0.013193261809647083,0.008325411938130856,0.006281604524701834,0.011287782341241837,0.008070748299360275,0.010357623919844627,0.012378120794892311,0.00790881272405386,0.009578762575984001,0.00795494019985199,0.005055655725300312,0.0096035897731781,0.007588105276226997,0.011681588366627693,0.011981829069554806,0.006423968821763992,0.012428075075149536,0.00953812338411808,0.012241736985743046,0.012241736985743046,0.01233362965285778,0.012164467014372349,0.005164911970496178,0.010141628794372082,0.008718934841454029,0.00833782460540533,0.008797881193459034,0.012164336629211903,0.010995966382324696,0.007108153309673071,0.012021610513329506,0.011890273541212082,0.004149273503571749,0.011890273541212082,0.011791144497692585,0.012079320847988129,0.011952418833971024,0.01116770040243864,0.006296001840382814,0.0038209420163184404,0.011549374088644981,0.003976474516093731,0.005426024552434683,0.007610171101987362,0.008138655684888363,0.008413108997046947,0.005123256240040064
+0.009778836742043495,0.008312621153891087,0.008196449838578701,0.009358217939734459,0.010343899019062519,0.009591333568096161,0.01282170694321394,0.007822414860129356,0.010052637197077274,0.006010225508362055,0.00833976175636053,0.006876732222735882,0.009250776842236519,0.009387304075062275,0.008793153800070286,0.009591333568096161,0.010262354277074337,0.0099040437489748,0.0040860846638679504,0.010151173919439316,0.009543634951114655,0.010307133197784424,0.0056266458705067635,0.004277036990970373,0.00905330665409565,0.011184888891875744,0.007696143351495266,0.007889517582952976,0.006359496153891087,0.008910387754440308,0.00646921806037426,0.004041696432977915,0.011157222092151642,0.010529141873121262,0.009727111086249352,0.007079747971147299,0.009647998958826065,0.003067690646275878,0.007895808666944504,0.007770196534693241,0.008232719264924526,0.007403227966278791,0.009549655020236969,0.01033773273229599,0.00530931307002902,0.01100108865648508,0.009398331865668297,0.00916915014386177,0.009275357238948345,0.010141857899725437,0.009226657450199127,0.009108718484640121,0.006984945386648178,0.00841391459107399,0.009270641952753067,0.009927560575306416,0.00828832108527422,0.009820614010095596,0.0062375059351325035,0.00630482891574502,0.009818512946367264,0.0074495901353657246,0.006883375812321901,0.010488448664546013,0.009213358163833618,0.007940232753753662,0.007245969958603382,0.010736376978456974,0.007671252824366093,0.009456365369260311,0.009901992976665497,0.009321581572294235,0.009465858340263367,0.010680117644369602,0.008405572734773159,0.00959707796573639,0.010547598823904991,0.0062011657282710075,0.009182245470583439,0.007355093955993652,0.00979284942150116,0.010547429323196411,0.012300659902393818,0.01119169406592846,0.009755917824804783,0.010013432241976261,0.010013432241976261,0.010113703086972237,0.010014724917709827,0.006966849323362112,0.0076022944413125515,0.010160159319639206,0.008299863897264004,0.00848130602389574,0.010309863835573196,0.009287027642130852,0.008697339333593845,0.010220348834991455,0.009961087256669998,0.007555211894214153,0.009961087256669998,0.01054046768695116,0.012253954075276852,0.010567815974354744,0.009456804022192955,0.007809362839907408,0.00671793520450592,0.008098355494439602,0.008514242246747017,0.0052359397523105145,0.009468457661569118,0.007391961757093668,0.009207134135067463,0.005362250842154026
+0.011662838980555534,0.0074907634407281876,0.009503483772277832,0.009554180316627026,0.005837421864271164,0.011687763966619968,0.005043370183557272,0.009340992197394371,0.011213824152946472,0.00794786773622036,0.017242111265659332,0.006232790648937225,0.011000174097716808,0.01239188015460968,0.01088779978454113,0.011687763966619968,0.004750079475343227,0.006470109801739454,0.00323424581438303,0.009154039435088634,0.010554121807217598,0.01157489512115717,0.005308130290359259,0.0045752073638141155,0.007379240822046995,0.007714394945651293,0.008411078713834286,0.004519502632319927,0.007516081444919109,0.009879407472908497,0.004438614007085562,0.005993769038468599,0.005906263832002878,0.011229122057557106,0.012710325419902802,0.006127169355750084,0.009224851615726948,0.003868857631459832,0.0034805024042725563,0.006282850168645382,0.00830067414790392,0.00613731425255537,0.01174988504499197,0.012913942337036133,0.004320013802498579,0.007122288923710585,0.01151356939226389,0.010124452412128448,0.011074711568653584,0.010492265224456787,0.009665580466389656,0.00565949734300375,0.008585605770349503,0.008682162500917912,0.010871823877096176,0.010776332579553127,0.009307864122092724,0.00793304480612278,0.0064726644195616245,0.007944123819470406,0.003383542178198695,0.004042156971991062,0.006704041734337807,0.013421549461781979,0.010731629095971584,0.005259514786303043,0.009250806644558907,0.012657125480473042,0.008818885311484337,0.006093211006373167,0.01156118419021368,0.007700216490775347,0.010606913827359676,0.01271703653037548,0.007785111665725708,0.009763714857399464,0.007022506091743708,0.005194402299821377,0.00946503784507513,0.00699528818950057,0.012019898742437363,0.012023478746414185,0.006078869570046663,0.012629540637135506,0.009466555900871754,0.012625784613192081,0.012625784613192081,0.012711687944829464,0.012560355477035046,0.005006215535104275,0.010500802658498287,0.008664100430905819,0.008653157390654087,0.00853652972728014,0.012467327527701855,0.011166833341121674,0.0061419359408319,0.012086532078683376,0.012187452986836433,0.0038989896420389414,0.012187452986836433,0.01198795810341835,0.01191466860473156,0.01217461284250021,0.011331934481859207,0.0060988231562078,0.003757959697395563,0.012475323863327503,0.0037820767611265182,0.005456749815493822,0.007696928456425667,0.007937569171190262,0.008156110532581806,0.005140393041074276
+Questions:
+Are the pieces numbered?
+Can a 9 year old do it or is it for adults?
+Can a 5 year old do it?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+Gorgeous puzzle, but difficult to fit the pieces at the top together.
+I was a little intimidated by a 3D puzzle, but pleased to be able to do it.
+But those top pieces...just wouldn't quite come together.
+"At first glance, this puzzle looks a bit tricky, and there aren't really any instructions.
+But if you look over the accompanying diagram, it indicates which pieces are to be used to make each segment of the tower.The pieces are sturdy plastic, which is a plus, because you avoid the wear and tear that sometimes happens to cardboard pieces when they are assembled, disassembled, and reassembled.
+This will enable this puzzle to last for years.
+Some of the puzzle pieces are hinged.I have to laugh because in several of my recent reviews, I have commented on small print, small typeface, light colored printing, etc.
+I'm finally realizing that maybe age is catching up with me!
+But do be aware that the numbers on the back of the puzzle pieces are small and not very darkly printed.
+This might pose difficulties for elders or others with vision problems.
+Even with my bad eyesight, though, I was able to decipher all the numbers with a little squinting.I recommend turning all the pieces upside-down so the numbers are visible, then grouping them according to which level of the tower they will be used for, before beginning.
+This will save you time hunting for the right piece when you are assembling it.Although the pieces are numbered, which gives you a rough idea of the order of assembly, there is still plenty of challenge in assembling this puzzle.
+You still have to figure out exactly how each piece is oriented.
+My 9 year old and I worked on it together, and we both felt that it was challenging enough to be addictively fun, but not frustrating.
+It was exciting to see a puzzle rise from the table instead of sprawling across it.
+It's not huge, just over 17"" high and will not take you forever to make.
+We had just learned about Eiffel in our homeschool because we were studying how the Statue of Liberty was built, and Eiffel was a contributor-- before he ever built the famous tower named for him!"
+"I never liked 3D puzzle because they tend to fall apart due to lack of quality on the pieces which I needed to painstakingly keep secured in place while putting them together.
+When I saw this Eiffel Tower 3D building set by Ravensburger, I hesitated first but thought I would give it a try.I'm pleasantly surprised by the quality of the Ravensburger puzzle set.
+The pieces are made of sturdy plastic and they do stay in place very well, unlike the cardboard counterparts from other manufacturers.
+This particular set has 216 pieces and are relatively easy to put together.
+It look us about 2 hours to fully assemble the set.
+The completed set measures about 7"" x 7"" at the base and 17"" in height.
+You can disassemble and re-assemble the set over and over, since no glue is required and wear-and-tear on the plastic pieces is minimal.I highly recommend Ravensburger if you are looking to buy a 3D puzzle.
+I think I'm going to get the Ravensburger Empire State Building and Big Ben puzzle sets too."
+Is my first 3D puzzle and I love it, good quality pieces it was very easy, finish in one day is so pretty when is finished now is part of my decoration.
+Puzzles have a habit of being either way too easy for my 10 year old son or maidenly difficult.
+This 3D Eiffel Tower was just the right mix to keep him engaged and have fun.
+The pieces are solid and interlock together very well and once it's bult it is durable enough to sit on a shelf.
+This is just one of those great products that is lots of fun and worth the money.
+As part of my participation in the Amazon Vines program, I received this product in return for a honest review.My 10 yr old daughter assemebled this 3d puzzle in about 5 hours by herself.
+She enjoyed putting it togehter, but she did have some issues when it came to keeping the pieces together as she was getting close to finishing.
+Assembled, it is a little wobbly, but overall she enjoyed it and wants me to get more 3d puzzles for her.
+"Ravensburger puzzles are wonderful!
+Not only do kids and adults have the fun of putting them together, they then have a great decorative item to admire!
+Admittedly, our family ""cheats"" when putting these puzzles together -- each piece is numbered, with an arrow pointing in the direction in needs to be placed.
+Otherwise, what took us two hours would have taken two months!
+Our method is to separate the pieces in small dishes according to number sequence, building up from lowest to highest -- highest in this case being the top of the tower!
+Our kiddos are fascinated with Paris and dream of going to the top of the Eiffel Tower, so this puzzle was perfect, giving them a clear idea of how the tower is constructed and its different levels.
+It comes with a nice building pad and plastic separators for each level, which makes the tricky assembly a little easier.
+The budding mechanical engineer in our family took over after the first level was built, and really enjoyed creating her masterpiece.
+Now, it's a sturdy, attractive model of the Eiffel Tower.
+Soon, it will go back into the box for the next time.
+Lots of fun and a great challenge."
+I've tried 3D puzzles by other companies before and never liked them.
+The pieces weren't sturdy and it was frustrating to get them to stay together while or after building.
+I tried this one, though, because it's made by Ravensberger.
+I love their puzzles.
+They have excellent, often educational, images and the pieces are thick and sturdy.
+My 9 and 13 year old kids had no trouble putting this puzzle together.
+It looks great on the coffee table.
+I've never tried a 3D puzzle before this one, but my 7 year old is on a puzzle kick as of late, so even though this puzzle says it's for ages 10-99, I knew he'd be fascinated by the whole process.
+So we decided to give it a try.Turns out it was a ton of fun.
+The pieces are made of plastic and pretty durable.
+Thankfully, the pieces are numbered, so it was my 7 year old's job to put them in order.
+From there, I assembled each piece and found each one pretty easy to snap together.
+Since it's 3D, some pieces are hinged, so you have to fold each one before locking it in place.
+The whole puzzle is divided into three sections with plastic pieces for the base and ones that separate each section.
+When you get to the top, it becomes tough as the section narrows, but it's well worth the effort.Overall, the puzzle took about an hour and a half to complete and wasn't too challenging.
+I liked that the pieces were durable and sturdy and the finished Tower looks amazing.
+I'll definitely be checking out some of the other 3D puzzles by Ravensburger.
+I am very impressed with this 3D building set of the Eiffel Tower.
+I had never put a 3D puzzle together so I really appreciated that they made this one user friendly by having the pieces numbered on the back complete with arrows.
+My son is seven and not only enjoyed helping me put this puzzle together but was able to take over and almost finish it while I made dinner.
+The pieces are a sturdy plastic which is wonderful in a household with children.
+The finished puzzle is attractive and since my son helped he takes great pride in displaying our Eiffel Tower.
+But, if we want to disassemble it we can store it away for future use.
+I bought the family the 3D globe puzzle a few years back to do over Christmas break.
+My entire family enjoyed strolling by the 'puzzle table' and putting a few pieces in here and there.
+When we were all done, we were super impressed with ourselves for creating a ball out of puzzle pieces!When I saw the Eiffel Tower, I knew I had to give this one a try.
+There were quite a few less pieces, making it easier for my 9 year old to do a lot herself.
+Each piece is hard plastic and numbered with an arrow.
+You can make it very easy on yourself by separating the pieces into number groups, making it quick to find your next piece.
+Or you can turn them all over for a real challenge and try one by one.
+I am an organizer by nature, so I always pick the former.My 9 year old did quite a bit herself, but needed help in a few areas making sure things were straight and secure.
+When done, it makes a nice addition to a bookshelf or display cabinet.
+When it comes to puzzles, Ravensburger is a name I know and respect, and is my go-to brand when making a puzzle purchase.
+This is my first 3D puzzle and since I have trouble putting folding boxes together I expected to encounter some difficulty - but there was no reason for concern.Constructing the puzzle proved to be a small challenge but it was fun and not at all aggravating.
+I spent a pleasant afternoon playing with it.
+And because it isn't terribly big (the box measures approximately seven and a half by eleven by two and three quarters inches) with the finished puzzle standing seventeen and a third inches, and only 216 pieces, it is a perfect small gift to take to a sick friend.It would make a great gift for an adult puzzle fanatic, someone who loves France, or a child ten years old or over.
+I love gifts like this for kids at that awkward age where they are too old for most toys but too young for grown-up items.
+"This was a fun little puzzle.
+My 10 year old daughter loves anything Paris.
+So, we thought we would give this puzzle a shot.
+First, let me preface this with the fact my daughter doesn't love puzzles.
+This was no exception.
+It was a bit difficult for her to put together, but we did have fun.
+The pieces do look a lot alike, so that made it a bit difficult for her, but we were able to complete it.
+I would enjoy putting it together again, but she said ""no way""."
+"My 15 year old daughter and I put this puzzle together one weekend afternoon.
+She joined in unexpectedly, actually.You can separate all of the pieces into piles for each of the 3 sections of the puzzle, before you start to put it together.
+The pieces are numbered on the back and there is a chart that tells you which numbers go with which section - this is how you divide them into the piles.
+You could definitely do it just by hunting and trying to fit pieces together randomly, if you do not want to build it like a model and more like a puzzle.Since it does have numbered pieces, it can be assembled by younger children with a little less frustration than just trying to fit pieces together randomly.
+Older kids or adults may like the challenge of not using the numbers, instead.The pieces are made of a plastic feeling material.
+This makes them a bit more durable to assemble and reassemble.
+It is not made of cardboard like a typical puzzle, so you won't have to worry about the pieces peeling or anything like that when taking it apart or putting it back together a few times.
+The pieces which are used for the edges fold or bend for the jointed sides.My daughter joined in after I had the bottom portion put together.
+It ended up being a nice thing to do together.
+We both enjoyed it and it looks pretty nice once it is all done.
+Her bedroom is Paris themed, so she has it sitting on a side table in her room.
+It is a nice reminder of time spent together and it looks good too.It is fairly sturdy once put together.
+You can move it to another area without having to be too super cautious.
+I've never been much of a ""puzzle person,"" but this one has made me look into more from this brand.Overall a 5 star item.
+It is a great way to pass the time and you end up with a decorative piece in the end."
+I often catch myself just looking intently at how beautiful this puzzle is.
+It is perfectly placed on the bookshelf with a found memory of assembling it as a family together.
+Did you know that this is exactly 216 pieces as Empire State 216 Piece 3D Building Set?
+How they constructed it so precisely baffles me.
+I appreciate all the details put into the Eiffel Tower and the surrounding base puzzle.
+Overall great puzzle, I wonder though how the company will perform as 3D printers take off and we would be able to print this model among many others in our very own home.
+I actually gave this to an elderly friend who adores puzzles.
+It was her first try at a 3d puzzle, and she really enjoyed it.
+The finished puzzle was sturdy and good looking.
+I hadn't seen a 3d puzzle before, but I was impressed.

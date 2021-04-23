@@ -1,0 +1,108 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+For what age
+Top sentence(s):
+What's not to love?
+My oldest will occasionally pick it up, but he gets so frustrated, he doesn't play with it long.
+Sorry, got off track.
+Ah, three-year-olds, don't you just love them?
+I guess that ages me.
+
+Question attention weights:
+0.18358661234378815,0.8164133429527283
+Sentence attention weights:
+0.011679845862090588,0.013497645035386086,0.01007885206490755,0.01290722656995058,0.011209540069103241,0.01319077331572771,0.014452584087848663,0.010754721239209175,0.012890130281448364,0.013226082548499107,0.013794844038784504,0.010945412330329418,0.012700197286903858,0.007339521311223507,0.014180844649672508,0.009604552760720253,0.009300371631979942,0.005636468529701233,0.01186974998563528,0.011673303321003914,0.012941223569214344,0.01296198833733797,0.00882574263960123,0.010427960194647312,0.010201497003436089,0.010483280755579472,0.0047571235336363316,0.005691799800843,0.01290355809032917,0.011336147785186768,0.009546068497002125,0.00707104941830039,0.007793981581926346,0.007614928297698498,0.012650531716644764,0.012342392466962337,0.007728808559477329,0.01631678082048893,0.010960517451167107,0.012611525133252144,0.010784314014017582,0.010162409394979477,0.013468070887029171,0.012583025731146336,0.011338159441947937,0.013187529519200325,0.014851856976747513,0.010796870104968548,0.013824469409883022,0.00804941076785326,0.005376250017434359,0.013204478658735752,0.00881233997642994,0.009966405108571053,0.009628978557884693,0.013203687034547329,0.0128635810688138,0.015146620571613312,0.015550564043223858,0.009831985458731651,0.013686374761164188,0.014768259599804878,0.013800681568682194,0.009286541491746902,0.011185385286808014,0.009221978485584259,0.007397822570055723,0.005445810500532389,0.010805724188685417,0.009517692029476166,0.01528882049024105,0.011076458729803562,0.012890752404928207,0.011310270056128502,0.013063205406069756,0.00772813381627202,0.008763248100876808,0.013157088309526443,0.013627118431031704,0.011469968594610691,0.011355740018188953,0.013276876881718636,0.010389442555606365,0.011017785407602787,0.012513360939919949,0.012738438323140144,0.012855812907218933,0.01171891763806343,0.011911723762750626
+0.010016966611146927,0.01416383683681488,0.010011487640440464,0.01504194550216198,0.012491759844124317,0.01491097267717123,0.014207205735147,0.010307008400559425,0.011373721994459629,0.015881028026342392,0.016008276492357254,0.0115210497751832,0.014316980727016926,0.005991269368678331,0.017803093418478966,0.007368630263954401,0.00632849195972085,0.004753736313432455,0.01384054683148861,0.009280206635594368,0.01517487782984972,0.010335594415664673,0.009984740056097507,0.010060431435704231,0.009233232587575912,0.007562458515167236,0.003962234128266573,0.005955096799880266,0.011819749139249325,0.006649954244494438,0.0059232087805867195,0.005683747585862875,0.004874132107943296,0.006134524941444397,0.013639263808727264,0.01361651811748743,0.003742952598258853,0.014100011438131332,0.010834220796823502,0.014358582906425,0.009766550734639168,0.01115935668349266,0.012985904701054096,0.014493527822196484,0.011781495064496994,0.015715470537543297,0.013216536492109299,0.012354650534689426,0.016679687425494194,0.005837287288159132,0.005780872423201799,0.015080645680427551,0.005170883145183325,0.00893313530832529,0.007108404766768217,0.015078622847795486,0.015311138704419136,0.01981450617313385,0.015028806403279305,0.011974340304732323,0.015470561571419239,0.016535507515072823,0.016975989565253258,0.0059510343708097935,0.011381738819181919,0.005878044757992029,0.007680309470742941,0.0037721600383520126,0.00860394723713398,0.007882233709096909,0.015117177739739418,0.010925387032330036,0.009874485433101654,0.008695359341800213,0.012496095150709152,0.009910146705806255,0.007140010129660368,0.015840478241443634,0.015867188572883606,0.011280108243227005,0.012714087963104248,0.015756670385599136,0.012962252832949162,0.0093027139082551,0.014818156138062477,0.015230673365294933,0.013925711624324322,0.01396910473704338,0.011507113464176655
+Questions:
+For what age
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+This toy is targeted for 3-8 years.
+My 4 year old is really behind developmentally and my youngest is 17 months, so I don't have a great deal of experience with older than that.
+I'd would think that for a 3-4 year old to have fun with this toy, they'd have to be awfully advanced!
+I recommend it for the older end of their target age.
+(That's just my little opinion, though!
+I'm not saying a 3 year old couldn't have fun with it.
+)Our whole family was greatly disappointed in it, though.
+We have the smaller green T-Rex from this same line, and we liked it so much, we were really looking forward to adding this one to our toy collection.
+My boys continue to play with the T-Rex.
+We rotate toys, and it is one that I keep out all the time right now.
+Brok is just SO COMPLICATED!!
+Make sure you keep the instructions, not only for putting the thing together(There IS assembly required!
+), but for learning how the thing changes and works.
+My youngest doesn't even care to play with it, because he just doesn't see what it's all about.
+My oldest will occasionally pick it up, but he gets so frustrated, he doesn't play with it long.
+About the only thing about it he likes is the screen on the dino's head that lets you pick a driver and all.
+Brok is a huge dinosaur that goes from race car to dinosaur, with tons of different phrases and sounds.
+He stomps (thats his trademark) and launches a pterodactyl off his ramp!
+He zooms around easily by pushing him and his head goes up and down by pushing a button.
+He's not a violent or mean dinosaur, just a fun loving robot dinosaur!
+For just under $50 this is a great gift for any child.
+My boys (4 and 5) have been playing with this for days now and they cannot get enough of it, even my 1 year old laughs and laughs at this dinosaur.
+Brok has an LCD screen that changes from a dinosaur to a person and you can even change the face through a few varieties.
+It really is a cute toy and I can definitely attest to its durability as my boys are pretty rough on toys.
+I admit I had my doubts about this toy as I have seen other robot-type products on the market before, but this one is appropriate for young kids and for the price its worth it.
+I mean how cool is it that a dinosaur can transform into a car - and yes it is easy enough for kids to do on their own (just flip some switches.)
+The only thing I would change, or more so add, is the ability to maybe connect via USB to customize his phrases or add a remote, but then those two things would probably make the price go way up.I have received VTech Switch & Go Dinos to facilitate my review but my opinions remain my own.
+"The ""V-Tech Switch & Go Dinos - Brok the Brachiosaurus Dinosaur"" has proven to be, for our family, fun for multiple generations.
+Our grandson loves both trucks and dinosaurs; his father, trucks; and his grandfather anything mechanical.
+Thus, V-Tech's ""Brok the Brachiosaurus Dinosaur was a hit with all three; it provided an opportunity for ""male bonding"" as the three transformed Brok from one iteration to the other.Brok transforms easily, and my grandson is able to play with the toy himself.
+He loves ""vroom, vroom, vrooming"" Brok when it is a truck and roaring when Brok transforms into a dinosaur.
+Because V-Tech's Brok is not just one thing, imagination takes on extra importance as a child decides when Brok should be transformed - the why's where's, and how's of creative story-telling.
+Changing dinosaur eyes; a motorized neck; and a control panel which gives little ones interesting dinosaur facts all add to V-Tech's Brok the Brachiosaurus Dinosaur's play value.The ""V-Tech Switch & Go Dinos - Brok the Brachiosaurus Dinosaur"" seems to be a durable toy and one that will maintain a child's interest.
+While it is somewhat expensive, if you have a child who loves transforming toys, trucks, and dinosaurs, you may find Brok a worthwhile purchase."
+My son got this toy for Christmas and he has been playing with it ever since.
+It has turned out to be one of his favorites.
+I think he just likes the large rollable dino mode.Pros:-Large dino mode-Easy to transform-Included roller car and launchable pterodactyl is lots of fun-various eye and driver combinations-motorized dino head movement.-sound effects-rolls in both modes with walk-like leg movement in dino mode.Cons:-rear loader ramp doesn't stay on at all-concerned about head durability.-tranformation while easy, isn't exactly intuitive the first time.
+(My wife couldn't figure out why the driver head was still showing up on the dino head when transformed.
+Turned out the head wasn't fully extended.
+Instructions made no mention of this possible issue.
+)Summary:This is a fun toy with some neat gimmicks and my son really enjoys it.
+If I had any concerns it would be about durability and the price I (would have) paid for it.
+I judge these sorts of toys by how long it takes before the three-year-old loses interest.
+Based on this rather silly judgement process, this is a great toy.
+The only real problem is how flimsy it feels.
+When my son is playing with it, it seems like at any second something will come off in his hand.
+So far it hasn't, so I'm scoring it better than usual in that regard.There is enough going on here to hold his attention, changing from dinosaur to truck (a concept he had a hard time understanding for a bit until I showed him a few times, at which point he loved the changing.
+Until then, he had the toy in a half-dino, half-truck configuration and refused to go either way.
+Ah, three-year-olds, don't you just love them?
+)There are various noises--which can get annoying, to be honest, but which toy doesn't these days?--that pop up depending on the position of the neck and head.
+Pushed in, you'll get the trucker mouthing off about going somewhere and, for some strange reason, taking pictures which shows up as a black-and-white mini explosion on the rather poor LCD screen.
+Brought out and the dinosaur goes on about being big.
+As the dino rolls, foot stomping sounds echo out.There's a car included which can roll up on the truck (impossible in dino mode) and then, with a pull on the spoilers, can be launched down off the front-facing ramp.
+On that car is a spring-launched Pterodactyl that's bound to get lost soon.
+In the mean time, be very careful--as the documentation shows as well--it gets launched with some force so watch out for those eyes!This is a toy that wasn't designed to make much sense, but it's quite a bit of fun in the meantime and the boy likes it.
+What more can you ask?
+"This thing's got it all!
+What's not to love?
+A giant, brachiosuarus dinosaur, pterodactyl(or is it pteronadon?
+Why do they keep changing the names?
+And tell me again, what happen to brontosaurus?
+I guess that ages me.
+Sorry, got off track.
+), semi-truck, race car, talking, moving transformer.
+Whew!Yes, transformers are as popular as ever.
+One sees it in the movies, Transformer, Battleship, Avengers, etc.
+My kids already have 2 of the Switch & Go Dinos, Silver the T-Rex and T-Don the Pteronadon(Oh, there they go again!
+), and they love crashing them and transforming them and trading them.It runs on and includes 4 AA batteries; made of durable plastic, the control panel on top moves the motorized neck up, gives a few facts on dino's, which I need to bone up on, and it makes a bunch of sounds.
+One can choose the driver's image and control the volume- turn it down!
+On the back, load up your race car armed with pteryldactyl (not a pteronadon) which you or your kids can shoot up into the air.The box state ""over 80 wild sounds and phrases""- haven't counted that many, yet.
+The legs can stomp if pushed or roll or transform from dino to slick racing vehicle.
+If dino, one can change it's eyes or move its jaw by hand.
+My son has several Power Ranger toys that he enjoys playing with.
+This VTech Switch and Go Dino is very similar to the Power Rangers Megazord, which converts from a huge Power Rangers to a vehicle.
+It was very easy to assemble and it appears to be a fairly sturdy toy.
+My son prefers playing with it as a rolling vehicle.
+It races smoothly along our tile floor.
+He was most impressed with it looking at it in the box.
+After it was assembled, he played with it zooming it around the house.
+Now, it just sits as a decoration in his room.
+He generally prefers more sports-oriented, action activities, so these type toys don't usually hold his attention that long.
+However, for a child that enjoys toys that switch, this is an excellent toy.
+I gifted this toy to a neighbor who has a 6 year old boy.
+As an adult I was like this is a huge clumsy and at a few points, felt a bit flimsy.
+But the boy loved it.
+And the neighborhood kids, his friends, they play with it a lot.
+The product description is as described perfectly.
+I would recommend this toy for boys more than 6, as I think it's more age appropriate for older boys.
+I doubt if mostly any girls would like this, it's a boy thing, this toy!

@@ -1,0 +1,297 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+"Although the age guidelines recommend this game for ages 6 and above, I played it with my almost-five-year-old daughter on vacation lately and it worked quite well, although of course I had to read the cards for her.
+Sometimes, I had us pass on a card - I didn't want a sock thrown around knocking over a drink on the table or a card that required us to have pockets in our clothes and we didn't have any.
+I bet the adult version of Quelf is a riot.The only problem we're having with the Jr. version is how uneven the challenge is.
+I'm looking at you dad) making it the perfect family time activity.
+Some of them required physical abilities our daughter with cerebral palsy can't do.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.003666567848995328,0.004346940200775862,0.003550333669409156,0.003446063259616494,0.0037508762907236814,0.003196172649040818,0.0033749572467058897,0.002696234965696931,0.0039029628969728947,0.0035604035947471857,0.0032688479404896498,0.0037002963945269585,0.004295320250093937,0.0037861308082938194,0.004972661379724741,0.0033320323564112186,0.0020411163568496704,0.00331108714453876,0.004630453884601593,0.003811156377196312,0.0025567463599145412,0.0029652651865035295,0.00405631260946393,0.002988070249557495,0.003326969686895609,0.003487728303298354,0.0021385049913078547,0.0038544475100934505,0.0033914640080183744,0.0028833518736064434,0.0034421351738274097,0.003574330359697342,0.0027057030238211155,0.0033884854055941105,0.004187928978353739,0.003317090217024088,0.003232470713555813,0.0031044615898281336,0.003346135141327977,0.003971072379499674,0.0033703006338328123,0.0035717126447707415,0.0041793701238930225,0.0033703006338328123,0.003357597393915057,0.0033703006338328123,0.003128725802525878,0.003244134597480297,0.0033446496818214655,0.002985447645187378,0.0032591833733022213,0.0023652100935578346,0.00322740082629025,0.004088885150849819,0.003438045270740986,0.002953777089715004,0.0029678186401724815,0.003989257384091616,0.003897428512573242,0.0035705766640603542,0.0032139562536031008,0.0019418412121012807,0.003275854978710413,0.0038471806328743696,0.007329912390559912,0.003461622167378664,0.003963288851082325,0.0032471916638314724,0.004144938196986914,0.0024317374918609858,0.0038508051075041294,0.0027609053067862988,0.0021596362348645926,0.0030277189798653126,0.002511272905394435,0.002616795478388667,0.0032783206552267075,0.0029483544640243053,0.004408200737088919,0.0031008014921098948,0.0034189585130661726,0.0035620066337287426,0.003373189130797982,0.0036019347608089447,0.003674399806186557,0.003860844299197197,0.004066234454512596,0.0034379686694592237,0.004049928858876228,0.003389778546988964,0.0033677227329462767,0.0026325578801333904,0.003741498803719878,0.005190140567719936,0.003565222257748246,0.003776050405576825,0.00326358899474144,0.004371825605630875,0.003996870946139097,0.005354877561330795,0.003492848016321659,0.003972115460783243,0.0032235286198556423,0.0038438064511865377,0.0033308689016848803,0.004756406880915165,0.0039321985095739365,0.0053001586347818375,0.0034219801891595125,0.003207261674106121,0.003917498979717493,0.0033438107930123806,0.0038348366506397724,0.005459591746330261,0.0033841554541140795,0.002767786383628845,0.0032148335594683886,0.003942448645830154,0.003514018841087818,0.003478572703897953,0.004491967149078846,0.0034790586214512587,0.0032975194044411182,0.002505312440916896,0.0024279369972646236,0.005016187205910683,0.0033076328691095114,0.0033995630219578743,0.0036501362919807434,0.004229916259646416,0.0034823527093976736,0.0035003898665308952,0.002746881917119026,0.003147395793348551,0.0030831447802484035,0.0033504534512758255,0.003814311698079109,0.0049165948294103146,0.004027254413813353,0.005041800905019045,0.0034257660154253244,0.003884199308231473,0.0034479168243706226,0.003687351942062378,0.0032166619785130024,0.004291588440537453,0.0039502293802797794,0.0052582332864403725,0.0034479168243706226,0.0033601615577936172,0.003908910322934389,0.003026399528607726,0.0038551019970327616,0.003493404248729348,0.0030741377267986536,0.003950708545744419,0.0035254950635135174,0.005238725803792477,0.003399417968466878,0.003425904316827655,0.0024745087139308453,0.00319987372495234,0.0020368427503854036,0.002248820848762989,0.004925630055367947,0.003188768634572625,0.003234880743548274,0.004643275402486324,0.004039546940475702,0.003916244488209486,0.002835969440639019,0.002983472775667906,0.004112502560019493,0.004226273857057095,0.002619884442538023,0.0035597910173237324,0.0042270696721971035,0.003177203703671694,0.004783624317497015,0.0037304977886378765,0.0030075800605118275,0.003228690940886736,0.0033285929821431637,0.004350576549768448,0.004541291389614344,0.003895784029737115,0.003215731354430318,0.002598795108497143,0.002421104582026601,0.0030067425686866045,0.003845244413241744,0.0033846350852400064,0.005049319937825203,0.0031481143087148666,0.004182624630630016,0.0034696925431489944,0.0038808458484709263,0.005588699597865343,0.0016910821432247758,0.003656134707853198,0.003513449802994728,0.003627515397965908,0.0042405761778354645,0.0041692787781357765,0.003531747730448842,0.003010618733242154,0.0035391938872635365,0.00328582595102489,0.004032860044389963,0.004136641975492239,0.003350281622260809,0.003108288161456585,0.0031916869338601828,0.002947263652458787,0.0025157080963253975,0.0037512225098907948,0.0033520562574267387,0.0035891805309802294,0.0033363059628754854,0.0033598453737795353,0.0036780142690986395,0.004429503809660673,0.0016663712449371815,0.003280329518020153,0.0033538793213665485,0.0035103599075227976,0.0028120658826082945,0.0034596335608512163,0.0034184579271823168,0.003024259814992547,0.003285211045295,0.003316177986562252,0.0036189325619488955,0.0036746112164109945,0.0035383414942771196,0.0033848679158836603,0.003238280536606908,0.003217902034521103,0.005553287919610739,0.004394614603370428,0.00353141687810421,0.004321261774748564,0.004428482614457607,0.0038119934033602476,0.003330579726025462,0.003244946012273431,0.004124986939132214,0.0033781486563384533,0.0037053001578897238,0.00177473365329206,0.0029347024392336607,0.002882665488868952,0.003785268869251013,0.0036224357318133116,0.0053123971447348595,0.0035679303109645844,0.003651621751487255,0.0033049636986106634,0.004923495464026928,0.002011431846767664,0.004332473035901785,0.003031166736036539,0.0035281924065202475,0.003989414777606726,0.0032373303547501564,0.0043707783333957195,0.003571802517399192,0.0033884416334331036,0.002200767630711198,0.003099581226706505,0.0033148673828691244,0.001629419974051416,0.005751029588282108,0.004520639311522245,0.004397272597998381,0.0025885049253702164,0.0036196906585246325,0.0042495704255998135,0.0033148673828691244,0.0033148673828691244,0.003221839899197221
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+After playing the adult version of Quelf, I was a little wary about Quelf Jr.
+But let me tell you, Quelf Jr. beats out the original!
+Perhaps since it's made for kids, you expect it to be silly.
+This game kept my daughters (ages 4 and 7) completely engaged, thinking, and reading.
+Some of the tasks are just plain silly, others are more educational, and most foster creativity and imaginative thinking.I love that my 7 year old can play this without help.
+She can read all the cards, understand the instructions, and help younger players.To play, you basically pick a card and do what it says, and it's usually something quite silly.
+Kids love it!
+I like that, most of the time, if you just do what's on the card, you can move ahead on the board.
+There seemed to be quite a few Mr. Sourface cards that make you move backwards, but that's the only thing that keeps you from winning fast.Fun, creative, engaging.
+This game is a winner in my book!
+This is the first board game that has got me laughing in a long while.
+At first, I was apprehensive about getting this game.
+It's not from Hasbro, and it relatively unknown to folks who want to play kids board games like Candy Land or Battleship.However, this game has what Hasbro doesn't offer--a simple to learn game, good for the whole family, and gets tons of laughs.
+It's simply put: LOTS OF FUN!You can play with up to six characters to start.
+Each of these figures is a wacky mash-up of characters: from ninja monkeys to aliens to pirates.
+They're all cardboard cutouts with plastic bases, but they're sturdier than you'd think.
+Although none have special powers, each of the characters get special play abilities when various cards are played.The object is to get your character from one end of the board to the other.
+It sounds simple and it is.
+Along the way there are stops for Ms. Goody Gumdrops that give you bonus cards.
+You play with a deck of Quelf Jr. cards that tell you to accomplish something to go ahead a certain number of spaces.
+You might need to sing a song, say personal favorites, finish a race, do a scavenger hunt, etc.
+It's all based on getting the accomplishment done before the sand timer runs out.
+And what's neat is that the difficulty of the card gives you 3 levels of movement on the board.
+You also get a bonus if the card is a teamwork oriented card where your buddy gives you a hand at accomplishing the card's objective.The game says 6+ for age limit, but as long as you have a player (mommy/daddy) who can read, there really isn't a lower age limit.
+Reading is essential to being able to play the Quelf Jr. cards.Silly?
+Yes.
+Kids pull cards from 3 different categories; they have to perform the task on the card, to move around a game board for fun and laughs.
+The 3 categories of cards are: Quelf Jr cards, Goody Gumdrops & Mr. Sourface cards.
+The game is very easy to play and can be very fun as well coming up with very simple activities for your little ones to do.
+For example you might pull a card that asks you to name ice cream flavors, or for the duration of the timer you must tickle yourself and giggle until times runs out if you answer them correctly you move forward the number of spaces on the card.
+Now if you land on a Goody Gumdrops or Mr. Sourface spot on the board you will have to draw that type of card.
+Goody Gumdrops cards move you forward if you have done or know the answer to her question.
+But if you were to land on Mr. Sourface the card will say something witty and ask you to move back.Great for younger kids, and fun for an adult watching and helping them to play, but I would not suggest this game to older kids as it is too simple and they will lose interest too fast.I am taking this as an opportunity to introduce more charade games to the kids, and this one is perfect for their ages and an easy way to open up their minds to something new.Game was very easy to setup and rules are so very simple that even an older child should have no problem playing on their own.Just be prepared for giggles and for some reading help if your kids are younger.
+This game is rated for 6 years old + and I definitely agree with that rating.
+In this game, there is a short game board and Mr. Sourberry cards, Quelf Jr. cards, and Ms. Goody GumDrops Cards.
+Sourberries make you go back.
+Quelf Jr. cards ask you to do something or answer a question.
+Goody Gum Drops cards let you move ahead under certain conditions.
+I loved the idea of the game and thought my kids would love it.
+What happened when we played it though, surprised me.
+I sat down yesterday to the table with my 3 kids (3,5 (almost 6), and 7 (almost 8) years old) to play this game.
+They were so excited to open it up and start playing.
+My 3 year old who's normally outgoing wouldn't do the actions the card instructed him to do and most of the time neither would my 5 year old.
+I thought that if I read them, they would be fine.
+But, that wasn't the case.
+My 7 year old, though, loved it and wanted to act out every card that came her way!
+I realized that the age range on this game is definitely appropriate.For the most part, I loved the cards.
+The board game is short so the game doesn't last forever, which is great for this age group.
+As we were playing, we did come across one card I didn't like (it required a child to smell another's arm pits and say something).
+Similar in concept to Cranium and as much fun this educational game teaches children basic skills through the use of what they love - to play.
+I gave the game to a third grade class at school and they loved it immensely.
+Plan on helping with the rules and sticking around during game play, but it will provide hours of fun.
+"our family of eight, with ages ranging from 3-41, participates in a bi-weekly ""family game night"" We brought out this game and the kids LOVED IT!
+The humor was definitely catered to a younger crowd, but seeing them so delighted, brought joy to the evening.
+Good clean fun."
+"I have three children: daughter (8), son (11), and husband (39).
+When I joined them the other day for a game of Quelf Jr.
+I really didn't expect it to be much fun for me as an adult.
+Well, I was wrong!
+This game had us all laughing and giggling nearly the entire time.The game itself is really easy to play: You perform actions and move either forward or backward on the board.
+Sometimes you'll get a ""Mr.
+Sour Face"" card, which happened a lot near the end of the game for us, and you'll have to go back several spaces.My daughter was the perfect age to enjoy this game, my son maybe a little too old.
+However, we all had a great time as a family!
+What other game has you making your toes have a conversation or swimming the backstroke in the middle of the floor?"
+"Although the age guidelines recommend this game for ages 6 and above, I played it with my almost-five-year-old daughter on vacation lately and it worked quite well, although of course I had to read the cards for her.
+Later the two of us played with my mother and my almost-three-year-old daughter.
+It was more fun with more people, but it was too much for the little one who quickly gave up and went to play with Grandpa (who doesn't play such silly games).The game is quite simple.
+It consists of a single s-shaped pathway from start to finish with perhaps 30 spaces in between.
+Players advance by drawing Quelf, Jr. cards and either answering questions or doing silly tasks.
+If the question is answered correctly, or if the task is performed correctly, then the player may advance the stated number of spaces.
+Beware, however, among the Quelf, Jr. cards are Mr. Sourface cards which may require you to go back a few spaces.
+But take heart, there are also Ms. Goody Gumdrops cards which may allow you to go forward under certain circumstances.
+First player to reach the finish wins, of course.More players add to the fun because a number of task cards are to be performed for the duration until the player's next turn.
+So it's possible that you could have, for instance, one player hopping around the room, another counting to 100 in a whisper, another pretending to be invisible, etc.
+It can be rather chaotic, but also delightfully silly.I do recommend that parents review the cards.
+One reviewer mentioned the ""smell someone's armpit"" card, which isn't a problem for our little ones, but I could see how it could be trouble for older kids.
+For our family, I removed the card about ""name three foods that make you puke"".
+We don't use the work ""puke"" in our house and we don't use any related words (such as ""gross"" or ""disgusting"") in relation to food.While the game is great fun, I can see it getting old pretty quickly.
+There are enough cards to play through probably three or four games without getting repeats.
+It would still be fun for a while, but there's only so many times you can laugh at someone pulling their head and arms inside their shirt and saying, ""look, I'm a turtle"".
+"I played this with my 14, 6 & 4 year-old boys.
+We had a blast.
+The game was easy for everyone to understand how to play.
+The time needed to play the game was just the right amount of time for both parent and children.
+We actually played the first game without my oldest son.
+When I saw he was ""lingering"" during the game, we played a second round so that he could play as well.Younger children will need someone available who can read the cards for them.
+I was impressed at how well my youngest did on certain tasks that I thought were going to be too hard for him.
+One I did alter a bit.
+The card wanted him to say the alphabet backwards.
+He can't so I had him say it the right way.Overall this was a really fun game.
+The kids had just as much fun laughing at mom as they did playing the game.
+It's nice to have a game all players enjoyed yet nobody was overly focused on winning.
+This was a game that they enjoyed the journey to the end.I highly recommend this to others."
+Quelf Jr. bills itself as 'The Unpredictable Kids Game that gives Random a new name' and is recommended for kids (and adults) ages 6+.
+There are 6 different play pieces (Super Ninja Monkey, Bobert the Robot, Batbileg Chinzorig, the Platypus, KP131, and Pirate Luigi Pepperoni) so anywhere from 3-6 players can play per game.
+Inside is a playing board, cards, directions and a small hourglass type timer.
+Players draw cards with directions on what to do, helping them move along to the finish.
+There are also Mr. Sourface cards to send you backwards and Ms. Goody Gumdrop cards to help players advance.
+I think this is great game for a kids party, family gathering or a sleepover (especially if no one takes themselves too seriously).
+I also think players younger than 6 can also enjoy it, although non-readers may need a bit of help from parents or an older sibling.
+Overall it's a very cute, fun game and I think it'd make a great addition to the game collection if you're looking for something silly for the whole family.
+Funner for the kiddies, not as enjoyable for the adults.
+A lot of dares and silly stuff to do, definitly for the younger ones to do.
+If you're a goofy adult you might enjoy this one, but if you like more of the sit still and concentrate games this may not be the one for you.
+Still fun, though!
+This game is very fun for kids and doesn't bore adults who are playing either.
+We played with 5 year olds, so the adults read the cards for them, but we were all laughing at the silly tasks they had to perform that included dancing, singing, smelling armpits, making animal noises and more.
+It was alot of fun and I think the parents were laughing more then the kids at times.
+Would recommend as a fun family or kids game.
+The kids have a blast and we all get to act silly together - what's not to like?
+It's a pretty basic game of doing silly things or answering (pretty easy) questions to move forward, but the kids are engaged and it doesn't take long so all in all it's a fun family time!
+We couldn't play the game as designed.
+The central idea of the game is for the players to perform silly feats written on cards.
+Some of them required physical abilities our daughter with cerebral palsy can't do.
+Some of them were too complicated for our younger children.
+It is targeted at 7 years old and up, but you can't leave out the younger kids in a family-oriented game.That being said, we still had a lot of fun.
+We adapted the tasks as appropriate for each of our children, and they had a great time.
+Probably the next time we play, we will just dispense with the game board and pieces, and take turns doing the silly suggestions from the cards.
+"I played this with a 3 and a 6 year old.
+They really got into it and had a good time.
+They didn't even care who won.
+I did like that we were able to finish it in a reasonable amount of time.
+Sometimes the kids games go on for (seemingly) forever.
+Even then it did seem to be a bit short, but we could always start over.Lots of goofy tasks, like making up a dance, pretending to swim, and so on.
+I did confiscate the ""Smell someone's armpit"" card - that just wasn't going to end well.
+I skimmed the cards and didn't find anything else objectionnable, but I will keep an eye out.It's rated at 6+, but the 3 year old had as much fun as the 6 year old.
+I'm sure we will be playing it again.
+And again and again."
+"Quelf?
+I didn't know what to expect from it before I played with it and I still don't know what to expect from it now that I have had the pleasure of playing with it.
+What does that mean I know you are asking - well it's just that type of game.
+It's geared to entertain children ages 6 - 9 and it definitely does that.
+I gathered up my six year old grandson and 13 year old daughter and we 3 played Quelf.
+Opening it up left a little to be desire in my opinion but my grandson enjoyed opening it because he got to puncture out the pieces which get moved around the board.
+Speaking of the board it is a small board.
+So I was like ""yea"" short game.
+Okay so I touched base on age groups, some of the box contents and now for the game itself.
+I will confess I did not think I would enjoy the game and at first I didn't, not until the silliness kicked in.
+The six year old he loved it from beginning to end and the  thirteen year old told me she enjoyed herself too but that the game is definitely for younger kids.
+I guess she had to say that it made her sound all mature (at 13yrs) lol.
+The reason I opened this review saying I didn't know what to think and still don't is because the game was overall fun, and silly once it gets going.
+There's no telling what will show up on the cards next."
+"We had a blast playing this game!
+While Quelf Jr. is definitely a kid's game, the whole family can play have a great time.
+Alot of games geared to kid's really aren't much for adults too, but playing with the kids we had just as much fun as they did.
+Quelf Jr. is a great family game.
+You move around the board while chosing ""to do"" cards.
+The ""to do"" cards are a nice mix of fun or silly questions and fun or silly things to do or act out.
+I liked that the ""to do"" cards were not all things to act out, but fun questions to answer too.
+They also give you alot of ""to do"" cards so you can easily play again and not repeat cards.
+Mixed in with the ""to do"" cards are Mr. Sourpuss cards.
+A Mr. Sourpuss card moves you back on the game board.
+We thought there were too many Mr. Sourpuss cards.
+No matter how much we shuffled, we sometimes would get three or four Mr Sourpuss cards in a row, so the second game we played we removed some of the Mr. Sourpuss cards from the pile.
+My only complaint about Quelf Jr. is that the game board is too small.
+We were playing with five people and it was hard to see where everyone was on the board because the game pieces are a little big and the board isn't really wide enough for the pieces, especially when playing with 4 or more players.
+This is a minor complaint though, all in all Quelf Jr. is a simple, laugh out loud game."
+"Quelf Jr. is a very fun game for families.
+We have a 7 and 5 year old and everyone from them to my parents have enjoyed this game.
+It is a very silly game, you have to be willing to put yourself out there and be willing to be embarressed.
+It invloves a series of cards with tasks you have to complete in order to advance farther in the game.
+These tasks invlove anthing from ""whomever bring a penny back to the board game first advances one space"" to ""smell the armpit of the person to your left and say mmm, smells like cookies"" Prepare for tons and laughs with this game!"
+I have nieces and nephews and they like to be silly at times, so this organized silliness was a hit.
+There are cards you draw and they tell you something to do and/or say.
+Some cards move you forward and some cards move you backward.
+I thought there were a few too many cards that move you backwards and it makes the game a little longer than it should be.There was lots of laughter as we played this game.
+In m mind, that is a good thing.
+"We're a family of an 8 year old, 6 year old, and just turned 4 year old, so Quelf Jr. seemed like a good match as it is rated for 6+.
+We found that our four year old could play just fine if she had help with reading the cards--as well as if we got rid of cards that were too hard for her to do (such as make up a sentence with these 6 words.)
+Total game play took about 10 minutes, and because the cards are so silly and random--nobody really felt bad about not winning.The game consists of a small board (no space for the two decks of cards), one very large deck of Quelf Jr. cards which have the various challenges on it, one smaller card of Mrs. GoodyGumdrops cards, a timer, and six gamepieces.
+You begin with the youngest person and draw a card from the Quelf Jr. pile.
+If you can complete it successfully, you move ahead so many spaces.
+If not, you don't.
+Examples of cards are:Close your eyes and tell the eye colors of the other players at the table.
+Move ahead 1 space for each one you get right.What three toppings would you like to try on a pizza that you've never had?
+""Poor little doggy, you look tired!
+Lie down on the floor next to another player and pretend to take a nap until your next turn.
+Don't forget to snore loudly!""
+Move ahead 3 spaces.Some cards have a timer on them, and you have to complete the challenge before the timer runs out:""Take off your shoes and socks and pretend that your big toes are named Gus and Earl.
+Make them talk to each other about potato chips.
+""There are also Mr. Sourface cards which cause you to go backwards.
+""Mr Sourface says you must touch your knee to your forehead until your next turn, If you don't, move back 4 spaces.
+""There are two Mrs. GoodyGumdrops spaces on the board.
+"I wasn't sure how well this game would work out since it's rated for ages 6-10 and my girls are 5 and 7.
+Well, the verdict is that they really enjoyed it!My 7 year old happily read the cards for the 5 year old when it was her turn.
+Although my 5 year old couldn't read the cards, she listenend intently to her sister then followed the instructions.
+We've played this game several times in the last week weeks and the girls have even played without me.The cards each have a task ranging from moving forward or backward a few spaces like a regular board game, to the person performing funny, silly things like counting ""x"" # of green vegetables, or completing a specific task before the timer runs out.There are regular Qeulf Jr. cards which keep the play in forward motion and Mr. Sourface cards which usually require you to go back a few spaces or have your turn skipped.
+Although moving backwards solicited a few groans from the girls, they still eagerly kept up with the game.
+I'd we spent about 25 or 30 minutes playing the game until someone won.I enjoyed the game because it kept my girls laughing, it kept their attention, they were counting, reading, and generally, having a good time.
+The girls liked it for the silliness and the competition to win."
+We weren't quite sure what to expect from Quelf Jr., but we were pleasantly surprised to find it to be a fun, simple game for young and old alike.
+Basically, you pick a card and do as it says in order to advance forward on the game board.
+Some tasks are timed, and a 30-second hourglass sand timer is included.
+Some also require getting up and being active, so you're not going to be sitting in one spot the whole time.
+Both of our kids have a great time playing, and us parents enjoyed it as well.Overall, Quelf Jr. is a fun, goofy game that can be enjoyed by the younger ones and is never monotonous or overly boring.
+If you're looking for a decent substitute to sitting in front of the TV playing video games for hours on end, this is a good recommendation that will most likely go over well with everybody in your household.
+This game is pretty much as silly as it promises, and the game mechanics are simple enough -- do whatever crazy thing the card tells you to do, move ahead however many spaces the card tells you to, and the first person to get there wins.
+I bet the adult version of Quelf is a riot.The only problem we're having with the Jr. version is how uneven the challenge is.
+For example, one card tells you to say what color your hair is, and the next asks you to say the alphabet backwards in under 60 seconds.
+One could be done by a two year old, and the other will require some heavy thinking from an adolescent.
+Unlike some kids games, the cards are not marked with different difficulty levels.
+So whether you're playing with a six or ten year old, they get the exact same cards.
+My wife and I just modify some of these cards on the spot for our daughter, which isn't hard to do.
+By that logic, it would be nice if the game came with some blank cards so that you could create your own challenges.
+"My stepdaughter, (age 30) loves the regular Quelf so I thought that I would get this for her 8 year old daughter.
+It is a fun and silly game that occasionally has some educational merit by using your imagination and creativity.
+Part board game and part card game you follow silly directions on a card to move forward on the board.
+Basic play with a lot of silly action and thought.
+Great for kids from 5 to 85, providing that you don't mind getting VERY SILLY in front of others.Incidentally, Quelf Jr. is a carbon copy of the game Flapdoodle, which I also own...
+So, I am wondering, ""Which came first, the Flapdoodle or the Quelf?
+""Happy Playing!"
+"This game is best described as Cranium Jr meets Candyland.
+It has the fun characters and the simple play of Candyland, with all the variety and silliness of Cranium.
+I have boys aged 4, 7, and 9 and they were all able to play and enjoy it.The play is simple and you can virtually just open the board, lay out the two stacks of cards, and start playing immediately.
+The directions are printed right on the inside of the box (no flimsy papers to lose!)
+and the play is so simple, it only takes about five sentences to explain it.
+We were ready to play almost as soon as we opened the box and my kids have been able to play it on their own since then.
+At least one of the players will need to be able to read as the cards have to be read, but the nice thing about this game is that the cards don't have to be kept 'secret' since play is individual, so older children can help younger children to enjoy it as well.Each person takes a turn, starting with the youngest, and they draw a card.
+That card will give them a task to complete, and if they do so, they get to move forward however many squares are indicated on the card.
+Simple.The fun comes in because you never know what the cards will tell you to do.
+Some examples of different cards:""Start the timer and then run and get a towel.
+Use the towel to make a little bed and then pretend to put your foot to sleep in it.""
+(My 4-year-old drew that one and it was a crack-up to watch him try and finish it before the timer ran out.
+)""Make up a sentence that makes sense before the timer runs out.
+You must use each of these words: pretzel, traffic, gorilla, bowling, flippers.
+""""Hold on to your tongue with your fingers and then say the first name of each player.
+""""Name five things you would find at the beach.
+"My six year old loves this game.
+Not so good for adults who are playing against little children but if you can ref between a couple of small kids they will have lots of fun.
+At first glance at the gameboard I thought the game would be over in a few minutes but some cards reverse the game and extend the play.
+Pick a card, do the silly thing it says (like run to the kitchen and grab something that starts with an ""S"" and return before the timer runs out) and if you get it right or accomplish what it says then you move the number of spaces on the card.
+A couple other things and cards are added to make things interesting.
+I've never played the adult version so I can't compair it but for little kids this game if lots of fun.Contents of Quelf Jr.:165 Cards1 Funtastic Game Board6 Character Game Pieces1 TimerPlayer Guide"
+This one was a hit in our house and has been requested many times since we first played it as a family.
+It's a simple game where you follow a path and, to advance, you have to choose cards and perform the action on the card.
+All are relatively easy, silly tasks that either get the whole group involved, or at least laughing at the performer.My son isn't quite reading on his own yet, so we had to read him the cards, but he loved performing the goofy actions--and laughed hysterically watching his parents do the same.
+I liked the time it gave us together and how it really took you out of the everyday.
+It definitely required the parents, and kids, complete attention (no checking emails during someone else's turn ...
+I'm looking at you dad) making it the perfect family time activity.
+At the end my husband and I both commented on what a good time we'd had with our son, and he immediately wanted to play it again.
+(Sad the game was over.
+)A sweet, cute game that can easily translate to just about any age, especially if you don't mind reading to younger players, I can see this being great for groups large and small.
+My kids VERY much have enjoyed playing this game.It fills them with constant giggles and bouts of rolling around on the floor!It also makes them VERY LOUD :).My husband and I also played this game with them and he tried to sneak out about half-way through.Obviously not the super silly type!This was also a hit for my daughter and her friends when she brought it to a sleepover :).
+To let you know what a success this game was in our home, you have to know that our youngest child can barely stand sitting through most games we play as a family.
+They simply don't hold his attention or offer much for him in terms of fun or value.
+This game, however, was a hit.
+It not only held his attention, but also a number of his cousins of similar age.Quelf Jr. is a simple game with a simple game board.
+The object of the game is to have fun while getting from start to finish.
+There are six silly characters to choose from.As players make their way around the board, they choose from a variety of cards that ask the players to do silly, non-sensical, random things.
+Quelf Jr. cards, for example, ask players to answer crazy questions, use their imagination, or perform silly stunts, such as laying on your back and doing the backstroke while singing a made-up song about singing, or closing your eyes and using only your sense of smell to figure out who another player is.
+If you perform the task in the allotted time, you get to move forward.
+Mr. Sourface cards force you to move back.
+Ms. Goody Gumdrop cards allow you to move forward if you do thing such as getting another player to laugh, say something nice about another player, or hum a song.
+Think of it as a silly version of the Un-Game, which was so popular many years ago.As I said, my son and his cousins had uproarious fun playing this game and laughing at the silly things they were asked to do (and did), and probably played it for nearly an hour straight.
+It was a great game for mixed ages between 5-10.
+The normal length of play is 30 minutes.
+My son had played the adult version of this game with friends so I took his recommendation to try out the junior edition.
+My younger kids love it!
+The board is small and you can only have 6 players at a time -but that's all you'd want for this active game with little ones.
+The markers are a bit wobbly- we had to turn off the fan- it was a hot summer day and it blew the markers over.
+The kids loved the interesting characters and fought to see who could be the robot.
+I liked the warning on the box- Knowledge of English required!
+It's a good idea to be wearing shoes when playing because you never know what you will be asked to do when it's your turn.
+We liked it so much that I chose the adult version for my next Amazon Vine selection.
+It would be a fun gift for grand kids and families with little ones.
+Quelf Jr. is a silly and fun game for all ages.
+One time we played, ages three through 74 were represented and everyone had a good time.
+It says it's for 3+ players, but it's fun with just two players as well.
+It is a much quicker game with only two.To move along the path on the board, you draw from the Quelf Jr. cards or the Ms. Goody Gumdrops cards.
+The later always helps you move forward, but sometimes the Quelf Jr. stack has a Mr. Sourface card that will make you move back.
+The cards are crazy.
+They have players doing some really odd things - making up handshakes and finger worm dances, sniffing armpits, squashing faces, hopping around on one foot and much more.
+Sometimes, I had us pass on a card - I didn't want a sock thrown around knocking over a drink on the table or a card that required us to have pockets in our clothes and we didn't have any.
+There are lots of cards though, so it's not a problem to skip over one now and then.The cards are a bit flimsy.
+When I try to shuffle them, they are not like regular playing cards and they are not thick like Candyland or Trivial Pursuit cards.
+So far they are okay, but I could see them easily bending and getting messed up with the kids in this house using them.
+The playing pieces are cute and have the name written underneath the picture.
+Unfortunately, the black stand that slides on the bottom of the cardboard character covers up some of the letters such as the lower half of the letters `p' in Pepperoni.Overall, Quelf Jr. is a wonderful addition to our game closet.
+It's not like anything else we own.
+It can be a unique game each time.
+I see it as getting a lot of use in our house.

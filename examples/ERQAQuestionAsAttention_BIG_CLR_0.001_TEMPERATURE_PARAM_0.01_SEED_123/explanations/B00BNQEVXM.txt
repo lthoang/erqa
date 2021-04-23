@@ -1,0 +1,185 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+We had way more luck with little pony when my son is younger, maybe because it was softer?I wouldn't buy it.
+The toy itself is bright and vivid in color.
+"I ordered this item to give to my 12 month old niece.
+We'll see how my sin reacts to it once he's old enough to play with it, but for now this is sitting in the corner of the playroom collecting dust.
+It was very easy to put together, even with a toddler meddling in the process, and it is sturdy.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.004121378529816866,0.00808103196322918,0.006434851326048374,0.007732817903161049,0.0031818689312785864,0.007661282550543547,0.00742449052631855,0.007954341359436512,0.004801122471690178,0.004968777298927307,0.006601700093597174,0.006094484124332666,0.008065441623330116,0.008509308099746704,0.0024257085751742125,0.0030945579055696726,0.005750204902142286,0.006577667780220509,0.004640109371393919,0.005748659837990999,0.0025821763556450605,0.007780362851917744,0.00505763478577137,0.004200787283480167,0.004547846969217062,0.0041052596643567085,0.005616405978798866,0.0040492466650903225,0.00594215327873826,0.007834268733859062,0.006592942401766777,0.007834268733859062,0.004746273625642061,0.003710450604557991,0.007352987304329872,0.006133276037871838,0.007724846713244915,0.006919977720826864,0.006438883952796459,0.007395834196358919,0.008345152251422405,0.0033067541662603617,0.004793242085725069,0.004455947782844305,0.007834268733859062,0.005009506829082966,0.0070080445148050785,0.005092150066047907,0.005686439108103514,0.0034218390937894583,0.007919134572148323,0.006528390571475029,0.004345946479588747,0.007919134572148323,0.004324730951339006,0.006720564793795347,0.007989760488271713,0.0060339393094182014,0.007707708980888128,0.006460828240960836,0.00715354410931468,0.008455724455416203,0.00337363057769835,0.005469946656376123,0.007735289167612791,0.0029179861303418875,0.006817124783992767,0.0064515238627791405,0.0030395775102078915,0.007774471305310726,0.00779664795845747,0.008578999899327755,0.007817202247679234,0.008654787205159664,0.007918816059827805,0.007817202247679234,0.004692091606557369,0.004938108846545219,0.007019858807325363,0.006982868071645498,0.006262463983148336,0.003585082944482565,0.0024929360952228308,0.005464833229780197,0.004826447926461697,0.008091599680483341,0.0036128407809883356,0.0058013033121824265,0.003007453866302967,0.0063792383298277855,0.003107597352936864,0.007013382390141487,0.002637248719111085,0.004935222677886486,0.006795082241296768,0.007085215765982866,0.007845534011721611,0.0075105768628418446,0.005159121006727219,0.007343047298491001,0.007508992683142424,0.002646887907758355,0.0062856352888047695,0.003588419407606125,0.004420817829668522,0.00591884134337306,0.006306528113782406,0.0032394351437687874,0.005049311090260744,0.008129830472171307,0.006098445039242506,0.006315872073173523,0.005486852955073118,0.005031896289438009,0.006665203254669905,0.00487542012706399,0.007788166403770447,0.0055938721634447575,0.004698051139712334,0.007690582890063524,0.004108852241188288,0.00673535093665123,0.0071677351370453835,0.006369792856276035,0.009143006056547165,0.00292728072963655,0.007093755528330803,0.005038066301494837,0.006120617501437664,0.006698440294712782,0.0025338076520711184,0.004206951707601547,0.0038448914419859648,0.007412952370941639,0.0024051619693636894,0.005837853066623211,0.004869095515459776,0.007135049439966679,0.007769836112856865,0.007614446338266134,0.004100498277693987,0.006642040330916643,0.005008934065699577,0.00806205254048109,0.006174030248075724,0.007118535228073597,0.006983073893934488,0.0035956960637122393,0.008340259082615376,0.00688176741823554,0.006696792319417,0.007820705883204937,0.002780146664008498,0.00493429834023118,0.005245211999863386,0.006503250449895859,0.008254480548202991,0.00782034732401371,0.0030092771630734205,0.007567796390503645,0.008125289343297482,0.004523030482232571,0.004334687255322933,0.0059013208374381065,0.004542595706880093,0.0034306186717003584,0.008125289343297482,0.0044456725008785725,0.006959524005651474
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+The Fisher Price Rockin' Tunes Giraffe was easy to put together.
+It's also solid, sturdy and relatively safe.
+I selected this for my one year old son, and after having this a month, it doesn't really engage his interest.
+He has favorite toys that he will repeatedly play with, but this giraffe is not one of them.
+Despite the lights and noises, you have to entice him to play with this and he moves on in seconds.
+One thing I'll say is that this was a snap to assemble and is a really lightweight and sturdy.
+I was pleased with this from that perspective.
+It is also musical and noisy and lights up and so you'd think that it would grab the attention of any child, and it did, for a while.
+My daughter, who is three, thought this was awesome for about ten minutes.
+She hasn't really touched it since.
+That is why I'm grading this so low.
+It has elements of fun, but it just doesn't pack the punch special enough to feel necessary to the kids.
+It's plastic, and very one-note texturally, which could be a reason why the kids lose interest quickly.
+We'll see how my sin reacts to it once he's old enough to play with it, but for now this is sitting in the corner of the playroom collecting dust.
+This rocking-giraffe is a good enough value, and of well enough construction, and interactive enough that it may be an entertaining purchase for your 1 year old.Positives:++ WHEN ROCKING, THE GIRAFFE IS MUSICAL.
+If ever there was an incentive to young children to do something, it is the cause and effect of `my actions cause electronic noises'.
+This horse, sorry, this GIRAFFE, is no exception.
+It does its noisy job well.+ MULTI-VOLUME CONTROL.
+There is a switch on the bottom which turns the volume off, or to loud, or to very loud.
+(Not sure when you'd ever need the very loud setting, but my sympathies to you if you are forced to listen to it for minutes on end).+ EASY TO SET UP.
+Yes, this requires a Phillips head screwdriver, and about 10 minutes to assemble and put in 6 screws, but there was nothing difficult about it.+ THE MANE LIGHTS UP.
+This is a neat feature.
+When the child moves the rocker the entire mane lights up in bright red -definitely something that will catch the child's eye.+ ROLLERBALL IS INTERACTIVE.
+Not a big deal, but if you spin the rollerball at the top it makes various noises.
+So, not only can the baby rock, the baby can spin the heck out of the roller and make even more of a racket.Negatives:- HARD TO GET AT THE BATTERY COMPARTMENT.
+You can get it with a thin Phillips head screwdriver, but both screws are deeply recessed, and there are two of them.
+They could have done the same thing with a single screw (like many other toys), or no screws at all.
+This makes it a pain to change batteries unless you have the screwdriver handy and five minutes.- BATTERIES NOT INCLUDED.
+Not a big deal, but many toys these days come with the batteries pre-installed.Overall, it seems decent and will entertain the little ones.
+This toy is very cute and fun.
+The colors are bright and attractive.
+The plastic seems very durable and will hopefully last a long time.
+Assembly was quite easy - although we did have to find a smaller screw driver to remove the battery cover.
+At first I thought the giraffe would be too narrow and would tip easily - but this hasn't seemed to be a problem yet.My one issue with this toy is that it doesn't seem to do everything it says in the description!
+This is somewhat frustrating.
+Yes the music does build as baby rocks faster - but it is a really subtle difference.
+It seems that all that happens is more instruments are added to the melody.
+But, again, this difference is quite subtle.
+Personally I think it would teach children cause and effect better if the music got louder or faster as baby rocked more.
+Also, according to the product description and details on the box, the giraffe should say 4-5 different phrases.
+So far, we have only heard two phrases.
+According to the description, the giraffe says these phrases when baby hits the roller ball at the top of the head - but the only thing that seems to happen when we do that is music and lights start - but no phrases.
+The only time we have heard phrases is when we turn the giraffe on, and if it has been sitting, untouched for a little bit.One more thing I was disappointed in: I happened to see the TV commercial for the giraffe before I actually received it.
+In the commercial it shows the giraffe making galloping noises as the baby is rocking on it.
+So, naturally, I assumed that the toy did this.
+That is of course unless that horse is a rocking giraffe.This is a cute toy in theory.
+The biggest problem is that my 14 month old has absolutely no interest in it.
+She will walk by it on occasion and give it a little tap, but refuses to ride it.
+Even when we are standing next to her and holding her while she is on it, she isn't interested.
+This is basically a plastic rocking giraffe.
+It's pretty much going to be a toss-up.
+If your kids likes it, it will be a great toy.
+If your child is like mine and has no interest, it is likely to just be one more item cluttering up your living room.Edit: At 14 months Fiona had not interest in this toy.
+Now, at 16 months, she is starting to like it.
+She still has a little trouble climbing up on it herself, and she can't rock it herself yet.
+But she loves to sit on it and have Mama or Papa rock it for her.
+She spins it and laughs and looks at us unhappily when we quit rocking her.
+My daughter was 21 or 22 months when she started using this (she's now 23 months old) and she is an average size for her age.
+I was worried that this would be too small for her but it is actually perfect.
+Even though she's getting taller, it is the perfect size for her.
+She actually needed help getting on it at first so I'm glad it's not any taller.
+It was very easy to put together, even with a toddler meddling in the process, and it is sturdy.
+My LO loves this pony and prefers it to her Playskool Rocktivity Walk N Roll Rider, which she is starting to outgrow.
+It keeps her occupied for lengthy bits of time so I like it too :)
+This rocking horse is well made.
+The molded plastic parts are of higher than average quality and the light effects on the back of the neck are pretty and vibrant without being overly bright.
+It makes a variety of sounds and noises.
+It is fun for both our baby and our older toddler to use, as it is a good, middle of the road size.
+It seems to have a really good center of gravity and I have never felt like it was going to tip over.Our own experience is that because we are space limited, this rocking horse takes up a fair amount of room for the amount of play it gets.
+Its really cute and great quality but for whatever reason my kids only rock on it a few seconds at a time then move on to something else.
+However if you have a nice spot for it, you will really like it.
+"I ordered this item to give to my 12 month old niece.
+She loves it!!
+The toy itself is bright and vivid in color.
+It's a really cute giraffe.
+I know this is sappy, but it makes me happy to see her get excited to see her ""affe.""
+It's the perfect size for my niece...which does concern me a little because she is a very small twelve month old; so I'm not sure how it would work well for a large 36 month old.
+(Because the recommended age range is 1 to 3 years old).
+My sister in law doesn't let my 3 1/2 year old nephew get on it because she thinks he'll be too rough on it and break it.
+So, that leaves me to wonder how durable it will be in the long haul.Anyway, the giraffe has alot of fun songs and blinking lights that are fun to listen to and watch.
+There is also a spinning well for the child to play with on top of the giraffe's head.
+The more the giraffe rocks and moves, the more lights and music plays.
+However, both my niece and nephew like to go up and hit the giraffe so that they can dance around it.
+My niece is still young enough that she needs help getting on and off the giraffe, and my sister in law has only allowed my niece to rock on the giraffe while it's on the carpet.
+It does seem much, much safer than traditional rocking horses (which, well, my 5 siblings and I survived...but we did fall off and pinch plenty of fingers!
+)Overall, I would highly recommend paying $40 for this fun toy!"
+I got this for my grandson and I am so happy I did...was easy to put together and I love how the mane lights up...the music is happy and not too loud...so very cute...he loves it
+"This is a very cute change from the usual rocking horse toy.
+With flashing lights, music and talking it seems a toy sure to keep a small child entertained.The lights and sounds are activated by what the baby does.
+For example, if the baby is rocking, the giraffe says something like ""Isn't rocking fun?""
+There is a volume control with loud (not really too loud), soft and off so don't worry about the sounds driving you crazy.It is small and light weight but seems sturdy enough for the recommended age of 12 to 36 months.
+The weight limit is listed as a maximum of 43 lbs.
+The assembly was not difficult with only eight screws required.The only problem I had was that the numbers on the feet that had to match their corresponding location were virtually impossible to see.
+This might not be a problem for young parents, but if grandparents are doing the assembly I recommend a strong light.
+I was able to assemble it by myself without too much trouble but an extra set of hands would have helped just a bit.
+Overall a nice first ride on toy for a baby."
+I got the giraffe for my grandson.
+The giraffe is very cute and the rocking action in fun.
+The music and lighting makes it even more appealing.
+It was fairly easy to put together - using a smaller head philips screwdriver (about three inches long on the blade but not anything extremely long.)
+There is a slight balance issue.
+My daughter is a mechanical engineer and she told me that the rockers should have been placed slightly wider than they were.
+It would have made a big difference in the stability of the toy.
+She may modify it by adding counter weights and/or wings to add the stability - or not.
+We decided that the best place to use the toy was on the carpet in case my grandson tipped it over at some point.I think it is a fun toy but that it could definitely be improved with a slightly better engineering.
+"What could be more fun than having a giraffe for a friend?
+One who is colorful and musicsl and rocks and rolls to beat the band?
+Especially when you are two years old?This is a perfect gift for your grandchild's birthday or a wonderful holiday gift for a young child.The music makes it much more special than the average rocking horse, at least if you come from a family of music lovers, as we are!You child will rock and ""rock out"" at the same time!Fisher-Price could not have done better than this.
+And I remember waaaay back to a toy which was much loved here, which we called ""Bucky the Wonder Horse"".
+Bucky was a Fisher-Price fave of ours!Durable,cute and great.
+This  rockin' tunes giraffe is a winner!Thanks,jean"
+I got this for my grandson and it is very easy to put together and seems fairly durable.
+I think it should be a bit shorter as my grandson's legs did not quite reach where they should but I'm sure in time he will grow into it.
+He needed help getting started with the rocking but once he got going it was colorful and musical but noisy.
+The tones should be scaled down a bit to keep a parent's (or grandparent's) sanity.
+He has been using the Giraffe for a couple of weeks now and so far he hasn't lost interest, but neither is it his favorite toy, but he does play with it.If I could give this toy a 3.5 stars I would.
+Not a bad toy, just too noisy.
+As for the parent the giraffe is quite easy to put it together.
+It's very colorful, not overly noisy and the light is not too crazy.I have a 2 years 8 months old boy and 8 month old girl.
+They both loved it the first day.
+Toddler had no problems using it and I assisted my infant baby girl to sit and rock.They liked giraffe the next day or two, and now sad giraffe stands there and no one cares about her.
+Seriously they don't even bother to touch her.
+I will have to put it away and rotate it with other toys.
+I'm glad I didn't buy it, personally I prefer toys that makes kids figure out how it works, or amazes them in some way.
+We had way more luck with little pony when my son is younger, maybe because it was softer?I wouldn't buy it.
+Out of the box, this toy was easy to assemble with a phillips head screwdriver, as well as a smaller phillips to install the batteries.
+Even though I selected this toy with my 10 month old in mind, my 2 1/2 year old twins immediately commandeered the giraffe for themselves.
+The twins (boy and girl) had great fun rocking on the giraffe just as hard as they possibly could, with no tipping over or anything like that.
+My daughter, who is almost 3 inches shorter than her brother, did almost tip the giraffe over when she was climbing off.
+The twins have had similar toys before, so they almost immediately knew how to make the music play (which isn't as annoying as some reviewers have stated) and they seemed to enjoy the lights and music.
+There were even times when they weren't riding the giraffe that one of them would walk over to it and spin the thing to make the music play, then the clapping and dancing would start.As for my 10 month old, she currently refuses to walk (or even crawl) so I had to sit her on the giraffe and help her hold onto the handles.
+I was able to rock her back and forth and she was very happy with that, especially once the lights and music was fired up.I can't speak for the long term durability of this product, but it has held up to some pretty rough play over the last few weeks.
+We have similar Fisher Price riding toys that are 2+ years old, so I have high hopes for this one as well.
+I would recommend this toy to anyone with a baby or young toddler
+My great granddaughter loves this even tho it is not a horse it is so cute :) She loves all of the bells and whistles when she rolls the wheel and pushes buttons.
+It has some tunes also and she will start it playing and then start to dance too cute :)
+"I love the general rainforest line from Fisher Price.
+We've have the bouncer, the jumperoo, the crib soother ... what a fun and sweet line with great non-cheesy music.In many ways, this rocking giraffe is no exception.
+The music and lights are great.
+The colors are bright and the design is so sweet.My daughter loves to go up to it and knock it so that it plays music, and then she dances NEXT to it.While overall this is a sweet toy, here are some things to consider1.
+ASSEMBLY:  If you don't have a long and skinny phillips head screwdriver, you won't be able to assemble it.
+There are deep recessed screws that none of my 3 screwdrivers could reach.
+I had to borrow from a neighbor.2.
+SIZE:  Overall the toy is small.
+It's rated 12-36 months, but my 12.5 month old daughter (80% height) is too tall for it.
+Her feet are squarely on the ground and she can scoot around on it.3.
+ROCKING:  It doesn't really rock much on my hardwoods or on the rug.
+There isn't much rocking to it.Overall the music, lights, and style is great.
+But I wonder if it was made a bit too ""safe"" overall ... safe to keep the screws too deep.
+Safe to keep the toy too small to fall off of.
+Safe to make the rocking very minimal.
+I think a bit less ""safe"" would have been a lot more fun.
+I've never had to replace any of my daughter's toys, but I just want to say that FISHER PRICE WAS AWESOME AND THEY REPLACED THIS WITH NOOOO HASSLE OR PROBLEMS AT ALL!!
+!My daughter is 10 months old, and although she doesn't sit on this for very long, she does like it, when it starts to play music, she'll start dancing to it and likes to see it light up.
+She is in the 37% for height and she has been using this since the middle of 8 months.
+**I do want to warn other parents, this slides out fairly easily and when she has pulled herself up on this, it has fallen on her.
+I got this on the chance tht it might help my 2 year old with some of his delayed motor skills (he's closer to about a 18 months, developmentally.
+And I hate it.
+I just hate it.It's loud.
+And noisy.
+And my son couldn't be less interested.
+I put him on it, and he seemed slightly entertained when the music was on, but after it timed out, he just wanted off.But the real reason I hate it is that it does entirely too much for entirely too little.
+Developmentally, I'm told that's what is best are toys that you have to actually interact with in order to make them do things.
+This toy just doesn't.
+It doesn't seem to respond to the rocking, and even if it did, you could just push it and get the same effect -- no advance skills needed.
+And you rock it or hit a button just once - just once - and you get an entire music and light show that seemed to go on - to my mind, at least - FOREVER.Yeah, I dislike this toy.
+A lot.
+Not particularly educational, and too loud for me to want around.
+It's in a corner of our den, until I figure out how to best recycle the thing.

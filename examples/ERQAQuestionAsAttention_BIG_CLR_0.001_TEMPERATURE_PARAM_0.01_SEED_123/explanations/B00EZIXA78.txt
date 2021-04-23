@@ -1,0 +1,167 @@
+Top question(s):
+Is the Radio Flyer Canopy (purchased separately) compatible with this model?
+How does this handle on sand? Has anyone taken this to the beach?
+Top sentence(s):
+Triple strollers are few and far between and way out of my budget.Wagons are an awesome alternative to strollers!
+On the flip-side, you cannot &#8220;drive&#8221; this vehicle from the wagon itself.
+The wagon can fit easily into the trunk of a SUV.
+The cargo bag comes in handy as well.
+So far, our favorite is the step 2.
+
+Question attention weights:
+0.05658624693751335,0.4061996638774872,0.06827980279922485,0.3439631462097168,0.12497101724147797
+Sentence attention weights:
+0.008944600820541382,0.002385679865255952,0.0040977164171636105,0.010198254138231277,0.0019741510041058064,0.018160538747906685,0.008406148292124271,0.002896542428061366,0.00668515358120203,0.0033334807958453894,0.006261882372200489,0.007657096721231937,0.004106584005057812,0.005587165709584951,0.00545503618195653,0.008695345371961594,0.009492279030382633,0.004176586400717497,0.013636271469295025,0.009845171123743057,0.006327778100967407,0.010386202484369278,0.012205211445689201,0.009010116569697857,0.007562102284282446,0.0061138165183365345,0.010028192773461342,0.0020852070301771164,0.0026773749850690365,0.005573002155870199,0.006399917416274548,0.0025043534114956856,0.0030413735657930374,0.0033460301347076893,0.00915099773555994,0.007672043517231941,0.008762814104557037,0.005139885004609823,0.0027406064327806234,0.010090875439345837,0.005411949940025806,0.004980567377060652,0.006666271481662989,0.0021361683029681444,0.0058411783538758755,0.008964004926383495,0.007658397778868675,0.005345852114260197,0.009452812373638153,0.0035740812309086323,0.006039791274815798,0.009062006138265133,0.0036426798906177282,0.008177587762475014,0.007120504975318909,0.009927088394761086,0.006691500544548035,0.0017708392115309834,0.005674252286553383,0.007540983613580465,0.0016161978710442781,0.010218055918812752,0.0077650235034525394,0.004820062778890133,0.008488175459206104,0.005086176097393036,0.006662747822701931,0.00823898334056139,0.008269021287560463,0.006822294555604458,0.006836147513240576,0.015363521873950958,0.001401790650561452,0.009190359152853489,0.005960948299616575,0.008060295134782791,0.0103919617831707,0.009039536118507385,0.005860321689397097,0.009375219233334064,0.005785685032606125,0.010836954228579998,0.007043211720883846,0.0035806563682854176,0.0037356880493462086,0.005587657447904348,0.005473775323480368,0.0033873082138597965,0.009541220031678677,0.007455858401954174,0.009121431037783623,0.006363022606819868,0.008627098985016346,0.004340330138802528,0.0030628482345491648,0.006197747774422169,0.009064908139407635,0.008325362578034401,0.008305884897708893,0.0030710247810930014,0.006386550609022379,0.004827456548810005,0.010623622685670853,0.00722650159150362,0.013118146918714046,0.011377651244401932,0.007991056889295578,0.0044945054687559605,0.01064989436417818,0.010270749218761921,0.007954617030918598,0.00916414987295866,0.007557932753115892,0.008808843791484833,0.006185930222272873,0.008182860910892487,0.007939041592180729,0.004895578604191542,0.007416801527142525,0.0067459335550665855,0.00516987731680274,0.00509299710392952,0.0037618870846927166,0.007591340225189924,0.004464827477931976,0.0021957179997116327,0.006522391922771931,0.009935753419995308,0.009003150276839733,0.009413178078830242,0.008592878468334675,0.010847405530512333,0.010232404805719852,0.0019315178506076336,0.011005864478647709,0.003622898133471608,0.005882406607270241,0.015251233242452145,0.003840698627755046,0.011960967443883419,0.008614709600806236,0.006381382700055838
+0.009411646984517574,0.002879026345908642,0.004503430332988501,0.005621001124382019,0.00325673446059227,0.011345949023962021,0.009887325577437878,0.004490163642913103,0.00884689949452877,0.0033229419495910406,0.007165241986513138,0.007569853216409683,0.004555959720164537,0.003137164982035756,0.004938016179949045,0.009280608966946602,0.009063235484063625,0.005115147214382887,0.00882431585341692,0.010095090605318546,0.008470378816127777,0.009220038540661335,0.010684811510145664,0.010050120763480663,0.005727583542466164,0.007270562928169966,0.01115970779210329,0.002724874997511506,0.005218385718762875,0.004489442333579063,0.007204798050224781,0.0026286339852958918,0.003835183335468173,0.00478828651830554,0.00996926985681057,0.008381539024412632,0.009553982876241207,0.004681834019720554,0.0037593236193060875,0.00960392877459526,0.0073672104626894,0.005721310619264841,0.008927303366363049,0.0053111291490495205,0.007517915219068527,0.010110907256603241,0.005867373198270798,0.004514670465141535,0.008509550243616104,0.00567398127168417,0.0035427091643214226,0.007802849169820547,0.0038283064495772123,0.007177319843322039,0.006647973321378231,0.009002738632261753,0.007015368901193142,0.0034552656579762697,0.003697271691635251,0.005586791783571243,0.0028479783795773983,0.008081097155809402,0.007714989595115185,0.005659305956214666,0.006844872608780861,0.004867791663855314,0.0026779519394040108,0.007596232928335667,0.010819519869983196,0.0053422218188643456,0.003974412567913532,0.01213851198554039,0.0029032365418970585,0.006488064303994179,0.008803917095065117,0.008168412372469902,0.00895554106682539,0.010081907734274864,0.006778706796467304,0.007632107008248568,0.009758594445884228,0.010374284349381924,0.008434867486357689,0.0038127400912344456,0.005505813751369715,0.004491018131375313,0.0054166000336408615,0.004136193543672562,0.009760932996869087,0.005522346589714289,0.01004816498607397,0.003881280543282628,0.009670190513134003,0.0029513214249163866,0.0032633678056299686,0.0069390349090099335,0.009776286780834198,0.008467304520308971,0.00857640616595745,0.004363419488072395,0.007928907871246338,0.006174091249704361,0.007057579234242439,0.009277398698031902,0.01104230247437954,0.010281880386173725,0.004372608847916126,0.00629315385594964,0.01030960027128458,0.007928358390927315,0.008411308750510216,0.010344603098928928,0.009029444307088852,0.010199328884482384,0.008208807557821274,0.009323433972895145,0.006699425633996725,0.003960679285228252,0.009278109297156334,0.0070288111455738544,0.005422763992100954,0.006609594449400902,0.0036595608107745647,0.009424285031855106,0.004552982281893492,0.003594795474782586,0.008465736173093319,0.010663347318768501,0.009434361010789871,0.010433939285576344,0.007312340196222067,0.010943330824375153,0.008323914371430874,0.003217831254005432,0.008167623542249203,0.006230203900486231,0.005800869315862656,0.010090122930705547,0.003911976702511311,0.010968566872179508,0.009176939725875854,0.006907676812261343
+0.008447504602372646,0.0038057658821344376,0.004243980161845684,0.006089016329497099,0.0038625672459602356,0.010976074263453484,0.009486247785389423,0.00586645258590579,0.00909380242228508,0.004108891356736422,0.00674745999276638,0.006797406822443008,0.006041473709046841,0.0033238634932786226,0.004924358334392309,0.008985249325633049,0.010173835791647434,0.0044201212003827095,0.009031597524881363,0.009239833801984787,0.0077641550451517105,0.009411792270839214,0.01115884818136692,0.009452047757804394,0.006233011372387409,0.006944611202925444,0.01046817284077406,0.0022110624704509974,0.005546016618609428,0.004251249134540558,0.007693551015108824,0.002709883963689208,0.004479396156966686,0.006685943342745304,0.009349442087113857,0.007805104833096266,0.008822640404105186,0.004099169746041298,0.005163195542991161,0.008648952469229698,0.00827074609696865,0.005296680144965649,0.0079090790823102,0.005458553787320852,0.0072248224169015884,0.009466034360229969,0.005590848624706268,0.0065770335495471954,0.008321837522089481,0.005960578098893166,0.003139280714094639,0.007768428418785334,0.0036704351659864187,0.007749638520181179,0.006865695584565401,0.007817662321031094,0.0071304189041256905,0.0032461571972817183,0.004606812261044979,0.006377717014402151,0.0035599907860159874,0.008913573808968067,0.006941939704120159,0.006030383054167032,0.006721532437950373,0.00434249360114336,0.0022045078221708536,0.006960999220609665,0.012827327474951744,0.006337995175272226,0.004369423724710941,0.01290917955338955,0.0037663388065993786,0.005661355331540108,0.00799388438463211,0.008412100374698639,0.009204068221151829,0.009388083592057228,0.006095307879149914,0.006434531416743994,0.00831278134137392,0.01056029461324215,0.009010774083435535,0.0032203553710132837,0.00498571852222085,0.005400959402322769,0.004854557570070028,0.005397377070039511,0.009305673651397228,0.005465341731905937,0.009332044050097466,0.004723346326500177,0.009061185643076897,0.0027791138272732496,0.003224722109735012,0.00574135547503829,0.009139006957411766,0.0089773740619421,0.0081369923427701,0.004815194755792618,0.007541587110608816,0.007213586941361427,0.007322386838495731,0.008797353133559227,0.010017812252044678,0.009661663323640823,0.0057224091142416,0.005799038335680962,0.009713920764625072,0.008539670147001743,0.009366174228489399,0.009982598945498466,0.009204383008182049,0.009529413655400276,0.008400184102356434,0.008871940895915031,0.007746553979814053,0.00331789068877697,0.008436334319412708,0.006540950387716293,0.005486485548317432,0.006842738017439842,0.004162454977631569,0.009003976359963417,0.004907912574708462,0.003217116231098771,0.008180373348295689,0.010011585429310799,0.009185167960822582,0.009743654169142246,0.009610350243747234,0.010156606324017048,0.0077916705049574375,0.002646741224452853,0.00735673401504755,0.007099286653101444,0.006050366908311844,0.010929897427558899,0.005434544291347265,0.009684194810688496,0.00850403867661953,0.0077368817292153835
+0.009368021041154861,0.0028910122346132994,0.0043868618085980415,0.005930021405220032,0.0031897693406790495,0.01164892129600048,0.009802478365600109,0.004489952698349953,0.008730456233024597,0.0032958476804196835,0.007114083971828222,0.0075637879781425,0.004512112587690353,0.003266297746449709,0.00504571758210659,0.009214496240019798,0.00904079433530569,0.005174578167498112,0.008908148854970932,0.010101302526891232,0.008354331366717815,0.00936554279178381,0.010702970437705517,0.00999609287828207,0.005851862020790577,0.007154461927711964,0.011118946596980095,0.0027067000046372414,0.00507771922275424,0.004612290300428867,0.007164393551647663,0.0026493638288229704,0.0038780278991907835,0.004694473929703236,0.009913677349686623,0.008323539048433304,0.009496243670582771,0.004774337634444237,0.0037652086466550827,0.009619738906621933,0.007272094953805208,0.0057291570119559765,0.008795270696282387,0.005141064524650574,0.007316137198358774,0.010039334185421467,0.006070706527680159,0.004605646710842848,0.008491269312798977,0.00559356901794672,0.0035490100271999836,0.008013722486793995,0.00388869340531528,0.007215292192995548,0.006676608696579933,0.009084747172892094,0.007092711981385946,0.0034036755096167326,0.003721411805599928,0.005874343682080507,0.002783547155559063,0.008143001236021519,0.007742279674857855,0.005626608617603779,0.006885663606226444,0.004965669475495815,0.0028563879895955324,0.007630043663084507,0.010528252460062504,0.005339439492672682,0.004094347823411226,0.012412046082317829,0.0028116207104176283,0.006544068455696106,0.008593748323619366,0.00820013415068388,0.009020212106406689,0.010010872036218643,0.0067090257070958614,0.007817315869033337,0.009409669786691666,0.010373039171099663,0.008513856679201126,0.003800442675128579,0.005397763568907976,0.004528410267084837,0.005497181788086891,0.00417376309633255,0.009662595577538013,0.005571338348090649,0.009989040903747082,0.003919850569218397,0.009598173201084137,0.002993968315422535,0.0032496547792106867,0.006815008819103241,0.009713731706142426,0.00849174801260233,0.008474918082356453,0.004325006157159805,0.007791673298925161,0.006087891291826963,0.007270673755556345,0.009116404689848423,0.011086640879511833,0.010270684957504272,0.004555745515972376,0.006182344630360603,0.01036793366074562,0.007889478467404842,0.008419274352490902,0.010285959579050541,0.008887707255780697,0.010098017752170563,0.008211052045226097,0.009272065944969654,0.0067926072515547276,0.004057561047375202,0.009204430505633354,0.007027620915323496,0.0054644253104925156,0.0065424637869000435,0.0036827391013503075,0.009341687895357609,0.004564239643514156,0.003475956153124571,0.00837575551122427,0.010629408992826939,0.009401004761457443,0.010370477102696896,0.007585105951875448,0.010927925817668438,0.008298009634017944,0.0030968778301030397,0.008365367539227009,0.006054793018847704,0.005781606305390596,0.010365008376538754,0.003984377253800631,0.011037476360797882,0.009162538684904575,0.00693455059081316
+0.009046666324138641,0.0033822604455053806,0.004805852193385363,0.005836148280650377,0.00392528623342514,0.010602656751871109,0.009384420700371265,0.005230376962572336,0.00867120735347271,0.0038202626165002584,0.00709558418020606,0.00744089437648654,0.004961243364959955,0.003580467775464058,0.005448875483125448,0.008956643752753735,0.00870579481124878,0.005398693028837442,0.0086006885394454,0.009565301239490509,0.008067854680120945,0.009027764201164246,0.010025644674897194,0.009535501711070538,0.0060003530234098434,0.0071737696416676044,0.010467731393873692,0.003199587343260646,0.005657182075083256,0.0047862837091088295,0.007133573293685913,0.00308308401145041,0.0041814143769443035,0.005136291962116957,0.009417850524187088,0.008219622075557709,0.009109384380280972,0.005095783155411482,0.004316234029829502,0.009209430776536465,0.0074560875073075294,0.006014921236783266,0.008781333453953266,0.005800757557153702,0.007359893061220646,0.00955753494054079,0.006085519213229418,0.0048988633789122105,0.00819903239607811,0.00591534236446023,0.003652636194601655,0.007768373936414719,0.004467220511287451,0.007153443526476622,0.006743220612406731,0.008563528768718243,0.007091132923960686,0.003866734215989709,0.0041087013669312,0.0062380582094192505,0.0034068624954670668,0.007858620025217533,0.007714385632425547,0.0059690289199352264,0.007052642293274403,0.005108272656798363,0.003134799422696233,0.007469851057976484,0.010073109529912472,0.00570540688931942,0.004475960973650217,0.011317038908600807,0.0035032229498028755,0.006524213589727879,0.008533433079719543,0.008104560896754265,0.008802779950201511,0.009527038782835007,0.00672384537756443,0.007668555714190006,0.009286622516810894,0.009746517986059189,0.008318860083818436,0.00429433723911643,0.005750355776399374,0.00482306070625782,0.005717584863305092,0.004815960302948952,0.009434710256755352,0.005805692635476589,0.009499811567366123,0.0043664732947945595,0.009194202721118927,0.0033803717233240604,0.0037354000378400087,0.006845349911600351,0.00932446587830782,0.008518648333847523,0.008362465538084507,0.004787501413375139,0.007908392697572708,0.006267928052693605,0.007091823499649763,0.008947120979428291,0.010568955913186073,0.009518396109342575,0.0049955458380281925,0.00631752610206604,0.00986089464277029,0.007915012538433075,0.008239427581429482,0.009744000621140003,0.008420108817517757,0.009638308547437191,0.00850419607013464,0.00895210262387991,0.00674437265843153,0.004370441660284996,0.009054109454154968,0.007017575204372406,0.0056137158535420895,0.006927499081939459,0.003949425648897886,0.009130040183663368,0.0049711912870407104,0.004149154759943485,0.00824294239282608,0.010033134371042252,0.009013361297547817,0.009823918342590332,0.007863283157348633,0.010312266647815704,0.008043292909860611,0.0036413276102393866,0.007749499753117561,0.006362703163176775,0.006070693954825401,0.009561617858707905,0.004592184908688068,0.010199759155511856,0.008796561509370804,0.007168174255639315
+Questions:
+Does this fit easily in the back of a minivan?
+Is the Radio Flyer Canopy (purchased separately) compatible with this model?
+What is the weight of the assembled wagon itself?
+How does this handle on sand? Has anyone taken this to the beach?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+I was very pleasantly surprised by this trailer.
+Though I own another Radio Flyer trailer, with wooden, removable wall slats, I found this one to be more comfortable and easy to use for my young one.PROS:+++ HEAVY DUTY PLASTIC.
+Why do I consider this a pro?
+1) It won&#8217;t get hot in the sun 2) It is lightweight 3) It won&#8217;t rust and 4) it is easy to clean.++ UNLIKELY TO JACK-KNIFE.
+The interesting way this is constructed means that you cannot cause the wagon to tip over by pulling the &#8220;steering column&#8221; to one side or another &#8211;as only the wheels turn, not the steering bar.
+On the flip-side, you cannot &#8220;drive&#8221; this vehicle from the wagon itself.
+You have to be pulled.+++ HAS SEATBELTS.
+Each seat has a strap for a seat belt across the waist, and between the legs.
+This worked well for my 8 month old.++ GREAT STORAGE CAPACITY.
+Aside from the multiple cupholders, there is an ingenious storage system on the back of the wagon, which can be closed up when not in use.
+It holds a lot and looks very well constructed.+ HOLDS 1-3 CHILDREN.
+This is VERY flexible, and adjusts to the size of your growing family very well.CONS:- NEED A WORK SURFACE TO PUT IT TOGETHER.
+Ok, what I mean by this is that in order to put this together you need to hammer some metal rods into some end pieces, and you basically have to do this at an angle on the floor.
+You do NOT want to do this on a tile or hardwood floor, as you risk cracking your tile, or denting the boards.
+You need to do this on concrete or on carpet to ensure you don&#8217;t damage anything.
+That said, if you do it on one of these other work surfaces, then the CON goes away.- BETTER FOR TWO OR THREE CHILDREN, NOT ONE.
+The wagon was easy to assembly.
+The seating space, however is limited.
+The picture shows 3 children sitting comfortably in the wagon.
+Well, the space is pretty tight.
+Three very small children ie 1-2 year olds can fit comfortably.
+There is ample space for 2 larger children but definitely not 3.
+The quality of the wagon is nice.
+It is easy to pull/push and turn.
+The removable bag on the bag has plenty of space for jackets, snacks, toys, etc.
+Cup holders are a nice touch.
+The wagon can fit easily into the trunk of a SUV.
+I always preferred the wagon to the stroller for trips to the zoo and walks in the neighborhood.
+(we have another radio flyer as well).Overall, pleased with the wagon but a bit smaller than expected.
+Who doesn't love a classic red Radio Flyer wagon?
+This is definitely a modern take on a beloved classic.
+As a family of six we already own a Radio flyer wagon-a bit bigger than this one but it doesn't have the seat belts and bag in the back.
+I used that wagon to take my girls around the neighborhood and to the beach.
+Now with this updated wagon (old wagon is now the official Girl Scout cookie mobile for our door to door travels) my boys can sit and have seat belts-a definite necessity for my boys.
+The bag in the back-ingenius!
+The handle that folds under the wagon for easy storage and car transport-all car owners thank you!
+All in all, thoughtfully designed.
+My one request is always the rubber wheels, but the plastic wheels are high quality and sturdy as heck.
+I had a Radio Flyer wagon as a child the old metal kind loved that wagon.
+Wagons are a toy all children should have they are so fun and stir the imagination.
+This is a rather unique wagon.
+First of all I have some physicsl disabilities the wagon arrived when I was home by myself and I decided I would put it together.
+It took me just over an hour it would not take a younger or stronger person that long I am sure.
+The instructions are mostly pictures few words, personally I do better with words but then I'm not the majority.The construction is solid.
+The weight limit is 200 pounds in the wagon and another 25 pounds in the carryall on the back.
+I love the fact it has seatbelts for the little ones.
+I watched a young mother in my neighborhood pull her child less than a year old in a big wagon I feared he was going to fall over the side.
+This will seat 3 children and has drink holders for child size sippy cups and adult size water bottles.
+The handle folds under the wagon so it can be put in a trunk to take on outing very easily.
+It kind of looks like a row boat when folded under and I imagine the kids will be playing pirates with it this winter as we cannot really use it outside yet as it is frigid cold and snowy.I look forward to walks around the block pulling the little ones I love behind me.
+Thinking ahead of trips to the zoo and packing a picnic and toys, diapers it is going to be used so much.
+It actually has seats and there are drain holes so if it rains and it is out or something gets spilled no worries.If you register online they will double the warranty to two years so make sure and do that.Enjoy all the memories you will make with the children.
+We like using this style Radio Flyer wagon when the younger grandkids visit.
+It supports three sitting (seatbelts included), but accommodates up to 200 lbs.
+Ours easily holds kids, dogs, snacks and toys at each outing.
+The ride is smooth and the wagon is easy to pull.Directions are straightforward, so putting the wagon together is relatively easy.
+Because only one extra part is included (an axle cap), be careful while assembling.
+Anyone needing help or additional parts needn't worry though because Radio Flyer's customer service is excellent.
+We once bought aRadio Flyer Classic Walker Wagonand needed assistance.
+Customer support was great--parts were immediately sent out and the problem was resolved in no time.The Triple Play wagon seems more appropriate for younger children with safety in mind (deeply recessed interior/rounded heavy-duty plastic edges/seatbelts).
+We also own and still actively use a Radio Flyer wooden wagon that was made in the 60s.
+Its open bed (surrounded by removable wooden slats) makes that style wagon more suitable for many other uses.
+And I'm almost afraid to mention this...the handle is steerable.
+What kid hasn't tried going downhill in a wagon?
+Because the Triple Play wagon has a different style front axle system (designed more like a shopping cart), the front wheels freely move in all directions, but the handle does not.
+That means riders cannot steer this wagon while sitting inside or when being pushed from behind.
+I consider that another safety feature, but thankfully Radio Flyer still makes the classicRadio Flyer Town and Country Wagon, complete with rubber wheels, for those needing more versatility or daredevil action.Every Radio Flyer product we've owned, including the Triple Play wagon, has been durable and fun.
+All come highly recommended.
+I have 3 little ones aged 2.5 & almost 1-year-old twins.
+I've found that trying to do the &#34;stroller&#34; thing is too much of a pain once you pass 2 kids.
+I have a double stroller, but either my oldest ends up walking (aka being held by mom or dad by the end of the outing) or we need a 2nd stroller or I have to babywear one of the twins.
+Triple strollers are few and far between and way out of my budget.Wagons are an awesome alternative to strollers!
+I have a classic Radio Flyer (it was mine as a kid) that we use for rides up and down the street.
+I also have a foldable wagon for going out in the car and using for travel (highly recommend it for going through the airport when you have a couple kids or more!).
+My only complaint with the other wagons are their are no restraints.
+My youngest 2 still refuse to sit still for too long and end up standing up in the wagon.
+Enter the Triple Play...3 seats all with seat belts!
+Yay!
+All 3 buckle up and we go for rides around the neighborhood and to the grocery store (it is close, so walking is easier than driving).
+I love the bag on the back for filling up with groceries--it will hold up to 25 lbs, so it can get quite a bit in it.I'm not sure about loading this in and out of the car on a regular basis, but I wouldn't have a problem doing it occasionally.
+It isn't heavy, but it is still bulky.
+I mean, it is a wagon that fits 3 kids, so it isn't going to be small.
+Plus the wheels don't fold down or make it &#34;smaller,&#34; so it won't easily fit in the trunk of a car.
+I plan on using the foldable for most travel, but this one is nice to have when I'm not going to be getting the kids in and out of the wagon often--like for trips to the farmer's market or the like.Perfect for any walking distant activity that we go to.
+LOVE this wagon!yes it is big but we have not found it to be overly bulkywow we love it for walking around the malleveryone can fit in it comfortably and the ride has been smoothwe can fit things in the back catch all as we like to call it loland they can put their drinks in the holders which is really nice featureso easy to pull kids in this and not be a strain on my back from pullingthe handle is at the right height for me to be comfortable using it
+Let's get the good and the bad out of the way... this wagon is massive.
+It's not going to fit into the trunk of your car and it probably won't fit in a 3-row SUV unless the third row is folded down.Some pluses and minuses so you can make up your own mind if it's right for you...Good stuff+ Easy to assemble.
+Took about 30 minutes to unpack and assemble+ Sits 3 under 3+ Collapsing storage bag is attached to the rear+ Lots of cup holders+ Seatbelts+ Well built and sturdyMinuses- Plastic wheels- No sun protection/cover included with this model.
+You need to go up to the Comfort or Ultimate comfort models for that- Heavy and tough to pull around for a long time.
+Especially if the surface isn't smooth- 3 kids will feel cramped
+This wagon is STURDY.
+It's already taken quite a beating from my 3 kids.The belts adjust easily and clip securely, so no worries about little ones climbing out while in motion.The bag on the bag holds a lot of gear.The cup holders are easily accessible for the kids so they can keep their drinks close by.Easy to clean by spraying and wiping or hosing it out.Rolls ok on grassy surfaces and very easily on hard surfaces.The cons:Kids over about 3.5 foot will have little to no leg room.The bag sags low to the ground and gets dirty easily.The wagon is HEAVY and you will not want to take this to somewhere like the zoo without a partner to trade turns.
+Your arms will be exhausted in a very short time.
+(And I'm not a wimp).This would be a great thing for Mom taking the kids in and out of the park or for shorter jaunts.If you want to use it at a museum or the zoo or somewhere you will be rolling for quite a while, I think a double or triple stroller would be less daunting.
+I am obviously a fan of Radio Flyer.
+I have purchased many of their items for my grandchildren.
+I have confidence that they will be well made and will hold up for many years.
+So far, I have not been disappointed.I love this wagon.
+I really like that you can have 2 children facing forward.
+My daughter has 3 children, so having a spot for the 3rd child is really great.
+All 3 spots has a seat belt.
+There are also lots of cup holders, which is a nice bonus.
+I also like that the handle folds under.
+This makes storing it and putting it in a car easier.
+The cargo bag comes in handy as well.
+It did need assembly, but my son was able to do that without too much effort.
+In so many ways, I absolutely love the Radio Flyer Triple Play Wagon!
+In the past, I have used the Step2 Choo Choo Wagon, but honestly, I always felt a bit silly pulling that one.
+Now the kids are all together (ages 1, 3 and 5) and they can have a conversation with each other instead of sitting in their own car.
+Nice quiet ride - room for storage (need to assemble the bag!
+), comes with cup holders and seat belts.
+Of course, it is a little wide, but if you want the perk of having three children in one wagon, then this is the way to go!
+I am looking forward to Spring when we can get some real mileage on it!
+Please NOTE:  You cannot add a canopy to this.
+You must buy the deluxe version if you want  a canopy.
+This wagon has more features than most and is truly designed for practical use.
+This wagon holds three kids and not only are there cup holders for the kids but there are two cup holders for the adults.
+This wagon also features an attached cooler bag for shopping trips or picnic supplies which means the kids are not squeezed by the cooler in the wagon.
+Our old wagon would just usually carry the cooler and the kids would walk but this wagon can haul all of it!
+This wagon is still lightweight and easy to put in back of car too.
+I love this wagon and find it so much better designed than most wagons and it great for parks, picnics, music festivals and sporting events.
+This is a sturdy, large wagon that has ample room for 1-2 preschoolers as well as a few generously stuffed bags from the farmer's market.
+We have been using this wagon mostly around the neighborhood right now, but when spring comes and the outdoor farmer's markets open again we are looking forward to taking this wagon with us.
+It will give our 3-yr-old a nice place to sit when he gets tired of walking while also giving us a handy place to store our purchases along the way.
+I like the cup holder, which makes it easy for kids to remember to drink while enjoying the sights.In terms of assembly: The wagon arrived in one large box and I was happy with the assembly process, which was easy enough for me to do on my own in under an hour.
+(I'm not the most technical person when it comes to deciphering instructions) I agree with another reviewer the rubber tires would have made this wagon easier to pull, but I imagine that would also have added to the overall weight (and price) of the wagon.
+Altogether this is a very nice wagon that will see a lot of use.
+This is a good wagon for pulling kids around in.
+It is pretty much all plastic, but it seems fairly sturdy and it appears it will last a long time.
+I thought the wheels could have been a little heftier however.
+Anyway, while this is a good wagon for pulling kids around because it is shaped with built-in seats, that makes is not as useful for other things.
+It is deep so you can pile stuff in there if you choose to.
+However, if pulling kids around is not your intent, like maybe you also want to haul gardening supplies or something.
+perhaps a different style Radio Flyer Wagon would be better.
+But because this wagon has taller sides, it will hold smaller children much more securely from toppling out.
+Also because of the way the handle folds out of the way, this will fit in a trunk of a car easily without the handle being a problem.But overall, this thing is probably perfect if you intend to use it for the purpose of little people moving around.
+I do think it costs more than it should for what is basically a big hunk of plastic however, so I knocked a star off because of that.
+This is our third wagon.
+We have the off road radio flyer, a step two wagon with the side door and this.
+So far, our favorite is the step 2.
+This wagon is nice and reasonably priced.
+It will fit three tiny kiddos or more realistically two decent sized tykes.

@@ -1,0 +1,119 @@
+Top question(s):
+I wonder if the original fashion plates fit and or work with the Melissa and Doug set?
+Does this include plates that create texture and pattern?  Thanks.
+Top sentence(s):
+Take the crayon in the holder that's included, and rub it sideways over the paper.
+Seemed to be more of a problem on the edges.So overall this is a fun and affordable toy that'll keep your kid busy for a while.
+Plus, it has been very hot and humid so maybe the crayon was feeling the effects of our summer weather.My daughter played with this for a few minutes, but there isn't a lot of choice of designs for her age (12 yrs old).
+It's still a great buy, just was a source of frustration for my kids.
+"Most of the Melissa & Doug toys that are in my daughter's collection are wooden toys that have something of an old-fashioned (and I mean that in a positive way) feel to them.
+
+Question attention weights:
+0.044669900089502335,0.8865588307380676,0.03639264777302742,0.0323786623775959
+Sentence attention weights:
+0.008341104723513126,0.008859493769705296,0.00688167056068778,0.014423277229070663,0.01858438551425934,0.009315898641943932,0.00914831180125475,0.012236706912517548,0.012809467501938343,0.019820645451545715,0.009844166226685047,0.009596769697964191,0.010748353786766529,0.010458285920321941,0.010334746912121773,0.008502519689500332,0.00987454503774643,0.010486343875527382,0.006467944476753473,0.007611255161464214,0.01167988870292902,0.012771493755280972,0.011367961764335632,0.012508530169725418,0.012493718415498734,0.013255346566438675,0.007985037751495838,0.014392338693141937,0.008679907768964767,0.010159044526517391,0.010838225483894348,0.008426104672253132,0.010927513241767883,0.009406979195773602,0.007806740701198578,0.008014111779630184,0.01282469555735588,0.009635623544454575,0.008412624709308147,0.008197147399187088,0.009490467607975006,0.009468497708439827,0.010150599293410778,0.008509152568876743,0.008291362784802914,0.009535558521747589,0.006762362085282803,0.0100483950227499,0.010286063887178898,0.009555348195135593,0.011011735536158085,0.011207380332052708,0.009667415171861649,0.008142025209963322,0.010838639922440052,0.008314728736877441,0.01257307454943657,0.011692339554429054,0.009946538135409355,0.007526467554271221,0.013509692624211311,0.008841472677886486,0.008074700832366943,0.007802098989486694,0.01382230594754219,0.010245291516184807,0.012035545893013477,0.014592496678233147,0.009118141606450081,0.012999027036130428,0.006092439405620098,0.009883909486234188,0.010762195102870464,0.009328138083219528,0.008250967599451542,0.008700953796505928,0.008190182968974113,0.009945825673639774,0.017134828492999077,0.010152068920433521,0.007399290334433317,0.012969464994966984,0.006620172876864672,0.010787809267640114,0.014348753727972507,0.017886986956000328,0.00947283860296011,0.008230959996581078,0.008767596445977688,0.007156054954975843,0.010634166188538074,0.017168289050459862,0.012512111105024815,0.009819814004004002,0.010297895409166813,0.009298396296799183
+0.007928954437375069,0.010956170968711376,0.007119786459952593,0.011837777681648731,0.012674907222390175,0.009487109258770943,0.010625517927110195,0.00969252735376358,0.013611198402941227,0.014029458165168762,0.011964001692831516,0.011182841844856739,0.011830157600343227,0.012493941932916641,0.01120979618281126,0.010426036082208157,0.010913213714957237,0.009793686680495739,0.006285152398049831,0.008488835766911507,0.010518990457057953,0.009617829695343971,0.008318723179399967,0.008260383270680904,0.012503105215728283,0.012771201319992542,0.008419093675911427,0.010971654206514359,0.009082277305424213,0.013766714371740818,0.01149853877723217,0.008323500864207745,0.00849186535924673,0.009271719492971897,0.0064563630148768425,0.008007875643670559,0.01109111774712801,0.011518258601427078,0.009777985513210297,0.009655474685132504,0.01151136215776205,0.01074282918125391,0.012593409046530724,0.01245393231511116,0.010372437536716461,0.010234348475933075,0.008739078417420387,0.01118424627929926,0.012012200430035591,0.011568224988877773,0.013207054696977139,0.01310734637081623,0.01159039419144392,0.009119255468249321,0.009505610913038254,0.012011446990072727,0.009990002028644085,0.012727087363600731,0.008963664062321186,0.006184963043779135,0.010928180068731308,0.006564125418663025,0.009008110500872135,0.00885795895010233,0.013805527240037918,0.010470478795468807,0.009869080036878586,0.012990512885153294,0.01443485077470541,0.008470211178064346,0.006820714101195335,0.010900911875069141,0.011518646962940693,0.01150740310549736,0.009465547278523445,0.009612321853637695,0.011403584852814674,0.006504159886389971,0.009973580949008465,0.008427460677921772,0.00833127647638321,0.013998487964272499,0.006998175289481878,0.010753776878118515,0.012784444727003574,0.013764500617980957,0.011263484135270119,0.008399317972362041,0.010330288670957088,0.006732009816914797,0.008714300580322742,0.014819283969700336,0.0108866011723876,0.010900401510298252,0.010677305981516838,0.010420262813568115
+0.0073152570985257626,0.010761876590549946,0.005711736157536507,0.013687508180737495,0.018841061741113663,0.008616222068667412,0.010338454507291317,0.010665110312402248,0.014869961887598038,0.020795397460460663,0.010273197665810585,0.010679260827600956,0.012242519296705723,0.01122839655727148,0.010644715279340744,0.00841301679611206,0.01022280566394329,0.010344080626964569,0.005493823904544115,0.007192907389253378,0.012826119549572468,0.010551400482654572,0.009315486066043377,0.010968311689794064,0.01365498173981905,0.012846947647631168,0.006420249585062265,0.013839779421687126,0.007618074771016836,0.011708717793226242,0.012387877330183983,0.007745087146759033,0.010297582484781742,0.007877792231738567,0.006957168225198984,0.007095740642398596,0.011372246779501438,0.010081215761601925,0.008693144656717777,0.008947916328907013,0.01004369743168354,0.009533154778182507,0.01194070279598236,0.010676328092813492,0.008583975955843925,0.00988504197448492,0.006868443451821804,0.010380081832408905,0.010856167413294315,0.010167781263589859,0.011885709129273891,0.012034809216856956,0.010243022814393044,0.007526373490691185,0.01024999562650919,0.009797806851565838,0.011730055324733257,0.013225589878857136,0.008251954801380634,0.006646088324487209,0.013940687291324139,0.006642976310104132,0.007262443192303181,0.007792217191308737,0.013879643753170967,0.010733530856668949,0.010424952954053879,0.01841537095606327,0.01163693331182003,0.011440567672252655,0.00587395578622818,0.00925727654248476,0.01069110818207264,0.009951718151569366,0.007988262921571732,0.008345004171133041,0.010099387727677822,0.007363646291196346,0.01423083059489727,0.008564267307519913,0.008092907257378101,0.013003267347812653,0.006129584740847349,0.01070737186819315,0.01613292470574379,0.01645166426897049,0.009753471240401268,0.0072456537745893,0.010145861655473709,0.006012920755892992,0.008136660791933537,0.021377483382821083,0.011822461150586605,0.010371320880949497,0.010859175585210323,0.009152566082775593
+0.007921966724097729,0.009601983241736889,0.005997138563543558,0.014339756220579147,0.018483523279428482,0.008880112320184708,0.009559889324009418,0.011442196555435658,0.013543275184929371,0.020660221576690674,0.010228794068098068,0.009896130301058292,0.011941059492528439,0.010863440111279488,0.01045453641563654,0.008530006743967533,0.010013340972363949,0.01035875454545021,0.00574696296826005,0.007186202798038721,0.011715182103216648,0.012700281105935574,0.010091068223118782,0.011466297321021557,0.013264606706798077,0.01303124614059925,0.0073963338509202,0.014441665261983871,0.008216222748160362,0.010857891291379929,0.011524247005581856,0.008155063726007938,0.01016948465257883,0.008422334678471088,0.007238086313009262,0.00744629418477416,0.01287368405610323,0.009913275949656963,0.008433829993009567,0.008728445507586002,0.009773503988981247,0.009502475149929523,0.011333698406815529,0.009592990390956402,0.008385645225644112,0.009551439434289932,0.006829068064689636,0.010237375274300575,0.010810667648911476,0.009861087426543236,0.012210740707814693,0.01228288747370243,0.009949454106390476,0.007669344544410706,0.010511031374335289,0.008746590465307236,0.012203296646475792,0.0123518668115139,0.009162621572613716,0.00691963778808713,0.013931750319898129,0.0075716543942689896,0.007173561025410891,0.007594287861138582,0.014443633146584034,0.010938881896436214,0.011299911886453629,0.01615917682647705,0.010474342852830887,0.012163439765572548,0.006135493982583284,0.009430672973394394,0.010841800831258297,0.009644403122365475,0.008070340380072594,0.008963903412222862,0.008833133615553379,0.008402150124311447,0.0153896389529109,0.009307915344834328,0.00756558682769537,0.013025058433413506,0.0058481707237660885,0.010838191956281662,0.015058577992022038,0.01845310628414154,0.00962002668529749,0.007771797012537718,0.00911318976432085,0.006423495709896088,0.009189210832118988,0.018971731886267662,0.012239090166985989,0.010009189136326313,0.01032407395541668,0.009159200824797153
+Questions:
+Does this include plates that create texture and pattern?  Thanks.
+I wonder if the original fashion plates fit and or work with the Melissa and Doug set?
+For what age do you feel this is appropriate?  My daughter (8) has been talking a lot about designing costumes and does some of her own drawings.
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+Our daughter had a set of fashion plates when she was a child, and spent many hours using them.
+I'm happy to see Melissa & Doug has created a set for the next generation.
+Our grandkids are enjoying playing with this set, and they can create so many designs I'm sure they will continue to spend hours playing with them.
+This reminded me of the old Fashion Plate toys from my childhood.
+It's the same method of rubbing the side of a crayon over the raised image to get your design to then color in.
+It's a little smudgey, but I appreciate how the photo above by the company does show that a bit if you enlarge the image.
+I am wondering if different brand crayons might work better than others.
+Some cheap crayons seem harder and don't color as smooth or as nice, but I am thinking that might be better to use here to rub the image.
+I am going to grab some next time I am at the dollar store and see how it works.
+Plus, it has been very hot and humid so maybe the crayon was feeling the effects of our summer weather.My daughter played with this for a few minutes, but there isn't a lot of choice of designs for her age (12 yrs old).
+I do think younger girls would enjoy it more.The plastic is sort of cheap quality.
+I like how there is storage built right in, just not sure how long before it breaks or stops closing well.
+The old fashion plates from the 70's had a better plastic.
+(Oh well - nothing is like it used to be, is it?)
+I also wish there were more design choices.
+There are six hair styles, six tops, and six bottoms to mix and match.
+A few are casual and a few are fancy.
+But it doesn't really give you that many to play around with.It comes with a black crayon and holder for it, and comes with 4 colored pencils - brown, yellow, pink, and purple.
+I am guessing the brown and yellow is for hair and the pink and purple is because they figure those are little girls favorite colors.
+"As a child myself, I had the Fashion Plates set, so I have been on the lookout for a fashion designer set for girls for years.My seven year old daughter immediately took to this set.
+As soon as it was out of the clamshell packaging, she was all over it.I like the fact that the rubbing crayon is a regular, black crayon and that the the purple plastic holder uses a standard crayon.
+That makes it easy to switch out colors when making outlines, and to replace the black as needed.The plates are all contained in a plastic tray that fits under the rubbing frame, so that nothing gets lost or misplaced.The frame will only click shut when you cut 8 1/2 x 11"" letter size paper in half.
+That was a point of frustration until we simply cut the paper to size.The colored pencils that came with the set (brown, pink, yellow and purple) are not nearly as much fun as markers.
+My daughter immediately put them aside in favor of fine-tip markers.
+So consider adding markers to your shopping cart with this purchase.Happy, as always, with the quality of Melissa and Doug products."
+This toy is almost in a class by itself in that my kids love it and don't really use as intended at all.
+The thing they seem to like about it is that it's portable and has a drawer that stores smaller things.My kids take this toy to the playground, carrying little cars and other small toys in it.
+At the playground they find little rocks that appeal to them and store them in the drawer.
+Other little kids at the playground seem to admire this carrying case toy.
+And one of my kids actually sleeps with it every night for over two months now.I recommend this toy on the basis of my experience that it has strong appeal to 3-year olds.
+The fashion design activity kit is nicely made and comes in nice, bright pink and purple colors.
+The plates can be placed in the tray in different combinations to create outfits and then rubbed to see the result of your design.
+It's easy to use; however, the drawings aren't crisp.
+They come out a bit blurry, and details like buttons or stripes don't come through.It is made perfectly for travel.
+It has a handle to make it easy to carry and a locking tray to securely hold the tracing plates and colored pencils.
+The kit doesn't come with paper - standard 8 1/2 by 11 inch paper can be cut in half.
+However, there isn't a slot to store the paper within the tray.The box says this is a good toy for ages 5 and up, but unless an adult helps with the rubbings, I think it is better suited for ages 8 and up.
+This has been a huge hit with my daughter who just turned six.
+It doesn't come with paper, it wants you to cut your own to fit, but we were lucky to have a pad of paper that fit perfectly.
+The black crayon that comes with the kit kept falling out of the little holder, so we found one of our own crayons, choosing a silver/grey metallic, and now it looks like a real sketch.
+She just loves this!
+Would highly recommend to young girls.
+"My little niece had a blast with this on a rainy day.
+Even young children who have trouble coloring neatly will be be proud of their ability to rub the crayon over the image and create something recognizable instantly.
+The hardshell carrying case is nice, but a downside is that this can take up a fair amount of room if you have a very small space to work with for storage.
+I do wish they would sell paper pads cut to the right size.
+Or, better yet, retool the item and make it so you can use a half-sheet of standard 8.5"" x 11"" paper.
+Overall, a fun, durable item."
+When I was a kid, I had one of these fashion plate toys.
+It was fun.
+You set the outfit, rub the crayon over it, then color it.
+So, although the primary purpose of this toy is vanity, I like the creative and artistic aspect of it.
+My 6 year old daughter was thrilled when she saw it.
+The packaging leaves much to be desired.
+It is a clamshell package.
+I took it out, showed her how it worked, and set her to work on creating some outfits.
+There are 3 bottom plates (6 options), 3 top plates (6 options), and 3 head plates (6 options).
+All the plates fit inside a little drawer.
+It comes with one crayon to rub with an attachment so you don't have to get your fingers all messy and 4 colored pencils.This is super cheap quality.
+The lid only closes (on the top) when you have the drawer pushed in.
+The plates themselves are not exactly even, they are a bit warped and don't lay flat.
+The drawing area is too small for a regular sheet of paper, but slightly larger than half a sheet of paper.
+You cut paper in half to use half sheets and they slide around a bit in the top area.
+Since the plates are a bit warped, you can't get a good rubbing of the pictures.
+"Most of the Melissa & Doug toys that are in my daughter's collection are wooden toys that have something of an old-fashioned (and I mean that in a positive way) feel to them.
+The Melissa Doug Fashion Design Activity Kit isn't like that for the obvious reason that (a) it's not made of wood and (b)it lacks the charm and whimsy.
+It does make up for that by being a large and durable plastic toy that lets kids mix and match wardrobes to make their own fashion drawings.
+There's enough variety to keep a 5 year busy for a while and it all packs up into a nice package with a handle.The so-called 'design crayon' is a dark crayon with a little holder/handle that makes it easier to rub and transfer the pattern onto paper but we found it hard to get a clear image that didn't have dark splotches all over the paper.
+Seemed to be more of a problem on the edges.So overall this is a fun and affordable toy that'll keep your kid busy for a while.
+A couple of things that I really disliked: (1) It would have been nice to have an integrated cutter for 8 1/2"" x 11"" sheets of paper since you need to cut sheets in half and that can be challenging for younger kids to do on their own and (2) the clamshell packaging is just awful.So not a timeless wooden toy but still fun."
+I love Melissa & Doug toys, and have since my children were little, so when we got the chance to review the Fashion Design Activity Kit, I jumped on it as my 8 year old daughter is a bit of a fashionista.
+Unfortunately I've been a bit disappointed with the set!Firstly, and the thing that bothers me the most, the lines do not rub anywhere near as clear on the paper as they show in the picture.
+You get a lot of extra ruboff around the etching that you're doing which completely turned my daughter off.
+She wanted it to look like it did on the box, but they never did.
+We had a hard time even getting some lines to show.
+It's a delicate balance, pushing just hard enough to get the lines to show without pushing too hard and risking winding up making a huge mess around the etching.The fashions themselves are fine, and honestly I think this could be a great set, but there are some kinks that I feel the company needs to work out.
+This kit was bigger than I anticipated.
+We've had similar kits in the past and this one is twice as big (a nice plus-it allows for more coloring in and more detail in the pictures because the black outlines are spaced further apart).The crayons and templates fit easily and nicely inside the drawer on the bottom.
+A little clip keeps it locked in place so it is the ideal travel game.My only gripe is it doesn't fit standard paper.
+I figured cutting an 8 1/2 x11 in half would fit nicely but it's slightly too small and moves around.
+Keeping a full sized sheet gets in the way and kept getting in the way when my kids were doing the outlines.If the paper layed flat when being held in place this would be a five star toy.
+It's still a great buy, just was a source of frustration for my kids.
+I have a child that is constantly cutting, gluing, coloring, and painting.
+She loves arts and crafts of any sort.
+The best part of this Melissa & Doug fashion plate set, for me, is the lack of mess.
+My daughter enjoys it and I don't have sequins glued to the carpet or paint all over the counter.The set is can be all inclusive with a drawer to carry the nine different plates (three heads, three tops and three bottoms) and colored pencils and crayons.
+It also has a handle to carry it.
+I wish there was storage for sheets of paper cut to size, but they get stuck if you try to put them in the drawer.
+You can add some extra sheets clipped into the top if you want, and just remove them when creating your fashions.To use the fashion designer, you chose your mix and match plates from the drawer and place them in order on the top.
+Cover them with a piece of paper cut to size (an 8  x 11 sheet cut in half) and close the frame over them.
+It clips in place to stay shut.
+Take the crayon in the holder that's included, and rub it sideways over the paper.
+The design on the plates will get marked onto the paper and then it can be colored.
+With 9 different plates, there are 27 fashions to create, if I did my math right.
+So lots of options for your young designer.
+And like I said, the minimal mess is fabulous.

@@ -1,0 +1,227 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+This coloring book comes with a 12 page coloring pad and five markers.
+She loved the princess theme, but wanted her princesses to be the right color.There are only 12 pages of princesses.
+I used to work in travel related retailing, and I learned a vitally important lesson.
+In Color Wonder, the magic markers can only react to the provided paper.
+This won't be a sustained activity for your child.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.004910783376544714,0.0034497121814638376,0.0020226924680173397,0.0026243459433317184,0.0018929288489744067,0.004896765109151602,0.00493988674134016,0.00393601693212986,0.005313803441822529,0.0047262562438845634,0.005356048699468374,0.004340694285929203,0.002350393682718277,0.006318183615803719,0.006390452850610018,0.004098318517208099,0.005697431042790413,0.0032360272016376257,0.004463141318410635,0.006361181847751141,0.004792907740920782,0.00625214260071516,0.005987795535475016,0.00637957826256752,0.0030208167154341936,0.004165684338659048,0.001834466471336782,0.00604762090370059,0.003195233177393675,0.006679350510239601,0.001999709289520979,0.005844930652529001,0.009587070904672146,0.005423519294708967,0.005302744451910257,0.005902461241930723,0.004815844353288412,0.0034003278706222773,0.00268593430519104,0.004996863659471273,0.0036912995856255293,0.0022755200043320656,0.0068813799880445,0.005176704842597246,0.003366816556081176,0.005190013442188501,0.005903696641325951,0.00520204147323966,0.0033180529717355967,0.006299080792814493,0.004725967533886433,0.0041681816801428795,0.0019534772727638483,0.0028150961734354496,0.002502375515177846,0.006245108786970377,0.006161028053611517,0.004937753081321716,0.0039059591945260763,0.0037551280111074448,0.005078471265733242,0.0085678705945611,0.003528714645653963,0.004909471608698368,0.0043924907222390175,0.0061338236555457115,0.003920744173228741,0.0064918710850179195,0.0058423844166100025,0.003482587169855833,0.005334452725946903,0.006507453043013811,0.005941150244325399,0.005918790120631456,0.00544354971498251,0.006515090819448233,0.004964431282132864,0.0030373421031981707,0.005939611699432135,0.0051946863532066345,0.0031740840058773756,0.005479541607201099,0.002702186116948724,0.005664254073053598,0.005531879607588053,0.005906612146645784,0.00626777159050107,0.004452371504157782,0.0043095978908240795,0.0054168724454939365,0.0029602765571326017,0.005133552011102438,0.005835588090121746,0.004757463000714779,0.0048077842220664024,0.005217268131673336,0.002519975882023573,0.005207947455346584,0.0031368110794574022,0.0038357628509402275,0.006337418686598539,0.005821865983307362,0.0063324724324047565,0.00325218983925879,0.006173247471451759,0.003364873118698597,0.0035938031505793333,0.005256340838968754,0.006145105231553316,0.0024090257938951254,0.005618833005428314,0.0027579893358051777,0.0033042929135262966,0.0048283301293849945,0.005534197203814983,0.006437567062675953,0.00612677400931716,0.004700284916907549,0.00539158983156085,0.006307669915258884,0.007537341210991144,0.004732615314424038,0.0054244231432676315,0.005878718104213476,0.007182645611464977,0.0028293016366660595,0.005271232221275568,0.005072018131613731,0.0018335477216169238,0.00579815125092864,0.005179268307983875,0.006565596908330917,0.003701625159010291,0.00657492084428668,0.005278687924146652,0.0028771082870662212,0.006280873436480761,0.004757293965667486,0.003165003377944231,0.006818667054176331,0.006552864797413349,0.004999001510441303,0.006534350570291281,0.004784419666975737,0.006500419694930315,0.004191030282527208,0.0025033005513250828,0.0053888424299657345,0.006441370118409395,0.0020409603603184223,0.005575436633080244,0.0036950765643268824,0.0030066955368965864,0.001971359131857753,0.0029895829502493143,0.006075524725019932,0.0019072425784543157,0.0038880943320691586,0.005452156066894531,0.004429470747709274,0.0026355916634202003,0.005378752015531063,0.0030283622909337282,0.004376752767711878,0.002874667989090085,0.0035052811726927757,0.003088818397372961,0.004993604961782694,0.00438031367957592,0.003279157215729356,0.003325177589431405,0.004149612970650196,0.0032718414440751076,0.006149074994027615,0.004296786151826382,0.005193556658923626,0.006424332037568092,0.004232665989547968,0.004622474778443575,0.0039480822160840034,0.002761352574452758,0.005391208454966545,0.005877951625734568,0.004914002493023872,0.006999788340181112,0.004004576243460178,0.004697246477007866,0.004142376594245434,0.0058510988019406796,0.0036407127045094967,0.0063407146371901035,0.005891329143196344,0.005295159760862589,0.0036289459094405174,0.0026318333111703396,0.004611254669725895,0.006302185356616974,0.0042403750121593475,0.002882544882595539,0.0066911899484694,0.005288261920213699,0.004776645451784134,0.005511464551091194,0.005664020776748657,0.007013306021690369,0.004125657025724649,0.006187302526086569,0.004737529903650284,0.0023932685144245625,0.003069765865802765,0.006324558984488249
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+My daughter is a huge Color Wonder fan, and over the last three years, we've bought just about every Color Wonder book out there.
+We've tried Metallic and Glitter books several times and, unfortunately, have never been really happy with them.
+The older Glitter books, in particular, got those little sparkly bits all over everywhere, including on the tips of the markers, thus preventing them from working.Anyway, I'm happy to say that Crayola seems to have completely redesigned their Glitter books, and we love this new incarnation.
+There's nothing to make a mess... instead of actual glitter, the pages of the book simply have a background of sparkly foil around the parts of the picture you can color.
+The foil effect creates a really beautiful finished look, and my daughter was so proud and pleased with her work!The only real negative about this coloring book is its price.
+Not only is it more expensive to start with than the regular Color Wonder products, but it has fewer pages... just 12 instead of the usual 18 or 24.
+I'm not sure it's worth paying almost $1 per page, but my little artist definitely loved it!
+These color wonder markers work really well on this paper.
+I have had other products in the same line that didn't work particularly good on their given surface.
+These activate on the paper pretty quickly (which keeps kids inexperienced with the line from drawing a huge blob wondering why their marker isn't working) and do end up creating a glittery essence on the page....though perhaps not as glittery -- or as colorful -- as one would expect from the illustrations on the boxes.In terms of color choices, there could have been a bit more bold colors instead of the fleshy skin tone and then a slightly darker yellow.
+A green or a bolder red would have worked out better for hair or gowns.
+As it is, the red shows up a bit dull on gowns and hair.
+There is one true thing about this item &#8211; the paper does have a glittery sparkle with no glitter mess.
+That is where the pretty much the only truth to the cover.
+First off, your pictures will not look anything like those on the cover.
+The picture on the box is bright and vibrant.
+Our pictures never looked that bright.
+Also, if you want to color the princesses the way they look on the box, you will have to buy additional markers because you don&#8217;t have the necessary colors.
+My nieces really liked the pictures of the Disney princesses and looked forward to coloring them.
+However, they were disappointed that their coloring kept smearing.
+The colors took way too long to dry and easily smeared if touched or rubbed on something.
+And now that I am looking at the pictures they colored several weeks ago, they look awful.
+The colors look dull and grainy.
+All the glitter is gone.
+The only &#8220;glitter&#8221; left  is on the silver background.So just consider this a temporary art&#8230; color the pages and then throw them out.
+You will not want to save these because there is nothing worth saving.
+This review is from: Crayola Color Wonder Disney Princess Glitter Paper and Markers (Toy)Customer review from the Amazon Vine ProgramMy girls went to work using this coloring books and markers.
+They didn't need me to read instructions or anything, freeing me up to turn my back for a minute.
+The toy isn't supposed to mess up clothes and the rest of the house, although the kids had turned the markers on themselves.My job was to find the caps and put them on afterwards.
+It sounds simpler than it was.
+The graphics on the paper are very basic, the glitter areas are difficult to color and the assortment of marker colors are lacking.
+For a child aged 3-6 this set should be acceptable, but I think if they were to be any older they might have higher expectations and be disappointed.
+This coloring book comes with a 12 page coloring pad and five markers.
+The pictures have a metallic and glittery looking background and various princesses on them.
+The markers are special and prevent little ones from coloring on other things with them.
+The markers are clear when you write on anything other than this special coloring book.
+So in theory even if your kid colors on the walls it won't really show up.
+I will say that it still leaves a slight light gray looking line but it's certainly not going to show up like a regular marker.
+The special coloring pages prevent your kids from coloring outside of the lines because the color doesn't show up outside the lines.
+One thing that I don't really understand is why the pictures aren't perforated at all.
+So there is really no way to tear these out of the book without ripping up the edges.
+It would be much better if the pictures could easily be removed in case your kids want to hang the picture up on the refrigerator or in their room.
+"We have had several of the Color Wonder packs.
+Color Wonder markers are mess-free because the markers won't mark on clothes or skin.
+The markers react with the Wonder paper and the colors appear when your kids marks on the Wonder paper.This set is the Disney Princess set that has a glittery look which they call ""glitter effects"".
+The paper is actually a foil-glitter look and not actual glitter so there's no mess.The set comes with 12 pages to color and 5 markers.You can find the Wonder Color packs on sale a lot, especially at the Holidays."
+My 10 and 11 year old nieces had fun coloring these.
+I like that it is virtually mess free and did not mind them coloring these around the house.
+They enjoyed it and liked the princess theme, as they both always wanted to be Disney Princesses all their lives.Although they had fun and the pictures were pretty, they are a bit costly and of course with most tweens these days, after they finished, they just wanted to play with my iPad.
+If you can justify the costs, then I would recommend it.
+"My three and four year old nieces are budding young artists so I let them try this Crayola Color Wonder glitter coloring pages.Likes:>My nieces love the popular Disney Princesses and was eager to color the sparkling glitter pages.>Parents/guardians will applaud the coloring pages with built-in plastic glitter, and ""mess free"" magical markers that will only color the special glitter pages and NOT stain skin, clothing, or furniture!>Kept my young nieces busy for hours to express their developing artistic talents.>Teaches children about NOT drawing/coloring on walls, floors, or furniture.
+Drawing and coloring allowed on paper only!!
+!>My nieces were happy to show their colored glitter pages for family, relatives and friends to admire.>Non-toxic materials.>Made in U.S.A.!Slight concern:>The glitter coloring pages are part of a coloring book so the kids had to take turns coloring their favorite Princess.
+An alternative is to detach/cut the individual pages from the coloring book so several pages could be colored at the same time by kids and their friends.Overall:A fun and educational toy that teaches kids about coloring in a neat and non-messy manner."
+meAll the Disney princesses need some bling and glitter would do the trick, but not if it&#8217;s all over the house.
+Been there, done that.
+The beauty of the Crayola Wonder Disney Glitter Paper is that the glitz &#8216;n glitter is in the paper.
+The magical paper has those hidden images, bling, and is mess-free like the ones in the other Crayola Color series.TheColor Wonder Disney Princess Gift Setis a 24-page coloring pad, but didn&#8217;t have the special magical glitter than this one has.
+If you want separate pages, simply separate them before giving them to your young artist.
+This really is a fun, mess-free kit for any youngster who adores Disney princesses.FEATURES:&#9788;  Color Wonder Glitter Paper is full of glittery fun just color and watch the colors magically appear on the glittery paper&#9788;  Glitter is in the paper and will never come off on kids hands, clothes or furniture&#9788;  Color and magically reveal hidden images&#9788;  Creative glitter play without the glitter mess&#9788;  Features 12 sheets of Color Wonder Disney Princess coloring pages and 5 mess-free Color Wonder Broad line MarkersCRAYOLA PRODUCTS FOR THE YOUNG ARTIST:Crayola Color Wonder Glitter Paper FairiesCrayola Color Wonder Barbie Coloring PadCrayola Color Wonder Dora Coloring PadCrayola Color Wonder Disney Preschool Coloring PadCrayola Color Wonder Drawing Paper-30 SheetsCrayola Color Wonder Hello Kitty Glitter Refill Coloring PadCrayola 10 Count Color Wonder Mini Markers BrightCrayola Color Wonder Travel Tote
+PROS:  disney princess themenot messy does not mark on skin, clothes, furnitureCONS: not the right colors neededonly 12 pagesonly 1/2 page to colorexpensiveMy 3 year old grandaughter was very dissapointed when she started coloring.
+She loved the princess theme, but wanted her princesses to be the right color.There are only 12 pages of princesses.
+The background is all in glitter that can not be colored, and a few swirls or flowers or sea shells or stars scatterd in the background to color.
+The princess is the main thing on the page to color.
+Some of the gowns do have a glitter sheen that shows when colored.
+How does a 4 year old know the name of every Princess?
+I have never understood this but I do know that neither I nor her mother taught her the names.
+It seems like she was born knowing them.
+She also knows their dresses and what color they should be.
+While we were sitting at the table coloring, I was able to slip in some  conversation about how Cinderella had to be saved all the time...but Belle, Belle was able to take matters into her own hands and solve problems.She loves the coloring book but there are a lot of colors missing.
+Out of five markers, two were brownish and one was pale yellow.
+We needed green and red.I love the idea of these books.
+For our first two grandchildren, we always had these no-coloring-on-the-walls-or-boat coloring books, but then I just learned to keep track of the markers.
+My new system isn't perfect and in fact, the world is against me.
+The last time I took the 4 year old to a swim meet, she looked under her bench and popped back up with a green marker.
+It seems like the world is booby trapped with markers.These would be really nice for a car trip or for taking out visiting.
+I love glitter and we use lots of it at my house.
+But this did not meet this glitter afficianado's expectations.
+This was funnish for about 3 minutes.
+You color and the paper turns glittery.
+There isn't anything else to do so after the initial &#34;wow, it's sparkly&#34; this is really just a coloring page.
+The thing that makes it disappointing is that the glitter fades.
+I have no idea how glitter stops glittering.
+That's it's whole function after all.
+But the glitter effect does go away, leaving a kind of expensive coloring book page.
+Great edition to the Color Wonder world!
+Adding the element of glitter, this market set is every little girls dream.
+My daughter loves everything glitter, but I hate the mess.
+This is an excellent solution for both of us!
+I am always happy to give my kids (ages 1 and 3) Color Wonder coloring pages.
+You don't have to worry about them making a mess since the color is invisible when drawn on anything but the special Color Wonder paper.
+Of course, this means you have to spend a decent amount of money to keep a steady supply of Color Wonder paper.
+While the coloring page books are relatively expensive, the usually have great choices in content and a little extra frill, glitter in this case.
+The glitter paper is shiny all over, and the background is very glittery, but you can't really color it.
+My kids were excited to have so many princess portraits to color.
+The product works well but the results won't look as vibrant or as clean-cut as the picture on the box regardless of coloring skill.
+For the Princess and/or Glitter lover in your life.
+This is a great coloring book and who doesn't love Color Wonder, so much fun!!!!
+The price really isn't that bad for 12 pictures and 5 markers.
+It's not just a coloring book it is a coloring book with GLITTER!
+It's worth the splurge for your little fashionistas.
+This no mess coloring kit is great for kids who accidentally draw all over the place and usually make a big mess.
+There are two main reasons why I like this coloring kit.
+The first one is that the markers don't draw on anything but the specific paper.
+This means that a kid could draw all over regular paper or accidentally swipe it across your couch and it still won't leave a mark on it.
+The second thing that I like about this is that there are no glitter pieces falling off the paper.
+Usually with things with glitter on it, some glitter falls off and leaves a mess on your floor.
+Instead, there is no mess!
+But there is one thing that is sort of a con.
+Markers can be easily misplaced and lost and since you can only draw on your paper with these special markers, the glitter paper has no use, but thankfully they also sell these markers separately.
+I would definitely recommend this to a friend with a young child who wants a no mess coloring kit.
+This kit contains 12 sheets with princess illustrations to color in, and 5 colored markers.
+The main attraction is that some of the coloring turns out very glossy, with a metallic sheen.
+My eight year old spent a happy hour or so coloring these, but I think she's just about at the top of the range.
+Her opinion is that there are not enough pages and not enough different colors, but she did have fun.I think this is a good activity if you have younger kids and can get a good price, but it's definitely not all it could be.
+It took my 5 year old about 2 hours to completely use up this book.
+She had fun but for the price, it seems like she got very little use out of it.
+I could buy her a FULL set of markers and a much larger Disney coloring book for less than the asking price of this set.
+She cried when she realized it didn't even have enough colors to make the pictures on the cover.
+I would go with something different.
+I used to work in travel related retailing, and I learned a vitally important lesson.
+Parents are absolutely starved for activities that are self contained and mess free.
+For this reason, I actually stocked quite a few of these Crayola products.
+One of our biggest sellers were the Color Wonder series.
+In Color Wonder, the magic markers can only react to the provided paper.
+So you can create an artistic masterpiece with no worries that your child will splatter themselves, neighbors, clothes or upholstery with ink.
+It's an ingenious idea, to be sure, and now they've taken it to the next step.
+This series featuring the Disney Princesses (always an easy hit) is actually done on a special glitter paper.
+So you've got both coloring and glitter effects with absolutely no mess.
+It's a winning scenario.This set has 12 pages to color and five different color markers.
+Truthfully, the designs aren't the most complicated or detailed but that's probably to be anticipated.
+There is only so much you can expect with this super magic technology!
+This may not entertain for long trips, but it is a fitting diversion for a short period of time and an easy recommendation for the budding artists in your clan.
+KGHarris, 10/13.
+My 7 year old daughter loves anything that sparkles and of course anything that has to do with Princesses.
+I on the other hand am not a big fan of glitter.
+So when I saw these I knew they were the perfect compromise for us.
+We have used several different Crayola Wonder products in the past and have always been very pleased.
+My daughter has really enjoyed these glitter sheets (the glitter is already on them, no fess no muss!).
+Her only complaint is that there weren't more colors that came with this pack.
+Great gift idea!
+Glitter markers are great, there's no mess.
+The colors though are not as vibrant as on the picture, it's a bit misleading.
+My girls love Princesses and glitter, so this is pretty much the perfect combination.
+It really is mess-free.
+the glitter is imbedded in the paper and the markers will only draw on the color-wonder paper.
+There is a good variety of pictures in here too-Rapunzel (2), Belle (2), Ariel (3), Tiana, Aurora, Jasmine, Cinderella (2).
+My only real complaint is the lines that make up the pictures look like they were printed on a cheap printer-they are a bit fuzzy and on one of the pictures the lines actually smudged black into the color of the marker.
+Overall, this is a fun set (a bit pricey) and my kids love it!
+Granddaughter loves it but...  cost vs value not so great.Fun color sheets.
+Nice for &#34;special&#34; coloring.
+The sheets are beautiful and fun to color but not convinced they are worth the cost.A nice &#34;treat&#34; but not for day to day coloring.
+This was the first time we ever used Color Wonder markers and coloring books.
+I have mixed feelings about the set.There are 5 markers and 12 coloring pages.
+The backgrounds of the coloring pictures are a foil or holographic type background.
+Some have small designs to color in the background.
+An Ariel page, for example, has a few sea shells, star fish, etc scattered on the page.The marker tips are white.
+You color on the paper and it takes a few seconds for the color to show up.
+Some areas will actually fill in, in a metallic, almost glittery finish,It takes quite a while for the ink or fluid from the markers to dry.
+You can smear it easily with your fingers or hands and the color will come onto your skin.
+It wipes right off though and has a bit of a light oily feel.After the color has developed on to the page, it will smear onto other areas and that ruins those areas.
+When you're coloring, most times the side of your hand is against the paper at least lightly as you go along and color in different areas.. as your hand moves along the paper, it drags the color with it and smears it into uncolored areas.So, yes it is basically mess free because the &#34;magic ink&#34; will not stay on your skin etc, but it is sort of difficult to really work with due to the smearing.
+It is disappointing to have the picture ruined by the smears.There is a bit of surprise to it though which makes it a little fun or exciting, since you can't really tell where it wll have the metallic or glittery finish.
+For he most part it is the dresses, jewelry etc that have that special finish.
+The hair and skin areas just look like regular marker.I am not so sure I would actually recommend these kits just for the simple fact that there are so few sheets in the coloring book.
+The coloring areas are large and easy to color, so it only takes very few minutes to finish up all of the pages.
+The background is all the foil/sparkle, so there  is no coloring there or being creative and just drawing things in.
+Also, the smudging and ruining the pictures as a bit disappointing.
+"Crayola Color Wonder products are a true innovation, with markers that work like magic on the included paper and nothing else.
+When coloring, the ink first looks clear, but becomes more colorful after a moment.
+This is a neat effect, but a downside is that the colors are not as vibrant as standard markers.
+Also there are only five colors included, with three being similar (tan, yellow, brown).
+Still, that is enough to make pretty pictures.What Crayola calls ""glitter paper"" is paper with foil patterns that do not fall off or make a mess.
+That's great!
+Also, there is a subtle glitter to the parts of the paper than can be drawn on.
+The pages do not tear out easily, but there is a large margin to allow for cutting them out with scissors.
+Overall, this is a nice gift for a little girl that likes princesses."
+My daughter loved this coloring book.
+So much so in fact that she finished it in 2-3 hours.
+Thats pretty much the only downside to this product, is that its too short for the price.
+The pages have glitter but it doesnt make a mess.
+The included markers only work on the book also which is even better( no more marker stains on clothes!).
+As long as you dont mind the price you wont be disappointed in my opinion.
+We're a big fan of the Color Wonder Mess Free line of Crayola markers.
+Ultimately I prefer to get blank Color Wonder paper from the store (sometimes I catch a sale and buy a lot), and my kids love to create their own designs.
+I got this set because it has glitter in the paper!
+The glitter is mess free, and does not come off of the paper.
+Each sheet is holographic(!
+), printed on thick sturdy paper.
+The collection of five markers allows you to color only on the areas without the glitter (white), which makes for limited coloring, but good for beginners.
+The included colors seem like a quality control issue--browns and tan for a princess set?!
+What happened to red and yellow?Overall this is a good gift set.
+The pages are very unique and shimmery.
+My wife and I love the Crayola Color Wonder because it doesn't mess up the carpet nor their clothes if they forget to put back the caps on.
+It is also kinda magical to see clear markers suddenly erupts into different colors once you apply it.We bought the glitter Color Wonder before but the problem is that the glitters are pasted on the pages and some of it gets remove from the paper and makes a mess everywhere.
+Not only it makes a mess, it is also more difficult to color because of the little bumps on the paper.
+Those two problems were solve in this version.
+The glitters are now embedded in the pages and there are no more bumps.
+Now, if they can only improve how to intensify the colors then that would be perfect.Oh, and also, 12 pages only?
+The resident five-year-old was mostly pleased with these.
+The pictures really do glitter when you color them and they are very pretty.
+They were actually mess-free as described.
+The glitter stayed on the page.We would have liked more pictures - there are very few pages compared to many of the other color wonder products.
+And there was no red - kind of necessary for Ariel's hair.My daughter was a bit less than pleased with the color choices however - she kept feeling like she had to settle for close colors - and felt like the colors made the princesses look different than they should, but she did enjoy the product.Unfortunately, with very few pages to color, the fun ended quickly.
+This won't be a sustained activity for your child.
+After selecting this item and awaiting its arrival I decided to read the reviews on the product.
+Quiet a few of them stated that the glitter got everywhere!
+Great just what I need more messes.However there must have been a redesign because the pages are more like a sparkly foil made to look like glitter.
+My daughter loves this coloring book, she also insists that each page be framed and hung in her room upon completion.
+Since the dollar store sells picture frames her request is easily granted.The biggest down fall of the product is lack of pages,  only 12 in this book (which is quiet a few less than others) .
+This book is a great gift idea, its also good for entertaining little ones in a less than kid friendly establishment.

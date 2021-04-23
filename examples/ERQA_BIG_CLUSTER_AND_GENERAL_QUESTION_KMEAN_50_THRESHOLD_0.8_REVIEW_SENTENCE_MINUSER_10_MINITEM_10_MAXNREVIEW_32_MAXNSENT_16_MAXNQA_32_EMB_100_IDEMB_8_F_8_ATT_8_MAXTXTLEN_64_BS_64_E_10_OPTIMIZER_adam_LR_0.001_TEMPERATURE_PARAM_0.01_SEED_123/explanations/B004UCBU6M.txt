@@ -1,0 +1,130 @@
+Top question(s):
+I bought a new Bop It, changed the batteries and pressed the reset button,.but it doesn't work, what should I do?
+can you change it to spanish?
+Top sentence(s):
+Years ago our most popular mode was Pass It and will probably continue to be our favorite mode.The original Bop It was developed by Dan Klitsner, introduced in 1996, and has won several Electronic Games of the Year awards.
+Good is the nice selection of game modes; bad is the fact that in order to unlock each one other than the basic ""tell you what to do"" mode, you have to reach a score of 100 in the previous mode.
+No more being annoyed by the sounds of commands heard over, and over, and over again.
+It kept my kids busy for awhile.
+But in the age of computer games, it does feel repetitive and gets old after awhile.
+
+Question attention weights:
+0.28891608119010925,0.21624569594860077,0.23514340817928314,0.17133234441280365,0.08836254477500916
+Sentence attention weights:
+0.011716094799339771,0.00948105938732624,0.009695516899228096,0.007341132499277592,0.004885252099484205,0.015748655423521996,0.00497825350612402,0.007902483455836773,0.00993978139013052,0.00948105938732624,0.009253708645701408,0.007385467179119587,0.009212234057486057,0.014646648429334164,0.009369101375341415,0.008650397881865501,0.009355389513075352,0.007607877254486084,0.009166908450424671,0.009680374525487423,0.009680374525487423,0.008883259259164333,0.008835134096443653,0.010559926740825176,0.008298510685563087,0.0138013307005167,0.009128841571509838,0.011353078298270702,0.004853888880461454,0.01056906022131443,0.011211019940674305,0.009473630227148533,0.007865671068429947,0.007789973169565201,0.009453694336116314,0.008337677456438541,0.006593195255845785,0.014803151600062847,0.011249525472521782,0.007813729345798492,0.009015358053147793,0.009453694336116314,0.008235761895775795,0.00753848347812891,0.010381195694208145,0.007577535696327686,0.009471005760133266,0.01180444099009037,0.011565673165023327,0.009643618017435074,0.012710529379546642,0.0071761286817491055,0.006280783098191023,0.011709452606737614,0.005237491801381111,0.01529724895954132,0.005763520952314138,0.015773795545101166,0.005983338225632906,0.003673967206850648,0.010600918903946877,0.009159048087894917,0.013687189668416977,0.009656399488449097,0.009581895545125008,0.008178464137017727,0.009738480672240257,0.009236624464392662,0.009236624464392662,0.010036728344857693,0.008826112374663353,0.010083407163619995,0.0045713759027421474,0.008940561674535275,0.00910172052681446,0.010793433524668217,0.008483308367431164,0.004383225459605455,0.009674745611846447,0.007548645604401827,0.009964348748326302,0.006736505776643753,0.009387115016579628,0.009537884965538979,0.007468621712177992,0.01347485650330782,0.008884980343282223,0.010805555619299412,0.009395817294716835,0.010716686956584454,0.01142668817192316,0.013248960487544537,0.01042272336781025,0.006820002105087042,0.012261612340807915,0.00933867134153843,0.011257736012339592,0.006626668851822615,0.009229635819792747,0.010291235521435738,0.008486250415444374,0.014705086126923561,0.013805100694298744,0.013886714354157448,0.009956508874893188
+0.013069899752736092,0.009334341622889042,0.010194678790867329,0.008730151690542698,0.007515153847634792,0.011309470050036907,0.0067103831097483635,0.009483869187533855,0.009456103667616844,0.009334341622889042,0.009298257529735565,0.008311271667480469,0.009032142348587513,0.012046175077557564,0.008740869350731373,0.009052695706486702,0.009055637754499912,0.009026074782013893,0.008251153863966465,0.009480351582169533,0.009480351582169533,0.00858469121158123,0.008923268876969814,0.009215455502271652,0.008394788950681686,0.01145708467811346,0.009552153758704662,0.010930562391877174,0.005135494749993086,0.00988830253481865,0.01027416717261076,0.007481984328478575,0.00804403331130743,0.00875901523977518,0.00924962293356657,0.008592911064624786,0.007276801858097315,0.013467645272612572,0.011094741523265839,0.009292405098676682,0.00871426984667778,0.00924962293356657,0.009456261992454529,0.008206737227737904,0.009616279974579811,0.00822498369961977,0.009321263991296291,0.010361406952142715,0.013394166715443134,0.008041447028517723,0.010874803178012371,0.008687276393175125,0.00749472388997674,0.012827934697270393,0.0069060418754816055,0.01440882682800293,0.007016029674559832,0.012156768701970577,0.008457443676888943,0.005781692918390036,0.008942443877458572,0.009775480255484581,0.012550308369100094,0.010908451862633228,0.00880936998873949,0.007969475351274014,0.009893231093883514,0.009209692478179932,0.009209692478179932,0.010259222239255905,0.007912597618997097,0.008745353668928146,0.0075907520949840546,0.009498309344053268,0.007989187724888325,0.009595793671905994,0.010127369314432144,0.012342960573732853,0.009370933286845684,0.011273595504462719,0.010513545013964176,0.010383942164480686,0.00911870226264,0.00985901989042759,0.010558662936091423,0.00834614597260952,0.0077084884978830814,0.010146459564566612,0.008941599167883396,0.010077039711177349,0.013359353877604008,0.013966385275125504,0.0076990206725895405,0.00769801763817668,0.01146917138248682,0.009333494119346142,0.00552834989503026,0.008150801993906498,0.010456166230142117,0.010161900892853737,0.009729569777846336,0.012000762857496738,0.010403506457805634,0.011967895552515984,0.008721258491277695
+0.012319022789597511,0.009398926980793476,0.009963810443878174,0.007381433621048927,0.005084042437374592,0.014215913601219654,0.0047157746739685535,0.008704587817192078,0.009728379547595978,0.009398926980793476,0.008910962380468845,0.007638946641236544,0.00909410323947668,0.01369514036923647,0.009317810647189617,0.00853070430457592,0.00922070350497961,0.007741118781268597,0.010540775023400784,0.00964272953569889,0.00964272953569889,0.008362505584955215,0.008623049594461918,0.010426555760204792,0.007780334446579218,0.012562754563987255,0.009052585810422897,0.01163426972925663,0.004097237251698971,0.010448426008224487,0.010942777618765831,0.008773963898420334,0.008217868395149708,0.008134708739817142,0.00943670328706503,0.008164843544363976,0.006231015548110008,0.01611226052045822,0.012389762327075005,0.00745584350079298,0.008949297480285168,0.00943670328706503,0.008687381632626057,0.007569536101073027,0.010221501812338829,0.007860173471271992,0.009397897869348526,0.011973724700510502,0.01259028259664774,0.008734597824513912,0.012465567328035831,0.0076598008163273335,0.0062384638004004955,0.01039404608309269,0.005208912771195173,0.015206515789031982,0.005768782924860716,0.01431979052722454,0.006498017814010382,0.003715839236974716,0.010469731874763966,0.01003327127546072,0.015902353450655937,0.010431304574012756,0.009283885359764099,0.007803889457136393,0.009624466300010681,0.009242434985935688,0.009242434985935688,0.00958715844899416,0.008307326585054398,0.009814940392971039,0.004420636687427759,0.008928962051868439,0.008747942745685577,0.010812127962708473,0.008143764920532703,0.006353999022394419,0.009653703309595585,0.007243526633828878,0.010019221343100071,0.007862904109060764,0.00926903821527958,0.009387143887579441,0.008425794541835785,0.011996138840913773,0.008795622736215591,0.012078450061380863,0.009291591122746468,0.010595527477562428,0.013260483741760254,0.01473830547183752,0.009226751513779163,0.007269817870110273,0.011855593882501125,0.009333997033536434,0.00773500045761466,0.0071503277868032455,0.009646493941545486,0.01053335890173912,0.00899201538413763,0.01483867410570383,0.013648318126797676,0.014067755080759525,0.009302929975092411
+0.012262323871254921,0.009248893707990646,0.010272628627717495,0.008203083649277687,0.007220064289867878,0.01168475579470396,0.006622099783271551,0.009090892039239407,0.009440702386200428,0.009248893707990646,0.009117759764194489,0.007992914877831936,0.009006071835756302,0.011919477954506874,0.008939123712480068,0.008835633285343647,0.009034618735313416,0.008749916218221188,0.009068899787962437,0.009404677897691727,0.009404677897691727,0.008612001314759254,0.008968719281256199,0.009566071443259716,0.008314205333590508,0.012102560140192509,0.009279581718146801,0.010911335237324238,0.005246708635240793,0.009952368214726448,0.010267980396747589,0.008620732463896275,0.008208230137825012,0.00876634195446968,0.009228107519447803,0.008783855475485325,0.007333178538829088,0.01361696608364582,0.011375839821994305,0.008625549264252186,0.008859788067638874,0.009228107519447803,0.009521548636257648,0.008224002085626125,0.009674140252172947,0.00814899429678917,0.009252415969967842,0.01075250469148159,0.013446436263620853,0.008645090274512768,0.011138886213302612,0.008160020224750042,0.007757955696433783,0.011842509731650352,0.006868184078484774,0.014160234481096268,0.00694775627925992,0.013318712823092937,0.00786572601646185,0.005350781604647636,0.009714171290397644,0.009753371588885784,0.013800989836454391,0.010453791357576847,0.009235149249434471,0.007968174293637276,0.009679586626589298,0.009131760336458683,0.009131760336458683,0.009887883439660072,0.008160879835486412,0.009148233570158482,0.006488848943263292,0.00914069451391697,0.008706126362085342,0.009948228485882282,0.009671378880739212,0.00953716691583395,0.00947517529129982,0.009489471092820168,0.010282551869750023,0.00962473638355732,0.009095098823308945,0.009551431983709335,0.009575649164617062,0.009631067514419556,0.008392062038183212,0.011315486393868923,0.009020606055855751,0.010042287409305573,0.01321791298687458,0.013563807122409344,0.008095060475170612,0.008129488676786423,0.011198700405657291,0.009253750555217266,0.0066770147532224655,0.007906964980065823,0.01010186318308115,0.010073876939713955,0.009517092257738113,0.012300657108426094,0.01169175561517477,0.012385069392621517,0.009120886214077473
+0.011854910291731358,0.008793064393103123,0.010096450336277485,0.0077295866794884205,0.0072418940253555775,0.011889620684087276,0.006357587408274412,0.009731149300932884,0.009232984855771065,0.008793064393103123,0.00846251379698515,0.007527835667133331,0.008692994713783264,0.011996757239103317,0.008702714927494526,0.008275327272713184,0.008617970161139965,0.008422644808888435,0.010550805367529392,0.008983951061964035,0.008983951061964035,0.008194043301045895,0.008515749126672745,0.00956595316529274,0.007801528088748455,0.01255774311721325,0.008716525509953499,0.010782706551253796,0.004742201883345842,0.00960887037217617,0.009911290369927883,0.009391194209456444,0.008246066980063915,0.009023632854223251,0.008854001760482788,0.008902929723262787,0.0075206272304058075,0.014609373174607754,0.012657584622502327,0.007985370233654976,0.008729422464966774,0.008854001760482788,0.009813630022108555,0.007835239171981812,0.0096363490447402,0.008019588887691498,0.008784515783190727,0.011091826483607292,0.014291620813310146,0.009254654869437218,0.011444676667451859,0.007764464244246483,0.008442447520792484,0.012199265882372856,0.007378621958196163,0.013933293521404266,0.007462299428880215,0.01571466214954853,0.0074239508248865604,0.005261377431452274,0.0102137615904212,0.009584500454366207,0.015665341168642044,0.010058287531137466,0.009487254545092583,0.0074721286073327065,0.009344778023660183,0.008698132820427418,0.008698132820427418,0.009338568896055222,0.007750404998660088,0.009408512152731419,0.005913072731345892,0.008485522121191025,0.00901925377547741,0.009973718784749508,0.009484325535595417,0.008787759579718113,0.009219374507665634,0.007920715026557446,0.009834961034357548,0.009501250460743904,0.008675118908286095,0.009033778682351112,0.009732112288475037,0.010517529211938381,0.008466375060379505,0.013085122220218182,0.008697529323399067,0.009663998149335384,0.014281277544796467,0.013958540745079517,0.00817148108035326,0.008853674866259098,0.010900953784584999,0.008822296746075153,0.00643230089917779,0.007763672154396772,0.00962789636105299,0.010015112347900867,0.0094510018825531,0.012970250099897385,0.013250809162855148,0.012660354375839233,0.009247963316738605
+Questions:
+I bought a new Bop It, changed the batteries and pressed the reset button,.but it doesn't work, what should I do?
+IS THIS A GOOD PRODUCT FOR A 5 YR OLD
+can you change it to spanish?
+how does it compare to the original Bop-it?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+"This is good fun as both a toy and a game, although there's not that much to it.
+It's the kind of thing you play for a little while, then put down.
+But with its multiple modes of play and multiplayer games, it won't stay on the shelf forever.There are good and bad points.
+Bad is the fact that it's loud and annoying; good is the headphone jack.
+Bad is the fact that the Shake It sensor can be tricky and frustrating for younger kids; good is the fact that the Shake It sensor can be folded into the unit, causing it to be skipped entirely.
+Good is the nice selection of game modes; bad is the fact that in order to unlock each one other than the basic ""tell you what to do"" mode, you have to reach a score of 100 in the previous mode.
+At around a second per move that doesn't sound like much, but it takes a LOT of patience and practice to string that many moves together without messing up.
+Note that you don't have to unlock the multiplayer games, just the instruction variations (for example, where it tells you the color of the control to hit rather than the name).This reminds me of the old ""Simon"" game, but far more sophisticated.
+The classics stick around, even if they change with the times.
+It's still simple and fun.
+You won't play it for two straight hours, but you'll probably try it again tomorrow."
+"The Bop It has been around for a long time.
+It's nothing new.
+I played it with my kids and tried to seem how many times I could ""twist it"", ""pull it"", or ""spin it.""
+I was horrible at it, but my kids loved it.
+I can be a fun party game to pass around and see who can get the best score.
+It can also be stressful when you are trying to do the right command in the brief amount of time the game gives you.
+But, in the end, this toy just doesn't hold my interest for long.
+My family quickly grew bored and consigned it to the heap of toys that had their brief moment in the sun."
+I think with time this toy could be really fun.
+Even on the slow setting, it's just way too fast.
+I still haven't gotten the hang of it, so I know it will be harder for kids to stay with long enough to win.
+I know there's some kids that will do great with it, but on average I THINK most kid's will give up before they get anywhere with it.Also, I don't like that the guy giving commands is so mean when you don't get to the commands in time.
+It's not very encouraging.
+On a side note, though, my son(almost 3) thinks it's hilarious when the guy makes his rude noises or words.
+He hits the center to hear the music and starts dancing, and he laughs when the guys talks.
+I don't recommend buying it JUST for that reason, though.
+:)It seems pretty durable at the moment.
+It's been dropped and still works.I don't have teenagers, but I imagine they would get the most fun out of it.
+There's also a place for headphones, so it can be a quiet toy.
+The Pro's: This game could be played by anyone.
+It teaches you to listen and recall what you have hear.
+It is fun to play with a small group or alone.
+It is a great game for your coordination.
+Your brain has to work with your hands.
+It's funny with all it fun comments.
+There are no pieces to loose witch I hate!
+It kept my kids busy for awhile.
+It did hold a couple of their attentions for up to 45 min.
+This might gone down as they get used to the game.The Con's: It get's annoying after a while.
+Especially if you are in the other room while someone else plays.
+I wish it could be turned way down.
+I never played the original Bop It game, so I can't compare this one to that, but I did used to have the old style Simon says game in the 80s that just had colors and lights and this sort of reminds me of that game only you don't have to remember a pattern you just have to do one of around 6 things when it prompts you to.
+It keeps track of the high score and also has different modes with multiple players to keep it interesting.
+Me and my wife play it if we get bored sometimes and it's simple enough that our 4 year old can get up to 5 or 6 in a row before it gets too hard.
+It is a pretty fun game and when you start it's hard to put down despite it's seemly simple design, so it has a good replay value too.
+So it's not uncommon for puzzle games to find their way to our home.
+Often they offer ingenuity but either leave you so frustrated you don't want to ever touch them again or somehow lack the pizzazz to keep anyone interested for too long.
+I'm happy to comment that the Bop It is an awesome addition to any home; whether you have kids or adults.The eye-hand-audible coordination is really difficult at first (I think I got a score of 3 my first time) but if you keep at it, the player quickly sees improvement, which encourages you to play more.
+However, with the many scenarios (functional commands, color or sound commands) this toy keeps people interested for a long time.
+We've had ours now for several months and we still enjoy picking it up to challenge ourselves.
+The Bop It is definitely a Buy it!
+"We played the old Bop It game with our children as they were growing up and so it was fun to try out Bop It XT by Hasbro - the latest and greatest and still the funest.The latest version was introduced at the UK Toy Fair in London in January 2011 and entered the U.S. market in the fall of 2011.
+It does all the things as our family favorite pioneer Bop It did - challenging you to react to its fast-paced commands like ""twist it"", ""flick it"", ""spin it"", ""pull it"", and, of course, ""bop it.""
+The sleeking looking, modernized 2011 XT adds the ""shake it"" command to the challenge set.Another wonderful feature of XT is that it comes with earphones so you can enjoy reading, watching TV or visiting with family or friends while the kids and/or grandkids enjoy Bop It.
+No more being annoyed by the sounds of commands heard over, and over, and over again.
+The kids and/or grandkids likely will make use the headphone socket as a means of hooking up Bop It XT with speakers to ""enrich"" the experience.Bop It modes include Single Player, Pass It, and Party.
+Years ago our most popular mode was Pass It and will probably continue to be our favorite mode.The original Bop It was developed by Dan Klitsner, introduced in 1996, and has won several Electronic Games of the Year awards.
+Bop It had been my favorite game until that fateful day when I was beaten by my six-year-old son.
+Despite that, goldie-oldie Bop It fans like me will love Bop It XT."
+The Bop-It XT is an interesting twist on the original Bop-it Game.
+I played the original game and liked the simplicity, believing that was difficult.
+I also enjoyed the sound effects for your score.
+Bop-It XT is way more evolved than that and all of the other extreme versions.
+It is definitely more lightweight than the other Bop-It XT.
+I think this is a great feature for children and adults because it is easier to hold and great for travel.
+I like the new addition to XT, which is the Shake It option.
+Not only is there a pull-it, bop-it, twist-it, flick-it, and spin-it, but there is also a shake-it.
+You do not have to touch this one, but rather shake the whole game, which makes it more fun.
+You also do not have to use the shake-it option.
+If you do not press on it, it will not come out and the announcer on the game will not call it out as an action to perform.
+I think the choice makes the more appealing to customers because they have a choice; I know I was more intrigued.The game speaks a lot more than it used to and there are many options.
+There is the solo option, pass-it option, party option, and one-on-one option.
+More ways to play keeps the game interesting over and over.
+It also speaks loud and clear and you can change the volume.
+This is a great edition; for example, if a child brings the game on a long road trip.
+When sedentary seems to be the norm for play time, it is good to find a toy that involves movement!
+This is a fun and lively game that incorporates music with hand/eye coordination.
+This is a must have for kids that need to stay busy and have a hard time figuring out games to play by themselves, not that it is limited to those kids either!
+All kids will enjoy this fast paced challenging game.
+I highly recommend it for kids of all ages.
+My seven year old twins have enjoyed playing with the Bop It XT.
+It's a very simple game and just about anyone could sit down, turn it on, and start playing right away.
+Of course it starts off easy and gets progressively harder as you go along.
+All you have to do is follow the commands the game gives you such as bop it, twist it, flick it, etc.
+This game is great for teaching someone to focus because you really have to pay attention if you want to get far.
+The game also seems to be quite durable.
+So far I've seen my daughters drop it several times and once I saw it go sliding across the floor.
+It still works perfectly though!
+I would definitely recommend this game to friends for their children.
+even thou this toy may not have 'educational' learning in the traditional sense, it can really help eye, hand, ear, etc coordination.it entices kids to get involved and if at a party two kids are playing you might be surprised how many others might come over and wanna get in on playing it.hours of fun (althou in a car ride bring some ear plugs haha).
+When I first opened this one up and gave it a try, after a handful of times I was frustrated and annoyed by the song and put it down.
+But then I needed to try it again, and as I started to get the hang of it I enjoyed it more.
+The music is a bit annoying, but luckily after years of exposure to kids toys, my tolerance level for loud noises is pretty good.
+I say luckily because the kids found it and wont stop playing with it.
+They're younger than the recommended age (8), but they still seem to like it.
+It kept the youngest entertained for 45 minutes as he tried to figure it out (this upped my satisfaction with the toy considerably).Batteries are included, and it's contained in one piece.
+It would be a fun addition to a kid's party.
+I've played this several times with my 8 year old and with adults.
+The commands can be hard to hear/understand at times and it can be a bit confusing.
+It was a great ideal to have a jack for headphones.
+But in the age of computer games, it does feel repetitive and gets old after awhile.
+It's a bit too hyper for adults to enjoy together and really needs an older kid who won't get frustrated if they don't understand the cutsey voice.
+As well, didn't like the obnoxious attempt at humor, either.
+You can give a game a personality without it being like salt on an open wound.As such, it really isn't played with much any more.

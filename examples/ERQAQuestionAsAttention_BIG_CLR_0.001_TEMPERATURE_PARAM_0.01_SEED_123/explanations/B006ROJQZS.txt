@@ -1,0 +1,184 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+The only disappointment I have, which really isn't a reflection on the product itself is that it doesn't say what the three trains' names are, as the title is simply ""Snow Day""."
+It's suprising and exciting how well she can do these.
+I kept an eye on them and they both seemed very pleased with themselves when they succeeded to get it about half done before dinner.
+It is not the sturdiest and may perish quickly with rough use or in the role of a lunchbox.
+Very educational as they have fun while learning.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.00723155727609992,0.007585859391838312,0.007102403789758682,0.004950402304530144,0.005257644224911928,0.005992944352328777,0.006550893187522888,0.005020095966756344,0.006117851007729769,0.00980772078037262,0.007372095249593258,0.0019366831984370947,0.0027982061728835106,0.007419348694384098,0.008147981949150562,0.0032136908266693354,0.005249350797384977,0.0028100949712097645,0.0030343318358063698,0.007727200631052256,0.00872749648988247,0.0026374871376901865,0.00727095128968358,0.005860974080860615,0.005321314092725515,0.00610129302367568,0.006274680607020855,0.004583578556776047,0.0030054727103561163,0.00699241179972887,0.004534909036010504,0.00872934889048338,0.006351575721055269,0.004881783854216337,0.006116201169788837,0.005090371705591679,0.007744029629975557,0.007744029629975557,0.00694013386964798,0.007365184836089611,0.008694631978869438,0.007310093380510807,0.005825281608849764,0.007255606818944216,0.0037842937745153904,0.007251267787069082,0.006070497911423445,0.0060630370862782,0.007643420714884996,0.007400659844279289,0.007643420714884996,0.00660573597997427,0.005022997036576271,0.008019465021789074,0.0035899002104997635,0.0073897880502045155,0.0035336953587830067,0.004683081991970539,0.006224507465958595,0.0077898320741951466,0.005409215576946735,0.005320168565958738,0.006413890980184078,0.009183085523545742,0.007612038403749466,0.00827631913125515,0.006587404292076826,0.00717048067599535,0.004664668347686529,0.0065396749414503574,0.0038540633395314217,0.00882225576788187,0.004831675440073013,0.005333332810550928,0.004976422060281038,0.0033817077055573463,0.00728392880409956,0.007213195785880089,0.004615495912730694,0.0034996590111404657,0.006720606703311205,0.0058934371918439865,0.006822728086262941,0.007278338074684143,0.008326563984155655,0.004949370864778757,0.0059622423723340034,0.0026058508083224297,0.007661288604140282,0.006734002381563187,0.005494790151715279,0.005576544441282749,0.0061458926647901535,0.006237344350665808,0.005048204679042101,0.0061308853328228,0.005407636519521475,0.0066467649303376675,0.004358544014394283,0.005524083506315947,0.0054648867808282375,0.0035147415474057198,0.009198675863444805,0.005251586437225342,0.0061179050244390965,0.006749636493623257,0.006111670285463333,0.004852876998484135,0.0048258015885949135,0.005834648385643959,0.0075931241735816,0.007486928254365921,0.006849587429314852,0.0027795869391411543,0.004952010232955217,0.0037065823562443256,0.005423476453870535,0.006196482572704554,0.004695137031376362,0.007751505356281996,0.0031517453026026487,0.008315661922097206,0.005702030844986439,0.007272273767739534,0.0057305991649627686,0.005640832241624594,0.007642938755452633,0.007707180455327034,0.002944285748526454,0.007740583270788193,0.004340009763836861,0.0035819285549223423,0.007578803226351738,0.006793488748371601,0.005678056739270687,0.009001116268336773,0.005397645290941,0.008249943144619465,0.0038675707764923573,0.0028329736087471247,0.005085970740765333,0.00446712039411068,0.002328168135136366,0.007869673892855644,0.004535751882940531,0.007060720585286617,0.003869198262691498,0.005071525927633047,0.006772766355425119,0.006019470281898975,0.0033817754592746496,0.006049140356481075,0.007481482811272144,0.0027827476151287556,0.008535092696547508,0.007216813042759895,0.008757703937590122,0.007515318226069212,0.006713563110679388,0.003371047554537654,0.007520140614360571,0.002986124949529767,0.006127170752733946,0.0043184165842831135,0.004905732814222574,0.007408965844660997,0.007552430499345064,0.003854830749332905
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+"The puzzle pieces are much thicker than the cheap ones you get with most kids' puzzles.
+It's fairly easy to put together, though your child will need to be able to assemble puzzles not just by how the pieces fit, but also by the scene.
+Several pieces can be fit together even if they aren't in the right spot.
+My 5-year old loves puzzles and Thomas, so he didn't have too much problem putting this together himself.
+There's not too much curl to the edges of the pieces, but they don't sit perfectly flat at every point.
+They are still much nicer than the average puzzle piece.The tin is well sized and can easily fit all the pieces even if they're just tossed in at random.
+It has a typical metal latch that stays on securely.
+The finished scene is on the rear of the tin.
+The handle is plastic, but is very thick and smooth, so I don't see it breaking.So, while the price is a lot higher than the average puzzle of this size, you do get a nice tin that won't be destroyed the way many boxes are, and the pieces are of nice quality as well.
+The only disappointment I have, which really isn't a reflection on the product itself is that it doesn't say what the three trains' names are, as the title is simply ""Snow Day""."
+"This Ravensburger ""Thomas & Friends Snowy Day"" puzzle is just plain fun for younger kids to build and the high quality pieces and metal carrying case will ensure it will hold up for a long time.
+The puzzle features three anthropomorphized train engines, from the popular ""Thomas The Tank Engine"" children's show, enjoying a snowy day on the tracks.The 35 puzzle pieces are the right size for ages 4+ and they fit together very nicely.
+The carrying tin is very well made and very cool looking and I am fairly sure it will outlast the puzzle by a few years.This is a great choice for any child that enjoys ""Thomas"" and likes to do puzzles.Highly Recommended!CFH"
+not only are the pieces very durable but also the container is great, like an old lunch box.
+IN fact it could be recycled as a lunch box or other piece of small luggage!
+Keep your loose crayons in here!but do not get it just for the box itself!the image on this puzzle is really very gentle and evocative, with gentle falling of the the snow.the primary colors really work well together here and are a great context driven means of presenting color names to preschoolersI have used this in fact with two groups of preschoolers and they love itthey are coming to use it independentlyand so am I!
+Thomas the Train:  Snowy Day is yet another Ravensburger puzzle that is sure to please.
+This 35-piece puzzle size, when completed, is 17 1/2 x 12 1/2 inches (44 x 31 cm) with sturdy pieces that fit together nicely.
+My son was a total train fanatic, as are many young children, and Thomas and Friends is a huge hit with many.
+The metal lunch box-like tin can be used for other things if any pieces are lost (hopefully not).
+The colors are bright and, as usual, Thomas is just one of those appealing characters.For this age group I especially like the box because the puzzle can be transported to school, to a caretaker's home, or the grandparents.
+It's also and excellent puzzle to take along on vacation.Thomas and Friends:  Cleaning ThomasandThomas and Friends:  Thomas & Hiroare other portable Ravensburger puzzles.
+Both of these puzzles are 35-piece Ravensburger puzzles designed for the same age group (4 to 6 years) and are also in carrying cases.This puzzle is a step up from another puzzle I have, theJungle Party24-piece puzzle for the toddler set.
+If you come from a family of puzzle fanatics, you may wish to consider this one for a younger child (36 months to 6 years).
+Ravensburger spells quality and I have yet to find one I haven't like.
+The quality is top-notch, the patterns are wonderful, the pieces are durable, and they are of very high quality.
+If your kids like Thomas the Tank Engine, this is a good educational toy for them.
+The puzzle itself is a litle advanced for a 3 year old so adult help is required if your kids aren't old enough.
+As is expected with puzzles, they stimulate your child's brain and give them a sense of accomplishment when they complete them.
+Even better than the puzzle, however, is the can that it comes in.
+Long after your kids get bored with the puzzle, you'll at least have a quality tin that you can repurpose for other uses such as a lunch box.
+Whenever you buy puzzles for a three old, you are never quite sure what you'll get.
+This little guy worked out wonderfully for the three year grandchild.
+I believe that puzzles are great for hand and eye condition development.
+For the grandchild's age group, this puzzle met the need.
+This puzzle is our third Ravensburger product.
+It is too cute.
+The pieces are thick and sturdy.
+The edges are smooth.
+The art is well adhered and is not going to peel off.
+It is a fun puzzle to put together.
+After all, what kid doesn't love Thomas?The cutest part is of course the tin.
+The tin carrying case is very well made.
+Even the handle feels durable.
+The tin by itself is worth the price.
+With such a great puzzle and case we will definitely be using this one for years.
+The puzzle is great, but it is the tin that is my sons favorite.
+He uses it to stash his trains and carry them around the house.
+We even packed his lunch in it one day.
+The tine is durable, and seems to have a level of quality that should last for years.
+The puzzle is well cute and the pieces fit together perfectly.
+The pieces are thick and durable and the image is crisp and clear.
+My sone delights in putting the puzzle together and revealing the trains.
+A great buy, and would make an excellent gift.
+"""Thomas & Friends Snowy Day 35-Piece Puzzle in a Round Tin"" is a fine puzzle set for youngsters 6 and under (anyone over the age of 6 is going to get bored with this puzzle set right quick).A puzzler worth picking up because: it's bright; colorful; a well-measured challenge for the under 6 set; has a neat tin case where you can store the pieces; and it's cheap.In all, A perfect holiday stocking stuffer for little one's and those on a budget.
+Recommended."
+I gave this to my cousin's son who is a big Thomas fan.
+He enjoyed the little handle on the durable box for him to carry around and he likes to work on the puzzel, when his little sister is napping of course.
+Great gift for a winter birthday!
+I took this on a visit to the home of a 5-year-old niece.
+There was a lot of bustling activity going on around her as it was a family gathering.
+I gave her the toy and told her I was testing it and needed her help to decide if it was a good toy.
+She immediately engaged a young adult uncle to help her put the puzzle together.
+I kept an eye on them and they both seemed very pleased with themselves when they succeeded to get it about half done before dinner.
+She picked up the pieces as she was asked to get it out of the way and put them carefully away in their tin and took the tin to where her parents' stuff was so it wouldn't get lost.
+Her mother called me two days later to report she really enjoys the puzzle and had put it together a couple of times, once with a little friend.
+Niece also likes the carrying tin very much because she can take it with her.
+So, it looks like a good, basic toy with a fair amount of play value.
+Ravensburger does a great job making learning toys for younger children and this is no exception.
+The pieces are very durable and come in a neat little tin.
+My kids loved putting the puzzle together and love Thomas the train.
+Very educational as they have fun while learning.
+A great puzzle that is very durable and well made.
+"My 5 yr old little boy loves Thomas and has a new found fondness of puzzles.
+This puzzle (along with another Thomas one of the same size) was just an instant hit with him.
+We (mostly him) put it together many times and finally put the ""puzzle glue"" on it and hung it up on the wall.
+He is so proud every time he looks at it and tells me he put it together by himself!
+Now I just have to buy more puzzles for him.
+:-)Now he uses the lunchbox tin containers from both puzzles to put other small toys in!"
+"I gave this to our Nephew's wife for their three year old, and she tells me, ""This puzzle has been a big hit with my three year old daughter, who is a Thomas fan.
+She loves to look at the picture, work on the puzzle, but she especially loves the round shape tin in which this puzzle is stored.
+She loves to open and close it, fill it up, and carry it around.
+My daughter has found it useful for carrying all sorts of her favorite things!The 35 pieces are all well made.
+They are sturdy, colorful and all fit together nicely.
+After helping my daughter complete the puzzle a few times, she is now able to assemble the puzzle all by herself.
+Puzzles are a great educational activity.
+We have found they are a great activity to do together or to have her do during all by herself during quiet time.
+I often get out a puzzle for my daughter to work on while I cook dinner.This puzzle would be a nice gift for any child who loves Thomas and enjoys puzzles."""
+Our toddler thoroughly enjoyed this puzzle: he loves Thomas so was really excited to do the puzzle.
+The fact that it was in a tin rather than a box made it all the more special.
+As a parent I can say that I appreciate the tin container: not nearly as flimsy as your typical box, which our boys universally destroy seemingly within mere minutes.
+All in all: well made puzzle, Thomas, in a nice tin: you can't go wrong.
+Highly recommended for a toddler.
+This puzzle is perfect for little ones who love Thomas.
+My son is 2-years-old, and the size of the tin is perfect for him to carry around.
+Obviously, the puzzle pieces can be stored in the tin, but it's also perfect for when he wants to carry around a few of his train cars (or the random other junk that two-year-olds treasure).
+The tin features Thomas's iconic face on one side with an image of the included puzzle on the other side.The puzzle itself is made of high quality material.
+The pieces fit together easily (my little guy needs help, but I'm betting a 3 or 4 year old could handle it easily).
+Unlike the cheap puzzles that you see in large mass merchandisers, I feel confident that these pieces are not going to become frayed and the top layer is not going to separate from the rest of the puzzle piece.
+The pieces are thick and sturdy and large enough that they're not easily misplaced.Although they are a little pricier than dollar store puzzles, my experience with the Ravensburger puzzles is such that I don't think I'll be purchasing the cheap stuff again.
+We have two of these my 3yr old daughter loves Thomas and this puzzle she can actually put it together (with some help of course)the pieces are big for little hands and a little thick they should hold up well.
+Love the little Tin keeps things nice and neat, the colors are vibrant and beautiful great educational toy.
+It's suprising and exciting how well she can do these.
+"This is our second Thomas puzzle in a tin, and I have to say, they are both a big hit.
+The puzzles themselves are great; what's not to love about Thomas?
+The pieces are sturdy and a just-right size, not too small and not too big.
+But the kids adore the tin!
+They are always toting stuff around in the tin, pretending it is Thomas luggage, etc.
+Even the littlest kids that can't do the puzzle yet can enjoy the tin with its bright red plastic handle.
+The tin, which is very sturdy, is like getting a bonus toy.
+Just be aware that the tin is only about 9"" around.
+It looks bigger in the photo."
+"Our grandson seems to enjoy puzzles as much as I remember loving them decades ago.
+His favorite is ""Thomas the Train Engine"" and his home (and ours) is stocked with Thomas DVDs, books, etc.
+When I saw this Thomas puzzle I had to get it.
+It's a wonderful Thomas scene and the grandson loves putting the puzzle together.
+Unlike other puzzles that come in flimsy cardboard boxes that seem to disintegrate eventually, THIS puzzle is in a tin ""lunchbox"" style container.
+(In fact, the tin would make a pretty decent lunchbox.)"
+"My son is 3 1/2 years old and a complete Thomas fanatic.
+We have put this puzzle together at least 25 times now, if not several more, and he has the best time.
+The pieces are very sturdy and can easily put up with the pounding a young man can put to it when trying to force two pieces together that just don't go there!Bright colors, sharp image, and good construction are the hallmarks of the puzzle, but my son also loves the tin.
+His ""lunch box.""
+I'm sure that if the puzzle ever loses a piece or finally has seen its time go by on this Earth (and Sodor), he will find many a good use for the tin.Very useful, this puzzle.
+I definitely recommend!"
+It seems like you can't go wrong with a Ravensburger toy.
+This puzzle is well made and the tin is absolutely adorable.
+I love how they put different illustrations on the front and back.
+The handle seems sturdy, too.
+If you put the puzzle pieces in a zippy bag, the tin (which has standard lunch box clasps) would be perfect to send snacks to preschool.
+Definitely a hit.
+The Thomas & Friends Snowy Day puzzle is very traditional, consisting of typical cardboard pieces.
+Unlike some Ravensburger puzzles, there is not a textured finish or glossy coating.
+However, the artwork is impressive and the pieces fit together just right.
+I also like the big size of the pieces, which allows the child to do a bit of problem solving without getting frustrated.
+Puzzles are meant to be relaxing, after all.The included tin has a fun design and the latch is easy to operate.
+It is not the sturdiest and may perish quickly with rough use or in the role of a lunchbox.
+For the price, though, this is a nice traditional puzzle with thoughtful design and good quality.
+I have two boys 10 and 5, both are Thomas fans.
+Although this is very basic for my 10-yr old, he appreciates the classic, high quality and detailed finishing product.The pieces are big and sturdy enough for my 5-yr old to handle.The tin is a very nice touch.Overall a great classic high quality product.
+My son, like most 4 year olds, is a major Thomas the train fan.
+This puzzle was easy for him to manage and the tin container was a big hit for not only for storing the puzzle pieces but also some of his smaller trains.
+It was a perfect case for traveling purposes to family and friend's houses.
+The puzzle reveals Thomas, Edward and Percy in a medium light snowfall with snow on the tracks and birds and clouds in the sky.
+Recommended for young three to four year olds.
+The Thomas & Friends Snowy Day puzzle comes in a adorable round collector's style tin which has a convenient handle so you can take this puzzle where you need to go.
+The Thomas puzzle is 35 pieces and recommended for ages 4-6 mostly i think due to the size of the pieces which is normal/standard.
+Overall it's a lot of fun to put together, the children love the cute little tin with Thomas on the front and it makes a great gift.
+"This puzzle is perfect for the young Thomas admirer.
+The pieces are large enough for young hands (ages 2 1/2 up) to easily manipulate and they are sturdy.
+The metal tin is a durable carrying case that can withstand toddler rough housing and can double as a carrying case for other items, if desired.
+My almost 3 year old loves this puzzle and can put together much of it himself.This particular puzzle is a huge step up from the past Thomas puzzles from this same company that were smaller in size and less durable and came with a fragile carrying case.
+This puzzle is well worth the price (and, is a great value for the price).
+It's a perffect birthday present for the toddler train enthusiast.We ordered both this puzzle, ""Snowy Day,"" and ""Carnival at Night.""
+They share the same features in terms of quality and durability, but I have a slight preference for the ""Carnival at Night"" - the colors seems brighter and the scene is just generally happier - though, this is purely an individual preference."
+This is a neat little puzzle.
+Few enough pieces that kids don't give up on it, but enough to make it take a little time to put together.
+The pieces were of decent quality that they should last awhile.
+But mainly, my kid loved the case it is in.
+She takes out the puzzle pieces and carries around all kinds of stuff in that case.
+At the moment, it is home to a stuffed puppy toy.I would say this toy is worth the price.
+You get a puzzle and a case that is also plenty of fun.
+"This is a nice puzzle for the many that are fans of Thomas the Tank Engine and his friends.
+The carrying tin the puzzle comes in is wonderful - evoking memories of the ways toys used to be packaged.
+The tin is smaller than one might think - about 7"" round and 3"" wide with a nice carrying handle.
+The puzzle description states for ages 4 to 6 but my 8 year old grandson, who still plays with his Thomas set occasionally (as opposed to 8 hours straight when he was younger), enjoyed putting the puzzle together.
+The finished size is about 17 ""x 12"".The pieces are not too big, about 2"" to 2 "" and not extremely thick, but they seems to be well made.
+There are 35 total, which adds a bit of a challenge to the younger age group, but still not too much frustration.
+Also with 2 blue engines in the puzzle it requires some thinking, instead of the puzzles that can be put together in a minute.It's a quality toy and educational too."

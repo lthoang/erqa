@@ -1,0 +1,184 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+Of course, there's the distinct possibility she'll put them in her mouth as well.Barbie apparently enjoys her fairy princess playset - or so my niece tells me she does.I got a big hug and the nice thing was she was occupied for quite some time with this toy.
+My daughter was disappointed that there were no actual Barbies IN the playset but as moms we know that when we see the set.
+This play house is for full size Barbies.
+"The Barbie Mairposa Playset comes in the usual Barbie doll bubble gum pink every little girl expects.
+We Barbie Mariposa to go with this and she loves being our princess.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.004592066630721092,0.007912546396255493,0.004495150875300169,0.005951755680143833,0.005455025937408209,0.00533211650326848,0.005421844311058521,0.004940170329064131,0.006827742327004671,0.008074072189629078,0.0025522951036691666,0.005138412583619356,0.006094587501138449,0.006780182011425495,0.006440361961722374,0.005977020598948002,0.007716340944170952,0.0069045089185237885,0.005326392594724894,0.006999919191002846,0.005740600172430277,0.006661723367869854,0.003647644305601716,0.0038881017826497555,0.0025244823191314936,0.005978825502097607,0.005450297612696886,0.005692233797162771,0.003748454852029681,0.006720826029777527,0.005690337158739567,0.006794604007154703,0.004795091692358255,0.007994969375431538,0.00667822128161788,0.00624011131003499,0.006219187285751104,0.005871922243386507,0.007297435775399208,0.005676259286701679,0.006188450381159782,0.007428267505019903,0.00521833635866642,0.007153549697250128,0.011220394633710384,0.00580687215551734,0.007729714270681143,0.0060908179730176926,0.005625187419354916,0.009707878343760967,0.005728133022785187,0.004963162820786238,0.005781963001936674,0.006242355331778526,0.00776290288195014,0.005059219431132078,0.005667536985129118,0.0072965798899531364,0.006063282489776611,0.005625187419354916,0.005155635066330433,0.004600392188876867,0.004174669738858938,0.004776247777044773,0.0067429994232952595,0.004030728247016668,0.004396200645714998,0.005813685245811939,0.004794602282345295,0.005805973429232836,0.005912617314606905,0.0043520256876945496,0.0066885086707770824,0.004647477064281702,0.005144803319126368,0.005627811420708895,0.005714097060263157,0.0052489908412098885,0.007134527433663607,0.005646694917231798,0.005544251762330532,0.005980740766972303,0.005574338138103485,0.004137588664889336,0.007867293432354927,0.007237048353999853,0.005647525656968355,0.00695025036111474,0.006388786714524031,0.005259561352431774,0.005777695681899786,0.006296692881733179,0.008593298494815826,0.0054535577073693275,0.006139892153441906,0.0037929974496364594,0.005662997253239155,0.00408546207472682,0.0044767893850803375,0.009106611832976341,0.00604079756885767,0.0056189196184277534,0.0067400140687823296,0.006726368796080351,0.0076331645250320435,0.004463697783648968,0.005773280747234821,0.004739541094750166,0.006442680023610592,0.0039906068705022335,0.005514322780072689,0.006718578282743692,0.006341789849102497,0.004650747869163752,0.005748823285102844,0.0056528509594500065,0.0038122814148664474,0.004795416723936796,0.004861962981522083,0.0061803231947124004,0.007719793356955051,0.006120545789599419,0.005907750688493252,0.00635905284434557,0.00591646321117878,0.0031224603299051523,0.006584811955690384,0.008744559250772,0.006387690082192421,0.00596483051776886,0.006801920477300882,0.006974637974053621,0.006284038536250591,0.008056704886257648,0.006333396770060062,0.005728177726268768,0.005329831503331661,0.005209918599575758,0.006106178741902113,0.00546610401943326,0.004909008741378784,0.0053573776967823505,0.004031639080494642,0.007109846919775009,0.006166347302496433,0.006303806789219379,0.006221739109605551,0.004944051615893841,0.006310796365141869,0.008585820905864239,0.003890224499627948,0.005812759045511484,0.00909807626157999,0.0050534941256046295,0.006796122062951326,0.005255986470729113,0.005424005910754204,0.006810016930103302,0.006991968955844641,0.0059404089115560055,0.007902364246547222,0.006559461355209351,0.006467292085289955,0.005408517085015774,0.006112636532634497,0.006479007191956043,0.0052077616564929485,0.0062987287528812885
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+This toy is recommended for ages 3 and up and you definitely want to follow those rules and go higher if your child still likes to put stuff in their mouth.
+The little toys in this set (like the teapot) would be really easy for a child to put in their mouth and choke on.Beyond that, this set is super cute and self-contained which makes it perfect for travel to Grandma's house or beyond, particularly if your child is careful with toys.It would be easy for a kid who didn't notice immediately how to open the case with the butterfly on the front to try and force it slightly and actually break this plastic part.
+You want to be sure and teach smaller children how to open and then help them open a few times until they can do it with ease.
+After that this should hold up for playtime quite nicely unless you have some real wild ones!
+If you give this to a 5 year old, please, please, wear headphones.
+Hearing loss from high-pitch noises is no laughing matter.Needless to say my daughter was tickled to get this and her barbies all think it is a wonderful addition to the Barbie universe.Like most things Barbie the construction is pretty low.
+I think the manufacturer realizes there is a short life expected of these toys.
+While it lasts my girls had fun.
+Soon enough this playset will be swallowed into the pink ether that is the playroom.
+The test subject was my almost-4-year-old granddaughter.
+In short, she absolutely LOVES this playset, and plays with it constantly when she's at my house.
+Fortunately, I also ordered the Mariposa Barbie at the same time through the Vine Program, and both arrived the same day, so she got them as a set.
+They were a HUGE hit.
+Her eyes lit up like the neon signs in Vegas.But I do have a couple of concerns I'll share here.First, I wonder about the durability of this product.
+It's primarily cardboard with plastic elements for reinforcement.
+My munchkin's a little kid.
+Anyone else see the problem in that equation?Then there's the issue of price.
+As of today, it's listed here on Amazon at over a hundred bucks.?!?!?!?!?
+!I'm pretty sure that if I saw this in a store or online and she asked me to get it for her, I'd be thinking it's overpriced, and wouldn't get it.
+Or maybe I would, but as a special occasion gift.
+Birthday, Christmas, like that.
+Maybe.So... 3.5 stars, rounded up.
+"This folding Barbie play set goes along with the new ""Barbie Mariposa and The Fairy Princess"" movie.The set is a fold-out house, like the Barbie Vacation House.
+It folds up compactly, and even has a handle, making it perfect for take-along fun.
+It is great for play dates with friends.The set includes a blue dresser (with only one moving drawer), a butterfly-shaped tea table with accessories that will stay in place, a dressing table with pop-up mirror, a bed, a butterfly fabric blanket, a one-color plastic Zee figure (not Bibble, who appeared in the first two Mariposa movies), a dangling chandelier, a staircase, a crown, and a necklace.
+Functionally, it is a dressing room with a tea table, and a loft bed upstairs.This set does not require batteries or complicated assembly.
+It went from box to play in five minutes.
+The instructions were pictures only, and also include instructions on how to fold the set back up for travel.
+The instructions are black and white, no color.One issue that I had was with the clip that holds the chandelier on to the window over the bed.
+This little clip had slipped into the body of the Zee figure during shipping, and I had to use tweezers to get it back out.The last issue I had with the house was with the scale of the bed.
+The bed is too short for the doll by about half an inch.While this is a fun take-along toy, I don't consider this one of the best Barbie houses.
+If this is your child's first Barbie house, they will love it.
+If they have other houses, like the Dream House, then skip this one."
+This play set is used by my niece for hours on end.
+She loves the colors and design of the playset.
+Great in combo with the Barbie Mariposa doll.
+I would recommend.
+My niece is all girl and she just went ape over this playset.
+To accompany it, I purchased a Barbie Mariposa and the associated DVD and gave them to her as a collective birthday gift.
+Wow!
+She was thrilled.
+After initially setting up the playset for her, she took control and told me and her parents how things were supposed to be done.
+She's three years old and so she's right at the entry age for the toy.
+That said, I think that some of the parts are probably a bit small and will either get lost quickly or will end up getting eaten by the dog.
+Of course, there's the distinct possibility she'll put them in her mouth as well.Barbie apparently enjoys her fairy princess playset - or so my niece tells me she does.I got a big hug and the nice thing was she was occupied for quite some time with this toy.
+"Barbie gets bonus points for creativity.
+This whole thing folds up into a cute portable playset.
+And it's full of tiny little details that are fun for kids (and moms who like doll toys).The items inside are fun and creative.
+Some are better made than others.
+My daughter was disappointed that there were no actual Barbies IN the playset but as moms we know that when we see the set.
+The stickers on the walls are typical quality.
+They won't hold up to the bathtub but will last a long time with gentle use.
+I was a little let down with only two teacups and plates.
+She hasn't complained, but there are 4 places for plates.
+You can put it so one doll gets a cup and the next a plate so you can give one to each, but that's not so cool..wasting all that time figuring out which dolls are thirstier than hungry and vice versa.
+My favorite part is probably how the cup clips on to the plate, or on to the table.
+And the plate clips on to the table.
+How often does that happen?
+Very handy if the dolls are eating while they are being transported.As far as sturdiness, I am let down by the top floor.
+It's kind of flimsy.
+My daughter doesn't mind.
+Barbies are invading the princess collection.
+They have a bunch of things for mariposa set.
+The core is this castle, then they have individual mariposa barbie dolls and other things chariots etc.
+Mariposa barbie converts between a mariposa princess and barbie with a press of a button.
+The actual mariposa doll is not included in this set.
+This comes with a castle and furniture needed for the doll house.
+This is a great play set that can be folded and stored without taking too much space.
+When opened it covers more than 3 feet and has good amount of compartments for any kids who love doll houses.
+Not very heavy nor too flimsy.
+It is made of nice and bright plastic and ideal for kids above 5.
+Very durable toy and was used in party with multiple kids playing at the same time without any visible wear.
+"This Barbie Mariposa and the Fairy Princess Playset is based on the animated movie by the same name.
+This royal castle is a two story living space collapsible into an easily transportable butterfly case.
+The castle is basically cardboard with a plastic frame.
+I got this to go with the Barbie Fairytale Royal Doll Giftset, but the royal castle is much smaller than the dolls so they aren't really compatible except for the theme.This is one of those things that will quickly become ""part of the Barbie ecosystem"" in your house if your kid(s) play with Barbies.
+It doesn't stand out as a favorite in my house but its portability makes it fun for carrying to and fro.
+My biggest issue with this Playset is the scale.
+A larger Playset would have accommodated the Fairytale dolls.
+If your child is really into Barbie Mariposa and the Fairy Princess then this is probably going to be a lot of fun.
+If your child simply likes Barbies then you might want to consider some other Barbie accessories."
+"What's a doll house without a doll?
+This is it.
+Once you get that past that and go buy the ""needed"" Barbie Mariposa dolls - you'll have one happy little child.
+My 3 y/o is a little young for this but she loves dolls, doll houses, and Barbie, but even more Butterflies - which oddly when you fold this playset up...guess what is on it...a butterfly.
+So this was a grand slam for my little girl.
+I don't think I could pick a more perfect gift for my child.
+Anyway, the actual review: it's Barbie (check), it's made from plastic (check) - not the most durable but what it is these days.
+Bad are the small parts, I mean tiny little cups etc.
+- bad for the obvious reasons but at least with my kids - these little parts last a day before they are tossed, lost, and hopefully vacuumed up or found 7 months later or they are lost forever.
+Taking all that into account, it has had high re-use value meaning she keeps playing with this playset and using that little imagination of hers."
+"What do I love about the Mariposa Fairy Princess Playset?
+1) It's Barbie; Barbie is like a member of the family, and with the amount of money we spend on her, we should be able to claim her as a dependent; and 2) it all folds up into a pretty butterfly case in which the teeny tiny parts (and hopefully Barbie's dozens and dozens of teeny tiny shoes) can be stored and carried.
+Since the rooms in the house don't offer any head room, I suspect that the girls in our family would have more fun with the miniature version that comes with tiny dolls.
+That being said, if a little girl totally buys into the princess-pink-purple fantasy, then she would enjoy this toy.
+It is, however, a bit of a love song to consumerism and vanity, and it's not exactly built to last.The changing scenes is a cute feature, but I would expect a few more accessories for the price.
+By ""a few"" I mean ""a lot.""
+I'm probably a curmudgeon, but I think that play sets that are made with about as much plastic as three or four toys from a dollar store should have a little more going for them than a fancy box and a--oh boy!--moveable chandelier."
+Barbie Mariposa and The Fairy Princess Playset.
+This play house is for full size Barbies.
+It was easy to remove from the box and the directions were easy to follow.
+It is not difficult to open or close up when they are done playing.
+My 7 year old grand daughter just loves it especially after watching the new DVD Mariposa & the Fairy Princess.
+This play house does have very small parts and is not sturdy enough for our 3 year old grand daughter to play with, even though the box says 3+ can play with it.
+I like the little storage drawer inside that holds all of the small parts when it is closed up.
+I especially love that it folds up into its own case for storage and it makes it easy to carry to other places.
+The older girls will love it.
+"The Barbie Mariposa and The Fairy Princess Playset by Mattel is just way too cute for words.
+The best part is it all folds together - accessories and all, which fold into a carrying case.
+Convenient for taking the play set/house back and forth between family and home.
+It's also convenient that with usual Barbie play houses they take up a lot of space and this you get the best of both worlds!
+You get the fancy two story house AND when our girls are finished playing it folds together into a case that takes up hardly any space at all!I love how bright the colors are and how it has just about everything needed to give the feel of a much larger Barbie house.
+The added touches and all the extra accessories are both sweet and charming.
+I would warn anyone with small children and animals that there are plenty of small pieces that comes with this toy so please keep that in mind before purchasing.The outside of the case, when folded up is just as fancy as the inside and shows the usual Barbie flair through and through!
+However, being that it's Barbie it's made out of plastic and coated/glossy cardboard so I'm sure over time it might take a bit of a beating from our younger niece who's 3 years old and it makes me wonder just how well this set will hold up.
+Really that's the only concern that I see at this point.One other suggestion is that this doesn't come with a doll, which is sad but I get it, they want to get in those ""add on"" purchases.
+For those who are looking to purchase this in the future should keep it in mind that you will need to buy a doll to accompany this set or already have a Barbie they can use to play with this.All in all, the girls love it.
+They've played with it for hours and I can already tell that this has become a new favorite toy."
+This Barbie Mariposa & the Fairy Princess playset is Barbie true and true.
+Pink and purple, it offers a portable play center with some neat details, but bring your own doll.Our elementary age girls enjoy Barbie, especially the movies, and made good use of this play center which is more like a picture-full backdrop with some accessories.About 10 minutes to put together, it features a swing out staircase, pop-up mirror, the usual small pieces, e.g., tea set, which drive us parents crazy trying to keep track of, a drawer to store them, a simple, movable chandelier, chairs, butterfly table, bed/lounge, and a flip-up scene change.The best part, I think, is that one can pack it up in it's butterfly/mariposa case, latch and handle and tote it around.
+Good size but lighweight- it's cheap, it's plastic but kid approved.
+My daughter is five.
+When she saw this her face lit.
+She loves Barbie.She could not wait to put it together.
+Putting it together was very easy.
+Pops open and then thats it.I also think that some of the items like the lighting tea set some of the furniture was cheaply made.
+But overall she liked it.
+We Barbie Mariposa to go with this and she loves being our princess.
+The best part it all folds down goes under the bed take up no room.
+I do not have to worry about vacuuming all those small pieces
+It folds up for portability but the small pieces remind me of polly pockets and I think will be easily lost, I would recommend this, but also make sure she has a doll for it too.
+Let's face it, anytime you combine lots of pink, fairy princesses, glitz and a fancy chandelier, you're going to impress the little girls!
+My daughter is no exception.
+She loves Mariposa and loves this playset!
+On a rainy day, you just have to pull out the playset, pop in the DVD, and the fun begins!
+She could not be happier!
+"Note: this review is from grandparents, acquiring gifts for 3 and 5-yr-old grandkids, often to be shipped over distance.
+I rate toys for ""gift impact,"" measured by the youngsters' excitement and (reported) response.
+I intend to help other grandparents and anyone buying gifts for a child not their own, who often order on Amazon and have delivered without seeing it.
+Hard to know sometimes what you're buying!
+If you're a parent looking for what another parent thought, you'll find plenty of these reviews elsewhere.First, the price: at $45, this is a significant layout.
+But the playset is big!
+Fully 2.5 ft wide and a foot tall.
+It will make a big splash with that little girl.
+(We buy for a 5-yr-old who loves all-things-princess!
+).First point: no point in giving this gift if you or someone else is not going to acquire and give the dolls that go with it!
+(They are NOT included).
+Your little loved will need at the very least,Barbie Mariposa and The Fairy Princess Dollat $25 (who is, herself, about a foot high, with huge and gorgeous wings) - or a less expensive optionBarbie Mariposa and The Fairy Princess Mariposa Dollat $13.The playset folds into its built-in carrying case for playtime with friends, and for easy storage.There's a DVD as well - an animated movie starting Mariposa Barbie at $15 - $20, depending on which version you wantBarbie Mariposa & the Fairy Princess.
+In this, Mariposa Barbie flies to a far-off land, where she must make peace between two fairy factions.
+THE DVD DOES NOT come with this playset.In the animated movie, Barbie makes friends with the Fairy Princess CataniaBarbie Mariposa and The Fairy Princess Catania Doll- another 25-bucks.
+The write-up on Catania is a little confusing, since she is called ""Barbie Mariposa and the Fairy Princess Catania,"" and it's not clear that this is not another Barbie doll herself.
+Nope.
+"The Barbie Mairposa Playset comes in the usual Barbie doll bubble gum pink every little girl expects.
+It's the typical plastic house with picture wallpaper.
+My seven-year-old niece fell in love with it upon opening the box.
+Parents should know, this does not come with a doll.
+But this is to be expected.What I like:-the size when it's open is fairly generous-light weight-how it closes into a nice carrying case-the furniture and accessories are sweet and very girly-the little cabinet is a nice bonus with its pull out drawer-the vanity sticking out of the wall is a nice touch (the dining chair works double duty as the vanity chair)-love, love, love the chandelier, so adorableWhat I don't like:-The stairs.
+Seriously, to call a bunch of thin plastic pegs sticking from a pole stairs is like calling a square piece of foam a sail boat.
+It's a rudimentary joke, but it didn't seem to bother my niece.
+Although, she only actually had the doll climb the stairs once.
+After that, I think it seemed pointless I suppose a real spiral staircase wouldn't fit once the whole thing was closed, but I would have been more impressed if they had left the stairs off and added a few more accessories.-The ""glittery"" butterfly front doesn't have any real sparkles.
+It's just a picture of sparkly things.
+It's not a deal breaker, but it seems sort of cheesy.
+Maybe they could have added just a couple of real plastic jewels, even if they were flat.-There's a lot of cardboard and thin plastic involved.
+Durability remains questionable.-The standard size Barbie is kind of big for this set.
+Getting Barbie to sit on the chairs can be a challenge.
+This may be more of a concern for the adult than the child.Overall this will delight any Barbie Doll lover with it's pink and purple motif and adorable accessories.
+I would not recommend giving this to a child under four due to chocking hazards.

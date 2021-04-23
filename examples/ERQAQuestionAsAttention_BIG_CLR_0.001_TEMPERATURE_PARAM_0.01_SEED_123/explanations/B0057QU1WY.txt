@@ -1,0 +1,223 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+This was a huge hit with the 4 year old crowd.
+The books stand up better, the stories are more interesting, and there's more for a child to learn from them.
+My daughter doesn't put it down.
+Loving what you reading is step two to a life of learning.
+These are early reader sets, and my 5 yo did not find them very interesting.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.005118909757584333,0.003298182738944888,0.0035899647045880556,0.003613213077187538,0.006030614022165537,0.003761983010917902,0.006231917534023523,0.006625666283071041,0.00301895709708333,0.006889339070767164,0.0035953130573034286,0.0067762709222733974,0.0040627093985676765,0.006869045551866293,0.0025496212765574455,0.0033158014994114637,0.008443111553788185,0.007020893041044474,0.002640950959175825,0.003351733088493347,0.00634495634585619,0.002428846200928092,0.005491618067026138,0.0038087053690105677,0.0030284917447715998,0.004926303401589394,0.006317506544291973,0.00393928587436676,0.0022870523389428854,0.003109710058197379,0.004863242153078318,0.006240942515432835,0.0053348541259765625,0.0037422364111989737,0.005542182829231024,0.00672432454302907,0.005872228182852268,0.004862728528678417,0.005128960590809584,0.003996348939836025,0.002060773316770792,0.0019029990071430802,0.006330978590995073,0.006690623704344034,0.004472894594073296,0.0046140956692397594,0.006604437250643969,0.004508555866777897,0.006006871350109577,0.0022757169790565968,0.0047530727460980415,0.002504721749573946,0.005132555961608887,0.003825110150501132,0.006510159932076931,0.005472866352647543,0.002619191538542509,0.00442309956997633,0.0036030039191246033,0.003727683098986745,0.006806797347962856,0.004978871904313564,0.0036683606449514627,0.005521988496184349,0.004719202406704426,0.006237370427697897,0.0068528843112289906,0.00530195003375411,0.0026552865747362375,0.00533234653994441,0.004647079389542341,0.005822069942951202,0.0033615147694945335,0.006424427963793278,0.0020481853280216455,0.004239333793520927,0.005890518426895142,0.004032138269394636,0.0035585779696702957,0.002784787444397807,0.0019493515137583017,0.0033946086186915636,0.00353925465606153,0.0029313107952475548,0.0030484048184007406,0.006456593982875347,0.001992801669985056,0.005245144013315439,0.005873384885489941,0.005013332702219486,0.004780793096870184,0.005940831266343594,0.006554852239787579,0.0026047660503536463,0.006378661375492811,0.00467051612213254,0.007507789880037308,0.0025763721205294132,0.004674659576267004,0.0061476752161979675,0.006393867544829845,0.004488241393119097,0.004325272049754858,0.006323306821286678,0.00251280446536839,0.006895695813000202,0.00604411493986845,0.004898857790976763,0.006075619254261255,0.002010948956012726,0.0039040048141032457,0.005351702217012644,0.006470724940299988,0.005887332372367382,0.006513290107250214,0.005223278887569904,0.008139463141560555,0.006682133302092552,0.006342825945466757,0.006733723916113377,0.003336250316351652,0.0017875266494229436,0.003546925261616707,0.0020007712300866842,0.007007833570241928,0.0049809119664132595,0.005772246513515711,0.006837932392954826,0.005672833416610956,0.006736509036272764,0.004575956612825394,0.005289757624268532,0.0028539521154016256,0.005301926750689745,0.006549936253577471,0.006140646059066057,0.006183847784996033,0.005913740489631891,0.0057937209494411945,0.007042070850729942,0.0035717675928026438,0.00633715046569705,0.005666141863912344,0.004476224072277546,0.003236355260014534,0.003067751880735159,0.002879705745726824,0.003924285527318716,0.006609463598579168,0.006609324831515551,0.006138267926871777,0.0031872077379375696,0.007935091853141785,0.006017537321895361,0.006598857697099447,0.006435642950236797,0.0065376656129956245,0.006609463598579168,0.004168014973402023,0.005261141806840897,0.005938705522567034,0.005966536700725555,0.0061994316056370735,0.004304233007133007,0.006337353028357029,0.003053481923416257,0.0023314114660024643,0.0039702788926661015,0.005482970271259546,0.005044685676693916,0.0068284147419035435,0.0028652355540543795,0.002567205810919404,0.0033199372701346874,0.0036366491112858057,0.0035782731138169765,0.004996542353183031,0.001861208351328969,0.0050931526347994804,0.0021113671828061342,0.005203580018132925,0.0020177087280899286,0.003456571139395237,0.004911462776362896,0.005150009412318468,0.006965827662497759,0.0046146768145263195,0.006312591955065727,0.00334279821254313,0.005897137336432934,0.002531638601794839,0.0032036351040005684,0.004861009772866964,0.0037051578983664513,0.0030251704156398773,0.00321160233579576,0.003541459096595645,0.0051553272642195225,0.006796657107770443,0.004623269196599722,0.006812527310103178,0.006792629603296518,0.002481454750522971,0.0068062674254179,0.007828583009541035,0.004622714128345251,0.005832944996654987
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+This is totaly awesome product and a great value for the price.This bundle rocks because you get so much to start w/ right from the very beginning.What you get in this bundle:* The Tag Reader.
+* A sampler activity book  already loaded into the tag reader )* A Stand for the tag reader.
+* USB Cable to connect your reader to the computer.
+* User guide  Short Simple and straight to the point )* Storage Case that not only holds your Tag Reader but also 6 books.
+* Six Story Learn to read books.
+*Book Set One Includes:*Casey Cat Has a Hat.
+(Short A)*The Best Job.
+Short E)*The Fix-it Kid.
+(Short I)*Leap Hops, Pops & Mops.
+(Short O)*Leap Scrubs UP.
+(Short U)*On the Bus.
+(Review)*Book Set Two Includes:*Dan's Game.
+(Long A, Silent E)*The Bike Race.
+(Long I, Silent E)*Rose and Hope.
+(Long O, Silent E)*At the Lake in June.
+(Long U, Silent E)*I Spy in the Sky.
+This was a huge hit with the 4 year old crowd.
+She loves to read and this is a great step in her reading process.
+I love that this was a huge package which included  13 books, a carrying case, and one Tag reader that can hold audio for up to 10 books at once.
+"I've had Leapfrog toys of various types (Leapster, cash register etc) and this is a wonderful addition to our collection.
+What you'll get is a total of 12 books not counting the trial book included.
+All you need to do is to go to Leapfrog website and download the ""Leapfrog Connect"" which allows you to download the books purchased for you Tag Learning system.
+It's as simple a clicking on the book covers and ""installing"" on your Tag.
+I had no problems installing all the books included in this package (even though it says you can only install 10 books).We also own the Bugsby by Vtech which is comparable to the Tag system.
+The major difference is that you have to download each book onto the Tag pen whereas the Bugsby comes with a small cartridge that is inserted in the Bugsby.
+Of course, small cartridges can be lost easily by young children.
+The Bugsby books are hard cover whereas the Tag are not...which is another thing to consider.
+The tag can hold a limited amount of books and the Vtech uses cartridges so that is not a problem.
+The price point between both is quite a bit with the Tag system costing a bit more.All in all my daughter loves both the Tag and Vtech systems.
+I love the fact that the Tag is leaned more toward teaching about long and short vowels and the Vtech is basically just a reader (with games like Tag).
+Of course, nothing beats reading to your child yourself!!!
+But sometimes children need a break from watching tv or a computer screen and this is a nice alternative."
+"Our Grandson turns 3 this month, but we've been using this set with him for several months.
+He has aVtech Bugsby Reading System Penwhich he has enjoyed, but the Leapfrog is his preferred set now.
+I love how this set includes everything you need to begin and to keep the child interested for quite some time.
+Additionally the carry case is extremely handy in keeping track of everything and taking it along in the car or trips.
+Because our Grandson was used to the other pen reading set, this one was easy for him to use.
+There hasn't been a book that he hasn't enjoyed, but he does seem to favor The Bike Race (He has a thing for frogs).
+Because we do keep this set at our home, he only uses it during our visits which I think is good so it's ""new and interesting"" each time.
+Overall this set isn't a replacement for sitting and reading with your child, but it is perfect for a supplement to it."
+We are a big fan of the LeapFrog reading tools and this set is a wonderful addition to our LeapFrog library.It comes with:User GuidePlastic storage caseSet of six books that concentrate on short vowels*Casey Cat has a Hat: Short A*The Best Job: Short E*The Fix-It-Kid: Short I*Leap Hops, Pops, and Maps: Short 0*Leap Scrubs Up: Short U*On the Go: ReviewSet of six books that concentrate on long vowqels and silent E and Y*Dan's Game: Long A, Silent E*The Bike Race: Long I, Silent E*Rose and Hope: Long O, Silent E*At the Lake in June: Long U, Silent E*I Spy in the Sky: Y as a Vowel*Lil Can't Miss: ReviewThe TAG ReaderLet's Play Tag!
+Sampler activity book (audio is preloaded on the reader)Tag Reader StandUSB CableIf you are not familiar with the LeapFrog system, you will need to download the LeapFrog program and the stories and then upload the stories to the pen.LeapFrog books are expensive which can be a drawback to the system, but if your child wants to learn to read this is a wonderful way to start.
+This system allows a child to work independently.
+Games are included too so that your child has not only a way to learn to read interactively, but can have fun doing it too.
+"I got this product for my 3 year old, who began reading at age 2.
+I was a little wary, before receiving the product, about user friendliness with such a young child, but my reservations were all for nought.
+What a great product!!
+Not only is the set up straight forward, but my son absolutely loves his TAG reader.
+He'd sit with it for hours if I let him!
+Furthermore, this ""kit"" comes with everything you need to get started, including twelve books, the reading ""wand"" with stand (plus USB)and the storage case.
+Believe me, it is well worth the price.
+As a lover of hardcopy and as one who admittedly holds technology at arms length, I am very impressed at the teaching capabilities of this product.
+Not only am I very glad to have this for my son, but I am also excited to introduce it to my one year old later (once he grows out of ""destructo"" mode).Simply put, if you have a child who loves to read, consider buying this product.
+It will reinforce what your child already knows and open doors to new ways of learning to read and retain knowledge.
+Love it!"
+This is a wonderful set of LeapFrog Tag products for the young child just beginning to read.
+The set includes the Tag pen and its accessories (USB cord, etc.
+), two sets of six books each, and a carrying case.
+Each set of books is targeted towards a certain set of reading skills - one teaches short vowels and the other teaches long vowels.
+The stories are cute and all include the LeapFrog characters.
+I am excited to get other books to go along with this and supplement, but I love this set.
+A great, fun educational toy for young kids!
+My son is probably still a bit young for the word recognition part of this toy, but hey, one can never begin instilling a love of reading & learning too early.
+He likes how the tag works with the books, and can play a long time with each book.
+(With the exception of the introduction book, the books provided to Vine members are not Disney characters.
+)My problem with this tag system is the marketing-driven system behind it.
+Leapfrog is teaming with Disney on many books for this system, which might not be so bad if some classic stuff were included, but its all the new stuff (Spongebob, Tinkerbell (new movie), Beauty & the Beast, Cars, new Scooby-Doo, Nemo, etc.
+)that is not acceptable in my home.
+So, small fry is going to have to make do with a limited selection, unless Leapfrog expands the tag library.I like the concept, but the choice of 'literature' is way too commercial & limited.
+Kid gives it 5 starts though.
+"Having previously used the LeapPad Learning System I was curious to see how this would compare.
+It is very similar and even includes a lot of the same books.
+The child points to pictures and words in the book with a computerized ""pen/stylus"" and then the ""pen"" reads or describes things in the book to the child.It was a little inconvenient to have to hook the ""pen"" up to the computer to download the books to the memory card, but it wasn't too complicated, and once it was done, it was done.
+The main drawback is the amount of memory the ""pen"" can hold.
+It easily held the books that came in this set with room to spare, but we had quite an extensive collection of titles with the previous set, so I wouldn't want to have to constantly be bothered with moving files off and on the pen, if we had more books than the pen could hold.I really liked the carrying case that the books and pen fit in.
+It is far less bulky than the original system, and you don't have the cartridges to have to keep up with."
+What a perfect gift for a grandma for her 4 year old grandson.
+I'll admit that I had as much fun playing with the Leapfrog Tag Reader as he did, which is why this will stay at Ganma's house.
+While he sees it as a toy, I see it as a truly phenomenal learning device.
+Because he sees it as something to play with, he is learning without even knowing it - which is very cool.Each of the books focuses on a new reading skill, paying attention to specific vowels and consonants and the sounds of each inside the words.
+I wasn't sure whether my grandson would find it interactive enough to keep him occupied for any length of time, but once I saw his eyes light up each time he touched a word or letter, I knew my fears were ungrounded.It does take a while to get the Tag reader set up.
+At least for those of us who rely on satellite or old-fashioned dial-up for our Internet connections.
+The setup program is close to 40 megabytes and once downloaded and installed, you still have to download the individual books, before they can be transferred to the device.
+For me on satellite, this procedure took a bit over an hour.Once setup, each book works flawlessly and my grandson had a blast trying out all the different options presented on the page.
+The carrying case hold both the books and the Tag reader, making it easy to keep the kit together.My one remaining concern is the durability of the device.
+The tip seems fragile and I wonder what a fall would do to it.
+Battery life is short and the Tag could benefit from a rechargeable battery that could be powered up using the USB port on a computer or with a USB electrical adapter (much like Apple has for the iPhone, iPod and iPad).I'm really looking forward to exploring each of the books with my grandson on his next visit.
+I hope the system continues to perform well as my younger grandson will soon be ready for it also.
+This is a great educational tool, and if its anything like Leapfrog items I have used in the past some of which are still going strong almost 10 years later it will hold up well.
+This innovative eductional tool is great for road trips has a neat little carrying case.
+This is a great starter kit for early readers.
+Everyone in my home enjoys reading and with the help of this little gem from Leapfrog my lil girl will as well.
+You should definetly try this.
+"The TAG system from Leapfrog is popular educational toy, and this bundle is a solid introduction.The pen itself is easy to use and intuitive.
+Both my children picked it up immediately.
+The case is fairly durable and holds the whole set of books.The books themselves are a little mundane.
+These are early reader sets, and my 5 yo did not find them very interesting.
+However, they love to play with the ""sampler"" book with selections from other tag products (including branded Disney, maps, etc.
+)The softcover books are not especially durable for repeated use, but I can't see any child using them so much they'd wear out.
+They just aren't that captivating.
+Nor are they at all necessary to learn to read.
+If your child resonates with them and learns from them, that's fantastic!
+But it is by no means the only way (or the best way) to help your child gain reading skills.I'd consider this set if using the system to aid in learning to read is a major goal.
+If you are most interested in fun, just buy the individual books your child is most interested in."
+I'll preface this review by saying my son received a Tag reader last Christmas and owns several of the hardcover books.
+He doesn't play with it all the time, since he likes other books too, but he has a lot of fun with it.
+The stories are interesting and he loves the games and activities too.
+It has proven quite durable, and our rechargeable batteries have gotten quite a workout (which are almost a must for this device).
+He's 5 now and not reading yet.
+I'd been contemplating getting him one of the reading sets when this Vine offer landed in my lap.This set includes:A green Tag reader with USB cable (not purple as in the image)Tag starter book6-book Learn to Read book set 1, short vowels6-book Learn to Read book set 2, long vowelsA carrying case, which can store all the booksHe's played with it on and off for ten days now, and I find myself quite disappointed in the set.
+The books are all soft cover and poor quality in my opinion to stand up to repeated Tag use.
+The stories themselves are fairly boring; my son lost interest in them very quickly and instead turned to playing the activities.
+There is no option to have the Tag read the whole book to you, it only works for two pages at a time.
+Really quite mediocre and not worth the money.This bundle seems like a great value, but really it's not.
+It's not a knock on the Tag system by any means.
+I'd instead recommend buying the Tag reader and books from their wide selection of hardcovers.
+The books stand up better, the stories are more interesting, and there's more for a child to learn from them.
+My son is 4 years old and beginning to read so I thought this set would be a good toy to help him with his reading.
+It has been a really big hit.
+He really loves using this.
+This comes with 13 books (one book is mostly games and 12 are educational (short and long vowel sounds), a tag reader, and a case.
+The tag reader itself is part memory stick (USB port) and part story teller.
+To use the system, you download a program to your computer and then down load the books.
+You connect the reader to a USB port and it uploads the books.
+The reader can then be used to either read the story in a book or to play games (at the back of the books).
+When reading a story, you can choose to either just read the entire page, read each word, or have it sound out each letter of a word.
+There are also phonics based games that can be played which my son really loves.
+I think these games may be the best teaching tool in the book!I am really pleased with this set.
+I can tell it has already helped my son with recognizing and sounding out words (he has made a huge amount of progress with short a and short e sounds).
+If you have a beginning reader, this would definitely be a good present!
+This is not my first experience with the Tag Reader.
+My special needs son has had it for years.
+I had the opportunity to try this set out, and for us it is brand new our Tag library.
+Tag is the best-selling reading system.
+It is fun, engaging for kids whether they are with an adult or by themselves.
+They are also special needs friendly.
+My son can't read, BUT this allows him to follow along the stories and try to learn the words, maps, games and more.
+He can listen tot he stories.
+It states ages 4-9, but for special needs - my son is 12 and loves them.
+So I would not put an age cap on it.
+My son likes to interact and explore each book.
+This set came with 13 books.
+Keep in mind the reader can store audio for just 10 books, so you have to pick and choose.
+But that has never been an issue for us.Included books are the starter book.
+6-book Learn to Read book set 1, short vowels and 6-book Learn to Read book set 2, long vowelsThe books are not hard cover but durable, we have not had issues with them and my son is anything but gentle at times.
+In face we have had no issues with any of the books we purchased, maps, puzzles, etc and we have owned most since the product first came out- so its very durable.
+I have to say that of all the products I have reviewed for childrens items, the TAG is one of the best, most educational, most overall value of all.
+Dolls are great, video games have their place, but this TAG helps children to master reading, and what more important task shall our children undertake in school?
+None!
+Having a strong foundation in reading is one of the most important things they will carry with them throughout life.
+If you can't read a test...if you can't read directions, you can't pass the test!
+It's all tied together, and this TAG gets kids to WANT to read.
+My daughter doesn't put it down.
+If they use it, they will learn.
+Kids WANT to use the TAG.
+I've seen it in classrooms as well.
+Kids love it.
+It helps.
+It's well worth the money.The TAG is a sound investment in your childs future.
+"We gave this product to our four year old who has been reading.
+She just began spelling and writing her name as well as other words.
+I was unsure of how she would receive this product as she loves regular books and has rarely shown true interest in what I call ""mechanical readers.""
+My concerns were quickly remedied.
+She loves this product beyond expectations.The Tag Learn and Love to Read Set comes with everything you need (except 2 AAA batteries and audio for the books that is, see below).
+The number of books (12) will keep your child occupied for some time.
+Not just because they can follow along with the words, but because every picture has sound effects.
+So, beyond reading, you can hear the sound effects that accompany the story by touching the pictures(such as a dog barking or a girl laughing).
+In this regard, I find the product goes beyond expectations.
+Also, the books feel very durable in that they should be able to take the typical abuse and beyond during use and play.
+They are not spiral bound.
+This means they will not lay flat unless you really press on the binding, so keep that in mind for smaller children or one handed use.The Tag Reader itself is a decent device.
+BEWARE- the tag reader only comes loaded with the audio for the sample book and WITHOUT batteries (2 AAA).
+Before using any of the other books, you will need to install 2 AAA batteries and attach the device to your computer (via supplied mini-USB cable) and download the audio (via the Connect website).
+If you are not prepared for this, you may face disappointment since the other books cannot be used without the applicable audio file and the Reader will not work without batteries.
+The physical construction (durability) of the Tag Reader device concerns me a little.
+"The Tag reader is my second attempt at Leapster (after a lackluster experience with theLeapster Explorer), and a much better one.The Tag Learn and Love to Read set has been attached to my 5yo's hard for days.
+She is enamored with the stories, which are optimally broken into both sound and sight words.
+The sensor on the Tag pen is agile, the voice is clear, and the underpinning technology works amazingly well.
+I appreciate that you don't have to tell the pen which book you're reading, which makes the process much more intuitive for kids.
+My initial concern was explaining to my daughter why some books could be ""read"" and not others (non-Tag), but having the carrying case sidestepped issue that altogether by effectively making the Tag books a collection.The Tag itself holds a surprising number of titles (I currently have 17 on there), which is a big improvement from theTag Juniorwe picked up for my 2yo.
+The carrying case holds about 2 sets of books and maybe 2 or 3 freestanding ones, plus the pen.
+I give Leapster high marks for quality with the books being bound well enough to withstand heavy use, and the pen and case being well-constructed for kids.To be frank, I don't use the online parental follow-your-child's-development whatnot because I think it uses some questionable benchmarks, and has yet to tell me anything I didn't already know.This set of books, and the full Tag Reader system, is definitely worth picking up for your early reader."
+My granddaughter is at the age when she's learning her letters, the sounds they make, and realizing that when you put them together they make words.
+This set is perfect for her and the carrying case means she can take her favorite books with her when she goes to her other grandparents' home or even when riding in the car.
+Colorful, delightful, and just the right size for her three-year-old hands.
+I love it and am thrilled we picked this up sight unseen because, the truth is, the picture simply doesn't do it justice.
+"First, I have to say, if you're looking at the LeapFrog Tag system, this bundle is a fantastic deal.
+My daughter loves having everything in one case that she can carry around and having all those books right from the beginning is really great.
+We gave this to my 3.5 year old for Christmas and while she's not quite old enough to really fully use the pen to read it word by word, she's enjoying using the pen to point at different objects on the pages or she knows how to point to an icon on each page and have it read the entire page.
+This has been great for us for days when she doesn't nap, we can have a little quiet time reading books.
+She can now have the book read to her with the pen and I still get a little ""me"" time!The books that come with this set focus on certain sounds and reading them can sound a little weird with all the words making a similar vowel sound, but the repetition is so good for helping them learn that it's a small price to pay.The Tag pen itself is pretty easy to set up and works fine with my Mac.
+It's a couple weeks into July and my daughter has used it nearly every day since Christmas and the batteries (we are using rechargeable) are still going strong.We just ordered a few more books to go with the set.
+I do feel that other than this set, the other books are somewhat limited unless you're really into the character/Disney stuff (we're really not).
+Hopefully more additions to popular titles (like Olivia, Fancy Nancy, and Seuss) are forthcoming."
+"The LeapFrog Tag Learn and Love to Read set comes with 13 books, a ""pen,"" and a carrying case that holds it all.
+The instructions say the case will hold six books, but it easily can handle the 13 titles that come in the package.The various books that come in this set cover various aspects of learning to read - long and short vowels, certain letter combinations, etc.
+It's a phonics based system so I trust that it's effective.
+It's how I learned as a kid and went on to excel in reading.So far I've observed both a three and a six year old playing with the LeapFrog Tag Learn set and, for the most part, it seems to be a hit.
+As a toy this is a great plus.
+As for learning, I'm going to trust the phonics way of learning and assume it's effective.My only beef is with the quality of the books.
+They are bland!
+No interesting plot or characterization of any kind.
+With so many quality children's books in print I'm a little shocked that LeapFrog didn't put a little more effort into this part of their product.
+Learning to read is step one.
+Loving what you reading is step two to a life of learning.
+None of the books I looked at are going to really foster a long term love of reading.
+Here's hoping LeapFrog has some better books in the pipeline.Other than that, this product seems like a winner."

@@ -1,0 +1,300 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+What's that word?
+If you are heading for a trip, this can be a great tool to keep the kids occupied.
+The books she prefers tend to be those that have both a story and activities.
+The book itself is colorful and entertaining.
+My grand daughter received the books for her birthday and is enjoying it almost every day.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.004831116180866957,0.004811834078282118,0.004649921786040068,0.004701265133917332,0.0038154111243784428,0.004288289230316877,0.0023564521688967943,0.0025554769672453403,0.004880627151578665,0.0036715148016810417,0.004734506364911795,0.0025773339439183474,0.003566944971680641,0.003795949975028634,0.0036266171373426914,0.002579089719802141,0.0034958156757056713,0.0037209969013929367,0.0033568788785487413,0.004180751275271177,0.002771096769720316,0.003482622327283025,0.0027629334945231676,0.00370712298899889,0.0045999824069440365,0.004434545990079641,0.0040525817312300205,0.00494598550722003,0.0029456294141709805,0.004441010300070047,0.003398173488676548,0.002002129564061761,0.001618863781914115,0.0013121142983436584,0.0032062584068626165,0.0012690745061263442,0.003412795951589942,0.004111177287995815,0.004410730209201574,0.0049380348064005375,0.004952203016728163,0.0019231230253353715,0.0052633136510849,0.004651086870580912,0.00434973556548357,0.0052456981502473354,0.003226462984457612,0.0032521840184926987,0.0032972360495477915,0.0035097473300993443,0.0032503772526979446,0.0024955777917057276,0.0023064748384058475,0.0043481942266225815,0.004147093277424574,0.0029837798792868853,0.0014686560025438666,0.004269872326403856,0.0048619904555380344,0.001686561619862914,0.004917730111628771,0.00454633729532361,0.003073505125939846,0.0030412906780838966,0.004978434648364782,0.004038212820887566,0.0024958227295428514,0.0035675782710313797,0.00446955393999815,0.0020857020281255245,0.004278544802218676,0.004566718824207783,0.0019687300082296133,0.003160484367981553,0.002882848959416151,0.003577485913410783,0.0023856048937886953,0.0036356435157358646,0.0017520030960440636,0.00359755614772439,0.0047959815710783005,0.004079366568475962,0.004266317933797836,0.002795722335577011,0.003625281620770693,0.002121606608852744,0.0016638360684737563,0.0018429283518344164,0.004907993134111166,0.004404338542371988,0.0050778575241565704,0.0015877550467848778,0.002098346594721079,0.0032408421393483877,0.0035007940605282784,0.002261857036501169,0.002664988161996007,0.0018032207153737545,0.004603430163115263,0.004346956964582205,0.003460647538304329,0.004413473419845104,0.004423575010150671,0.004856102168560028,0.004872814752161503,0.0047302572056651115,0.004112098831683397,0.003180109430104494,0.0030237510800361633,0.005289269611239433,0.004933630116283894,0.004815359599888325,0.004998849239200354,0.002920086495578289,0.0035664993338286877,0.004914492834359407,0.001849705004133284,0.0028416088316589594,0.005441718269139528,0.002191176638007164,0.0033100261352956295,0.00380981364287436,0.0020370783749967813,0.0017994245281443,0.0029167148750275373,0.0031303721480071545,0.004227255471050739,0.0033492096699774265,0.004753491375595331,0.002733757020905614,0.002679301891475916,0.00367642636410892,0.004935811273753643,0.0014291515108197927,0.0047811949625611305,0.003220738610252738,0.003735791426151991,0.002237799810245633,0.0043818471021950245,0.004453934729099274,0.002296974416822195,0.001632707309909165,0.004943500272929668,0.004651459399610758,0.0042771873995661736,0.0025047454982995987,0.0035272177774459124,0.0035396001767367125,0.004263212904334068,0.003971201367676258,0.004714054521173239,0.003926336765289307,0.0026200604625046253,0.0036615801509469748,0.004557806998491287,0.005625597201287746,0.004782256204634905,0.004059224389493465,0.004501881077885628,0.0047898427583277225,0.004119683522731066,0.003604979021474719,0.004985574632883072,0.002861242275685072,0.0033810248132795095,0.003562124213203788,0.003965664654970169,0.0019998475909233093,0.0030955944675952196,0.00452674925327301,0.0025748489424586296,0.004175093490630388,0.004379230551421642,0.0038909411523491144,0.0017648461507633328,0.0033588844817131758,0.0033552679233253,0.002207979094237089,0.003382542170584202,0.003933935426175594,0.0019122026860713959,0.0013797045685350895,0.001395231462083757,0.0018460212741047144,0.003669591387733817,0.0028414824046194553,0.0036111182998865843,0.004912848584353924,0.004467316437512636,0.006138327531516552,0.004738278687000275,0.004475445486605167,0.005170811433345079,0.0044776820577681065,0.0037639376241713762,0.004272178281098604,0.004768749233335257,0.004132096655666828,0.0027635861188173294,0.002720330376178026,0.003127878997474909,0.0030676694586873055,0.003066691104322672,0.005096350330859423,0.00397282000631094,0.004156053531914949,0.004992845468223095,0.0023062315303832293,0.004275393206626177,0.005116874817758799,0.004602294880896807,0.0035603109281510115,0.003912352025508881,0.004521344788372517,0.0035962385591119528,0.0030510372016578913,0.002240750938653946,0.004189032595604658,0.0019247239688411355,0.001704298541881144,0.0046930150128901005,0.0018834751099348068,0.004247510340064764,0.0018779770471155643,0.0023678066208958626,0.0015437998808920383,0.0035541108809411526,0.0019874307326972485,0.0022703332360833883,0.0035576738882809877,0.0037335888482630253,0.004849524237215519,0.004858916159719229,0.0035151552874594927,0.003365765092894435,0.0027738595381379128,0.002484805416315794,0.0037531668785959482,0.003808139357715845,0.002239629626274109,0.004802100360393524,0.00159161863848567,0.004486017394810915,0.0018951919628307223,0.005082039628177881,0.004247129429131746,0.002070194575935602,0.0016782180173322558,0.0022971422877162695,0.003195731667801738,0.002124588470906019,0.0023681186139583588,0.00404571695253253,0.0019962997175753117,0.0037648878060281277,0.005288867745548487,0.0031662911642342806,0.002956694457679987,0.0015200584894046187,0.00437464052811265,0.003572833724319935,0.0027067975606769323,0.005546411033719778,0.002472605789080262,0.0029910379089415073,0.0016496955649927258,0.004694571252912283,0.00412314897403121,0.0033759907819330692,0.002571349497884512,0.003297908464446664,0.0037176685873419046,0.0045128450728952885,0.0051802112720906734,0.0022523649968206882,0.0044309827499091625,0.0022979192435741425,0.0029570795595645905,0.0025959284976124763,0.003810700960457325,0.0022778590209782124,0.0028136232867836952,0.004819858819246292,0.002450094558298588
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+My daughter loves her tag reader and the books.
+She is an early reader and the books are perfect as they let her read when she can, and be read to when she needs to.
+She loved to grab her books and 'pen' and go off into a chair by herself and read.
+Any parent would be happy to see that!
+Like other reviewers, my only complaint is the lack of available memory on the reader itself- it appears that 10 books is about all it can handle.
+Within days of getting the reader we had almost that many added to it!
+I can see we will have to 'delete' older books to add new ones- something that is sure NOT to make the kid happy.But the ease of use is what sells the reader.
+My daughter loves the Disney tie ins with the books, as she loves the movies.
+You have to have seen the previous Monster movie to understand who the characters are in this book, which she did so we were fine there.
+I was NOT impressed with the durability of the 3d glasses (they tore by the 3rd use) and the fact that only 2 pages seem to really be able to use them, making them seem like an expensive add on.The book has my daughter ready to see the movie, and I'm happy she's reading, so it's a win-win for us!
+We love Tag.
+My son sadly is outgrowing it, but with the lure of a cool new Monsters Inc book, he pulled his pen out of retirement and had a great time reading the book and playing the games.
+My daughter is four and immediately fell in love with the book.
+While we haven't yet seen the movie, I expect it follows pretty close to the plot (if it's anything like the other Tag books from the movies).
+It's a cute story about the early days of Mike and Sully finding friendship and working together after a rivalry.
+Mike has all the heart and some lofty goals to be a top scarer, and just needs a little help getting there.The 3D glasses are a nice addition but really not needed.
+They are about what you'd expect to accompany a book of this price range.
+They're a little flimsy.
+While they do add some neat visuals, the book is great without them.I love that the Tag books have so many different options - you can read through the book in its entirety, you can pick out certain words, you can play games throughout the book and at the end, and you can make each character 'speak'.
+All in all, it's a great book.
+While I did have to delete some of our other books to make room for this monster-sized file, it was well worth it.
+The book has now been on two road trips and has been much enjoyed at story time the past few weeks.
+"My family loves Monsters Inc., and we all look forward to Monsters University when we get the chance to see it.
+But, my youngest child still gets a bit nervous about ""scary"" parts.
+It helps him if he knows a bit of what to expect about a plot.
+I thought this one might help with that.The book is good, but it skips a good deal.
+It seems to gloss over high-drama scenes, making it hard to know exactly how Mike & Sully get through certain ""adventures.""
+And, for families like ours who have not yet seen the movie, it definitely does not give away so much as to keep us from wanting to watch the movie for plot purposes.
+Still, it's a fun kids book, and I'm sure it will be even more fun when we have seen the movie and can fill in the gaps.The illustrations are good.
+My son thoroughly enjoys looking at them through his 3D glasses.
+Fortunately, though, the illustrations are clear and pleasant to enjoy without the glasses.
+That's positive because the glasses will not last any length of time.
+They are made from very flimsy card stock and have zero durability.My son enjoys the activities as well.
+Obviously, this is not a product to be used in place of teaching children language arts.
+But, it is through products like these that my son learned his letters and their sounds, his numbers, and basic math long before I began to work with him in those areas!
+So, exposure through products such as this do have an impact!Having said that, we have owned many LeapFrog products in the past that have offered far more bang for our buck than a plethora of Tag books.
+While my son enjoys this book and other Tag products, he just doesn't go back to them over and over again.
+And this is a child who LOVES books!So, bottom line is that is a fun book, and there is much advantage to such products.
+The price makes these a difficult purchase, especially since a book can only be read so many times.
+However, this is a great system.
+And as usual, this book comes with everything you would expect.
+The 3D doesn't work, I mean like nothing at all, and I'm the type of person who usually sees the 3D.
+But ignoring that it is still a good book.
+My 7 year old played with it for 3 hours (that's all, but she's a bit old for this system).
+My 5 year old has used it several times and shows no signs of getting bored.
+And my 3 year old watched intently (he didn't get the concept, but loved watching his two sisters using it).
+My understanding is that this is the first 3D book for the Tag Reader system.
+The 3D makes this book slightly more interesting, but I don't know how much the 3D enhances the learning experience.
+In any case, just like most of the books for the Tag Reader, this book sparked the interest of my kids.
+My youngest had the 3D glasses on and was reading away almost from the moment I opened the packaging.The 3D glasses are the paper kind, which seem easy enough to tear/break.
+You definitely have to be careful with these, specially because there is no place to store the 3D glasses properly.
+The glasses came glued to the inside of the front cover, but once you use the glasses you don't have a place to slide them in to prevent them from being separated from the book.
+We do have a Tag reader case in which we can put the books and the pen, but that only provides protection if the book/glasses are in the case and doesn't prevent misplacing the glasses once outside the case.In general, I like the Tag Reader system.
+It helped my eldest and now my youngest is enjoying it.
+I think from an educational perspective it's an excellent device.
+The books are fairly interesting and you get a wide selection of popular titles.
+We love LeapFrog books in this house and we were excited to finally get a new book, not to mention one with new 3D features based on the new Monsters University movie, which we are all very excited to see.
+It is a nice hardcover book that is the same size as all our older Tag books.I give this book top marks because it is rich in features, the graphics are great, and voices are either the real actors or sounds pretty close.
+The story is cute and easy to follow and has a good amount of dialogue.
+There is a game mode as well, where the green star is a fun game mode.The 3D feature is new to us, and clear lens 3D glasses are part of the package.
+They fit great for a kid.
+They have clear lenses and are not hard on the eyes.
+Better yet you don't need them to enjoy the book and the pictures - it looks fine without it.The story is cute, easy to follow for someone who likes the movie.
+Its obvious it leaves out a few transitional scenes that aren't in the movie but it still has a fun message, and has already given us hours of fun.
+"This book is a part of the ""Read o Your Own Series"".
+Of course, with the movie coming out, this will be a fun book for readers.
+It comes with 3-D glasses.
+They are thick paper, so I don't think they'll last a long time.
+The good news is that book does not require the glasses.
+The book looks perfectly normal in 2-D.As with other LeapReaders, this book has different modes for reading and games to help kids learn parts of speech, position words and some deductive reasoning.In the back of the book there are extra pages focusing on the parts of speech.The illustrations are interesting and colorful.
+Kids will enjoy this book a lot, as do mine."
+My two daughters, 3 and 5, really enjoy the Tag Reader and its books.
+We were excited to get the new Monsters University book and it has been a hit at our house.The 3D feature is cool, but the glasses are flimsy and not likely to last long.
+It would have been nice if the book had a pouch to store the glasses in because they are just loose right now and I am sure we will lose them soon.
+That being said, you book looks great without the glasses so if they break or you lose them, it really isn't that big of a deal.As with a lot of the LeapFrog products, I think they educate through entertainment; kids enjoy them and in the process of exploring them, they usually pick up a few new words, concepts or other skills.
+"My 4 year old Grandson has been using a tag reader for over a year.
+When he visits we enjoy reading the books together and then he enjoys using the tag reader on his own.
+The3D Book: Disneyixar Monsters Universityis a great tie into the movie which he just saw and any book that is connected to something he is already interested in, makes him that much more excited to read.
+As for the 3D features in this book, they aren't exceptional.
+In fact my Grandson had a hard time ""seeing"" them, but I think that is because he's not familiar with 3D on paper.
+I viewed them just fine, but the book is just as good without them.
+Overall it's a good addition to the Tag books."
+My son is almost 6, so he fits perfectly into the age range for this book.
+I'm actually surprised he still uses his Tag reader, but he does.
+The story is cute and he loves the 3D glasses, but the actual 3D in the book is not that great.
+On the flip side, without the glasses, the pictures aren't very blurry and it could easily be used without the glasses.
+As is usually the case with 3D glasses, I give them two weeks tops before they're torn up because they aren't very sturdy.
+But, as a whole, the book is good quality, the story is nice, and my son enjoys it, so I give it a thumbs up!
+This is another great TAG book.
+It is packed with activities, more so than other books we have.
+I guess that is why the file is so big.
+It is 4.5MB, which is a lot for the reader that only holds 35MB of data.
+I had to delete two smaller books for it to fit on our reader.My son is a big Monsters Inc fan, so this book was a hit with him.The 3D is fantastic.
+It uses a technique based on the colors that surround each other and works great.
+The dark pages really pop.
+However, my son claims he didn't see the 3D.
+I am guessing that is because he has never experienced it before and doesnt really know what he is looking for.This type of 3D does not require glasses to just read the book.
+WIthout the glasses the book looks normal, unlike to Blue/Red 3D glasses.Definitely recommend for the Monsters Inc fan.
+"I got this for my little cuz because I knew she would love it.
+This is one of those Leapfrog books and apart of the ""Tag"" series.
+Those are the ones with the pen that the kids use that makes it a little more interactive.
+It helps them with the book and the words.
+Also add in that this is a book based on the ""Monsters Inc."" films and the fun is way up there.
+She loves it and her friends have loved it as well.
+This is a good purchase for any one out there with kids who enjoy these types of things."
+The 3D effects is cool.
+But even cooler is how much more fun reading can be with right timed enactions of sound rather than plain reading.
+Reading a book with the tag will raise the bar of story reading and telling to your kids.
+With the tag, you have the option of repeating and pausing the story as you like to revisit favourite parts of the story.I would have totally missed the glasses had my husband not pointed to the 1D glasses hidden inside the book.
+My grand daughter received the books for her birthday and is enjoying it almost every day.
+The concept of the system is very useful.
+There is a huge number of books available that the kids can enjoy.
+I wish that this had been available when my four children were of the age to enjoy the books and the system.
+You can surely improve your child's reading with these books.
+They are very popular and very much worth the money !
+!
+LeapFrog's Monsers University LeapReader 3D book is an interactive book that can be used with Tag to help your child learn to read on their own.
+Tag is a great system that is easy enough for my 3 year old to use, but I can't comment on whether it is actually effective at helping kids learn to read.
+The book itself is colorful and entertaining.
+The 3D effect is moderate but I really like how without the 3D glasses, the book looks normal and my kid usually goes without the 3D glasses.
+The glasses are just simple polarized plastic with thick paper for frames.
+They can get beat up pretty easily, unlike the sturdy hardcover book.
+While the 3D doesn't add a whole lot to the experience, the book is priced similarly to non-3D tag books, so it's definitely a plus.
+Overall, I would recommend this book for any child who is familiar with Monsters Inc. or Monsters University and owns LeapFrog Tag.
+absolutely the TAG is a hit my my son.
+He loves books anyway but hearing sounds and seeing the story in 3D was a special treat for him.
+The book was engaging and had just the right amount of words for his age which is 4.
+He loved the 3D and the vivid pictures.
+This toy is educational and fun for my son, and the set up is not too bad.
+I had purchased an original V1 Tag reader when they first came out years ago.
+Being the techno geek that I am, it seemed natural to have geek toys for my child as well.
+So when this came up on the Vine, I got it more as a test to see how things have improved over the last several years rather than a need for the product, as my son is now 9 and doesn't need these aids in reading.Form factor has changed slightly - not quite as bulky on the bottom and a little bit shorter, but still overall the same basic shape.
+Buttons and ports are still on the same spots.
+There is twice as much memory as the one I bought previously, but still just a horrible choice from a technological standpoint to have just 32 MEGabytes of memory on it,when I can get a 16 or 32 GIGabyte USB stick that's barely larger than the USB barrel itself for insanely cheap prices.
+The inability to have more than 10 books on this device is just inexcusable.
+The technology otherwise is completely unchanged, all they did was adjust the shape of the unit and and make the memory barely less pitiful.Now away from the technological disappointment, it really is a good concept.
+My son loved it when he was starting to read, and used it quite a bit, despite the fact that I never bought that many books for it though because it's such a pain to have to change what books you have saved on the device for it to play back.
+But with the focus on things that will engage that age (cartoons, Pixar/Disney movies, etc) it certainly does become a viable tool for a parent helping their child to learn to read.
+And it's not simply the pen reading back a story, although it does that.
+There's also interaction.
+Some books have more activities to do to engage the young minds and help them learn to recognize numbers and things as well.Volume is surprisingly loud for such a tiny little thing, although it is, as you'd expect, very tinny.
+Installing the program isn't difficult on either a Mac or a PC, nor is downloading the audio from the internet, or copying to the device.
+It's just point and click.
+The buttons are easy for little hands to press, and while the shape looks unwieldily, it works well in those same little hands.
+Once a book is loaded, there's nothing you have to do on the pen to pick one book or another.
+We bought our daughter the Tag reader pen a year ago.
+So she was familiar with how the Tag reader system works but this was her first 3D book.
+The book comes with a pair of 3D glasses, made from paper so they are not very durable but work really well with this book.
+The book looks great even without the glasses.The book works with the Tag reader just like the other books for the Tag/LeapReader system.
+It has different modes, e.g.
+reading the entire page, read one word at a time, or spelling.
+We have already loved the Tag reader system and this book was a great addition to the little Tag reader library.For those new to the Tag reader, you'll need to download the book into the pen before it can be used with this book.
+This requires installing the Leapfrog application on your Windows or Mac.
+So a word of caution that it *does* require a computer to load book(s) for the first time only.
+Once the book is loaded into the pen, you don't need a computer.
+If you are heading for a trip, this can be a great tool to keep the kids occupied.
+"I initially ordered this book thinking that it would be great to read along with my toddler.
+But when it arrived, it was clearly designed for an older child, so my six-year old got to test it out instead.
+She enjoyed the story and said it was a lot of fun (""really, really, really, really fun,"" to quote her).
+She said that there was a lot of reading and she liked that it would tell her the words she didn't know how to pronounce.
+She sat on the sofa and was fully immersed in the book for a good 30-40 minutes.I have to admit that I found the story a little confusing.
+Perhaps I'm bringing too much of my adult knowledge to this kid's book.
+But the story is essentially about Mike and Sully at Monsters University.
+They are training to be Scarers but end up getting kicked out of school.
+At the end of the story, they answer an ad to work in the mailroom at Monster's Inc.
+If they could just answer an ad, what were they doing at the university?
+How do they become Scarers in the original Monsters, Inc movie?
+Again, these were my adult questions, my daughter had no problem with the story, and I don't know if things will be cleared up in the actual movie coming out this summer.My daughter enjoyed that the book was 3-D, but we both agreed that it wasn't actually necessary to her enjoyment.
+She thought the effect was cool, at first, but she was concerned that her little brother would get a hold of the single pair of glasses and destroy them; it's a concern I share.
+Personally, I didn't think the ""3-D"" added much.
+In fact, it became difficult for me to read when wearing the 3-D glasses.
+I wear regular prescription glasses, so these things have always been difficult for me, but my daughter, who doesn't wear glasses, said she didn't have any problems at all.
+LeapFrog has a history of doing good books and this one doesn't disappoint.
+Based on the new Monsters Inc movie that is coming out this follows our favorite monsters though college.
+As a bonus this book is also in 3D.
+I was a little worried about that at first as some 3D looks bad when you aren't wearing the glasses but this book has amazing artwork with or without the glasses.
+The 3D glasses that come with the book at kid sized paper glasses that are a little worse for wear after being shared between my 3 and 5yr old but they do love the 3D!
+It's a bit bigger than most TAG books so you'll have to pick and choose what goes on your pen but it's been a hit with the kids so I think it'll be on the pen for a while!
+"My four year old now has about ten of these hardcover books to go with his Tag Reader pen, and not one of them has yet to get old.
+He still uses the sample book that came with the pen, for that matter.
+It really is a fun learning device.So much so that as I got the book and pen to go through the book to review it, he grabbed them from me and he's now exploring Monster's University yet again.
+It might help that we took him out to see the movie this week, and he had a great time watching Monster's University in the theater.If you're not familiar with LeapFrog's LeapReader, it's a very easy to use, lightweight, pen-shaped reader which interprets text and images from LeapFrog books, then narrates what you've selected.
+It also gives you fun tasks to perform; asking you to go find something throughout the book, or in the case of Monster's University, asking you to create your own monster.You do have to establish an account with LeapFrog where you can download each book's software to the pen.
+The pen allows you or your child to read the stories or play the games, and as the pen stores only a certain amount of books in its memory, this account includes a library where you can select which books you can keep on your pen.Specifically regarding this Monster's University, there is the aforementioned Create Your Own Monster game as well as a ""Where's Waldo"" style game where you have to find several monsters one at a time from a large university classroom.
+Several pages throughout the book also have game icons which, when pressed, ask trivia questions about the story.
+One non-game activity has Sully teaching a class on the verbs and nouns of scaring methods.
+The games have two levels of difficulty, and once the first levels have been mastered, the ""level twos"" are available.Of course, the main thing about the book is that you can click on one icon, and a very pleasant voice reads the whole book to you.
+Or, you can choose to have that same voice read you one page at a time.
+Or the best part to me; the pen allows you to read one word at a time, so when your little boy or girl is trying to read it on their own, they can use the pen to help them out as the go along.
+What's that word?
+Point at it.
+Slide over it.
+The word is revealed.
+They can do this with Mom or Dad right there, or if they're busy, they can do it themselves.
+I consider myself a reasonably smart guy, but I have to admit I have no idea how the LeapFrog folks make their little pointer work when all the dots you click are identical, yet spit out different instructions, games, etc.
+It's kind of a marvel.If you have previously tried the Leapfrog Reader, you know what to expect.
+It's well done, easy to do, and enjoyable for awhile.
+Unfortunately, for a lot of kids these days, it's hard to keep them interested in one thing for more than 10-15 minutes.I was pleased to find that this book also came with the Tag.
+I don't know if that's standard or not, but it was a pleasant surprise.I would recommend this if you already have a Tag and kids who love Monsters.
+This is our first time using the LeapFrog Tag reading system.
+This book itself has a lot of interactive additional material.
+It seems everywhere you put the tag reader makes a different sound!
+The pictures are colorful and the main characters (Mike and Sully) are on every page, so it kept my little ones who love them engaged!
+The story is cute also.
+The reason I gave this 4 stars instead of 5 was b/c the 3D is lacking a bit.
+When you wear the glasses there is only one page that really looks like it's in 3D.
+All the others don't really jump out at you at all.
+Also, it just comes with one pair of the cardboard glasses taped into the cover of the book-it would've been great if they'd put a little envelope in the front or back cover of the book for easy storage.
+Overall, it's a great story and as long as you don't expect a lot from the 3D feature, this book is great!
+"This was used by a 8 year old boy and a 6 year old girl.
+They liked playing with it but got bored rather quickly.
+The pages can be read with or without the glasses but the colors on the pages combined with the color of the fonts makes some pages hard to read with or without the glasses, which by the way, are very flimsy.
+The kids have watched Monster's Inc. more times than I could count and while they liked the book for about 10 minutes they became pretty bored and opted to play with the ""I Spy"" book for the tag instead.
+The tag is great and this book is fun, and the games are good and educational, but for my kids this wasn't entertaining enough to hold their attention."
+My kids are in a big Monster's Inc phase, especially my 4 year old.
+It's great that another movie is coming out soon, because Mike and Sully are EVERYWHERE!I guess we get a little preview of the movie in this Tag book.
+My kids enjoy it, so I guess I shouldn't comment on the storyline too much, but it definitely doesn't seem like it's going to be as huge of a hit as the first movie.
+But Pixar movies always seem to be amazing when I watch them, so I guess I might still be surprised.Anyway, the book is about friendship and doing your best.
+(I guess in the Monsters University prequel, Mike wants to be a scarer, and doesn't do as well as Sully, but he keeps trying anyway, which I feel is a pretty good message to my kids.)
+As with every tag book we own, there's some educational fun enclosed.
+My oldest, who will be 7 next month, isn't getting as much out of it as my daughter, though he can still have lots of fun while playing.
+It discusses nouns and verbs, which is great for my son, and I guess it's even a good intro of parts of speech for my daughter, too.
+They really like that they can choose their own monster name, which the pen will remember for the story, and they have fun giggling at the silly names they choose.The 3D feature... well, it's wasted on my kids.
+The book comes with a pair of 3D glasses that I'm sure will either 1) get lost or 2) get broken.
+Actually, right now, they're pretty much forgotten, because the book works fine without them-- luckily, the pages aren't blurry or illegible if you're not wearing the glasses.
+(The book does look neat when they're on, but my kids really don't have the patience for flimsy 3D cardboard glasses when they're trying to play games.
+They're the same with 3D glasses for movies, too.)
+So, unless you child is really into 3D, I wouldn't get the book specifically for that feature.Anyway, if you have a Monster's Inc fan (or two) in your house and you're a fan of the Tag pens, this would be a good addition for you.
+If my kids weren't into Monster's Inc, I wouldn't bother with this book-- I feel like there are better Tag books out there (and I am a big Disney/Pixar fan!
+).Also, I guess there's going to be a new version of the Tag reading pen soon (the LeapReader, apparently being released at the end of June).
+My daughter loves her leapfrog Tag and was so happy to get this.
+We went to see the movie so she was familiar with the characters and story.
+It loads easily, just like the others.
+She also enjoyed the 3d aspect of it but lost the glasses within a week.
+I'm hoping to find them when I sweep under my couches.
+The only improvement would've been some sort of pocket/slot to hold the glasses in the book.
+Very Cute!The LeapReader 3D book for Monsters University is so much fun - just the thing if you have a little one who is excited for the new movie.
+The colors are vibrant and the 3D glasses work wonderfully.
+My daughter was so excited that everything looked like it was coming out of the book.With use of the Tag Pen, the book reads itself (nice when I'm busy cooking or something!
+), but even without the Tag pen, you'll enjoy reading the story to your little one.
+Also good for kids old enough to read by themselves.
+The story itself is adorable and my daughter is now anxious to see the Monsters University movie.She also wants new LeapReader books.
+This is definitely a winner!
+To begin with, the Tag reading system is fabulous in concept.
+I tested this book with my 5 year old girl co-tester.
+She totally got the concept and loved it.She loves being read to and having control over when she is being read to is a reason she will listen to any book.
+This one is based on a movie she hasn't seen yet and I imagine she will enjoy it more when she has seen the movie.
+It is a little hard to enjoy the story as it is without having any real connection to the characters.The 3D glasses are a cute idea but not sure how long they will be around.
+They are cardboard and there is no provision for storing them in the book so the question is whether they will be lost or torn first.Reading along while the narrator reads is one good point for this reading series but there are many places in this book where the text is printed over a very dark part of the picture.
+It is very hard to see the words for reading along in that case.I expect this book will be more popular after the new movie is seen when the kids will love having a story about characters they liked in the movie.
+We were all very excited about the new Monsters Inc movie so when this book arrived, my kids immediately opened it and started reading (with the tag reader device, sold separately).
+The 3D glasses are very cool (and work!)
+but my only complaint is that they are paper/cardboard and not more durable.
+Although they haven't ripped yet, I don't expect them to last long... we shall see and I'll post an update.I absolutely love the Leap Frog products, especially the tag reader and books - my 7 year old used them all a lot before he learned to actually read and now will read them on his own.
+My 4 year old loves using the tag reader!
+It is also a great way to keep the kids occupied when traveling, on vacation or even quiet time at home.
+My daughter enjoys the LeapFrog books.
+Monsters University is colorful and interesting.
+The 3D glasses don't really give the impression of 3D, but the book can also be enjoyed without the glasses.
+I would recommend the book.
+I just wouldn't recommend buying because it's in 3D.
+"We've had a LeapFrog Tag pen since my daughter was 4 and we've bought a number of different books for it.
+The books she prefers tend to be those that have both a story and activities.
+This one fits the bill, plus it's Monsters University (which my daughter, now 5, loved).The book tells a (very abridged) version of the story from the movie so little fans can relive the movie at home with their pen.
+The 3D glasses add some fun, but aren't necessary (and I do worry about their durability, being paper) but it's novel for now.
+There are a number of different activity games including a game involving identification of nouns vs. verbs, a game to find specific monsters on a page (""Find a monster with fur, sitting to the left of a monster with three eyes."")
+and some other cute things.
+It definitely has learning value and fun value, all alongside the cute story with familiar characters.This book is probably better for the 5-7 year old set than those who are younger, but it's still fun in the mode where the pen reads the whole page (or book).
+Highly recommended for all little monsters."
+"As can be the case when a movie is shortened into a kids' book, _Monsters University_ would be best for those familiar with the movie.
+Understandably, it must be a challenge to include only necessary information and still capture the entire plot.
+Most of it is done well, but pages 8-10 are challenging to follow as to how the Scare Games are conducted (it seems over days' time (?))
+and what exactly is going on (especially the spread on pages 8-9).
+Of course, that won't be a problem for readers who see the movie when it comes out and can fill in the gaps.That's all there is negative to say about it, because it's really done nicely and is fun.
+I'm especially impressed with the 3D effects, because even without wearing the included glasses, the graphics are still clear, which isn't always the case when something is done in 3D.The games are creative as well.
+While most are rather simple (answering questions by pointing at something in a picture), the two in the back are more in depth games.
+Scare Class Classified features a whole classroom of various monsters.
+Kids are directed to find and point to one that has a few specific features.
+In Scare Techniques, readers are first asked to click on specific things to find out a scare technique.
+But in the second level of this game, they identify and learn the difference between nouns and verbs.Both Sulley's and Mike's voices are included, and along with the 3D and games, it's a reading experience a child can get really immersed in.
+Parents will be happy to know that for all its bells and whistles, though, imagination is still required.
+When ""designing"" one's self as a monster, for example, there's no screen to show the finished results.
+Though the reader can pick two items to put together to get a monster game, s/he has to imagine what the finished result would look like.
+The book aims to make the reader feel like a student at Monsters University, which requires a lot of imagination."

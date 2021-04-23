@@ -1,0 +1,207 @@
+Top question(s):
+Are both sides of the "trap door" supposed to release when the lever is pulled?  Not sure if ours is defective or if one door is intentional.
+what age is this for
+Top sentence(s):
+Quiet toy- no bells, sirens or music thank goodness!!!
+The slide doesn't snap in place, and gets dislodges easily.
+The part he loved best was how the characters can sit in the plane.
+After my daughter failed several tiems to get Mickey to fly the airplane (he would topple out as soon as she let go) I tried it only to achieve the same result.
+She plays with Mickey and Minnie like they were in the Mickey Mouse Clubhouse show.
+
+Question attention weights:
+0.2010362595319748,0.17868849635124207,0.27404338121414185,0.1836390346288681,0.1625927984714508
+Sentence attention weights:
+0.005405267234891653,0.004836151376366615,0.007433363702148199,0.0059821573086082935,0.006028799340128899,0.007194885052740574,0.006972918286919594,0.004353176336735487,0.004755256697535515,0.0054772295989096165,0.005676343571394682,0.0039808680303394794,0.004712824244052172,0.0060921525582671165,0.004675999749451876,0.004723678808659315,0.0063884202390909195,0.005450059659779072,0.0060637034475803375,0.004880466032773256,0.0051878890953958035,0.005989932920783758,0.006909961812198162,0.005261160898953676,0.004910924006253481,0.0076272026635706425,0.011496038176119328,0.004355945624411106,0.00500947330147028,0.006950427312403917,0.005329263862222433,0.005305225029587746,0.007582301739603281,0.004839559551328421,0.004944275598973036,0.004838399589061737,0.004571995232254267,0.005118641071021557,0.008946367539465427,0.005455151665955782,0.005787807051092386,0.005118641071021557,0.004908945877104998,0.005993491970002651,0.004950004164129496,0.005212745163589716,0.004587553441524506,0.005797243677079678,0.005457128398120403,0.004735451191663742,0.008831336162984371,0.004731904249638319,0.004474774934351444,0.004635364282876253,0.00580243207514286,0.005205733235925436,0.004712069407105446,0.006829648278653622,0.006005911156535149,0.005216710269451141,0.0026644866447895765,0.00831566471606493,0.0053442553617060184,0.004550313111394644,0.005167944822460413,0.005373564548790455,0.0053261988796293736,0.005796633195132017,0.005398556590080261,0.004491567611694336,0.004233666695654392,0.0064653498120605946,0.005293990485370159,0.005156934726983309,0.004242912866175175,0.0047736456617712975,0.006596819497644901,0.005297225434333086,0.005246276501566172,0.00569714093580842,0.0037346482276916504,0.006250013597309589,0.005430825054645538,0.008870650082826614,0.004866215866059065,0.004707957152277231,0.00497382553294301,0.005305255297571421,0.007759479805827141,0.005280529148876667,0.004937457852065563,0.005300487391650677,0.006513257510960102,0.006159220822155476,0.00401096697896719,0.0057640764862298965,0.005672553554177284,0.006387361325323582,0.0059821042232215405,0.004053521901369095,0.008307300508022308,0.0053627644665539265,0.0074052875861525536,0.0035813215654343367,0.004260878544300795,0.003987104631960392,0.009079687297344208,0.005251489579677582,0.005116041284054518,0.0055849589407444,0.004538277629762888,0.004167322535067797,0.007812602445483208,0.0055016810074448586,0.005711772944778204,0.006908765062689781,0.007156274281442165,0.0063634575344622135,0.005013323854655027,0.0053850989788770676,0.004347847308963537,0.004333091899752617,0.005666675046086311,0.00476968614384532,0.006070170551538467,0.006258765235543251,0.005049612373113632,0.006482047028839588,0.006641733460128307,0.003862593090161681,0.004272444639354944,0.004641841631382704,0.003416826017200947,0.005846800748258829,0.005017501767724752,0.0053396266885101795,0.005726090632379055,0.005217186640948057,0.005826948676258326,0.005321199540048838,0.007249453570693731,0.005772433243691921,0.005159871652722359,0.005310770124197006,0.005394581705331802,0.005798381753265858,0.005142988171428442,0.003840554505586624,0.004122351296246052,0.005530569702386856,0.00466013140976429,0.0070492890663445,0.005405600182712078,0.005059114191681147,0.006833152379840612,0.005570462439209223,0.0061083948239684105,0.0052566626109182835,0.005129216704517603,0.006621388718485832,0.0033198969904333353,0.0036753902677446604,0.004763811361044645,0.005425458773970604,0.003771128598600626,0.003382929600775242,0.005112164653837681,0.006815295200794935,0.005315121728926897,0.006139888893812895,0.0041497633792459965,0.005406280513852835,0.007555074989795685,0.005924642086029053,0.004884546622633934,0.00452837161719799,0.0033974414691329002,0.004949111025780439,0.004701054655015469,0.006970763206481934,0.0034629185684025288,0.006627140566706657
+0.0052752927877008915,0.00482436828315258,0.007888932712376118,0.0056456937454640865,0.005720161367207766,0.007426779251545668,0.007501176558434963,0.003925663884729147,0.004930827766656876,0.005659907590597868,0.005552374757826328,0.004221231676638126,0.00505466666072607,0.0058464473113417625,0.004879414103925228,0.004598196130245924,0.006649358198046684,0.005272241309285164,0.006277851760387421,0.005061814095824957,0.004594120662659407,0.006183701567351818,0.007705042138695717,0.005445701535791159,0.004395431373268366,0.007753017824143171,0.012452986091375351,0.004100150428712368,0.0051759169436991215,0.007015895564109087,0.005307698622345924,0.00537574989721179,0.008030357770621777,0.005197318736463785,0.005160825792700052,0.005102610681205988,0.004565611947327852,0.005288982298225164,0.009611913003027439,0.005326032172888517,0.005375897511839867,0.005288982298225164,0.004877756349742413,0.006515189539641142,0.004469795152544975,0.005395064130425453,0.004731053486466408,0.006099802907556295,0.004293631296604872,0.004854300525039434,0.008986367844045162,0.004275013227015734,0.004439048934727907,0.004754045512527227,0.005965911317616701,0.00506609957665205,0.004089290276169777,0.007179855369031429,0.006189694162458181,0.005341069307178259,0.0026045236736536026,0.008880283683538437,0.005359619855880737,0.004860861226916313,0.005214537028223276,0.005555554758757353,0.005240498576313257,0.005735405255109072,0.005603613331913948,0.004257790744304657,0.004060048144310713,0.006953001953661442,0.005462113302201033,0.004860390443354845,0.004374687094241381,0.004891482647508383,0.006649075075984001,0.004976791329681873,0.005301055498421192,0.005849831271916628,0.004008203744888306,0.006033261772245169,0.005390775855630636,0.008641872555017471,0.004423013888299465,0.004665921907871962,0.005105835385620594,0.005440014414489269,0.0075123985297977924,0.005387741141021252,0.004865839146077633,0.005434148479253054,0.006675182841718197,0.006412109825760126,0.004031376913189888,0.0058501847088336945,0.006142325233668089,0.0060782115906476974,0.006810711696743965,0.0037134208250790834,0.009020211175084114,0.005161604844033718,0.007495667319744825,0.003874286310747266,0.004429758992046118,0.004079797305166721,0.009698976762592793,0.003978982102125883,0.005151396617293358,0.004981000907719135,0.0045277951285243034,0.003812347538769245,0.008368573151528835,0.0054737841710448265,0.005609245039522648,0.006772365886718035,0.0059769791550934315,0.0068156179040670395,0.005097122397273779,0.0055109611712396145,0.0042730532586574554,0.003663029056042433,0.0058365571312606335,0.004024085123091936,0.007021317724138498,0.005672095343470573,0.005081303883343935,0.006128469482064247,0.007379770744591951,0.003732501994818449,0.004369719885289669,0.0046419003047049046,0.003235883777961135,0.004425430670380592,0.005043051205575466,0.005232677329331636,0.005841643083840609,0.005391489248722792,0.005959019530564547,0.005497680976986885,0.006854455452412367,0.005971550475805998,0.005241406615823507,0.00550085911527276,0.00524173816666007,0.005193938966840506,0.005327730905264616,0.003996731713414192,0.003609912935644388,0.005642663687467575,0.004783938638865948,0.007166324183344841,0.00537620997056365,0.004466651473194361,0.006941808853298426,0.0053527927957475185,0.006189530715346336,0.005616852082312107,0.005135121289640665,0.006616651080548763,0.0027566778007894754,0.003866516752168536,0.0047438242472708225,0.0055954125709831715,0.003596668364480138,0.0033844802528619766,0.005037987604737282,0.007103160955011845,0.005094420164823532,0.006472630426287651,0.0035610543563961983,0.0053762285970151424,0.006543319672346115,0.005540694110095501,0.004983133170753717,0.004398946184664965,0.0033199433237314224,0.00502442754805088,0.004803157411515713,0.006498506758362055,0.0032200163695961237,0.007061714772135019
+0.005298173986375332,0.005242044106125832,0.007741720415651798,0.00554957939311862,0.005795811302959919,0.006624129135161638,0.007123748771846294,0.00446653738617897,0.005134449806064367,0.005771398078650236,0.0057961898855865,0.004092643968760967,0.0048035210929811,0.0055510904639959335,0.004631331656128168,0.004751872271299362,0.006560330744832754,0.004962991923093796,0.006474780384451151,0.005351221188902855,0.0049246554262936115,0.0062874071300029755,0.007560004945844412,0.0056351711973547935,0.004013652913272381,0.007737649139016867,0.010697221383452415,0.00448410352692008,0.005351000465452671,0.006820086855441332,0.005086241289973259,0.005568895023316145,0.0072559635154902935,0.00552684161812067,0.005283525679260492,0.004708125721663237,0.004519633483141661,0.005496942903846502,0.008512014523148537,0.005804930813610554,0.005643846932798624,0.005496942903846502,0.0047939857468008995,0.006485434249043465,0.004987501539289951,0.005547528155148029,0.004881707485765219,0.006162220612168312,0.004938265308737755,0.005134486127644777,0.009383545257151127,0.004702823702245951,0.004487352911382914,0.004575058352202177,0.006099534686654806,0.005223770160228014,0.004432681016623974,0.006031442899256945,0.0062209973111748695,0.00498978840187192,0.0029685606714338064,0.007648258935660124,0.00556023046374321,0.004950713831931353,0.005349341779947281,0.005287870764732361,0.005508034955710173,0.005931532941758633,0.005772844422608614,0.004405613988637924,0.0037597178015857935,0.006715422961860895,0.005600207019597292,0.004832531791180372,0.004758666269481182,0.005050006788223982,0.00710188876837492,0.004670741502195597,0.005393531173467636,0.005507629364728928,0.004339066334068775,0.00611944729462266,0.005864904262125492,0.008424458093941212,0.004467264749109745,0.004939927253872156,0.005433042533695698,0.005834455136209726,0.006622176617383957,0.005307578947395086,0.005128043703734875,0.005488669499754906,0.007347210310399532,0.006470786407589912,0.004307406488806009,0.006080992519855499,0.00525689497590065,0.006027146242558956,0.00651309872046113,0.003729223972186446,0.008774719201028347,0.005387634038925171,0.006893433164805174,0.004190999548882246,0.004046907182782888,0.004396646283566952,0.007993173785507679,0.004230547696352005,0.005015476606786251,0.005153944715857506,0.004887049086391926,0.003710339777171612,0.0077515095472335815,0.005911573767662048,0.005530690774321556,0.006673418916761875,0.006096729543060064,0.00682044867426157,0.005290123634040356,0.005654566455632448,0.004583554342389107,0.004108056426048279,0.005733855068683624,0.003995351959019899,0.005830390844494104,0.005356332287192345,0.005448989104479551,0.006427561864256859,0.006765781901776791,0.0039083026349544525,0.005234752781689167,0.005068580619990826,0.0034682571422308683,0.004748302046209574,0.005232388619333506,0.005143230780959129,0.0048113297671079636,0.005519633647054434,0.006341935135424137,0.0056854719296097755,0.005948604084551334,0.004824934061616659,0.005426536779850721,0.005668375641107559,0.005549870431423187,0.0054009659215807915,0.005516518838703632,0.0036259121261537075,0.003532601520419121,0.005128228571265936,0.004801255650818348,0.007043939549475908,0.005863484460860491,0.0042393384501338005,0.0069134049117565155,0.005479386541992426,0.006066661328077316,0.005655049346387386,0.005477982107549906,0.006796565372496843,0.00257316161878407,0.003900079056620598,0.004874737001955509,0.00570474611595273,0.004128149710595608,0.003579161362722516,0.005033091176301241,0.007522639352828264,0.0049300543032586575,0.00689009390771389,0.0035920587833970785,0.005151301622390747,0.0068550435826182365,0.005837355274707079,0.004859270062297583,0.004636234138160944,0.0032777655869722366,0.005205981899052858,0.004967275075614452,0.005397151689976454,0.0034539687912911177,0.00715737184509635
+0.005368303973227739,0.004693783354014158,0.006848055869340897,0.006128551904112101,0.0057012164033949375,0.007048500701785088,0.007050077896565199,0.004825282376259565,0.0048121861182153225,0.005327378399670124,0.005442600231617689,0.004133497830480337,0.004706745967268944,0.006336196791380644,0.004381918348371983,0.004880658350884914,0.005879265256226063,0.005103654693812132,0.006619899999350309,0.004845642484724522,0.0051898108795285225,0.005683256778866053,0.0066611929796636105,0.005155507009476423,0.004808136261999607,0.00785937998443842,0.01088037807494402,0.004681714344769716,0.004963288549333811,0.00645034946501255,0.005052695982158184,0.005258622579276562,0.006750310771167278,0.00495998514816165,0.004872943740338087,0.004687352571636438,0.004934751894325018,0.0050309509970247746,0.008715307340025902,0.005324438214302063,0.006302281282842159,0.0050309509970247746,0.004912893287837505,0.005656243767589331,0.004961695056408644,0.00508095370605588,0.004599983338266611,0.00557898823171854,0.0054058474488556385,0.004775810055434704,0.00827555451542139,0.005603170953691006,0.004877529107034206,0.004914256278425455,0.0056251720525324345,0.005141774658113718,0.005188869312405586,0.006591189652681351,0.005813414230942726,0.00513127725571394,0.0032871090807020664,0.007563771214336157,0.005532373674213886,0.004637936595827341,0.005043925251811743,0.005078775342553854,0.005391874350607395,0.005682839080691338,0.005247941240668297,0.004494359716773033,0.004148169886320829,0.006471473723649979,0.005153695587068796,0.0053560491651296616,0.004681295715272427,0.004668703302741051,0.006411389447748661,0.00552781717851758,0.005020305048674345,0.0056874873116612434,0.004092101939022541,0.00596556905657053,0.005431185942143202,0.008717227727174759,0.005328758154064417,0.00540285324677825,0.005036880727857351,0.005750658921897411,0.006585810799151659,0.005108443554490805,0.005054831504821777,0.0053814989514648914,0.006447758059948683,0.005914006382226944,0.004175933077931404,0.005649338010698557,0.0053905947133898735,0.005955440923571587,0.005719833541661501,0.004880432039499283,0.007939844392240047,0.005824523977935314,0.006582167465239763,0.003960502799600363,0.004677999299019575,0.004289429169148207,0.007806429639458656,0.00522126629948616,0.004895743448287249,0.0053153145126998425,0.004699494689702988,0.004817127715796232,0.007239827886223793,0.005402857903391123,0.005604089237749577,0.007025606464594603,0.006595838349312544,0.006518308538943529,0.005110764876008034,0.0051727318204939365,0.004558139014989138,0.004915476776659489,0.005862860009074211,0.004825124051421881,0.006242223083972931,0.006037598941475153,0.005071612074971199,0.006261869799345732,0.006687302142381668,0.004323104862123728,0.004928033798933029,0.004698656965047121,0.003726157359778881,0.006171255372464657,0.0049235764890909195,0.005193070042878389,0.005292064510285854,0.0050871241837739944,0.005833104718476534,0.005195546429604292,0.006279330234974623,0.004952605348080397,0.005325037520378828,0.005173510871827602,0.005333378445357084,0.005601971875876188,0.005037529394030571,0.003934038802981377,0.004383067134767771,0.005279497243463993,0.005197334103286266,0.007160539273172617,0.005407014861702919,0.005068887956440449,0.006822040770202875,0.005736811552196741,0.006206300109624863,0.005360548850148916,0.005596534814685583,0.006523903459310532,0.003630002960562706,0.0036898404359817505,0.004999107681214809,0.005221803672611713,0.004276803694665432,0.003938433714210987,0.005459774285554886,0.0073166717775166035,0.005144890863448381,0.006109008099883795,0.004572486504912376,0.005321954842656851,0.00783737562596798,0.005842964630573988,0.005749831907451153,0.004697839263826609,0.003906978759914637,0.004989950451999903,0.0048272800631821156,0.005983562208712101,0.004132914822548628,0.006838700734078884
+0.005278737284243107,0.004747010301798582,0.007545183412730694,0.0060318890027701855,0.005837304517626762,0.007292752619832754,0.007374482229351997,0.004349403083324432,0.004784169606864452,0.005486318841576576,0.005571533925831318,0.003968680277466774,0.0046042175963521,0.0061571854166686535,0.004517438821494579,0.00470376294106245,0.0063265603967010975,0.00523123936727643,0.006508563179522753,0.004909140057861805,0.004978531040251255,0.0059902248904109,0.0072400872595608234,0.005281503312289715,0.004549542907625437,0.008057392202317715,0.012256952002644539,0.004315603524446487,0.005020031705498695,0.006882346235215664,0.005133434198796749,0.005318295210599899,0.00752701610326767,0.004973864648491144,0.004927115980535746,0.004749260377138853,0.004542386159300804,0.0051276241429150105,0.00946967676281929,0.005379178561270237,0.005951999686658382,0.0051276241429150105,0.004820810630917549,0.006008708383888006,0.004741665441542864,0.005208827555179596,0.0045712110586464405,0.005829911213368177,0.004982173442840576,0.004745720885694027,0.009093091823160648,0.004875392187386751,0.004515250213444233,0.004748753271996975,0.00582833681255579,0.005153086967766285,0.004681480582803488,0.006853986997157335,0.006064870394766331,0.005182832945138216,0.002701341873034835,0.008339489810168743,0.00545466085895896,0.004616849590092897,0.005116476211696863,0.005233383737504482,0.005338408052921295,0.005799565464258194,0.005417347885668278,0.004354358650743961,0.003935050684958696,0.006764619145542383,0.005293493624776602,0.005092736799269915,0.004410633351653814,0.004731802735477686,0.006714439485222101,0.005191604606807232,0.0051714214496314526,0.005742407403886318,0.0038486551493406296,0.0061291600577533245,0.005476468708366156,0.009094241075217724,0.004867155570536852,0.0048562875017523766,0.005043344106525183,0.005557186435908079,0.0072971791960299015,0.005211115814745426,0.0049318233504891396,0.005311805754899979,0.006697637960314751,0.006206122692674398,0.003992438316345215,0.005808182526379824,0.0055912635289132595,0.006176525726914406,0.006241579074412584,0.004047078546136618,0.008665313012897968,0.005537040997296572,0.007196241058409214,0.003720548003911972,0.0043900273740291595,0.004047425463795662,0.008981069549918175,0.004598427098244429,0.005015314090996981,0.005170438438653946,0.004569060169160366,0.004128460772335529,0.007982936687767506,0.005511712748557329,0.00557605130597949,0.007064919453114271,0.006643551401793957,0.006757563911378384,0.005068590864539146,0.005330575630068779,0.004344279877841473,0.004258723929524422,0.005906738806515932,0.004385070875287056,0.006341629195958376,0.005977570079267025,0.005049450322985649,0.006418247707188129,0.006946574430912733,0.003852544352412224,0.00452187517657876,0.004657546989619732,0.0032820107880979776,0.005369348917156458,0.004963040351867676,0.005194612313061953,0.00548141123726964,0.005217792000621557,0.0059507424011826515,0.005336179863661528,0.006770147942006588,0.00539129925891757,0.00527929374948144,0.005319737829267979,0.005317904055118561,0.005551476962864399,0.00515001593157649,0.003770842682570219,0.003908842336386442,0.005388207733631134,0.004908998031169176,0.007335427217185497,0.005454341880977154,0.004745913669466972,0.007017999887466431,0.005605461075901985,0.0062852222472429276,0.005374180153012276,0.005323553923517466,0.0068095773458480835,0.0030153021216392517,0.003602014621719718,0.004768095910549164,0.005405602511018515,0.0037632209714502096,0.0034786309115588665,0.0051482366397976875,0.00740235997363925,0.00512874498963356,0.006349457427859306,0.003953363746404648,0.005306520964950323,0.007505433633923531,0.005852512549608946,0.005139644723385572,0.004458881914615631,0.0033852497581392527,0.004934949800372124,0.0047437883913517,0.0061794184148311615,0.003482266329228878,0.0071405102498829365
+Questions:
+what age is this for
+Does this toy require batteries?
+Are both sides of the "trap door" supposed to release when the lever is pulled?  Not sure if ours is defective or if one door is intentional.
+Age group for this toy
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+This has been a fun little toy for my two-year-old.
+The Mickey and Minnie figurines are just adorable.The feature we use most is the slide.
+The airplane is a fun idea, but unfortunately, the dolls fall right out.
+The see-saw is fun, but the tiny chairs don't even interest my kids.This clubhouse is more on the small and simple side of things, but that's ok with me.
+Everything doesn't need to be a song and a dance.
+My Granddaughter loves Mickey Mouse Playhouse and was excited when she saw this playset.
+Her favorite thing to do on a playground is to go down the slide and she likes making her Mickey and Minnie go down the slide.
+She at first had a hard time figuring out how to make the characters to go down the chute and on to the slide but after being shown a few times she has become an old pro at it.
+She thought that the seesaw was a phone at first and will still use it as one occasionally.
+This is pretty sturdy.
+She will take the plane off often and it comes off easily.
+she enjoys playing with this alot.
+We gave this to my son for his 2nd birthday and he has enjoyed it quite a bit.
+He goes crazy over anything related to Mickey Mouse at the moment and this was right up his alley.
+However, there is a minor issue.
+The slide on the side of the clubhouse comes off very easily but it hard to put back on.
+The toy is kind of cheaply made for its cost, but the cost is completely related to the fact it is a disney toy.
+The figures of Minnie and Mickey are nice as is the extras the clubhouse comes with.
+Overall it is a fun toy but not worth the asking price.
+Bright colored plastic fun!
+Kids who watch Mickey Mouse club house will love this play set.
+Don't have to watch it though!
+It's Mickey and Minnie only who arrive with this Mickey head shaped house.
+Handle on top makes for easy transportation.
+It's light and doesn't have any sharp edges, very safe and durable.Box says for 2 years old plus, but the parts are not small for chocking.
+18 months should be okay with parental supervision.Great for imaginative play.
+Quiet toy- no bells, sirens or music thank goodness!!!
+Easy for little ones to put characters on slide to go through trap door.
+What fun to do 100 times.
+The teeter taughter is cute, the characters stand on it.My son went nuts for it.
+I will purchase the additional characters separately.
+I think this will be popular for some time in our house
+"My daughter LOVES Mickey mouse, so naturally when I saw this product, I jumped on it.
+She was SOOOO excited when we opened it up and I started assembing it.
+Sadly, assembling it was a practice I needed to become very familiar with as it comes apart VERY easily.
+The two characters that come with the playhouse, Mickey and Minnie, bend at the waist.
+I'm presuming this is so they can ride in the airplane and slide down the slide.
+Well, they can do neither.
+After my daughter failed several tiems to get Mickey to fly the airplane (he would topple out as soon as she let go) I tried it only to achieve the same result.
+The slide, well...they kind of go part way down then they fall off the edge.
+The slide, the knob to open the trap door, and the airplane come off super easily but are not easy enough for a small child to put back on themselves, so parents have to be prepared to do so, often.
+Overall, she does like the toy.
+She likes having ""the clubhouse"" when she plays with her other mickey toys, but this one usually just sits in the background as a backdrop."
+"I believe my 3 year old daughter's exact words, as I was assembling it, were, ""I can't wait to play with it, it's wonderful!""
+She loves the animated tv show and has several related toys and books.
+This one blew her mind when she looked at it.
+The only down side - it only came with Mickey and Minnie figures.
+She asked where Goofy was and was sad when I said there was no Goofy."
+The key features of the playset are the revolving plane, and the trapdoor and slide.
+However, both don't actually work that well.
+The slide doesn't snap in place, and gets dislodges easily.
+The attaching arm of the plane also doesn't lock in place.
+The characters don't actually slide well, or sit properly in the plane.
+They seem to not have been manufactured specific for the playset.
+Overall, plastic quality seems good.
+And the toy plane is a nice touch.
+The box arrived and my son was excited because he loves to watch Mickey Mouse Club house.
+The house its self comes in a couple of pieces.The head of the house can be a little hard to snap on but once it is on it doesn't seem to be going anywhere, The plane and slide then fix on in their places.
+There are instructions printed on the end of the box.
+The house comes with a see saw (which my son much prefers to use as a telephone)and table and chairs.
+The plane travels around the head although it can be detached easily if you want to have it fly away.
+If you stand a character on the top of the head and press the purple switch they fall through and down the slide.
+I would say it is only a 50/50 chance the character will make it all the way down to the bottom of the slide without getting stuck.
+The slide also has a tendency to come off but over all my kids enjoyed playing with this set.
+The characters do bend at the leg so you are able to have them sit down.
+If you child loves Mickey Mouse Clubhouse I would say you can't go wrong with this toy.
+"Like most other kids, mine love Mickey and Minnie and the rest of the gang.
+They grew up watching Mickey Mouse Clubhouse, so were excited when I got this for them.
+But the toy set did not hold their interest for long, unlike a Little People set I got at the same time.
+The problem is there's little to do with the clubhouse.
+The ""flying"" part is a total gimmick that runs old after 2 minutes -- you can see it in the product picture.
+My kids do love the vivid colors of the toy, and my youngest plays with Mickey away from the set, but the clubhouse itself has been left behind in their closet.
+Fisher-Price could have made this set much more fun.
+As it stands now, the clubhouse aspect is just way too simplistic to even please a young toddler."
+"This new Disney ""Clubhouse"" should bring loads of pleasure for any young Mickey/Minnie friend.
+It may take a while for the adult to assemble the items included, but the results will be sure to please.
+It comes in a colorful, large box with Mickey and Minnie characters.
+It features a detachable ""plane"" and a real slide, the teeter-totter, Trap Door release, and much more.
+It offers scads of fun.
+Any fan of Disney will certainly enjoy this, and spend plenty of time with this set.
+You might want to check around to see if some vendors are offering some special deals.
+Enjoy,enjoy !"
+"My daughter really likes this toy.
+She plays with Mickey and Minnie like they were in the Mickey Mouse Clubhouse show.
+She even sings the song while she plays, then she calls for ""tootles"" to help them get over the hill or whatever they need help with.
+Moving it around is easy because it has a nice little handle and each of the little accessories are nice and she even comes up with other ideas for their purpose like the seesaw as a boat or the plane as a submarine.
+I give it 4 stars because it doesn't come with more characters.
+Otherwise, this is a great toy and keeps her busy for hours."
+My daughter loves Mickey Mouse Clubhouse, but was done with this toy in a matter of moments.
+The only part of the toy she still plays with are the Mickey and Minnie figures.
+The toy is poorly constructed, so many of the features are rendered useless.
+For example, the trapdoor that goes into the slide is poorly constructed.
+When the character comes out of the bottom, he/she stops on the slide.
+The figures are too bulky to go down the slide.
+The plane is rather pointless since a child is required to move it by hand.
+It would be much more interesting to a child it a lever caused the plane to move.
+The other features are chairs to put Mickey and Minnie in, while they sit in their clubhouse.
+The toy is hardly stimulating and lacks features to hold a child's attention.
+My two year old grandson loves Mickey, so he was thrilled to see this.
+The characters slide down the chutes from a trapdoor on top.
+The part he loved best was how the characters can sit in the plane.
+However, the plane connects by plugging into the slot, and it kept popping off.
+We put it back a zillion times, until he decided to just keep it separate and play with the plane.
+Although it did provide an afternoon of fun, the fact that it does not seem very well made would probably prevent me from buying another, say as a gift.
+It feels very plastic-y, and some of the doors don't seem to close well.
+It would last through one child, but is not a toy that could be passed down.
+My kids are obsessed with Mickey's Clubhouse.
+Unfortunately we don't have cable and there's only one episode on netflix, but we have watched that one episode over and over and over.
+They also watch the show at their grandma's house.
+Anyway, I got this for my daughter's 3rd birthday and she was THRILLED.
+It has already provided many hours of fun for her and my five year old son, too.
+I love that it comes with both a Mickey AND Minnie figurine (most Disney sets only come with one figure, forcing you to buy more).
+It has lots of fun things for the kids to do as well as ample opportunity to use their imaginations.
+We love this toy!
+It was a gift for a 2 year old girl that likes Mickey Mouse clubhouse.
+She really like this present and it was almost a brawl between her and visiting niece.Young toddlers are mesmerized by placing items inside a toy, cabinets, boxes etc and they can be occupied by that simple task for a long time.
+This is great toy for the age 1.5-3 years old.The big plus: no annoying music, voices.Minus: simple, no educational value.Overall I think it's a good gift for young Mickey Mouse fans.
+My 3-yr-old daughter was extremely excited to see this toy come out of the box.
+She loves Mickey and Minnie, and was just so excited to play with the clubhouse.
+THE Clubhouse, in fact.
+She did play with this toy for about a half an hour by herself.
+After that, she played with it along with her grandparents (who had some trouble understanding how it worked).Assembly was fairly simple: attach the slide, put the microphone on the stand, and attach the airplane to the big Mickey head.
+The directions were printed on the side of the box -- a great idea for getting rid of paper directions, but it took me a minute to find them.It took me a minute to understand how the slide works.
+The figures go inside the red hatch at the top, and when you push down on the purple stand on the side of the Mickey head, the Toodles hatch opens up for the character to come out and down the slide.So -- a cute toy, overall.
+But, it's not really a great toy, and certainly not what I've come to expect from Fischer Price.Here are the issues we've encountered:The Plane: A neat idea, having a plane that you can put a character into that goes around the head.
+The first problem was that my daughter didn't understand how to get a character into the plane.
+Their legs do bend, and then you can sit them in the plane (sort of).
+They don't fit well in the seat because their hips are too wide (Mickey and Minnie both).
+As a result, the characters fall out of the plane on the downswing around the head.
+The other issue is that my kids were able to get the plane detached from the head.
+This would not be great for a 2-yr-old who might want to stick the plane attachment in their mouth.The Slide: Characters do not actually slide down the slide after coming out of the hatch.
+They fall out onto the stop of the slide, where they stay until the kids push them down the slide.
+The 3-yr-old wasn't too perturbed by this, but I certainly was.The Hatch: It's not easy to get the characters into the top of the hatch because their arms stick out a little wide for that.
+"Fisher Price Disney's Mickey Mouse Play Around clubhouse, what a great clubhouse for any Mickey Mouse Clubhouse little fan, Mickey and Minnie the plane a fun chute and all the other things the page has you can read above that they put into this interactive ""house""  i sent it to my great nephew, the Clubhouse is his favorite show i prefer to call it the house of mouse but i think that is dating me, and he's had a blast yelling oh Toodles and playing on the different fun interactive parts they have put in this very fun toy- all day!
+while watching the shows of course.
+LOL.. so far what a hit this clubhouse is!and what a cute idea that the at home kids can now play along too!
+when i was little nothing better than being included and i loved it when shows did that and Disney of course did great things with Mickey Mouse's clubhouse.i can't say how much this clubhouse is loved by a sweet two year old Mickey fan :)highly recommend..since they just got it i dont know about its durability.
+yet."
+We LOVE Mickey Mouse Club House at our house.
+I got this for my 2 year old and she really liked it.
+It is a fun little replica of the clubhouse, but isn't too big.
+It comes with a few pieces of furniture and a Mickey and Minnie-that is one reason I gave it 4 instead of 5 stars, I would've rather had more characters and less furniture pieces to play with.
+It talks and is easy to use, even for small toddler hands.
+Overall, it's hours of fun for my little one!
+!
+"My 2 1/2 year old twins LOVE Mickey Mouse Clubhouse, so I was very happy to have the opportunity to review this clubhouse.
+First, the clubhouse does look just like it does on TV, so kids who watch the show will immediately know what it is.
+The colors are bright and kid pleasing, and the assembly is not difficult.
+The plastic that the clubhouse is made of is not ""heavy duty"" so the whole clubhouse seems a bit flimsy, but it has held up nicely to spirited play by 2 1/2 year old twins.My complaints with the toy is the same as other reviewers, the figures will not stay in the plane unless you tightly wedge them in the airplane, and my toddlers can not manage this on their own.
+There has also been difficulty getting the figures to slide down the slide.
+All in all, these issues have not seemed to decrease my toddler's enjoyment of this toy.
+We have several ""Farmer"" Mickey, Donald, and Goofy toys, and the figures from those also work with this playset.
+All in all, we are happy with this toy."
+"""Mickey Mouse Clubhouse"" has been my three-year-old son's favorite show since he was eighteen months old, and I'm happy he can now role play with his own Mickey Mouse Clubhouse.
+This toy looks great, and it's a wonderful launch pad for my son's imagination.
+We love that it includes Mickey's airplane.
+My husband is an aircraft mechanic, and we are all about helicopters and airplanes in this house, so I think the plane will get plenty of use, especially since it detaches.The toy itself has a couple points of frustration.
+Characters stick when they should fall, and they fall out when they should stay put.
+This is not a huge deal because my son seems more interested in moving the characters himself anyway.
+The toy comes with only Mickey and Minnie.
+While it's not uncommon for a toy like this to come with only one or two characters, I think my son would be disappointed if we didn't already own theDisney Mickey Mouse Clubhouse Figurine Deluxe Figure Setpurchased from the Disney Store.Despite these minor drawbacks, it seems like it's going to be a fun little toy for my son to reenact his favorite television show over and over again."
+My daughter LOVES Mickey Mouse and friends so I was excited to see this offered on Vine.
+This is a toy I normally wouldn't purchase, only because we have so many other similar toys that take up space w/o getting used.
+She was very excited to see this in the box and she liked it for about 5 minutes.
+She then pushed the playhouse aside and continued playing w the extra pieces.
+She has no problem getting Mickey in the plane, but she is older than some of the other reviewers children, she's 4.
+She uses the plane and the figurines but has lost the chairs, already.
+So part of the toy gets daily use, but really not worth the price.
+My son loves the Mickey Mouse Clubhouse TV show and he really enjoyed this set for a few days.
+Unfortunately the toy didn't hold his attention very long because it was difficult for him to get the characters to go down the slide or in the top of the playhouse.
+He would also get frustrated because he would accidentally pull the airplane off of it's connecting arm and couldn't get it back on easily.
+He does however still play with the Mickey and Minnie figurines the Clubhouse just sits by the toy box.I wish you could buy the other Clubhouse characters individually, but I've been unable to find them on Amazon for a reasonable price.
+The set isn't that expensive, in terms of children's toys these days, so if your child loves Mickey Mouse Clubhouse this might be a good toy for them.
+As a huge fan of Mickey Mouse Clubhouse, my son was thrilled to have a this toy in his home.
+There are plenty of different configurations that he can play with including planes, see-saws, slides, table and chairs, doors that open and close and what he calls a spaceacope (telescope).
+Set was very easy, less than five minutes and no tools are needed, just place and snap.
+The characters that come with the set include Mickey and Minnie, about 2 inches tall and wide, than also have the capability to sit down.
+The planes, chairs,ect are made so they are a perfect fit.
+The colors are nice and bright.
+I would recommend buying the other characters to go with the fly n slide clubhouse like theDisney Mickey Mouse Clubhouse Figurine Deluxe Figure Set.
+There are also plenty of clubhouse toys that would go well with this as future gifts like the space and rescue vehicle sets.
+All in all, this is a wonderful gift that I would highly recommend for the 3-5 year old's.

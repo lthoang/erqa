@@ -1,0 +1,234 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+My sense is she will use the baby a LOT, the accessories some, and the carrier not much (since the baby faces out and can't really ""interact"" with ""mommy"" in that position).
+My granddaughter loves the carrier that comes in the package.
+She's sturdy and cute and will be well received by any little one who loves to play mommy!
+We haven't had any ""interactive"" babies, so my review is limited to our first reactions without anything to compare.
+My granddaughter, carries her baby doll of which she named Peggy, to the grocery store and when we go to the playground, so cute to see her play mommy.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.004031563643366098,0.003489567432552576,0.004205744713544846,0.004417925141751766,0.0032161534763872623,0.005460447631776333,0.0024682970251888037,0.0038539061788469553,0.00467729102820158,0.004863339010626078,0.004246089141815901,0.004942543338984251,0.0034838339779525995,0.0045216563157737255,0.0051537174731493,0.004692435264587402,0.003875677241012454,0.004890974145382643,0.0060794115997850895,0.004558466840535402,0.004596608690917492,0.004709244705736637,0.004471811931580305,0.004632438533008099,0.0034101358614861965,0.003344571217894554,0.005777166225016117,0.004401486366987228,0.005432215519249439,0.00344340642914176,0.005396510940045118,0.005611880216747522,0.003990450873970985,0.0042165969498455524,0.004220930393785238,0.004230858758091927,0.003520258469507098,0.004764285404235125,0.004166924860328436,0.004408310633152723,0.004234464839100838,0.003392958315089345,0.004203622695058584,0.003931548912078142,0.005129436030983925,0.004781210329383612,0.0035938809160143137,0.003645748132839799,0.0045574745163321495,0.00448496313765645,0.00461431872099638,0.004589170217514038,0.004306520335376263,0.002413850510492921,0.004104375373572111,0.0036375229246914387,0.004589563701301813,0.004718218930065632,0.004052910953760147,0.005564892664551735,0.0053065805695950985,0.0029831205029040575,0.005045999772846699,0.00658769765868783,0.003735360922291875,0.004107908345758915,0.005367896519601345,0.0030882558785378933,0.004566285293549299,0.004569596610963345,0.004256541840732098,0.004990535322576761,0.002554316073656082,0.002788173733279109,0.004279393702745438,0.0041535524651408195,0.00601814454421401,0.0070276097394526005,0.0038460013456642628,0.004245173651725054,0.004167990759015083,0.004354303237050772,0.0038526856806129217,0.004590487107634544,0.004249126184731722,0.004319267347455025,0.008317217230796814,0.010325562208890915,0.00469046039506793,0.004956082906574011,0.002501875162124634,0.003959472291171551,0.005072110332548618,0.004385848995298147,0.004276643041521311,0.004410258494317532,0.004370158072561026,0.004159597679972649,0.004389583133161068,0.003155555808916688,0.004512954968959093,0.0046532368287444115,0.0041695237159729,0.004087213892489672,0.004423961974680424,0.0042207189835608006,0.0036312283482402563,0.004446531645953655,0.005372205283492804,0.0044359080493450165,0.003722778055816889,0.007126656360924244,0.004283335991203785,0.004701775498688221,0.0037092852871865034,0.004476923029869795,0.0033485267776995897,0.005109111312776804,0.005313540808856487,0.005231591872870922,0.005511672236025333,0.0039780340157449245,0.003066952107474208,0.004342876374721527,0.004780956543982029,0.005672686267644167,0.006937610451132059,0.002470777602866292,0.005098820198327303,0.0038811650592833757,0.003609604900702834,0.0047024916857481,0.005240564700216055,0.003321924479678273,0.006311557721346617,0.003530162386596203,0.0038690431974828243,0.005103123839944601,0.003914711531251669,0.004106330685317516,0.004922173917293549,0.0027098057325929403,0.0042899539694190025,0.0032246618065983057,0.006776156835258007,0.005806429777294397,0.005706062540411949,0.008599264547228813,0.0033045760355889797,0.004624209366738796,0.004242378287017345,0.004761599004268646,0.004374891519546509,0.004355533979833126,0.004303049296140671,0.004308568313717842,0.004901855252683163,0.0071413712576031685,0.005098193418234587,0.0042851269245147705,0.0055601331405341625,0.004946339409798384,0.0036396023351699114,0.008792515844106674,0.005280491430312395,0.004964708816260099,0.007994012907147408,0.004246571101248264,0.006458428222686052,0.006075902376323938,0.004132768604904413,0.0047503248788416386,0.0033407527953386307,0.005177139304578304,0.005730110220611095,0.004682894330471754,0.003844659309834242,0.007735885679721832,0.004266326781362295,0.0046922508627176285,0.003253054805099964,0.007498601451516151,0.005742350127547979,0.005238131154328585,0.0051110414788126945,0.005313469097018242,0.00470314035192132,0.004352263640612364,0.004885649308562279,0.004125563427805901,0.003812848823145032,0.00456912349909544,0.003210485214367509,0.004476475995033979,0.006114591378718615,0.004785813391208649,0.0035200442653149366,0.004265292547643185,0.0045373872853815556,0.004568899050354958,0.0033084473107010126,0.004285897593945265,0.00426842924207449,0.004824075847864151,0.0045708524994552135,0.0040232460014522076,0.004269644618034363,0.0040891473181545734,0.004294147714972496,0.004544360097497702,0.004299865569919348,0.00436183949932456,0.0035994958598166704,0.0055117374286055565,0.003916596062481403,0.004388305824249983,0.004214912187308073,0.004224749747663736
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+"Little Mommy Laugh and Love Baby Doll was packaged well in a new easy to open box, so no box cutter was necessary, however, the doll was so secured that it took some time to get out.Pros:1) Allows for creative play with nurturing care.
+The doll would be great if there is another sibling entering the family, so the child can play mommy too.2) The doll is a fairly realistic interactive doll.
+She giggles, bounces, has ticklish feet, makes sucking sounds with her bottle and pacifier, she has a nice voice - no volume control- but it isn't too loud or soft (or annoying).
+It has cute baby talk with varying phrases, it burps and supposedly hiccups (ours did not hiccup).3) The doll came with a cloth like diaper with velcro tabs for diaper changes and a carrier, which my daughter seemed to enjoy.Cons:1) I noticed right away the dolls hair was VERY sparse.
+There isn't much 'hair' in the plugs and the plugs are spaced over 1/4 to 1/3 of an inch apart so the scalp is visible all over her head.2) The diaper dispenser does not securely snap together so it falls apart easily.3) The hair bow that goes around her head constantly falls/pops off.4) When the doll is in the carrier she tends to leans forward, the weight of the doll sometimes will cause the tabs to pop out leaving the seat of the carrier unsecured.5) The carrier only allows the doll to be carried on the stomach with the doll facing forward.
+It would have been nice if the carrier was more versatile allowing the doll to face the child or be strapped to the back similar to a backpack.6) The doll is supposed to make a hiccup sound, ours did not, but only burped, which (in my opinion) is unnecessary and kinda gross even if she does say ""excuse me.
+""7) While 'feeding' her with a bottle she makes sucking sounds and bounces, the bounce is a bit over exaggerated and unrealistic - a sucking sound would have sufficed.8) The dolls clothing is not removable for outfit changes and the doll does not come with a comb/brush.I can't say I would recommend this doll since the cons outweighed the pros, especially at the price the doll sells for.
+She seems a bit flawed and needs improvement."
+We got this doll for our daughter, who is about to become a big sister.
+The idea was to help give her something to mimic the things we do with the baby.
+For the most part, it's good.
+There is a good selection of accessories, so lots of choices for things she can do with the baby.
+She really enjoys taking care of it, especially since we've been reading books about babies to prepare her for the new baby my wife is about to have.Some drawbacks: Since the baby has the electronic features, it's not very cuddly.
+Also, the baby carrier works but is not very sturdy when she uses it, the baby flops around and sometimes falls out.
+And perhaps most importantly, I didn't give this a very high educational rating because it's really unclear what age this baby is supposed to be.
+It's young enough to still be having a bottle and puree food, but old enough to ask for a diaper change!
+We probably would have preferred to get a doll that more closely mirrored the things an infant can actually do.Nonetheless, it's a good doll and she enjoys it.One final note, it's pretty ridiculous that the official description of this doll only refers to daughters using it.
+If we had a son, we would have gotten the same type of thing to help him cope with the entrance of a new baby.
+It's not the 1950s people, boys can take care of baby dolls too, sheesh!
+I got this doll for my granddaughter to play with when I babysit her a couple of times a week.
+She really likes the doll but her favorite things to play with are the accesories especially the spoon and the jar of baby food.
+She loves to pretend that she is eating the food and likes to offer it to others.
+I was a bit disappointed in the quality of the clothing.
+I felt that it was sewn a bit cheap.
+The was a pacifier attached to the outfit that lasted about 1/2 hr of play before it came off and my granddaughter was not using it hard or being rough as it was attached and she was gently with the doll.
+My granddaughter likes making the doll laugh and she enjoys it when the doll takes her bottle and eats.
+The doll doesn't fit well in the carrier, it always flips over when my granddaughter tries to carry her in it.
+It has frustrated he so much to the point she doesn't try anymore.
+Nice doll but not sure it is worth the price as I said the clothing was cheaply made and carrier was a fail.
+My two year old daughter has been enjoying this baby doll.
+All the little things the doll does - making sucking motions and sounds when you put her pacifier in her mouth, giggling when you tickle her feet, etc.
+- bring lots of entertainment for my little girl.
+The carrier is nice, as are all the other little accessories.
+And the doll is cute.
+As a reviewer I got this for free, but I have to say that if I was shopping for products like it, I might balk at the nearly $50 price tag, though.
+For me it feels like a $25 or $30 toy.
+So I recommend the doll but don't agree with its price.
+This baby is amazing.
+It's small enough to carry around, but boy is it packed with lots of surprises!
+The sounds and motions the baby makes are not annoying like some babies, but completely exciting to my little girl.
+The package was easy to open and the products it comes with helps this doll playing time go a long way.
+Even the baby food spoon appears to be able to pretend to take away and give food.
+There was a lot of thought put into this doll!
+The hair is a bit funny if you don't keep the bow on though I will say.
+I promise, your daughters will enjoy this baby with all her bells and whistles!
+No toy has ever come out of retail packaging so easily.
+There were none of those big old wire ties that cut your hands and break your nails  protecting said toy from Armageddon.
+Instead of going into my snipping mode, I turned the toy over to see what was involved.
+The first two big circles just had to be turned to set one of the doll parts free.
+Then there were button like things.
+Pull off the tape and then pull the plastic through it.
+There were also a couple of ties and then turns that were easy to undo.
+Amazing.The box that is salvaged by taking the parts out carefully, leaves a little sort of play house for the doll.
+If the doll had a baby it might be small enough to use the table.For the life of me though, this looked like the inside of the Boxcar for the Boxcar children with one pink cup, one spoon...One thing that bothers me is that the doll falls forward when it is in the seat - and it looks like a backpack.
+Should we be teaching children to put the baby in their backpack?Another small problem I noticed was that its tricks cause it not to be a cuddly doll.
+The middle of it is essentially a hard box.Oh, and for the retail price?
+I would not have chosen this one for that price.
+I would have selected something bigger.
+"My three year old is baby doll obsessed, we can't go to a single store without her wanting to ""pet/hug"" all the toy baby dolls.... so of course every new one is a ""mama I NEEEEED it"".
+I personally prefer my girls have one or two nice quality classic baby dolls, no batteries, soft and cuddly, and then accessories to go with them... this worked well with  my older daughter when she was a toddler but not for my youngest, she adores all of the hard, noisy, interactive dolls.
+She was thrilled with this ""baby"" and I liked that it at least looked a bit different with longer hair, like an older baby/toddler (of course I'm not sure why she'd still need a pacifier then or mushy baby food but suspension of disbelief and all my 3yr old doesn't question these things or care).
+Of course like her toy sisters, bath baby, potty baby, dora gymnastics doll.... she's hard.
+There is nothing really snuggly or warm & fuzzy about this doll.... you won't be tucking her in with your little girl at night (you may be making sure she's turned off so your cat doesn't trigger her at night and thus scare the crap out of  you... true story) but your little girl will likely enjoy playing with her, at least until the novelty wears off.
+Then she'll sit forgotten in a toy box for a few weeks until she is dug out and suddenly new again.
+If your girl is like mine and needs lots of different baby dolls I'd say add this one to the mix, she's cute and different from many others... but if you're a one or two doll sort of family, pass and go for a classic instead."
+"Our 2 1/2 year old granddaughter is at a perfect age for baby dolls (yes, the recommended minimum age is 3.)
+Today, I took a morning off work to help out her parents and do Gramma duty with just the two of us so... perfect opportunity to test this toy.Pros:1.
+The talking/baby noises feature is brilliant.
+The grandgirl loves it and figured them out quickly.
+Squeeze her hand and she speaks several phrases or makes baby-babbling noises.
+Put her binky or her bottle (or a little girl finger) in her mouth and she makes sucking noises and moves her head.
+Brush something against her foot and she giggles and declares that it tickles.
+Pat her ""back"" a few times (there's a broad, flat trigger between her shoulders)and she burps or passes gas and excuses herself.
+Her voice is high pitched, but clear and not at all too loud.2.
+The accessories are cute.
+The ""wipes"" container is not a success for little bitties - too much fussing to make it work and the pieces are highly ""losable"" - although an older child might have better luck.
+The ""powder"" is cute and I loved watching her powder the baby in all the places her Mama and Daddy powder her.
+Baby also has a ""magic"" spoon gimmick that's cute but not impressive.
+There is also what I think is supposed to be a container of baby food (although not sure why its lid has holes in it.)
+Her baby carrier is cute; doesn't stay on well.3.
+Reasonably good play value.
+"The doll has a string of pleasurable phrases and sounds that make my 3 year old's face light up in return.
+It comes with enough accessories to occupy but not overwhelm.
+Prepare yourself for the burp--it sounds like a frog.
+And then the baby giggles, ""Excuse me,"" which seems awfully polite and advanced for a baby.
+My daughter and older brother find this VERY funny in a campy kind of way.
+We haven't had any ""interactive"" babies, so my review is limited to our first reactions without anything to compare.
+My sense is she will use the baby a LOT, the accessories some, and the carrier not much (since the baby faces out and can't really ""interact"" with ""mommy"" in that position).
+And no, this doll doesn't pee, thank goodness.
+There is a diaper to change but no water-gun-style wetting."
+"First off a lot of people have stated this doll is pricey BUT it is average price for an interactive doll so please take this into consideration.I got this for my niece to play with when she comes to my house to spend the weekend and she loves it.
+This doll speaks, burps, makes sounds while eating, laughs when you tickle her feet, and she moves.
+She comes with a lot of accessories including a carrier, pacifier, bottle, diaper, jar of baby food, spoon, and baby powder.
+She comes with everything your little girl needs to make this baby come to ""life"".
+The doll is a little loud but not annoyingly loud.
+Overall I am very happy with this doll because it makes my niece happy."
+"Little Mommy Laugh and Love is very cute.
+She giggles, laughs and says quite a lot of different phrases.
+The disappointment is in her accessories and everyone knows little girls love their accessories.
+The carrier is useless, the doll doesn't stay in it basically unless you are sitting down, the minute you try to carry her around she flops out onto the floor.
+So frustrating, why even include it?
+Her headband refuses to stay on too.
+Seems to me they could have sprung to make it another 1/4 inch bigger so it would stay on her head.
+I threw away the carrier, headband and slip of fabric that is supposed to be a diaper that doesn't stay on either.
+Just not worth the aggravation.
+The ""magic"" feeding spoon is just silly.
+Your little one has to push the little lever to make food appear and/or go way like the doll ate it.
+My little one still hasn't figured it out.I wish they had tried harder with the accessories or not put them in at all.
+If you love the doll itself, I would recommend taking her out of the box and getting rid of everything except the doll (and her clothes that don't come off for some reason) and just give the doll by itself to your child.
+For the price though, I definitely expected more out of Little Mommy Laugh and Love."
+My niece now has yet another baby doll to capture her attention!
+She loves her little mommy doll and has affectionately named it Gaby.
+I couldn't be happier!
+"This is an adorable doll, such a cute face and love her hair!
+Her accessories are great for young kids, my 3 year old loves everything EXCEPT the carrier.
+She just turned 3, and the doll was an added birthday present.
+There are so many dolls out there, but this one seemed really cute and loved the idea of having the carrier that my daughter could use for the baby.She was so excited with the baby... cute.. great size, good amount of accessories.. and all the accessories are nice except the carrier and diaper in my opinion.
+The diaper just falls off, velcro straps not big enough and awkward.
+We tossed it- and that wasn't a big deal.... but the carrier is the main part of this baby doll... My daughter was excited to put it on which was a little rough.... but we finally got it on her and she couldn't wait to put the baby in.
+With a smile so big on her face she started to walk with baby in the carrier on her chest.. when carrier snapped off and baby fell out.. it was not a happy moment from then on.
+The carrier can not support the babys weight... baby is just to heavy and leans over the carrier and as your child starts to move.. the baby just knocks out the plastic tabs (which are so small...) It should have been 1 complete piece to slide baby in and out... not 2 separate pieces that ""semi snap"" together.
+Very cheaply made.
+The carrier has since been hidden as it repeatedly fell apart to the point I got frustrated with it.I almost rated this 2 stars because of the carrier as I feel the carrier is a huge part of this purchase for others.
+But the doll is cute and rest of accessories are nice.
+Even though it has a hard stomach my daughter doesn't seem to mind cuddling with it.
+She can easily tickle the feet, burp baby and more.
+And it has become one of her favorite dolls... so I've rated her 3 stars for now but please be aware on the carrier.
+A 2 piece carrier is never a good idea.. We did try with a ""lighter"" baby and it did hold her longer but as your own child moves about and hits the baby or such it still comes apart:(One thing that bothers me is that the doll falls forward when it is in the seat - and it looks like a backpack.
+Should we be teaching children to put the baby in their backpack?Another small problem I noticed was that its tricks cause it not to be a cuddly doll.
+"I thought my two year old daughter would like this doll, and I am so happy to report that for once, I was right on the money.
+It only took a few minutes for her to figure out how to ""feed"" and ""pacify"" the baby to get her mouth to make the sucking motion, and only a few seconds after that to realize that the baby would also suck her finger.
+The ""giggling and laughing"" is not realistic sounding, however it doesn't sound like cries of despair and destruction either.
+The little carrier is nice, and we have not had any of the issues with the doll falling out that others have reported.
+Partly due to my daughters age, we haven't really used any of other accessories (aside from the bottle and pacifier) so I can't speak to those, but this doll has seen enough playtime at our house for me to deem it a ""successful"" toy."
+At first glance this Little Mommy baby doll sort of reminded me of the Baby Alive dolls which are very cute!
+Even though this doll is interactive it has pretty good features.
+She says about 4 phrases when her hands are squeezed and feet are tickled.
+She also bounces up and down and burps after her feeding.
+She comes with a good amount of accessories such as a carrier, bottle, teething ring and food.
+I did notice that she was made very round and bulky like,she was very easy to remove from the package and also came with her own batteries which was a plus.
+My daughter is enjoying her so far and hopefully she keeps her attention.
+I took this out of package and was instantly a hit She loved playing with it and carrying it around She is constantly tickling her feet to make it laugh I love it
+Little Mommy Laugh and Love Baby Doll is a sweet baby girl that measures about 13 inches tall.
+She is make of firm but soft plastic and has blue eyes and blond hair.
+You squeeze her right hand and she says all kinds of phrases in a cute baby voice, while her upper body & arms bounce up and down, just like a real baby!She has ticklish feet and sucks on her bottle & pacifier, which are included accessories.
+She burps and hiccups, too!She comes already fitted with 3 AA batteries, and has a pink baby carrier, magic bottle, spoon & bowl set, a ring with pacifiers and more.She's very cute with an adorable little voice.
+She's recommended for kids over the age of 3, and I think she'd be a great gift for a little girl  3 or 4 years old, either for a birthday, holiday, or to accompany a real baby sibling; to give your little girl something special she can help out with, and allow her to play mommy too!Compared to other dolls in her price range, I recommend her.
+She's sturdy and cute and will be well received by any little one who loves to play mommy!
+My daughter is only 1, so she's not quite in the suggested age range for this toy.But she LOVES it.
+She quickly learned how to put the bottle in the doll's mouth to make the sucking noise.
+She does it with her finger too.She hugs this baby doll and also tosses it around, and it holds up wonderfully.It also is a very cute baby doll and not at all creepy the way that some of these baby alive dolls are.I think this doll is wonderful for many ages.
+It's got enough for an older child, but it's actually good for younger toddlers too.
+This is a great doll for kids that love techy things.
+Kids in this age expect their dolls to do something.
+After all, their video games do everything.
+This doll has all sorts of super fun features that make it great for an older child of 6 or 7 to play with.
+Not for really young kids as she's not super cuddly.
+She's more of a hard interactive doll rather than a cuddle doll.
+Very cool toy for the price though and worth it, make a fantastic gift.
+I am so impressed with this product.
+My 6 year old granddaughter absolutely loves it.
+Just the right size and the accessories keep her entertained for hours.
+The Baby doll is adorable as it makes baby talk and giggles when you tickle her feet.
+My granddaughter loves the carrier that comes in the package.
+This Baby doll is a hit with her friends too.
+It does stimulate imagination so to a degree it can be considered educational especially as I explain the importance of good child care.
+My granddaughter, carries her baby doll of which she named Peggy, to the grocery store and when we go to the playground, so cute to see her play mommy.
+I highly recommend this toy as a perfect gift now that the holiday season is quickly approaching.
+This is a winner.
+"We got the Little Mommy Laugh and Love Baby Doll for one of our daughters who just celebrated a birthday.
+She's only a day into her new venture as a ""little mommy,"" but has been very excited about her new baby and is bringing her all around the house.
+She especially loves the realistic movements and sounds.Here are a few of my initial thoughts on the toy:*Keep some batteries on hand.
+The doll requires 3 AA Batteries*While the doll seems to be of decent construction, some of the other accessories are of cheap plastic, so I'm not sure how long they'll last.Some of the other reviewers noted problems with the dolls after several days of use, so I'm a still a bit jury out on that front.
+However, at this point after seeing my daughter's happiness with with doll after opening it yesterday, my overall rating is 4 out of 5 stars."
+"We ordered this product for my little girl's 7th birthday.
+She goes in and out of stages where she likes baby dolls.
+She LOVED this doll because of all the sounds she makes and the carrier and the food/bottle that come with her.
+We had to figure out how to make the baby make the sucking sound when the bottle was up to her mouth.
+Finally, I think we flipped a switch on the doll, and she started doing it.
+My daughter really loved ""taking care"" of her baby.
+She would pack all of her baby doll food and supplies in her purse and take it everywhere she went.
+Unfortunately, when my husband took my daughter school shopping at Walmart my daughter brought her purse full of baby supplies with her.
+She put it in the front of the cart and stepped a few feet away with my husband.
+In plain view of my daughter, a teenage boy grabbed her purse and took off (probably thinking it had money in it, which it did not).
+My daughter was in tears.
+Not only was her purse and all her baby doll supplies stolen, but she had never really experienced how rotten some people could be.
+This happened a few days after her birthday.
+She still loves the doll, but all the gear that came with it are gone.
+In the short time that she had the gear, she really loved playing with it.
+The only negative is the high price tag.
+This is one adoraable doll.
+It talks, burps, hiccups and sucks on a pacifier.
+You can interact with her hands, her feet and her mouth.
+She has a lovely pink carrier and several toys to add to the fun.
+She is soft and cuddly.
+You just want to hug her.
+It's a perfect gift for a little girl 3-5 years old and reasonably priced for the value you get.
+I highly recommend this doll.
+"I got this doll for my grand daughter and she really loves it.
+With the accessories it comes with and the fact that it talk and makes eating sounds, she can play with it for hours.
+The doll itself is very cute with beautiful facial features and hair to brush.
+The doll is hard in the middle so not exactly cuddly but she seems to still enjoy carrying her around and taking ""care"" of her."
+I was excited to try out this bouncing baby that looks so cute with her multitude of accessories.
+She has a cute little voice but when I tried out the bottle and binkie her mouth didn't do anything.
+I called the company and they said to try new name brand batteries.
+Finally I managed to get to the store and remember what size- 3 AA's.
+Not in the convenient double pack- you need a BIG pack or two small ones.
+The batteries are not easily accessible as the little romper is sewn on.
+New batteries made no difference.
+In fact they look exactly like the old ones so I had to be careful to keep them separate from the extra new ones in the package.
+I'm not a fan of toys requiring batteries to begin with.
+I tried calling the company again but they close at 6 pm eastern time.
+That makes it hard for those of us in the mountain or pacific time zones that work.
+They also aren't open on weekends.For 50 bucks I'd pass and get a nice soft cuddly doll that can survive a trip in the washing machine when needed and won't need batteries.
+This doll has weird legs with no padding when you go to diaper it.
+Not something a child is going to find attractive or desirable or easy to deal with.
+The idea was good but it fails in execution.
+it might be love at first sight but not the kind that endures for an extended period of time.Update:  My daughter loves this doll.

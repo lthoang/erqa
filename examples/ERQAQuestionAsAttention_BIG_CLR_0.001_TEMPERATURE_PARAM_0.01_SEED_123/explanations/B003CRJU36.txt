@@ -1,0 +1,147 @@
+Top question(s):
+Our Alphie doesn't have a cartridge. Are the cartridges just for the various booster packs that you can order? Just making sure.
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+)The range of things to learn about and do are vast: from color exploration  to words and letters, to music composition, shapes and sounds, you're going to see it all in Alphie.
+I'm not sure what the manufacturer could do differently, but I don't see these cards lasting very long as it is.
+Five stars.
+Also its sturdiness is impressive.
+The games and songs are fun and they keep our girl entertained.
+
+Question attention weights:
+0.5227576494216919,0.014456227421760559,0.46278616786003113
+Sentence attention weights:
+0.01027159858494997,0.010705326683819294,0.0046966769732534885,0.003486792789772153,0.005701362155377865,0.0064706276170909405,0.01024818979203701,0.01024818979203701,0.004676335491240025,0.008928898721933365,0.007374925538897514,0.007483478169888258,0.01117277704179287,0.009051279164850712,0.006325148977339268,0.004306932911276817,0.007687053177505732,0.006905868649482727,0.007910476066172123,0.004194640088826418,0.006189188454300165,0.0037263864651322365,0.00842890702188015,0.005997480824589729,0.008056389167904854,0.009998065419495106,0.009232093580067158,0.0062652346678078175,0.009493011981248856,0.01187053695321083,0.010799783281981945,0.011170651763677597,0.01170493382960558,0.00959902536123991,0.00800216943025589,0.010590250603854656,0.007229796145111322,0.008914554491639137,0.006747538223862648,0.010502134449779987,0.010502134449779987,0.007464153692126274,0.007971497252583504,0.007450981065630913,0.011403144337236881,0.005925050005316734,0.007746895309537649,0.005947347264736891,0.005085775628685951,0.00805567391216755,0.005778099875897169,0.0195488128811121,0.005048841238021851,0.006554427556693554,0.011947724036872387,0.008696385659277439,0.010445409454405308,0.0034647323191165924,0.005051088985055685,0.01344763021916151,0.005655942019075155,0.005615954287350178,0.00874301791191101,0.0046215965412557125,0.011039233766496181,0.011522202752530575,0.005564591847360134,0.00843566283583641,0.004785067867487669,0.004948653280735016,0.0059018805623054504,0.006272207945585251,0.008757110685110092,0.008457041345536709,0.004924995359033346,0.00603426294401288,0.003069521626457572,0.005332140251994133,0.005776158068329096,0.004932290408760309,0.010029759258031845,0.007404711563140154,0.00674166576936841,0.010755862109363079,0.0028066900558769703,0.011368381790816784,0.008850568905472755,0.00922700297087431,0.011102404445409775,0.005597768817096949,0.008350643329322338,0.011207794770598412,0.010393373668193817,0.010587099008262157,0.010131234303116798,0.0078963628038764,0.008251827210187912,0.011290649883449078,0.00919292401522398,0.006897414568811655,0.010318917222321033,0.010347173549234867,0.011106552556157112,0.005537810735404491,0.008430692367255688,0.00375501555390656,0.008987163193523884,0.004412846174091101,0.007685334887355566,0.008625603280961514,0.007636439520865679,0.007066159509122372,0.008405148983001709,0.006756090559065342,0.005850915797054768,0.004805064294487238,0.0045926072634756565,0.010626266710460186,0.004257097374647856,0.006227555219084024,0.00907453428953886,0.007275910582393408,0.009942607022821903,0.008228407241404057,0.010818293318152428,0.010855630971491337
+0.009623894467949867,0.008774775080382824,0.004174250643700361,0.003262857673689723,0.006080439779907465,0.005782799795269966,0.00880400463938713,0.00880400463938713,0.006581742782145739,0.007804438006132841,0.009667772799730301,0.006229165941476822,0.009574271738529205,0.007696027867496014,0.0062715099193155766,0.003230702830478549,0.008132223039865494,0.0053024739027023315,0.007366979029029608,0.0047599864192306995,0.005982981063425541,0.005304677877575159,0.007198168896138668,0.005952904000878334,0.008432513102889061,0.009157249704003334,0.007998360320925713,0.006254174280911684,0.008547818288207054,0.010409546084702015,0.010120195336639881,0.009889431297779083,0.010767694562673569,0.011171890422701836,0.0069487434811890125,0.009206877090036869,0.006922802422195673,0.007657154928892851,0.007653254549950361,0.00904527585953474,0.00904527585953474,0.006216940004378557,0.007688848301768303,0.008521209470927715,0.011945058591663837,0.007304230704903603,0.009201263077557087,0.006289475131779909,0.007131863385438919,0.007475998252630234,0.009078926406800747,0.019365722313523293,0.00691102584823966,0.009931237436830997,0.009894114919006824,0.00800173357129097,0.009196968749165535,0.004059222526848316,0.0037318726535886526,0.009077376686036587,0.005038136150687933,0.004213322419673204,0.0066242641769349575,0.006295796949416399,0.010112611576914787,0.010633199475705624,0.006270873360335827,0.009263402782380581,0.005982202012091875,0.008692760020494461,0.009727594442665577,0.005214997101575136,0.008406293578445911,0.00814247690141201,0.00783856213092804,0.010329888202250004,0.002980106510221958,0.005477121565490961,0.006815001834183931,0.005543903447687626,0.008996563032269478,0.006490800995379686,0.006744030397385359,0.01938471570611,0.004528122954070568,0.01024894043803215,0.008275620639324188,0.008868112228810787,0.009868841618299484,0.005198915023356676,0.007863014005124569,0.010238348506391048,0.009126054123044014,0.009194709360599518,0.008621717803180218,0.006770448759198189,0.006275389343500137,0.010087795555591583,0.008440734818577766,0.006777291186153889,0.009421374648809433,0.010914660058915615,0.010618607513606548,0.005130375269800425,0.007618074771016836,0.004061208572238684,0.011832949705421925,0.0030494669917970896,0.0123947998508811,0.00806160643696785,0.0065903435461223125,0.006865553557872772,0.007025637663900852,0.005702885799109936,0.005753897596150637,0.005334400571882725,0.006296779029071331,0.010125651024281979,0.005633877590298653,0.006238886155188084,0.016229212284088135,0.007788670249283314,0.010612043552100658,0.006817957852035761,0.009431176818907261,0.012232840992510319
+0.010231022723019123,0.010747678577899933,0.004701582249253988,0.0034701840486377478,0.0057284156791865826,0.00652700150385499,0.010168824344873428,0.010168824344873428,0.004724132362753153,0.008859937079250813,0.007331877015531063,0.007480777334421873,0.010942394845187664,0.00906227994710207,0.006219674367457628,0.004548987839370966,0.007559327874332666,0.007134166546165943,0.007717624306678772,0.004223398864269257,0.006222108379006386,0.003702864982187748,0.008304781280457973,0.0062729124911129475,0.008058504201471806,0.010030883364379406,0.00913836807012558,0.006128500681370497,0.009572628885507584,0.011828752234578133,0.011162503622472286,0.011124752461910248,0.011725849471986294,0.009680716320872307,0.00784101989120245,0.01051952876150608,0.007169863674789667,0.008880949579179287,0.006940789055079222,0.010418370366096497,0.010418370366096497,0.007505139335989952,0.007940634153783321,0.0073350523598492146,0.011524535715579987,0.005942707881331444,0.007863270118832588,0.006037955638021231,0.005159120541065931,0.008018429391086102,0.0055889892391860485,0.0202152319252491,0.005010960623621941,0.006723195780068636,0.01197872869670391,0.008706629276275635,0.010344511829316616,0.0034611504524946213,0.005272054113447666,0.013571308925747871,0.005661275703459978,0.005620564334094524,0.008912786841392517,0.004445541184395552,0.010930262506008148,0.011500803753733635,0.0055424789898097515,0.008561288937926292,0.004685546271502972,0.00512746861204505,0.005674222018569708,0.006272981874644756,0.008793443441390991,0.00841871090233326,0.005097416695207357,0.006116152741014957,0.0032022143714129925,0.005627801176160574,0.005500047467648983,0.00516852829605341,0.00990130566060543,0.007355275563895702,0.006944730412214994,0.010553291998803616,0.002843955298885703,0.011331580579280853,0.008867836557328701,0.009369968436658382,0.011024060659110546,0.005577576346695423,0.008240791969001293,0.011220971122384071,0.010326385498046875,0.010527429170906544,0.01005591731518507,0.00793730840086937,0.008170824497938156,0.01129461545497179,0.009198172017931938,0.006866692565381527,0.010304122231900692,0.01009226031601429,0.011408691294491291,0.005583364050835371,0.008406841196119785,0.003759061684831977,0.008665578439831734,0.004652609117329121,0.007619563024491072,0.008500441908836365,0.007522715721279383,0.007077242247760296,0.00837058573961258,0.006606511306017637,0.005708074662834406,0.004797298926860094,0.004548219032585621,0.010567729361355305,0.004169184248894453,0.006251538638025522,0.008806402795016766,0.007402813993394375,0.009973620064556599,0.008289402350783348,0.010757018812000751,0.01080012135207653
+Questions:
+Our Alphie doesn't have a cartridge. Are the cartridges just for the various booster packs that you can order? Just making sure.
+i need help mine didnt work and i cant return it since im outside USA help!!!
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+For my 3 year old, this robot is a lot of fun.
+My 6 year old is way past the age of this toy, which makes me believe the age for this toy is around 2-4.
+The robot part is quite sturdy, and so far we did not have any issues with the cards being read by Alphie.
+I'm sure that part of the reason is because we're very careful with the cards and don't keep them in the card compartment in the back of the robot.We had this toy in the main playing area for a few months and it still works - which is quite an accomplishment.As a parent, one feature that I particularly like about this toy is that it can provide plenty of entertainment with the start-up package of cards - without having to buy the additional package of letters or numbers.
+There are plenty of educational toys in the market that do not share this convenience.
+Another reviewer mentioned some of the topics included on cards (Songs, Letters, numbers.
+etc.)
+which keep my 3 year old quite interested.
+I must concur with another reviewer that Alphie's voice is pleasant and cute.
+Overall, very recommended.
+"If you grew up in the 1980's you probably remember Alphie - that fun loving robot that taught you all about colors, letters, numbers, math, and more.
+He is back - and better than ever with a new upgrade, this time sporting a much better animated face instead of the plastic face we all remember.
+My three year old son has been playing with Alphie for the last week and he loves him.
+He has an electronic voice that is a lot of fun and not at all as annoying as I imagined it might be.
+My son got mad at me a few times for ""taking over"".He seems well built and sturdy, but I will update my review if that changes.[...
+]Some of the cards in the starter pack include:-- Quick Start Guide-- Matching-- ABC Song-- Music Composition (neat card!
+Keep adding instruments for new sound combinations!)
+-- Counting Song-- Color Exploration-- Letters-- Numbers-- ShapesThere is also a ""Hide and Seek"" mode.
+Just push the button on top of Alphie's head and he asks you to find a card with a description.
+For instance, find a card that has pink on it.New booster packs are available on amazon with at least 2 more slatted for release according to in the information in the box.The cards are stored on his back when not in use.
+My only complaint and recommendation is for some type of clear plastic that the card could slide into on the front instead of just sitting loose in the small slot on the bottom.
+The plastic card tends to 'lean forward' and I am afraid could become badly damaged with regular use by small children.Highly recommended!!!"
+I have three young grandkids and sometimes I really don't feel like sitting on the floor and playing with cars.
+This toy, however, captivates me so I am more inclined to spend time playing with them.While they may only play with the toy for about 15 minutes at a time, I can cycle through the kids and, after 45 minutes, the first baby is ready for Alphie again.
+My three year old loves this toy.
+The voice is very clear and distinct.
+The cards are easy to insert and store.
+The front panel buttons give many options for different sights and sounds.
+Very entertaining and yet educational.
+Also its sturdiness is impressive.
+We purchased this for our 2 year old for a Christmas gift, mostly due to my wife's nostalgia for when she had Alphie as a kid.
+It was a big hit.
+The games and songs are fun and they keep our girl entertained.
+She can listen to the ABC song over and over for an hour.
+Now that she is 3, she is starting to get better at the games and it is still keeping her attention.
+We purchased two additional sets of cards for more games and fun.
+Aplhie has a great holder for the cards attached to his back, so it is pretty well self contained.
+Highly Recommended!
+Everyone child needs an Alphie.
+This is the only preschool learning toy you will ever need.
+Great for 3 years and up.
+It can help with kindergarten and even 1st graders, and my 10 and 12 year olds loved playing with this.
+This is just an amazing toy.
+I got one 30 years ago for my son and now this new updated one for my grandson.
+Great Christmas or birthday gift.
+With a robust construction, Alphie's going to last a very long time even at the hands of a wild and wooly toddler.
+This is essentially an introduction to computers for the little ones: I liked the speech engine with cute electronic voice and the enchanting music.
+The flashing LEDs and the information screen hold the attention of my son and my niece as they played.The plastic-encased cards are well-made and stiff, showing a good construction.
+They slide easily into Alphie's slot and line up with the buttons that Alphie uses to test and inform your toddler.
+The letters, words, and images on the cards themselves are clear, colorful and easy-to-understand.
+Removing a card unceremoniously before the sequence ends--and this will happen--simply has Alphie reset to his default start up mode instead of crashing or something (I wasn't sure what was going to happen!
+)The range of things to learn about and do are vast: from color exploration  to words and letters, to music composition, shapes and sounds, you're going to see it all in Alphie.
+The expandability is a great feature, as you can buy more cards, and other add-ons as your toddler progresses up the knowledge ladder.
+The battery life is more than adequate: my Alphie has been in use for about 6 months without needing to replace them.Delightful, entertaining, and educational.
+Five stars.
+My daughter loves this toy.
+I think it is a great educational resource, as well.
+The only issue I have with it is the cards that slide in and out of Alphie.
+It is very easy to lose them or to bend them when my daughter is playing with Alphie.
+I'm not sure what the manufacturer could do differently, but I don't see these cards lasting very long as it is.
+"My three year old son loves this toy so much that twice in the past two days he has (briefly) refused to go to dinner because he wants to play with his ""o-bot.
+""It may be helpful that he really, really likes robots, but he's three - at his age, I think most children do, which just shows thought and care by the manufacturers of this toy.He plays with this a lot and has already shown that he's learned quite a bit, but the learning style - multiple choice and matching games - is basically one type of learning, which limits its usefulness.
+That said, for that type, I can't think of a more ideal tool that this robot.As a parent, I appreciate that the robot's voice isn't grating or overly artificial, but robotic enough for a child to find it ""cool"" and entertaining.
+Honestly, the only downside of the voice is that his older brother's impression of it is .
+.
+.
+less than thrilling.The only serious flaw is that this unit works off of rather flimsy laminated paper cards that are poorly secured.
+Well, not secured at all, actually, but just stores in a slot in the back.
+It takes constant vigilance to make sure that cards don't go missing, and a few have anyway.Overall, an excellent toy that will provide hours of entertainment to the ""o-bot"" lover in your family."
+"Playskool revives an old childhood favorite with ""Alphie.""
+For children who grew up in the late 1970's and early 80's, ""Alphie"" was a popular toy that taught children basic educational skills.
+This updated version features thirty double-sided cards that provide hours of fun and education.
+These cards can be kept in a slot in Alphie's back.
+The robot also features animated eyes that change based on responses given by children.
+His mouth also lights up with a bright blue color while he's interacting with children.I have a three year-old son who has played non-stop with Alphie since he's arrived at our home.
+He enjoys ""talking"" with Alphie as they look for solutions to the various activities on the cards that come with Alphie.
+He also likes to count with Alphie as well as sing the Alphabet Song with him.The cards offer up activities that range from mathematics to color identification and other varied activities such as animal noise identification and recognition.
+In order to play each game, the child simply has to place one of the cards in the front slot of Alphie.
+Once the card is in, Alphie lights up and tells the child which activity he wants to play with them.
+From there, children give answers and responses to Alphie via the eight light-up buttons on his chest.
+There is also a button on the top of Alphie's head that children can use.
+If no card is present in Alphie's chest, he suggests a game where he asks children to find a card with something on it that is a specific color, has a number on it, etc.
+Children can then look through the cards and try to find what Alphie is looking for.While the activity cards are loose and have no sort of attachment to keep them all together, my son has had no problem keeping up with all of them.
+We have set up designated areas for him to play with Alphie and keep tabs on him while he's playing with the robot to prevent the loss of any of the cards.
+We also allow him to take Alphie on the road with us, but do not bring all of the cards with us in order to lessen the chances of losing any of the cards.Expansion packs of the activity cards are available at most department stores to keep your child interested in playing with Alphie once they've tired of the pack that is included with the robot.The only potential problem I've found with this toy is that Alphie will sometimes ""lock up"" and quit responding to our son.
+My daughter is 16 months old so she's a little bit young for the age that they suggest:  3 and up.
+However that didn't stop her from playing with it.
+It's simplistic enough for any child to use (buttons flash and you simply put a card in a slot) but interesting enough that it can keep a child's attention for some time.
+My only concern is that the cards that come with it can get torn rather easily.
+That may cause the robot to not be able to read the sensor and make them useless.The robot itself is VERY durable and can be easily carried around.
+Just make sure your child is at an age where he/she knows how to take care of the cards and can follow simple instructions and this robot should last a very long time!
+I have twin boys, who are obsessed with robots.
+This thing is awesome.
+It has a handle, they can take it anywhere.
+It makes faces.
+You can store the learning cards right in the toy in it's backpack.
+It lights up, sings, plays music.
+Plus, they learn.
+Has replacement packs and upgrades too.
+Recommended!PS- this is cheaper at ToysRUs or Target.
+My wife and I got this for our four-year old daughter.
+She's been using a computer since she was three and we needed something that was electronic that would hold her attention off the computer (preferably non-video game related).
+Alphie ended up fitting in perfectly.
+Despite the fact that she's a bit advanced for games and activities it has, it keeps her interested for quite some time.
+She's now showing our 6-month old how to use it, so it's likely to become a good starter for her, as well as an excellent bonding tool for the both of them.Each card has two sides, each with a game/activity.
+They they range from simple shape matching to letters and math, which I'm quite interested is seeing how my youngest takes to it as we'll use this as an introduction to math and letters.
+We also find it quite amusing that Alphie seems to have a bit of a personality... it'll come up with all sort of comments between games and steps, such as 'hold on while I drink a glass of water' or 'could you scratch an itch' (complete with button blinking that you must push to sooth Alphie).
+Alphie will also provide hints at the right answer if the wrong one is selected.We've had only two minor complaints about Alphie... first, one of the cards isn't recognized.
+No matter what we do or how it's inserted, there's one card that can't be read by Alphie.
+The second complaint is durability... the cards are thin laminated cardboard, very similar to a good set of playing cards, so they will bend and wear easily.
+After a month of use, they've seemed to have stayed in better shape then I expected, but they are beginning to show a bit of wearing.
+I think once my younger one gets hold of it, the cards won't last much longer.
+Kids can be a bit rough with toys and laminated cardboard isn't quite forgiving.
+The cards also limit how young a child can be before they use this toy unsupervised.
+If my daughter had this when she was two and I walked out of the room for three seconds, I would come back to a pile of bent up and mangled cards.
+So, overall two is a bit too young for the cards and four is a bit too old for the lessons... that leaves a small age window where Alphie would be best suited.
+"Though the robotic voice can get annoying for parents (thankfully, it at least has a ""softer"" setting), my three-year-old loved this learning toy.
+It's very simple to use and, after showing him how to insert the first card and how the buttons next to each card segment worked, he could put in new ones and play by himself.The instructions are given clearly for a preschooler and he was excited to hear how well he was doing.
+The simple cards are mostly matching type games (animals, numbers, letters, colors, shapes, professions ... that sort of thing), though they phrase the questions differently so each picture on a card represents at least 2-3 questions.
+My son also enjoyed the letter, number and music cards, which were a little different and more fun to just play with (singing or creating songs), rather than sticking to the just the  matching game format, which would probably get old more quickly.I think three is about the perfect age for this toy.
+He's already been introduced to most of these concepts, so the questions are familiar enough to make sure he doesn't get frustrated, but challenging enough that he still has interest in answering them.Within about 10 minutes of playing, he was dancing with his ""friend"" and giggling at the the little corny jokes the robot made--like needing ""a drink of water"" (with sound effects) or having my son ""scratch an itch.""
+My little one was answering the robot back pretty quickly and singing along to things like the alphabet song or counting to 10.
+(""I'm dancing!
+"")All in all, this is a really cute toy and I think my son is learning at least a little something while playing with it.
+And he's definitely having fun.
+As my son summed it up best: ""Look mommy, there's so much cool stuff."""

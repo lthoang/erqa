@@ -1,0 +1,179 @@
+Top question(s):
+Is this puppy to advanced for 20 month old to play with?
+where may I buy the glitter lease  for the glitter edition gogo my walkin' puppy??
+Top sentence(s):
+Luckily, the dog is attached to a leash so it's not really an issue.
+I thought how creative and imaginative that she already named her dog, until I looked back at the box and saw the name ""Glitter Go Go"".
+As a father of a daughter, you do things that you wouldn't get caught dead doing otherwise.
+"Glitter Go Go Walkin' Pup ... or Belle as she has been named ... is a big hit in this house with my 4 year old niece.
+She loves to walk Glitter, play with her so she barks and wags her tail and with a small brush set, she loves to brush her and play with her soft fur too.
+
+Question attention weights:
+0.15341773629188538,0.2879268527030945,0.19600442051887512,0.23311011493206024,0.12954095005989075
+Sentence attention weights:
+0.00710310647264123,0.006640960928052664,0.005491246469318867,0.007091400679200888,0.007361960597336292,0.006280316971242428,0.008596020750701427,0.009306258521974087,0.004701121710240841,0.005447977688163519,0.005691566038876772,0.005170533899217844,0.006268810480833054,0.006529584527015686,0.006136106327176094,0.004745639860630035,0.004803927149623632,0.0075378124602139,0.005800200626254082,0.005388233810663223,0.0042360881343483925,0.0050016408786177635,0.0045680878683924675,0.008237875066697598,0.005951276980340481,0.008154445327818394,0.006404260639101267,0.006774737033993006,0.004932166077196598,0.007145042065531015,0.004973975475877523,0.004880993627011776,0.006404260639101267,0.008086007088422775,0.006465025711804628,0.006442626006901264,0.006189511623233557,0.00780540332198143,0.008921747095882893,0.006443148013204336,0.003595982678234577,0.005784017965197563,0.006538498215377331,0.005364530254155397,0.006441030185669661,0.00712598254904151,0.0065275803208351135,0.005508409347385168,0.006849302910268307,0.007548304740339518,0.005459988955408335,0.005847971886396408,0.004555985331535339,0.006891594734042883,0.008189086802303791,0.0063095055520534515,0.007108274847269058,0.006411730777472258,0.01005998719483614,0.006680754944682121,0.0075790067203342915,0.004971418995410204,0.006593506783246994,0.005805797874927521,0.003400794928893447,0.006986568216234446,0.008258595131337643,0.006428265478461981,0.0064155338332057,0.006428814027458429,0.005476253107190132,0.006155679002404213,0.0068456195294857025,0.0038612743373960257,0.006822634022682905,0.005156401079148054,0.007332969922572374,0.011804779060184956,0.006443847436457872,0.007684506010264158,0.005797582678496838,0.006680040620267391,0.006513295229524374,0.003756796009838581,0.00565244210883975,0.006634974852204323,0.005282566417008638,0.006619324441999197,0.0071326252073049545,0.012751341797411442,0.010082822293043137,0.005084348376840353,0.004025805741548538,0.009248476475477219,0.005537156946957111,0.006151373963803053,0.006193113978952169,0.007061087992042303,0.005587267689406872,0.005428386386483908,0.006506568752229214,0.007878218777477741,0.009381958283483982,0.007130691781640053,0.00530148996040225,0.006719070021063089,0.007066018413752317,0.006836524698883295,0.006286241114139557,0.0063026356510818005,0.008978047408163548,0.009349552914500237,0.005362944211810827,0.005773467477411032,0.004183701239526272,0.005210826639086008,0.006949495989829302,0.007505103945732117,0.006487430073320866,0.006090372800827026,0.006778618786484003,0.013118105940520763,0.006297379732131958,0.005974613595753908,0.00628034258261323,0.005274011753499508,0.006407707463949919,0.006360682193189859,0.0068373242393136024,0.0073864636942744255,0.007297472562640905,0.00810917653143406,0.0033549033105373383,0.003437682753428817,0.006297379732131958,0.006524140015244484,0.006501089781522751,0.006658472586423159,0.006292587146162987,0.007881826721131802,0.0052206567488610744,0.006001385394483805,0.006810429971665144,0.005345645360648632,0.007163858972489834,0.005600165110081434,0.006012560334056616,0.004452280700206757,0.0030589101370424032,0.0058157132007181644,0.005982725415378809,0.006913637742400169,0.0124660674482584,0.0062029059045016766
+0.007413696032017469,0.007032641209661961,0.005851345136761665,0.0066257682628929615,0.007550292182713747,0.006752545479685068,0.0070330556482076645,0.00839429721236229,0.004530713893473148,0.005926225334405899,0.006018185522407293,0.005045234225690365,0.006708933040499687,0.006258748937398195,0.006009025499224663,0.004335865378379822,0.0049646170809865,0.007312239147722721,0.005495174787938595,0.004942953586578369,0.004039269872009754,0.004651137161999941,0.004229635000228882,0.008027319796383381,0.006018443498760462,0.008501202799379826,0.006842236500233412,0.006586214527487755,0.005068137776106596,0.007287678308784962,0.005223908461630344,0.004747777711600065,0.006842236500233412,0.008529276587069035,0.006847401149570942,0.007081293035298586,0.006664156448096037,0.007967913523316383,0.009229850023984909,0.005815993063151836,0.003815176198258996,0.005757843144237995,0.006879393011331558,0.005815598182380199,0.006895671132951975,0.006805295590311289,0.007099578622728586,0.005965822841972113,0.007093810010701418,0.007495030295103788,0.005457825493067503,0.0055334060452878475,0.004126798361539841,0.006198973394930363,0.007656387519091368,0.006766900420188904,0.006781180389225483,0.006935102865099907,0.009480010718107224,0.00581616535782814,0.007940868847072124,0.004835262428969145,0.006826132070273161,0.005428681615740061,0.003495838725939393,0.007505427114665508,0.007338375318795443,0.006478899158537388,0.00685683311894536,0.006917268503457308,0.005866726394742727,0.0065257796086370945,0.007176918908953667,0.0038207462057471275,0.007049402687698603,0.0055493623949587345,0.007145348004996777,0.011732567101716995,0.006440219469368458,0.007803423795849085,0.005927118938416243,0.0069051943719387054,0.0068173278123140335,0.003442533779889345,0.00550789013504982,0.006929571740329266,0.005285125225782394,0.007042526733130217,0.006695353891700506,0.011457225307822227,0.009961314499378204,0.004960420075803995,0.004439197946339846,0.008788262493908405,0.0053281583823263645,0.00617014616727829,0.006485083606094122,0.007417610846459866,0.005681599024683237,0.005306461360305548,0.006929529365152121,0.007700385060161352,0.00867008138448,0.007464224472641945,0.005293197929859161,0.007195914629846811,0.006718170829117298,0.006528663448989391,0.006708526983857155,0.006737292744219303,0.007878200151026249,0.008372966200113297,0.004429537337273359,0.004986699670553207,0.004363412968814373,0.005213794764131308,0.0064723901450634,0.007697117980569601,0.007084835786372423,0.006544784642755985,0.007182753644883633,0.011969117447733879,0.006763463374227285,0.006133534479886293,0.006418537348508835,0.0046080332249403,0.006761941127479076,0.005999719258397818,0.006997928023338318,0.007351837586611509,0.007665576413273811,0.00808640941977501,0.003349841572344303,0.003109813667833805,0.006763463374227285,0.0068939258344471455,0.0064092050306499004,0.005766680464148521,0.006554084829986095,0.008100409060716629,0.005322316661477089,0.006128310691565275,0.006493288092315197,0.00541417533531785,0.007619247306138277,0.0049320412799716,0.006386920809745789,0.004720704630017281,0.0034634231124073267,0.005781202577054501,0.006085553206503391,0.006921548396348953,0.012035627849400043,0.0067587560042738914
+0.0075288815423846245,0.007044988684356213,0.005688838195055723,0.006442539393901825,0.007838179357349873,0.0067611029371619225,0.006880622822791338,0.00975310243666172,0.0037383290473371744,0.0058036004193127155,0.006001062225550413,0.004320692270994186,0.006718780845403671,0.0063745081424713135,0.0059189763851463795,0.004673192277550697,0.004205333534628153,0.007500274572521448,0.005236353725194931,0.004670672584325075,0.003653323743492365,0.004177586175501347,0.0037454315461218357,0.007963760755956173,0.006247746292501688,0.008748478256165981,0.006926808971911669,0.006760126911103725,0.00479741720482707,0.0072440397925674915,0.005125391762703657,0.004735497757792473,0.006926808971911669,0.008619142696261406,0.006952071562409401,0.007115621119737625,0.006654304452240467,0.008109808899462223,0.009900650009512901,0.006026756949722767,0.0032006774563342333,0.00526905944570899,0.00703244237229228,0.005487328860908747,0.006915188394486904,0.0072892457246780396,0.007273721043020487,0.005844736937433481,0.007226002402603626,0.007905094884335995,0.005337611306458712,0.00588149344548583,0.003531079273670912,0.006575087085366249,0.0075730918906629086,0.0067372750490903854,0.0069581978023052216,0.007125819101929665,0.010071521624922752,0.0063447896391153336,0.00812715943902731,0.004048837348818779,0.006385101471096277,0.004906223621219397,0.0028211232274770737,0.007734449580311775,0.007612443529069424,0.006224031560122967,0.006882362067699432,0.006950355600565672,0.005548752378672361,0.006600715685635805,0.007182313594967127,0.003072359599173069,0.007479352876543999,0.005408696364611387,0.007169587537646294,0.013336434960365295,0.006413331255316734,0.008246341720223427,0.0058139050379395485,0.006929582450538874,0.006961168721318245,0.00319728534668684,0.005717212799936533,0.006834619678556919,0.00507053779438138,0.006950377020984888,0.006894615478813648,0.013794452883303165,0.010858696885406971,0.004516476299613714,0.0036575940903276205,0.008769112639129162,0.005109346937388182,0.005794662982225418,0.00638246163725853,0.007817763835191727,0.005104865878820419,0.004969795700162649,0.006991608999669552,0.007991774939000607,0.00891292467713356,0.007484868168830872,0.005538277793675661,0.00720126461237669,0.007028972264379263,0.006595613434910774,0.006765561178326607,0.006776376161724329,0.008448070846498013,0.007955322973430157,0.0039980448782444,0.004802395589649677,0.003559522330760956,0.004802643321454525,0.006548014935106039,0.008221983909606934,0.007060868665575981,0.0065420400351285934,0.007263230625540018,0.01349323894828558,0.006780526600778103,0.006239206530153751,0.006394859403371811,0.004193596541881561,0.006438345182687044,0.00626151729375124,0.006574033759534359,0.007734131533652544,0.007432413287460804,0.0077895233407616615,0.002965145045891404,0.0030748036224395037,0.006780526600778103,0.006991805974394083,0.00618786970153451,0.005238797049969435,0.006593300960958004,0.008711048401892185,0.005423645954579115,0.0058302003890275955,0.006202402990311384,0.00500634266063571,0.0077593387104570866,0.004201353061944246,0.006402702536433935,0.004283261951059103,0.0028780160937458277,0.005544953513890505,0.0063062310218811035,0.006965113803744316,0.013887696899473667,0.00653988029807806
+0.0071861050091683865,0.006847765762358904,0.005577014293521643,0.006543805822730064,0.007391963619738817,0.00663210591301322,0.006674565840512514,0.009817290119826794,0.004055405035614967,0.006020687520503998,0.006454909220337868,0.004668186418712139,0.0065914238803088665,0.006146359257400036,0.0060446979478001595,0.005216593854129314,0.004453539382666349,0.007219797465950251,0.005608535837382078,0.004810817539691925,0.0038850421551615,0.0049109915271401405,0.004723032005131245,0.007413378916680813,0.006265008822083473,0.008248471654951572,0.006780609954148531,0.006668658461421728,0.005025792866945267,0.0070488848723471165,0.004995477385818958,0.005008721258491278,0.006780609954148531,0.008022367022931576,0.006778339389711618,0.007180959917604923,0.0065677776001393795,0.007450800854712725,0.009180067107081413,0.005931350402534008,0.0036258860491216183,0.005339437630027533,0.00695154769346118,0.005763903260231018,0.006782744079828262,0.007605841848999262,0.007129949983209372,0.0061023239977657795,0.0070462762378156185,0.007532505784183741,0.005352125037461519,0.005964210722595453,0.004128551576286554,0.007158447522670031,0.007184268906712532,0.0066459584049880505,0.006843585520982742,0.007089416496455669,0.009095622226595879,0.007151815574616194,0.007839775644242764,0.004251281265169382,0.0063700806349515915,0.005376491229981184,0.0033676146995276213,0.007489714305847883,0.007608097046613693,0.006231589242815971,0.0067291222512722015,0.006811873521655798,0.005748336669057608,0.006589861586689949,0.007003277540206909,0.0036097944248467684,0.007380819413810968,0.005481690168380737,0.0072178407572209835,0.011782136745750904,0.00619721133261919,0.00783461518585682,0.006026839837431908,0.007080595940351486,0.006630936171859503,0.003634033491834998,0.005630165338516235,0.00673380121588707,0.005380189977586269,0.006799172144383192,0.006828423589468002,0.014134266413748264,0.010676681995391846,0.005527003668248653,0.003980021458119154,0.009110376238822937,0.005063696764409542,0.006404914893209934,0.006275694817304611,0.007625477388501167,0.005660021677613258,0.005144106224179268,0.0068490770645439625,0.008211051113903522,0.00910926703363657,0.007184668444097042,0.005556351970881224,0.007036132272332907,0.006699256133288145,0.0064946869388222694,0.006654738448560238,0.006670366507023573,0.008757407777011395,0.007789616007357836,0.0045352596789598465,0.005297007504850626,0.003874652786180377,0.004987022373825312,0.0065839882008731365,0.007552478928118944,0.006917319726198912,0.006461327895522118,0.00711567560210824,0.012396703474223614,0.006656968034803867,0.006289897486567497,0.006131813861429691,0.004164685495197773,0.006535766646265984,0.006579779088497162,0.006614225450903177,0.007745671086013317,0.007303931750357151,0.007394290529191494,0.0033475446980446577,0.003355910535901785,0.006656968034803867,0.006831425707787275,0.0066103506833314896,0.005337007809430361,0.006499204318970442,0.00820522103458643,0.005335747729986906,0.005910940933972597,0.00621414789929986,0.00548773305490613,0.007403934374451637,0.004638293758034706,0.006409056950360537,0.00450449762865901,0.003258988494053483,0.00558705348521471,0.006187180057168007,0.006865661591291428,0.012090614065527916,0.006521475967019796
+0.007304429076611996,0.006579427048563957,0.005419181659817696,0.0072241579182446,0.007313900627195835,0.006169040687382221,0.008995137177407742,0.009115004912018776,0.004448761697858572,0.005313631147146225,0.005447068251669407,0.005001737270504236,0.006198415998369455,0.007727207150310278,0.006146668456494808,0.005210055969655514,0.004602375905960798,0.007736163679510355,0.005756156053394079,0.005963426548987627,0.004646080080419779,0.005063185002654791,0.004403500817716122,0.008392296731472015,0.006071475334465504,0.007885116152465343,0.0063377488404512405,0.007163382600992918,0.005090391729027033,0.006850691977888346,0.005145292263478041,0.005418194457888603,0.0063377488404512405,0.0076195476576685905,0.006445673760026693,0.006223627831786871,0.006081749219447374,0.008386596105992794,0.008685452863574028,0.007411119993776083,0.0035900576040148735,0.0057216971181333065,0.006445714272558689,0.005100569222122431,0.0063318912871181965,0.007192711345851421,0.0063995434902608395,0.005271625239402056,0.0067781866528093815,0.007961341179907322,0.005813555791974068,0.006151239387691021,0.00456436350941658,0.006800370756536722,0.008312242105603218,0.006197256036102772,0.007382981479167938,0.006193237844854593,0.010242446325719357,0.006603867746889591,0.0075187673792243,0.005105178337544203,0.0064220489002764225,0.0058938683941960335,0.0031165615655481815,0.006989818532019854,0.008577391505241394,0.006333445198833942,0.006221874617040157,0.0062773507088422775,0.005293133202940226,0.006134944036602974,0.007158665917813778,0.0038357956800609827,0.006892157718539238,0.005283992271870375,0.007066227030009031,0.011489463038742542,0.006669288035482168,0.00765520753338933,0.0055813901126384735,0.006263837683945894,0.006386707071214914,0.004078196361660957,0.006272606085985899,0.00655246339738369,0.005227265879511833,0.006370276678353548,0.007122494745999575,0.012524323537945747,0.008824867196381092,0.0049093347042799,0.0036657832097262144,0.008820920251309872,0.006151960231363773,0.005603154189884663,0.00628297682851553,0.007023710757493973,0.005215668585151434,0.005485018715262413,0.006408377084881067,0.00710690300911665,0.008698705583810806,0.007115903776139021,0.005626844707876444,0.0065360539592802525,0.007868614047765732,0.0069969454780220985,0.006203626282513142,0.0062095909379422665,0.008027524687349796,0.009317271411418915,0.005732136778533459,0.0059835035353899,0.00402044178918004,0.00545503618195653,0.006928656715899706,0.0076734102331101894,0.006160902325063944,0.006015982013195753,0.0066362484358251095,0.012689986266195774,0.006205474957823753,0.005887522827833891,0.006716182921081781,0.005772704724222422,0.006252272054553032,0.006367875728756189,0.006211915053427219,0.007479954976588488,0.006776918191462755,0.0084029920399189,0.0035466966219246387,0.004311549011617899,0.006205474957823753,0.00645618187263608,0.006116112228482962,0.0068097589537501335,0.006254261359572411,0.007776234298944473,0.005717188119888306,0.005896724760532379,0.007214019540697336,0.005091611295938492,0.006862761452794075,0.005723530892282724,0.0059000179171562195,0.004554704762995243,0.003132197540253401,0.006437390577048063,0.006084742024540901,0.007146019954234362,0.012485305778682232,0.006107121240347624
+Questions:
+Is this puppy too advanced for a 20 month old toddler to play with?
+Is this puppy to advanced for 20 month old to play with?
+Thinking about getting this for my two and half year old, who loves dogs. Is the toy appropriate for her age?
+where may I buy the glitter lease  for the glitter edition gogo my walkin' puppy??
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+My 3 yr old's eyes went wide before we could even get this out of the box.
+It comes with batteries, which is great.
+The remote control isn't the easiest thing to use and the dog moves pretty fast which can be hard for little legs to keep up with.
+My 3 yr old couldn't stop laughing with delight when the dog ran in circles, and loved the way it responded to pets.
+The various sounds are very realistic too, from soft barks to panting.Our real dog was not at all impressed, which was also fun for the 3 yr old as they real dog and fake dog barked back and forth.Overall, very fun toy.
+Probably better suited to slightly other kids, but even little ones will like it.
+I tried this toy with an 18 month old and a 4 year old, and they had very different reactions, but both lost interest quickly.My 18 month old was actually kind of frightened of the dog, and initially cried, but then grew bored with it, and wandered away to pick up a book.The 4 year old girl was initially thrilled, but then used the toy to chase the real dog until the real dog hid under the bed.The dog is very cute (don't see why it should have glittery pink ears, though) but needs a lot of picking up and turning it around, as it has no backwards button to retreat from a tight corner.
+"The Glitter Go Go My Walkin Pup is absolutely adorable!!!
+The toy is set to ""try me"" so as soon as you take her out of the box, she is barking and wagging her tail and begging to be released with those big blue eyes of hers.
+Getting the pup out of the box was fairly simple.
+She is held in there by those rope/cloth type of ties that you just unwind from the plastic clips - love those, so much easier on the fingers than wire!
+!Once I had the pup out of the box, I set her to ""on"" mode and she barked, panted and wagged her tail happily.
+We were good to go!
+I played around with the sensors on her head and her side, she reacted immediately and very well to all pats - not sluggishly as some sensor toys.
+After I clipped on her leash, I tried out the ""take her for a walk"" mode and it was so much fun!
+Yes, I am 38 years old, but am a huge kid at heart, lol.
+On the leash handle, there are 3 buttons - one for walking straight, one for going left and one for going right.
+The control was incredibly smooth and little Go Go (or Addie, as my 10 year old daughter has named her) was off scooting across the floor, wagging her tail and barking happily!
+I wanted to include how she walked on the carpet in my review, so I took her into the one and only carpeted room we have (it is a med.
+plush thickness) and she zoomed around in there on that floor as well as on the hardwood and linoleum floors!
+Very impressive!The way that Go Go walks is that she has fairly wide black plastic wheels under each ""foot"".
+These wheels have a rubber strip wrapped around them for gripping the floor.
+I do want to note that though the wheels are set high enough that they cannot be seen when the pup is standing upright, they are also offset enough from the ""fur"" and material of the dog so that it does not get caught and/or tangled up in the material at all.
+"My three-year-old granddaughter absolutely loves this toy, and I was very pleasantly surprised, too.
+Fur Real Friends has hit it out of the park.First of all, in real life this toy is MUCH bigger than it appears in the picture on the product page.
+I was expecting one of those dinky little walking toy animals you see all over the place that do a few tricks.
+Not so.
+This doggy is HUGE, a real plus for the munchkin's enjoyability (is that a word?
+), as well as durability.
+Much more like a real dog, rather than a toy miniature.It also does quite a few different actions, rather than just the clunky walk that most toys of this nature do, again adding to the ""wow"" factor for the munchkin.
+It barks, it wiggles, it wags its tail... lots of fun!It's very attractively packagaed, and very easy to get out of the packaging.
+Which is a very good thing, because as soon as my sweetie-pie saw it her face lit up with joy and she could hardly wait to get her hands on it!Is it cheap?
+Heck, no!
+But in this day and age you get only what you pay for, and I think this is a good value for the money.
+What more could you ask for?"
+"This toy is very ""intelligent,"" in that it's responsive in great, playful ways.
+It also is very cute.
+It doesn't feel like it's flimsy, mind you, but it doesn't feel quite as solid as I like kids' toys to be (it performs a number of actions, so maybe having so many joints makes the dog feel a little, well, shaky).
+That said, we haven't had any problems after a week and a half of use.
+The toy comes with starter batteries so you can use it straight out of the box, but they won't last too long so best have some handy.Overall, I definitely think this toy is worth the cost, given how much personality it has and the varied responsive actions it can perform.
+If I see any wear-and-tear issues over time, I'll come back to add to this review."
+"I am generally kind of rough on these types of toys because or the price tag I generally expect more bang for my buck and I feel that these types of toys present very little replay value.
+So, that being said, my first impression of Go Go is that she is very well built.
+She is very sturdy (and heavy!)
+and is clearly designed to withstand years of play.
+She is absolutely adorable and her fur is super soft despite being wrapped around a very hard body.
+This is not a toy for cuddling!
+In order to make Go Go move smoothly when she walks, she has wheels instead of feet.
+You don't notice this unless you pick her up.
+When she's walking, she's absolutely adorable.
+Think R/C for kids who aren't into cars and monster trucks.
+She works well on any relatively flat surface but will not tolerate grass or high pile carpet very well.
+Her ""leash"" remote is very responsive even though her range of motion is limited.
+You're either going completely straight, or spinning in one direction or the other.
+This is typical of all R/C toys for this age range to make them easier for little hands to maneuver.
+Use of the leash is also very simple and easy.
+Just plug it in to go for a walk and unplug it to play without the leash.
+Taking this out of the box was simple.
+It was nice that everything was included and I didn't have to go searching for batteries while my 3 year old niece wanted to play with her new pet.
+The dog annoys me to a certain extent because my dog barks at it, but here is a list of the positives and the negatives I have seen:Positive:1.
+Easy out of the box, no need for scissors.
+Batteries included and pop in easily without tools, just fingernails.2.
+Begins immediately doing dog like actions (i.e.
+barking, wagging tail).3.
+The leash clips on easily and the dog immediately goes into walk mode.4.
+There is no volume control, but the dog is not overly loud.
+I have high ceiling that can occasionally echo, and it doesn't echo.5.
+Walks at a good pace.Negative:1.
+The remote on the leash is very difficult to use for a 3 year old.
+There are 3 buttons (1 straight, 1 left, 1 right).
+This would probably be easy to learn for an older child, but at 3, her memory is just not good enough to push the right button that she wants.
+So, sometimes she pushes all of the buttons, sometimes she pushes one button and then just drags the puppy with walking feet the direction that she wants to go.
+The manufacturer markets to 4+, and I would probably stick with that age group.2.
+"From a parents point of view, this toy is almost as bad as a drum set to a beginner.
+However, my 4 year-old daughter loves it.
+She takes it everywhere with her and seems to love it more than the real dog we have in the house.
+Why I hate it is I am a 40 year old male that gets stuck having to walk this little puppy for my daughter who politely asks if I could ""please walk my puppy for me.""
+As a father of a daughter, you do things that you wouldn't get caught dead doing otherwise.
+Also, this thing is loud and she loves to play with it in front of everyone while we are trying to watch TV.
+They dont mix well, but what can you do...
+Anyway, from a childs point of view, this may be one of the greatest toys they can play with, from a parents point of view, be prepared to work too."
+"Fur Real keeps making better and better ersatz pets.
+At this rate, it won't be long before they come up with a robot that's a match for the real thing, but for now, this pet is awesome.
+It starts barking as soon as you open the box, which is guaranteed to drive any little pet lover into dancing spasms of excitement, and it reacts when you play with it, scratch it, etc.Better yet, it's essentially a remote controlled car.
+The leash handle has three buttons -- forward, left turn, and right turn, and the feet have hidden wheels that are grippy enough for flat floors, tile, or medium carpet.
+This is perfect for my daughter.
+Up to now, she's been dragging her stuffed animals around on leashes, but this is the next best thing to (and in some ways better than) the real thing.
+Highly recommended.What could be better: Not too much if you are looking for an extraordinarily cute, ""walkable"" toy dog.
+The yappy barking can get annoying to everyone else, but still, if you have younger kids who love cute stuff and animals, they will love this."
+"Glitter Go Go Walkin' Pup ... or Belle as she has been named ... is a big hit in this house with my 4 year old niece.
+She loves to walk Glitter, play with her so she barks and wags her tail and with a small brush set, she loves to brush her and play with her soft fur too.
+I'm so glad Glitter came with batteries because I thought my niece was going to explode while we got her out of the box.
+She lit up as soon as I put her down and we sat together to figure out how she worked.
+Within 15 minutes we were out for a walk with Belle.
+Because she has wheels on the bottom of her ""feet"" Belle goes as quite a pace for a 4 year old, but my niece didn't seem to care and kept up fine.
+The walk control leash is easy to use and I was surprised to find she just doesn't go straight, you can even turn Belle by the control to go left or right.
+Pretty cool!
+My niece loves to walk her around the house too and Belle even does well on the low pile carpeting.
+I really like how the dog will play even when not on her leash.
+She barks and can even chase her tail.
+Very cute!
+Her sensors seem to much improved over other Fur Real pets I've seen.
+She also ""goes to sleep"" pretty quickly when not being played (anything to conserve the batteries is good with me) All in all Glitter Go Go is a big hit, very pretty and alot of fun.
+I'd recommend her to anyone looking for a pet without the mess for their little girl."
+My six year old daughter has been wanting the Walkin Pup daog for a very long time.
+I am happy to say she was not dissapointed when she finally got it!
+It works perfectly and easily on both our carpet (it is not very thick) and tile floors.
+In the advertisement it shows the girl walking with the dog outside; I don't think we will be doing that since the dog is white and would get dirty very easily.
+I have no doubt that it would work just as well outside.
+She is very easy to use and lots of fun!
+"This mechanical puppy that ""goes"" with a realistic remote-control leash is not inexpensive.
+That said, it is an enchanting  furry friend that is incredibly cute as it makes puppy noises and walks, etc.
+It uses 4 size C batteries, and has an on/off switch on its underside battery pack cover.
+To get at the batteries, a sharp Phillips screwdriver or very narrow straight=blade is needed--not a job for a pre-schooler, so you are safe there.
+The VERY realistic yipping bark does not have volume control, but is not too loud.
+At my house it sounds like the dog is real, and probably in another room or outside the door, by volume.
+Be warned, it is motion sensitive, so if it is passed by anybody or anything, it will detect and respond if the On button is activated--just like a real dog.
+This one was shared with a 4 1/2 year old, and she is thrilled with her new ""Fluffy""."
+My daughter was thrilled to get this dog.
+It is a good size and is very easy for her to use.
+"My six year old loves her cute dog ""Gogo"".
+I thought how creative and imaginative that she already named her dog, until I looked back at the box and saw the name ""Glitter Go Go"".
+I just remembered, she already know how to read.
+It makes real dog sounds and even wiggle its tail when happy.
+If you pet it on the head, it gently turns towards you.
+She had dogs on remote control before but nothing as big as this which she can literally walk through the neighborhood.At first I thought the sound is too weak, but then I realize how annoying it would be if it barks too loud.
+Maybe it will be a great addition in the future if it gets its own volume control.
+The leash is her favorite color - purple.
+She is pretty ecstatic to find out that the leash looks very similar to a real dog leash like her cousin uses.
+It has three buttons, left, straight and right (it could have been better if instead it uses a single thumbstick like the one on a video game controller).
+She can remove the leash easily which what she always does if she wants to carry it.
+I am just worried if you drop her because of all the electronics and moving parts.
+I guess you also have to be gentle on it and treat it like a real dog.Cons:- it is hard to hold the dog when the switch is on because it turns its body; if you hold it in the middle, it makes ratcheting noises because your hand prevents the mechanism from bending all the way.
+There is no perfect place to hold/carry it while it is on.- the servo noise is very discernibleIt runs on 4 ""C"" batteries.
+Included!"
+I got this dog for seven year old girl.
+I was worried that she would be too old for this toy, but she loves stuffed animals so much that I figured the chances that she will love it are high.She really loved it - granted I doubt that it will hold her attention for long, but she goes back to her other doggies to play with all the time, so I would think this toy has all the chances of repeat plays.
+It walks, it barks, but of course it is not a toy that would challenge seven year old's intellectual abilities, it is just so very loveable looking.Oh and yes, I (an adult) loved it too, including glittery pink ears :), but I am a stuffed animals lover myself :)
+"This is a fairly sophisticated toy that has impressed me in a number of ways.
+I don't give out 5 stars easily, but I actually think this product may have hit the mark.The first thing you should do if you're buying this as a gift is to switch it off.
+The dog is light sensitive so if you switch the lights off, the dog barks.
+It also ""sees"" you when you walk into the room and barks for attention.
+When you rub it's head, it responds.
+And when you're done paying attention, it will lunge toward you for one last try.
+It's both funny and a little creepy.
+The kids love it.The leash remote adds a little bit of sophistication of its own.
+There are three buttons for left, right and forward.
+Pressing left or right, the dog turns sharply.
+Pressing forward, the dog walks fairly briskly.
+While holding forward and pressing left or right, the dog makes a less sharp turn which makes for much better navigation than the sharp turn would.
+It's quite stable and surprisingly fast.The dog manages terrain such as carpeting fairly easily, which is nice.
+But anything more than maybe a 1/2 inch is going to trip it up.
+Luckily, the dog is attached to a leash so it's not really an issue.
+The leash is quality braided nylon of some sort.

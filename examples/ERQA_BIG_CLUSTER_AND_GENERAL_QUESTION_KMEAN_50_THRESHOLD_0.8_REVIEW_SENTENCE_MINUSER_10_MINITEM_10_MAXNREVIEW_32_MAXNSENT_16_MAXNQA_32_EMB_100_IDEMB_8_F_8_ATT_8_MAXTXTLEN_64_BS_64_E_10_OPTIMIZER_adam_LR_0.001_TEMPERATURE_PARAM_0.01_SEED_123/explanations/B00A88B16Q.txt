@@ -1,0 +1,179 @@
+Top question(s):
+Are the blocks compatible with Lego blocks?
+The bottom part of the battery compartment was not included. What do I do? My son is really upset!
+Top sentence(s):
+However, we used brush-on super glue just on those 4 pieces and it worked like a charm.- Assembly is a little more difficult than a comparable sized Lego because they don't do Bag 1, Bag 2, etc...you open all the bags and combine them together, so a bit more of a challenge finding the parts.
+There is a place for batteries, and the ship actually lights up, which was a nice surprise.
+I am a huge fan of both Lego and Star Trek so the U.S.S.
+My husband and daughter love to put Legos together and especially love anything Star Trek or Star Wars.
+I am simply a Dad.My 9-year-old son has other Kre-O sets that he assures me are suitable, but as he says, &#34;Dad, this Christmas gift sucks and because this gift, I hate you forever.&#34; He has informed me that Kre-O sets are known for simply being &#34;knock-off Legos,&#34; much as he says my love is but a knock-off to him.Christmas is not ruined because of this gift.
+
+Question attention weights:
+0.5102246403694153,0.34969207644462585,0.14008326828479767
+Sentence attention weights:
+0.008055449463427067,0.006050272844731808,0.007291198708117008,0.004535557236522436,0.00891127809882164,0.008355874568223953,0.006610980723053217,0.008357185870409012,0.0046729096211493015,0.008397450670599937,0.006850508973002434,0.007412792183458805,0.005548781715333462,0.005625009536743164,0.004770614672452211,0.003770381910726428,0.006557205226272345,0.006557205226272345,0.007195822894573212,0.006823126692324877,0.0070300656370818615,0.008155537769198418,0.006557205226272345,0.005348557140678167,0.003726044436916709,0.004408310167491436,0.004784407094120979,0.0030743717215955257,0.0045260232873260975,0.006890173070132732,0.0051053776405751705,0.007604342885315418,0.006005285773426294,0.005944040138274431,0.006480678915977478,0.008684334345161915,0.0054321191273629665,0.0072817313484847546,0.007752676028758287,0.007956694811582565,0.0070137945003807545,0.0106886625289917,0.005740613676607609,0.003229905851185322,0.004833626560866833,0.0036860231775790453,0.007183397188782692,0.003659632755443454,0.004881344735622406,0.004433386493474245,0.006035318598151207,0.0041508181020617485,0.005606785416603088,0.0036368935834616423,0.006871236488223076,0.0044252448715269566,0.0040162368677556515,0.006073492579162121,0.006017135456204414,0.003507497487589717,0.006889942102134228,0.006694905925542116,0.00551240099593997,0.006889942102134228,0.004814209882169962,0.006810538936406374,0.0063317324966192245,0.009886316955089569,0.006889942102134228,0.009918393567204475,0.00681943167001009,0.007867693901062012,0.008447752334177494,0.0043589347042143345,0.006580392364412546,0.009634718298912048,0.007662106305360794,0.005204424727708101,0.006903891917318106,0.007699226960539818,0.003517578588798642,0.0037369667552411556,0.008695323951542377,0.007315077818930149,0.009267747402191162,0.007575377356261015,0.007098255213350058,0.007571244612336159,0.004133537877351046,0.0033254195004701614,0.004306808114051819,0.004448396619409323,0.005658967886120081,0.007161338347941637,0.0027735622134059668,0.0053978776559233665,0.008461402729153633,0.005805459339171648,0.008079074323177338,0.004843442235141993,0.0074402038007974625,0.00226581166498363,0.005293265916407108,0.007046815473586321,0.0029558080714195967,0.008248402737081051,0.006268442142754793,0.005192483309656382,0.007288592867553234,0.004026139620691538,0.008258860558271408,0.005535342264920473,0.005465339869260788,0.011092744767665863,0.006684491876512766,0.006354823708534241,0.0057160090655088425,0.005431900266557932,0.004367518238723278,0.005155048333108425,0.006599680054932833,0.005135079380124807,0.00516804214566946,0.007314613554626703,0.006614024750888348,0.0064719440415501595,0.006330300122499466,0.007661438547074795,0.005856695119291544,0.006392618641257286,0.006204094272106886,0.005073767155408859,0.013794776052236557,0.006504885386675596,0.00663873553276062,0.006621405016630888,0.009198466315865517,0.003696105908602476,0.010378848761320114,0.008072313852608204,0.004994101822376251,0.005486949812620878,0.0071010589599609375,0.007133311126381159,0.006380346138030291,0.004348618909716606,0.008673889562487602,0.00609270203858614,0.004902477841824293,0.0070189000107347965,0.005527169443666935,0.008377800695598125,0.0066455756314098835,0.008989670313894749,0.006989484652876854,0.0065980334766209126,0.0057772318832576275,0.007368416991084814
+0.007542436011135578,0.006419971585273743,0.007154441904276609,0.00518321106210351,0.007262676488608122,0.007473320700228214,0.006779375486075878,0.007572923321276903,0.004863095935434103,0.008416494354605675,0.006892260164022446,0.007347801234573126,0.006382451858371496,0.005877078045159578,0.005228206980973482,0.004870600998401642,0.006738676689565182,0.006738676689565182,0.007152683567255735,0.006895074620842934,0.006488586775958538,0.007510407827794552,0.006738676689565182,0.006193445064127445,0.004444147925823927,0.004955397453159094,0.004767570178955793,0.003616345813497901,0.004623966757208109,0.007268809713423252,0.005517539568245411,0.007332225795835257,0.006214947439730167,0.0060580759309232235,0.006520796101540327,0.007869799621403217,0.005849146284162998,0.0070886327885091305,0.007799135055392981,0.008062328211963177,0.006502732168883085,0.00954581331461668,0.005799776408821344,0.003935633227229118,0.0049570659175515175,0.004856106359511614,0.007179956883192062,0.004007105715572834,0.005179025232791901,0.004780424293130636,0.00603488739579916,0.004267898388206959,0.005741486791521311,0.0042634825222194195,0.0069553665816783905,0.005337448790669441,0.004624740220606327,0.006463013123720884,0.006448219530284405,0.004215433727949858,0.006948778871446848,0.006722668185830116,0.0056107244454324245,0.006948778871446848,0.005235937424004078,0.006885257549583912,0.006567768286913633,0.008015078492462635,0.006948778871446848,0.008105747401714325,0.00693737156689167,0.007495966274291277,0.008263098075985909,0.004935627803206444,0.0054437932558357716,0.007954992353916168,0.006979622412472963,0.005075437016785145,0.0069853258319199085,0.007683520205318928,0.0042188516817986965,0.004161541350185871,0.008076072670519352,0.0072885602712631226,0.008096173405647278,0.0068182554095983505,0.00722339516505599,0.007334381341934204,0.0049108900129795074,0.0038093323819339275,0.005374338943511248,0.005170744378119707,0.006595126818865538,0.006799890659749508,0.0035045165568590164,0.005832240451127291,0.008045939728617668,0.005969156511127949,0.007912460714578629,0.005176773760467768,0.007420601323246956,0.0031129082199186087,0.00514539098367095,0.007019129116088152,0.0034861282911151648,0.008169061504304409,0.006656491197645664,0.005372576881200075,0.007269569206982851,0.003830108791589737,0.008091708645224571,0.005728752817958593,0.005232891999185085,0.009943944402039051,0.0064554945565760136,0.005924197845160961,0.005813433323055506,0.0061858175322413445,0.004961790982633829,0.005932318512350321,0.006177991162985563,0.005709970835596323,0.005109264049679041,0.007208686321973801,0.006719133350998163,0.006024321541190147,0.0057137710973620415,0.007294970098882914,0.006033549550920725,0.006797878071665764,0.006956411525607109,0.004691609181463718,0.010721792466938496,0.006377344951033592,0.006590709555894136,0.005696329288184643,0.008627662435173988,0.00440737372264266,0.010668584145605564,0.007596058305352926,0.005743355490267277,0.005864398553967476,0.0063814143650233746,0.007158353924751282,0.006246593315154314,0.004313681274652481,0.007950138300657272,0.006080442573875189,0.005287129431962967,0.006250305566936731,0.006082302890717983,0.007931665517389774,0.006985182408243418,0.008089271374046803,0.006366854999214411,0.006830055266618729,0.005726093892008066,0.006967117078602314
+0.007735162042081356,0.007867204025387764,0.006550281774252653,0.005151629913598299,0.007199257146567106,0.007045927457511425,0.0062266322784125805,0.007618078961968422,0.004561371635645628,0.008652045391499996,0.006305936723947525,0.006762614473700523,0.007362007163465023,0.005824358202517033,0.0048472401686012745,0.005596998147666454,0.0061876713298261166,0.0061876713298261166,0.00667705200612545,0.006332897115498781,0.006263958290219307,0.007164097391068935,0.0061876713298261166,0.006905173882842064,0.004388335160911083,0.004627835005521774,0.004099017940461636,0.004319577477872372,0.003926810342818499,0.007606083061546087,0.006349464412778616,0.007002030499279499,0.005795774050056934,0.005539447069168091,0.005880499258637428,0.007598786149173975,0.005772463511675596,0.006827148608863354,0.007488066330552101,0.008120259270071983,0.005810164846479893,0.00854629185050726,0.005307710729539394,0.003474561730399728,0.0058739082887768745,0.005172208417207003,0.006542470771819353,0.0035899702925235033,0.004714832175523043,0.004338966682553291,0.006303796544671059,0.004418922122567892,0.006255788262933493,0.0045320577919483185,0.007637674920260906,0.005520734470337629,0.004827979952096939,0.0065253861248493195,0.006877872161567211,0.004509005229920149,0.0063866619020700455,0.006150371860712767,0.00502194045111537,0.0063866619020700455,0.005423514172434807,0.006416038144379854,0.006340049207210541,0.007719026878476143,0.0063866619020700455,0.00809974130243063,0.006533144973218441,0.007480897940695286,0.007794034201651812,0.004935974255204201,0.004561979789286852,0.00874138344079256,0.006481137126684189,0.004990051034837961,0.006429991219192743,0.007565774954855442,0.004922014661133289,0.003795529482886195,0.007649894338101149,0.00697972672060132,0.008055740036070347,0.006782161071896553,0.007033554371446371,0.0077039944007992744,0.00557340681552887,0.004147469997406006,0.0067468914203345776,0.00561946677044034,0.008027755655348301,0.0060149552300572395,0.004026130773127079,0.005199661944061518,0.007841428741812706,0.005362420342862606,0.007912690751254559,0.005306062288582325,0.007162087131291628,0.0031887793447822332,0.005103896837681532,0.006782214622944593,0.003923846874386072,0.0074387905187904835,0.0074232169426977634,0.005393884144723415,0.006786718498915434,0.0034883273765444756,0.007598705589771271,0.005091000348329544,0.004872700199484825,0.010049977339804173,0.006037178449332714,0.006304786074906588,0.0054260119795799255,0.006789601873606443,0.004345519468188286,0.005781503394246101,0.006758010480552912,0.005342381540685892,0.005766064394265413,0.007644845638424158,0.006545295938849449,0.006653265096247196,0.0068446677178144455,0.0068171969614923,0.006040026433765888,0.0062521668151021,0.006853594444692135,0.005351011175662279,0.013738598674535751,0.006380768958479166,0.006823275703936815,0.005038111936300993,0.008688731119036674,0.005122275557368994,0.012621763162314892,0.007788219954818487,0.005621599964797497,0.005801012739539146,0.006441677920520306,0.006521729752421379,0.007389872334897518,0.004935950506478548,0.009239044040441513,0.005788765382021666,0.005242890678346157,0.006710604764521122,0.005912255495786667,0.007715321145951748,0.006466800346970558,0.008877428248524666,0.006857873406261206,0.006797790061682463,0.0057638720609247684,0.007975706830620766
+Questions:
+Are the blocks compatible with Lego blocks?
+The bottom part of the battery compartment was not included. What do I do? My son is really upset!
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+"I am a Lego fanatic, so seeing this I was excited to pick it up and start putting it together.
+KRE-O isn't Lego, and I found that out quickly with this first set.
+This time out, there's a lot of fun to be had with this set, but a lot of frustration at the same time.
+When completed, this is a nice sized model and it holds the 5 minifigures included with room for plenty more on the bridge.
+There are lights on it and even a ""photon torpedo"" that fires.
+But getting to that finished stage is trying at times.
+Many times the pieces simply don't want to fit together.
+Early on I learned that KRE-O pieces don't simply snap together like Legos do.
+Instead, they will pop off randomly, flying across the table if you don't have them securely on--and that requires some serious muscle at times.
+I don't see how any child could put this together without adult help, and I don't know that adults can do this without wanting to scream at times.
+Still, if you can sit through it all (it took me about 2-3 hours to finish it up) it's a fun little display model.
+You definitely wouldn't want to give this to a kid to play with as it would fall apart like crazy though."
+"On the day I learned that I would review the KRE-O Star Trek U.S.S.
+Enterprise Construction Set, my husband and I also headed to the theater close to home to watch the new Star Trek Into Darkness movie.
+As we were driving there I was sharing with my husband that I was looking forward to get the KRE-O set and that I was thinking that this one would be for me this time.
+We have been blessed beyond measure with Hasbro in the past but when I applied to review their new line of KRE-O based on the Star Trek movie, I secretly hoped to get the U.S.S.
+Enterprise one.
+Imagine my delight when I got the confirmation!
+So when I share this to my husband, he looked at me with a twinkle in his eyes and said: ""We should build it together!"".
+*GRIN*Thought we had good intention in making this work together, it just could happen by finding time to do it together.
+So my husband graciously told me to go ahead and do it.
+Which I did slowly over a period of 2-3 days because an homeschool mom can be quite busy sometimes.So slowly I started to build my Entreprise.
+One of my kids wanted to have the ""elf""... to which I rapidly corrected ""Spock is not an elf but a Vulcan!
+Besides Spock is mine (he is one of my favourite Star Trek characters).""
+I first started the build the inside of the saucer section and the detailed instructions quickly made me go through the building of the rest of the Entreprise as well.
+In the end, I thought this building experience took a bit of time and effort as I find the blocks are a bit harder to snap together than other building blocks out there.
+But once it's all together it looked good and I was quite impressed in the effort on making it as realistic as possible.The characters itself - five in all in this set - are fabulously made as their legs, arms and body can twist as they move.
+You will have Captain Kirk, Spock, Dr. McCoy, and two unknown men - you know the kind that are brought to an going away party but don't come back because they get killed...I do have a couple of issues that I need to double check - the top of the saucer of the NCC-1701 Entreprise is not clicking properly.
+This is a huge (432 piece) set that honestly I was worried about completing it with my kids.
+My kids are only 5 and 7 but they are huge LEGO fans and we decided to tackle this because its a ship that lights up!
+Yes it lights up with 3 AA batteries.
+Now first off don't try to compare this to other building blocks sets as it is different.
+The pieces are not really organized, KRE-O does separate the pieces into different bags but thats pretty much it as far as order goes.
+We found it best to just dump all the bags into a tray and then work from there.
+It took us a few days working on it for a few hours each day, granted I was working with two little kids.
+I look at it though as the whole point is to build the set so I like when the sets take awhile to build.
+Once together the set is fun to play with albeit a little fragile.
+We are torn now between gluing it so the kids can play with it or not-gluing it so they can re-build it or other things.
+The whole lighting up aspect is pretty cool as we don't have any building sets like that.
+This set also comes with 5 figures which is a good bonus.Whether you are a Star Trek fan or just want a new set to build, this one is a challenge and a fun one.
+The whole design though is pretty intricate and cool.
+I am a huge fan of both Lego and Star Trek so the U.S.S.
+Enterprise Construction Set seems like a no brainer.
+Except of course this isn't Lego, it's Kre-O.
+In my opinion if you're going to create a toy using the exact dimensions of a Lego brick you're going to get compared to Lego and compare I shall do.
+When I first saw the Kre-O Enterprise my first reaction was, `doesn't look quite right'.
+It looks similar to the Enterprise but the dimensions look off and at appears blocky.
+I know blockiness seems like a natural result of building a model with blocks but Lego is generally able to mask its blockiness better and that all comes down to design.
+The Kre-O design just feels like something that would have been rejected by Lego.
+There are a ton of molds that seem like they were specifically created for this model and yet it still feels off.Lego has been doing this for a long time and they pride themselves on the accuracy and consistency of their bricks.
+When I put two Kre-O bricks together they feel solidly attached.
+However the bricks don't feel quite as rigid as a Lego and it's when you get down to the micrometers that things start to show strain.
+Attaching two bricks is easy but as you attach more and more bricks the slightly softer nature of the Kre-O bricks and possibly less rigorous brick standards start to add up.
+For instance I simply could not get the saucer dome to attach properly and my assumption is that is due to lower quality bricks produced by Kre-O.
+Putting together the Enterprise was by no means a bad experience but I just didn't get the same pleasure I get from Lego.
+The one place where Kre-O may have an advantage is in there Kreon's.
+Lego has really done a spectacular job in pushing their minifigures to the max but in the end the basic design is stuck in 1978 with the same rigid legs and arms.
+I am a lifelong Star Trek fan - one who knows the difference between a Trekker and a Trekkie.
+My son loves the new movies, but is a Star Wars fan.
+I had hoped that with the purchase of this set, he'd see the value of Star Trek and leave that pagan rot from George Lucas alone.It was a Christmas gift of hope.As I sit here, he is weeping uncontrollably in the corner.
+I have voided bowels.
+We are both sick and ashamed of this set.
+The saucer section simply will not stay together.
+There is nothing, nothing we can do.
+It looks like the Enterprise was used as the ship in a real life Kobayashi Maru or had finally subcumbed to an over abundance of lens flair that had warped all of the pieces.
+Specifically, the round pieces simply will not not hold.
+The center will not hold!
+There is not amount of force or pressure we can apply.
+I am no miracle worker.
+I am simply a Dad.My 9-year-old son has other Kre-O sets that he assures me are suitable, but as he says, &#34;Dad, this Christmas gift sucks and because this gift, I hate you forever.&#34; He has informed me that Kre-O sets are known for simply being &#34;knock-off Legos,&#34; much as he says my love is but a knock-off to him.Christmas is not ruined because of this gift.
+My hope for my son's love of Star Trek is.
+My faith in Kre-O is.
+My hope for a healing between my son and I is laid waste like Rome before the Arianist barbarian hordes.
+Scarred from a previously purchased Optimus Prime KRE-O Lego, I was a little hesitant about the Star Trek product, but hey, this is the USS Enterprise we're talking about here, lol.Happily and enjoyably, putting in a group effort (due to summer vacation) we completed the assembling of this toy.
+I appreciated the larger pieces and mostly easy to follow colorful manual.
+We did not appreciate the small pieces, the one missing piece we never found nor the mishaps of the ship unsnapping when we're attempting to snap on other parts/pieces.
+All I can advise is for you to have firm but delicate hands.Overall, as stated before, since we took our time, we enjoyed putting the product together.
+The primary finished item was fun and there are other things you can build from the pieces also once completed and disassembled.Educational for the young, fun family time or individual project.
+I would recommend.
+"I loves me my Star Trek and jumped at the chance to put together this model.
+As a qualifier, you should know that I'm past the recommended age by about 50 years and I'm not a guy.The pieces come in several bags that don't seem to be themed in any way.
+The instructions -- all illustrations with no text -- recommend separating the pieces by color and that seemed to work fairly well.It was frustrating from the onset because the base parts kept falling apart.
+If I'd push on one side, the other would come off or, worse yet, fly off.
+It seemed the only remedy was to use glue.
+I used a little dab of Loctite Super Glue on each piece and that kept it together pretty well.
+But then a few pages later, I learned that some of those pieces were simply used as spacers or as balance and were to be removed.
+Well, that Loctite Glue is definitely SUPER.
+I pried the pieces apart and, as you can imagine, that's where the band-aid came into the picture.To help future builders, Step 5 shows three pieces being fitted into the base; Step 13 shows them being removed.
+It also happens at Step 11-12, with removal in Step 1 of the second part (Page 34).
+YOU'RE WELCOME!As the model progressed and the units became smaller, the pieces seemed to stay together better, but I still used glue to be safe.The illustrations are fairly easy to follow; overhead illustrations seem to work better than three-quarter views since it's easier to count holes and studs (that's Lego-talk).The disappointing thing is that since I had to use glue, now it's just a model and it can't be taken apart for someone else to enjoy.There are several crew members that come with the set.
+At my age, it got old after a ""Dammit, Jim, I'm a doctor not a model builder,"" ""Fascinating, ""Oh my,"" and ""KHAAAAANNN!
+""Oh, and it lights up and shoots some sort of a missile.
+I keep hitting the missile button by accident but it isn't very powerful, so the dogs are fine.Now that it's together, I'm liking it more and more, but it was a struggle."
+"I review a lot of Lego sets and, as a parent, am partial to them.
+I approached this set with an open mind, however, and watched carefully as my kids built it and played with it.The quality is on a par with other Lego clones.
+The chief problem of the clones is how the pieces ""clutch"" each other.
+Most of the Lego clones have okay clutch when you have a small number of simple pieces, but things become more difficult as the models become more complex.
+This is the case with this model.
+A number of the plates simply don't stay in position and quickly pop-off.
+If you read through a number of the other reviews, some people are resorting to super glue to keep it together.
+We may choose to do this in the end.
+For young builders, even ones who are very, very experienced Lego builders, the experience of having pieces continually pop off is frustrating.I am not keen on the pre-built hull and engine strut assembly.
+I understand the structural difficulty of building the Enterprise out of bricks, but it is done routinely out of Lego.
+As it is, the model is half traditional plastic toy and half brick-built.
+The prebuilt portion, however, does allow Kreo to have a built-in light function that is very nifty.If you are looking for a Lego project, I don't recommend the set.
+If Lego had produced this, it would have been taken as a sign of the end of the world.
+For Star Trek fans and judged against other Lego clones, the set is not so bad, especially if you don't mind gluing pieces together."
+I'm a Star Trek fan so I was excited to try my hand at this building set.
+I thought it was something I could do with my young niece.
+But I after seeing the MANY tiny pieces and large instruction manual, I realized I'd have to put this together on my own.
+The box suggests ages 9-14, but adults will enjoy too.
+This took a couple hours to put together.
+I got stuck at one point when the saucer section didn't want to stay attached to the rest of the ship.
+There is a place for batteries, and the ship actually lights up, which was a nice surprise.
+There is also a place for firing a photon torpedo, but mine won't fully snap in place.
+So no shooting for me.Following the directions, you complete the saucer section first, complete with a detailed bridge.
+Then, the rest of the ship.
+And the four Starfleet characters can attach to the bridge as well.
+Though, with the top of the ship on, you can't really see inside the bridge.
+It's a fun product and surprisingly decent quality even though it's not Lego brand.
+We build a lot of Legos  (we just finished Jabba's Palace) and we were very happy to see that there was a building set for Star Trek that was similar.
+You figure a good deal on a Lego set is 10 cents a piece, so this one at 11 cents has a very similar price.
+We were hoping a non-Lego branded set would have a more reasonable price, and figured the Star Trek licensing wouldn't add to the item's cost like Star Wars does, but...apparently not!We loved Star Trek Into Darkness, so it was really fun to get this set right after seeing the movie.PROS- The Star Trek figures are great, you get Kirk, Spock, McCoy, and 2 Starfleet dudes.
+I like it that they have holes in the back of their legs so that you can attach them to the chairs on the bridge.
+They all came in separate bags.
+As with Legos, the hair tends to fall off.- The blue lights (with different options if you press more than once for blinking etc) on the deflector dish and nacelles is a nice plus (and obviously adds to the price).
+Needs 3 AAA batteries.- The dish top comes off and you have a cool bridge with seats for all the characters (including a Captain's chair), a screen with a display of space that goes up and down, and some other small details that are cool.- The tops of the nacelles are hinged and you can see nice detail of the mechanics underneath.- The full color instruction book was good, there are normal side-view details but they add a top-down view that is handy.- Easy to grasp the model because the entire lower section is one piece.
+That means it's more friendly to my 5 year old than other similar block models that don't withstand any play at all.
+Honestly, none of the Lego or KRE-O are really suited for play with younger children unless you either glue them or don't mind them falling apart.
+I think this is really for display.
+Or, if you're like me, it's something nice to play with on your desk at work (just watch everyone's eyes get big when you pull off the top of the disc and show them the bridge).
+That said, this did hold together better than other ships we've made recently.POTENTIAL CONS- The four pieces that together comprise the circle that attaches the disc to the body do not go on well or stay on well because the parts they connect to are not rigid enough - when bent or pressed even a little, it comes apart.
+However, we used brush-on super glue just on those 4 pieces and it worked like a charm.- Assembly is a little more difficult than a comparable sized Lego because they don't do Bag 1, Bag 2, etc...you open all the bags and combine them together, so a bit more of a challenge finding the parts.
+Then again, more challenging can be fun!- Though most of the bricks are fine, these didn't fit together with the Six Sigma-machined smoothness and steadiness that Legos do.I think it's great to have a brick-style buildable Enterprise, and we're very happy with this!
+I rated Kre-O Star Trek USS Enterprise Construction Set 4 stars because it is a lot of fun.
+Putting it together was not as easy as Lego's but one reviewer mentioned the use of modeling cement and I think that was a great idea!I Like that this set offers more creative play opportunities for my son that has kept him entertained for hours thus far.
+It has a removable top saucer and the deflector dish and engines glow!
+I actually like how the characters are made better than most standard Lego men because Kre-O's joints are movable.Overall, a fun and creative toy for space lovers and/or Star Trek fans!
+My husband and daughter love to put Legos together and especially love anything Star Trek or Star Wars.
+The option to have a less expensive brand, KRE-O, was very appealing.PROS:1.
+My 8 year old followed the directions and was able to put together the majority of it on her own.
+Easy, simple instructions and pieces that fit together neatly.2.
+The addition of lights, firing missile, and a lift-away bridge section was a lot of fun.3.
+The characters, Spock, McCoy, etc.
+were more flexible and better constructed than most Lego characters.CONS:1.
+Some of the pieces were so tightly stuck together, they had difficulty separating them in the construction phase.2.
+Some of the pieces were not as tight and occasionally come apart if played with too much.Overall, I'm very impressed with the quality of KRE-O.
+It's definitely more affordable and every bit as good as a Lego set.
+It's very cool that we finally got some Star Trek based brick building kits.
+Long overdue.While, overall, these Kre-o kits are just as rugged (and fully compatible) as the leading brand, I did have a few issues with this kit.
+There was at least one mistake (I'm fairly sure) in the instructions where it shows you putting a few bricks in place that then seem to mysteriously disappear in later steps.
+And the top-most circular hull cover is simply impossible to attach on all four sides... one side always pops off when you do the other sides.
+I'm not sure if mine came a little bit warped, or it just isn't up to the standards of the other pieces.
+It's not a big deal, but keeps this kit from being top rated.My daughter and I worked on this together and tried working on separate stages simultaneously which led to several minutes of confusion.
+For the life of me, I couldn't find the red bricks that were being called for... turns out they are used in the earlier stage to provide support... later on you're supposed to remove the support and use them in the later stage.Aesthetically, eh, you know, it's what you would expect from a brick-based kit that's trying to replicate a sleek object with compound curve lines.
+I wish they had not chosen to follow the exaggerated, cartoon-like nacelles of the reboot ship.
+but that's my opinion.
+It's cool that when you remove the top hull you can see the bridge, complete with brick figurines.Overall, pretty cool set - just has a few flaws.

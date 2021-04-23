@@ -1,0 +1,196 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+does it need batteries
+Top sentence(s):
+He is like a crazy uncle to play with your children, and hopefully keep them entertained.
+This totally delighted my child.
+Overall, it's a very good buy!
+Smokey is sure to be a commodity around Christmas time."
+If you get it in the dirt or sand that might be the end of its functions.
+
+Question attention weights:
+0.22073547542095184,0.1740284413099289,0.6052361130714417
+Sentence attention weights:
+0.005935430061072111,0.005695718340575695,0.004996054340153933,0.0055382139980793,0.005779682192951441,0.007171378005295992,0.005555174313485622,0.005197128746658564,0.004523839335888624,0.002983769169077277,0.00808386504650116,0.0031010329257696867,0.0035581414122134447,0.004358968697488308,0.0054335566237568855,0.004128948785364628,0.0056127263233065605,0.0032171274069696665,0.008069716393947601,0.00494866818189621,0.005745726637542248,0.006934506352990866,0.003863692283630371,0.007123115472495556,0.006019155029207468,0.006941868923604488,0.006080332212150097,0.00570834381505847,0.006724899634718895,0.006129105109721422,0.006331346929073334,0.006729233544319868,0.0037283762358129025,0.006810346152633429,0.0033927534241229296,0.007534651085734367,0.005430277902632952,0.005167260300368071,0.005249694921076298,0.007046674378216267,0.004205526318401098,0.007029648870229721,0.004612689837813377,0.0037357606925070286,0.00622207997366786,0.0066242516040802,0.004978853277862072,0.004528458695858717,0.003259661141782999,0.006823393981903791,0.0034911970142275095,0.007032774388790131,0.006948444992303848,0.0077923922799527645,0.004245067946612835,0.007979650050401688,0.00558729562908411,0.006372121162712574,0.0061679440550506115,0.005996380932629108,0.005689060781151056,0.0032585025765001774,0.0035010669380426407,0.0074750445783138275,0.0067806909792125225,0.005120626650750637,0.00664661917835474,0.0052149114198982716,0.00730713177472353,0.003018657211214304,0.0068374075926840305,0.0037263971753418446,0.004871003329753876,0.0034718557726591825,0.0073343925178050995,0.005884596146643162,0.00787709467113018,0.0057231830433011055,0.005368209909647703,0.005669562611728907,0.004355990327894688,0.004920486360788345,0.005480560008436441,0.0073506212793290615,0.006013875361531973,0.002629580209031701,0.007269438821822405,0.004930467344820499,0.007058252580463886,0.00587396789342165,0.005774248857051134,0.007176164537668228,0.003530447371304035,0.0064489832147955894,0.007657991256564856,0.007816983386874199,0.0069782850332558155,0.006476247683167458,0.006179771386086941,0.007562992163002491,0.005025087855756283,0.006599938031286001,0.007390255108475685,0.004437112715095282,0.007923105731606483,0.006834673695266247,0.006259291432797909,0.006650497205555439,0.00605629151687026,0.0059247431345283985,0.0067933425307273865,0.004457827191799879,0.007842948660254478,0.0046494402922689915,0.006673562340438366,0.0055300709791481495,0.004872961435467005,0.006503920536488295,0.00583782559260726,0.0060509503819048405,0.0048223319463431835,0.0033899806439876556,0.007041288539767265,0.007233654614537954,0.0058940439485013485,0.0036321741063147783,0.007146690506488085,0.007055473513901234,0.006730691995471716,0.004680948331952095,0.003909843508154154,0.005035878159105778,0.004363391548395157,0.004415389150381088,0.006518811918795109,0.004311804659664631,0.0053726863116025925,0.006220369599759579,0.0037596700713038445,0.0048981038853526115,0.006708850618451834,0.0053000194020569324,0.006138855125755072,0.007327912375330925,0.004427049309015274,0.007615506649017334,0.008771805092692375,0.003784343134611845,0.007116620894521475,0.004875113721936941,0.006110501009970903,0.004632524214684963,0.006730991881340742,0.007549748755991459,0.005322523880749941,0.003249920904636383,0.003480686107650399,0.007446499075740576,0.00743304705247283,0.006582438014447689,0.004622291307896376,0.007315488997846842,0.006841810420155525,0.006187107879668474,0.006031251046806574,0.00371687114238739,0.0047813416458666325,0.004940427839756012,0.007311142515391111,0.007034311071038246,0.003905413206666708,0.0073424819856882095,0.0031457501463592052,0.005017657298594713,0.003979139495640993
+0.007384790573269129,0.005121059250086546,0.004218997433781624,0.005663209594786167,0.005729341879487038,0.007108239457011223,0.0054868655279278755,0.007775969337671995,0.004179440438747406,0.0021336355712264776,0.00872435886412859,0.0024220538325607777,0.00410448107868433,0.005283534061163664,0.005581305827945471,0.003946610726416111,0.006445522885769606,0.0024103056639432907,0.009502368047833443,0.004355913959443569,0.005489758215844631,0.006983847822993994,0.004220646806061268,0.007200956344604492,0.00551798427477479,0.006818820722401142,0.006631598342210054,0.0060333567671477795,0.007351737003773451,0.006799798924475908,0.006168057676404715,0.006853801663964987,0.002917124656960368,0.006959003396332264,0.003390207653865218,0.008157269097864628,0.004880616441369057,0.0046860878355801105,0.005247779190540314,0.00832515861839056,0.0047187600284814835,0.005764909088611603,0.0036774366162717342,0.0034861399326473475,0.006838371977210045,0.008354856632649899,0.005729513242840767,0.004120419267565012,0.002125834347680211,0.0066595920361578465,0.003049613907933235,0.007517805323004723,0.00714963348582387,0.008776555769145489,0.0036458394024521112,0.007809219416230917,0.006228024140000343,0.006584272254258394,0.005985839292407036,0.0069787222892045975,0.005535848438739777,0.00401231599971652,0.003828654298558831,0.007769101299345493,0.006686181295663118,0.005137946456670761,0.006821881514042616,0.006463675294071436,0.005503562279045582,0.0036601244937628508,0.006563621573150158,0.0024962774477899075,0.004471854772418737,0.002028718590736389,0.007147807162255049,0.005655823275446892,0.008230657316744328,0.005518096964806318,0.0062677995301783085,0.005442452151328325,0.003967870492488146,0.004712709225714207,0.005647645331919193,0.007408930454403162,0.006151395849883556,0.002507993020117283,0.007690032012760639,0.004903178196400404,0.008188728243112564,0.005201247520744801,0.006590467877686024,0.007844350300729275,0.0023507450241595507,0.006365180015563965,0.007843486964702606,0.009347694925963879,0.007298922166228294,0.0063735246658325195,0.006640173494815826,0.00784245040267706,0.00479641929268837,0.005851999390870333,0.007984095253050327,0.004002316389232874,0.007030402775853872,0.00649744039401412,0.005343433935195208,0.006474643480032682,0.006721023935824633,0.00596272200345993,0.006806717254221439,0.0034450783859938383,0.007846961729228497,0.004651803057640791,0.006393050774931908,0.005383096635341644,0.004336557351052761,0.006162392441183329,0.0073628812097013,0.006544805131852627,0.004556627012789249,0.001955897081643343,0.007383572403341532,0.007594498340040445,0.00571985449641943,0.002986760577186942,0.007013907190412283,0.006951797287911177,0.0046846610493958,0.004596714396029711,0.004801967181265354,0.005024257581681013,0.0032783641945570707,0.0035416625905781984,0.009336668066680431,0.0041856300085783005,0.005417000036686659,0.007180229760706425,0.0033431784249842167,0.004350703209638596,0.0061862887814641,0.00587041350081563,0.0060185641050338745,0.006978834513574839,0.0031422905158251524,0.010041950270533562,0.009453565813601017,0.0037049048114567995,0.006818575784564018,0.0036951517686247826,0.00630416302010417,0.004259142093360424,0.006350521929562092,0.007235406897962093,0.004086336120963097,0.002526579424738884,0.004091201350092888,0.008457773365080357,0.007469517178833485,0.0061326040886342525,0.003962728660553694,0.007608260028064251,0.006814906839281321,0.0050355857238173485,0.0060136932879686356,0.0033763516694307327,0.004371678456664085,0.004731705877929926,0.007388904225081205,0.006767318118363619,0.0043263789266347885,0.007541579194366932,0.0034935392905026674,0.004743495956063271,0.003966232296079397
+0.0063006156124174595,0.006277019623667002,0.004282861482352018,0.005022072233259678,0.005638127215206623,0.007863692939281464,0.0053513189777731895,0.004454806912690401,0.0038146288134157658,0.002525215269997716,0.00875953771173954,0.002837992273271084,0.002638746751472354,0.003950364422053099,0.005283232778310776,0.0036678113974630833,0.005137789063155651,0.0028668376617133617,0.00706658186390996,0.004851783160120249,0.005735964048653841,0.0074308388866484165,0.002938586287200451,0.007781450171023607,0.00651294831186533,0.007569106761366129,0.0060051437467336655,0.005718541331589222,0.0071944561786949635,0.006347401533275843,0.006808896083384752,0.0070258574560284615,0.0030482769943773746,0.007201242260634899,0.002719061216339469,0.007956129498779774,0.005173726938664913,0.005095794331282377,0.005239646416157484,0.006416104733943939,0.003125888528302312,0.00776235107332468,0.004379855468869209,0.0031537809409201145,0.006069278344511986,0.0054739066399633884,0.00462326081469655,0.004142175894230604,0.0028984646778553724,0.006354906130582094,0.002935057273134589,0.007386060431599617,0.007385581266134977,0.007530731149017811,0.004405149258673191,0.009152369573712349,0.005389563739299774,0.006692488212138414,0.006197671871632338,0.005718523170799017,0.005717214662581682,0.002576276659965515,0.0033774729818105698,0.008201089687645435,0.008162629790604115,0.005056769121438265,0.0065778219141066074,0.004662781022489071,0.008406278677284718,0.0021374679636210203,0.007490308489650488,0.003957451321184635,0.004681317135691643,0.0028198659420013428,0.008123742416501045,0.00547745218500495,0.008806675672531128,0.005412317346781492,0.004577575251460075,0.0059971436858177185,0.0037137544713914394,0.00459592230618,0.005377835128456354,0.008059482090175152,0.006512169260531664,0.0019522203365340829,0.007940851151943207,0.004905909765511751,0.007433752994984388,0.006037685554474592,0.005230849143117666,0.007881817407906055,0.003522382117807865,0.0067451526410877705,0.008570929057896137,0.008617100305855274,0.007414802443236113,0.007547562010586262,0.006620780564844608,0.008389693684875965,0.004669679328799248,0.007310500368475914,0.007902845740318298,0.004311769735068083,0.008752115070819855,0.007360057905316353,0.0069833919405937195,0.007095295935869217,0.00676000164821744,0.005684073083102703,0.007277266122400761,0.0038782241754233837,0.008540133945643902,0.0045722611248493195,0.007189037278294563,0.005105006508529186,0.004587174393236637,0.006767784245312214,0.006074007134884596,0.0061466326005756855,0.0040177954360842705,0.0028805462643504143,0.00734929833561182,0.00816054455935955,0.006193685345351696,0.0029435332398861647,0.007795705925673246,0.007669440470635891,0.0066397408954799175,0.004279569257050753,0.002704367507249117,0.00414665974676609,0.004397736396640539,0.004152478650212288,0.005329728126525879,0.003690735436975956,0.005220325198024511,0.006425605621188879,0.0037281487602740526,0.004529517609626055,0.007169184274971485,0.004413239657878876,0.005536389071494341,0.008160741999745369,0.0037024677731096745,0.007051892578601837,0.00942329503595829,0.0030611667316406965,0.007514127530157566,0.00474952906370163,0.006254899315536022,0.004009925294667482,0.007507807575166225,0.008318966254591942,0.004745416808873415,0.002832345897331834,0.002807693090289831,0.006759165786206722,0.008200215175747871,0.007065488491207361,0.0047560203820466995,0.008114823140203953,0.0072057717479765415,0.0071203396655619144,0.005804097279906273,0.0033220581244677305,0.004135875962674618,0.005058319773525,0.00821420643478632,0.007675820495933294,0.003332124324515462,0.008120138198137283,0.0021623806096613407,0.004479704424738884,0.003414349863305688
+Questions:
+does it need batteries
+Does it have a DVD with it?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+My nephew, who is three, played with this all evening.
+His sister, who is 6, confiscated it, and he hasn't been able to play with it since.They both love it!It's durable, entertaining, and educational.
+"The latest addition to Matchbox's Stinky line is the gruff Smokey.
+You can bank on the fact that boys like fire trucks, and Smokey has it all; he talks, moves, snores, shoots ""water balls"" which are simply blue clear ping pong balls, and you can drive it around like a truck toy.
+He also has motion and sound detectors so kids feel like he's interacting with them.
+Though Smokey can say almost a hundred things and sing, so far there hasn't been a lot of fire siren.
+This could be good or bad depending on your tolerable noise volumes.
+If you haven't seen one of these toys they are really a tough large toy (on scale with a classic Tonka Dumptruck).
+My three year old already has Stinky, so Smokey was a welcome addition to his artillery and a new favorite.
+Those who like Stinky will love Smokey; otherwise he's still the neatest fire truck on the market.
+Smokey is sure to be a commodity around Christmas time."
+"Initially this toy has a lot of ""wow"" factor going on, primarily due to the fact that the grill of the truck moves like a mouth in sync with its (incessant) talking.But this is not one of those toys that your kid will play with for long periods of time (YMMV of course, depending on your kid), like Legos, or matchbox cars, or Lincoln logs.
+It's more of a stand alone toy that you watch and listen to rather than something to really interact with.PROS:- initially very cool to see the robotics technology implemented- design is cool, looks good, I like the three wheels- I actually like the concept of the ""water"" gun since it's got plenty of shooting power, but harmless due to very soft ballCONS:- Freaking packaging is HORRIFIC, maybe some of the worst I have seen.
+You better have some serious cutting tools to get this guy out of his cardboard jail.- After a while, the style of the toy's voice (very macho, talk-show host/movie trailer, over the top voice) is just grating and annoying.- This is kind of a nit, but the noise of the various joints moving often makes it hard to understand what is being said (not necessarily a bad thing if you don't think fart jokes are funny!
+You hear a kind of mechanical whir every time a movement is made, which is at a pitch that seems to be at least as loud as the voice itself.- the water cannon works about 50% of the time.
+Not a huge deal, because if you keep pumping, it will eventually shoot the ball out, but I doubt it was designed to do that, and if so, why?
+I see some others complaining about the same thing, so it's not just a problem with my particular unit apparently.- You need some strength to move the truck from ""truck"" position to ""standing"" position (and back).
+Not sure younger kids will be able to do this very easily.Ultimately, the toy is more flash in the pan than actual interactive fun.
+If you wanted to play ""trucks/cars"", I think you would likely pick up a Tonka, or a ""real"" Matchbox, or something built mostly for rolling, rather than this kind of gimmicky toy.Not as bad as it probably comes across in my review, but in this day and age of some fantastic toys, it's competing against some serious competition and comes up a bit short."
+I got this for my 3 y.o.
+grandson and he does like it--loves to shoot the water balls, no water just blue ping-pong-like balls.
+I think this truck is for a little older child but the box does say for 3 and older.
+This truck sings, dances and talks all the time even has a moving mouth, cracks jokes that are funny but thank goodness it has a shut off button.
+Seems to be sturdy just doesn't look like it would be.
+Seeing the price of it would make me second quess myself if I had purchased it or I would have to have been asked for the truck.
+Our boy does enjoy it and loves to show it off!
+Ok, so not your typical fire truck toy.
+It talks, transforms, and shoots out balls.
+IT's amusing to the child first, and kids will get a kick out of it.
+However, after 30 minutes, just becomes another toy in the toybox.
+If your kids are into cars or fireman, i think this toy will thrill.
+I saw this toy on clearance at ToysRu, not a good sign.
+"My 4 and 6 year old boys received Smokey andMatchbox Stinky The Garbage Truckfor Christmas.
+They are both really cool.
+Smokey speaks, lights up, dances, sings and launches balls.
+It all works really well except the ball don't shoot smoothly like you would expect.
+Smokey takes 4 ""C"" which are included.
+Smokey and Stinky have been a big hit."
+I got this for my 18 month old grandson who loves bright colors and things that go.
+The fire truck does include balls that can choke a child or pet, so I did take them away for now.
+He absolutely loves this toy and his four and six year old sisters love helping him play with it.The truck is kind of a cross between a truck and a transformer.
+I do have to warn you that if your child decides this is a toy they want to play with for hours...it is pretty noisy.
+Aside from the cannon, the truck features 95 sounds and LED lights.
+The toy talks, sings, and moves.The toy doesn't seem to be that durable in terms of sustaining under the assault of a bunch of enthusiastic toddlers.
+I do, because my grandson is younger than the recommended age, make sure I'm with the kids when they are playing with Smokey.
+There are some small parts on the truck (lights on top for instance) that feel flimsy enough to break off and could become a choking hazard.At the moment Smokey is a favorite go-to toy for the kids.
+They enjoy the the noises, lights, and activities.
+It also provided an opportunity to go to the library and get some books on fire trucks and fire fighting and talk about what a fire department and their equipment and people do.
+This all coincided (by total coincidence) with an annual open house that our fire station does.
+So the kids were able to see how a real fire truck worked and that has given them more grist for their imaginations and play with Smokey.
+My son like this truck, but his cousin got scare all the time she doesn't like the sounds, this toy is very noisy, is a weird fire truck, but is fun, this toy is well made and have a very good quality the colors are nice, and is fun to play.
+"The Smokey fire truck was more fun than I expected.
+I am not crazy about toys that do the playing on their own.
+This one does talk and make noises but the 5 year old was really impressed with the truck's mouth.
+It's mouth moves when it ""talks"" and moves as if it is eating.
+This totally delighted my child.
+I would say I like the toy better in my child's bedroom than in the living room.
+But I have to say if you have a 5 year old it is the perfect gift.
+It does transform which is also a selling point."
+"Yes, Smokey farts.
+Which is perfect for a 4- or 5-year-old boy (my boy will be five soon).
+But if that offends you, then you probably should pass Smokey by.My son doesn't particularly like loud toys, so Smokey was on for a just a bit, and then we turned him off.
+This is a warning for parents with sensitive kids - he's loud but he's fun.The best part of Smokey is that he shoots balls out of his water spout.
+We had a ton of fun shooting them out -- any kid will love that.
+The bad part about shooting the balls -- it doesn't always work.
+You have to tilt the water hose up a bit, otherwise it doesn't work that great.
+This is fine for my son, but an early 4-year-old would become frustrated quickly.
+The balls, I should mention, are firm but soft and perfect for shooting inside the house.My problem as an adult is that I want the most bang for my buck when it comes to toys.
+Smokey costs a bit because of all the talking and moving and singing he does, but other than that, he's just a big fire truck that shoots balls.
+So unless your kid is truly impressed with talking things (like the Elmo doll), then Smokey loses his thrill quickly.
+I even said, ""That's all he does??""
+but then, I'm not 4.I'm giving him three stars because I'm not that impressed with him and I don't like that the balls get stuck and don't shoot out better.
+I think he's a perfect toy for the perfect kid - just not a toy for all types of kids (which are the best kind, in my parental opinion)."
+Out of the toys that our kids have I would say Our Little Pony's Pinkie Pie has a more annoying voice than Smokey The Fire Truck.
+However, it's not annoying to my son, and to be honest, that's really the only opinion that matters.
+:)  I had no problems with the cannons, it's very playful, and my son likes to play with it constantly before he moves on to something else.
+Overall, it's a very good buy!
+Smokey is a pretty cool interactive toy fire truck that makes a good gift for a 2  year old boy.
+Smokey operates in two modes: truck mode and character mode.
+In truck mode it can be pushed around like a regular truck.
+It has lights and sounds, and its mouth moves when it talks, tells jokes, and sings.By pulling on a handle, which is somewhat difficult, the two front wheels come either halfway up or fully upright, and it changes into character mode, like a transformer robot.
+Its head moves and its wheels then flap around like hands.
+You can feed water balls into Smokey's water cannon/fire hose.
+The balls shoot out by turning a handle.
+My son loves anything that shoots.
+You can also push the light bar on top of Smokey to activate his lights and sound.
+Overall, this is a pretty fun toy with lots of features.
+We gave this toy to our 4.5 year old and he played with it for about 30 minutes (most of it with the cannon).
+The toy is amusing but think it is really more for the younger crowd (older 1 - 3 year olds).
+There is no volume control and the balls are rather small.
+I would be concerned with a choking hazard for pets.
+Our son stated that it was a cool toy but wondered why it had a cannon as fire trucks are not supposed to.
+The toy has not been touched for over a week otherwise but may be better suited for a child 3 and under or one who really likes trucks/cars (my son is more into electronics and scientific toys).
+This is such a remarkable toy!
+The things it does is so imaginative.
+It takes quite a while to get out of the package.
+Please note!
+When you open the package, there is a piece that you need to remove from the truck to get the truck to work.
+Also there is a small piece of paper included.
+We almost missed it, so look for it.
+It shows you how to reset the mechanics of the truck in case you encounter any trouble.
+The thing is really loud and can get on your nerves quickly.
+It comes with batteries but they advise to get some more right away.
+Another thing to be aware of..this is an indoor toy only.
+If you get it in the dirt or sand that might be the end of its functions.
+This toy had a lot of potential but I think the makers have made it too complicated.
+It is very hard to operate for even an adult.
+The (canon)balls would not fire properly at all.
+Also changing the shape of the car from one to two story is a big hassle and the instructions are very unclear.
+"Smokey is awesome!
+Funny toy with bunch of different options.
+My son is too young for it now although he likes the truck anyway (as a new toy, very interested in details and lights-just have to watch out for small parts/chocking hazard).My friends came over and their kids loved it (2 year old boy, and 4 and 5 year old girls).It's not very easy to switch the mode for a kid, but there is so many options and truck is always ""busy"", so it kept them playing for long time.I can see that Smokey will be great for interactive playtime with my son even under recommended 3 years and up, he can catch some phrases, dance, sing etc with it."
+"Since my kids are slightly older, I got this for a friend of mine (who has a pre-schooler boy and a couple girls).
+Here's his review:""This is a robot truck that can shoot ""water balls"", transform into a talking person/truck thing and even fart at you.
+My kid loves it.
+My favorite part is the moving mouth that looks like a bumper.The truck seems very durable.
+We had a total of five boys fighting over him at one point and he didn't get trashed.
+There is a lever that you use to change his position and I thought at first when we were teaching my son how to do it was going to get broken for sure.
+Even with five boys clawing for him and smashing him down without using the lever he is fine.
+This is important to me since most toys are broken in some way very quickly.
+Smokey's voice isn't annoying although his talking is incessant.
+Doesn't bother me much though, he is kind of funny and he has a lot of dialogue so you aren't hearing the same phrase over and over.My only complaint would be that the water cannon isn't reliable.
+It shoots maybe 3/5 attempts.
+Usually it's user error though.
+When it does shoot it shoots either very far or it's pretty weak.
+We haven't had the water cannon get jammed though so in my mind this isn't a big deal.
+Also, there are three balls included...yup only three.
+We can find one now.
+"Smokey the Fire Truck in one of the strangest toys I have ever received for my two young boys.
+My Father is a retired Captain from the Boston Fire Department so I basically love anything to do with fire trucks since I grew up around them.Matchbox has clearly designed a toy that goes beyond the basics of a regular fire truck that kids usually play with.
+The closest way to describe this toy is a cross between a tonka style truck, a transfomer toy and talking robot type toy.
+In its simplest form, Smokey can be used as a regular fire truck and can be pushed around a room like a standard truck toy.
+In this stage, Smokey's personality will still be in full force as it will sing, make jokes,and do about 100 other things with its built in recordings.
+The one item that my kids were laughing so hard is watching Smokey's mouth move while he talks.
+It is quite funny.From here, Smokey can be turned into what Matchbox calls ""character mode"".
+Using a handle on the side (and some force...which I will discuss in a moment), the frot two wheels will come up and Smokey will turn into a more interactive style robot.
+The sayings and actions are about the same when its in truck mode but watching the wheels move around like hands is quite a sight!The one part of this toy that got the most use is the fire hose.
+the toy comes with 3 balls that fit into a chute.
+There is a little handle that you crank and the balls shoot out of the water cannon.
+The handle takes a bit to crank but my 4 and a half year old was able to do it without any issues.This is a very fun toy and has a lot of features that should keep little ones playing for hours.
+However, there are a few things that didn't work as advertised.1.
+Transforming Smokey between truck mode and character mode is not as simple as pulling on the handle.
+the one I have requires some siginifcant force to get the front section to open and close.
+using the handle only gets it to move to a certain point and then it is all about force.
+Please, Smokey, stop talking...Smokey seems to have boundless energy.
+Whether he is in traditional fire truck form or standing up like an Autobot, he always has something boisterous on his plastic lips.
+He is like a crazy uncle to play with your children, and hopefully keep them entertained.
+Hearing his constant flow of sound may drive you crazy, but your children may just love it.
+Additionally, he shoots balls!
+Chances are that these will be aimed directly at you, but no worries -- it will only be a flesh wound.
+They shoot with a satisfying click and will help smaller toddlers learn manual dexterity.
+I'm sure many children will set up targets to shoot down as well and pretend (let's hope) that they are putting out fires.Smokey moves his tire arms, sings, and has plenty to say.
+If you have a child in that age of loving this sort of persistent stimulation, this would be a fun interactive toy to consider.
+My grandson is four and he already had two of the trucks in this series.
+He was more than a little pleased to get this one which has become his favorite of all.Don't let the name *Matchbox* fool you -- this toy truck is over a foot long.
+They should probably change the product name so that people who are shopping online know that this is a bigger truck -- I'll bet they're missing lots of sales because of this oversight.
+The specific dimensions are stated on the Amazon product page.As for durability, this is a high-quality product -- It's going to last a long time and it's already seeing lots of use.Highly recommended.
+This truck was a real hit with my two and a half year old son.
+Since this toy is meant for three and up, I believe this toy will be something he will enjoy for years to come.
+He loves to push it around and shoot the balls from the cannon.Although this is a really neat toy and my son enjoys it, I had to take a star off for two problems I found with it.
+As other reviewers have noted, it takes a strong amount of force to push the truck into the lowered position.
+As a matter of fact, I was sure I had a defective truck until I came here and read that others had the same problem.
+You have to push hard enough that you think you will break it and only then will it go into the lowered position.
+It takes too much force for your average child to do this, and that is a definite problem.
+The other issue is that the cannon sometimes does not shoot a ball out, even when one or more is loaded in.
+The ball has to be in the right position in the cannon in order for it to eject when you shoot the cannon; it usually is but occasionally is not and that leads to shots that make noise but the ball does not fire.Overall I like this truck but the two issues I have described detract from the playability.
+I recommend this toy but only if parents are aware that these issues exist and are willing to overlook them.
+My near three year old absolutely loves anything having to do with trains, trucks or earth moving equipment.
+This firetruck is no different.
+This is his first truck that talks and moves on its own.
+He finds it more entertaining just to talk for it but yet enjoys pushing the buttons and driving me crazy.
+The truck says many things and even farts (which some may find offensive).
+The voice is clearly understandable and quite comical although a bit louder then some parent (including myself) might like.My biggest negative comment would be the strength of the truck.
+It's not very solid and if your child sits on it or throws it, it may not take the damage.
+This toy is strictly for indoor use and your child should be warned that if they are ruff with it they may not have it long.With the holidays quickly approaching I'd say overall it's a good choice as a gift as long as your child is not a menace named Dennis.

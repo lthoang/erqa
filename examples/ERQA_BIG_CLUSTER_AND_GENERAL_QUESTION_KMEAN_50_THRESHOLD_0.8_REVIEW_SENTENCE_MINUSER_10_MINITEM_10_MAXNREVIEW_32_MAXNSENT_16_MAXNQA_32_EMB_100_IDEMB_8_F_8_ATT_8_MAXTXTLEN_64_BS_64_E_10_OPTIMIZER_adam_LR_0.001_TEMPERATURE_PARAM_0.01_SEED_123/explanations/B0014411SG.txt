@@ -1,0 +1,183 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+This is wonderful because you get a lot of control over the speed of the game.No matter what time interval you use, the next big difference is the fact that the UNO Flash Base tells you who is going to play next... it's not just clockwise anymore!
+If you do not take your turn and press the button to signify your completetion of your turn in time, there will be a buzzer sound and you will be penalized by a two card pick up.
+"UNO Flash is a good change from the traditional UNO game.
+"Traditional UNO has been one of our family's preferred vacation games for years.
+Sometimes you're even given the chance to play several times in a row.So, are there any negatives?
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.007936200127005577,0.005859168712049723,0.003729613497853279,0.006723600905388594,0.004404963459819555,0.008671198971569538,0.008122733794152737,0.004467512480914593,0.007618441246449947,0.006416980642825365,0.005422000773251057,0.005780300125479698,0.0062891338020563126,0.0060071260668337345,0.0053436169400811195,0.0064233699813485146,0.008208232931792736,0.0031596117187291384,0.006272449158132076,0.004559134598821402,0.005790602881461382,0.00565338134765625,0.0053716497495770454,0.004575981758534908,0.007802397012710571,0.006798447575420141,0.007777814753353596,0.006207465194165707,0.005210195668041706,0.0071827927604317665,0.0037243119440972805,0.005511745810508728,0.005886587779968977,0.0033308493439108133,0.0072211045771837234,0.005551093723624945,0.005159025080502033,0.005055280402302742,0.005346924997866154,0.004867757670581341,0.005815917160362005,0.003593722591176629,0.006296584382653236,0.006307085510343313,0.007207444403320551,0.00569084333255887,0.006561452988535166,0.004682398866862059,0.006933797150850296,0.006764846853911877,0.0059676324017345905,0.005582340527325869,0.004818944726139307,0.006814741529524326,0.0052503482438623905,0.005083358380943537,0.007070798426866531,0.004737062845379114,0.00486989039927721,0.008928495459258556,0.0047601135447621346,0.005380710586905479,0.006400539539754391,0.006040916778147221,0.006012533791363239,0.006527022458612919,0.004245883785188198,0.005749009549617767,0.007356626447290182,0.006400669924914837,0.005799887701869011,0.006288355682045221,0.00603635935112834,0.005583943333476782,0.0064571695402264595,0.005903965327888727,0.007043800782412291,0.009204705245792866,0.006836983375251293,0.005707191303372383,0.007022201549261808,0.006726938299834728,0.008294875733554363,0.004761937540024519,0.005320047494024038,0.0062474412843585014,0.006451609078794718,0.004431701730936766,0.0049104513600468636,0.005472169257700443,0.003770618699491024,0.005833724979311228,0.0056059774942696095,0.0031437515281140804,0.006322133354842663,0.005833724979311228,0.004340497311204672,0.0055504110641777515,0.005861226934939623,0.00665392866358161,0.0053326720371842384,0.00932332593947649,0.008206609636545181,0.006384086795151234,0.006562734022736549,0.007297393400222063,0.017399592325091362,0.005713742692023516,0.004169744905084372,0.006805272772908211,0.005486676003783941,0.005905533209443092,0.004560556728392839,0.0049846358597278595,0.004536882508546114,0.006628309842199087,0.006964485161006451,0.006479725241661072,0.005592558067291975,0.007046944461762905,0.006292260717600584,0.004788829945027828,0.006708079017698765,0.006812007166445255,0.005360419861972332,0.004018609412014484,0.0061240289360284805,0.008331849239766598,0.011016669683158398,0.00508503383025527,0.00731342937797308,0.008038449101150036,0.007187233306467533,0.0036004718858748674,0.005340524483472109,0.005376859568059444,0.00513765262439847,0.0054341647773981094,0.009573831222951412,0.004633413162082434,0.006427181884646416,0.005830127280205488,0.0033794757910072803,0.004518195055425167,0.005307788494974375,0.005827304907143116,0.006801552139222622,0.005260785575956106,0.004687027540057898,0.007240572478622198,0.005430505145341158,0.0076638562604784966,0.0022115425672382116,0.0034978289622813463,0.005130802746862173,0.004230431746691465,0.005317945498973131,0.0056011006236076355,0.007977292872965336,0.005208640359342098,0.007635209709405899,0.0038676951080560684,0.006498314905911684,0.005870347376912832,0.005318472161889076,0.005841015372425318,0.005153420381247997
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+"Uno Flash brings the classic Card Game Uno into the electronic age but it also costs a little over SIX TIMES what normal Uno costs.
+Don't believe me?
+Uno sells for 4.99 here on Amazon while Uno Flash is currently at $30.53.
+Are the changes and advancements really worth the price increase?
+I'm afraid not.My biggest concern is that Uno Flash is designed specifically to be used with the electronic randomizer.
+There are no Reverse cards in this version of Uno and they have been replaced with Slap Cards.
+As such, if you break the electronic piece (and it is rather flimsy), you can't just go, ""Okay, we'll play normal Uno now.""
+Nope, the cards are fundmentally worthless and you'll need to purchase a whole new Uno Flash.
+I can't get behind that.I do like that Uno Flash institutes a time limite of between 4 and 6 seconds for a player's turn.
+It forces the player to think on their feet instead of taking forever.
+I also think the randomization of who goes next is a neat idea, but sometimes a player can get two or even three (the latter only happened once though) turns in a row.
+This really unbalances the game and as such may set some players off.In all, it's a nice change of pace if you're really a hardcore Uno player that is looking for yet another slight twist to the game, but the cost is jost nor worth it when both versions are compared to one another."
+The general concensus from the 5 people that played this game together (ages 11, 13, 46, 67 and 69) is that it definitely rates at least 4 stars.
+We had a great deal of fun playing it.
+We all enjoy playing Uno, and while this is an Uno game, it takes on a whole different feel.
+It's a fast-pace game and took a little getting used to.
+But, in the process, we had a lot of laughs.So, if you like Uno, or other fast action games, consider Uno Flash because I think you will really enjoy it.
+"This is a fun twist on a classic game...Pros:It's Uno!
+Just a mildly different version...Adds a little excitement to the game...
+Instead of a casual game of laid back uno, this one had all of the players ready to attack... A novel element for uno, to say the least...Teaches kids to be flexible as it is not played with traditional, predictable turn takingSeems to be fairly durable.
+I dropped it and it survived.
+(I am the klutz of the family)...Cons:Loud.
+Very loud.
+A couple of pieces of packaging tape/carton tape over the speaker (which is thankfully on the underside) brought it back down to conversational level...The instructions make it seem too complicated.
+Once you figure out how the ""gadget"" part works, just remember it is Uno.
+It isn't that complicated :-)There is a new card though, the ""SLAP"" card, which is a race to hit the buzzers...
+The last one to hit their buzzer draws the penalty... For now we are focusing on just the basic game play without using the slap card, but please keep in mind we are playing with two adults and a younger child...One of my favorite things about traditional Uno is that it is portable... We have a deck in our home and a deck in our emergency/hurricane kit... Uno Flash is not that portable, and due to the loudness factor, it is definitely a stay at home game....My child, who is extremely rules based, is working on learning some flexibility - I think the randomness of turn taking with Uno Flash will help him a bit...
+When we aren't playing and working on those skills though, he seems to have adapted the console/gadget portion into a strange game of simon...Oh well, we'll play some uno and his hand-eye coordination might improve...I also am not sure about long term playability for us as larger games tend to wind up in the game closet and they stay there...
+The Uno Flash console measures around 12"" x 10"" x 2""....The cards can store right in the console, but they are uncovered/unsecured...We have played a few rounds and it is fun...
+While the game might not necessarily be quicker (unless you set it on one of the shorter time settings, when playing with smaller kids who are just learning I recommend the unlimited time setting) to play, the gameplay and player interaction has much more energy and the fact that it decides who goes next and who is skipped when a skip card it played, randomly, may help dispel sibling arguments and conspiracies and more time can be spent playing together...And that can be a good thing..."
+My family loves the game of UNO and we were excited to get this new Flash version.While it is fun to play, the sounds get annoying after awhile.The game decides whose turn it is next, which makes for an added element of excitement.
+You wait for your light to flash before you can take a turn.
+Otherwise it is basically the same game.
+"This Uno game needs three AA batteries, these came in the game, there are 108 Uno cards, and the Uno Flash Game Unit.The fundamental rules of Uno still apply, draw two, skip cards, draw four.
+You still have to play a like color or number on the last color or number played.
+The difference is that this game is electronic and it chooses who goes next.
+There are 6 player buttons around the outside of the unit, a slap button and a play pause button on the top.
+Underneath the game you can adjust the time in between turns from 4 secons, 6 second or infinity.
+The on off switch is on the back of the game as well.Each player recieves 7 cards.
+You put the draw cards in one card well and flip one card into the discard well.
+Select how much time you want between each turn.
+You flip the game on and the music starts playing (this annoyed the patriarch in our family, he thought the sound should be adjustable).
+You need to select the player buttons that will be in play, between 3 and 6 players.
+Then you hit the play/pause button to get the game started.
+The game tells you who goes first by making the players button blink.
+If you selected time play they must play within that amount of time or they must draw 2 cards from the draw pile.
+If you do not have a card to play you draw one card and hit your player button to indicate the end of your turn.The game will then select the next player.
+So be careful with those draw fours you might be next!The new card to this deck is the slap card.
+If someone plays the slap card instead of hitting your button you hit the slap card on the game board and each player must race to hit their player button first, the last payer to hit their button will have to draw two cards.
+I love UNO.
+It's one of my favorite card games.
+I do not, however, love this newest reincarnation.
+Game play is random.
+If you player button flashes, it's your turn.
+You place a card with the same number or color down on the discard pile.
+If you put down a draw two, draw four, etc, it effects the next randomly selected player.
+Whoever discards all their cards, wins.The sound quality was good, the durability was good, but the random player selection makes this version not so much fun.
+I've always found that UNO's biggest strength is that you can choose who to hit with your 'draw' cards.
+This game takes that away.
+You can't have any fun 'vendetta's' against your friends or play Team UNO.If you don't mind the random player selection, then try this game out.
+It still has elements that are fun and it would be great for people who like fast paced games.
+If you are like me, however, and like to pick and choose who gets hit with what 'draw', then I'd hold off and get the card game.
+There's not much more that can be said about this game that hasn't already been written in other reviews.Our family loves games, and we are veterans of regular Uno & Uno Attack!
+Our kids are 9 and 6, and they love this game.
+It takes a few rounds to get used to, but after that it is a lot of fun!
+You can't really take it along in the car on a trip...that's what regular Uno is for....but it's a great game to play with the family around a table.Highly recommended!
+"Uno Flash is essentially the regular game of Uno, but with a twist.
+The main difference being that the game includes an electronic ""board"" where you play the game.
+With the electronic board, it adds several different new elements.
+* Player's turns can last 4 seconds, 6, seconds, or be an unlimited amount of time (this can be changed on the device)* Each turn is randomly selected by the electronic board.
+When it's your turn, your light turns on, and you need to play.
+Once done, you push your button for the game to randomly select the next player.
+If you don't, draw two cards.
+* The ""Hand"" card is a new card for the game.
+Whenever a hard card is played, the player also pushes the uno button, and the rest of the players need to hit their button as fast as possible.
+The last player remaining has to draw two cards.It's actually a pretty fast-paced, fun way to play the classic Uno game.
+You need to keep your eyes on the game the whole time, otherwise you can miss your turn, or forget to press your button if the hand card is played.
+Sometimes you're even given the chance to play several times in a row.So, are there any negatives?
+Definitely... Two big ones come to mind.1.
+You get really sick of the sounds during the game (at least I did)2.
+Sometimes, since the game is random, players will never get a turn.
+I, for instance, the first two times I played was selected quite often.
+"UNO FLASH is a fast-paced, fun family game.
+Most traditional UNO rules apply, but the game has a new ""slap"" card featured in this edition.UNO FLASH has 3 settings for timing: 4 seconds, 6 seconds and infinite (or untimed).
+Our family chose to play it on 4 seconds, which is a real blast.
+The action really gets going when the time is counting down.
+I'm not sure younger children would be able to play with the 4 second timer, but older children and adults are sure to love the fast action.UNO FLASH also has a random feature that randomly skips players, selects the same player twice, and really makes the game fun and challenging.
+The random feature adds a ""surprise"" to every round, which our family really enjoyed.The game itself is fairly loud, which would make it an excellent party game, and the flashing lights do get a little annoying after extended play, but other than this, I give UNO FLASH high marks for a fun and educational game that both children and adults will love."
+We love Uno.
+It's fast paced and better than the Uno cards game we have, even better then Uno Attack!
+This is not your Father's Uno game.
+It is much improved and a lot of fun.
+It is a really fast-paced game and may be too hard for younger players to keep up with, but for older kids (age 10)and up, this game is a riot.
+You choose how much time each player has to make a play and then the Uno console randomly chooses whose turn it is.
+Gone are the days of clockwise card playing.
+Each player must be ready to play quickly or lose their turn.
+It helps if everyone has already played the traditional Uno card game and understands how the game is played.
+This game was a hit at our house and kept the older kids occupied for hours.
+This is a must have for anyone who loves a good, fast-paced game.
+Even the adults had a blast playing this game.
+Put this game under the Christmas tree, it will be a sure hit.
+"Traditional UNO has been one of our family's preferred vacation games for years.
+I'll take it for granted that you know the basics of regular UNO, a game that is not hard to learn and a lot of fun to play.Now add in this UNO Flash Base.
+There are several small differences, but it definitely keeps to the tradition of the game.
+The biggest difference is the ability to make the game a little more fast-paced with a lighted count-down timer and lively tones while it does so.
+You can set the timer to four or six second intervals, or you can choose to turn the timer part altogether.
+This is wonderful because you get a lot of control over the speed of the game.No matter what time interval you use, the next big difference is the fact that the UNO Flash Base tells you who is going to play next... it's not just clockwise anymore!
+You might even play twice in a row.
+When the light is on your spot, you play, you play quickly, and then you hit your button to beat the timer and send the spinner-light to the next player... which might be you again!I like this because it takes away the animosity factor to the person who always plays before you.
+Not that anyone ever throws punches during these games, but when you see a card played, you can be hopeful that you're the next to play, thus whenever that person on the other side of you throws down the perfect card yet again, you feel competitional hope rather than, ""oh, man, why didn't I sit next to her?
+""This means that there are no ""reverse"" cards in the deck.
+Don't need 'em.
+It's built into the fun, flashy thing in the center.
+Younger players are definitely going to like this version better than the traditional version because it's more lively.Still, there are easy to use controls to pause the game if necessary.
+If someone accidentally knocks your card on the floor, hit the pause button.
+If you need to visit the rest room, hit the pause button.
+An alarm goes off if you haven't washed your hands when you return.No, I'm just kidding about that last one, but maybe we'll see it in UNO Flash Game 2.0!All in all, this really is a fun game and enables intergenerational play.
+Even though the age says 7 to 11 my 5 year old grandaughter loves this as much as I did.
+As soon we started playing this we knew that we had found a great game for the family.
+Everyone had so much fun we forgot to put the little ones to bed.
+"I love UNO!
+This takes the regular Uno and it's former rules and tosses them out the window.
+- fun for all - After dealing out the normal 7 cards, you select your player button (any of the 6 red buttons)to signal a person is sitting at that paticular location.
+once all the players have selected their spot, press the play button and the computer will then randomly choose the next player.
+you will know if it is your turn if your corresponding button flashes.
+Press your button again to signal to the computer that your turn is finished so it can select the next player.
+The computer continusly does this randomly (you may go 3 times in a row so be forewarned) this also means that you could be hit with your own draw four too..as for the duration of your turn, that can be determined with one of the switches on the underside.
+Choose from unlimited (no time constrait), 6 seconds or 4 seconds to take your turn.
+If you do not take your turn and press the button to signify your completetion of your turn in time, there will be a buzzer sound and you will be penalized by a two card pick up.
+The box also states that it wants 3-6 players, but I was very pleased that it did accept only 2 players..There is also a new ""Slap"" card where once it is played, every player must immediately press their player button and the last one (the computer will tell you by blinking the last player's button hit) must then pick up two cards.
+(This does not apply to  2 person game though) - I will say that this is a really fun game which brings on tons of laughs!"
+I tried out this game with my granddaughter.
+Both of us are already familiar with the game UNO and enjoy playing the original version.
+The UNO Flash game did add a few new bells and whistles...ok, literally, NOISE, to the game (no sound on/off button on the game unit warranted a 4 star rating instead of a 5 star rating).
+And the flash unit also sped up the play of the game, which is a positive.
+All in all, I think this is a fine innovation, but I wouldn't recommend that someone purchase it instead of the original game.
+I think the original game stands on its own as the all time favorite, but this game unit can also be enjoyed when something different is desired.
+I believe this electronic game will particularly appeal to the younger members of the family.
+"UNO Flash is a good change from the traditional UNO game.
+My family really enjoys it.
+My husband even said, ""This is the most fun I've ever had playing UNO"".
+My son who is 5 & my daughter who is 7 both really enjoy this game.
+We all laugh until we have tears in our eyes.The game unit randomly chooses whose turn it is from the very start so although you might wish to play a Wild Draw Four Card it may come right back to you & you may be the one having to draw the 4 cards.In this game you have the traditional Draw Two Card, Skip Card, Wild Card, Wild Draw Four Card & a Slap Card.
+When a Slap Card is played the person presses the ""SLAP button"" & you hear a toot toot sound meaning everybody needs to hurry & press his or her individual Player Button.
+The last person to hit their button must draw 2 cards.
+Their player button flashing up indicates that they were the last one to hit the button.
+This is what will give you the most laughs.There's also a change to the Draw Four Wild Card.
+You may only play this card when you do NOT have another card in your hand that matches the color on the discard pile.
+If you believe somebody played this card when they could've played the color in the discard player you can call them out & make them show you their hand but be aware that if they weren't bluffing then not only will you have to draw the 4 cards but an extra 2 as a penalty.
+If the person who laid the draw 4 card was bluffing then they are the one who has to draw the 4 cards.Since our kids are still kind of young we have choose not to use the timer with them but if choose to have a timer each person is give either 4 or 6 seconds to finish their turn.
+If they are not done before the time runs out then they have to draw 2 cards.
+There is a switch on the bottom that allows you to choose no timer, 4 seconds or 6 seconds.In order to win the game you need to be the first player to reach 500 points.
+When a player runs out of cards & wins the round they add up the other players cards (according to a chart) & that's the amount of points that the winner of that round gets.
+The game continues until somebody reaches 500 points.
+What happens at Mattel when you give your game designers a couple of cans of Jolt cola and a double shot of espresso?
+Uno Flash.
+The frantic cousin of the time tested favorite Uno, this game is fun to play.
+Gone is the strategy of playing cards against your neighbors.
+Now a Simon-like module dictates (randomly) the playing order.
+To make things more complicated you can also set a time limit to each turn.
+This definitely adds an adreniline rush to the game.This is a fun, fast paced game for those who enjoy Uno.
+I like the fact that you can disable the time limit.
+This is helpful when you are playing with small kids.
+Speaking of kids they love watching the lights flash.
+Anticipating who will be next in turn.
+Both our 5 year old and 8 year old ejoy playing Uno Flash.
+Definitely a keeper.

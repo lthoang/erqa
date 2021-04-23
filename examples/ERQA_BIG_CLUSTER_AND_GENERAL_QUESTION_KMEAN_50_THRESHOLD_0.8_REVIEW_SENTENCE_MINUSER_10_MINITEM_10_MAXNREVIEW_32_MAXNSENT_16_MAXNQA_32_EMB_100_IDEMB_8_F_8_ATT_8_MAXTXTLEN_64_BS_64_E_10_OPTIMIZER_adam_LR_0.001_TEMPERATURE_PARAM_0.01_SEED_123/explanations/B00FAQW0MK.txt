@@ -1,0 +1,200 @@
+Top question(s):
+Does this float? I want something for the tub :).
+What age is it recommended for?
+Top sentence(s):
+Though, those do work on the track.To make the cars change color this track comes with two places for pools of water--which must be one hot and one cold to get the cars to change--a messy prospect that most moms (me included) will not relish.
+But between the required adult setup, and cleanup it loses some of its appeal.
+It looked confusing and didn't have good directions.
+The only thing I really didn't like of the toy was the water aspect.
+Let the imaginations run wild and you rescue your toys from the chomping dinosaur!
+
+Question attention weights:
+0.30186235904693604,0.251443088054657,0.22345773875713348,0.11638563126325607,0.10685117542743683
+Sentence attention weights:
+0.006136306561529636,0.006332211196422577,0.004988626576960087,0.007437625899910927,0.003853310365229845,0.004068769980221987,0.005286393221467733,0.005537280347198248,0.005224672146141529,0.005923079326748848,0.005422447808086872,0.004976630210876465,0.005814602132886648,0.004419067408889532,0.005291030742228031,0.005328991450369358,0.006580413784831762,0.00451786071062088,0.005060470663011074,0.004845560062676668,0.006349499337375164,0.00580062810331583,0.0063552274368703365,0.004986266605556011,0.007034675683826208,0.006060988642275333,0.004951472394168377,0.005619698204100132,0.005178431514650583,0.005921104922890663,0.006009785458445549,0.0046816421672701836,0.005085181910544634,0.005147277843207121,0.005564368329942226,0.0033487670589238405,0.0043349177576601505,0.006296782288700342,0.005485784728080034,0.005051826126873493,0.0057560745626688,0.007266722619533539,0.005263940431177616,0.00633764173835516,0.0043135457672178745,0.004980755969882011,0.00549929728731513,0.008448540233075619,0.006013433914631605,0.006171562243252993,0.005131001118570566,0.006091887131333351,0.0063341595232486725,0.007286813575774431,0.006304946728050709,0.005115623585879803,0.005827776622027159,0.00551341287791729,0.0062800305895507336,0.005020987242460251,0.0041676973924040794,0.0065629747696220875,0.006014110520482063,0.006467074621468782,0.005843393038958311,0.007534651085734367,0.006868893280625343,0.006746222265064716,0.004500991199165583,0.006105662323534489,0.005536935292184353,0.006433240137994289,0.005665261298418045,0.005924671422690153,0.0044866022653877735,0.004243857692927122,0.006010118871927261,0.005867999978363514,0.005495906341820955,0.00760834664106369,0.0047773695550858974,0.006789918057620525,0.005971849430352449,0.006427722983062267,0.0055152554996311665,0.0060904487036168575,0.006497180089354515,0.006427237298339605,0.0062175034545362,0.006022995803505182,0.0061045242473483086,0.00372488284483552,0.004977707751095295,0.007068830542266369,0.006319008767604828,0.0059538367204368114,0.005128070712089539,0.005235677119344473,0.005753266159445047,0.006233916152268648,0.005759226158261299,0.0051931035704910755,0.006849611643701792,0.005108505487442017,0.0062301624566316605,0.008634176105260849,0.0068609751760959625,0.006278197281062603,0.005642089527100325,0.006115279626101255,0.005689830984920263,0.005932475905865431,0.005324255209416151,0.007219795137643814,0.0074525694362819195,0.0043753981590271,0.006032939068973064,0.005323091521859169,0.0033031566999852657,0.005651077255606651,0.0061037871055305,0.006078348960727453,0.00456102704629302,0.00598128093406558,0.005075116641819477,0.004729095846414566,0.0063356622122228146,0.0056796446442604065,0.004104433115571737,0.0061061326414346695,0.005852930247783661,0.0054399496875703335,0.00427623838186264,0.005978628061711788,0.006098591722548008,0.00576816825196147,0.0055954335257411,0.00593927875161171,0.005577931180596352,0.007125397678464651,0.006541477050632238,0.005638863891363144,0.006211285945028067,0.0070992824621498585,0.004983776248991489,0.004556775093078613,0.0058310991153120995,0.004629913251847029,0.004627414047718048,0.0052083926275372505,0.005498649552464485,0.006215544883161783,0.00621024752035737,0.0062806569039821625,0.003271186025813222,0.004754898604005575,0.005880437791347504,0.004793177358806133,0.006553035695105791,0.004853672347962856,0.004495824221521616,0.003938957117497921,0.006654317490756512,0.0055623166263103485,0.006846221163868904,0.005648612044751644,0.010575092397630215,0.00351237622089684,0.005784535314887762,0.006729565095156431,0.006314955651760101,0.004621515516191721,0.006213455926626921,0.005838438402861357,0.005651387851685286
+0.0060220458544790745,0.0060229068621993065,0.005141274072229862,0.008170166052877903,0.0035696213599294424,0.003459679428488016,0.0048220218159258366,0.004460567142814398,0.00523039884865284,0.006697269156575203,0.005212071817368269,0.0047760591842234135,0.005646915640681982,0.003615303197875619,0.005884933285415173,0.004602944478392601,0.007185799069702625,0.004117390140891075,0.004817110951989889,0.004537634085863829,0.006379859056323767,0.005639886949211359,0.006537020206451416,0.005247186869382858,0.007086621597409248,0.005963440984487534,0.004233249928802252,0.00458214245736599,0.005418213550001383,0.005885058548301458,0.006157628260552883,0.004751705564558506,0.0047490415163338184,0.004904572851955891,0.00553801329806447,0.0026973735075443983,0.0038305488415062428,0.006260053254663944,0.004694011062383652,0.0049418178386986256,0.005726702976971865,0.00792474765330553,0.004825640935450792,0.00651720492169261,0.0041618747636675835,0.004996690433472395,0.005733896046876907,0.009781328029930592,0.005933114793151617,0.006213977932929993,0.0048964060842990875,0.005888708867132664,0.00639475230127573,0.007661611773073673,0.006265921983867884,0.005584599915891886,0.005945776589214802,0.005310609471052885,0.006436367519199848,0.004235612694174051,0.0034287760499864817,0.007208036724478006,0.005978289060294628,0.0074887461960315704,0.005664469208568335,0.00792973954230547,0.007923983037471771,0.007529865484684706,0.003842157544568181,0.006742643658071756,0.004994949791580439,0.0070144739001989365,0.006097534671425819,0.005860528908669949,0.003961564041674137,0.003670635400339961,0.005984712857753038,0.005711312871426344,0.005405181087553501,0.007962621748447418,0.0051770866848528385,0.007130439393222332,0.005893130786716938,0.007041178178042173,0.0047464738599956036,0.005960827227681875,0.006649665534496307,0.0060533094219863415,0.005838136654347181,0.005943123251199722,0.0061764647252857685,0.0030703269876539707,0.00485484441742301,0.006256358232349157,0.006858272477984428,0.0062105306424200535,0.004940527956932783,0.005031393375247717,0.006116887554526329,0.0062975515611469746,0.005566275678575039,0.0048278216272592545,0.006320736836642027,0.005052988883107901,0.006946691311895847,0.009278723038733006,0.0067990683019161224,0.00640091160312295,0.006006020586937666,0.006280640605837107,0.005628667306154966,0.005786385852843523,0.005300441756844521,0.007534504402428865,0.00805309321731329,0.004463581833988428,0.0063506076112389565,0.00560826575383544,0.0026664272882044315,0.006036132108420134,0.007054541725665331,0.006819761358201504,0.0038538759108632803,0.00585536565631628,0.004859976936131716,0.004514690954238176,0.007502176333218813,0.006653830409049988,0.0034579923376441,0.006025634240359068,0.0057029821909964085,0.006470270920544863,0.0037460471503436565,0.005770804826170206,0.006162717938423157,0.005203366745263338,0.0058533200062811375,0.005878378637135029,0.006050160154700279,0.007899096235632896,0.006286380812525749,0.005370312370359898,0.0062597948126494884,0.007148594129830599,0.004713346716016531,0.0042945267632603645,0.005762893240898848,0.003929717466235161,0.0042402129620313644,0.004527236334979534,0.005390570033341646,0.006303244270384312,0.006250069476664066,0.006723582744598389,0.0023942706175148487,0.004203289747238159,0.005813909694552422,0.004709447734057903,0.008060635067522526,0.004061561077833176,0.0039445762522518635,0.003336662892252207,0.006537753622978926,0.0058568064123392105,0.00738589046522975,0.0063398475758731365,0.013539074920117855,0.002879801206290722,0.005405171774327755,0.007109392900019884,0.006539341527968645,0.004367551766335964,0.006187423598021269,0.005734074395149946,0.005578286480158567
+0.0061194333247840405,0.005728894378989935,0.005373589228838682,0.00903603620827198,0.0034278067760169506,0.0032471755985170603,0.0043445467017591,0.0032509758602827787,0.005480106920003891,0.0076662213541567326,0.005050283391028643,0.004696507938206196,0.005482573993504047,0.0029078854713588953,0.006607544608414173,0.003904151963070035,0.008213851600885391,0.0037153824232518673,0.004500356502830982,0.004528115037828684,0.006202823482453823,0.005297820549458265,0.0067784832790493965,0.005456955637782812,0.006206511985510588,0.005802399478852749,0.003544615115970373,0.0033472245559096336,0.005728078540414572,0.005728677846491337,0.006047945003956556,0.004856381565332413,0.00408758083358407,0.004368917550891638,0.00545499986037612,0.0019600996747612953,0.003292711218819022,0.006608820520341396,0.0038908841088414192,0.004986797925084829,0.005598363466560841,0.008460019715130329,0.004417268093675375,0.0059251622296869755,0.003921521827578545,0.004821975249797106,0.006316523067653179,0.011878435499966145,0.005893639754503965,0.00622160779312253,0.004627625923603773,0.005600767210125923,0.006284349597990513,0.00753506924957037,0.005944728385657072,0.00649642338976264,0.00616467697545886,0.005401080474257469,0.006669891532510519,0.0034501468762755394,0.002549143275246024,0.007899888791143894,0.005833187606185675,0.007901039905846119,0.00518093490973115,0.00901548657566309,0.00940412562340498,0.008755379356443882,0.003225594526156783,0.007569438777863979,0.004249506164342165,0.0075603146106004715,0.00660857604816556,0.00560577679425478,0.0035093536134809256,0.0031289109028875828,0.005904045421630144,0.005508605856448412,0.005035387817770243,0.008117243647575378,0.005512536037713289,0.0076813711784780025,0.005764354486018419,0.006966354791074991,0.00380938989110291,0.006227187812328339,0.006906949914991856,0.005476139020174742,0.005569415166974068,0.00581980450078845,0.005845700390636921,0.002464803634211421,0.004716434516012669,0.004253172315657139,0.007615583948791027,0.006955220364034176,0.00463828956708312,0.004709021188318729,0.006440406199544668,0.005549364723265171,0.005298137199133635,0.0042449431493878365,0.006085955537855625,0.005175249185413122,0.007098875939846039,0.010017473250627518,0.006627621594816446,0.006598592270165682,0.006352809723466635,0.00660152779892087,0.005662412848323584,0.005812639370560646,0.005735672079026699,0.007699644658714533,0.0074919890612363815,0.004751310218125582,0.006625673733651638,0.005997412838041782,0.002301823580637574,0.006558587308973074,0.007983817718923092,0.007207851856946945,0.0032551991753280163,0.005748568568378687,0.004633086733520031,0.004220407456159592,0.009388715960085392,0.007880971767008305,0.0028821141459047794,0.005365213379263878,0.005553523078560829,0.0075343637727200985,0.0031830763909965754,0.005728938151150942,0.006317479535937309,0.004528127145022154,0.0066552297212183475,0.0057710641995072365,0.006721649784594774,0.007670861203223467,0.006009337026625872,0.005250271409749985,0.006277047097682953,0.007039017975330353,0.004362827632576227,0.004007959738373756,0.005518640391528606,0.00349443475715816,0.004052797332406044,0.004006300121545792,0.005206767003983259,0.006293239537626505,0.006273256149142981,0.007093212101608515,0.0018921687733381987,0.0037462932523339987,0.005678309593349695,0.0044710952788591385,0.009192285127937794,0.003061202820390463,0.0034564973320811987,0.002694847993552685,0.00627701124176383,0.006719110067933798,0.007850651629269123,0.007126166019588709,0.01840478554368019,0.0025525554083287716,0.005229285452514887,0.007158633787184954,0.007233107928186655,0.004203805699944496,0.006014838814735413,0.005595099180936813,0.005545671563595533
+0.0063622635789215565,0.005807519890367985,0.005001075565814972,0.008089955896139145,0.003605558769777417,0.004038101062178612,0.005185350775718689,0.004602316301316023,0.005591444205492735,0.006990806199610233,0.005411010235548019,0.004909462761133909,0.005607082974165678,0.00372580555267632,0.005981110502034426,0.004694572649896145,0.007501538377255201,0.0038864887319505215,0.004600159358233213,0.004877294413745403,0.006141825579106808,0.005465974099934101,0.006331802345812321,0.004813026636838913,0.006787037942558527,0.0057471320033073425,0.004133658949285746,0.004926302935928106,0.005180549807846546,0.005619359668344259,0.006307144183665514,0.004733309615403414,0.004802829120308161,0.004931272007524967,0.005464030429720879,0.002664771396666765,0.0038236547261476517,0.006988971494138241,0.005098425783216953,0.004783938638865948,0.005784053821116686,0.007665186654776335,0.005115453153848648,0.006726781837642193,0.004012854304164648,0.004783913493156433,0.00540383392944932,0.009230662137269974,0.005753483157604933,0.00595582602545619,0.0046384590677917,0.005786410998553038,0.006126636639237404,0.007691571954637766,0.006079251877963543,0.005177846644073725,0.005844240542501211,0.005250937305390835,0.006252332124859095,0.004274553153663874,0.0038133449852466583,0.006888602860271931,0.005738311447203159,0.007294151466339827,0.005586590152233839,0.008598408661782742,0.007969563826918602,0.007139012683182955,0.003773934207856655,0.0065351808443665504,0.004962810780853033,0.00687398063018918,0.005833635106682777,0.0056309024803340435,0.00407004589214921,0.003767202375456691,0.005760964006185532,0.005599468480795622,0.00512581504881382,0.007935933768749237,0.005009484477341175,0.006832989398390055,0.005667179822921753,0.0064568594098091125,0.004926065914332867,0.006083483342081308,0.006460958626121283,0.006068569142371416,0.0057258158922195435,0.005713953636586666,0.005837662611156702,0.0030807640869170427,0.004702895414084196,0.006592106074094772,0.006627496797591448,0.00650928495451808,0.00470207491889596,0.005017290357500315,0.00589093379676342,0.006341013126075268,0.005443947855383158,0.005248851142823696,0.007071070373058319,0.005158471409231424,0.007217872887849808,0.009945953264832497,0.006678163073956966,0.006192827131599188,0.006045763846486807,0.006090564653277397,0.005816296208649874,0.005741451401263475,0.005618846509605646,0.007339582312852144,0.008376418612897396,0.004426974803209305,0.006243158131837845,0.005307558458298445,0.002745003206655383,0.005845705978572369,0.006809997837990522,0.006837652996182442,0.004302652552723885,0.005678766407072544,0.004616157151758671,0.004408164881169796,0.007758385501801968,0.007073697168380022,0.003497448982670903,0.005720167420804501,0.005443165078759193,0.0065905130468308926,0.003887815633788705,0.005842212587594986,0.005848343949764967,0.005231701303273439,0.005609395448118448,0.005628630053251982,0.006456084083765745,0.007677099667489529,0.006066811736673117,0.005488198716193438,0.006007694639265537,0.007151199970394373,0.004983004182577133,0.004739515949040651,0.005536333657801151,0.004321877844631672,0.004796445369720459,0.004776963964104652,0.005149126518517733,0.006031572353094816,0.006002287846058607,0.007226559333503246,0.002952881623059511,0.004252271261066198,0.0055789705365896225,0.00441629346460104,0.007969335652887821,0.0042488714680075645,0.004476363305002451,0.003733762539923191,0.006610462442040443,0.006331896409392357,0.007042732089757919,0.006855706684291363,0.013648569583892822,0.0032920667435973883,0.005499385762959719,0.007631824351847172,0.006692743860185146,0.004194149747490883,0.0059383525513112545,0.005480396095663309,0.005489835981279612
+0.006511655170470476,0.00583137571811676,0.004895457066595554,0.008189796470105648,0.003513720352202654,0.004161507822573185,0.005221296101808548,0.00469760550186038,0.005640377290546894,0.006956951227039099,0.005474881734699011,0.00492161326110363,0.005615526344627142,0.0037635392509400845,0.005889988504350185,0.004751716274768114,0.007645976729691029,0.0038197471294552088,0.004551625810563564,0.005002254620194435,0.006148874294012785,0.005453730002045631,0.006310426630079746,0.004594999365508556,0.006794608198106289,0.005739244632422924,0.00411736685782671,0.005008043721318245,0.00505739776417613,0.005594004411250353,0.006276140455156565,0.004639205988496542,0.004776802379637957,0.004918762948364019,0.005424220580607653,0.0026252372190356255,0.0038066667038947344,0.0071774995885789394,0.005214115604758263,0.004738824907690287,0.0057951463386416435,0.00763810146600008,0.005175003316253424,0.006784177850931883,0.003935292828828096,0.004708144813776016,0.005259543191641569,0.009133190847933292,0.005766233894973993,0.005947646219283342,0.004588048439472914,0.005776627920567989,0.00612209876999259,0.00774477468803525,0.006077317520976067,0.004965776111930609,0.005833431612700224,0.00529496232047677,0.006239864509552717,0.004294004291296005,0.0039025445003062487,0.006828176788985729,0.005732794292271137,0.00713574280962348,0.005611615255475044,0.008796659298241138,0.007911346852779388,0.007069714833050966,0.003720018081367016,0.0064894817769527435,0.004953238181769848,0.006845647469162941,0.005741680972278118,0.005625518038868904,0.004000438377261162,0.003784904023632407,0.00574784679338336,0.005615870468318462,0.005085633136332035,0.00806002039462328,0.00483607966452837,0.006816098000854254,0.00565991410985589,0.006333249155431986,0.005034240428358316,0.006173582281917334,0.006471882574260235,0.0061291600577533245,0.005799314472824335,0.005710698664188385,0.005792088340967894,0.003033895744010806,0.004651747178286314,0.006789851933717728,0.006571099627763033,0.006621647626161575,0.004644474014639854,0.005000654142349958,0.00582380685955286,0.006290019024163485,0.0054418533109128475,0.005199430976063013,0.007233247626572847,0.0051328339613974094,0.007289594039320946,0.010276884771883488,0.006743223872035742,0.006185716018080711,0.005999610293656588,0.0060850209556519985,0.005896014627069235,0.005787726957350969,0.005695715080946684,0.00738952774554491,0.008506312035024166,0.004304233938455582,0.006223962642252445,0.0051869056187570095,0.002708632266148925,0.005772795062512159,0.00668651657178998,0.006823445204645395,0.004413737449795008,0.005684092175215483,0.004578021354973316,0.004361750092357397,0.007634760811924934,0.007036260329186916,0.003478504717350006,0.005690654739737511,0.00542214373126626,0.006501675583422184,0.003896747948601842,0.005886363331228495,0.005812077317386866,0.0052786171436309814,0.005490983836352825,0.00560979638248682,0.006503312848508358,0.007581280078738928,0.006115220952779055,0.005588970612734556,0.006001428235322237,0.007192915305495262,0.004989075940102339,0.004704545717686415,0.005521150305867195,0.00441928394138813,0.00482672406360507,0.00484498543664813,0.005120359361171722,0.006019351538270712,0.005997331812977791,0.0072507173754274845,0.0029927059076726437,0.0042497566901147366,0.005551245994865894,0.004305830225348473,0.007831321097910404,0.004289934411644936,0.004508238285779953,0.0037964447401463985,0.006690871436148882,0.006372809875756502,0.006999290082603693,0.006781519390642643,0.01381083857268095,0.0033352142199873924,0.005567893851548433,0.007708242163062096,0.006808850914239883,0.0041191307827830315,0.005925830919295549,0.0054572406224906445,0.00548019353300333
+Questions:
+Does this float? I want something for the tub :).
+What age is it recommended for?
+Does this make any noise, need any batteries, etc? I've got a sensory-challenged child.
+What is the measurement of the box?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+My 7yr.
+old son wanted this but I couldn't understand the big thrill.
+It seemed dull for a Hot Wheel, cars don't do the loopty-loop, race around, etc.
+So what's the big deal?
+The car changes color and the shark 'chomps' the car, which sets forth the need to add a second car to free the first.
+Ok, I get it, it's alright but even better it doesn't take a million batteries, not even one.
+We also like that this can be added as an addition to other track sets.I do concede, this isn't my cup of tea for an indoor toy, because the floor will inevitably get wet.
+I recommend taking this outdoors, or at bath time&#8230;however, the toy's instructions states the unit should not be submersed.
+The only other concern we had was the color-changing car, it didn't fully change color when it was in the water tank.
+It changed from orange to white, then became blotchy for a day then returned to it's orange color.
+It's color responsiveness was poor.The recommended age is 4-10, I disagree.
+I think this is great for a young car enthusiastic child but my son is 7 and it didn't hold his attention for long.
+My seven year old seemed thrilled to play with this, but after fifteen minutes or so, he had moved on.
+His biggest thrill was the color changing car..that was cool.
+But the rest, not so much.Some details are that it does hook up to the hot wheels track system.
+It comes with one car, and requires about one cup of water.
+Assembly was easy except for the application of the stickers.Well made but also very noisy.
+Note, you need special cars to do the color changes, but all hot wheels cars work.
+The Hot Wheels Color Shifters Sharkport Showdown Trackset is a really fun and cool looking set.
+I do have to say that there is a bit of a trick to get it connected so that the mouth works.
+I tried for quite a while and finally had to have my husband figure it out.
+The rest of the set, however, was pretty simple and easy to get connected.
+When my 7 year old son first saw this, he was pretty excited.
+I mean, what is cooler than a shark and a color changing car?!
+Once put together, we sat down and played with it.
+To be honest, it wasn't as fun and exciting as we hoped.
+It was fun for a few times, the water has to be just the right temperature to really work on the car.
+I have to admit that after the first initial excitement of receiving the new track, it has sat gathering dust and not played with.
+Not really sure if I can recommend this product, it does have potential, bit did not blow any of us away.
+This toy has features that your kids will love.
+There's a shark to chomp down on their cars (if they want it to), and a switch that lets other cars release the trapped car.
+There's a lift that raises the car from the lower level up to the top of the ramp.
+It can be connected to other Hot Wheels tracks, to extend the fun.
+Best of all, there's a color change-feature that changes the special car's color when it enters cold or hot water.
+Thus the mess-factor.There is absolutely no way for kids to use the color-change feature without water getting spilled or splashed.
+We set the track-set on top of a folded towel, to protect the hard wood floors, but that makes it hard to connect it to other tracks smoothly.
+If you do use a towel on wood floors, you'll have to make sure it gets hung up instead of left sitting on the floor all night or all day.
+This would work best on a cement, tile or vinyl floor, or outside.The kids love it, but I don't like the water mess at all.
+Since this fits together with other hot wheels tracks it's a great addition to sets you already have.
+It's easy to assemble an can be played with right away and it comes with two color changing cars which entertains the younger kids more.
+As far as quality I would say it's what you expect from the hot wheels brand.
+I take off a point for toys that require stickers to be put on or are made of cheap plastic,  That being said, this toy was easy to assemble and my boys loved it.
+They set to the 'open' position so the shark wouldn't grab the cars.
+It does connect to other Hot Wheels sets, so that's great if your kids love Hot Wheels.If you can get by my pet peeve with the stickers, you will like this toy.
+Check out other places... sometimes Target  discounts these heavily.
+I got this for my 5 year old son and the biggest hit was the car that changed color in water.
+Unfortunately the color changing didn't last long, it stopped changing color pretty quickly.When I first opened the box I groaned because I didn't want to put it together.
+It looked confusing and didn't have good directions.
+But my 9 year old said she'd do it and she did!
+So clearly, it's not as hard as I had first thought.
+I had to pop some pieces into place and stuff but for the most part she managed.My kids had fun playing with it for the first few days and when set up with all the other car toys he has they had a better and more complete set.
+I would consider buying something like this in the future.The pieces are kind of flimsy and it's hard to move cause it falls apart.
+It's not hard to piece it back together but is kind of a pain for the kids if they want to move it while playing.
+The water can also end up being a mess.
+I found that this falls apart easily with little hands playing with it.
+It doesn't stand up to kids fighting over it or even playing with it normal.
+All of the little things that snap together don't do so very well.
+I wouldn't buy this if I were you.
+This is lots of fun and a new way to creatively explore ways to have fun with cars.
+Since it combines cars and a dinosaur it is perfect for boys and girls who love both.
+Add the water and you have a ton of bath time fun.
+It is easy to put together, easy to clean, and easy to lift.
+Three things that I look for first in a toy.
+You will want to watch the pieces around smaller children since there are possible choking hazards with some of the parts.
+Other than that I could not find anything negative to say about this delightful toy.
+Let the imaginations run wild and you rescue your toys from the chomping dinosaur!
+My kids love playing with Hot Wheels Sharkport Showdown.
+My older son is fascinated with sharks so he immediately loved this one.
+They have a couple of the Hot Wheels color changing cars already so they were excited to see that this included a color changing car.
+They have experience with adding the water to get the color to change so they didn't experience any trouble with that.Since water is involved, I let mine play with this outside instead of inside.
+They get to play and have fun, they're outside so I don't mind if things are getting wet.They can play with Hot Wheels for minutes on end.
+I say minutes because my two boys don't really play with anything for hours but the added water feature really does keep them occupied and interested for longer than average.
+There isn't much to this set and I can see a child getting bored with it really fast.
+My son loves it for the moment and is having a lot of fun with it, but there isn't much to it.
+You basically run a car down the ramp, the shark bites it and another frees it by going down the ramp into the shark.
+I thought there was a &#34;game&#34; of if the shark will bite the car, but the shark gets the car every time.
+The color change feature is a mess and the car does not always change.
+The water has to be just the right temperature.I could see this being more fun when connected to other sets to be part of a collection, but on its own I don't see it as a too getting used over the long haul.
+For my twin 3 year olds, it provided great fun for an hour or so.
+The only thing I really didn't like of the toy was the water aspect.
+For young kids, especially boys, the water causes a huge mess and finding a place to play with it means you can only allow them to play outside.
+Even then, expect their clothes to get wet as well.
+Making the car change color was fun for a few sittings, but then the glamor faded.
+After sending a few other cars through, the toy was abandoned completely.
+Over all, it was okay while it lasted, but when shopping for toys, I like a product with more versatility and staying power.
+This is a lot of fun for a child that really enjoys the color changing.
+That is the reason I selected this item.
+This product works well, it isn't perfect, but no toys you buy today are.
+My son had fun playing with it and that is what matters.
+Overall it is a good product.
+Fun level is pretty high with this toy.
+The idea is to get caught in the sharks mouth then release it with a second car.
+The car it comes with changes color with heat/cold so it is interesting.
+My problems with this toy as a parent is that the water makes a mess, the water needs to be hot on one part and ice cold in the other.
+The warm water cools very quickly and only makes my kids want to get more hot water.
+Lastly, and most importantly, my biggest gripe with this toy is that it only comes with 1 car.
+It requires 2 cars to play with it properly.
+Doesn't stop the kids from fighting over the toy and finding another car to use but it should come with 2.
+So if you're a &#34;cool&#34; aunt/uncle feel free to get this for someone else's kids, they will love you.
+It is fun, with a color changing car, shark bites, flying cars, and icy pools of water... what's not to like?
+Well the assembly required stickers which I got one stuck in the moving parts that took forever to remove.
+The parts aren't tied down, which is nice, but it took some finesse to get the shark put together.
+Finally the main event is messy wet fun.
+When set up for the shark attack...
+The first car gets stuck in it's jaw and the second car (not included) hits the shark and causes the first car to be flung across the room... Sorta cool... Sorta messy.Overall the color change and the mechanics are very cool.
+But between the required adult setup, and cleanup it loses some of its appeal.
+My 2 year old loves this toy!
+He plays with it in the bathtub from the time he gets in until the time I drag him out, kicking and screaming.
+He loves the chomping shark as well.
+My only complaint is that it takes forever for the car to change colors.
+It's so slow to change that my son doesn't even notice the change at all.
+And, at his age, this is really no big deal.
+But since I am writing this review and not him, I am only giving it 4 stars instead of 5, since the color change was actually the main marketing point for this set.
+Still, though, it's a cute toy that, because of the amount of water needed, has to stay in the bathtub here at our house.
+I got this as a birthday present for my 4yo nephew.
+He loves Hot Wheels and Matchbox cars.
+I can't wait to see his face when he opens it in April.
+This Trackset is really super fun and ideal for a 3+ active kid.
+The color changing cars do work and the fun part is to change the water back n forth.
+It is very engaging, and as a parent you have to know that it will create some mess.
+There will surely be water spills and what not, but that is the fun with this toy.The fact that it can be connected with other Hot Wheels further increases its utility.
+If you know of some in your family who has Hot Wheels tracksets, this will be an ideal gift on any upcoming occasion.
+The kids would love you forever!As other reviewers have pointed, assembly is a bit tricky.
+But you can make it a creative process if you include kid with you and sort of make it a fun play.
+Slightly older kids (5+) may try to get hands on during assembly.Overall, the price range is good since this set can be engaging for a longer period of time and not just for a few hours.
+I am really on the fence about this toy.
+I thought my 6 year old grandson would love it, he loves Hot Wheels and Sharks but it just didn't hold his interest plus it is a really messy toy which Grandma didn't appreciate.
+His 18 month old brother had fun with the cars and the mess, :)Older grandson complaints- the car doesn't always change color.- the shark does bite the way it should- needs more carsGrandma's issues- keeping the pools full of the right temperature was endless and not a lot of fun- took awhile to get it together and it not easily stored when not in use.- we ended up with water everywhere-didn't hold his attention long enough for all the work I went through.After discussing it with him and his mom we decided this would be a spring/summer outdoor toy and maybe the sun would warm the water better than grandma.
+More cars will be purchased or brought to grandma's between now and then.I will edit my review if we do better outside.
+My 3 year old son has spent over 15 hours playing with this toy and it's held up.
+Very durable and lots of fun.
+His favorite part is the elevator, and my favorite part is the shark's mouth that opens and closes
+My son is crazy about color shifters and already has two cars, but this is the first actual track he has made for that specific purpose.Of course, he went nutso over it and played it non-stop the first day.
+Yes, as others noted, it gets messy but it's only water.
+We set up the kitchen table and everything gets wiped dry afterwards.
+The hot water needs to be replaced often because it cools (of course) but otherwise, he has fun.
+I'm thinking once the novelty wears off, he won't play with it so much but we'll see.Having had color shifter cars previously, I can tell you that after some time, the cars don't change colors as easily as they do right when you get them out of the box.
+I don't know why that is, but it happened with both of our other ones and I expect it to happen to the one that comes with this set.
+Every little boy needs a Hot Wheels playset and this one is a great starter set.
+It's not as large and cumbersome as some of the other sets and there aren't tons of pieces that can get lost.
+Assembly is simple.
+Its takes less them five minutes to snap all the pieces together and once its put together, it doesn't fall apart like so many toys with tracks tend to do.
+You can even move it from one place to another without any trouble.
+It comes with one cool green sports car, but any Hot Wheels figure can be used with it.My younger son is three is he absolutely adored this set.
+The jaw of the shark chomps down as the car goes by and he laughs every time.
+He loves steering the cars along the tracks and watching them fly town the ramp leading from the tower.
+There are no complicated tricks involved which makes this set great for younger children.
+More advanced tracks that his older brother owns often frustrate him.
+Yet, on the other hand, even my eleven-year-old still had fun playing with this this set.If you're feeling adventurous, you can add some water to the splash tank.
+The are two &#34;color changing zones&#34; that will change colors depending on the temperature of the water and a splash zone the cars can ride though.
+This can get messy, so I only let the kid use water if I can monitor them very closely, but they find it just as much fun either way.
+All in all, they were very happy with this toy.
+Its affordable price makes it a great gift for any occasion but it's definitely perfect for Easter.
+As a Vine Reviewer, I also selected the Track Starter Tower.
+Amazon and Vine sent me a complimentary box filled with Hot Wheels Track Essential product and a 9 car gift set.I plugged the Starter Tower (20$) up to a few track pieces (2$ at most stores), a loop, some curves, and this.While the Track Builder sets are FANTASTIC together....
+This piece I was not fond of, I'm sad to say.
+The kid in me and adult both like sharks, but the cartoonery of this one is very out of place with the mostly realism of the toy line.
+It's a bit garish and the color gimmick needs to be played with.
+The set gets water everywhere and chances are your Hot Wheels don't change colors.My opinion is if it's a color change set, incorporate water on the tracks.
+Have a stream of it splashing a car or a quick submerging tank on the track.
+I dunno if physics of HW cars on tracks can make that happen, but the shark set messes up the track's zoom!
+Anyway I don't feel this is worth the price and the money can be spent on loops or something instead.Hopefully Hot Wheels will put a better shark playset out later.
+My son, 6, has actually had, and given as birthday gifts, several versions of this shark-bite Hot Wheels set.
+Previous versions were portable, fold-up track sets that I actually really liked for their travel and cleaning-up convenience, while my son liked the shark chomping on a car aspect.This set still has the latter but is a stand-alone set that must be assembled, and can't be easily dissembled if you don't want to leave it out all the time.
+The previous versions were an all-in-one suitcase like creation that just unfolded in one piece.
+These require substantial initial, parental assembly--took me about 20 minutes--and then a few track pieces fold up but otherwise the form factor is set and it will take up a good bit of floor or shelf space in a playroom.It also comes with a color-change Hot Wheels, which we've found unreliable, gimmicky and, as they're made of plastic, not nearly as nice as the traditional die cast cars.
+Though, those do work on the track.To make the cars change color this track comes with two places for pools of water--which must be one hot and one cold to get the cars to change--a messy prospect that most moms (me included) will not relish.
+Plus, keeping them at the right temperature to actually work is pretty much impossible.We've also found that, while the color change cars work OK at first, they won't for long, eventually losing their color change ability, especially if played with in a bathtub which, frankly, is where all of ours end up sooner rather than later.The shark chomp element is also hit or miss, with the track trigger to close the mouth only occasionally working as advertised, and the &#34;release&#34; mechanism that is supposed to shoot the car out of the mouth and off the track if it does get bitten never really working as pictured on the box.
+(Do these things ever live up to their own advertising?
+)All in all, my six-year-old lost interest in under 15 minutes ... A shorter period of time than it took me to put the darned thing together and I have no intention of ever filling up these shallow, messy pools with water for him again because, well, yeah, I don't want him playing with pools of water randomly and making a mess.All in all, this is kind of a dud, especially when compared to previous versions, which my son actually still brings out and plays with.
+My kids are probably a bit older than the usual target audience - 9 and 10.
+They were able to put this set together themselves without any help from me, and then both of them enjoyed playing with it for a solid hour.
+They really enjoy playing with it.
+Time will tell if they continue to play with this set.
+I think that a younger child (4-7) would enjoy this set most.

@@ -1,0 +1,250 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+They love superheroes and they're big fans of Spiderman.
+My kids use these things for playing hot wheels, trains, you name it.
+Otherwise, be forwarned that it can break easily and your youngsters can be sad rather quickly.
+As a parent/grandparent, the only negative I can say about this set is that it has limitations as far as it's functions.
+Uses 2 AA batteries."
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.003483128035441041,0.0015002044383436441,0.004586060997098684,0.005159282125532627,0.0019836020655930042,0.0033152466639876366,0.0020424718968570232,0.0029210078064352274,0.0029337771702557802,0.0031124926172196865,0.002246391260996461,0.0016276657115668058,0.004772728309035301,0.00500042550265789,0.00418027164414525,0.004363620653748512,0.006799226626753807,0.004862923175096512,0.004063879605382681,0.0028894448187202215,0.0027309018187224865,0.0028781758155673742,0.0017877852078527212,0.0053547704592347145,0.004273111466318369,0.0028389228973537683,0.002600772539153695,0.00480555510148406,0.002819413086399436,0.005837119184434414,0.00542528135702014,0.0029361534398049116,0.0023734483402222395,0.0033582430332899094,0.003774752840399742,0.004633357748389244,0.002134848153218627,0.0022551671136170626,0.004694097675383091,0.006261839997023344,0.004931922536343336,0.004091673530638218,0.005889558698982,0.0020165627356618643,0.005934054963290691,0.002302776323631406,0.0033796667121350765,0.004753745626658201,0.005259152967482805,0.003910830244421959,0.006001521833240986,0.002594556426629424,0.0019251233898103237,0.0034378806594759226,0.0017355144955217838,0.0058590746484696865,0.003358769929036498,0.005033653695136309,0.005089661106467247,0.005840015131980181,0.00574251776561141,0.0026477971114218235,0.005924630910158157,0.0030709332786500454,0.005784731358289719,0.005791862029582262,0.002803144743666053,0.005105928052216768,0.00575595535337925,0.005848003085702658,0.0026773158460855484,0.004899546038359404,0.008299166336655617,0.004859008360654116,0.0041253576055169106,0.0028323554433882236,0.004042337648570538,0.0019348941277712584,0.004450191278010607,0.005641588941216469,0.0024258613120764494,0.0031439417507499456,0.003386756870895624,0.0030268027912825346,0.005602411460131407,0.0023934843484312296,0.003732610959559679,0.004044192843139172,0.004602484405040741,0.004803026560693979,0.0048209019005298615,0.0055565498769283295,0.0020467513240873814,0.005978432018309832,0.0067715938203036785,0.0051383995451033115,0.0037939539179205894,0.008905324153602123,0.005952018778771162,0.0034093856811523438,0.005838577635586262,0.0036176720168441534,0.004022130277007818,0.004221490118652582,0.003699476597830653,0.0036077923141419888,0.0034492667764425278,0.0026674389373511076,0.004948519170284271,0.005750111769884825,0.0031992984004318714,0.004853065591305494,0.003239150857552886,0.005660512484610081,0.005038950592279434,0.006083066109567881,0.00484970398247242,0.004696888383477926,0.005719371140003204,0.005765823647379875,0.005579275544732809,0.002499884692952037,0.004146544262766838,0.003564918413758278,0.004201747477054596,0.005932559724897146,0.005391373299062252,0.004343906417489052,0.005684624891728163,0.0031783562153577805,0.0026914740446954966,0.006557533983141184,0.0015075996052473783,0.006353315897285938,0.0036692435387521982,0.0016024666838347912,0.004605036228895187,0.003807259490713477,0.0059814974665641785,0.005800345912575722,0.006968056783080101,0.006067073903977871,0.003202190389856696,0.006873458158224821,0.004745361395180225,0.0020776716992259026,0.00629511009901762,0.0039383587427437305,0.0036412591580301523,0.003001447534188628,0.003090229583904147,0.002884620102122426,0.0015742292162030935,0.003624206641688943,0.0023879900109022856,0.001699536107480526,0.0021957955323159695,0.0036008551251143217,0.0027472921647131443,0.0038796288426965475,0.005557112395763397,0.0036042167339473963,0.005611777771264315,0.006008350756019354,0.004534916952252388,0.009023157879710197,0.003227592445909977,0.00568109517917037,0.005425123497843742,0.005219855345785618,0.006963328458368778,0.0059033664874732494,0.0039023314602673054,0.005218390375375748,0.004583451431244612,0.003592647612094879,0.005793437361717224,0.0059251319617033005,0.002026375848799944,0.004277296829968691,0.005645884200930595,0.0036551535595208406,0.005865597166121006,0.006946143228560686,0.0066115171648561954,0.004853733349591494,0.004820206202566624,0.006079718470573425,0.007116522174328566,0.005985300522297621,0.0048390221782028675,0.0038821296766400337,0.0036500536371022463,0.0034366545733064413,0.0044493041932582855,0.005985630676150322,0.003807440400123596,0.004646984860301018,0.0018291439628228545,0.0060166260227561,0.0021116354037076235,0.004647576715797186,0.0027188563253730536,0.004289630800485611,0.003958841320127249,0.0026556525845080614,0.004871136974543333,0.0024397384840995073,0.004321209620684385,0.005604188423603773,0.003332913387566805,0.005667104385793209,0.003913970664143562,0.005839355755597353,0.0062132300809025764,0.0024029379710555077,0.005888845305889845,0.005066266283392906,0.0019344823667779565,0.003399728797376156,0.004208946134895086,0.005399939604103565,0.004509234335273504,0.004496085457503796,0.005242915824055672,0.001818058779463172,0.003512581577524543,0.0014878208748996258,0.003755986224859953,0.003241065191105008,0.0019395715789869428,0.005943507421761751,0.0022396694403141737,0.005468510556966066
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+"My four-year-old daughter is a big fan of the Batman ""Imaginext"" toys from Fisher-Price, and it is probably not a coincidence that the Marvel ""Playskool Heroes"" from Hasbro are almost exactly the same size and work very well together.
+Upon receiving this Stunt City playset, she almost immediately put it side-by-side with her Imaginext Bat Cave playet so that Spider-Man and his friend Batman -- again, almost exactly the same size and shape figures -- can work and play together.
+Accessories for these two collections are expensive.
+The Spider-Man Stuntacular City comes with a single Spidey figure and a motorcycle.
+If you want to add a Green Goblin to your playtime, you'll need to purchase it separately.
+(The same goes for the Imaginext toys, too.
+)Comparing this set to the comparably priced Imaginext Bat Cave playset, the Spider-Man Stuntacular City falls a little flat.
+There are some nifty little tricks that the included figure can accomplish, such as scaling a wall and flipping onto a ledge, but after a few minutes you really start to see that there's not much to this.
+The Bat Cave, on the other hand, kept my daughter occupied for hours, opening doors, operating the elevator, locking bad guys in jail.
+She got a little bored with this Spider-Man set after about half an hour, although when integrated with her other toys (Bat Cave, assorted vehicles, bad guys, etc.)
+it serves as kind of a backdrop to her extended playtime.
+This playset is pretty expensive to be just a prop or backdrop, but once you've done the various tricks or ""stunts"" a few times, there's not much else to do and even a four-year-old can recognize this.Other reviewers have commented on how fragile this playset is, once you get through the rather complicated packaging.
+I agree, although I'm pleased that, so far, our set has remained intact.
+I can easily see places where a little of the expected toddler roughness could easily break off bits and pieces, ruining certain ""stunts.""
+It does appear that there was not a great deal of thought put into the target audience and the way in which kids ages 3 to 6 play with toys.Ultimately, if your child likes Spider-Man, or in my case all super heroes, this would likely be appreciated and enjoyed.
+It works well with the Imaginext collection from Fisher-Price, and its value as a ""playset"" can only be enhanced by adding additional figures, vehicles, etc.
+My son LOVES Spider-Man.
+When this came out of the box, his scream of joy was deafening.
+I was even a little excited myself, and I'm all grown up.
+This set has a lot going for it - cool stunts, a Spider-Man figurine, a motorcycle, a comic book, and it all folds up for easy storage when play time is over.Pros:  The cool factor.
+There are a lot of neat stunts for Spidey in this set.
+The most impressive for us is the magnetic wall climbing, complete with inversion flip to the top of the tower.
+There are two magnets in the vertical red wall and two magnets in Spider-Man's hands, so with the press of a button, the figurine scales the wall, flips over, attaches with his feet to the underside of the tower and then flips over to stand on the top.
+How cool is that?!?
+Again, more squealing with delight at our house.
+You can also hook Spider-Man up to a spinning web so he can get down from the top of the tower, he can ride his motorcycle around the back down a chute and he can escape the evil clutches of the lizard by rotation down by his feet when the lizard's door is flung open.
+The sound effects are neat and the stunts have lead to hours of play.
+We also enjoyed reading through the comic, which I thought was a very nice touch.
+Although this only comes with Spider-man, it's the pretty standard small sized figurine, and adding other characters or even another Spider-Man opens this set up to multiple kiddos playing at the same time.
+The set itself is plenty big enough.Cons:  First obstacle to play time - the packaging!!
+It literally took us ten minutes and scissors to separate everything out.
+The play set and each individual piece are hog tied down to the cardboard, and the motorcycle is looped through twice for good measure.
+This playset is well constructed and has some different aspects of the toys to keep my 3 year old busy but also some more advanced features such to keep older kids occupied.
+I was however disappointing that on the front there is a sticker between Spider-Man's eyes that says 'remove me' but when you do the sticker fails to remove and kind of tears.
+If the customer is suppose o remove it then they should have used a different type of sticker.
+Now the toy looks a little old and ratty because the front sticker is messed up.
+I had to use 'goo-gone' to remove the sticker.The volume of the sound on the toy is not that bad nor that annoying like other toys.
+Often I find my self putting tape over the speaker because they are way to loud but with this toy I didn't need to.The motorcycle in the toy is well constructed to take the abuse of a 3 year old.
+Often with that size of toy the wheel or handlebar will be broken within minutes, not the case with this toy.All in all I recommend the toy.Happy Shopping!
+We gave this toy to our 2, 4, and 5 year old as a reward for helping their mom and dad with summer work.
+Their imaginations have gone wild with it and they have been playing with it for the last few days, incorporation other toys like matchbox cars into their play.
+The toy is well constructed with lots of gizmos and gadgets and other little secrets to be found during play that make it that much more fun.
+It is big enough that more than one child can actively use it at the same time, and group play is something we try to promote.
+"My daughter's been on a superhero kick for the last year or so, and when I got a chance to get the Spider-Man Stuntacular City Playset, I knew she'd love it.
+As soon as this thing arrived, she was all over it.
+Any young fan of Spider-Man should have a blast playing with it, though it would be a good idea to get some additional little Marvel figures to go along with it since it only comes with Spider-Man.First off, this playset is HUGE!
+When it was delivered, the size of the shipping box had me wondering if something else was sent to me by mistake.
+Unpacking the toy is a little annoying, so make sure you have scissors ready.
+Everything in here is tied down, right down to Spidey's motorcycle.
+Even when I got the motorcycle out of the box, there was still a tie around it that needed to be removed.
+Once free, everything's ready to go!
+Batteries are included and work perfectly, though it's worth mentioning that these are regular demo batteries and will need to be replaced within a few weeks if the toy's played with regularly.
+The Stuntacular City features a small ramp/slide for Spidey's bike to go down, a Lizard hand that when pulled down causes the window to ""break"" and reveal the Lizard's head, some webs on the side for Spider-Man to hang around on, a cool adjustable ledge that lets Spider-Man hang by his feet or stand up normally, and finally a fancy ""climbing"" feature.
+Press a button on the front of the playset, and as long as Spider-Man's in the right spot, he'll climb up the building thanks to the magnets in him.
+The Stuntacular City has loud sound effects and music when you use this feature and the Lizard window one- something for parents who get easily annoyed by their kid's toys for some reason to keep in mind.The first time we saw Spider-Man climb the wall, both my daughter and I started laughing.
+He makes this weird turn towards the top and moves in a bizarre way.
+Fun fact- you can use similar toys with magnets in them and have them climb up as well, like select Littlest Pet Shop figures.
+That adds a bit of life to this toy if you ask me, watching a little skunk climb up a wall using its caboose.
+The next big superhero?
+My 8 year old son used his birthday money to buy this.
+He was so excited after seeing the commercials on tv.
+After setting it up, and using the wall climbing action 3 times, the mechanism that moves Spiderman up the wall stopped moving.
+It makes all the sounds like it is moving, but I think it is stuck inside.
+I tried changing the batteries and taking the bottom off but was still unable to get in to where the mechanism is located.
+So, a huge disappointment for Spiderman's best buddy.
+Still, after throwing a fit and calling this toy a complete rip off, my son was able to calm down and get back to playing with the set.
+The lizard pops out of a window and knocks Spidey off the ledge and it makes all kinds of sounds with lights and stuff, so he is enjoying that part of the set.
+Excellent points on size and activity.
+It is large enough for my two toddlers to play with this together.
+BUT, it is not well made.
+One of the parts broke in less than 2 hours.In addition, the cost associated with buying more figures and other items can escalate rapidly.If you child, grandchild, etc.
+is very gently with their toys, this is great.
+Otherwise, be forwarned that it can break easily and your youngsters can be sad rather quickly.
+My three-year-old Son is a Spider-Man fanatic (Just like his old man!
+), so this was a no-brainer, as far as I was concerned.
+First off, this set is HUGE, rivaling the Imaginext Batcave in size.
+It was also a huge pain in the posterior to get out of the box.
+It took 45 minutes, a knife, a pair of scissors, and some severely damaged fingers to get everything out of the fiendishly tight packaging.
+Clips, yards upon yards of twine, packing tape...it was a real feat.
+Once it was out, though, we had a ton of fun with it!
+I've honestly never seen a Spider-Man toy that climbed all by itself, so I was immediately won over.The playset is loaded with fun features like a web to swing on, a pole for Spidey to slide down, a motorcycle and a ramp to ride it down, and, of course, the Lizard Attack feature.
+The voice, music, and light features are all great, as well, and the set comes with a cool little children's book that showcases all of the set's features.
+If I had one complaint, it's that the set only comes with one action figure (Spider-Man).....I wish they had included a Lizard figure, as well.
+But the set matches up well with the DC Imaginext figures, as well as the Marvel Super-Hero Squad toys, so the possibilities are endless.
+Great fun for Spider-Man fans of all ages!
+"My sons age 5 and 6 have been having a blast with the Spiderman Stunt City.
+It's a BIG hit!It's a fold and go stunt city with a Spiderman figurine, a motorcycle and a book included.The Stunt City playset has lights and sounds.
+Spiderman can slide down a pole, crawls up the front, hangs upside down and more.
+There are additional stunt items and figures that you buy and add to the set.
+We have already bought the Lizard Man so the boys can have a ""bad"" guy to go with their set.
+They are already asking for the rest of the stunt items.
+Not always a good idea to let them see the box and all the others items that are available because they usually want them all.Really nice toy and my boys are excited to play with it."
+My five year old and six year old sons LOVE this playset.
+They played with it pretty much non-stop as soon as they saw it.
+It's a great little backdrop for playing with their super hero action figures.
+It has a cool gimmick where Spider Man (with the help of some magnets) can climb up the side.
+The kids love that, though it's a tad tricky to get it to work just right (sometimes Spider Man only makes it 2/3 of the way up).It's loud and annoying, but after the batteries die it will continue to live on, as these toys do.
+My kids use these things for playing hot wheels, trains, you name it.
+The build quality seems good enough.
+There are a few bits that might not last long, but overall it looks durable.
+Overall a good toy for any kids who like Spider Man.
+This little Spiderman has some pretty neat moves in his City Playset.
+Interactive, fun, with lots to explore, this playset will provide hours of fun and excitement.
+First of all, this toy is quite a pain to unpack, a complete opposite example of frustration-free packaging.
+There're 15 or more tightly tied strings to untangle, and a couple of them required the use of scissors.
+There's also a lot of packing tape, which together with the plastic tie plates is quite environmentally unfriendly!
+Also, the yellow arrow label you see must be peeled off for Spidey to do his climbing, and it's quite a chore to peel off in a clean fashion.
+The climbing mechanism works poorly, and I don't see how a 3-6-year-old can pump the winding mechanism by him- or herself.
+The entire set shows rather poor designs, and the electronic functions are just a joke (annoying lights and sounds).
+Unless your 3-6-year-old is a Spidey fanatic, this is not a toy to get.
+We loved this playset!
+The only thing I could find that we didn't like about it was the packaging.
+Like most toys these days, it's tied to the box with tons of little ties and it takes forever to get out of the box.
+But like I said, most toys are packaged that way now, so I think it's just a sign of the times.
+Other than that, this toy rocks.
+It's big, bright and and lots of fun!
+Lots of things to do with your little spiderman and he super cool cycle!
+The playset is quite sturdy and held up to many hours of play and it still going strong.
+It's a lot bigger than I though it was going to be, so that was a nice surprise.
+This playset would make a great gift for any boy or girl who loves superheroes.
+My son was excited from the first glimpse he got as we unpacked this toy.
+Then he had to wait as I spent the next 30 mins trying to get it loose from its packaging moorings.
+Comes with one figure and a motorcycle - enough to keep a boy busy for a few hours.
+I like that the playset folds up and comes with a comic book.
+Graphics are a bit cheap looking, but sound effects make up for it.
+I know one of the first things you shouldn't say about a super hero play set it how adorable it is, but I just can't help it.
+This thing is way too cute for words!
+Its bright colors and action packed with moving parts & sound effect... what more could a Spider-Man fan or a Spider-Man fan in the making want?The play set comes with Spidey & his motorcycle & a book.
+If you have more than one child playing with the set at a time, it's great to have more than one action figure so they can interact with each other and this fantastically fun set.
+It's a decent size so there were no problems with more than one child playing with it at a time.With a few issues here and there with some of the actions for Spidey within the set, it's nothing that was a big deal.
+The kids didn't even take notice while playing so I'd say that while it's not perfect in my eyes, in there's it is and that's the point that matters.Another amazingly fun toy that has the kids highly entertained is a major plus for me.
+"For young Spiderman lovers, here's a chance to colorfully show off his skills.
+There are 7 different ""stunts"", a Spiderman figure, cycle, storybook ""The Lizard's Lost Treasure"", and some electronics- lights, sounds and a few phrases.It's fun.
+Our two early elementary-aged girls find it enertaining.
+They also have the Batcave, Catwoman, and the Joker's House.
+I know, I know, they're mixing Marvel with DC, something that we would have never done when we were kids!The stunts: Spiderman climbs down a wall, swings from a webline, comes down a pole, dodges a fierce Lizard, zooms down a ramp on his bike.
+Push the green lizard paw to stir up the Lizard, and the big eyes light up.
+Also, it folds up nicely for carry because this is a fairly large toy.They list ages 3-6, but come on, older kids will like it, too, and maybe a few dads.
+If you're kids are really into it, contribute, and buy accessory items and characters.
+5 stars for just plain old fun.
+Uses 2 AA batteries."
+I have a 3-year old and a 1-year old.
+My 1 yr old doesn't care for this thing at all, but she likes to watch my 3-yr old play with it.
+She just won't stop.
+Yes, she is a big Spidey fan, so that's a plus.
+And Cinderella and Belle are always coming over to Spidey's Stuntactular City to play with him (and vice versa, sometime he hangs out at the castle).
+Sure there's not much to do, but to a kid with an imagination, it's more than enough.
+Cinderella is always super impressed with Spidey's wall-climbing/web slinging skills which can only be utilized on this playset.
+It's really cool, Spidey's hands/feet have metal in them, and there's a moving magnet on the playset which is moved around by a motor to make it appear as if Spidey's climbing up the wall!All parts of this toy work.
+With that being said, I will address some of the points other reviewers have made.
+Yes, the packaging was a HUGE pain, but nothing a pair of scissors can't handle.
+I mean, come on, if you have a child that's old enough to play with this toy, you've opened many a locked-down packaging.
+The fact that they try and sell you add-on parts/characters is also optional, so I don't like that people rate down this toy just because there are add-ons sold separately.Also, it's true, sometimes Spidey doesn't do the final flip at the end of his wall climbing sequence, but that's not relevant to the fun factor of the toy.
+My girl still loves it, and the fact that it folds up and easily transports upstairs is a huge plus.
+"The Spider-Man Stuntacular City Playset is a hit with my boys (3 years old) and I enjoy playing with them.
+The playset has lots of neat features like a pop out lizard and a magnetic wall that Spider-Man can climb.
+You have to prime the magnets on this wall by pumping a switch downward a few times and The magnets are supposed to pull the action figure up the wall and flip him upside down, but this does not always happen unless you guide it over the ""eyes"" on the wall, sometimes one arm can come loose and he will just dangle there.
+The action figure is also supposed to flip right-side-up on the roof and that almost never works correctly, but my kids just do that themselves.
+This playset also comes with a motorcycle for the figure to ride, and that is one of my kids favorite parts of this set, there are lots of noises and music, I recommend putting some tape over the speaker to muffle the sound because it can be loud and it gets old pretty quick.
+I think this play set is great other than the errors in the execution of the actions, I would recommend it for kids that are old enough to not get frustrated with the errors."
+It's a well made plastic toy, that shall appeal to fans of Spiderman, mostly boys.
+It has the standard bells and whistles that are customary for such toys.
+I would say if you have a boy, and he loves spiderman, is from 3 to 5 years of age, he would love it.
+I would have liked the price to be 39 or less.
+My grandsons', five and seven, eyes lit up when they saw the box.
+They love superheroes and they're big fans of Spiderman.
+The toy is so well packaged that they became impatient waiting for pop-pop to undo all the little ties.
+They especially liked the way Spiderman climbs up the wall.
+The set is very sturdy and folds for easy carrying.
+The only thing missing is another superhero but both boys have good imaginations and incorporated the set with other toys for even more fun.
+"The kids are so excited about Spiderman, and my grandsons are no exception.
+I had my 5 year old grandson with me and got this out.
+He was so excited to see I had a Spiderman toy.
+It was a huge challenge to get this toy out of the packaging.
+Definitely not frustration free packaging.
+They even had short, tight cords tied in knots around the motorcycle with the knot between the seat and handlebars, so it was a challenge to get the knot where you could untie it.
+I'm glad I had the 5 year old and not the 3 year old with me.
+He was more patient waiting for me to get everything undone.
+There is also a sticker on the front of the building that says to remove.
+It doesn't remove in one piece.
+On the subject of packaging, this is another, of many, child's toy that would be a challenge to wrap.The set comes with the ""house"", one small Spiderman, and the previously mentioned motorcycle.
+I was also glad he was the only one there to play with it because I think there would be battles over who got Spiderman unless there was a child who was content to be an observer.
+I don't know of any of those.
+There are supposed to be 7 stunts.
+Six of them are pretty lame.
+The one that was pretty interesting was the one where he climbs the wall (the one you need to remove the sticker from).
+My 4 year old grandson loves Spiderman, so this playset was perfect for him.
+I like to give criticism first, so, I will start there.
+As a parent/grandparent, the only negative I can say about this set is that it has limitations as far as it's functions.
+In other words, it has several things that a child can do to produce different sounds, lights, etc.
+However, once they have have been activated, that's it.
+So a child goes through and does everything, then, well, as with most young children, repetition and boredom sets in.
+So as a toy, this is not something I can see toddlers (given their attention spans, too) being engaged in for a long period of time in one sitting.
+The book is a nice addition, and does help a bit in this area.That out of the way, the toy is quite sturdy and durable, given all of its bells and whistles (literally!).
+It might have some educational value for very young children (Press this and it lights up and makes a sound!
+Press it again, and the same thing happens!
+), but, other than the book, it's main focus is not as a teaching/learning tool.
+That's fine, as not all toys have to teach something.
+Some are just for fun.I think the price is a bit steep for this toy, but the fold up convenience does make it easier to take on the road (but it's a bit too large to play in a vehicle!)
+to your next destination.
+Also, its design is such that almost all of the unit is together in one piece (with a couple of exceptions), which means less chance of parts becoming lost and the toy becoming non-functional.
+Young Spiderman fans will appreciate it, I am certain.
+My daughter-in-law's cousin was the recipient of this playset and it has magnified his love for everything Spiderman.
+The playset is a decent size.
+Lots of stunts, including ramps for Spidey's motorbike.
+With the use of rare earth magnets, Spidey is able to 'climb' the wall of the playset.
+This makes Spidey easy to find, since he's often sticking to the refrigerator!
+The non-steering bike is fun to play with, even though it doesn't have steering abilities.
+Lots of hidden treats in this playset - Lizard's head on one side, his hand on the other.
+A child (especially one who is really into Spiderman!)
+can really get lost in a fantasy world with this playset - it's akin to a little diorama.
+The included little book encourages kids to 'do the right thing' - which is nice encouragement today.
+I had a few memorable toys as a child - like my old Fisher Price farm set that I spent countless hours with.
+This is that type of a set - a lot is going on.
+"First, let me clarify another review that I read.
+Someone wrote that his playset is ""huge"".
+It is not huge.
+It is a nice size, but there are many playsets out there that are much larger.
+The actual product dimensions are  5 x 24 x 15 inches when opened.
+The playset folds in half for easy storage and carrying.
+Spidey and his motorcycle fit inside as well!
+As others have mentioned, the fun factor goes on for days.
+My toy testers (ages 3 and 5) have spent hours with this playet and they LOVE it.
+The only negative that I see is for the price, I would have liked to have seen more figures or something with it.
+Other than that, it is a 5 star toy in our house!"
+"This is a cute playset for kids 3 and over that puts emphasis on a cutesy version of Spidey battling with the equally cute Lizard.
+It has plenty of activities built into it guaranteed to keep your kids busy for hours.
+They can make Spidey swing from a web, get a really bad scare from the Lizard, have him climb the wall (which is probably the playset's niftiest and most frustrating feature but I'll explain that in a bit), slide down a winding pole and also ride his trusty motorcycle, which truth be told, was a vehicle I never knew owned to begin with but hey, it is what it is.The set closes up tight and has a little slot to attach the motorcycle to so it's not bouncing around in there when you're taking it on the go.
+It makes a bunch of sounds and lights up to provide sensory entertainment, which makes this even more entertaining to these kids for whatever reasons they have for enjoying simple flashing lights and beeps.
+It even comes with a little comic book to help put some context to the playset.I find that the set does have a problem or two, starting with the wall crawling function, which works only sporadically.
+The function depends on the sets built in magnets to work properly and for some reason, Spidey keeps getting dislodged from the magnets on his way up and the ""stunt"" rarely gets carried out to completion.
+Still, when it does work it's a pretty cool little thing to see and the kids eat it up.
+I think an actual Lizard figure to chase Spidey around the playset would've been a welcome addition as well and is a bit of a glaring omission.So, while the set isn't PERFECT, my kid happens to love it and he fits the age range.
+It might have its problems but really, if it can keep your little one busy for a good amount of time and they genuinely enjoy themselves during, then you can't really knock the product."

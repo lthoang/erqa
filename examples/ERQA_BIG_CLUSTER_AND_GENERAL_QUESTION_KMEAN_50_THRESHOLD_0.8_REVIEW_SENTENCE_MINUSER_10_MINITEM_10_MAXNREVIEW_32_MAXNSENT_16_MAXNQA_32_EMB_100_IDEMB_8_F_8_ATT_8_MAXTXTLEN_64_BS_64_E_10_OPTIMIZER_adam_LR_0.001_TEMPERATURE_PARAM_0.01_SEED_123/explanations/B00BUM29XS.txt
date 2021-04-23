@@ -1,0 +1,103 @@
+Top question(s):
+what type of steering?
+is this durable
+Top sentence(s):
+The vehicle cover seems a flimsy plastic, but it's taken a beating so far and is great.
+I get some strange thrill over driving it over all the toys my little ones leave around the living room floor (it also helps them clean, they are opposed to having their beloved stuffed animals run over it seems, evil mom that I am LOL).
+I tried having them run it outside on the grass (which I read later is a no-no) but it didn't run very well at all on the grass.
+I was put off by the amount of batteries.
+I hoped it woud do well on the grass (we live on a golf course) but sadly while it has no issues in the house on carpet or rolling over toys, or outside on pavement or rocks, grass is it's nemesis and it crawls along very slowly... so skip the lawn.The colors are bright and fun, the suspension is great and it's very responsive.
+
+Question attention weights:
+0.09940813481807709,0.3907952606678009,0.22301247715950012,0.1197844073176384,0.16699965298175812
+Sentence attention weights:
+0.013240612111985683,0.01442558690905571,0.012346702627837658,0.013472732156515121,0.013784647919237614,0.010989425703883171,0.014565535821020603,0.011707582511007786,0.012481573969125748,0.014158669859170914,0.01469216588884592,0.01398561056703329,0.009884417988359928,0.010249699465930462,0.008628729730844498,0.014804576523602009,0.011796684004366398,0.015169098041951656,0.01184398028999567,0.009422884322702885,0.014038174413144588,0.013114605098962784,0.010172616690397263,0.011466939933598042,0.012028279714286327,0.012052837759256363,0.014438810758292675,0.01084104273468256,0.023859985172748566,0.013525226153433323,0.015323193743824959,0.013999659568071365,0.013047332875430584,0.012086017057299614,0.01293671503663063,0.016464030370116234,0.014491907320916653,0.013355761766433716,0.013056370429694653,0.013056370429694653,0.01751095801591873,0.009942474775016308,0.013544617220759392,0.013699330389499664,0.012164219282567501,0.01290051732212305,0.013459863141179085,0.007892770692706108,0.01391938328742981,0.0231386236846447,0.01284625381231308,0.012254745699465275,0.013836792670190334,0.01617613434791565,0.008278047665953636,0.012646136805415154,0.011342234909534454,0.012000299990177155,0.011523487977683544,0.007449644152075052,0.012895754538476467,0.015714948996901512,0.013301623053848743,0.010157723911106586,0.014405395835638046,0.009214899502694607,0.012862001545727253,0.007952762767672539,0.013178369961678982,0.010002114810049534,0.01272586826235056,0.012692485004663467,0.009219690226018429,0.01236814446747303,0.012936420738697052,0.012000896036624908,0.013542196713387966,0.013295335695147514
+0.013403146527707577,0.013769155368208885,0.012107552960515022,0.0140110794454813,0.014311853796243668,0.010902632027864456,0.014278247952461243,0.01265388447791338,0.012914869002997875,0.014409806579351425,0.013010515831410885,0.012013961561024189,0.008231951855123043,0.011378692463040352,0.008493682369589806,0.014917458407580853,0.012155660428106785,0.012884066440165043,0.012120043858885765,0.009425275027751923,0.015392868779599667,0.013212035410106182,0.0098399817943573,0.009186452254652977,0.012192814610898495,0.01233995333313942,0.015539266169071198,0.011753465048968792,0.02364288456737995,0.014208123087882996,0.016124248504638672,0.013955757953226566,0.013746008276939392,0.012883053161203861,0.01121297013014555,0.017206409946084023,0.013250600546598434,0.01257815770804882,0.013773252256214619,0.013773252256214619,0.018284032121300697,0.008601735346019268,0.014326250180602074,0.0144861601293087,0.01133226789534092,0.011110752820968628,0.015348157845437527,0.007339030504226685,0.014951009303331375,0.024025820195674896,0.013723552227020264,0.012521875090897083,0.014685324393212795,0.012720243073999882,0.008164415135979652,0.013404062949120998,0.011632143519818783,0.012545718811452389,0.012365376576781273,0.006950533948838711,0.01359441690146923,0.014049791730940342,0.01267626229673624,0.010101116262376308,0.014215110801160336,0.008659259416162968,0.013480854220688343,0.007093972992151976,0.012423081323504448,0.010118032805621624,0.013701647520065308,0.013215592131018639,0.00879539456218481,0.012491931207478046,0.013789222575724125,0.010350733995437622,0.01435702946037054,0.015162951312959194
+0.013248118571937084,0.013921782374382019,0.012135298922657967,0.013749981299042702,0.014076226390898228,0.010976485908031464,0.014309024438261986,0.01241525262594223,0.012760822661221027,0.014131969772279263,0.013643166981637478,0.01258700992912054,0.008914106525480747,0.011016329750418663,0.00847096648067236,0.01477903127670288,0.012056736275553703,0.013652995228767395,0.012063025496900082,0.009474859572947025,0.01484479010105133,0.0132193798199296,0.009888498112559319,0.009928453713655472,0.012308035977184772,0.012186843901872635,0.01510254479944706,0.011431839317083359,0.02437620982527733,0.01387808471918106,0.016372647136449814,0.013946945779025555,0.013481061905622482,0.01256617996841669,0.011803396977484226,0.01684000715613365,0.013560098595917225,0.01297805830836296,0.013490261510014534,0.013490261510014534,0.018361976370215416,0.009108128026127815,0.014024711214005947,0.014179316349327564,0.011429926380515099,0.012113967910408974,0.014566111378371716,0.007553612347692251,0.01455075666308403,0.02365252748131752,0.013392644934356213,0.012471036054193974,0.014357125386595726,0.013805294409394264,0.00810849666595459,0.013024709187448025,0.011500594206154346,0.01229885220527649,0.012255138717591763,0.007098534144461155,0.013337642885744572,0.014253522269427776,0.012985640205442905,0.010089198127388954,0.01431786548346281,0.008990252390503883,0.013203740119934082,0.007565091829746962,0.01257090363651514,0.010061610490083694,0.013392860069870949,0.012958468869328499,0.009025992825627327,0.01235605962574482,0.013482232578098774,0.011102310381829739,0.014035108499228954,0.014341273345053196
+0.013425773940980434,0.014963083900511265,0.011715135537087917,0.013330518268048763,0.014301829971373081,0.010944301262497902,0.013389118015766144,0.011815737001597881,0.012561549432575703,0.014155758544802666,0.012455158866941929,0.014229296706616879,0.008965272456407547,0.009460157714784145,0.007392059080302715,0.013644603081047535,0.012257449328899384,0.013146993704140186,0.01265154592692852,0.009226873517036438,0.014686677604913712,0.013457041233778,0.009715494699776173,0.010718976147472858,0.01112313475459814,0.011935983784496784,0.014467081986367702,0.010856777429580688,0.030025338754057884,0.013795750215649605,0.01707337237894535,0.01384761743247509,0.013686037622392178,0.012134199030697346,0.011031828820705414,0.01768134906888008,0.01311003789305687,0.01306089572608471,0.013639770448207855,0.013639770448207855,0.019395682960748672,0.009059112519025803,0.014249607920646667,0.014151986688375473,0.01082178857177496,0.012868381105363369,0.013408713974058628,0.007017310243099928,0.014677177183330059,0.025713568553328514,0.013235089369118214,0.012602359056472778,0.01457302737981081,0.014607848599553108,0.007071973755955696,0.013314292766153812,0.010682517662644386,0.01152105163782835,0.012645784765481949,0.006289532408118248,0.013625598512589931,0.014021793380379677,0.012822596356272697,0.009272592142224312,0.015857240185141563,0.008177702315151691,0.013153080828487873,0.0071657816879451275,0.013855143450200558,0.009909027256071568,0.013294466771185398,0.012397924438118935,0.008394137024879456,0.012700555846095085,0.013441518880426884,0.012628755532205105,0.014262912794947624,0.013393014669418335
+0.013201774097979069,0.014371763914823532,0.012033609673380852,0.013625695370137691,0.014228836633265018,0.010832158848643303,0.014128771610558033,0.012077510356903076,0.01265812199562788,0.014349153265357018,0.013142222538590431,0.013339594006538391,0.008887062780559063,0.010327697731554508,0.008053494617342949,0.01448520366102457,0.012077609077095985,0.013722867704927921,0.012103497982025146,0.009207049384713173,0.014889141544699669,0.013305793516337872,0.009846779517829418,0.010279729962348938,0.011797122657299042,0.012064824812114239,0.01499638706445694,0.011067801155149937,0.02623158134520054,0.013893306255340576,0.016409296542406082,0.014026987366378307,0.013560816645622253,0.012412809766829014,0.011590298265218735,0.017279664054512978,0.013699944131076336,0.013070018962025642,0.013552259653806686,0.013552259653806686,0.018769849091768265,0.008908990770578384,0.01413513533771038,0.01422068290412426,0.011343182995915413,0.012083741836249828,0.014098886400461197,0.007125611882656813,0.014656661078333855,0.025136539712548256,0.013320637866854668,0.0123980063945055,0.014484865590929985,0.014462852850556374,0.007702681235969067,0.013110283762216568,0.011204204522073269,0.011950853280723095,0.012082728557288647,0.006718281656503677,0.013422483578324318,0.014574631117284298,0.01292332075536251,0.009735536761581898,0.014890220016241074,0.008541101589798927,0.013217929750680923,0.0070979781448841095,0.013107378035783768,0.009897124953567982,0.013309884816408157,0.012817307375371456,0.008699935860931873,0.012503905221819878,0.013386698439717293,0.011419853195548058,0.014150245115160942,0.014009227976202965
+Questions:
+I know it says this is a slow remote control car, but how fast (MPH) does it go?
+what type of steering?
+is this durable
+how long do the batteries last?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+The recommended age for the Rock Crawler is age 8-15.
+We gave this to my son who is 6 1/2.
+He had no trouble figuring out the remote which is fairly simple - either forward or back, and turning the wheel for left/right turning.
+Even my daughter who is nearly 5 played with it, albeit not with extreme accuracy.
+With that said, this is where the age range may come into play.
+Please be aware that in the directions it does say to keep the product away from hair as it may cause entanglement, unfortunately my son tested that theory.
+He was driving the vehicle too closely to my daughter, who was lying on the floor on her stomach, it climbed up on her back and became entangled in her hair!
+Her hair was wrapped repeatedly around the wheel, I  thought we would have to cut her hair for sure.
+I painstakingly unsnarled her hair and freed her.
+Please, please be careful with this toy!
+Needless to say it was taken away shortly after receiving, so my review is rather brief.From our limited use, it was easy to use the remote, it went down our deck steps without a tumble - great on rough terrain, no problems with grass (it mentioned in the manual it may have trouble with), it does have that typical whiny engine for a RC vehicle but found it not to be terribly annoying or loud, it was of average speed (slower outside), fun -  but to be used Cautiously!
+I wish I had this remote control car when I was a kid.
+If you're looking for a speedy, sleek remote control car, look for a different one.
+As you can clearly see, this is for rugged driving.
+The body of the car is small in proportion to the entire car.
+You know those tricked-out trucks that are ridiculously raised?
+Well, imagine that except the wheels are pushed outward from the middle.
+I got the green one, and it reminds me of a vest-wearing gekko with rugged wheels at its legs.This thing can easily do any unpaved roads, trails on hikes, bumpy sidewalks, low stairs, etc...
+It lives up to its name of being able to crawl over rocks.
+It's neat to watch each wheel move independently.
+The control is simple: go forward, go backward, turn.
+No subtlety required.
+It's a road warrior.
+Not the fastest remote controlled car out there, but still very entertaining to play with as you drive it over various surfaces.My kids didn't have too many problems using the remote control.Overall, a very entertaining toy and I'd highly recommend it.
+My 9yr old daughter has a remote controlled mustang, it's pretty... speeds alone well enough but gets stuck all the time even in the house...
+I'd never dream of taking it outside as the poor thing would have issue with a pebble.
+I got this thinking it looked like it could handle things a bit better and I wasn't disappointed.
+We actually fight over playing with this truck/car now.
+I get some strange thrill over driving it over all the toys my little ones leave around the living room floor (it also helps them clean, they are opposed to having their beloved stuffed animals run over it seems, evil mom that I am LOL).
+I have managed to flip it over a few times trying to go up and over blocks but for the most part it does great.
+I hoped it woud do well on the grass (we live on a golf course) but sadly while it has no issues in the house on carpet or rolling over toys, or outside on pavement or rocks, grass is it's nemesis and it crawls along very slowly... so skip the lawn.The colors are bright and fun, the suspension is great and it's very responsive.
+Great fun for the whole family, if you can manage to take turns!
+The packaging, like so many these days, was large and plentiful.
+Lots of waste for the recyclers.
+Getting the car out was fairly easy, no knife or box cutters needed.There was minimal assembly although I did have trouble getting the battery compartment open on the remote because of the small bolt.This car requires 6 double A's and then 2 more triple A's in the remote.
+I was put off by the amount of batteries.
+Why not 2 D batteries in the car instead of the 6 A's?
+or 3 C's even?Remote control is intuitive to use and didn't take any particular skill to figure out.
+My kids figured it out in no time at all.
+The car runs pretty fast.
+I tried having them run it outside on the grass (which I read later is a no-no) but it didn't run very well at all on the grass.
+This is for flat surfaces only.The car has a high pitched motor sound which I find kind of annoying and loud, but I think all remote control cars have this same sound so I don't think there is much to be done about it.The bottom line is my kids really love this car and are getting a lot of use out of it.
+This Vehicle is fun to play with.
+It's quite speedy too.
+It was fairly easy to take out of the box with a few twist ties.
+It uses one 9 volt and six AA batteries.
+The remote is lightweight and real easy to hols.
+the trigger has forward and reverse with a knob on it that you use to steer by turning it.
+It's easy to use.
+The vehicle cover seems a flimsy plastic, but it's taken a beating so far and is great.
+It's not heavy, it's easy to carry.
+The wheels are pretty neat  because if the size of them .
+It's fun to play with and would make a great gift for boys.
+When my husband came home the other day it was to find me, a 33 year old woman, standing in the driveway giggling like a mad lady while the Maisto Rock Crawler climbed up and down the hill.
+As a girl I was never given the opportunity to own a remote control car, and I've always wanted something just like this!PROS:-Very easy to run.
+My 9 year old had no problem with it, neither did my 5 year old cousin!-Durable!
+We flipped this thing a few times trying to get it up some VERY steep hills and it's still running beautifully!-Runs over anything!
+(just about) I love that this rock crawler truly does crawl over rocks.
+Aside from really steep hills, I haven't found anything it can't go over yet!-Battery power - seems to be pretty good - I think the running time right now is about 6 hours (give or take) and it's still going strong.CONS:-Not speedy.
+If you're looking for something that goes really fast, this is not your remote control car.
+This was designed for maneuvering, not speed.-Lefties?
+I noticed that the controller is set up primarily for right handed people (which I am) and I wonder if left handed people may have an issue with it?VERDICT:The Rock Crawler is definitely a blast to play with!
+I love that you can take it over rocks and dirt outside, but that it's equally capable of going over carpet in doors!
+I can see us having lots of fun in the winter racing around the house!
+I have to agree with most of the other reviews, that this Vehicle is a blast to play with!
+My Son is having so much fun with it that we are going broke buying batteries :)  I guess that is the only downside is that it's not rechargeable but the upside is that he can play with it for longer stretches when we go to the Park and we can carry a fresh set of batteries to extend his time.
+The truck itself was a lot bigger than I thought it would be and has a fairly decent amount of power.
+I agree with the other reviewers that the one speed setting of the unit is kind of a let down, it makes it pretty difficult to play with it in confined spaces but has very little impact if you child is out in an open area, still it would be nice if it had proportional speed control.I am taking away one star on my rating based solely on the single speed mode but really and truly I feel like this is a 4.5 star toy.
+My grandson has a great time driving Maisto Rock Crawler all over the field by our house.
+It does well on the road and in the grass unless he gets in the tall grass.
+The grass bogs it down.
+The tires are nice and large, allowing it to handle heavier terrain than I thought it would.
+The remote works well and has some distance to it.
+I wish it had more than one speed, but that's not a big deal.
+My biggest issue, and the reason this got four stars instead of five, is the battery usage.
+A rechargeable battery would have been much better.
+I would be willing to pay a little more for that feature.
+Overall, a fun remote control vehicle.

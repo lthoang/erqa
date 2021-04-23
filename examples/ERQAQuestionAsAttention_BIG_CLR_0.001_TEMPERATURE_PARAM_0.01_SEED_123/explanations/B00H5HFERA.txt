@@ -1,0 +1,202 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+There are multiple games to choose from.
+I know she doesn't know how to read yet, but she loves just guessing at some of the games.
+Our options are either helping her every step of the way or letting her frustration build.
+This is a fun and educational game.
+Another great addition to our LeapFrog learning games!
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.004710492677986622,0.006305436138063669,0.005547034554183483,0.006917912047356367,0.007076809648424387,0.006288597825914621,0.004144619219005108,0.002786848694086075,0.005583214573562145,0.006864585448056459,0.004963498562574387,0.006996604613959789,0.0035238696727901697,0.007404195610433817,0.006676449906080961,0.007876894436776638,0.005430668126791716,0.00563190458342433,0.008013233542442322,0.005840625148266554,0.007028853055089712,0.0053327856585383415,0.002790676197037101,0.0053237807005643845,0.00792036484926939,0.0028739641420543194,0.006641089916229248,0.004418004769831896,0.005270869471132755,0.005472023505717516,0.006160002667456865,0.007648623548448086,0.004195520654320717,0.008082122541964054,0.0034514961298555136,0.009285186417400837,0.005896832328289747,0.006127818487584591,0.005640124436467886,0.004425140097737312,0.006512165535241365,0.004759432747960091,0.00703461654484272,0.005337415263056755,0.004046979825943708,0.006262566428631544,0.005329648498445749,0.0016855180729180574,0.0025359911378473043,0.002703441772609949,0.004075384698808193,0.00600952934473753,0.0027807073201984167,0.0019524411763995886,0.0018923153402283788,0.003944987431168556,0.005371931940317154,0.00672274362295866,0.0030150238890200853,0.006189869251102209,0.005521676503121853,0.008364833891391754,0.006193102803081274,0.006619335617870092,0.0031785040628165007,0.004715743940323591,0.0037497489247471094,0.004682824946939945,0.005360953044146299,0.005768578499555588,0.005825273226946592,0.005997705273330212,0.002926749875769019,0.005399918649345636,0.00547889806330204,0.0031630333978682756,0.0027312759775668383,0.00225866143591702,0.005101670976728201,0.006231020204722881,0.003303107339888811,0.005751557648181915,0.007852255366742611,0.004665109794586897,0.0055700852535665035,0.006726747844368219,0.006246978882700205,0.006232012063264847,0.006657492835074663,0.00254857842810452,0.0038911576848477125,0.005972456652671099,0.0026916188653558493,0.006809656508266926,0.003436147468164563,0.0038092799950391054,0.005758511833846569,0.007497468963265419,0.0073359571397304535,0.005628642160445452,0.0033760808873921633,0.005546627566218376,0.0063108294270932674,0.003951773047447205,0.004790311213582754,0.0027628117240965366,0.006781131029129028,0.0037880835589021444,0.007021038793027401,0.004386781714856625,0.006226344965398312,0.007391342427581549,0.004674708470702171,0.0062894863076508045,0.00768762081861496,0.006754071451723576,0.0075385901145637035,0.0072840433567762375,0.0072840433567762375,0.00323099666275084,0.005001472309231758,0.0028116265311837196,0.006079013459384441,0.003810653928667307,0.003943661693483591,0.004608183167874813,0.007191704586148262,0.008047906681895256,0.004276610445231199,0.00810549221932888,0.006064968649297953,0.005578245036303997,0.006275670602917671,0.007535741198807955,0.005701497662812471,0.007019144017249346,0.006796823814511299,0.006706449203193188,0.0026876931078732014,0.0043684933334589005,0.00642344681546092,0.00405923742800951,0.0058253672905266285,0.00508225429803133,0.007626727689057589,0.007515951059758663,0.005992760881781578,0.006740728858858347,0.0040194508619606495,0.006248976103961468,0.005821950733661652,0.005668765399605036,0.007509361952543259,0.002885164227336645,0.0026243317406624556,0.004375977907329798,0.00803703349083662,0.0052741821855306625,0.007151805330067873,0.0023762190248817205,0.004011726938188076,0.0034365321043878794,0.006941004656255245,0.006581498309969902,0.0062219128012657166,0.005577662028372288,0.003427092684432864,0.005330685526132584,0.0021631272975355387,0.006638845428824425,0.0066858502104878426,0.006783335469663143,0.006036763079464436,0.0035872573498636484,0.005543232429772615,0.0026928051374852657,0.0025174289476126432,0.005806704983115196,0.004149721935391426,0.007735411636531353,0.00689537450671196,0.005487851332873106,0.005324952770024538,0.006096863187849522,0.0027501049917191267,0.006242991890758276
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+Everything is missing, and it's up to the player to find missing shoes, toys, and other things.
+One time a dog had gathered the shoes.
+There are steps to solving each mystery so it helps to be logical.There's no math or reading, but there are rhyming tasks.
+When I played it as an adult, i wasn't impressed.
+But my seven year old LOVES it and finds it more exciting than i would have thought.
+This is a great game for Barbie lovers who are learning to read.
+I love how Leap Frog arranged the game around finding clues to solve cases involving missing cupcakes and sparkly shoes - it's a Barbie game that's not all about fashion or glitter.
+There are still plenty of opportunities to design Barbie's wardrobe and decorate t-shirts, but they've put an educational spin on it that both excites my daughter and encourages her to learn as she plays.My daughter is five and in kindergarten.
+The reading level is perfect for kindergarteners, but I'm not sure it would keep a 7-year old entertained for long.
+I'd place it more on the early side of the game's age range recommendations.
+I love how you can set the game to practice certain sight words and spelling words.All in all, another great Leap Frog game.
+My eldest daughter loves mysteries, but I actually got this for her younger sister, who is only three.
+I had used games like this for my eldest when she was pre-school age, and they really aided in her learning how to read.
+This is no different.
+My youngest has fallen in love with this game, which I kind of predicted.
+It causes her to really pay attention, which I&#8217;ll admit she has a problem with.
+She does give up from time to time and just tap random things, but when she&#8217;s not exhausted or bored and really intent on playing the game, she has a blast.
+Besides, who doesn&#8217;t love Barbie!
+These early reader games are a great way of preparing your young ones for school, or helping them not feel so left out when their older siblings are learning so much.
+Most importantly, it makes her smile!
+Ages 4-7, but they need to have some reading skills already to be able to play this on their own.
+Girls will love Barbie and her friends, solving the mysteries, and all the pink sparkles on this game.I was a little surprised that some of the games are very simple (finding the hidden objects) but the reading and spelling games that came after that required more skill than the hidden objects segments.
+My 3 year old can find the hidden objects, but she can't match the rhyming words, spell the words, fill in the blank on spelling the words, listen for the middle vowel and match the sounds, or read the clothing choice Barbie wants to wear.On the other hand, my 7 year old can really use the practice with the spelling and rhyming activities, but the hidden objects segments are just too simple for her.
+My 5 year old son fits the age range better, but he can't handle the spelling or the reading of clothing choices on his own.
+When he pushes the wrong choice, though, it eliminates the other choices until he eventually succeeds by process of elimination.
+He starts Kindergarten in the Fall, though, and maybe he'll do better with it next year as a 6 year old.This game is okay, and it does reinforce a variety of reading skills, but there is some disconnect between the mystery solving logic abilities and the reading abilities tested -- at least for my kids, who have good puzzle-solving skills, before they are reading.
+I got this for my recently turned 4 daughter.
+She is slightly advanced as she already knows all of her letters and many of the letter sounds.
+She really enjoyed many of the features in this app on her Leapad 2.
+She loved the barbie aspect and the idea that there were mysteries to be solved.
+However, she did need some parental help for some of it.
+Which is why I said it might be a higher age range for independent play.
+I personally prefer apps for independent play since we mostly use electronics in the car.
+This is a fun and educational game.
+It teaches phonics and reading.
+There are multiple games to choose from.
+ie fill in the missing vowel.
+Our kindergartener Barbie Fan was very excited to receive this!
+The age range seems more like the 5+ and my daughter struggled with making progress using this game.
+She grew bored and went back to her other favorites.
+We'll try again when she's older.
+My daughter is in first grade, and she really enjoys playing this new LeapPad game.I like the fact that I can use LeapFrog's parent tools to program her weekly spelling list into the game, so that she is playing games and learning her spelling words at the same time!The game teaches: spelling, listening comprehension, phonics, word sounds, and rhymes.In the game, my daughter gets to choose and name a pet, and then go on a mystery adventure where she hunts for clues with her pet.We have been using LeapFrog devices, games, and toys for nine years now, and are very satisfied with the fun element they bring to educational toys!
+My 6 year old daughter loves this game.
+I was expecting to use the personalized spelling game but she likes playing it just the way it is.
+She also enjoys dressing Barbie up and helping solve mysteries.
+Her 8 year old sister says it's too young for her to play and skips this game.
+I can see this being a great game for the 4-7 year old girl that likes anything Barbie.
+While my older daughter has decided that the Leap Pad no longer holds her interest because it doesn&#8217;t accommodate Minecraft (ugh), my youngest hasn&#8217;t reached kindergarten yet and still appreciates/enjoys the kid&#8217;s tablet.
+She&#8217;s at an age where Barbie sparks interest, so BARBIE MALIBU MYSTERIES proved to be a good way to combine play with learning.WHAT IT ISAn add-on game cartridge that works only with LeapPad, LeapsterGS and Leapster Explorer (we have the LeapPad).WHAT IT DOESThe central purpose of this cartridge is to solve a mystery surrounding missing shoes, cupcakes and accessories.
+A map allows the child to navigate to locations in a beach town.
+Each locations offers a series of tasks involving word games with clues being the reward for completing the tasks.
+The word games are both audible (choosing the right letter combination that completes the word being spoken) and matching words that sound alike.
+A plus is that parents can override the game and enter their own custom words for the child to work with.OTHER PERKS:  Aside from solving the mystery, the cartridge offers other things to do.- Photo Frame &#8211; take a picture with the LeapPad and put it in a digital frame that can be customized with jewels.
+You can even customize the photo itself by adding glasses, bows, etc.- &#8220;Micro-mods&#8221; (requires connection to computer/internet) &#8211; Barbie can be accessorized with a multitude of things:  new shoes, shiny skirt, frilly top, dress, hairclip and extra glitter.
+There is even a jigsaw puzzle mod.- Dress-up:  Barbie stands next to an armoire full of shoes and clothes to mix and match.- Spelling &#8211; word puzzles to practice spelling and letter sounds on a &#8220;silk-screen&#8221; (after successfully solving the word puzzle, dragging the stylus across the &#8220;silk-screen&#8221; produces the next word.Overall, it does provide a fun avenue to learn &#8230; I especially liked that parents can input their own words to customize the puzzles to their child&#8217;s ability, because (for the most part) the game appears best-suited for kids at the kindergarten level.
+The only thing that bothered me about the game was that every time the stylus taps the screen, a cluster of jewels sprout from the contact point &#8230; it gets a little annoying when multiple taps generate a snowfall of jewels across the screen.
+I got this for when my niece brings over her 4 yr. old daughter.
+It keeps her busy for a while.
+She plays with it on my 4 yr. old grandson's Leap Frog.
+She loves finding the missing objects, but she has a hard time with the spelling.
+Although she does do a pretty good job at guessing the letters missing.
+I know she doesn't know how to read yet, but she loves just guessing at some of the games.
+The fact that she is really into Barbie helps.
+Once she gets a little older, she will be able to enjoy this game a little better, so it will last a pretty long time in this house.
+These alleged &#8220;learning activities&#8221; are framed within three alleged &#8220;mysteries&#8221; in which the player has to complete the activities in order to earn &#8220;clues&#8221;.
+The first mystery involves missing shoes, the second involves missing rhinestone items and I haven&#8217;t worked up the gumption to plow through the third mystery.
+Each mystery has ten sections, and at the completion of all sections the &#8220;clues&#8221; are jigsaw pieces which assemble to show the culprit.
+Before, after and in between each section you are subjected to inane babble between Barbie and one of her perfect-looking friends.The &#8220;learning activities&#8221; are, at best, only tangentially related to the &#8220;mystery&#8221;.
+In one activity you have to find the &#8220;hidden&#8221; items.
+Except that the items are sitting in plain view.
+There are several &#8220;hidden items&#8221;, but you are only instructed to find three.
+Afterwards, you have to sort the names of the items, along with similar words, into columns.
+For instance, if the hidden items were a star, a cup and a crown, you might have to sort those three words, along with pup, gown, car, down, bar and sup into matching columns.Another activity comes when Barbie goes to interview someone.
+The activity involves picking out what the character is &#8220;thinking&#8221;.
+There are three objects floating in mid-air and you may be instructed to pick one that starts with the &#8220;h&#8221; sound, for instance.
+I often found it difficult to adequately hear the letter sound as pronounced by the game, but it&#8217;s still not terribly hard as two of the three objects start with the correct letter sound.Other activities involve inserting the proper letters to complete the given words and other sorts of spelling activities (one such activity involves printing t-shirts &#8211; go figure).
+The game comes loaded with many words already, and you can also upload your child&#8217;s spelling words.
+As with all of the activities, the difficulty of the words increases or decreases based on your child&#8217;s performance.In addition to the mysteries, there is also a &#8220;map&#8221; which will allow you to travel around and do other activities, but they are all very similar to the ones listed above.My kids and I all found these activities very repetitive and boring after a few rounds.
+It was a chore to complete enough activities to get the &#8220;clues&#8221; to solve the mysteries.
+And the solution is not exactly earth-shaking when it comes.
+My 7 year old daughter played this on her leappad 2.
+She enjoys Barbie and reading.
+The age range listed on this is from 4-7.
+My daughter was just about to turn 8 when she got this, so she was at the upper end.
+She is also a very good reader for her age group.
+She played the game for about an hour or so after getting it.
+She didn;t need any help from me on the set up or gameplay.
+She seemed to enjoy it, but hasn't returned to it since.
+I think she may play it a few more time in the next year or so here when the lepapad2 is her only gaming device but it wasn't one that captivated her enough to choose this game over others on the ipod touch, etc.....
+My kids can spend hours playing the Barbie Malibu Mysteries game for the LeapPad, though, we still consider the LeapPad a &#34;screen&#34; and try to limit screen time to 1-2 hours/day.
+They enjoy solving the puzzles and interacting with the Barbie-themed objects.
+They sometimes forget about the game for a while while playing with their other toys, but when they come back to it they remember how much fun they have with it.
+I think the skills that it teaches are too basic for a 7-year-old, but 4-6 is about right.
+Games like this can be difficult to pin point to a specific age.
+You might have a 7 year old Barbie fan who considers this game too easy, but the 4-5 year old crowd might find the activities too challenging and overwhelming.
+This game does require reading skills which could be frustrating for the younger set, although the 5 year old did find the game challenging and fun without complaining that it was too hard.
+It ended up being one of those games she enjoyed playing for an hour or so, when she remembered she had it.
+It was not one of the games she asked about repeatedly or begged to play.
+My first grader loves mysteries and he loved this game!
+When I asked him (like I always do) what I should put in my review his eyes lit up and he told me it's such a good game because you have to really pay attention and use your brain.
+He loved following clues, finding hidden objects, and finally putting the puzzle pieces you collect by completing challenges all together to solve the mystery.We have a lot of downloaded science games on his Leap Pad 2 and several cartridge games.
+This Barbie game is one of his favorites, and mine too.
+My first grader enjoys playing this game, but only for short periods.
+It covers a lot of word identification, sounds and spelling in order to progress.
+However, unlike other Leap Frog games I seem to have to encourage her to play this game.
+It's probably because this is a language arts game rather than math/science based, which are her preferred subjects.
+Fortunately, she does like Barbie and it does keep her interested enough for a 20 minute or so span in a subject that she could use the help in.
+So overall, while it may not be her favorite game, it is still a good language skill game for the young Barbie fan.
+My 5 year old daughter recently received this game.
+With being in Kindergarten, she's still working on reading/spelling, and we're glad to give her more educational opportunities when she's &#34;gaming&#34; to help her with improving those skills.The game is about a party, and something being stolen.
+The game player has the task of going through several games to expose puzzle pieces.
+Once they receive all of the puzzle pieces and complete the puzzle the &#34;mystery&#34; is revealed.
+A cute concept, and my daughter definitely enjoys it.Since spelling/reading is the key thing it's trying to teach, some of the activities in the game are:- Choosing from multiple words, and matching them up with other words that end with the same letters.- Determining what items end in the same letter.
+For instance, the game gives the example of &#34;Broom&#34; and the player has to select from a chain, gum, or jam which  one ends in an M.Overall, a cute, fun, game, and one I think my daughter will continue to learn from.
+My daughter loves this game.
+It keeps her entertained and she can play this game longer than most of her other games.
+She is a big Barie fan, so that has a lot to do with it.
+My daughter is six years old and knows how to read, but she struggles sometimes.
+This game is perfect for her.....
+This is a fun reading and spelling aid, yes it is easier if your little one is a little familiar with reading already, but even without that they can still learn allot with this fun Barbie LeapFrog Learning Game- Barbie Malibu Mysteries.
+It is great for the pre-k to 1st grade set and not too hard.
+Little ones can solve several mysteries with letter recognition, reading, and general problem solving.
+You can also dress up Barbie and take pictures, my daughter enjoyed it, it holds her interest a fine balance of fun and education.
+I would recommend it-great for car trips as well to occupy the young ones.
+LeapFrog Barbie Malibu Mysteries is another great teaching came from a pretty wonderful company.It&#8217;s perfect for both of my nieces 4 -8, though the 8 year old does manage to go through the various sections with ease, it&#8217;s nice to see that she&#8217;s able to help her younger sister out as she&#8217;s just starting to learn more when it comes to spelling, reading, phonics among other things.The appeal for both girls is, well Barbie and they LOVE it!
+It&#8217;s pink, it&#8217;s fun and they learn?
+SOLD!
+Another great addition to our LeapFrog learning games!
+My four-year-old enjoyed many parts of this game, but the majority of it was too advanced for her.
+Our options are either helping her every step of the way or letting her frustration build.
+I'm not sure this is a good tool to introduce spelling to pre-schoolers.
+I'm sure this game would be more helpful in early elementary as a supplement to what is already being learned.
+The game in and of itself is very entertaining, and I would definitely recommend it for kindergarten-second graders.
+My granddaughters just turned 6 years old, and they love all things Barbie.
+They are just the right age for this game, and it's Barbie, so what's not for a young girl to love??
+It helps build their reading skills while they are having fun.
+Recommended.
+My Barbie-loving 6 year old was thrilled to get this game - she's constantly working on her reading and spelling even outside of school, and this game is perfect for helping her practice in a fun way.
+Kids use their reading, spelling, listening, and problem-solving skills to help Barbie search for clues and solve the mystery of who is stealing things around Malibu.
+The game emphasizes phonics, word sounds & rhymes and expanding your child's vocabulary.
+I really like that you can create a custom spelling list for your child, to make things a bit harder and give them more to learn once they have mastered certain words.Definitely one of the better games we've tried from LeapFrog, it's perfect for those at the Kindergarten age-level who are just starting to read/spell.
+While my youngest (5 yo) daughter loves Barbie dolls and the associated toys, this game seems to have come and gone for her.
+She played it pretty intensely for the first few days and then trailed off after that.
+Once in a while she'll go back to it but the interest is fleeting.
+It may be due to her reading abilities being a bit above the level of this game, or it may just be that it's not terribly engaging overall.
+It's hard to get a straight, critical answer out of 5 year olds, so I simply have to chalk this one up to not being a match for her.
+I don't play this game myself, so it's hard to give details about the specific contents of the game.
+However, I have noticed that this game was only well loved for a couple of days and the kids almost completely forgot about it after that.
+Usually, they are fighting over the newest cartridges for weeks.
+Definitely not the case with this game.
+Our first grader has played this game several times from start to end.
+She enjoys it and finds it easy to play alone.
+She figured out the whole game on her own which she really was proud of.
+It is a great addition to her Leappad collection.
+LeapFrog Learning Game: Barbie Malibu Mysteries is a reading game recommended for ages 4-7 years and older or more specifically grades pre  k-1st Grade.
+The LeapFrog Barbie Malibu Mysteries game includes 4 different games which teach your child spelling, phonics, words sounds and rhymes as well as basic vocabulary.My daughter loves Barbie and has recently discovered the joys of reading.
+This is a great game it makes reading fun and colorful and encourages learning.
+Ever since my daughter started playing the game a little everyday her reading scores in school have improved a lot.
+.
+10 out of 10, way to go LeapFrog!update: This game will work on all Leappad systems (including Leappad Original, 2 and Ultra) and will also work on the Leappad Explorer system.
+I have two 7 year old girls, and they were giddy when they found this in their room as an after school surprise!
+They've loved every aspect of the game, but my FAVORITE feature by far is the ability to put each week's spelling lists into the game for them to practice.
+It doesn't seem like homework to them, but it is.
+Sneaky and effective!
+I got this LeapFrog game for my daughter, who recently turned 4 years old.
+Through past experience, I've learned that when LeapFrog puts an age recommendation on a game, it is almost always correct.
+This particular game is recommended for ages 4 to 7 years, but it is just a little too difficult for my 4 year old daughter at her current stage of development.
+She gets too frustrated with it when she plays.
+We have both a LeapPad Ultra and a LeapPad2, and this worked equally well on both devices.
+I played the game myself, and it seems very interactive and creative.
+I am putting this away for a few months, at which point I'll let my daughter try it again.
+I wasn't sure my five year old son would be interested in this game, since it is obviously geared toward girls.
+However, he really enjoyed playing it, particularly because it has a find the hidden object element.
+I love that this game teaches reading and spelling.
+It also is very neat that you can create customized spelling lists for your child.
+That is a little advanced at this point for my pre-K son, but I think it is a wonderful feature that we can use as he advances through the early grades.The only problem I have with Leappad games is the cardboard packaging they come in.
+You pretty much have to rip it to get it open and I wish Leapfrog would take a cue from VTech, whose Mobigo games come in plastic cartridge cases that open easily and then allow for easy storage of the game when not being used.Overall, I do recommend this game and not just for girls.
+My two and a half year old daughter is a little too young for this game but has already shown great interest in playing &#34;the Barbie game.&#34;  In the meantime, it is a great game for her brother and he is enjoying it.
+I appreciate that this game worked as soon as we plugged it in to the LeapPad.
+I didn't have to do a computer update.
+It gets played with for hours.
+Glad I have an adapter so batteries are not an issue.
+It is pretty gender specific.
+My daughter loves it and plays it for hours but my son who is in desperate need of spelling skills turned up his nose.
+I&#34;m trying to find a gender neutral product that will meet his spelling needs and my daughter's  math needs.
+She does the spelling but hasn't figured out how to add  words yet on her own.

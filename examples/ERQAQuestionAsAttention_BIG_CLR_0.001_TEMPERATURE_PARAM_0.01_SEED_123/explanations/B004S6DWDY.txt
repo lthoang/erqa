@@ -1,0 +1,206 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+The car doesnt flip that well on all surfaces.
+He has enjoyed pushing it around manually, though.
+He could do it backward and forward, the only choices on the remote, but if it turned or twisted, he hated it.My husband was curious where the 'flip' action came in, so he grabbed the controls and really opened it up one afternoon.
+I wish they had some turn button too and not just forward and reverse.
+When out of range it just rolls to a stop.It has two channels, so if it's not responding well you can try the 2nd channel.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.0038792439736425877,0.005107560660690069,0.0065669831819832325,0.007181095890700817,0.007334934081882238,0.007334934081882238,0.0075755189172923565,0.005448103882372379,0.0036818147636950016,0.004844697657972574,0.006358328741043806,0.005950916092842817,0.007348730228841305,0.006498984061181545,0.005872420966625214,0.003578835166990757,0.003141348483040929,0.002222340553998947,0.0032442042138427496,0.006278295069932938,0.002961723366752267,0.004259089939296246,0.003324982477352023,0.006874598562717438,0.002432446926832199,0.00812890101224184,0.0053833709098398685,0.004933591932058334,0.005325516685843468,0.0057623847387731075,0.0033451856579631567,0.004000728018581867,0.007119231857359409,0.007523365318775177,0.005680272821336985,0.006711107678711414,0.002091006375849247,0.004297823645174503,0.003727134084329009,0.0032535921782255173,0.0026500802487134933,0.0020588471088558435,0.005372330080717802,0.004284773487597704,0.006791405379772186,0.005865227431058884,0.0030605748761445284,0.004534455481916666,0.007582066114991903,0.004886415787041187,0.006627463269978762,0.007046028506010771,0.002261687070131302,0.0033874441869556904,0.0027305788826197386,0.005146287847310305,0.004437380935996771,0.007114937528967857,0.0046797702088952065,0.0053372448310256,0.0034541829954832792,0.0030033672228455544,0.00525963818654418,0.006034449208527803,0.002547615673393011,0.00804315134882927,0.005924011114984751,0.00648038974031806,0.008685593493282795,0.00814181286841631,0.005918038077652454,0.004632481373846531,0.007171643897891045,0.004706936422735453,0.004439526703208685,0.00425493810325861,0.003067395882681012,0.006583988666534424,0.003571226727217436,0.003085358999669552,0.004594334401190281,0.0021546781063079834,0.0038725482299923897,0.005912473425269127,0.005481268744915724,0.00798474159091711,0.004296598024666309,0.005486443173140287,0.0050337472930550575,0.0058593046851456165,0.006783474702388048,0.006691982038319111,0.005714534316211939,0.0068557229824364185,0.004663908388465643,0.006749736610800028,0.00510605750605464,0.005430129822343588,0.003783043008297682,0.006397849880158901,0.006648835260421038,0.006690056994557381,0.004716039635241032,0.00678695784881711,0.007171338889747858,0.004573163576424122,0.006101337727159262,0.006991885136812925,0.0022923059295862913,0.005776291713118553,0.0030271164141595364,0.006864262744784355,0.0037399963475763798,0.006953824311494827,0.002057736972346902,0.005577193573117256,0.007487289607524872,0.004827633034437895,0.006505811121314764,0.007096381857991219,0.004614975303411484,0.006357045844197273,0.005927197635173798,0.007858502678573132,0.003114857245236635,0.006948087830096483,0.0074993581511080265,0.005845682229846716,0.004737150389701128,0.002484876662492752,0.005252901930361986,0.005063255317509174,0.0028310467023402452,0.005749943666160107,0.008148389868438244,0.007431971840560436,0.0032199558336287737,0.005340089555829763,0.004407206550240517,0.00529123330488801,0.005511242430657148,0.007910467684268951,0.0058243852108716965,0.004675820004194975,0.004134720657020807,0.0050153424963355064,0.004533606581389904,0.006262558978050947,0.008251478895545006,0.0036077413242310286,0.0034838567953556776,0.0031080355402082205,0.005753327626734972,0.00563476700335741,0.0024638131726533175,0.0041628023609519005,0.002718532457947731,0.004253513645380735,0.005584402475506067,0.005232265219092369,0.0021533260587602854,0.003782984334975481,0.006691684480756521,0.0035645656753331423,0.005892898887395859,0.0030737430788576603,0.006607962306588888,0.006751764565706253,0.006511040963232517,0.003242031205445528,0.0062743183225393295,0.00705342274159193,0.006635688245296478,0.004641195759177208,0.006536871660500765,0.006759525742381811,0.006751764565706253,0.0026207841001451015,0.007619675248861313,0.007722422946244478,0.0066824862733483315,0.0068512302823364735,0.006287316791713238,0.007155615836381912,0.006473926827311516,0.001997034065425396,0.005443023517727852,0.004978233948349953,0.0021060185972601175,0.006706886924803257
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+"This RC car is much bigger than expected based on the picture in the advertisement.
+The ""flip design"" is appealing.
+It is a car on one side and a truck on the other.
+My child was ecstatic to see this cool car in the big box!
+He loved it and wanted to play with it right away.
+It was easy to assemble and use.
+It requires 8 AA batteries which I feel is a lot for a toy, but like I mentioned, it is a larger car.
+The toy is recommended for children older than 3.
+My 3 yo enjoyed it, BUT I don't think older kids will enjoy it as much as other RC cars.
+The remote control is large enough for small hands and is easy to grip.
+It does not offer a turn option, so you can only drive it forward and backwards.
+I thought the car had the ability to flip over on it's own if it hit a wall or if it went fast enough.
+I reread the product description and it does say ""you can flip it over when you are ready"".
+The batteries were dead after 1 day of use.
+So, overall, I think this is a fun RC for younger children."
+"If you feel your kid is old enough to steer a remote control car, don't get this one.
+If he's young and needs something durable and able to hold their interest for a few minutes, this is a good choice.Tonka has made these cars for several years - this newest one is branded as their ""Chuck"" line, and adds a voice to the toy.
+You may find previous versions, likeTonka Playskool Tonka Bounce Back Racer (Band B)49 Mhz - Colors May Vary, cheaper if you don't car about the new facial features (eyes, mouth, etc) and the voice effects.
+Note that the MSRP of the version I'm reviewing is around $35 at time of it's introduction.
+Previous versions come hardwired onto one frequency (channel) whereas this newest version lets you choose between two channels right on the car & remote.This car goes forward and reverse only.
+Unlike some other toddler-style r/c cars, when put in reverse, this one doesn't turn.
+While the wheels can angle a little bit, it's not designed to do a 90 degree turn when in reverse.
+Therefore, your child has to pick it up to turn it.Considering the range is only about 10-12 feet, they'll never be that far from it that it should be a hassle.
+I know my son (3.5 at the time) chases it down the whole time anyway.
+The range is a bit dissappointing as even in moderate to large indoor rooms it can get out of range.
+When out of range it just rolls to a stop.It has two channels, so if it's not responding well you can try the 2nd channel.
+This is also useful if you plan on having 2, as when on different channels they shouldn't interefere with each other.
+While in previous generations they made different color styles available, you now only get one choice.There's a number of sayings that happen fairly randomly or when it senses it's moving.
+Not too loud so that was good.The on/off & channel selector are on the green side of the truck.
+The controller only has two buttons, forward and back.
+Therefore, when the truck flips, pushing the button for forward when the truck has blue side up causes it to go backward when the green side is up.Running from reverse to forward while moving on carpet, you can get the truck to flip on its own, which my son thinks is so cool.
+My eight year old daughter loves RC vehicles so I got this think she'd have fun with it and at least laugh.
+She was very very unimpressed.
+The car/truck on goes forwards and backwards and we could only get it to flip a few times.
+The sayings are cute, but half the time, I didn't really understand what they were saying.HOWEVER... my 3 year old nephew LOVED this truck.
+He chased it around, giggling madly, bashing it into everything he could find.I'd say this is for the under 5 crowd... or perhaps my kids have just been around more complicated RCs so found this one to be too simplistic...
+Disclaimer: I am reviewing a unit I received for free, through the Vine program.Well it's OK. Not fantastic, not bad.
+It kept a 6-year old entertained for at least 2 days before he put it aside and forgot about it amongst a huge pile of other toys.... (e.g.
+this reviewer's kid has way way too many toys to begin with, which does color the results in this case).It runs back and forth forwards and backwards, and flips, yes it does, so you see one color or the other, as the visible topside.
+but it doesn't have any left-right turning control, and the range is not too far as others have pointed out, so you do have to run after it, which can be a good thing (encourage exercise) or a bad thing, depending on your perspective.
+This is a simple and boring radio controlled car toy that doesn't have a good range of operating you have to chase the toy with the remote control to make it work, this racer runs very slow and never flip, my son played a few minutes with this toy and then he went to play with his old toys.Is well made, have good quality, fun design, but is boring.
+"The Tonka RC truck ""Flip, the Bounce Back Racer"" is a decent little RC car, good for small kids, around the age of 3 and up.
+It's a sturdy little guy and survived getting sat on by a 3 year old and running into several walls.
+It feels tough too.One issue well worth noting is the controls only allow for forward and back.
+The front wheels do turns slightly, so the car will move around more than just straight.
+It's good at going around small objects.It is designed to be able to flip over, so that is a real bonus.
+It means your not having to continually flip it over.It also talks while rolling around.
+This could be a terrible thing, but the voice is generally pleasant, and the comments it makes are general 'do that again!'
+and 'that was amazing!'
+types of comments, so while there are only a few (20+ according to the box), they don't get annoying.The car and controller have a fairly short range.
+I'd say no more than a couple yards, if that far.
+For young kids this is good, as it wont get far away from them.
+There is also two frequency settings, so two can operate in close proximity without problems.In total, it uses 8-AA batteries.
+As of this writing, I'm not sure how long they will last, but if it gets used a lot, might be worth getting some rechargeables.The price of $50 is a bit high, in my opinion, for a car that only goes forward and back, but I think what you are paying for is the quality and sturdiness of the car.
+It might not be a good choice for older kids because of the steering limitations, but the simplicity is good for younger children, and it should stand up to the abuse they will inflict upon it."
+This car was a bit larger than I expected, and seems fairly sturdy.
+It was easy to install the batteries in both the remote and the car.
+I liked how the batteries were placed in the back and balanced on each side, although I didn't like how many batteries it took.
+Each side of the car is a different vehicle in bright blue or green.
+The remote is easy to use, but there's no directional control which may be frustrating for older children.
+Most of the 'direction' changes were due to the car ramming into a wall or by my daughter manually.
+I also thought the distance between remote and car was fairly short, 10-15 feet; we found it frustrating to have to chase the car for the remote to work properly.
+A younger child who's more likely to be running after the car anyway might find that aspect less annoying.
+Overall, I think it's a cute, sturdy remote control car best suited for younger kids (6 or 7 might be too old).
+The inability to change directions and the short distance for control may frustrate older kids, even though it seems to be pretty fun to slam the car into walls to have it flip over.
+A simple toy for little boys.
+The remote has very low range, some one has to chase the car with the remote.
+Works well when you have small boys... who have lot of energy to burn.
+The car doesnt flip that well on all surfaces.
+I wish they had some turn button too and not just forward and reverse.
+Consumes lot of battery as the toy is quite heavy for what it does.
+It is not a must have toy, I like the regular re-chargeable RC cars as they prove to be better value than using  8 AA batteries.
+Over all a simple toy for young children... nothing special.
+"The Tonka Chuck Flip the Bounceback Racer is a great concept and fun at first, but the quality of the final product left us upset after a mere 24 hours.First, the positives.
+The race car itself was quick to take out of the box and start using, no assembly required.
+It was larger than I expected (about 8"" square) and the kids had a blast just running around with it and looking at the fun color and faces on it.It takes 6 AA batteries for the car and 2 AA batteries for the controller.
+The batteries install on the top and bottom for even weight distribution through an ingenius single plastic cover that goes on the end and screws in for safety.
+As soon as we had the batteries in the car, I let my 3 kids ages 3, 5, and 7 play with it.
+It is really a fun toy, racing along on oversized rubber tires while it shouts funny things.
+The controller on has forward and backwards on it (no turns), but the wheels sort of pivot, and by going back-and-forth you can get it to go where you want.The most fun is when you get it going really fast and suddenly change directions.
+Often the car will flip on its own tires to the other side, and then it keeps driving upside-down.
+My kids had it flipping over by driving up books, pillows, and crashing it into the wall.
+The controller even has a second channel capability, so you can buy and control 2 cars.
+I also liked that the car turns off automatically after not being used for a few minutes - saves on battery life.So why 2 stars for a toy that had my kids laughing and giggling for an hour?
+First, the range is pathetic.
+Literally, you cannot get it going fast without chasing the car.
+I measured the range with a tape measure and found it to be 12 feet!
+How can you race 2 cars in just 12 feet?
+The distance was very repeatable and I used fresh batteries.
+"The good:  This remote controlled truck is fun.
+It's speedy, bouncy, and it flips over easily.
+It's built so that it has a truck body on both sides, so both sides are ""upside-up.""
+Our kids loved playing with it for about half an hour, and when other kids are over at our house, they love playing with it too.
+Younger kids have a little more than half an hour of interest, older a little less.
+It has nice big bouncy tires that let it crash off of things, and you can flip it by sudden stops as well.What could be better:- Range is very limited (about 10 feet).
+I guess you could get about 20 feet of racing in by standing at the mid-point of your race course.- The remote won't turn the car.
+There are only two buttons -- forward and back -- so you might not need 20 feet of range unless you have a very long straight away.- The unit takes a lot of batteries (six AA for the car, 2 AA for the remote), none of which are included.In my opinion, this is currently a little pricey for what you get.
+It's fun, fast and sporty, and if you have two you could race for moderate distances, but without the ability to turn, our kids were bored with this after a day."
+This is a pretty neat remote control car with a few drawbacks.
+Most importantly the boys (3 & 5) get a real kick out of it and enjoy playing with it.
+They brought it to the park once and were the most popular kids arounds.
+They like how fast it is and of course the flipping action.
+The car seems pretty durable as I would expect from Tonka.
+There really isn't much remote controlling.
+Basically stop and go.
+The range of the remote is really short and since you can't turn it you have to trail it pretty close if you are not flipping it back and forth.
+And this thing talks when it is doing tricks.
+Guess what?
+It is pretty loud and there are no sound on/off or volume controls.
+So after a while it can get a bit annoying hearing the same few phrases over and over.
+The remotes frequency is the same one that every other remote control car works on (27MHz).
+So, we can't play with this car while we have our other one going.
+Combined the car and controller take eight AA batteries.
+This bugs me a bit.
+I got this toy to review through the Amazon Vine program.
+I tried it out for a bit and then my 4 year old son gave it a spin.The toy takes a ton of AA batteries to work.
+I think it's 8 total.
+And while the batteries weren't hard to get in, you do need to unscrew the panels to get them in there so it takes some time (maybe 10 minutes or so).The car is extremely easy to operate.
+You can make it go forward and backwards, when it goes backwards it turns some so you can change its direction.I was never able to get it to flip, no matter how hard I tried.
+I was also not able to get it to go where I wanted most of the time.
+The wheels slipped a lot on our wood floor, so that may have been what prevented the flipping.
+It worked okay on the carpet too so that was nice (so many of these types of cars don't work on carpet at all).My son enjoyed it more than I did.
+He figured out how to work it right away and didn't really care that it wouldn't flip.
+He liked that he could crash it into things without worrying about which side was up.
+He also enjoyed putting it up on tables and driving it off, the car is incredibly sturdy and no matter which way it lands it can run.My son also discovered that is you lay it on its side with the wheels flat against the floor and drive it, the car moves forward in a walking motion which thrilled him.Overall my son enjoys it pretty well.
+He takes it out maybe once a week to drive it around and crash it off of things.
+There are some drawbacks though; we've never gotten it to flip, it takes a ton of batteries, and it is hard to control.Pros:- Very durable- No matter how it lands after a crash you can get it to move since the wheels work from both side- Very easy to operate (as in getting it to move, not getting it to where you want it to go)- Works on carpetCons:- Hard to make it go the direction you want- Couldn't get it to flip- Wheels slip on hard surfaces- Takes a ton of batteries
+The Tonka Chuck & Friends Flip the Bounce Back Racer is okay for three- to six-year-olds but older children get bored quickly.
+With two cars they could race them, but with one car, the fun is limited to bumping into things and chasing each other going backwards & forwards, either inside or on a hard surface outdoors, as there is no steering mechanism.It will run up a slope with enough speed and, with some practice, flip over, at least sometimes.
+The car also speaks enthusiastically and the little ones loved that although I found it annoying after just a few minutes.The car and remote together take a total of eight AA batteries (which I was surprised to find are NOT included) so I suggest rechargeableeneloops.Overall, it is reasonably well-made for a plastic toy.
+My almost 5 year old son isn't too keen on RC cars.
+They scare him, to be honest, with their unpredictability and loud noises.
+With the Tonka Chuck Flip RC Racer, this was initially the case.
+At first, the car, which is admittedly pretty loud, freaked him out.
+He could do it backward and forward, the only choices on the remote, but if it turned or twisted, he hated it.My husband was curious where the 'flip' action came in, so he grabbed the controls and really opened it up one afternoon.
+He was able to get it to flips, turn and really do what it was intended to do.
+That was a lot of fun to watch but he quickly tired of this trick.Not too long after, my son began to experiment with the toy.
+Although he isn't able to open it up and make it flip a lot, he is no longer so afraid of the toy.Why is this important to you?
+Well, seeing as the age range is 3+, if you have a more reserved child like I do, it might not be a great idea to purchase this car.
+If your child is older and more experienced with RC vehicles, this probably is too simple for him/her.
+I would save this for a young child, not scared of loud noises and has an interested in fast cars.
+My 5 year old daughter and her friends love this racer!
+The remote is easy to use, the racer takes a beating and keeps on going, and it really does flip over when it hits a wall or other solid surface.
+It provides them with hours of giggling fun!
+I got the RC car for our 3 year old son.
+He has other Chuck toys and enjoys them.
+Ge was a little overwhelmed with the speed of this car; it moves pretty quickly and is loud.
+I think the unpredictable nature of it sort of scared him, so he was slow to warm up to it.
+He has enjoyed pushing it around manually, though.
+And he enjoys it when I drive it with the remote.The remote loses connection when you're only about 20 feet away, and only has two buttons (forward and backwards), which is good formlittle hands.It also talks, which wasn't clear from the description.
+He has about 20 phrases and only one volume: loud.
+This is a very simple radio-controlled car toy that's fun for a few minutes but has too many flaws to be worth $49.99.
+The toy needs 6 AA batteries in the car itself (battery hog alert!)
+and 2 AA batteries for the remote.
+After you've installed the batteries, you just have to make sure that the remote and car are set to the same channel, press the power button on the car, and you're ready to play.First disappointment: the toy only has controls to go forward or backward.
+There's no button or lever to make it turn.
+After a while, we figured out that you can make the toy sort-of turn by making it go back and forth quickly a few times, causing it to shift a fraction of an inch to the right or left every time, but this is a really clumsy way to control it.
+That's right people - this remote-control car only has controls to go forward or backward.
+No turns.
+Unbelievable.Once you've overcome that disappointment, you'll quickly encounter the second one: the range of the remote control is minimal.
+You have to stay very close to the car for it to respond to the remote control, so unless you run after the toy, it'll just stop once it's about 10 feet away from you.If you make the toy go forward quickly and then suddenly flip it in reverse, the car flips over to the other side, which is a fun feature (and really the only thing that makes this toy stand out) but unless the batteries are very fresh, it will not reach the speed it needs to flip over that way.
+You can then still make it flip by having it bounce over your foot or another obstacle (or pop in another 6 AA batteries!
+), but otherwise all this thing really does is go forward and backward.On the plus side: the toy yells out some fun phrases that'll amuse your toddler.
+The antenna of the remote control is curved and has a blunt tip, which is a really smart feature because it makes it harder for a child to poke itself in the eye.
+The two channels make it possible to have two cars, each on one channel, and race them without interference.
+The flip-over feature initially is fun.There are many remote-controlled car toys out there that are a lot cheaper, or offer more value for the same price, so I'd look around at other options before deciding on this one.
+In my opinion, it's a huge disappointment.
+A 6,5 and 2 year old played with this car and LOVED it.
+They were almost fighting over who got to play with it.
+It is durable enough to use indoors or out.
+The audio feedback keeps things interesting.
+The flipping action is probably the most interesting feature though.
+The kids just kept flipping it over and over.
+They laughed and laughed while playing with it and ask for it first thing in the morning.
+The only downside I see with it is that there is no way to really turn it, so it's a back and forth type of toy.
+It also just stops in the middle of play.
+I am not sure why.
+You're pressing the controller and it doesn't do anything, but then it comes back on again.
+The batteries were brand new, so it wasn't that.
+It wasn't out of range, so it wasn't that either.
+It didn't really seem to bother the kids though.
+I would say this is a good first RC car for maybe a 2 year old, or a kid that has never dealt with any sort of RC vehicles.We gave this to our 4 1/2 year old for Christmas.
+Initially he was excited and wanted to use it right away.Within a minute of using it we was disappointed that he could only go forwards and backwards, and he had a hard time timing the controls to make it flip like Daddy did.He quickly lost interest, and moved on.He will play with on occasion, but only for a small while, not very long at all.Like mentioned this is a total battery hog so add that on to the price and well.
+The toy looked like it would be a lot of fun for my 4 year old.
+Indeed, he was very excited by the way it looked and got the concept right away.
+However, he lost interest very quickly because the control unit randomly stops working for several (20 - 30) seconds at a time and not sending a signal to the car.
+I tried to troubleshoot it, but it didn't seem to be batteries or range related.
+Speaking of range, it only works for about 10 to 15 feet.
+I suppose that to some this would be good because it can't go all over the house, but aside from the control unit flaking out even at short range, it means that the car doesn't even work within the full size of one of our rooms.
+If the control unit wasn't flaky and range was better, this could easily earn 3 stars.

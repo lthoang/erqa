@@ -1,0 +1,107 @@
+Top question(s):
+Can you tell me if the screen lights up?  I want to take this camping and we play at night when it's dark.
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+It incorporates elements of Password and Taboo in terms of giving and receiving clues.
+Marketing gimmicks deserve a one star review deduction.
+Nonetheless, both versions are still fun games.
+That's just nitpicking, though.All in all, it's a great game that can be enjoyed by adults and teens alike.
+It can be played by competing individuals or competing teams.
+
+Question attention weights:
+0.35816413164138794,0.308596134185791,0.33323967456817627
+Sentence attention weights:
+0.015587292611598969,0.011046006344258785,0.011350786313414574,0.01349248643964529,0.012518092058598995,0.013878362253308296,0.013012556359171867,0.014828400686383247,0.013850185088813305,0.007772252429276705,0.014413317665457726,0.015341613441705704,0.015596828423440456,0.010591966100037098,0.014718970283865929,0.015236926265060902,0.006122843828052282,0.008228854276239872,0.005796800833195448,0.013240004889667034,0.009967295452952385,0.007346868980675936,0.012794977985322475,0.007223927415907383,0.012963887304067612,0.013239891268312931,0.007149912416934967,0.011247805319726467,0.00524880550801754,0.007998233661055565,0.006725254934281111,0.0095584187656641,0.010581551119685173,0.012683391571044922,0.01223082561045885,0.013358892872929573,0.009049185551702976,0.005661403760313988,0.008698544465005398,0.009392952546477318,0.01681644842028618,0.016160355880856514,0.011947348713874817,0.012944037094712257,0.010125317610800266,0.01130641344934702,0.011350098066031933,0.014493459835648537,0.014092735946178436,0.010809835977852345,0.013746458105742931,0.014285088516771793,0.009340614080429077,0.011329874396324158,0.013829902745783329,0.013829902745783329,0.014442318119108677,0.013829902745783329,0.012599055655300617,0.01610172539949417,0.014534549787640572,0.013139386661350727,0.015710443258285522,0.01733110286295414,0.005585668608546257,0.010108965449035168,0.013948061503469944,0.015045844949781895,0.004822881892323494,0.008705303072929382,0.011974798515439034,0.014837243594229221,0.007697379216551781,0.004374317359179258,0.012034041807055473,0.014916925691068172,0.012826205231249332,0.006422793958336115,0.01568213850259781,0.013006714172661304,0.012070435099303722,0.006861311849206686,0.01291294302791357,0.009349597617983818,0.012333585880696774,0.010639922693371773
+0.014529869891703129,0.010749578475952148,0.01016736589372158,0.011143144220113754,0.012451705522835255,0.014124160632491112,0.012623094953596592,0.014739184640347958,0.014083998277783394,0.00799664855003357,0.014568882994353771,0.015032481402158737,0.01519756019115448,0.010852686129510403,0.014596869237720966,0.012972730211913586,0.0060131181962788105,0.007818037644028664,0.006865229923278093,0.013483678922057152,0.010856139473617077,0.007738815620541573,0.012576627545058727,0.0071787526831030846,0.013272406533360481,0.01359441690146923,0.007961316965520382,0.012046832591295242,0.004775770474225283,0.007192051503807306,0.007220495957881212,0.009855273179709911,0.009937855415046215,0.014800923876464367,0.011433577165007591,0.01371774636209011,0.010717537254095078,0.005655078683048487,0.009824410080909729,0.00931569654494524,0.016109775751829147,0.01682678423821926,0.012268824502825737,0.012924786657094955,0.010107794776558876,0.01139303669333458,0.010603473521769047,0.014542646706104279,0.015480526722967625,0.00977667048573494,0.012390715070068836,0.014333270490169525,0.009660189971327782,0.010847900994122028,0.013985595665872097,0.013985595665872097,0.014500963501632214,0.013985595665872097,0.012996705248951912,0.01617569848895073,0.014522482641041279,0.013972336426377296,0.015309750102460384,0.014325522817671299,0.005762765184044838,0.010436552576720715,0.014420281164348125,0.014800326898694038,0.0058638365007936954,0.0086622079834342,0.012443876825273037,0.015200847759842873,0.008059561252593994,0.004892481025308371,0.011307771317660809,0.015618782490491867,0.011915938928723335,0.007340566720813513,0.015202992595732212,0.012494084425270557,0.012387687340378761,0.006435290444642305,0.012323230504989624,0.01044501829892397,0.012526468373835087,0.010751008987426758
+0.015281318686902523,0.010502832941710949,0.010474585928022861,0.011995787732303143,0.012643762864172459,0.014117533341050148,0.012958601117134094,0.014923563227057457,0.014080669730901718,0.007810881361365318,0.01464756764471531,0.0153762586414814,0.015750965103507042,0.010508236475288868,0.014838244765996933,0.013758216984570026,0.005874740891158581,0.0075975451618433,0.0056364042684435844,0.013077647425234318,0.009812278673052788,0.007645490579307079,0.012638703919947147,0.006892900913953781,0.013305660337209702,0.013564232736825943,0.007114505395293236,0.011787483468651772,0.005554620176553726,0.007399124093353748,0.005895162932574749,0.009790151380002499,0.01005279179662466,0.014904296025633812,0.011556791141629219,0.013662255369126797,0.009911078959703445,0.005262233782559633,0.00902476068586111,0.009206165559589863,0.018062619492411613,0.016861209645867348,0.012296371161937714,0.012234417721629143,0.010074487887322903,0.011595292948186398,0.010610250756144524,0.014876148663461208,0.015355889685451984,0.009898446500301361,0.012625113129615784,0.01445410493761301,0.009348707273602486,0.010381236672401428,0.014026522636413574,0.014026522636413574,0.014718464575707912,0.014026522636413574,0.01263637375086546,0.015937142074108124,0.014687934890389442,0.013411655090749264,0.015706511214375496,0.015689153224229813,0.005672879051417112,0.010242093354463577,0.014748609624803066,0.014837189577519894,0.0047231270000338554,0.008885198272764683,0.012356541119515896,0.015852687880396843,0.00864108745008707,0.0048404233530163765,0.011397677473723888,0.01641259714961052,0.012245544232428074,0.006784704048186541,0.015651976689696312,0.012646342627704144,0.012040453031659126,0.0064673833549022675,0.012338334694504738,0.009588387794792652,0.01276880782097578,0.010480753146111965
+Questions:
+Can you tell me if the screen lights up?  I want to take this camping and we play at night when it's dark.
+what age group is targeted?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+Our family loves catch phrase.
+We play it at virtually every family gathering and watching the older members of the family struggle to view the tiny words on the original version was just painful (though it often lead to hilarious misreadings of the words).
+This version is much easier to read and just as much fun--though what Scrabble has to do with it still eludes me.
+"My kids like this better than the ""regular"" catchphrase because of the absence of what they call ""the annoying sound (more like a buzzer)"".
+This one just has a ticking sound.
+It is the same game as in catchphrase.
+This is an easy, entertaining game than be played with at the drop of a hat when a group of family or friends is gathered.
+Players see on the little screen the phrase they must try to have others guess, but none of the words may be used.
+Lots of laughter for sure!"
+While this version of the classic game doesn't appear to feature as many words as the original Scrabble, this small electronic version is great anyway.
+Kids and adults will certainly enjoy this one.
+Recommended.
+This game is perfect when you are going to parties this Christmas season.
+Why not spice up the gathering by making team and having fun at the same time (No need to spice it with alcohol if you see what I mean.
+Be wise and don't drink and drive!).
+This fun electronic game can easily be put in a bag or purse and taken out anytime during an evening of fun among family or friends.Essentially the goal is to guess the word your teammate received while he/she gives clues.
+You can make a physical gesture and/or give almost any verbal clue that you might think.
+However, you cannot say a word that rhymes with the word to find, five the first letter of the word, or say a part of the word in the clue.
+When your team have guessed the word, you pass the unit to a member of the other team and so on until the buzzer sounds.
+When the bbuzzer goes on, the team that is not holding the game unit gets 1 point.
+If you are caught doing something illegal, the game is stopped and the point goes to the other team.
+The first team to reach 7 points win the match.The categories are: Variety, Entertainment, Everyday Life, Fun & Games, and The World.
+Let's see some examples of words to guess.
+I've selected the Fun & Games category and here's some of the challenges: handstand, scuba dive, jump shot, tropical paradise, bike trail,....  You get the idea.
+Without using words in the challenges, you have to get your teammates say it.
+Let's take Scuba Dive for example.
+I would do the gesture of swimming, put on a mask, strapping oxygen bottle, pinching my nose and go under the water, looking everywhere, a fish face....  Hopefully they would yell Scuba Dive at some point.I think it is a fun game that will help people to work together to find the word.
+There are literally thousands of words and phrases in this game unit.
+Back in the late 1600's (that's how long ago it feels) when I was attending a performing arts high school, we used to try to end every week with a game; either Charades or a faster version of the same thing that we (and I'm sure many else as well) called Slips.
+For the uninitiated, Slips was the shorthand version of Charades; you didn't act the clue out (which was written on a slip of paper), but you would simply give as many hints as you could without rhyming or giving a word of the title (if it was a book, film, play, etc).
+In that respect, it's also kind of like the $100,000 Pyramid game show as well.Catch Phrase is really the high-tech version of Slips, but this Scrabble version has enough new clues than the previous older versions that it doesn't trip on itself as often.It's a fun game to play with just one other person or a bunch of people, and it provides hours of entertainment.Man, I wish I was back in high school all of a sudden.
+"It seems people either love or hate games that are played under pressure.
+If the thought of being paired up and guessing words and phrases to a ticking timer (think Password) puts you in a tizzy, don't bother buying this game.
+Our family loves game night, but as with any crowd, there are always a few who don't enjoy fast-paced thinking games like Scrabble Catch Phrase.
+Fortunately, this is also a quick game that doesn't last all evening.
+It's also a handy travel game.
+All that is needed are four players and the game unit itself.Because of the Scrabble inclusion in its name, I purchased this game thinking it was slightly different than the original version, which we have played before.
+One website (not Amazon) describes it this way, ""Scrabble Catch Phrase is the classic electronic game of Catch Phrase with a Scrabble-themed design.""
+We love Scrabble, so it was a big disappointment to see the original and this newer version are virtually identical.
+Why did Hasbro bother to include Scrabble into the Catch Phrase name?
+Marketing gimmicks deserve a one star review deduction.
+Nonetheless, both versions are still fun games.
+I suggest consumers buy whichever one is cheapest."
+"I have reached the stage of parenthood when I am Head Chauffeur.
+This involves ferrying kids---mine and others---back and forth to activities all week.
+One involves a 30-minute car ride, and this is a perfect game for the kids to play in the car.It's a lot like the old Password.
+I love that the kids have to think creatively---so much better than handing them a video game or popping a DVD in.
+It definitely makes the trip go by quickly, and the kids have a lot of fun.
+Our other favorite is the electronic 20 questions game you can find on Amazon---the kids were amazed when it guessed ""diaper.
+""ps: As others have noted, this really doesn't have much to do with the traditional Scrabble game.
+Buy it for the Password properties only."
+This game is fantastic fun.
+Words appear on the screen, and you have to get your teammates to guess them.
+It's a little like Taboo, although without the list of words you can't say.The timer makes a clicking sound which gets faster when you're about to run out of time.
+It makes the game more exciting, although the sound itself is a little annoying.
+Some of the words might be hard for some people to guess.
+I mean, have your kids heard of Ray Charles?
+And do you know who Gwen Stefani is?
+You'll probably find one or or two of those in each round if you go through words fast, but most of the words should be familiar to most players from 14 to 70.
+That's just nitpicking, though.All in all, it's a great game that can be enjoyed by adults and teens alike.
+It works great with four people, although the more players, the more fun it is.
+"Scrabble Catch Phrase is a lot of fun.
+It can be played by competing individuals or competing teams.
+It incorporates elements of Password and Taboo in terms of giving and receiving clues.
+A player is shown a phrase or word in the window of the hand-held electronic game and must elicit the correct response within a specified time limit.The game rules are simple to learn -- no 40-page book of instructions in fine print.
+It takes only a minute or two to learn the essentials of game play so you can get right down to business actually playing.The game is designed with ease of use in mind.
+It's easy to handle and operate.
+You don't have to be a tech wizard.
+There are five broad categories of general information, ranging from entertainment to ""The World.""
+One category, ""Variety,"" is a pot pourri in which any category of word or phrase might appear.For those who love the original Scrabble, be warned.
+This game has little to do with the Scrabble board game.
+I suppose it carries the Scrabble name because it's a well-known, trusted name in games.
+Catch Phrase offers plenty of enjoyment in its own right, but the Scrabble tag can be misleading for purists.The game requires three AAA alkaline batteries (not included) to operate.
+The game itself measures approximately 6 inches in diameter, so it is easy to hold and pass around.
+It is made of durable, hard plastic."
+I thought wrongly that this game combined Catch Phrase with Scrabble.
+I am not sure why the Scrabble name is on this, unless Scrabble is the name of the company that makes Scrabble and other games.
+It is exactly like the board game, streamlined into just the controller.
+When you play the board game, you have to put cards into it.
+I am not sure what the randomness of the electronic word finder is over the cards, but I would assume it is about the same.
+It plays the same.
+The game seems stable enough to be dropped a few times without being damaged.
+If you like Catch Phrase, then you will like this, because it is the same game and loads of fun to toss the thing to the other teams in a bit of hot potato while doing vocalized charades.
+Even though it has nothing to do with the actual Scrabble board game, this was easy to figure out how to play, and everyone in our family had fun, but our 7 yr old needed some help.
+Its size makes it easy to pack, and it comes in handy on long trips (we used it while traveling by train).
+I prefer taking this on a trip rather than a portable DVD player.

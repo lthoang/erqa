@@ -1,0 +1,138 @@
+Top question(s):
+We have little people disney princesses bought a couple of years ago.  Will these princesses work with this toy or do I need to buy more recent ones?
+Does the palace come with any furniture?
+Top sentence(s):
+"My house gets a lot of little visitors, nieces, nephews, grandsons and daughters.
+There are 3 sound rotations per princess, but only one song, which is the part my little one goes for first.- Storage.
+He can make it make music, but he doesn't say anything.All in all, the Fisher Price Little People Disney Princess Songs Palace is a one-trick pony.
+The sounds feature works just as advertised, and even after a month, listening to the princesses sing remains one of my daughter's favorite things about the castle.The castle comes with just two princesses, Snow White and Cinderella, but we were able to find a pack with all the others for under $20 at Target.
+My kids take them off and they end up all over the house.All in all, it's a fun little toy if your children like castles, princesses, and Disney.
+
+Question attention weights:
+0.08406053483486176,0.5184598565101624,0.13238029181957245,0.15008465945720673,0.11501465737819672
+Sentence attention weights:
+0.008501674048602581,0.008138501085340977,0.007845396175980568,0.008484548889100552,0.008838045410811901,0.010281643830239773,0.006589147727936506,0.00800528284162283,0.010244904085993767,0.00800528284162283,0.008359747938811779,0.008681223727762699,0.009589416906237602,0.008087397553026676,0.008089454844594002,0.007605534512549639,0.008282667957246304,0.007792849559336901,0.007223257329314947,0.006376553326845169,0.007626343052834272,0.0077275801450014114,0.007028745487332344,0.008189654909074306,0.00992579199373722,0.008136107586324215,0.011111423373222351,0.008720960468053818,0.01167332474142313,0.013389418832957745,0.019404135644435883,0.007815653458237648,0.008072149939835072,0.007544399704784155,0.008950679562985897,0.006672751624137163,0.010264333337545395,0.014618881046772003,0.011843987740576267,0.012744841165840626,0.00837983563542366,0.008532957173883915,0.007547895889729261,0.010319829918444157,0.004501335322856903,0.013582729734480381,0.006549227982759476,0.008201460354030132,0.009358767420053482,0.013795879669487476,0.008197415620088577,0.008558693341910839,0.007715072948485613,0.0060398029163479805,0.007450931239873171,0.007895691320300102,0.008866111747920513,0.009008300490677357,0.008970233611762524,0.008960758335888386,0.008281493559479713,0.008895699866116047,0.006554886233061552,0.00557237584143877,0.012727344408631325,0.008540193550288677,0.008644308894872665,0.008616968989372253,0.008472668938338757,0.009387564845383167,0.0076893712393939495,0.00827596802264452,0.007837326265871525,0.00686664879322052,0.01048322580754757,0.00812685489654541,0.00744525995105505,0.00771065428853035,0.004860998131334782,0.005771665833890438,0.005667812190949917,0.014137077145278454,0.00635808240622282,0.01053170207887888,0.007833713665604591,0.008369202725589275,0.009618313983082771,0.008509773761034012,0.010657509788870811,0.009867144748568535,0.009259741753339767,0.0077426619827747345,0.009104256518185139,0.010160021483898163,0.011504339054226875,0.007886950857937336,0.008442610502243042,0.008892758749425411,0.005947908386588097,0.006547438446432352,0.009311052039265633,0.018682800233364105,0.008984382264316082,0.007889118045568466,0.014132261276245117,0.006406075321137905,0.009084991179406643,0.004007416777312756,0.006861445493996143,0.014590504579246044,0.005216414574533701,0.01082167960703373,0.007294788025319576
+0.009154262952506542,0.008253408595919609,0.0077504622749984264,0.008962766267359257,0.009297423996031284,0.011098024435341358,0.007262952625751495,0.008517910726368427,0.010174300521612167,0.008517910726368427,0.008495070040225983,0.008116811513900757,0.011006100103259087,0.008771596476435661,0.00850277952849865,0.008374715223908424,0.009104730561375618,0.007814088836312294,0.007717342581599951,0.006059836130589247,0.008781356737017632,0.007760867942124605,0.007532576564699411,0.007718001026660204,0.009615814313292503,0.0080910325050354,0.011530822142958641,0.010931835509836674,0.01251160353422165,0.013411853462457657,0.01296637300401926,0.008333010599017143,0.009712383151054382,0.00829706247895956,0.008770611137151718,0.0067441426217556,0.007540646940469742,0.010236593894660473,0.009359275922179222,0.015332783572375774,0.009084920398890972,0.007962262257933617,0.0076044644229114056,0.008523601107299328,0.005983003880828619,0.012429894879460335,0.007722725626081228,0.008132141083478928,0.009674601256847382,0.013329538516700268,0.008685020729899406,0.00924560334533453,0.007347459439188242,0.006251940969377756,0.008151570335030556,0.009020603261888027,0.010071909986436367,0.009030468761920929,0.008513025008141994,0.009279691614210606,0.008943039923906326,0.008322382345795631,0.00548755144700408,0.006585597060620785,0.012363824062049389,0.008378200232982635,0.008255768567323685,0.010584153234958649,0.008547361008822918,0.009735469706356525,0.005942908115684986,0.008357450366020203,0.00736309913918376,0.007543196436017752,0.010204518213868141,0.00870305486023426,0.007490610238164663,0.007837730459868908,0.004607554525136948,0.0065826731733977795,0.0063069541938602924,0.013856844045221806,0.00630266172811389,0.010977380909025669,0.0073180366307497025,0.008675743825733662,0.010317821986973286,0.008231704123318195,0.009840304031968117,0.00988153088837862,0.008660038001835346,0.00823598075658083,0.009663308039307594,0.010046533308923244,0.011325930245220661,0.008367716334760189,0.007721003144979477,0.006429805886000395,0.006897051818668842,0.007199654821306467,0.009911410510540009,0.017915675416588783,0.009096345864236355,0.00838994886726141,0.01002439297735691,0.006274146493524313,0.009113171137869358,0.004996000789105892,0.006127834320068359,0.011732060462236404,0.004685583524405956,0.00965192262083292,0.009813755750656128
+0.008732970803976059,0.009622574783861637,0.00807100161910057,0.009721565060317516,0.010903443209826946,0.014350992627441883,0.004863885696977377,0.009250869043171406,0.011634289287030697,0.009250869043171406,0.006586822215467691,0.009275817312300205,0.00900306086987257,0.009274476207792759,0.009261482395231724,0.006484895013272762,0.009912816807627678,0.007568884640932083,0.00518476776778698,0.006893778685480356,0.008694607764482498,0.004686570726335049,0.007534511387348175,0.008897840976715088,0.010614769533276558,0.008921947330236435,0.009189610369503498,0.007245195563882589,0.007182445842772722,0.013821066357195377,0.014778767712414265,0.008974776603281498,0.007623758632689714,0.008569970726966858,0.010718348436057568,0.0034254041966050863,0.008625135757029057,0.013191030360758305,0.010893951170146465,0.011049616150557995,0.00833215843886137,0.009343186393380165,0.009759095497429371,0.006580934394150972,0.003009910462424159,0.011445308104157448,0.004194060806185007,0.007641858886927366,0.0080595463514328,0.014128903858363628,0.009695658460259438,0.010285863652825356,0.008235136978328228,0.0033081634901463985,0.004876060876995325,0.006218745838850737,0.009148228913545609,0.011193469166755676,0.01042421255260706,0.01028190553188324,0.009720023721456528,0.009167921729385853,0.0061858720146119595,0.005020084325224161,0.014613758772611618,0.007410315331071615,0.0073830438777804375,0.007777435705065727,0.009393267333507538,0.011185206472873688,0.006279919762164354,0.009719980880618095,0.005946541205048561,0.01129197608679533,0.010640706866979599,0.0074285040609538555,0.006235972978174686,0.006253220606595278,0.003909141756594181,0.0037083900533616543,0.0041218101978302,0.012295158579945564,0.006184265483170748,0.008643602952361107,0.004211668390780687,0.008615290746092796,0.009755156002938747,0.004662643186748028,0.010896366089582443,0.011469992808997631,0.011429515667259693,0.008860264904797077,0.010219618678092957,0.015006883069872856,0.01281503401696682,0.009065779857337475,0.009903761558234692,0.008036147803068161,0.005755156744271517,0.0053669773042202,0.010418840683996677,0.0322144515812397,0.008535590022802353,0.009221132844686508,0.014249015599489212,0.005960758309811354,0.012200451456010342,0.002319640712812543,0.005507045891135931,0.013856185600161552,0.0056876204907894135,0.01165336836129427,0.004938542377203703
+0.008780302479863167,0.008961936458945274,0.008099310100078583,0.009367967955768108,0.010000553913414478,0.012438437901437283,0.005700015462934971,0.008838722482323647,0.011279771104454994,0.008838722482323647,0.007618795149028301,0.009159845300018787,0.009421543218195438,0.009015452116727829,0.00889187678694725,0.007105642929673195,0.009274578653275967,0.007715878076851368,0.0061773317866027355,0.006522312294691801,0.008529785089194775,0.005682905670255423,0.007536807097494602,0.008696104399859905,0.01024223119020462,0.008576910011470318,0.010764322243630886,0.008326333947479725,0.009783255867660046,0.013267613016068935,0.01675979234278202,0.008628633804619312,0.007976855151355267,0.008386766538023949,0.00967421568930149,0.005034197587519884,0.009103704243898392,0.012834356166422367,0.010179235599935055,0.012303554452955723,0.008569658733904362,0.009074779227375984,0.00859422143548727,0.007991987280547619,0.0036881747655570507,0.011959095485508442,0.005373532418161631,0.008046168833971024,0.009006161242723465,0.014581617899239063,0.00913782324641943,0.009770199656486511,0.008048053830862045,0.004621125757694244,0.006486261263489723,0.006776766385883093,0.008966758847236633,0.010134564712643623,0.009757601656019688,0.00980745442211628,0.009320279583334923,0.009129077196121216,0.006139595992863178,0.005301380529999733,0.013762624934315681,0.00769475381821394,0.008166808634996414,0.008384278044104576,0.009174538776278496,0.010600500740110874,0.006673804949969053,0.009178661741316319,0.006987021770328283,0.008567354641854763,0.010661795735359192,0.008027690462768078,0.006756326649338007,0.0069897412322461605,0.004176384303718805,0.004592812620103359,0.00484158331528306,0.013109277002513409,0.006189750041812658,0.010211269371211529,0.005836115218698978,0.008344381116330624,0.00982705783098936,0.006454114802181721,0.010156584903597832,0.010804494842886925,0.010366336442530155,0.008503856137394905,0.009384263306856155,0.012155058793723583,0.011975090019404888,0.008679819293320179,0.009118745103478432,0.008111032657325268,0.005772651173174381,0.005978439003229141,0.010250808671116829,0.02434949204325676,0.009103885851800442,0.008757838979363441,0.013917454518377781,0.006068309303373098,0.010132040828466415,0.0031938243191689253,0.005963206756860018,0.013965906575322151,0.004836851730942726,0.011122114956378937,0.006344272289425135
+0.008544656448066235,0.008506069891154766,0.008042225614190102,0.008837309665977955,0.009247065521776676,0.010896282270550728,0.0062646567821502686,0.008348338305950165,0.0106210857629776,0.008348338305950165,0.008118197321891785,0.008988035842776299,0.009376167319715023,0.008468733169138432,0.008431640453636646,0.007376241963356733,0.008599349297583103,0.007902060635387897,0.006847568787634373,0.006621676962822676,0.007959512993693352,0.006831996142864227,0.007323183119297028,0.00851792935281992,0.009981472045183182,0.008389097638428211,0.010913163423538208,0.00842894148081541,0.01074020005762577,0.013012793846428394,0.018374701961874962,0.00816911831498146,0.007903213612735271,0.007916654460132122,0.009224898181855679,0.00612291693687439,0.010114245116710663,0.01393731590360403,0.011141747236251831,0.012071977369487286,0.008448244072496891,0.008863392286002636,0.008052760735154152,0.009433138184249401,0.0042101494036614895,0.012670900672674179,0.006076122634112835,0.008229351602494717,0.009265325032174587,0.013841614127159119,0.008570559322834015,0.009011397138237953,0.008000243455171585,0.005599929951131344,0.007139214314520359,0.007343856152147055,0.008790332823991776,0.009444788098335266,0.009365646168589592,0.009261117316782475,0.008694109506905079,0.009121430106461048,0.0066642542369663715,0.005470687057822943,0.012910622172057629,0.008181595243513584,0.00855137687176466,0.008339877240359783,0.008811530657112598,0.009831861592829227,0.007574253715574741,0.008705832995474339,0.0076627908274531364,0.00753089739009738,0.010485556907951832,0.00811710488051176,0.0072292000986635685,0.007509028539061546,0.0047627282328903675,0.0053735715337097645,0.0054216100834310055,0.013432776555418968,0.006435152143239975,0.010390596464276314,0.007130296900868416,0.008321438916027546,0.009582375176250935,0.007714107632637024,0.010384551249444485,0.010179932229220867,0.009765969589352608,0.008076488971710205,0.009099849499762058,0.010760491713881493,0.01154819130897522,0.008226444013416767,0.008870607241988182,0.008921220898628235,0.0059594158083200455,0.006388057488948107,0.00963230337947607,0.019976850599050522,0.00906080286949873,0.008255193009972572,0.014329607598483562,0.006412852555513382,0.009410222992300987,0.0037541359197348356,0.006683832034468651,0.014319789595901966,0.005215814802795649,0.010969376191496849,0.0067625087685883045
+Questions:
+what age girls like this
+We have little people disney princesses bought a couple of years ago.  Will these princesses work with this toy or do I need to buy more recent ones?
+The castle doesn't make any noise, am I missing something?  I put the batteries in but the noise doesn't work??
+Does the palace come with any furniture?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+Fisher Price is a well known name in my home.
+Only one of their items did not hold up to my expectations, and that was a book.
+Everything else I have from them is quality and very durable.This was not that complicated to build.
+Make sure you have a screwdriver and also batteries on hand since the toy does not come with any.
+It takes 3 triple AAA's.
+Having a toddler in the house, I make sure I always have batteries on hand because their (toddlers) toys seem to go through them fast.
+Make sure you recycle them if you get the disposal ones.I built this when my daughter went to bed since I knew she would want to play with it before I had it built.
+The instructions are very easy to understand.
+When I was done though, I noticed I still had a sticker and a piece was missing, it was the bed.
+I looked in the box and it was not in there.
+I think it was overlooked at the factory.
+Since my daughter did not know it was part of the toy, I figured I would deal with that later.
+I took the house out the next morning and my 23 month old lit up!
+She loves playing with this toy!
+I was surprised, because to me, it looked basic.
+Well built but not much there.
+This castle is the perfect size for a kid between 2-5 years old.
+To them it seems absolutely massive.
+The set comes with two figurines (Snow White and Cinderella), but you can purchase additional characters separately.
+When each figurine is placed on the dance floor, she will say her name, a few lines from her film, and then (best of all!)
+sing a little sing.
+My little cousin is already working on memorizing the lines from these two princesses, so I guess I'll have to look into purchasing the other figurines!Some minor assembly is required so have a Phillips Head handy, but it's nothing extreme.
+You'll have it together in no time.
+It took me maybe 5-6 minutes.In all, this is just an excellent toy.
+Solid construction, easy to assemble, and tons of fun.
+Highly recommended!
+"I got this castle for my 5 year-old daughter and 2 year-old niece, both serious princess fans, and it's been a huge hit!
+The castle itself is a decent size - not too big and not too small - and is made of sturdy Fisher-Price plastic that's sure to last.
+It has many different little rooms where the princesses can sit in their thrones, sleep in their beds, look in their ""magic mirror"", etc., as well as a large, spinning dance floor with a spot to place the princess figures to hear them talk and sing.
+The sounds feature works just as advertised, and even after a month, listening to the princesses sing remains one of my daughter's favorite things about the castle.The castle comes with just two princesses, Snow White and Cinderella, but we were able to find a pack with all the others for under $20 at Target.
+As much as the girls have enjoyed the castle, they've spent just as much time or more playing with the princess figures with our older Little People sets...  taking the school bus to go to princess school, galloping on unicorns to explore the forest, visiting the zoo and riding the train.
+Bottom line?
+We like the castle, but we LOVE the princesses.
+If you can only afford one or the other, the figures are your best bet for hours of fun, princess-filled play!"
+"My 2.5 year old daughter absolutely loves this toy.
+Her current obsession is with Ariel, who does not come included with the ""princess castle"" as she calls it.
+I was worried that Disney would rake consumers over the coals for the extra princesses, but as it turns out, the rest of the set was under $10.
+Score!What we like:- Lots of different sounds and ways to trigger excitement.- Colorful perches throughout the toy for the many princesses.- Affordable expansion.- True-to film vocals.- Just plain fun.
+She's had hours of self entertainment with it.What could be improved:- Assembly was flimsy ish and less intuitive than one would have expected.- More ""princesses"", Mulan, Alice and a few others were noticeably absent from the set.- More than one song per princess.
+There are 3 sound rotations per princess, but only one song, which is the part my little one goes for first.- Storage.
+The thing is big, and there really isn't a good way to stash all of the extra princesses.
+It would be nice if it collapsed on itself and the dolls all fit within."
+My daughters are already familiar with Little People toys, previously having received them as gifts.
+The Disney Princesses castle is a fun take on the Little People toys and my daughters immediately recognized the Snow White and Cinderella figures that were included.
+A couple more figures would've been nice, considering the price, but my kids haven't asked for additional princesses, yet.Assembling the castle was relatively easy, but there's a section that requires a long, thin screwdriver, so make sure you have one handy.
+I started with a short ratcheting screwdriver and it wouldn't work on that section.
+Also, the directions tell you to apply the stickers after the castle's been built, but they're easier to put on while disassembled.
+Also, I wish the flag towers were attached more securely.
+They basically just rest on top of the tower.
+My kids take them off and they end up all over the house.All in all, it's a fun little toy if your children like castles, princesses, and Disney.
+And I do mean little.
+I don't know why people put such small children next to these toys to make them look larger.
+Where could they get such perfectly formed little tiny children?
+The obvious answer is that the child and the castle were photographed separately and then the photos were blended.
+The other way to make the castle look so large is the distance the child is behind the castle: foreshortening - the tendency for the item placed more closely to the camera to appear disproportionately large.
+That is extremely misleading and disappointing.The product description does tell you the size of the castle and you can measure your child to find out what size the castle is to him or her, but often we look at these pictures and believe the information our eyes give us instead of estimating how tall 24 inches is.This was more complicated than most small children toys I have ever put together.
+At first I didn't understand why parts had to snap and be screwed together, especially since, ironically, the part that comes off most easily is NOT connected by screws.
+Putting it away in the toy box means it will all fall apart.
+The directions were badly written and poorly described.
+One good exploded picture would have made it very simple.Nevertheless, it is a cute little toy.
+Both the small boy and the girl liked the toy.
+They were surprised and happy when the song started.
+It had a much better sound quality than most toys of this ilk.Now I need to go look for Belle and the Beast!
+"I have to admit I had to have help to put this castle together.
+It took all of our strength to snap down the castle onto the base.
+We thought we had it but the doors didn't trip the door chimes until we really pushed.
+I went out and got a few more Princess it comes with 2.
+When put on the middle of the dance floor they say their name, sing a song and have a few phrases.
+It was pretty cute.
+Not really room for all of the Princess to live in the castle but when are they all together anyway?
+Biggest disappointment was the ""elevator"" It is impossible for me to move up and down much less a child.
+Since mine is almost 3 we just said it stays up and she is happy with that.
+She doesn't play with it as much as her doll house but then again she has never seen a Princess movie."
+Initially, I planned to make this a video review but my daughter just turned 3 and won't let me get a good video of her playing with it... if you're a toddler parent you know exactly what bringing out any form of camera does to them.
+lolSince I can't get a video please let me start this review by saying that this toy is going to drive parents crazy.
+Assembly*** is required but quite easy.
+The castle is pretty loud and the sounds are annoying!
+It comes with the two figures, Cinderella and Snow White, and each says different things when placed in the center of the dance floor.
+My daughter was bored of them pretty quickly so we picked up another set of her choosing,Fisher-Price Little People Disney 2 Pack: Belle and Beast, since they are all supposed to interact with the castle.
+Belle has speech with the castle but alas, Beast does not.
+My daughter was not happy about that and everytime we play with the castle I have to remind her that it's not broken he just doesn't have lines of his own.
+He can make it make music, but he doesn't say anything.All in all, the Fisher Price Little People Disney Princess Songs Palace is a one-trick pony.
+It just doesn't do much aside from make sounds and have the doors open and close.
+The balconey on the side is impossible for my little girl to slide up and down on her own so I frequently have to help her with it and the flag we do have falls off a lot.
+The bed and chairs barely fit anywhere in the castle so play space around the palace is needed.I do love that you can find various Disney character 'easter eggs' throughout the molded plastic and stickers that line it.
+Pascal from Tangled and Abu from Aladin for example.
+That it can be expanded with more figures is a plus and I've seen some retailers have exclusive sets worth looking into.
+I especially adore theFisher Price Little People Snow White & The Seven Dwarfsset but I'm certain it will have the same issue as Beast does as far as the voices are concerned.If you're looking at this as a possible holiday gift don't hesitate, buy it now.
+The advertising on these has been popping up on kid channels, as well as magazine gift guides and store flyers, and I forsee it being a hot ticket--and hard to find post Black Friday--item with girls in the 2-4 age group this holiday season.
+I got this for a 3 year old girl.
+She hasn't stopped playing with it.
+There is enough variety here that she has a lot to do.
+Most musical toys play one tune that quickly gets on your nerves, but this one has a different song for each princess.
+I don't know if that is the reason why the songs are so adorable and you don't mind when they get stuck in your head, but that's the effect.
+It's pretty easy to snap together and very durable.
+Even the older boys play with it.
+It's definitely been a big hit.
+This Disney Little People Princess Songs Palace is a wonderful princess castle for toddlers and young children.
+While it only plays music and interacts with Princesses any other Fisher-Price Little People will fit into the castle and all of its furnishings.Assembly took less than an hour and shouldn't have taken that long.
+Someone better skilled at toy assembly than myself should have no problem with it and it only requires a very basic screwdriver.
+Once together it's very sturdy and durable and is a well-loved and often-used toy.
+"My house gets a lot of little visitors, nieces, nephews, grandsons and daughters.
+Most range in ages from 2 through 6.
+I have lots of stuff for them to play with.
+The two girls, ages 6 and 4 , this year both went to Disney World.
+They both loved the trip, but only the 4 year old loves this Palace.
+The 6 year old said it is too babyish.
+She also gave up her beloved Dora this year in favor of ""One Direction"" boy band music.The little people are just right in size for the four year old's hands.
+She also was able to fit into the spaces in the rooms with ease.
+The songs gave her squeals of delight and she sang and danced along, but we enjoyed her happiness more than the repeated sounds of the toy.I put the stickers on the pieces and that was fun, but getting the whole thing out of the box was tricky with arthritic hands and I had to use a magnetized screw-driver so as not to drop the tiny screw on the battery compartment.
+At least the pieces were not locked down like Fort Knox with those horrible ties and washer and nut combinations that you find in so many toy packaging these days.All in all, the younger kids liked it as they played together with their race cars, pirate ships, Polly Pockets and construction sets.
+Yes, even the little 2 1/2 year old boy and the five year old boy took turns playing princess.
+It's just the older sister who has moved on to Justin B. and ""teenage"" toys."

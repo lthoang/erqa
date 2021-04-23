@@ -1,0 +1,132 @@
+Top question(s):
+will this work on a samsung tablet??
+I have 2 children - can I use one pack for 2 ipad minis?
+Top sentence(s):
+I was able to download the app onto our iPad... when you stamp the app with the stamp pad tool it unlocks the full version.
+It's a fun toy that has the potential to save a lot of practice paper.
+This is a coloring set that consists of an app you download from iTunes onto your iPad and some modified styluses.Hand this to my 5 year old artist and she is in heaven.
+You can either use the included colorbook backgrounds or you can choose a solid color background on which to draw your own image.
+I highly recommend just getting a doodle paint app and a stylus.
+
+Question attention weights:
+0.007356386631727219,0.334386944770813,0.2981882095336914,0.19290532171726227,0.1671631783246994
+Sentence attention weights:
+0.014449224807322025,0.01002050843089819,0.010698282159864902,0.013502239249646664,0.014589537866413593,0.007769154384732246,0.009905993938446045,0.009559695608913898,0.007733816746622324,0.007926955819129944,0.008794022724032402,0.009763943031430244,0.005995235871523619,0.006670066155493259,0.00705296453088522,0.009371808730065823,0.007483449764549732,0.0067435638047754765,0.007068854756653309,0.009053505025804043,0.008307253941893578,0.0076783099211752415,0.01027083769440651,0.005408053286373615,0.00770772946998477,0.007274223957210779,0.007618223782628775,0.007861563935875893,0.006809405982494354,0.007522235158830881,0.008260611444711685,0.007363209500908852,0.011546855792403221,0.012882220558822155,0.006423446349799633,0.009602474048733711,0.009817303158342838,0.010027801617980003,0.006165387574583292,0.007756887469440699,0.007099271286278963,0.007803573738783598,0.01006203144788742,0.007667368743568659,0.007995404303073883,0.010715424083173275,0.006991288624703884,0.014407276175916195,0.012425973080098629,0.012962288223206997,0.014544738456606865,0.009035698138177395,0.015986081212759018,0.009010108187794685,0.014748063869774342,0.014245997183024883,0.00722141470760107,0.007984813302755356,0.00928976759314537,0.007939565926790237,0.009250085800886154,0.007684980984777212,0.008242753334343433,0.008844473399221897,0.015184472315013409,0.006447531748563051,0.01315179094672203,0.0072762444615364075,0.011194044724106789,0.0059958756901323795,0.009508254937827587,0.012952947057783604,0.008517847396433353,0.007784129586070776,0.013152366504073143,0.011167743243277073,0.007800670340657234,0.012526317499577999,0.008440684527158737,0.007175684906542301,0.012113607488572598,0.007651480846107006,0.009747606702148914,0.025694632902741432,0.008958504535257816,0.008309024386107922,0.007750141900032759,0.008473939262330532,0.005848617758601904,0.0064654964953660965,0.0065184119157493114,0.007880010642111301,0.007097714580595493,0.007302276790142059,0.006332666613161564,0.009639997966587543,0.011200634762644768,0.007136193104088306,0.006273460574448109,0.007551656104624271,0.015875359997153282,0.008183250203728676,0.00632092310115695,0.007628542371094227,0.009537755511701107,0.007696179673075676,0.0159200020134449
+0.010709820315241814,0.006664553191512823,0.009955246932804585,0.012989356182515621,0.014404748566448689,0.009221384301781654,0.009117960929870605,0.011030287481844425,0.009282230399549007,0.009485877119004726,0.009101551957428455,0.008974003605544567,0.007293444126844406,0.008269921876490116,0.007859388366341591,0.010783476755023003,0.009117125533521175,0.007959478534758091,0.007398826535791159,0.00954136997461319,0.009738853201270103,0.009198274463415146,0.009904736652970314,0.00679224357008934,0.008992547169327736,0.0087576387450099,0.00916069746017456,0.009407410398125648,0.008674358017742634,0.009105225093662739,0.008197429589927197,0.00853025820106268,0.009715480729937553,0.008807836100459099,0.007583181373775005,0.007151523604989052,0.006561592221260071,0.0072402250953018665,0.005124869756400585,0.009346917271614075,0.0061860717833042145,0.008581305854022503,0.006625988986343145,0.009736948646605015,0.008683291263878345,0.008832228370010853,0.008125679567456245,0.014387253671884537,0.010296523571014404,0.012408088892698288,0.014005131088197231,0.010542521253228188,0.014156742952764034,0.009780547581613064,0.010910063982009888,0.01119381282478571,0.008322317153215408,0.009006972424685955,0.01070550736039877,0.00926123932003975,0.007143151015043259,0.008283200673758984,0.007210423704236746,0.009719066321849823,0.014539139345288277,0.005640343762934208,0.01132219284772873,0.007856542244553566,0.011300032958388329,0.00719953328371048,0.00906478799879551,0.012954371981322765,0.00975891388952732,0.008015469647943974,0.011220728978514671,0.010552414692938328,0.009359816089272499,0.00983623880892992,0.009278071112930775,0.008088868111371994,0.010977723635733128,0.009276865981519222,0.0076940786093473434,0.0199714545160532,0.008235092274844646,0.00964795146137476,0.008826706558465958,0.009863024577498436,0.007897565141320229,0.007779763080179691,0.0064887432381510735,0.00795196183025837,0.008623143658041954,0.006084284745156765,0.0075479233637452126,0.008912771940231323,0.012207318097352982,0.008980127982795238,0.006197919603437185,0.00860112626105547,0.013158587738871574,0.009039105847477913,0.006479657720774412,0.008641357533633709,0.010608782060444355,0.008891715668141842,0.014172397553920746
+0.010622368194162846,0.007001146674156189,0.009818630293011665,0.013062762096524239,0.013844117522239685,0.009242471307516098,0.009279373101890087,0.011303160339593887,0.009329830296337605,0.00947399903088808,0.009076638147234917,0.008959418162703514,0.007637528236955404,0.008356657810509205,0.007934109307825565,0.010727421380579472,0.009159630164504051,0.008177641779184341,0.007536204531788826,0.00943103525787592,0.00972607173025608,0.009209024719893932,0.010034323669970036,0.0070272525772452354,0.009018809534609318,0.008840823546051979,0.009149795398116112,0.00943125318735838,0.008765597827732563,0.009135542437434196,0.008150584064424038,0.008536957204341888,0.009655767120420933,0.00895727053284645,0.007716299034655094,0.007083446253091097,0.0070775034837424755,0.007382182404398918,0.005459006410092115,0.0093381991609931,0.00678707379847765,0.008573467843234539,0.007073172368109226,0.009681330993771553,0.008682020008563995,0.008893446996808052,0.008328285999596119,0.013741790316998959,0.0103365583345294,0.01196132693439722,0.012947987765073776,0.010389292612671852,0.014703494496643543,0.009676634334027767,0.009793291799724102,0.010421156883239746,0.008373221382498741,0.0091050760820508,0.010468769818544388,0.009282739832997322,0.007366987876594067,0.008468885906040668,0.007077242247760296,0.009432037360966206,0.013285649009048939,0.005848288536071777,0.011034613475203514,0.008126732893288136,0.011288751848042011,0.007567963097244501,0.008796749636530876,0.012847314588725567,0.009701816365122795,0.008206398226320744,0.010827322490513325,0.010191351175308228,0.009352777153253555,0.010300211608409882,0.00919217150658369,0.00814600009471178,0.010711409151554108,0.009293846786022186,0.008200031705200672,0.018878202885389328,0.008535945788025856,0.009671616367995739,0.008844679221510887,0.010069414041936398,0.008061607368290424,0.007926496677100658,0.006789166014641523,0.008163773454725742,0.008713724091649055,0.006349337287247181,0.007764140609651804,0.009012478403747082,0.01199615839868784,0.009034168906509876,0.006370939314365387,0.008791680447757244,0.012666495516896248,0.009401281364262104,0.00717249745503068,0.008649913594126701,0.010677861981093884,0.008906363509595394,0.013397458009421825
+0.01107692252844572,0.007096825633198023,0.009875349700450897,0.013421895913779736,0.014090160839259624,0.00907826516777277,0.009252496995031834,0.01126616820693016,0.009093714877963066,0.009293433278799057,0.00903010368347168,0.009053148329257965,0.007343734614551067,0.008082859218120575,0.007764456793665886,0.01064254343509674,0.00894053466618061,0.00791171658784151,0.007335732690989971,0.00940424669533968,0.009649883024394512,0.009012711234390736,0.01014724187552929,0.0067391833290457726,0.008815214037895203,0.008618341758847237,0.008942480199038982,0.009240368381142616,0.008495757356286049,0.008921680971980095,0.00797282624989748,0.008319787681102753,0.009612560272216797,0.009291955269873142,0.007468814961612225,0.0073094903491437435,0.007205384783446789,0.007577860727906227,0.005387460347265005,0.009140223264694214,0.006650191266089678,0.00842197798192501,0.007304391358047724,0.009510460309684277,0.008563092909753323,0.008989867754280567,0.008042871952056885,0.014169585891067982,0.01042473316192627,0.01245515514165163,0.013312220573425293,0.010281171649694443,0.015108664520084858,0.00959512498229742,0.010226774029433727,0.010865578427910805,0.008183050900697708,0.008965802378952503,0.010374888777732849,0.009130875580012798,0.007474163547158241,0.008359101600944996,0.0070355795323848724,0.009621353819966316,0.014102503657341003,0.005736632738262415,0.011388881132006645,0.007939860224723816,0.01138077862560749,0.007237893063575029,0.008827799931168556,0.01289125345647335,0.009604007005691528,0.008106257766485214,0.011208636686205864,0.010453595779836178,0.009160882793366909,0.010507447645068169,0.009110652841627598,0.007949120365083218,0.01102001965045929,0.009077003225684166,0.008245590142905712,0.02067294716835022,0.008507070131599903,0.009461755864322186,0.008677677251398563,0.009885411709547043,0.007834378629922867,0.007655496709048748,0.006651341915130615,0.008062070235610008,0.008481058292090893,0.006246305536478758,0.007547958288341761,0.00913929846137762,0.012043489143252373,0.008770689368247986,0.006291062105447054,0.00860095489770174,0.013554995879530907,0.009225624613463879,0.006914915982633829,0.008476619608700275,0.010696839541196823,0.00870797224342823,0.013955037109553814
+0.011393122375011444,0.007191316690295935,0.010172228328883648,0.013150074519217014,0.014505630359053612,0.008922897279262543,0.009260481223464012,0.01070009358227253,0.00889620278030634,0.009148119017481804,0.00909599382430315,0.00918542966246605,0.006913631688803434,0.007898818701505661,0.007692569866776466,0.01056936476379633,0.008738537319004536,0.007637388538569212,0.0072988527826964855,0.009508269838988781,0.00956975668668747,0.008849935606122017,0.009927964769303799,0.00644225487485528,0.008682041428983212,0.008395503275096416,0.008852276019752026,0.009052160196006298,0.008249065838754177,0.008741188794374466,0.008178857155144215,0.008337043225765228,0.009997300803661346,0.009431234560906887,0.007286891341209412,0.00770601024851203,0.007098477333784103,0.007757588289678097,0.0052914745174348354,0.008992157876491547,0.00614343024790287,0.008447975851595402,0.007135290186852217,0.009347014129161835,0.00861824955791235,0.009081752970814705,0.0077260262332856655,0.014722942374646664,0.010572942905128002,0.012965190224349499,0.014466852881014347,0.010266539640724659,0.014273376204073429,0.009740802459418774,0.011926822364330292,0.012141899205744267,0.008079404942691326,0.008734842762351036,0.010445777326822281,0.008961107581853867,0.0076130591332912445,0.00811942107975483,0.007423569448292255,0.009825603105127811,0.015445897355675697,0.005698926746845245,0.011866137385368347,0.007704700343310833,0.01129237562417984,0.006712633650749922,0.00914839468896389,0.012798686511814594,0.009522577747702599,0.007912744767963886,0.011770074255764484,0.010757217183709145,0.009014342911541462,0.010083358734846115,0.009116707369685173,0.007812243886291981,0.01144472323358059,0.008891322650015354,0.007946480065584183,0.021865326911211014,0.008227803744375706,0.009285817854106426,0.008595414459705353,0.009558063931763172,0.0074488017708063126,0.007349766790866852,0.00642140069976449,0.00789443776011467,0.008275368250906467,0.006196650210767984,0.007253340445458889,0.009046695195138454,0.01193848717957735,0.008531216531991959,0.006253824103623629,0.008288652636110783,0.014051796868443489,0.008715691976249218,0.006213134620338678,0.008461376652121544,0.010303736664354801,0.008607477881014347,0.014778063632547855
+Questions:
+Will this digi tools paint pack work on the kindle fire HD 8.9" ?  It run by android
+will this work on a samsung tablet??
+I have 2 children - can I use one pack for 2 ipad minis?
+Can a 5 year old use this?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+My 12 year-old loves to color, and she also loves my iPad, so the Crayola DigiTools Paint Pack was a hit with her!
+The tools included were full of surprises, and she didn't have any problems downloading the free app even though my iPad is the very first, original one.
+I think this type of product is ideal for creative kids during those times when a quiet, entertaining activity is needed, and so many times that is the case, isn't it?
+We love the nice, colorful and sturdy case, included, where he kids can keep all of the painting tools.
+This is a coloring set that consists of an app you download from iTunes onto your iPad and some modified styluses.Hand this to my 5 year old artist and she is in heaven.
+There are lots of pictures for her to color.
+Because she is 5 she had no problems just pushing buttons to see what they do - found the stencils no problem.
+In fact every time she would find a new function it was pure excitement.When I came back to her 20 minutes later she had stopped using the tools and was just using her finger.
+I asked her why and she said it worked and she was happy with the results.
+Perhaps when she if  she was older she would find the tools more essential.
+I think using the tools would help her more with her fine motor skills than just using her finger.I am very pleased with the amount of joy and fun this brought her.
+So much fun using today's technology!
+Kept my daughter on thing for hours.
+It's great that kdis can have craft/art time on this without wasting papers or using physical crayons/paint.
+A must have for parents with iPad.
+The app has so many different brushes, paints, colors, layouts.
+Just get it for your kids and you can enjoy some alone time.
+My step daughter roves to color.
+And she received an iPad last year for exceptional grades.
+She colors on her iPad all the time....I know the pictures get saved to my cloud.
+She complained that her fingers make a mess of the coloring pages.
+So I thought this would be great for her.
+I am so happy I was right.You can use the code in the box to download the crayolla app.
+The stamper can make new designs on your already designed coloring pages.
+The brush can make pictures look like watercolors.
+And then there's the airbrushing look!
+Oh my.
+Now I see just how creative she can be.
+And I have found myself playing with the coloring app while she is gone.
+First the good.
+My kids have been fighting over this kit for the last 3 days.
+They like to color and do crafts/projects and as well as playing around on our iPad any chance they get.
+This kit brings both together and they are really loving that.The kit includes a stamp, a roller stamper, a paint brush, spray paint accessories, and hard carrying case.
+The app needs to be downloaded from the app store and is compatible with Apple and Android operating systems.
+(My experience is only based on the Apple OS though.)
+Once installed you are taken through software with pre-loaded coloring sheets and colored blank pages.
+Paint options a solid, watercolor, and a sparkly nailpolish-like option.
+Numerous stamps and ink-roller designs are included as well.Pictures can be saved and even exported to your photo stream so they can be more easily viewed and shared.Now the bad.
+Depending on which kit you buy, many options could be locked behind a pay wall.
+And some are even with this kit.
+I'm not sure about you, but in-app purchases for a kit that I've already bought is just bad form in my humble opinion.
+Luckily this particular kit is fairly robust.
+This is achieved after using the stamper to unlock some stamps that would be behind a pay wall in other kits (Some colored paper is behind the paywall with this kit though).Additionally, the paint brush is just a plain bad design.
+They want it to feel like painting, but the bristles just get in the way.
+A simple touch-screen stylus would have been a much better decision as it would have been easier to use as well as being more precise.
+"The Crayola Digitools Paint Pack works very well with my iPad.
+The software is a free download on the Apple store.
+You can either use the included colorbook backgrounds or you can choose a solid color background on which to draw your own image.
+There are four different tools, including a paintbrush, a ""spray"" painter, a roller, and a stamping tool.
+With the colors (choose one or mix your own) and these great tools, I see many hours of fun drawing and coloring in the colorbook images both for me and my husband as well as our grandchildren."
+I think Crayola put out a brilliant item.
+The DigiTools paint pack can be enjoyed by people of all ages.
+This item can be used on the Ipad, Ipad Mini, or Android tablets.
+Now your kids can paint without the parents having to clean up the mess.
+This pack includes a free app to get your started, digital paint roller, digital airbrush, digital paintbrush, digital stamper, and an awesome case to keep the supplies in.
+The digital tools really make your pictures come to live because you can blend, swirl, give textures, and make watercolors which I've never seen another digital device be able to do this.
+With this product you or/and your family can create art masterpieces.
+I highly recommend this item to everyone.
+This works on Android or I-Pad.
+The app that goes with this is available on Google Play.
+I got the android version and it works great.You don't have to worry about putting in an activation code, once you get the app installed, you just use the digital stamper and it activates with that!
+I think that's so smart and so much easier than long crazy codes!The picture fills the whole screen.
+The paintbrush is really cute- teach kids to hold it on the metal parts near the bottom and not to press it too hard.
+The pattern stamper is really fun and there's lots of variety of patterns and colors to choose from.I think older kids and even adults will like this too.
+It's a fun toy that has the potential to save a lot of practice paper.
+If you have a kid that loves to paint this is a great mess free way.Here is the summary:Pros:* Tool variety keeps kids guessing and they enjoy that* They can easily use their fingers too or a stylus (good for younger kids in particular)* Colors and app is nice and bright* Easy to install and unlock all the toolsNeutral:* tools are not very precise but fine for younger kidsCons* More instructions would be nice, some things are not very clear on how to do them.
+* Get a nice protective case and a screen shield, I didn't feel too comfortable when my daughter was hitting the screen hard with the included tools.Overall I would recommend this product, as it's a fun and mess free way of kids to draw/paint and have fun.Easy to start paining.
+This is actually a VERY cool APP set.
+There are  SO MANY different graphics, painting pages, &#34;stamps,&#34;  and drawing/painting types.
+The APP is free of course and you have to verify that you own the set by using a stamper on the screen after you install.I had no idea that there would be so much to do with this APP.
+You can paint, water color, air brush, free hand draw.
+Tons of colors, glitter &#34;paints,&#34;  templates, backgrounds, stamps .. so much.
+The possibilities are pretty endless.My 17 year old daughter will actually sit with it forever and draw, &#34;paint,&#34;  design things.
+The tools included in the case are fun and do different things depending on what you are using I n the APP, but you can also just use your finger if you want and skip the tools.
+The paint brush for example tends to be particular where you have to go really slow for the APP to recognize it, so while it is fun o use the tools, sometimes it is quicker and easier to just use your fingers - and still just as fun.The case with tools is a basic plastic case, but nice to keep everything together.
+This is a great set for all ages and I am very impressed with the variety that is included in this APP.
+I never expected there to be so much to do.
+We very much liked this painting app from Crayola.
+We also had their Photo Mix and Mash which we didnt like because the app frequently crashed.
+For this Paint app it is much more stable and has only crashed twice now i believe.
+But my daughter really loves it and is having a blast with it.
+I think its a very kid friendly app and easy to use.
+The only fault is that it gets unresponsive and laggy occassionally which make you hold your breath and quickly save afterwards if it doesnt crash!
+I was able to download the app onto our iPad... when you stamp the app with the stamp pad tool it unlocks the full version.
+I wasn't able to find the app for the Nexus 7.
+In fact, we were able to bring it up, but then it said it was only available for the iPad.
+That was a downer because I have two sons that suddenly wanted to play the same thing, and we only have one iPad.Anyway, this set is fairly creative.
+Kids can use different tools to color in a virtual coloring book.
+Included is a toolbox that hooks onto the side of the iPad, but we have a protective case over ours so it didn't fit.
+With this set you get a stamper (my kids didn't use it), a paint brush (that got really beat up after a few uses), an airbrush, and a roller.
+The brush got squished because the kids pressed and rubbed the brush like a toddler would a regular brush.
+You actually don't have to push that hard to get the brush to work.Overall my kids (2 1/2 and 4 1/2) enjoyed it.
+They especially liked the roller and making rainbows.
+My 4 1/2 year old could work the airbrush (you have to make contact with two points and press the side button at the same time).
+I like the coloring pages and the setup for selecting colors and tools.
+You can actually just color on the pages with your finger, which is nice for my younger son.Would have given this a better review had we been able to do what the box said, and download it for our Android Nexus 7.
+This is a really fun app for the iPad.
+It's very intuitive to figure out how to use and just in case there isn't, it has easy to follow tutorials.
+The different kinds of paint look really authentic - for example, the oil paint has brush marks in it.
+My husband is a painter and he was impressed.
+I printed out one of the pictures we made and the colors were very vibrant and pretty.Using the tools is fun but a finger also works so if you don't have the tools handy and you want to create with the app, you still can.The brush bristles were matted up and not smooth like the picture on the box but that didn't affect how the brush worked.
+We got these and tried, and tried to download the android app.
+I'm good with my tablet and still cannot figure it out.
+The toys are in a hardcover carry case.
+They are kind of lame if you ask me.
+They make a special stylus for kids.
+I highly recommend just getting a doodle paint app and a stylus.

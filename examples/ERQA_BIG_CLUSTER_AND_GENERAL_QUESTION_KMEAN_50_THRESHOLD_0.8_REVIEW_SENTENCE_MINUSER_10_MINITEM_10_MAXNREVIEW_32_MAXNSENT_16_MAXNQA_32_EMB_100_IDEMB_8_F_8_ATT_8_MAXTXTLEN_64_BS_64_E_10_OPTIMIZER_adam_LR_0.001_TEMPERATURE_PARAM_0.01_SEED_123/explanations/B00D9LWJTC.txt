@@ -1,0 +1,221 @@
+Top question(s):
+Is it true that the jinn is rude when it wins? I have a very impressionable 4 year old and I don't want him learning how to be rude from a toy!
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+You think of an animal and Jinn will try to guess which one.It encourages clear speech or else Jinn won't understand you.
+This one only does animals but we've got others that do more subjects.
+The voice recognition is surprisingly very good.
+It does not have lasting appeal - there are only so many times you can ask Jinn to guess ""giraffe"" or ""millipede"" before you want to move on."
+But I didn't and he still couldn't get it.
+
+Question attention weights:
+0.9720761775970459,0.027923837304115295
+Sentence attention weights:
+0.003671335754916072,0.005906224716454744,0.0050844163633883,0.003311537206172943,0.0049688369035720825,0.006154942326247692,0.003076293272897601,0.005892532411962748,0.0035689061041921377,0.005072276573628187,0.0048392158932983875,0.005366010591387749,0.005042982287704945,0.005453111603856087,0.005189916584640741,0.005421693902462721,0.00523504801094532,0.0028755078092217445,0.004638671409338713,0.005189916584640741,0.005377879831939936,0.004786960780620575,0.004050503950566053,0.003836660413071513,0.0046670930460095406,0.0048122713342309,0.007270678412169218,0.003860411001369357,0.005205933470278978,0.004757460672408342,0.005682844668626785,0.005940437316894531,0.0035933537874370813,0.0027853071223944426,0.0030507254414260387,0.005019273143261671,0.0028782403096556664,0.005656951107084751,0.00516476621851325,0.005949205718934536,0.0032064004335552454,0.005112207494676113,0.004263744223862886,0.006332077085971832,0.004451068118214607,0.0024714195169508457,0.004022178240120411,0.0035570792388170958,0.0054515996016561985,0.0037243091501295567,0.007503997068852186,0.005194226745516062,0.0052254945039749146,0.005714926868677139,0.00517068849876523,0.004475173074752092,0.004954150412231684,0.005453974939882755,0.00780428946018219,0.0038517245557159185,0.005115180276334286,0.00433330237865448,0.006610190495848656,0.00521516939625144,0.0033814944326877594,0.005232959985733032,0.005345226731151342,0.005114851053804159,0.005335619673132896,0.004003377165645361,0.005337579641491175,0.006362533662468195,0.005524192005395889,0.005201826803386211,0.0074665904976427555,0.005035267677158117,0.004440260119736195,0.004662618041038513,0.005201826803386211,0.004684958606958389,0.0074564386159181595,0.005201826803386211,0.005201826803386211,0.004558129236102104,0.0055089653469622135,0.005476806312799454,0.005366817116737366,0.004614470526576042,0.0039755976758897305,0.0039036383386701345,0.005147143732756376,0.005285598803311586,0.004395599942654371,0.003520260564982891,0.0052272561006248,0.005349488463252783,0.0046430896036326885,0.0053070830181241035,0.004025119356811047,0.004824867006391287,0.004241938702762127,0.005689054261893034,0.006276124157011509,0.0060409740544855595,0.005310632288455963,0.006035271100699902,0.005638802889734507,0.0047804019413888454,0.005135158076882362,0.00517348712310195,0.00458890525624156,0.005283172242343426,0.003927335143089294,0.005455463193356991,0.005310632288455963,0.0052917893044650555,0.0050180270336568356,0.005209868773818016,0.005134680774062872,0.004429802298545837,0.004685416352003813,0.005474992096424103,0.004409982822835445,0.00449951970949769,0.004718468524515629,0.005893999245017767,0.003793558804318309,0.005219614133238792,0.005130228586494923,0.008080053143203259,0.004203095566481352,0.00595306558534503,0.0056158085353672504,0.003260285360738635,0.00508495420217514,0.005840873811393976,0.004001697991043329,0.00610462436452508,0.005172615870833397,0.004762139171361923,0.00463264063000679,0.0034524083603173494,0.00359367486089468,0.005105918273329735,0.004951820708811283,0.00621848413720727,0.006172908935695887,0.005085916258394718,0.003772978438064456,0.005022511817514896,0.005191002506762743,0.007073162589222193,0.004686497151851654,0.0033681197091937065,0.004877821076661348,0.004681055434048176,0.0032708952203392982,0.004639537073671818,0.005378556903451681,0.006136154290288687,0.007584447506815195,0.006911685690283775,0.003942231647670269,0.005904636811465025,0.004802478011697531,0.003930320963263512,0.0045762574300169945,0.003656429471448064,0.0037000500597059727,0.0067657954059541225,0.0043131522834300995,0.005555428098887205,0.0026612384244799614,0.00582147017121315,0.004287057556211948,0.0056030284613370895,0.005093202460557222,0.004409767221659422,0.004674870986491442,0.005189370829612017,0.004149682354182005,0.006556243635714054,0.005316848400980234,0.004219393245875835,0.0017690608510747552,0.005175457801669836,0.005157866980880499,0.005939676892012358,0.005300793331116438,0.005337749607861042,0.004696435760706663,0.0051232087425887585,0.005233502946794033,0.005434468388557434,0.00545966811478138,0.006400732789188623,0.005149396602064371,0.00522195640951395,0.0028861926402896643,0.0029466201085597277,0.004937734920531511,0.00417372165247798
+0.003587271785363555,0.005199973937124014,0.004266357980668545,0.004729314707219601,0.004425985272973776,0.006121715530753136,0.0037479239981621504,0.005307754501700401,0.003275471506640315,0.005707792937755585,0.004597000777721405,0.00560883991420269,0.004721180535852909,0.00538664823397994,0.00437128683552146,0.004544537980109453,0.005007941275835037,0.003825077787041664,0.0052681174129247665,0.00437128683552146,0.005060498137027025,0.0060257939621806145,0.0039094118401408195,0.004519944079220295,0.004136816598474979,0.004534798674285412,0.011396314948797226,0.004269006196409464,0.004470543935894966,0.0047147274017333984,0.0050256033428013325,0.0050682323053479195,0.0038506684359163046,0.0036740563809871674,0.0036129315849393606,0.004330696538090706,0.0031531669665127993,0.006171016953885555,0.004397193435579538,0.006533242296427488,0.0037956859450787306,0.005141501780599356,0.005539198871701956,0.0059249307960271835,0.003859379095956683,0.00315142422914505,0.005208199378103018,0.005449119955301285,0.007152886129915714,0.0029354228172451258,0.00917288102209568,0.005461301654577255,0.004430774133652449,0.005325533915311098,0.004591432400047779,0.004923042841255665,0.00451539596542716,0.004575353115797043,0.00611842842772603,0.004376559983938932,0.0043441313318908215,0.0035470000002533197,0.006324725225567818,0.004467532970011234,0.002952098147943616,0.006181054748594761,0.004483786411583424,0.004695784766227007,0.0046114856377244,0.003714499995112419,0.004453902132809162,0.00992493238300085,0.0048763202503323555,0.004432625137269497,0.006875735241919756,0.0061219255439937115,0.004337766673415899,0.006219709292054176,0.004432625137269497,0.0038481452502310276,0.0070455316454172134,0.004432625137269497,0.004432625137269497,0.004106299951672554,0.004788709804415703,0.004664941690862179,0.004386914893984795,0.004724081140011549,0.003735410748049617,0.004652547650039196,0.004351262003183365,0.0044930861331522465,0.003822880797088146,0.003956200554966927,0.00466544646769762,0.00445823697373271,0.004152660258114338,0.004882096778601408,0.0033017080277204514,0.0052534532733261585,0.0056323520839214325,0.0057958029210567474,0.006591564044356346,0.0072093540802598,0.004536557476967573,0.005709715187549591,0.004688089247792959,0.0042862966656684875,0.004550479352474213,0.004511605482548475,0.004374667536467314,0.0045440467074513435,0.0038154437206685543,0.005253095645457506,0.004536557476967573,0.005765420850366354,0.004177221097052097,0.004490071441978216,0.0043626148253679276,0.00480586988851428,0.004848770331591368,0.004811311140656471,0.004954426549375057,0.005089770071208477,0.004363597370684147,0.00629752641543746,0.004356898367404938,0.005978191737085581,0.00446348125115037,0.010556710883975029,0.00358055648393929,0.006462023127824068,0.0066925170831382275,0.0037459414452314377,0.00442745815962553,0.00565059669315815,0.005375705659389496,0.007935211062431335,0.00675751268863678,0.004479723982512951,0.003870089538395405,0.004717642441391945,0.003339555812999606,0.004265648778527975,0.004526300821453333,0.006227278616279364,0.005616265349090099,0.004324391018599272,0.0032317459117621183,0.004271063022315502,0.004565151408314705,0.010335959494113922,0.004062408581376076,0.0031522910576313734,0.0055071511305868626,0.005254572257399559,0.004122584126889706,0.0036632358096539974,0.004634558223187923,0.007782954256981611,0.008659986779093742,0.006774155888706446,0.004181711934506893,0.005615506786853075,0.004052225034683943,0.004143083933740854,0.006414531264454126,0.003978054504841566,0.004939200822263956,0.0063665928319096565,0.0037434471305459738,0.005248915869742632,0.003586286911740899,0.005095100961625576,0.004227807745337486,0.005258666351437569,0.0043142749927937984,0.0038665705360472202,0.004030568990856409,0.0044559454545378685,0.003741174703463912,0.006273704115301371,0.00448240339756012,0.005948974285274744,0.002233264036476612,0.005852375645190477,0.005173923913389444,0.008244472555816174,0.004342992324382067,0.004608467686921358,0.006211469881236553,0.004291305784136057,0.004661558195948601,0.004505699034780264,0.005034651141613722,0.006653426215052605,0.004276901017874479,0.004397596698254347,0.003792264498770237,0.0036462428979575634,0.004713952075690031,0.0042978073470294476
+Questions:
+Is it true that the jinn is rude when it wins? I have a very impressionable 4 year old and I don't want him learning how to be rude from a toy!
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+The blue plastic animal talks with a thick accent and is a bit cheeky.
+He's loud, and there is no volume control.
+Basically, it's 20 questions for kids and it's all about animals (he has 300 in his database).
+My son, who is 11, was entertained for a bit and kept trying to stump the Magic Jinn, and he did but only minor technicalities like not knowing a specific bird.
+My son even used google to get some tough questions.
+So I was glad he was learning about animals while playing (which are his favorite subject as he's borderline obsessed).
+He did find it more fun with a friend so they could both try to stump the Magin Jinn and be silly.I think it would be more appealing to younger kids (5-9), as my pre teen is far more into video games and youtube.It could be a good game for the car on road trips, however you may want to throw it out the window after a while (his voice got annoying to me) but I rate toys on kids and the kids like it.
+I don't expect it to be in the favorite toy mix for long, but it is a fun game when in the mood.
+Good for isolation play or with others.Overall, it does what it's supposed to do and requires 3 AAA batteries.
+The packaging is cool, bright orange with question marks, looks like a fortune teller. ]
+"Magic Jinn is a GENERALLY cute toy.
+It has a bit of a know-it-all attitude, being a little condescending when he wins and surprised when he loses.
+He gives backhanded complements like, ""You're smarter than I though.""
+He was able to guess animals like elephant and dolphin, but missed duckbilled platypus.
+His second guess was prairie fox.
+What kind of guess is that?
+I like the fact that you have the option of saying ""I don't know"" if it asks you a question you are not sure about.
+Magic Jinn will make two guesses before he gives up.Some sample questions:Is it bigger than a microwave, washing machine?Does it start with an E (or other letters)?Does it live in the forest, jungle, pains?Can it jump?
+Does it have claws, hoofs, teeth?It worked well for us in terms of understanding our answers and even though his voice is a little booming, he is overall cute.
+His attitude is kind of jerky, but some kids may like is smart attitude.
+It kind of adds to the funny when you win."
+"Okay so I didn't know what to expect with Magic Jinn but he surprised me.
+After inserting the 3 AAA batteries (yep 3 of them) he was ready to go.
+Just push his nose and he starts talking.
+He explains all the rules and starts asking questions, just like 20 Questions.
+You think of an animal and then answer Yes or No questions.
+Eventually Magic Jinn asks if ""XXX"" is the animal your thinking of.
+We did stump Magic Jinn but he also did get the animal eventually.
+I think some of the answers could go either way, like he asked ""Is he a Primate?""
+or ""Do he have black hair?""
+Well those questions could go either way for the animals we were thinking of.My 6 year old though had a blast and thought it was so silly.
+Even my 2 year old jumped in and started randomly saying ""Yes"" and ""No.""
+My kids had fun and they had to do some thinking on their end to answer Magic Jinn's questions.
+It is great to get kids thinking and working together!I received this toy to review in exchange for sharing my honest opinion."
+"The Magic Jinn is an inexpensive, ""neat"" game.
+However, I must concur that while the little guy seems awfully cute, the fun is fairly short-lived.
+After several rounds (we played for about thirty-five minutes), we set the Jinn aside.
+I am pretty certain it will soon be moved to a closet, lost in that twilight-zone of games and toys forever.One of the negative aspects of this product is the magical cat's ""attitude.""
+I could not help but think of theBop It!
+Tetris GameI recently received.
+It, too, was somewhat mean-spirited and provided almost exclusively negative feedback.
+I hope this is not a new trend in toys and games for younger children.
+We work so hard to discourage bullying and reinforce the positive effects of kindness.
+I suppose, it's a little disappointing to see our toys undermining that effort.This could be a great purchase for the upcoming holiday season.
+Buy it for your family gatherings/parties.
+The young ones will have great fun with it ... and, at this price, you will not regret the minor investment (even if it is never again touched)."
+"Our five and six year old played with the Magic Jinn for a bit, then lost interest.
+Although they went through several animals, listened to all of responses by the Magic Jinn, the ""magic"" of the Jinn seemed to fade away rapidly.As far as the pre-recorded responses go, the kids did not have any problem with the fact that the Jinn has a bit of an ego, although I have to admit I got a little irritated.
+The Jinn can understand even a somewhat garbled response so there is a decent level of interaction, even for very young children who might want to talk to Jinn.
+If the Jinn does not understand a question, he will let you know.All in all, this is a cute toy that held the interest of our children for only a few hours.
+It does not have lasting appeal - there are only so many times you can ask Jinn to guess ""giraffe"" or ""millipede"" before you want to move on."
+My son liked this game at first but overall he is a bit too young for most of the animals being presented.
+The toy itself he does like, but it annoys me.
+It is loud and creepy.
+However he seems to like it for a few minutes but he does not play with it long.
+The voice on it has no volume so beware it is loud.
+The questions are too hard for my son but maybe older kids around 8 would be better off with this toy.
+"We have had so much fun with this toy!
+This one only does animals but we've got others that do more subjects.
+You think of an animal and Jinn asks you questions.
+You respond with yes, no, not sure, etc.
+After several questions, Jinn will try and guess what animal you picked.
+We've only stumped him a couple of times!
+My family and I love these types of ""toys""."
+Think car trip or ice breaker when new friend comes over.
+This is a gimmick, so if your expectations don't exceed reality, then you'll be satisfied.
+All but young children can be understood for the most part.
+Some will find the cat cocky or sassy.
+Personal preference whether it's funny or grating.
+If your children will look to the cat as a role model, steer clear because it does retort, but it won't be any different than what that kid on the playground already says.
+I decided to try this out before presenting this to a child.
+The first animal I tried was 'kangaroo' and I stumped Jinn.
+I started to worry that I had answered some of his questions wrong, for example: Does it eat leaves?
+Can it swim?
+But I didn't and he still couldn't get it.
+What's worse, some of his guesses were way off.
+He asked if it barked and I replied 'no,' yet it still guessed 'dingo.'
+Then I tried 'hippopotamus' and stumped Jinn again.
+Again, some of his guesses were way off.
+I started over with 'hippopotamus' since it asks different questions each time.
+Jinn missed it again and ALL of his guesses were way off.
+Piranha?
+Really?
+I had even said 'yes' when he asked if it had 4 legs.
+(???
+)Overall, though, I can see this game being fun for children and a great way to keep them busy for a while.
+"This was a great idea for a toy.
+""Play 20 questions and have Jinn guess the animal!""
+Interactive and educational, it really gets kids thinking.
+He can even guess fantasy animals (dragon, werewolf) and dinosaurs.
+For the most part, it's a cute toy.
+My son and I both have a lot of fun trying to have him guess the animals we're thinking.
+But when you answer his yes/no questions, you must be extremely clear.
+A tone will play after a voice registers: a starry sound for yes or a negative sound for no.
+Sometimes the wrong one will register, which completely ruins the game.
+The only way to restart is to just say YES at his next guess, and that isn't much fun.
+In the last few playthoughs, both my son and I have had it misregister when our voices were clear.
+He also asks you to repeat an answer quite often.So the toy can be frustrating at times.
+Its voice recognition software needs a bit of work, otherwise it's great fun."
+The cute creepy look to Magic Jinn sold me, it would be great for my 8 year old who's into that sort of thing.
+The voice matches his look, and with the phrases he spouts, make sure you note that yes, it's an older kid toy for sure.But, it kept him and his 10y/o sister amused for awhile, so it wasn't a total loss in terms of toy purchasing.
+I'd probably wait for it to go on sale though, $10 is about what I'd consider spending on it now that we've played with.
+Plus, it's one of the few toys that doesn't come with batteries now a days.I wouldn't give this as a gift, but it's alright when it works.
+"The Magic Jinn is a fun interactive game where kids can challenge the Jinn to read their minds and guess what animal they're thinking of.
+This isn't as easy as you might think.
+This Jinn is really good at guessing animals.
+He'll ask you questions like ""Does your animal have feathers"" or ""Can your animal swim.""
+You have to answer with a yes, no or it depends.
+You go through the this for about 15 to twenty questions.
+The Jinn will sometimes make jokes in between or say things like ""I almost have it"".
+I have to say, I was really shocked by his accuracy.
+He gets at least four out of five animals right.
+He guessed a platypus, a chinchilla, and a praying mantis when based on the questions he was asking the kids, I thought he was way off base.
+We were all shocked when he guessed correctly.
+The only time we really stumped him was with humans and ferrets.
+The Jinn is definitely entertaining and teaches kids a lot about animals.
+It even has them researching new animals online to try and stump him.
+We also loved his cute British accent.
+This is a great game to try on family game night.
+The Magic Jinn is cute, certainly.
+Your child thinks of an animal and then the Jinn asks questions in order to determine what sort of animal it is.
+The child answer with yes, no, I don't know or it depends.
+The Jinn did a good job of recognizing the phrases, whether they were spoken by my child, by me, or by grandma.Some of the questions were fun for my child - Is it bigger than a washing machine?
+And the Jinn has a couple of amusing one liners that got some giggles.
+It doesn't always get the animal right (The Loch Ness Monster?
+), but it was right enough times that my daughter was impressed.Unfortunately, that's all it really does.
+We devised a game where we kept score of when my daughter stumped the Jinn and she had a bit more fun with that.
+I imagine we'll pull it out for her cousins or friends when they visit, but since that's all it really does, the shine wore off pretty quickly.Short term fun, but won't entertain for long.
+This is a game that is quiet similar to 20 questions, but obviously a little different.
+You think of an animal and Jinn will try to guess which one.It encourages clear speech or else Jinn won't understand you.
+That's perfect for my son who tends to mumble.
+If Jinn wins he will let you know he is smarter than you.
+Children at the recommended playing age 6  should know what is appropriate to say to one another and what's not.
+Any younger and they may need a gentle reminder.You can turn Jinn on or off by pushing his nose.
+He's cute and fits in your hand, and at sometimes is more of a novelty for my daughters room.
+It always comes out when anyone comes over especially the kids friends.Its a cute toy overall,  and don't forget you'll need 3 AAA batteries to make it work.
+"Sure as a 38yo, I was able to stump the Magic Jinn a couple times, but my 8yo and it match wits well.
+I (and she) could do without its smart comments like ""I knew I was smarter than you"", but they haven't phased my daughter and she revels in the times Jinn admits defeat.
+The game itself is pretty much like 20 Questions, the Jinn appears pretty durable (he survived a good drop off the table with no issues), and the kids like him, so I guess that's what counts."
+This toy does a good job of what it claims to do: it asks a series of questions, you answer with any of a few scripted answers (yes, no, it depends, i don't know), and it deduces what animal you're thinking of.
+Maybe i just lack imagination, but i haven't been able to come up with an animal it can't figure out (though Tyrannosaurus did take a while).
+It has some personality, with a few witty comments mixed in with the questions about the animals size, color, and so on.It has some trouble in noisy environments, which isn't a surprise.In all, though, after a few rounds of 20 questions, the toy just isn't that fun anymore.
+It's one of those things that will completely absorb a child's attention for 5-15 minutes, then they never touch it again.
+Maybe if it did more than just animals, it would be more fun, but maybe not.
+I think it's a lot better suited to have out at parties, where kids can take turns and make it a social thing, or maybe at a school where it could be used as anything from simple entertainment to an example of deductive reasoning.
+"Kids (8 and 5) love the game ""guess the word"", when the person comes up with the word (any word - animal, toy, any definition) and we are trying to guess what was the word other person had in mind.
+So when I saw that this toy could play the narrow variation of this game - ""guess the animal"" I was delighted.
+I thought kids would love it and they did.
+Now, it is true that sometimes it takes Ginny long to guess or he may not guess at all, but if you are persistent, it will eventually, just do not give up when it gives you incorrect answer.
+I love it too.
+:)"
+"My 10-year-old animal lover and I played with Magic Jinn extensively and we had a lot of fun with it.
+There were times when the MJ couldn't guess a simple animal (alligator, for example) but the guesses it makes range from simple (""bird"") to complicated (""guinea fowl"").
+If your animal is a penguin and the MJ guesses ""bird,"" you're given the option to play on by being asking if ""bird"" is specifically the animal you had in mind.We had fun trying to stump the MJ but the more we tried to stump him, the more accurate he was.
+Correct guesses included hedgehog, penguin, and dinosaur.
+Incorrect answers given by the MJ included turkey, beaver, and lion.The toy is very portable and not too loud, although we sometimes had to raise our volume for it to hear.
+So it could be fun for car rides but not necessarily in noisy places like restaurants or while having a large gathering with many people talking.The MJ was never thrown or confused by laughter.
+Occasionally it got stuck in a loop until it got the answer it wanted (ex: if the original answer was ""sometimes"" and it wanted a ""yes"" or ""no"").The MJ sounds a lot like Rik Mayall.
+Just something I wanted to put out there.This toy would be fun for anyone and would be a great gift."
+"The Magic Jinn is a toy that tries to guess the animal you're thinking of.
+The voice recognition is surprisingly very good.
+The Magic Jinn obviously has a very good databank of animals programmed, because he'll guess completely off the wall things.
+When I have thought of various animals I thought he could never get, such as a wombat, he's still able to get them.His sense of humor is sarcastic, spoken in a slow British accent.
+For example, he'll guess that you're thinking of a big bad wolf, or talk about how smart he is.
+This may be bothersome to some users, but it comes across as him being competitive and having a bit of a superior attitude.
+He also sometimes throws in kindnesses, such as calling you his friend.
+Overall, it's similar to how someone might rib you if playing Twenty Questions.However, there are some little boo-boos and other issues with the Magic Jinn.
+For example, he'll repeat questions you've already replied to.
+There are also possible errors in the programming; though I've only found one so far.
+It has to do with guinea pigs.
+You must answer that guinea pigs do NOT come from South America in order for him to guess them.
+If you say they do come from South America, his response is always to guess that you're thinking of a chinchilla.
+Guinea pigs are from Peru (South America), so this is an error in his programming.
+That's one thing I wish could be changed.
+There's no user programming in this, as there are often with similar games.
+"My 10-year-old son and 12-year-old daughter really enjoy playing with this.
+It's very similar to 20Q.
+You think of something in your head and Jinn will try and guess what it is by asking questions that you can answer yes, no, I don't know & it depends to.It does get a bit repetitive after a while since the only category is Animals.
+You hear the same questions over & over.
+It's not bad for kids though.
+It's a bit easier for the younger aged kids than some of the questions that 20Q may ask.Jinn itself is cute and my daughter likes to keep him sitting out on display in her room.
+He doesn't take up hardly any space.It's easy to get started but there aren't really any instructions.
+You don't really need them though.
+You take it out of the box, pop in 3 AAA batteries (not included), push his nose and think of an animal.Overall my kids enjoy playing this game and Jinn does have some funny phrases that he says as well.
+Some reviewers have complained that Jinn says ""I'm smarter than you"" when he wins but that honestly never even flagged anything in our minds when we heard it.
+It wasn't until I read other reviews that made me think that maybe they didn't program it with the best phrase but it doesn't bug me like it may others.
+As long as that won't bother you then I'd say go ahead and try it.
+My kids have lots of fun playing with Jinn and they'd recommend it."
+it surprised me how well this worked!
+My 8 year old loved it and has shown all her friends.
+Magic Jinn nearly always gets the animal right; the only times it did not was when my daughter's limited understanding of certain animals hindered its deduction capabilities.
+it is a small, simple toy.
+You put 3 batteries in and touch its nose, and... you are ready to play!
+First the instructions, what words to say, how to play the game.
+(basically, think of an animal and reply to his questions with 'yes, no, it depends, etc).
+Then Jinn sets to work figuring out the animal by asking a lot of questions.It is great fun and has entertained my children for a few hours, especially when they have friends over.
+The animal is cute and it is a great little toy for kids.
+My daughter got this while in the hospital and it was a lot of fun for her, to play with on her own or with others.
+"There is something mysterious about Magic Jinn, but it like those old amusement park games that are fun to play with the first few times and then one grows tired of them.
+We were all fascinated by this at first, but when Jinn said he was smarter, my youngest grandson said"" you wouldn't think they would make him so impolite"".There were also too many ""I did not understand you"" from Jinn which frustrated my grandson and made him feel like he was at fault and not speaking correctly.Jinn does seem to get confused in a noisy room or if someone else is talking within hearing distance - so he really is not a party entertainment.Ages 6 and up does seem appropriate.
+Do remember if you get this that batteries do not come with it and it takes a size many do not keep extras of.
+You need 3 AAA batteries."

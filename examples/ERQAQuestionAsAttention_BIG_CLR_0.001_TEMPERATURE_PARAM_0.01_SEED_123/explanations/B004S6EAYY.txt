@@ -1,0 +1,101 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+how do you open up the toy to replace the batteries?.
+Top sentence(s):
+What's not to love?
+He is actually pretty interested in Chuck.
+While Chuck has six games, they're fairly simplistic and once the novelty of the toy wore off, he went back to doing six-year old things.
+However when we're around she is amused by his antics.
+It requires 4 C batteries.
+
+Question attention weights:
+0.42892640829086304,0.571073591709137
+Sentence attention weights:
+0.012206589803099632,0.015049166977405548,0.014261364005506039,0.013444997370243073,0.01386958546936512,0.01688527502119541,0.010778077878057957,0.011303173378109932,0.005242747254669666,0.013402558863162994,0.014615403488278389,0.017048213630914688,0.013234011828899384,0.01061528455466032,0.008923136629164219,0.012440918944776058,0.01147861685603857,0.00890694186091423,0.015739448368549347,0.0091583002358675,0.012656072154641151,0.011659295298159122,0.0073265875689685345,0.009991119615733624,0.006130712106823921,0.015340263023972511,0.008758082054555416,0.01882524974644184,0.01665026880800724,0.013352073729038239,0.015044014900922775,0.01252549048513174,0.006186384707689285,0.01531090959906578,0.012019294314086437,0.008817194029688835,0.008253050968050957,0.006524046417325735,0.009869304485619068,0.0050260527059435844,0.006807120982557535,0.011449804529547691,0.012388555333018303,0.012718397192656994,0.012546870857477188,0.01492914929986,0.004553542472422123,0.02088521420955658,0.013614206574857235,0.00604071281850338,0.008683097548782825,0.01239138375967741,0.012151981703937054,0.015832018107175827,0.01750985160470009,0.014285086654126644,0.008237111382186413,0.015605989843606949,0.009078830480575562,0.016411803662776947,0.015473130159080029,0.014168976806104183,0.014962070621550083,0.01119078230112791,0.008820646442472935,0.01612241379916668,0.013970610685646534,0.00928394217044115,0.009773005731403828,0.01544875930994749,0.015932513400912285,0.007309406064450741,0.005994825158268213,0.01497266348451376,0.010582784190773964,0.006937543861567974,0.014424340799450874,0.018535388633608818,0.012007958255708218,0.01575033739209175,0.01879945397377014,0.014548419043421745
+0.01208094134926796,0.01525527611374855,0.014661015011370182,0.01367168314754963,0.014003677293658257,0.01681685447692871,0.010836608707904816,0.01129861455410719,0.005066356621682644,0.013146583922207355,0.014487124979496002,0.017249949276447296,0.013478809967637062,0.01081104762852192,0.008851313963532448,0.012189369648694992,0.011498763225972652,0.008404112420976162,0.016287080943584442,0.009146577678620815,0.012597888708114624,0.011641763150691986,0.007028466556221247,0.010053323581814766,0.006053021177649498,0.01577247679233551,0.008410829119384289,0.01914355717599392,0.017055565491318703,0.013141242787241936,0.015298054553568363,0.01230220589786768,0.005890449974685907,0.01554869208484888,0.012052599340677261,0.008322834968566895,0.007809261791408062,0.0062898569740355015,0.009884287603199482,0.004841621965169907,0.006622989196330309,0.011121012270450592,0.01184153463691473,0.012568412348628044,0.012157520279288292,0.015440204180777073,0.004272239748388529,0.02084430307149887,0.013612343929708004,0.006019164342433214,0.008519020862877369,0.01248127594590187,0.012263109907507896,0.01607780158519745,0.017609013244509697,0.014249050989747047,0.007585211656987667,0.01561410166323185,0.009015644900500774,0.016536135226488113,0.01568816415965557,0.014445426873862743,0.015094757080078125,0.010438306257128716,0.008638075552880764,0.016754774376749992,0.013720575720071793,0.008865883573889732,0.009700831025838852,0.015744369477033615,0.016212688758969307,0.007312082219868898,0.00590085331350565,0.015963390469551086,0.01027123536914587,0.006666426081210375,0.014519770629703999,0.019195662811398506,0.012053376995027065,0.015891792252659798,0.019240127876400948,0.014851565472781658
+Questions:
+how do you open up the toy to replace the batteries?.
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+While most toys for children usually make a lot of noise(parents you know what I mean that dreaded car or action figure that just won't shut up) I actually can tolerate an enjoy this with my kids.
+They can take it outside am play in the yard without me having to worry about the toy breaking because it's actually pretty durable, sure it has a few scratches an bumps but it's plastic not metal.
+An while their outside the volume of the the toy is just enough that it's entertaining while not driving me crazy.
+A fun new toy that almost any child(3/5 maybe 6) would love to play with.
+I remember my old Tonka trucks... metal!
+Aside from the durability issue, this is a really fun toy.
+I get a real charge watching my toddlers chase it around.
+They are obsessed with Chuck, which is fine.
+It's a cute cartoon and the movie is cute too.If you are parent bothered by noise, it is on the noisy side.
+But at least Chuck has a bunch of different phrases so you won't want to be shot listening to the same lines over and over and over again.I think it's a little on the high side price wise, but it's not a rip off either.
+It makes a great gift.
+I'm not sure how you can go wrong with this toy.. it makes a bunch of noise and its a truck.
+My two year old loves pushing it around.
+He's not keen on the different modes of it, but I'm sure he'll pick it up soon.
+This is one of those toys that is always out and never put away, so .... its popular around the house.
+My 2 yr. old grandson LOVED this little truck.
+He got such a kick out of the fact that it talks and goes by itself.
+He couldn't stop laughing when we first opened the box.
+I am going to get another once for Christmas presents for a couple of my little nephews.
+Race Along Chuck is a toy that has many sensors, sounds, and lights on it.
+The basic premise is that you can push down on the cab and play one of 6 (determined at random) games.
+This would include stop/go, go around in a circle, etc.
+In each one Chuck has a little saying or two, flashes some lights, opens/shuts his mouth, waggles his mufflers (ears?
+), and then usually rears up on his back wheels and tears ahead.Some things I've noticed.
+Chuck easily gets hung up, his obstacle avoidance isn't to a roomba level, so if you're in a crowded room he might get hung up quite a bit and your child will have to free him.
+He also has sensors in the bed (to tell when something is put in there), and when you move him backwards you'll hear back up sounds.
+It's the little things like this that show you how much effort went into this creation.My year and a half old daughter was scared of it at first, and if she accidentally turns Chuck on can still run out of the room screaming.
+However when we're around she is amused by his antics.
+I expect as she gets older she'll begin to love him more.
+The ages on this toy would probably be from at least 2 to make it useful, but because of how 'smart' he is, I'm guessing your child will get many years out of it.
+The truck looks nice and bright, and is a good size for a child to play with, although it is quite heavy.
+When you press the button, one of the very short games starts.
+Most of the games consist of the truck lifting his front wheels and then moving on on the two hind wheels, and it gets over toys laying around, and then gets stuck.
+Maybe it would work in a perfect house or with perfect kids who pick up all the toys immediately, but mine are not like this.
+I think the designers made it this way so it will work in small spaces, turning and going in circles all the time and not bumping on walls all the time, but it looks frustrating.
+Also, it scares my youngest child, since the truck unpredictably changes direction all the time, and he is afraid it will hit him.The battery compartment location is very well hidden, it is on the back of the truck - two little holes in the silver-colored part.
+You will need a skinny screwdriver and 4 C batteries.
+I figured given my son's (nearly 24mos) obsession with all things trucks and cars and especially Cars, he wouldn't be too young for Chuck for Christmas.When he opened this truck his eyes went big.
+He's seen it in the store several times and had shown consistent interest.When the truck started moving and talking on iots own, my son became a bit apprehensive.
+He did want to nap with it one day, but since Chuck is touch-activated I'm pretty sure the truck scared my son awake at one point.My little guy still likes having the truck around, but he's a tad too young to fully enjoy it.
+He's still into individual play and Chuck is quite interactive.
+I'll likely come and update about six-months to a year from now IF this ultimately becomes a much loved toy.I can see it being with a 2.5 year old or older.
+This all plastic dump truck is colorful and attractive, even before you pat the cab and see the lights and hear the voice.
+It comes equipped with the batteries.
+It is large and as sturdy as plastic can be, and looks like an admirable centerpiece for a gift occasion for a boy from 3 to 5.
+Children a bit older or younger might like it, too, but the target is more for the 3 to 5.
+Not only does it offer the electronic component,  aside from the bells and whistles, it is a great dump truck for hauling several kid-sized handfuls of stuff, either inside or in sand or dirt.
+What's not to love?
+My three year old niece laughed uncontrollably at Chuck's lights and voice and quick movements.
+It is definitely too heavy for her to lift, so she chased it around like a puppy.The games are brief, perfect for a young child's short-attention span, and the noise and lights arrive in mercifully short spurts, so before the action becomes too annoying, it stops by itself.
+Yes, a mere touch starts it up again, but it doesn't produce a continuous non-stop wall of noise.
+Adults can hold on to their sanity.Outside she rolled it around in the dirt and grabbed the exhaust pipes and yanked hard.
+No damage.
+The toy is cute and sturdy.
+It requires 4 C batteries.
+I got this toy for my 18 month old nephew and it's AWESOME!!
+It talks when you lightly push the top of the cab, Chuck (that's the truck's name) has eyes that blink, he lights up, his wheels move and his exhaust pipes on his head also move!
+He says many different phrases so you don't get annoyed listening to the same thing over and over!
+Another thing that I LOVED is that it came with batteries-it sounds stupid and simple, but it really is nice!!
+Overall, this toy is very fun, durable, and a HUGE hit!
+!
+"Our boy loves his ""Chuck Truck"", as he calls it.
+He plays with it almost everyday.
+And because we are in the middle of construction in our new home, it gets used quite a bit.He puts little blocks of wood, sheet rock or even some of daddy's tools in the bed of the truck and plays with Chuck.He is very amused by the sayings he makes, even daddy makes the same noises and versus.
+I think they are both amused by this toys.This is one of the best interactive toys we've seen that can keep the attention span of our little guy... and daddy's too!Chalk one up for Tonka.
+This is definitely a winner for our family."
+"I have three young children, a six year old boy, a 4  year old girl, and a nearly three year old boy, all part of my crack household item testing team.
+I received the ""Tonka Tonka Chuck Race Along Chuck"" (hereafter referred to as ""Chuck"") and put the team to work playing with him.
+Before I get to the results of their efforts, let me first describe Chuck.Chuck is a little over a foot long and tall, and is about eight inches wide.
+He's made of a fairly sturdy feeling plastic.
+On his underneath, he has a switch for ""on"", ""off"", and ""try me"".
+Chuck arrived with the switch set to ""try me"", so you'll need to turn it to ""on"" before you begin playing.
+He needs 3 ""C"" batteries, which were both included and installed.Once he's turned on, you activate him by pressing on his cab or on the floor of his yellow truck bed, or by pushing/pulling him.
+He has six simple games (for example ""Follow me"", where Chuck rolls about 10 feet or so) and, per the product description he has over 50 phrases (while I haven't actually counted them, this seems correct).
+His speaker is on the bottom, near the ""on-off-try me"" switch, and there is no volume control, but he's not too loud.
+When Chuck talks, the top of his mouth, the top of his cab, and two exhaust pipes move, making him appear lifelike to a child.
+Ok, now on to the testing.My six year old boy was initially excited, but lost interest fairly quickly.
+While Chuck has six games, they're fairly simplistic and once the novelty of the toy wore off, he went back to doing six-year old things.
+My little girl was also initially interested, but she's not really a toy truck kind of girl, not even when the truck talks and encourages you to play with it.
+That left my little boy.
+He is actually pretty interested in Chuck.
+Although he doesn't really understand the games, he loves pressing the cab, and chasing (or being chased by) Chuck.

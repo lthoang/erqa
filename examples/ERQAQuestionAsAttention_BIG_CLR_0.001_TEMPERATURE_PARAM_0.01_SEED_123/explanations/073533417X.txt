@@ -1,0 +1,249 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+It is a nice size; big but not too big to have to crawl over it to reach where the pieces have to go.
+There are children in the picture, cotton candy man, balloons, even ice cream.
+I'm very pleased with it!"
+This was a very nice puzzle, the colors are bright, and the kids enjoyed putting it together.
+There also didn't seem to be any false positives, which is nice because that seems to frustrate the kids sometimes.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.004180483520030975,0.0032257840503007174,0.0025325294118374586,0.0033273445442318916,0.004868451971560717,0.0014968959148973227,0.004242934286594391,0.004201636184006929,0.00233826762996614,0.005853296257555485,0.004164017271250486,0.004389957059174776,0.005078701768070459,0.002859170315787196,0.0031610731966793537,0.0059814974665641785,0.004747603088617325,0.004782174248248339,0.004908536095172167,0.0036183635238558054,0.0028379475697875023,0.004590559750795364,0.0028766088653355837,0.005079364869743586,0.00430618692189455,0.005773801822215319,0.003197483019903302,0.005036146380007267,0.0017283963970839977,0.005289362743496895,0.004629260394722223,0.00401217071339488,0.003118121298030019,0.0037521265912801027,0.004801583010703325,0.004979013931006193,0.004959910176694393,0.0047892797738313675,0.005292413290590048,0.005289362743496895,0.002008497016504407,0.005490914918482304,0.003969861660152674,0.005630045663565397,0.004030422307550907,0.004695743788033724,0.005466276314109564,0.00507608475163579,0.005217393394559622,0.0032620206475257874,0.006773703265935183,0.003307391656562686,0.004415875766426325,0.004981835838407278,0.005278731230646372,0.005181645974516869,0.0050457678735256195,0.005473003257066011,0.004862559027969837,0.005209582857787609,0.00419717188924551,0.004824970383197069,0.004620986059308052,0.0039091557264328,0.0044861892238259315,0.00225996901281178,0.004480170086026192,0.0033940025605261326,0.002180565847083926,0.005412838887423277,0.005399853922426701,0.0048760902136564255,0.005116155371069908,0.005738032050430775,0.0030960484873503447,0.005399853922426701,0.00389693072065711,0.005375993438065052,0.005375993438065052,0.0020057193469256163,0.005183243192732334,0.0027863006107509136,0.005476581398397684,0.005434755235910416,0.001996309030801058,0.005377354100346565,0.002543122274801135,0.00512260477989912,0.005215240176767111,0.007011303678154945,0.005465701222419739,0.0034965858794748783,0.004410080146044493,0.00432834355160594,0.0041718496941030025,0.003913824912160635,0.0024553658440709114,0.002526635304093361,0.0015743318945169449,0.0036769590806216,0.0030268938280642033,0.004838923923671246,0.001965197967365384,0.00569429574534297,0.00488236965611577,0.005468661431223154,0.0037539189215749502,0.004720171447843313,0.00289530330337584,0.0028060676995664835,0.005364753305912018,0.005559640936553478,0.005402681417763233,0.005007041618227959,0.005167090333998203,0.00458163395524025,0.00584448641166091,0.0047365836799144745,0.004613363649696112,0.005189592018723488,0.004606182221323252,0.003450136398896575,0.004294608719646931,0.005388077814131975,0.0036620921455323696,0.004932306241244078,0.0040645906701684,0.006407827604562044,0.004275089595466852,0.004980366677045822,0.002258422551676631,0.00424535246565938,0.004898346960544586,0.004431660752743483,0.005489229690283537,0.003022911958396435,0.005592735949903727,0.005557381082326174,0.005592735949903727,0.005119703710079193,0.005738190840929747,0.0058768317103385925,0.006119840778410435,0.002591771073639393,0.003145091701298952,0.005561075173318386,0.005009062588214874,0.0046315728686749935,0.005088469944894314,0.003876795992255211,0.004429187159985304,0.002668717410415411,0.0021520035807043314,0.005522655323147774,0.0026265946216881275,0.002381226746365428,0.005042508710175753,0.004398365505039692,0.0045247613452374935,0.0018843391444534063,0.003574108937755227,0.0035591796040534973,0.0024903842713683844,0.0046607255935668945,0.004725884646177292,0.002157623181119561,0.004358729347586632,0.005003529600799084,0.002814424457028508,0.0051267617382109165,0.0037026398349553347,0.003643577452749014,0.004654979333281517,0.0032309636007994413,0.0032285668421536684,0.0038164486177265644,0.005089960526674986,0.0050941635854542255,0.004655988421291113,0.0036083729937672615,0.005239654798060656,0.004734368063509464,0.0028943016659468412,0.004450231324881315,0.0040779453702270985,0.004898311570286751,0.002548615913838148,0.0030127959325909615,0.0028182005044072866,0.005026532337069511,0.004878025967627764,0.003176670055836439,0.004008546005934477,0.0016186407301574945,0.0060616726987063885,0.005291770678013563,0.004282545298337936,0.006003432907164097,0.006175831891596317,0.005894042551517487,0.0025320923887193203,0.006888514384627342,0.004865341354161501,0.0032385445665568113,0.00561181316152215,0.004491751082241535,0.0064900764264166355,0.00391899049282074,0.00544032221660018,0.0044541871175169945,0.004609439522027969,0.004866333212703466,0.00261529628187418,0.005519937723875046,0.002533126622438431,0.0033827817533165216,0.004679483361542225,0.005336087197065353,0.005650319159030914,0.003203230444341898,0.004219477064907551,0.004780029412358999,0.0028146086260676384,0.0016730782808735967,0.0029588418547064066,0.0017953645437955856,0.0020584017038345337,0.005603741854429245,0.004891476593911648,0.005013102199882269,0.0035385247319936752,0.005158640909940004,0.0019319650018587708
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+I appreciate the materials used to create this puzzle and our three year-old loves the picture that is formed when the puzzle is complete.
+Soy inks + recycled cardboard = Wonderful.I have only one criticism, and it's a minor one.
+Since the puzzle is intended for a younger audience, it might be nice if the pieces were a bit thicker.
+Our son has good fine motor skills, but the pieces can still bend and crease as he works to fit them together.
+With that said however, the creasing may be due more to his impatience when the pieces don't seem to fit right than with the build quality of the puzzle.
+We've picked up Melissa and Doug, Ravensburger, and now Mudpuppy floor puzzles for our daughter.
+I like all of them, and they each have good points and not so good points, but the wonderful thing about the Mudpuppy puzzle is it's in a box with a handle, so that she can carry it around.
+We love involved activities that travel well, and this is a good choice for a puzzle-crazy toddler.
+The picture is bright and has clearly-drawn animals that she enjoys, and the pieces fit well together, but not as well as the Ravensburger or even the Melissa and Doug.
+The carrying-case cancels that out, in my opinion, because it's a great grab-and-go item for a trip.
+My daughter is an official puzzle connoisseur.
+We have a shelf devoted just to puzzles.
+Floor puzzles are her current favorite, and she loved this one.
+The pieces are big and easy to maneuver, the colors are bright and cheery, and the zoo scene is very cute.
+She loves the elephant spraying water and always puts that section together first.
+For kid appeal, it gets an A plus.From a mom's perspective, I love the box.
+It's sturdy and has held up well to dumping the pieces out and putting them back.
+I like the carrying strap too - nice touch.
+The puzzle pieces themselves are made of a thick cardboard.
+While my daughter has outgrown this stage, it does say the pieces are made with nontoxic paints so it's okay if your child happens to gnaw on them while assembling the puzzle.
+My only complaint is with snapping the pieces together - they don't seem to hold together as well as our Melissa and Doug puzzles.
+For an adult it's really not a big deal, but it can sometimes be frustrating for my daughter when the pieces keep snapping back apart on their own.Overall, it's a cute puzzle.
+I'm not sure how long it will hold up given that the pieces don't have a firm lock, but it's still a nice addition to our puzzle collection.
+We are a puzzle-loving family!
+I believe there is nothing quite like puzzle-building to enhance your family time especially during weekends or holidays...
+This adorable, large piece, durable puzzle will get the young members of your family excited and ready to join in the fun!
+Little kids will not have a difficult time building this puzzle as the pieces fit so well, and the illustrations are vivid and make finishing the puzzle an easy job!
+I have added an image to the product page.
+The Mudpuppy At the Zoo Jumbo Floor puzzle was my 2.5 year old grandson's first jigsaw puzzle.
+He loved it and we have had great fun with it.
+Before we even opened the box, he enjoyed the picture of the puzzle and naming all the animals at the zoo.
+When we dumped out the pieces on the playroom floor, he got very excited.
+I tried to get him to do the border first but he is still a little young so I helped him to put it together.
+Then with the inside pieces left, we talked about what each piece looked like from the picture and found a place for it.
+After the first few tries of fitting pieces in correctly, he got the hang of it and did it on his own.
+We did it a couple of more times and he didn't seem to tire of it.
+He liked leaving it together when he went to take a nap.
+I think it is a wonderful, educational toy and fun one for first timers like he is.
+I think 2-3 is about the right age to start it and children a little older should be able to easily do it on their own.
+Sturdy, bright and well made!
+First puzzle I've seen that is a nice transition for the clunky baby wooden puzzles to the grown up toddler durable kids toys.
+What little one doesn't want to be just like the big kids.
+Well this puzzle is challenging yet simple enough for little ones to do, and also has the durability that allows to be a childhood favorite to do over and over again.
+Comes with a nice carrying box that helps keep our household from loosing the pieces.
+"This is a nice, jumbo puzzle!
+It has a glossy finish, so each piece can easily be wiped off.
+My little ones like the big pieces and it's perfect for ""table time"" fun.
+It's very durable.
+The picture is cute and bright.
+It even comes with a cute box that has a string attached for holding and toting around.
+I'm very pleased with it!"
+When I read the description, I visualized a HUGE puzzle with GIGANTIC puzzle pieces.
+These aren't.
+They are a little bigger than most, but not much.
+It comes in a cute little box with a rope handle to make it easy to carry around.
+I love the pictures and the colors.
+Getting a small child to sit still long enough to put it together is another thing entirely.
+Good luck with that!
+This floor puzzle is a nice size - not huge, but larger than normal kid puzzles.
+The pieces are thick and lock together well, even on carpet.
+It seemed to be medium difficulty in that the connectors and pieces are all shaped very similarly.
+Without too much forcing, you can get a piece to lock into the wrong spot.
+It will have a gap, but since the pieces are so similarly shaped, it makes this possible.
+That's the only downside I could find.The pieces are cardboard, but are very dense, almost like wood, but not quite that solid.
+They don't have too much curl from the cutting process, so it all lays nice and flat.
+My son put it together on berber carpet without having any issues with pieces not staying together.The storage box is ok- kind of thin cardboard.
+My daughter is still at the age where everything goes into her mouth, so let me start by saying that while the cardboard pieces are sturdy and well made, they are not drool proof.
+The puzzle consists of five rows and five columns, making for 25 easy to assemble pieces.
+The colors are vibrant and the picture is as cute in person as you would expect from the box.
+We (I) put the puzzle together on the carpet, and the pieces locked fine.
+I would expect that once Fiona gets old enough to do it herself, it will be much easier for her to assemble on a hard surface.My one criticism is very superficial.
+The box is about twice as big as it needs to be.
+You may be wondering why that matters....
+It is amazing how much stuff a tiny little baby accumulates.
+And as the tiny little baby grows, the aount of stuff grows as well.
+Exponentially.
+When the box, granted the very nice box, is twice as large as it needs to be, it means it takes up twice as much room as necessary as well.
+This is a great puzzle for young children.
+The pieces are thick and large and that makes it easy for little hands to handle.
+(the pieces are roughly 4.5 x 5.5 inches to 4.5 x7 inches) The pieces lock into place easily.
+The sturdiness of the pieces will help this puzzle last through many assemblies and disassemblies.
+The colors are crisp and bright and there is a nice variety of colors to help young children find the right pieces.While this may seem unimportant, I like that (unlike most puzzles) the box opens at the top and it also has a nice rope carry handle.And, finally, the picture is really cute.
+This puzzle is very attractive for kids, at least for those with whom I've used it.
+It features a number of different animals, all presented in a very cute manner.
+The colors are quite bright, and the puzzle makes little ones think without being so challenging as to push them away from using it.My only issue lies with the quality of the puzzle pieces, which don't lock together as securely as I would have expected given the price.
+I do like the sturdy box, and the drawstring makes it easy to carry around.
+As someone who has seen many puzzle boxes fall apart over the years leading to a mess of different puzzles stored in the wrong boxes, this is much appreciated.I would recommend this for any parent of a young child, there aren't many kids who wouldn't enjoy this one.
+My little girl (almost 3) is really into animals right now and had a lot of fun doing this puzzle with me.
+She's still too young to really grasp how to put the pieces together, but we named the animals as we put them together and she tried to put pieces together.
+It is a nice size; big but not too big to have to crawl over it to reach where the pieces have to go.
+Jumbo puzzles are the way to go for young ones.
+This one isn't too difficult for a little child to figure out and is big enough that there won't be any fear of them choking on any pieces.
+The puzzles are made very sturdy and will handle some abuse.My 3 year old niece enjoyed it and I'm sure yours will too.
+This is a really cute puzzle for both girls and boys it is a beginner puzzle and it has pretty large pieces so it's easy for children as young as 2.
+It comes in a nice box for easy storage.
+I received this puzzle and a jumbo 24 piece Ravensburger puzzle at the same time and found that this one suffered in comparison.
+Our family loves puzzles and this one is ok - but it also costs 50% more for lower quality.The Mudpuppy puzzle comes in a nice box, easy to close with tab and a string handle for easy carrying.
+The pieces are large enough for little hands to easily manipulate, however they do not lock together as securely as they could and they are not as thick or durable as the comparable Ravensburger.
+While those withstood my son's desire to drool on the pieces and a gentle wipe down with a damp cloth, these began quickly dissolving at the edges, becoming even harder to fit together.I also thought the style of the artwork was not particularly attractive.
+The picture did contain real animals instead of some of the fantasy scenes geared towards children.
+However,  I found the colors more subdued and the more stylistic artwork less appealing.Overall, it's not a bad puzzle,  but higher quality is available at a lower cost.
+The pieces to this puzzle are large and probably strong enough to be used a number of times, without being damaged by small hands.
+The glossy picture was unusual at first but children like bright shiny things.Each piece seems to have a fairly distinctive part of the picture - like the trunk of an elephant or a penguin or polar bear -- which makes it very easy for the younger group, the 2 or 3 year olds, to put it together without struggling.
+Any older and it is too easy.
+Younger and it becomes more difficult to maneuver the pieces together;  plus the drool will probably wreck the pieces.I'm on the fence about this puzzle.
+The children weren't really interested in it when I left the box on the table.
+And yet, they all crowded around when they saw theDragon Nursery 24 Piece Floor Puzzle, even though it was too young for them.
+They liked the big bold colors better.
+The At the Zoo Jumbo puzzle is very cute.
+The colors are lovely and the art is whimsical and fun.
+The puzzle is nice and large.
+It was fun for the kids to put together.
+I was slightly disappointed in the quality.
+We had recently put together a Ravensberg puzzle and this puzzle does not compare.
+The pieces did not feel thick or smooth like the Ravensberg puzzle.
+The sides of the pieces weren't as rounded.
+I liked the box and it makes it easy to put this puzzle away.
+Overall this is pretty puzzle that is lots of fun.
+I love teaching children how to do puzzles.
+It is such a great learning tool.
+The task of sorting by shape and color is a very important skill to learn and also maintain.
+This is a really fun puzzle-quality made and the colors are vibrant.
+Please do puzzles with your children, it is a lifelong hobby and a nice way to unplug from this overly technological world we live in.
+Kids really prefer the puzzles with the large pieces.
+These puzzles have nice large pieces with images that are nice flat 2 dimensional drawings that they can easily line up.
+The pieces fit nicely together.
+They are not too tight or too loose.
+There also didn't seem to be any false positives, which is nice because that seems to frustrate the kids sometimes.
+The pieces felt thick and sturdy.
+The glossy images also felt nicely adhered.
+The rope handle on the box is nice, but the best part about the box is that it's over-sized for the pieces, and it folds open at the top.
+This makes it easier for the kids to put the puzzle away, since there is plenty of room and the box doesn't have too parts.Pro: Fun easy to follow imagesPro: Quality piecesPro: Pieces fit together wellPro: Nice box
+Puzzles are new to us.
+We haven't done much as a family, so I decided to give this a shot.
+We've been working a lot on patterns and shapes, so I figured that a puzzle might be in order.
+I remember playing with puzzles when I was little, but forgot that it takes a bit of an attention span.
+My daughter is just not there yet.
+We have yet to put the whole thing together.
+24 pieces is just too much for her.
+We've gotten a little more than halfway and then something distracts her.
+I do like being able to teach how things fit together.
+I'm hoping that when she is just a little bit older, she will be able to sit still long enough to get the rest of the puzzle together (she's just barely 2).One thing that I really like is the box.
+It is sturdy and easy to open and close.
+I remember puzzle boxes being really flimsy, so this was an excellent surprise.
+It's also nice to know that if she sticks the puzzle piece in her mouth (which isn't happening nearly as much as it used to), it's not going to harm her.
+I'm glad they advertise the soy paint products.
+I guess that is why it is more expensive than most of the other puzzles I have seen.Overall, I think this is a good product, but probably closer to the top of the age group instead of 24 months.
+Puzzles are fun for the whole family in my house.
+My toddler loves them and while we are spreading out the pieces and working on the puzzle sometimes my infant loves to grab at a few colorful pieces and point out an animal or chomp a piece.
+I do try to deter him from chomping but I feel better knowing that this Mudpuppy puzzle is made from non toxic paints.
+The zoo theme is great fun for a toddler, many animals to look at and discuss while we are putting it together.
+The colors are pleasing as well compared to the uber-brightness of most children's toys.
+The quality is not as high as other puzzles I have bought (Ravensburger) but still decent quality and I'd like to think it is because of Mudpuppy's choice to use 90 percent recycled materials and soy-based inks.
+We are extra careful.
+I take my duties as an Amazon reviewer seriously, and I try to give my readers the best possible information they can get before they make a purchase.
+With that in mind, I try to judge products on their own merits, rating them highly if they are good and poorly if they are bad.
+However, if the product is not as a good as a common competitor, I just can't give it a full five stars.
+This is where I find myself in judging this Mudpuppy puzzle.My kids love puzzles.
+Our house is filled with all sorts of puzzles from 25 pieces to 2500 pieces.
+We just completedDragon Nursery 24 Piece Floor Puzzleand had a blast with it.
+In fact, it was sitting on the floor as we opened the Mudpuppy Puzzle.
+Perhaps this was unfair, but it is a fact of the puzzle market.To start with, the Mudpuppy puzzle is a quality toy.
+The pieces are thick and sturdy, with a glossy front and back that will make them resistant to drool and occasional food that may get on them.
+They fit together nicely and have bright, vibrant colors.
+The box has a nice carry handle made of rope, and the pieces fit in the box easily.
+We have a Melissa and Doug puzzle the kids like, but it is hard to get the pieces put back so that the box closes.
+That's not a problem here - the box is plenty big for the pieces to be put back by a kid.
+The picture is nice - my 2 year old liked it, but my 5 year old thought it a little plain.
+He preferred his Ravensburger and Melissa and Doug puzzle artwork far more.And there's the problem--Mudpuppy puzzle quality is similar to M&D;, but far below that of Ravensburger.
+The Ravensburger pieces are just such high quality, it is hard to compete.
+Our 3 year old loves animals and fell in love with this puzzle at first sight.
+After a little coaching from us, she is now able to work on putting it together all by herself.We enjoy doing puzzles at our house.
+They are a great educational tool and can be a nice quiet time activity.
+I often get this out to keep her occupied while I'm cooking dinner.
+It has been fun to talk about all the animal names and remember our own trips to the zoo.The packaging and pieces are both good quality.
+This puzzle contains 25 pieces and forms 22x22 square.
+The puzzle itself is very colorful.
+There are a lot of fun, interesting things to see in it.
+This would make a delightful gift for any young animal lover.
+My 3 year old boy enjoys this jumbo puzzle.
+The puzzle has 24 large, thick pieces which were easy to fit together.
+The puzzle and box are sturdy, and the box has a convenient rope handle.
+The box was free from cardboard dust and shavings.I thought this puzzle was comparable to the Ravensburger puzzles that we have, and it is certainly better than other brands that you can buy at local box stores.
+As you can tell from the box, the animals are more cartoonish than realistic, but pleasant enough.
+Both sides, even the back, of the pieces have a laminated finish so they should hold up well.
+Recommended.
+This is such a beautiful puzzle, filled with over a dozen different animals having a good time in their zoo.
+There's an added special touch: the box doubles as a tote, with a blue cloth rope anchored through small metal eyelets on each side.Regarding quality, the puzzle's soy-based inks are brilliantly colorful.
+The shiny surface of the puzzle will mirror surrounding light sources.
+The manufacturing process is noticeable, shown as slight bulges on several corners, but it doesn't detract from the fun.
+The pieces are rigid, but feel somewhat easily flexible.
+The tote-style box, as cool as it is, can be bent with little effort - mine actually has a couple of dents from the pieces jostling about from within during shipping, though I give the product the same rating I would give were the box perfectly shaped.If I had this as a toddler, I'd have loved this puzzle.
+I'm guessing a chunk of the cost is for the rope handle, but then again, that's one of this puzzle's two charming attributes; the other being the fun scene it depicts.
+Does it get any cuter than a penguin holding his nose as he drops, feet first, into the water?
+Only if there's an elephant giving a jubilant jaguar a bath on his back!
+This puzzle is so sturdy.
+The pieces are about the size of a 4 yr old child's hand.
+They are about 4 times thicker than typical kids puzzles.
+They box is even fun with a rope handle.
+When put together it measures 22 by 22 inches.
+The picture is just delightful of a day at the zoo.
+There are children in the picture, cotton candy man, balloons, even ice cream.
+Everything you can imagine to delight a child.
+It is for ages 2 and up I would say to age 5 or so.This is also a green item the grey board is 90% recycled material, packaging 70% recycled.
+All non toxic.
+The puzzle with withstand years of little hands playing even rough with this puzzle.
+This was a very nice puzzle, the colors are bright, and the kids enjoyed putting it together.
+It fit well with their animal themed room and they enjoy pointing to the animals and making animal sounds when they complete the puzzle.
+I highly recommend.
+"Tested by my 3 years & 2 months young grandson.
+I picked out 2 corners for him as starting points & he went on from there with very little help from me.
+His almost 2 years young sister wasn't interested in trying this puzzle.The pieces are huge!
+I measured two of them to give you a general idea of their size...one was 7"" x 4 1/2"".
+A corner piece measured 5 5/8"" x 4 1/2"".
+Each sturdy piece has a nice shine & is approximately 1/8"" thick.Another plus is the storage box which has a corded handle for carrying & even more importantly...the box is roomy!
+Meaning your child won't have to be extra careful getting the pieces back into the box.
+Oh my gosh, I remember the days when I'd put my kids' puzzles away & have to keep redoing it so the lid would close.
+Not so with this storage box, my grandson put the pieces away in no time flat & he didn't have to fiddle around getting them in just so.Nice quality puzzle...5 stars"
+We really like this puzzle.
+The pieces are big and bright and well constructed.
+It is a sturdy puzzle with extra thick cardboard.
+I feel like this puzzle is going to last us a long time.
+I will be buying more puzzles from this manufacturer.
+"This ""At the Zoo"" puzzle has a busy zoo scene with quite an an assortment of animals including some babies, a few visitors, and a cotton candy and ice cream vendor.
+The finished puzzle is 22"" x 22"" and it has 25 pieces that go together easily.
+The pieces are sturdy cardboard with glossy stock on both sides so they can be wiped with a damp cloth.This puzzle is most appropriate for older toddlers and up who won't chew on the cardboard although they may need a little help from an older sibling or parent.
+It provides a good learning experience before visiting a real zoo and offers the opportunity to teach not only animal names but the sounds they make, colors, counting, and the alphabet.The storage box is almost as much fun to play with as the puzzle itself.
+It has a rope handle and and easy-open tab.
+Put the puzzle pieces in the box, dump them out, put the puzzle pieces in the box, carry them around, dump them out--the little ones are easily amused!"
+What cute graphics on this puzzle!
+My animal loving girls (3 1/2yrs & 6yrs old) were immediately drawn to this one.Super simple for my 6yr old to quickly complete but PERFECT for my 3 1/2yr old to tackle on her own!
+It was just challenging enough for her to feel a sense of pride in completion.
+This is a great confidence builder for little ones new to jigsaw style puzzles.This was the perfect sized floor puzzle too and I appreciate the sturdy and appropriately sized box for storage.This one is a winner at our house and one chosen off the shelf more frequently than ourMelissa & Doug Pets Floor Puzzle - 24 PieceI'll definitely keep the Mudpuppy puzzles in mind for gifts..perfect for 3 & 4yr olds!

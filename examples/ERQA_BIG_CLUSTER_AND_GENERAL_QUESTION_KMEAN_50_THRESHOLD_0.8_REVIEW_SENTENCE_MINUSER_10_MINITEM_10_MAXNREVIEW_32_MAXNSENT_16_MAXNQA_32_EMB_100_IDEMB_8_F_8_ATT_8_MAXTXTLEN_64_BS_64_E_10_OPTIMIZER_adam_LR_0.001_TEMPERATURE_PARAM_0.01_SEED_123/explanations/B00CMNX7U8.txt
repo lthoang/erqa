@@ -1,0 +1,112 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Is it made in USA or China?
+Top sentence(s):
+There's so much she loves about her new toy!With VTech comes FUN learning and interaction.
+It has auto shut off when not being played with.
+VTech 2 in 1 Shop and Cook Playset is a fun an exciting toy.
+My son got his thumb stuck where one the sides meets the middle part of the cart.
+My 2-year-old granddaughter likes this, but she doesn't understand the finer points of how to use the cooking part of it.
+
+Question attention weights:
+0.18396244943141937,0.37215980887413025,0.4438776671886444
+Sentence attention weights:
+0.009834816679358482,0.011618319898843765,0.00956796295940876,0.009167755953967571,0.00567495496943593,0.010677272453904152,0.008826353587210178,0.009794504381716251,0.012705858796834946,0.013048809953033924,0.011332566849887371,0.014525668695569038,0.011821441352367401,0.012659313157200813,0.00858443696051836,0.014932751655578613,0.01507236436009407,0.011716127395629883,0.01116617675870657,0.01035311259329319,0.006697062402963638,0.011443977244198322,0.009792860597372055,0.017758337780833244,0.012094920501112938,0.009231730364263058,0.011500674299895763,0.010641194880008698,0.012617438100278378,0.00920166913419962,0.009957397356629372,0.011325131170451641,0.012029132805764675,0.009402124211192131,0.010845033451914787,0.0095566650852561,0.010714047588407993,0.011766541749238968,0.01037381961941719,0.010581450536847115,0.010561688803136349,0.009431037120521069,0.007535975426435471,0.01385666523128748,0.008442710153758526,0.012354901991784573,0.016725700348615646,0.010188688524067402,0.011049267835915089,0.013069971464574337,0.009712251834571362,0.007824152708053589,0.01001687254756689,0.007901078090071678,0.010464979335665703,0.011609337292611599,0.010456371121108532,0.013083704747259617,0.013155224733054638,0.008502108044922352,0.007726655807346106,0.01497358176857233,0.02144969440996647,0.010250157676637173,0.008516238071024418,0.017950134351849556,0.008334814570844173,0.012050481513142586,0.009958874434232712,0.012313651852309704,0.009966489858925343,0.011439056135714054,0.009958874434232712,0.011731463484466076,0.015588398091495037,0.012078288942575455,0.009459258988499641,0.010080383159220219,0.009297872893512249,0.011165800504386425,0.013212935999035835,0.008888544514775276,0.013940643519163132,0.01034252904355526,0.01004551537334919,0.008550080470740795,0.009236987680196762,0.007362641394138336,0.010726305656135082,0.006855683866888285,0.009993535466492176
+0.010354874655604362,0.011929437518119812,0.009964282624423504,0.009704001247882843,0.005942922085523605,0.011109224520623684,0.00902366079390049,0.010219241492450237,0.012462573125958443,0.01282644085586071,0.011488438583910465,0.01479788776487112,0.012185248546302319,0.011771186254918575,0.008823500946164131,0.013607358559966087,0.013984913006424904,0.011805101297795773,0.011105506680905819,0.010877713561058044,0.00643126480281353,0.01143825612962246,0.010125699453055859,0.016747234389185905,0.012325931340456009,0.009552632458508015,0.011445624753832817,0.010189635679125786,0.012371146120131016,0.008784494362771511,0.010376263409852982,0.01058571133762598,0.012472734786570072,0.01006318349391222,0.009992561303079128,0.010088901966810226,0.010776897892355919,0.012336094863712788,0.009521431289613247,0.009694123640656471,0.0105819683521986,0.009038091637194157,0.007560304366052151,0.013093508780002594,0.008660598658025265,0.011416628956794739,0.01672539860010147,0.01049829088151455,0.011298283003270626,0.013685017824172974,0.010253348387777805,0.00793700572103262,0.010513627901673317,0.008148374035954475,0.010884602554142475,0.011999967508018017,0.010653197765350342,0.012264243327081203,0.013156278058886528,0.008871711790561676,0.008071540854871273,0.013136083260178566,0.01986563578248024,0.010660425759851933,0.008071891032159328,0.01755737140774727,0.008593895472586155,0.012606479227542877,0.010351980105042458,0.012498971074819565,0.010397372767329216,0.011562920175492764,0.010351980105042458,0.011700456030666828,0.014938129112124443,0.012077723629772663,0.009505965746939182,0.010488832369446754,0.009403662756085396,0.011378096416592598,0.01343963760882616,0.009052399545907974,0.013417749665677547,0.010598582215607166,0.010462216101586819,0.00862523540854454,0.009700682945549488,0.007036335300654173,0.011127014644443989,0.006571006029844284,0.010205992497503757
+0.010479943826794624,0.012229264713823795,0.009940536692738533,0.009529614821076393,0.005946017801761627,0.011288990266621113,0.00902140699326992,0.01032760925590992,0.012912175618112087,0.013245842419564724,0.011423212476074696,0.014527571387588978,0.012354530394077301,0.011933264322578907,0.008382870815694332,0.013958413153886795,0.014289931394159794,0.011972290463745594,0.011484052985906601,0.010993856005370617,0.006014704704284668,0.011887647211551666,0.010245920158922672,0.016672693192958832,0.012615346349775791,0.009700360707938671,0.011221848428249359,0.009916351176798344,0.012393676675856113,0.008135265670716763,0.010487103834748268,0.010644441470503807,0.012546454556286335,0.009717373177409172,0.009672022424638271,0.009819679893553257,0.010829315520823002,0.012427456676959991,0.009357397444546223,0.009560925886034966,0.01049205381423235,0.00914285983890295,0.0076674786396324635,0.012472398579120636,0.00878219772130251,0.010987172834575176,0.01636110618710518,0.010620979592204094,0.011078063398599625,0.01287621445953846,0.010264499112963676,0.007921794429421425,0.01062787976115942,0.008249867707490921,0.010909659788012505,0.012148112058639526,0.01101259607821703,0.012383894063532352,0.013517862185835838,0.00903900433331728,0.008139056153595448,0.013021045364439487,0.01980314962565899,0.010881905443966389,0.007468517869710922,0.018575802445411682,0.007593462243676186,0.012790115550160408,0.010456835851073265,0.012347853742539883,0.009933771565556526,0.011699034832417965,0.010456835851073265,0.011236730962991714,0.014666739851236343,0.012046709656715393,0.009705527685582638,0.010616708546876907,0.00924914050847292,0.011459523811936378,0.013504603877663612,0.00913290586322546,0.014008760452270508,0.010762137360870838,0.01069363672286272,0.00880272127687931,0.009617575444281101,0.006242950912564993,0.011280437000095844,0.006807559635490179,0.010335180908441544
+Questions:
+What size batteries are needed?
+Is it made in USA or China?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+Lots to like about this toy.
+My 28-month old daughter has been enjoying it.
+First, its mobility is a big plus.
+Any parent of a toddler knows how much they like pushing objects around.
+My daughter can be entertained for long periods of time, simply by treating the toy as a cart and rolling it around and around our house.
+The fact that she can change gears with the toy, stop moving and turn it into a kitchen play set, is another big plus.
+And all the interactive features on it are just gravy.
+Good gravy.
+I really don't have any complaints with the toy.
+My daughter loves it and I'm happy with it.
+I heartily recommend it to parents of toddlers.
+This 2 in 1 playset combines two great toddler toys - the shopping cart and the kitchen.
+It comes in pieces, but assembly was easy because the pieces just pop together, no tools required.
+(You will need a screwdriver or coin to open the battery compartment).
+Batteries are not included but I was pleasantly surprised that it only needed 2 AA.When in shopping cart mode, it provides a good sized basket for children to fill.
+It is a sturdy - although not sturdy enough for a toddler learning to walk who would put a lot of weight on the handle which is probably why the toy is recommended for ages 2-5.
+My only complaint about the shopping cart mode is that the sides do not lock together and so they can easily be pulled down.When in the kitchen mode, it provides a lot of different activities and areas for the child to explore - a sink, an oven, a stovetop, a place to eat.There are three different modes you can put this toy on.
+Pretend & Play, Learning Fun and Music Time.
+Like a lot of toys, my kids like the talking and music more than I do, but I was happy that the toy shut itself off after about a minute of kids not playing with it.Overall, I think this toy is great for imaginative play.
+I like how it is versatile and it seems like an ideal toy for those with limited space available.
+The 2-in-1 shop and cook playset has the quality of the VTech products is well made and very sturdy the colors are vivid and pretty it can be for boy or girl, is a very fun toy, your kid will have lots of fun playing with the cart or the kitchen, and is an educational toy, it can be noise but you can fix that turning the toy off.
+The 20 individual play pieces such as food, utensils, the pot and the pan will make more fun the playing time.
+I recommend this toy.
+VTech 2 in 1 Shop and Cook Playset is a fun an exciting toy.
+My children both boy and girl ages 5 and 2 1/2 years old enjoy playing and learning along with it nearly every day!
+The fact this toy is a 2-in-1 with ease of switching between the two is really what impressed me quite a bit.
+As any parent know toys can take up a lot of space!
+So something like this that saves space & can switch easily between a kitchen and grocery cart is a real winner.Out of the box this play set looked like it would take a lot of work putting it together.
+But to my surprise it literally took me 3-5 minutes tops to put it together!
+There are no tools required expect for a coin to open the battery section.
+It's pretty much a push this piece into that and you are good to go.
+There is a requirement of two double A batteries to get all the bells and whistles working so I recommend having those on hand before introducing the toy to a child.
+Though I will admit, my kids were super excited even before knowing that it could make noises.
+The kid appeal is totally there even without everything else fun the toy can do once battery powered.
+And do note there is a welcome volume control switch, a much needed addition to any toy.This playset includes  20 play pieces (food, utensils, & cookware), there are three play modes ( pretend play, learning fun, & music time which includes 13 songs & melodies), in the kitchen there's a sink, oven, cutting board, stove top, and more!
+The play pieces are of a hard plastic not that squishy kind that wears out really quickly.
+The durability of pieces and cart itself are much appreciated.The play modes allow children to learn about colors, numbers, types of foods, and much more.
+I especially liked the Learning Fun Mode in which children put the recipe card included into the specified area and then children listen to follow the instructions given.
+For example they'll be instructed to wash their hands with soap in the little sink, turn off and on the stove, and more.
+My son really likes this shop and cook play set and uses it pretty much daily.
+The toy has good variety, and it's easy to switch back and forth between the shopping cart set up and the cook top set up.
+I like that it comes with a variety of foods (fruits, veggies, meats, and bread) as well as multiple utensils and cooking vessels.
+Another feature I really like is the part that shows kids how to set a table (plate, spoon, fork, knife).
+I've started working on this with my son, so it's nice to have it reinforced while he plays.It was easy to put together, and the sounds don't bother me.
+There is a volume setting (low or high), which is nice.
+In general, my son likes to play with it without using the sounds/commands, so maybe that's why it hasn't annoyed me yet.Just a heads up - It is possible for your child to get a finger stuck in it.
+My son got his thumb stuck where one the sides meets the middle part of the cart.
+It took a while for me to figure out how he was able to do it because the two pieces are pretty close to each other and it didn't seem like it was possible for his thumb to get stuck.
+Eventually, my husband realized that if you push down on one of the side while they are in the open/cook top set up, the two pieces separate enough to slip a little finger inside.
+My son must have been leaning on the it and had his hand near the crack.
+I don't think this is a negative against the toy, but please be aware that this is a possibility.
+The cart was very easy to put together, I was able to get everything assembled in under 10 minutes.
+My two year old son is having so much fun with this toy.
+Right now he just pushes it around, moving the food in and out of the cart but I can see this is something that will grow with him.
+I'm sure it won't be long before he is able to play with it more in depth.
+My 7 year old daughter loves to play with it with him and help him change it to the kitchen.
+Definitely a great toy!
+The VTech 2-in-1 Shop and Cook Playset is pretty fantastic!
+Combining two things younger kids love, pushing a cart/shopping and then cooking.
+I know both niece's love taking orders and making various things using plastic cups and Tupperware so this was the perfect addition to our house.
+Our 3 year old niece is in heaven with this set!
+She has no problem changing from shopping cart to kitchen and changes back and forth quicker than I can keep track.There's the usual learning aspect that comes with all VTech toys and responds with numerous pushes of a button, etc.
+There's so much she loves about her new toy!With VTech comes FUN learning and interaction.
+This has multiple things to have children interact and follow along.
+With three different ways to play, Pretend, Learning and Music and all three things fit perfectly for our 3 year old niece.A couple pluses for this toy - There's a volume for the sound.
+It has auto shut off when not being played with.
+It only takes 2 AA batteries (which are not included), it promotes learning and imaginative play all wrapped in ONE toy and last but not least all the extra pieces fit into the cart nicely and when finished playing it doesn't take up too much space at all.I would highly recommend this toy to anyone who has kids of is looking for a gift for a younger child.
+I got this in the day before I had my great grandson visit over night.
+It was definitely a life saver.
+He played with it all the time he was here :) He did try to climb on it once and knocked off one of the sides.
+I told him it would break, popped the piece back on and he was happy to just push it after that.
+I love the way it tells them to do things and he was following what they said and would laugh every time he got it right.
+It is a great toy for him.
+He will be 3 in September and he loved following the directions so he could cook :)
+My 2-year-old granddaughter likes this, but she doesn't understand the finer points of how to use the cooking part of it.
+Right now, she just pushes it around, pulls the food out, and puts it back in again.
+It's very easy to convert from cart mode to cooking mode, and although it's a little too complicated for my granddaughter, I think she'll be able to do it by herself once she makes the connection between the modes.
+It's a quality product, but it's probably better suited for ages 3 and up to take advantage of the interactivity.
+For children younger than that, it's a little overpriced for their limited abilities.
+"Fold up the sides, it's a shopping cart.
+Fold them down, it's a kitchen.
+My 2.5 year old son loves this toy, in both of its operational modes.
+It comes with a good selection of plastic food and utensils for ""shopping"" and ""cooking"".The most important positive is the toy itself.
+I almost think it would be better not to even plug in the batteries, and just use it as a toy to play with.
+I mean, we already have a lot of toddler toys that play ""Old McDonald"" and ""Bingo.
+""But one of the electronic features is really pretty educational and will be good for a while yet -- a recorded voice gives instructions like ""turn on the stove"" and ""put away the spoon"", etc.
+Sensors can tell if the child does what he or she is told and give feedback on whether the task was successfully concluded or not.
+Some of the instructions are not completely straightforward for an adult the first time, so these could stay challenging in principle until close to the maximum recommended age (it's suggested for 2-5 year olds).One of the biggest negatives is the low height of the toy.
+My boy already has to bend down quite a bit to play with it and he's near the bottom of the suggested age range.
+He may outgrow this toy in the next year, just in terms of pure physical size.This is a fine toy and has some good educational value, with the main program running through a lot of kitchen vocabulary in particular.
+If your child is tall, you may want to get one when they are closer to two years old, rather than four or five."

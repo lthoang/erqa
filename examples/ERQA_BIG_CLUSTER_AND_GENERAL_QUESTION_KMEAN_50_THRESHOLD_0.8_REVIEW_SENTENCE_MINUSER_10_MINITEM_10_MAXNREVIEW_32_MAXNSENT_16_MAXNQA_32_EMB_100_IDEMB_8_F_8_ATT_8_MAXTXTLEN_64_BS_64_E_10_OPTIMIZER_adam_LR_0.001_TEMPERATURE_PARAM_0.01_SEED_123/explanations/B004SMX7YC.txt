@@ -1,0 +1,170 @@
+Top question(s):
+Good morning, speaks Spanish Doll
+Can you move the arms and legs on this baby to sit it - like in a doll stroller and to carry it?
+Top sentence(s):
+"I got this for a 2 1/2 year old little girl who LOVES babies and pretending to be a mommy.
+Lips turn green- wipe them clean- after 'licking' the popsicle; boo-boo on leg- lights up red better after plastic bandaid is place; it kisses, wants it bear, tickle toes- it giggles, on and on, etc.
+This doll would be a great hit to occupy your child when they are learning to talk or playing mommy and baby.
+Her knee lights up red, when you snap on the plastic bandage she says thanks.
+This doll wasn't that much of a hit with my 3 1/2 year old daughter.
+
+Question attention weights:
+0.46139347553253174,0.46371203660964966,0.07489451766014099
+Sentence attention weights:
+0.00652815867215395,0.004500066861510277,0.006836004089564085,0.005883314646780491,0.005852632224559784,0.007113384082913399,0.007225699257105589,0.004973629955202341,0.007048985920846462,0.006386491935700178,0.006752575282007456,0.005861030891537666,0.0069189430214464664,0.006230738013982773,0.006798442918807268,0.00552185345441103,0.0069357408210635185,0.006473338231444359,0.007026286330074072,0.006621153559535742,0.006996966432780027,0.007306752726435661,0.007194504141807556,0.005258869379758835,0.0064668175764381886,0.006094032898545265,0.007021765690296888,0.006011840887367725,0.006885305978357792,0.005453478079289198,0.0075446199625730515,0.008745403960347176,0.007193980272859335,0.007047902327030897,0.006084609776735306,0.0053850822150707245,0.007697761058807373,0.006956903729587793,0.00567194540053606,0.007495674304664135,0.006808899808675051,0.007738788612186909,0.006788189522922039,0.005929382983595133,0.006875371560454369,0.006620008498430252,0.0068796598352491856,0.006628912873566151,0.0043462906032800674,0.009134680964052677,0.007044847588986158,0.007920741103589535,0.007019352167844772,0.006353707518428564,0.006244212854653597,0.00781341828405857,0.009273846633732319,0.007371366024017334,0.0068198759108781815,0.005730695556849241,0.006646362598985434,0.00684175081551075,0.005207867827266455,0.007066691759973764,0.0070482357405126095,0.0076239630579948425,0.005533551797270775,0.007074286229908466,0.006781620439141989,0.006879405118525028,0.005707067903131247,0.006779580842703581,0.004190450068563223,0.006734211929142475,0.007090270984917879,0.005743522197008133,0.006451760418713093,0.006533718202263117,0.007206819951534271,0.006449972745031118,0.006985840387642384,0.0049145943485200405,0.006778167560696602,0.00509017426520586,0.0072878506034612656,0.007028384134173393,0.006405080668628216,0.0058266473934054375,0.007235818542540073,0.006708824075758457,0.0069884504191577435,0.009148265235126019,0.007529148831963539,0.0075908238068223,0.007063257973641157,0.007747955620288849,0.007951297797262669,0.005731021519750357,0.007169709540903568,0.007784300949424505,0.006846398115158081,0.008689681999385357,0.00604076124727726,0.00716528482735157,0.00693532032892108,0.006894815247505903,0.006362023763358593,0.005290767643600702,0.006469668820500374,0.006965499836951494,0.0074311355128884315,0.007454324513673782,0.006842863280326128,0.007778301369398832,0.00728712510317564,0.006342134904116392,0.005499452352523804,0.004134718328714371,0.007274194620549679,0.007209169678390026,0.007119444664567709,0.005832534283399582,0.0072830901481211185,0.00715048611164093,0.0070878369733691216,0.006868814118206501,0.006993143819272518,0.006965030450373888,0.0071045998483896255,0.006787771824747324,0.006066442467272282,0.005355446133762598,0.008052442222833633,0.005555134732276201,0.006876571103930473,0.006075490266084671,0.005954695399850607,0.005759867839515209,0.0068001514300704,0.007414180785417557,0.007361181080341339,0.00953260064125061,0.006519581191241741,0.006936563178896904,0.005711321718990803,0.006474081426858902,0.006802475545555353,0.006922970991581678,0.005820758640766144
+0.006623312830924988,0.003316527931019664,0.006838364526629448,0.006765327882021666,0.0054709590040147305,0.008234748616814613,0.007573344279080629,0.004097918979823589,0.006895044818520546,0.006996944081038237,0.006260491441935301,0.005362796597182751,0.007269052788615227,0.005072699394077063,0.006560285110026598,0.005839196965098381,0.0069944607093930244,0.0067917886190116405,0.00687798485159874,0.005635788664221764,0.00698704132810235,0.007741269189864397,0.006673055235296488,0.0051266904920339584,0.00604063319042325,0.0064995260909199715,0.006978747434914112,0.006060470826923847,0.006951869931071997,0.004197295289486647,0.0076272571459412575,0.010401460342109203,0.007005344144999981,0.006452736910432577,0.006347309798002243,0.005346676800400019,0.007533274590969086,0.007059917319566011,0.0042586540803313255,0.0065856510773301125,0.005658893845975399,0.007542408537119627,0.005756461061537266,0.0049206772819161415,0.0064972275868058205,0.0058965180069208145,0.006452098488807678,0.0071837459690868855,0.0032945252023637295,0.009321889840066433,0.006537367589771748,0.008582405745983124,0.007391450926661491,0.006317241583019495,0.005854656454175711,0.008755290880799294,0.010366290807723999,0.007264689542353153,0.0067695011384785175,0.005704274866729975,0.006642288062721491,0.007242601364850998,0.004156348295509815,0.007408756762742996,0.006561701651662588,0.007981879636645317,0.0054278625175356865,0.008120301179587841,0.006212795618921518,0.006762521341443062,0.005485408008098602,0.006820976734161377,0.0032836056780070066,0.005510633811354637,0.005976748187094927,0.0052505601197481155,0.006585605442523956,0.0065078167244791985,0.008010072633624077,0.007052739150822163,0.00726446695625782,0.0038164390716701746,0.00680547533556819,0.005156851373612881,0.0065949587151408195,0.006998362019658089,0.006108074449002743,0.005454546306282282,0.007616688031703234,0.006227354519069195,0.0069439769722521305,0.01039574109017849,0.007367298938333988,0.00870331097394228,0.006906556896865368,0.00924330111593008,0.008653366006910801,0.005623507313430309,0.00745498389005661,0.008158868178725243,0.007053930312395096,0.010279150679707527,0.007383378688246012,0.007163723465055227,0.006946921814233065,0.0067440965212881565,0.005603952333331108,0.003913959488272667,0.006571892648935318,0.006607533898204565,0.009057475253939629,0.008840283378958702,0.0067910002544522285,0.007733880076557398,0.007884368300437927,0.006308258976787329,0.005890471860766411,0.0036499269772320986,0.010485675185918808,0.007150559686124325,0.007124301977455616,0.005572971422225237,0.006787825841456652,0.007183012552559376,0.005965154618024826,0.006750801112502813,0.006844062823802233,0.0068302764557302,0.006928656715899706,0.006943800486624241,0.007370118051767349,0.005280702840536833,0.007701584603637457,0.005157711450010538,0.007014114875346422,0.005505022127181292,0.005590170156210661,0.005579338409006596,0.007065674755722284,0.006923996843397617,0.006475045345723629,0.012930560857057571,0.007091124076396227,0.006585333961993456,0.0051978034898638725,0.007232424337416887,0.007500280160456896,0.006510934792459011,0.006381954997777939
+0.005857490003108978,0.003503925632685423,0.006558027118444443,0.007920056581497192,0.005105515941977501,0.0080216433852911,0.006981490179896355,0.004698903765529394,0.006370515562593937,0.006917680148035288,0.006018655374646187,0.006770032458007336,0.007383041083812714,0.005191985983401537,0.0061362809501588345,0.0055932761169970036,0.006436983123421669,0.007691127713769674,0.008049262687563896,0.005525756161659956,0.0063630035147070885,0.007074562832713127,0.007236327510327101,0.005039273761212826,0.007178612053394318,0.007331996690481901,0.006399734411388636,0.005013291724026203,0.006136870477348566,0.005273611284792423,0.009303565137088299,0.010749375447630882,0.00666635250672698,0.006340786349028349,0.005962444934993982,0.005463842302560806,0.008134161122143269,0.006667281035333872,0.00446606520563364,0.008179789409041405,0.005682095419615507,0.007389930542558432,0.005879455711692572,0.0049565015360713005,0.006062281783670187,0.006034050136804581,0.006104449275881052,0.00752401864156127,0.0037319709081202745,0.010773136280477047,0.006670333910733461,0.009594729170203209,0.006602061912417412,0.005537683144211769,0.005068755242973566,0.010447758249938488,0.011075972579419613,0.006899227388203144,0.006468758452683687,0.00632059620693326,0.006671138107776642,0.006334695033729076,0.004575899802148342,0.0070303804241120815,0.006358134560286999,0.0070670549757778645,0.004391730763018131,0.007322600111365318,0.006993386894464493,0.006090214941650629,0.0061044273898005486,0.0062335641123354435,0.0027477797120809555,0.005606471095234156,0.007736896630376577,0.0058430559001863,0.006328229326754808,0.006115850992500782,0.007867165841162205,0.007052187342196703,0.006471510976552963,0.0033045941963791847,0.006387759931385517,0.005552935879677534,0.006979220546782017,0.006376211065798998,0.00611514737829566,0.005165086127817631,0.008767264895141125,0.005939072463661432,0.006283965893089771,0.01142045482993126,0.008620033971965313,0.009258256293833256,0.0070863706059753895,0.009032946079969406,0.008245428092777729,0.006679111625999212,0.007263869047164917,0.008409715257585049,0.007229810580611229,0.01101160142570734,0.006406506523489952,0.006369046401232481,0.006284307688474655,0.006012354511767626,0.0057400306686758995,0.0041184076108038425,0.006670353002846241,0.005947609897702932,0.008425718173384666,0.009240840561687946,0.006113721989095211,0.00801076740026474,0.007407901808619499,0.005923601798713207,0.006646343972533941,0.003426962299272418,0.011796994134783745,0.006692096125334501,0.006853743921965361,0.004770742263644934,0.006448364816606045,0.006409433204680681,0.0063508134335279465,0.006127275992184877,0.006178846582770348,0.006168924272060394,0.006223693490028381,0.006692134775221348,0.006934169679880142,0.0064956191927194595,0.009359479881823063,0.004419900011271238,0.006330781150609255,0.0051636905409395695,0.00524061219766736,0.0057405997067689896,0.006522045470774174,0.006783544551581144,0.008435931988060474,0.013773320242762566,0.006421329453587532,0.006329865660518408,0.00474373996257782,0.007593825925141573,0.006814045365899801,0.0065319896675646305,0.006300373002886772
+Questions:
+Can you move the arms and legs on this baby to sit it - like in a doll stroller and to carry it?
+Good morning, speaks Spanish Doll
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+my three year old daughter LOVED this doll so much.
+She took it everywhere, until one day, she dropped it down the stairs and one of the arms broke (not repairable).
+Love the accessories this doll comes with, although half of them were lost within a week (the doll still works without them).
+My daughter doted over this doll; fixing boo boos, feeding her, and rocking her.
+Very educational, and we immediately bought a replacement doll after the first one broke.
+"I got this doll for my 2-year-old granddaughter.
+Bottom line first: she loves it.
+And that's what we look for in toys for our young'uns, isn't it?This is a large doll, and very well made; solid construction, as you'd expect from Mattel.
+It should last for years.
+It has several accessories which can be used to make the doll do things: when she gets an ""owie"", there's a ""bandage"" that clips onto the spot so she can ""heal""; she's got a popsicle that she can ""lick"", which makes her mouth change color, and which can then be ""wiped"" away; things like that.
+It's very interactive.
+This is great and very absorbing for my munchkin.I don't know why the age recommendation is 3+.
+I assume it's because of the accessory parts, and that this whole society is running scared of liability lawyers.The only real drawback here is the price.
+As a Vine member, I get products for free in order to review them.
+I don't know about shelling out over $70 for a doll, frankly.
+This is a really terrific product, but if I were facing the idea of putting that money our of my pocket for it, I'm not sure I'd do it.
+Not because of anything about the product itself; that just seems like a lot of money to be paying for a doll.One more thing, FYI.
+When I got this toy, I was wondering why it was listed as a ""Mattel"" toy, when all the labeling all over the box said ""Fisher-Price"".
+Well, on the very bottom flap I finally found Mattel's name, and subsequent research led me to the fact that Mattel owns Fisher-Price.
+But in all reality, this really is a ""Fisher-Price"" product more than a ""Mattel"" product."
+"First off, I wish I had this doll when I was little!
+She is so cute and with over 150 actions, sounds and phrases she has a lot going on.
+My favorite part is when she eats he green Popsicle and asks if her tongue is green as it lights up green!
+She is part soft/part hard material so she is durable but not too cuddly.
+She comes with a few accessories including a teddy, Popsicle, spoon, bowl, napkin, and plastic band aid.
+It would be nice to maybe have an extra outfit as little girls do like to dress and un-dress their dolls, but she just comes with the purple outfit she is wearing.As far as her phrases go, she said very realistic ones that a little girl would say such as ""Mommy, I'm hungry, may I please have a juice pop?""
+(Oh she even says please!
+and ""I'm gonna give you a kiss.""
+I was able to get her to respond to my touch, not necessarily every time but she did respond and was excited.
+I do like that it is from Fisher Price because I do trust their quality of toys but I also think this doll is somewhat overpriced (which is why it lost a star), I'd pay maybe $50 for it.She does come with the 4 AA batteries she requires and she stands at about 15 inches.
+It says for ages 3 and up but I could see a 1  or 2 year old really liking this doll, its probably 3 because of choking hazards, but if you are worried just give your child the doll and no accessories (although all the accessories are pretty big.
+This doll would be a great hit to occupy your child when they are learning to talk or playing mommy and baby.
+It is a very cute doll with so many great phrases that it will definitely keep a child busy, they may get bored but will end up coming back to it!"
+"This doll is awesome!
+She is cute and her voice is adorable.
+The doll has lifelike movements and sounds.
+Responds to interactions you initiate.
+Tickle her foot to make her laugh.
+She asks for her juice pop and teddy bear accessories, and when placed in her hands, she will recognize and respond to them.
+Hand baby doll her juice pop to lick, and her tongue lights up green until you ""magically"" wipe it away.
+The boo-boo on her leg also lights up, so you can help make her ""all better"" and magically wipe it away too.
+When you lay her down, she knows that it is time to go to sleep and will close her eyes.
+Features 50+ sounds and actions.
+Doll comes with juice pop,bear,bandage,wiping cloth,bowl and spoon.
+My daughter loves it and plays with it every day.
+A little pricey but worth it!
+Should be a hit this Christmas!"
+My kids went wild for this toy for the first 2 days, but haven't touched her since.
+She does some neat things like goes to sleep and wakes up, gets a boo boo, wants her toy, and giggles.
+She has a cool light on her tongue and knee and sensors for tickling.
+All-in-all a pretty cool doll.
+Thank goodness she doesn't ingest anything then pee and poo!
+"My daughter was very excited by this toy at first but she soon lost interest in it.
+I think she was turned off by the fact that it is not really a ""carry around"" doll.
+Being made out of hard plastic it just is not the doll that she wants to take with her when she goes in the car or plops down to watch some TV, etc.
+It's plastic body just does not encourage cuddling even though this doll really seems interactive and designed just for this kind of play.So, after the initial thrill was over this toy more often than not ends up in the bottom of the doll basket and rarely gets any serious play time."
+This doll wasn't that much of a hit with my 3 1/2 year old daughter.
+After playing with this doll for a day she's been tossed in the toy box and hasn't made a return.
+This doll talks a lot and where as saying lots of different phrases she gets through about all of them in 5 minutes and then starts repeating them again.
+It's cute that she'll give you hugs, kisses, eat, sleep, and needs an boo-boo to be fixed but like I said, after awhile all that kind of got old.
+Her movements are kind of loud and if not held in the right way can jam up.
+This doll is also very hard so she wouldn't be a good toy for snuggling or sleeping with.
+Her clothes aren't removable so that was kind of a downside because my daughter likes to play dress up with her dolls.
+I think this doll is an okay doll for about 30-35 dollars but no more than that.
+My granddaughter loves this toy.
+It is absolutely amazing.
+It does everything that tht product description states.
+What it doesn't adequately express, is the wonder and smiles that a young child will show when playing this baby doll.
+Want to be a hit with your grand kids...get them one of these.
+"As with all dolls like this, my daughter always wants wants wants them.
+But when she gets them, she loves them the first few days and grows qucikly bored with them because they do all the thinking for her, and she is a big imagination girl.
+She prefers her babies to be ""seen and not heard"".
+I got this free to review though, otherwise no way I'd have paid this much for it, I'd have waited a year for it to be out and the price to come down, which is my suggestion to anyone who wants this for their child.
+The prices are always high on these dolls when they are first released.
+As with the other interactive Little Mommy dolls, they aren't as durable as regular dolls due to the movement.
+Ella hasn't broken it yet but a few hard drops or twists and turns with that head...  its a matter of time.
+Anything this interactive you lose that durability, so that is something to keep in mind with younger or rougher children.
+Again, this has been fine so far, but this doll seems to have the same level of durability as the others in the line, such as the ""Walk and Pull(?)""
+doll, that dragged the little doggy on a leash and walked, fell, picked herself up again; and that took a few spills before she stopped picking herself back up again!
+Great dolls, just with the high price and quick loss of movement upon fumble, it is something to definitly keep in mind.
+Does it stop me from getting them for my daughter?
+Nope, I just wait until they drop in price or I get them to review for free.
+And as I said, my daughter wants them so much but bores quickly of them; but others may not.
+My niece seems to love these even more, but I know my daughter tends to like to do ""voices"" for her dolls more to where my niece is the type to prefer playmates to contribute to voices as opposed to make them up herself.
+So it really is all about your child and her play preferences and imagination level and what she enjoys or does not.
+I will start with the packaging.
+It has a door on the back of the box you punch out on 3 sides to cut all the cords and release a toggle that holds the doll in place.
+Now you can slide it out and start cutting the tiny clear rubber threads to get all the parts out.
+The doll is connected to a try me button, before you can remove her turn her over and unsnap the red cord, it's like a phone jack.On her back you need to make sure she is in the ON position.
+Lay her down then sit her up and she takes off with motion and words.
+She says she has a booboo can she have a bandage?
+Her knee lights up red, when you snap on the plastic bandage she says thanks.
+She asks for her juice bar, this has a magnet in it and will stick in her hands, she makes eating sounds then her tongue glows green (slightly creepy to adults).
+Next she wants to be cleaned up, I found you have to rub across her lips and tongue a few times then the tongue goes back to red/black.
+It's the same with her teddy bear she holds it and kisses it.
+When you lay her down she goes to sleep and turns off the battery.What I like the most is her voice at times is like Shirley Temple kinda pouty but sweet.
+Some of these dolls have really creepy voices but this one is cute.
+She has rooted hair in pony tails but if you take them out she will have big bald spots.The bear and juice bar bowl spoon and cloth are specific to her, if they become lost then the interactive features they provide will be gone.
+I will cut out the little chest that is part of the packaging and make it a working box.
+Your child will have to understand to put these parts away or baby will not do all the fun things.On the down side she has robotic sounds when she moves, obviously this cannot be helped.
+When you first pick her up from sleeping it is really loud and sounds like it is breaking but it's not.
+"Our almost-3 year old has TONS of the Little Mommy dolls, including the Play All Day baby.
+These dolls are well made, are the perfect size for her to carry around, and they're usually well-priced and readily available at a multitude of stores.
+When this doll came, I knew she would be excited, but she FUH-LIPPED!
+She could not wait for me to get it out of the box!
+Once I got it out, she sort of sat in amazement and stared... Then I put the popsicle in the doll's hand and that got things going!
+I am pretty sure she played with that baby doll for almost a solid 2 hours... Not a peep out of her other than her talking to the doll.
+Her favorite part is tickling the baby and when her tongue turns green after she ""licks"" the popsicle.
+She loves that the baby doll responds to her tickles because her brothers just tell her she's ""poking"" and they never laugh.
+:-) Sometimes she is a little rough with the doll, but thus far, the doll has held out well.
+It's suggested for ages 3 and over, but our daughter has always been a fan of baby dolls, so I didn't think a few months would be too big a deal.
+She seems to ""get"" most of the interactions and features, so I don't think she's missing out on anything (especially that band-aid - man she loves to put that band-aid on!).
+Her age may be an issue because she does get rough, but like I said, that doll is still working perfectly, so we're good there.
+Most nights, the baby gets tucked into a stroller before our daughter goes to bed.
+She sets her next to the Play All Day Doll (which is her favorite still), but Very Real Baby might be inching in on her territory.
+I don't usually like ""do it all"" baby dolls, but this one is pretty cute and does require interaction.
+The doll is engaging, not too loud, and has multiple features so you're not tired of hearing the same 5 phrases after an hour or two.
+"It talks and talks and talks- my girls(ages 5 & 7) call a chit chatter, but absolutely love toting this adorable, robot thing around.The product states the doll delivers over a 150 phrases/words- we haven't reach that, I don't think, but it sure can talk and act like it wants constant attention.
+Lips turn green- wipe them clean- after 'licking' the popsicle; boo-boo on leg- lights up red better after plastic bandaid is place; it kisses, wants it bear, tickle toes- it giggles, on and on, etc.
+with a very cute voice, I think.
+One reviewer stated their child loves it, but they themselves found it creepy.
+Probably because it does so much.Our children rate it a big 5 Stars, and they're not big into dolls either.
+They carry it around, take it in the car, sit it at the table, put it to bed...
+It's a bit expensive- wish it were about $15-20 less, but at least our kids certainly are getting their use out of it.
+My recommendation: weigh your own child's desire to have and play with something like this.
+If they absolutely love dolls- definitely yes, maybe a Christmas or birthday kind of present; otherwise, wait for the price to come down.On/off switch on back under its clothes, ""Honey, can you turn that thing off, now, please!!!""
+Just kidding.
+I don't mind it- yet.
+It's well made and appears durable.
+Perhaps, I should stop calling it ""it""."
+This doll was barely unpackaged before my grand-daughter was grabbing for it (she's about 2.
+)She did fine with the doll until my daughter turned on the electronics (it comes with the required AA batteries) and the arms began to randomly move, which initially scared the child.
+But she got used to it in no time at all and now she's feeding it and gabbing to the doll in her own unique language, (the doll speaks English :).While this doll is somewhat expensive, it is of good quality and, from my view, worth the price.
+It is now permanently attached to my grand-daughter and no one is permitted to borrow it.Recommended.
+This little doll is a great hit with my 4 year old granddaughter.
+She loves listening to the chatter and putting on the bandage and giving the popsicle and wiping the face and responding to all the other requests.
+Adults do tend to get a touch irritated with the constant talk but the little ones love it.
+That is really what matters with a toy.The doll is a bit heavy and is not soft and cannot be undressed.
+So it is not a substitute for a doll to sleep with and cuddle with.
+But it can give the child a fun playtime responding to the doll's needs and laughing from time to time with it.
+The on/off button is hard to find and hard to get to, since the back opening is very tight, but after the child leaves the toy and it keeps on asking and asking for attention, the adults in the room will find it --I guarantee.
+"I got this for a 2 1/2 year old little girl who LOVES babies and pretending to be a mommy.
+There are small parts, so I haven't let her play with those, but she absolutely adores the doll.
+I think it's her favorite.
+Unlike her other ones, this one is far more interactive.
+It gives her the opportunity to do more than just ""pretend"" that her baby is hungry or wet itself as it is much more responsive.
+She loves tickling her and singing to her.
+I think this is a huge hit.
+I do think kids need things to stimulate imagination, so I don't think that toys should necessarily do all the work, but watching her play with this is almost like having a little sister who doesn't need feeding, changing and doesn't wake up in the middle of the night."

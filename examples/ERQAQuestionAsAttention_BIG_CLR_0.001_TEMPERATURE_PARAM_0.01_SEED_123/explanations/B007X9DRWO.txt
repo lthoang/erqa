@@ -1,0 +1,216 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+but it wasn't.
+I would suggest using it on a towel or better yet, a tray.
+"This was quite a disappointment.
+We used it a couple times to test it, but it is going in the garbage.
+Well, you thought wrong.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.004165929276496172,0.00471720052883029,0.006646523252129555,0.0032249046489596367,0.004121351521462202,0.005071038380265236,0.0027043467853218317,0.004167706705629826,0.0071236020885407925,0.0070051285438239574,0.007131276652216911,0.00666383933275938,0.005945631302893162,0.004283471032977104,0.002594392979517579,0.006825630087405443,0.0069928583689033985,0.00355867319740355,0.00600201403722167,0.0024150866083800793,0.0067079137079417706,0.0028101010248064995,0.004898141138255596,0.0027124457992613316,0.007283133454620838,0.0031842058524489403,0.002625716384500265,0.005071132443845272,0.006549872923642397,0.006547507829964161,0.006549872923642397,0.00434886384755373,0.0030161458998918533,0.004123209044337273,0.002669119741767645,0.006569902878254652,0.002726353006437421,0.0036226094234734774,0.0034778497647494078,0.004574527498334646,0.004107304848730564,0.006569902878254652,0.0032938772346824408,0.0067055243998765945,0.0054519264958798885,0.005023189354687929,0.0066282860934734344,0.004057011101394892,0.008099466562271118,0.005669972859323025,0.0043606143444776535,0.0021043724846094847,0.004280438181012869,0.006043232977390289,0.002309884410351515,0.00485916156321764,0.00591091625392437,0.00573523947969079,0.006405135616660118,0.005622548516839743,0.006470771506428719,0.003525487845763564,0.0034640152007341385,0.003295433009043336,0.00665294798091054,0.0062864068895578384,0.004003501962870359,0.0056136613711714745,0.0035339605528861284,0.00665294798091054,0.00665294798091054,0.0029845228418707848,0.006990403402596712,0.004949317779392004,0.00582167087122798,0.007016954477876425,0.007268109824508429,0.00421557342633605,0.00490653095766902,0.005996197462081909,0.007244077976793051,0.0070436932146549225,0.0070436932146549225,0.005837493576109409,0.0021849253680557013,0.0038842670619487762,0.007192791905254126,0.005757141392678022,0.00575301144272089,0.006583585869520903,0.00570226414129138,0.004245930351316929,0.002280397107824683,0.003362150164321065,0.004204959142953157,0.004358997568488121,0.005715581588447094,0.0054325563833117485,0.0028577055782079697,0.0068454318679869175,0.006713481154292822,0.005600406788289547,0.006648678332567215,0.004551182501018047,0.006754243280738592,0.004890328273177147,0.004395566415041685,0.0028035168070346117,0.005972705315798521,0.0029957785736769438,0.005054740235209465,0.004608644172549248,0.005446054507046938,0.007833054289221764,0.006754632107913494,0.00585463922470808,0.005693572107702494,0.006059814244508743,0.006832471117377281,0.0033858544193208218,0.003702701535075903,0.007597706746309996,0.0033944365568459034,0.0021473641972988844,0.00403263745829463,0.006176643539220095,0.006470051594078541,0.006765154656022787,0.0030298647470772266,0.004820807836949825,0.003282716032117605,0.005161166191101074,0.006449616979807615,0.00827427301555872,0.005658430978655815,0.005336030852049589,0.0067712231539189816,0.007305154576897621,0.003849571570754051,0.005873809568583965,0.006558628752827644,0.0033588011283427477,0.00543059129267931,0.006609121337532997,0.004795866087079048,0.005122379865497351,0.0030623245984315872,0.0023316293954849243,0.002931966446340084,0.003573731519281864,0.007136809639632702,0.0020966327283531427,0.0027976587880402803,0.003272700821980834,0.005688884761184454,0.002476651454344392,0.008420411497354507,0.005065186880528927,0.006092441268265247,0.0037340307608246803,0.004987051710486412,0.0040835184045135975,0.007130887359380722,0.003615768626332283,0.006209774408489466,0.007077164016664028,0.006638602819293737,0.004101342521607876,0.00185680843424052,0.0028288380708545446,0.0027896109968423843,0.007350711617618799,0.004506983794271946,0.002427638042718172,0.00453149015083909,0.0032418053597211838,0.004239162430167198,0.00466925697401166,0.007008224725723267,0.005157484207302332,0.00589619530364871,0.0026049332227557898,0.0028073012363165617,0.005173347424715757,0.004682382568717003,0.004229231271892786,0.0071411700919270515,0.0023422481026500463,0.002661654958501458,0.003632625564932823,0.007117011584341526,0.0024028620682656765,0.006531615741550922,0.006690741516649723,0.0040208278223872185,0.005275445058941841,0.007143573369830847,0.00478828651830554,0.003190414747223258,0.007211622316390276
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+"This ""Slurpee Maker"" seemed like a great idea and a fun update on the traditional ""Snoopy Sno-Cone Machine"" I had as a kid.
+I knew going in that, with no motorized parts and a very simple hand crank, I would not be getting an actual Slurpee-like drink.
+But it still seemed like a fun idea and something I could share with my daughter.
+But as many other reviewers have pointed out, this is a useless and embarassingly bad product.Overly complicated to assembly, and extremely difficult to use, it remains a challenge just to get through the most basic steps to produce a drink so unlike a Slurpee that the phrase ""false advertising"" cannot help but pop into one's mind.
+As I suspected, the end result is much closer to the ""Snoopy Sno-Cone Machine"" than an actual Slurpee, but even there -- and I followed all of the instructions -- it suffers by comparison.
+At least my Snoopy machine had a pleasant, distinct flavor.
+Here we are simply instructed to pour whatever we might have laying around the kitchen into a cup of crushed ice and enjoy.
+So, as someone else pointed out, you could just as easily save yourself the time and money and trouble and just crush up some ice, add some Coke Zero, and end up with the same result (or perhaps something even a bit better).
+No possible way to recommend this to others."
+For thirty bucks you'd expect something that at least work but not this thing.
+First of all it's very difficult to assemble.
+It came with too many pieces and not very clear instructions.
+When we did manage to get it set up it did not work correctly.
+Cranking for 5 minutes to get your drink (which you provide yourself) did not get the results that is shown on the package.
+Actually it came no where close.It does come with a small free slurpee from 7-11 which I used for my 7yr old since we wasted so much time trying to get this piece of trash to work.
+Save your money!
+!
+A lot of reviewers seem to have had a hard time with this product, but though there was a bit of a learning curve, we have quickly become Slurpee masters, and enjoy doing it.Assembly - The maker came with about eight parts, if I remember properly.
+Following the directions, I assembled it all while sitting on the couch, while watching TV.
+It's not terribly difficult, just follow the step-by-step instructions.First Slurpee - When we poured in the soda, I poured it in too aggressively, and it foamed up and overflowed the machine.
+Well, that was my mistake - I was not thinking.The turning wasn't too hard for them, we used crushed ice.
+The youngest was eight, but younger children might not have the strength or stamina to keep it up.The ice formed, and was ready to be dispensed in about ten minutes.
+We did not have the cup back far enough, and the Slurpee spilled out onto the table.
+For the second cup, we had the cup well back, and overfilled it, making another mess.Lesson learned - Put a tray under the Slurpee Maker, and make sure you have enough lighting to see the cup being filled.Cleanup - Most of the pieces of the maker come off quickly enough.
+Sadly, all the pieces are soft plastic, so you cannot put them into the dishwasher.
+I washed the pieces in the sink, and dried them in the drainer.What the kids thought - The kids had a good time making the Slurpees, and made some more over the next few nights.
+Once I loaded the salt and ice, and the soda, I turned the maker over to them, and they provided the muscle power.Conclusions - This is a fun enough gadget.
+The kids enjoy making the Slurpees and the cleanup is not too difficult.
+We like it.
+Will the kids go on making Slurpees for years to come?
+Probably not, but we did have some good family fun time with it.
+(Review of Slurpee Maker)
+"The short story:  At the current Amazon.com price (around $29.99 on 9/26/2012), it is overall too much work for too little Slurpee goodness in the end.My two attempts at using this left me feeling like I had purchased a box of plastic pieces and a puddle of juice.My suggestion?
+Pick up one or two ""Slush Mugs"".Slush Mugs Frozen Beverage Red Slushie Cups - SET of 2 - Slushee TreatsMuch less mess (though instead of ice and salt the mugs use a cup/canister that must be frozen before each use).
+Not as fun or cute for Slurpee die-hards, but more economical and less fuss.The longer story/our experience:We are big Slurpee fans in our home, however we can no longer have the ones available at our local 7-11 stores as many of the flavors have coloring and flavoring ingredients that put them off limits with our dietary restrictions (we have G6PD deficiency and I have type 1 diabetes.
+So ingredients are very important.
+)We were excited to try the home Slurpee Maker with juice and I was happy that the canister did not require freezing.
+What I wasn't expecting was somewhat of a puzzle of plastic parts that need to be washed, dried, assembled, then you make your slurpee and then the whole thing has to come apart for washing once again.
+I guess having all of the parts separate from each other, and not permanently connected, allows for more thorough cleaning which is a plus when dealing with juices and sodas that will dry to a sticky goo.
+Putting it together is not challenging, but my kid lost interest and wandered away while I was washing all of the pieces.
+I can't imagine many kids would be that keen on assembling this.I set it up, added the ice and salt (I used generic table salt) and then I poured in 12 ounces of very tasty Tart Cherry juice.
+R.W.
+Knudsen Family Just Red Tart Cherry, 32-Ounce (Pack of 12)The instructions said to crank continuously for 5 minutes.
+I cranked for a minute at a time and then paused and then resumed cranking.
+It was easy to crank and the cherry juice quickly developed ice crystals and what seemed to be a slushy consistency.
+I dispensed some into the included little cups and oops, some slush glunked out onto the counter.
+I think the little cups are a too narrow for the dispenser opening.
+The tab for the dispenser is a bit hard to engage and close, but I figured I'd give it another shot with the next cup and it definitely was a little easier to operate.
+"This was quite a disappointment.
+The toy did not create a slurpee as advertised.
+Instead, it took a lot of work just to get the machine to create one slurpee.
+Also, although it's a toy, it gives the impression that the main section of the mixer will flow the slurpee into a cup.
+That is not the case; instead, the contents of the ""blender"" need to be poured out from the blender itself into a cup.
+The best part was not the machine itself but the coupon for a free slurpee from 7-11."
+We received our Slurpee Maker with excitement and immediately put it to use the first day.
+My five year old daughter was ready to make and drink one!
+So, it is a toy that can produce interest in children.
+What kid does not want a Slurpee?It was easy to put together following the directions.
+Yet, as a healthy family I was disappointed.
+The product was not designed to make sugar free slurpees.
+A lot of sugar is needed to truly work well.
+If health is not a concern for you, then this will not be a bother.
+The Slurpee Maker is mostly plastic.
+Therefore, I believe it is not as durable as it could be.We will not be using it much due to wanting our family to be healthy and avoid high sugar products.
+"I got this hoping to make some yummy Slurpees.
+I was quite disappointed.
+First of all, this maker does not come with any packets of Slurpee flavors.
+You would think that a Slurpee maker would come with cherry flavor (as you see on the front of the box) or any other flavor but no.
+The directions say that you can use most anything but whatever you use, it has to have a high sugar content.I found the maker harder to put together than what I thought it would be.
+And you have to take it apart to wash it every time.
+Which I guess makes sense but is still difficult when you have to put it back together to use for the next time.
+The end result of my ""Slurpee"" was just okay but I think I could have gotten the same result putting some ice in my blender and adding some juice or soda.You get a free small Slurpee in the box but for me it's useless because there currently are no 7-11's that are near to where I live.
+So overall, it was quite a disappointment and I expected more."
+It's a fun idea but the execution is lacking.
+As most of the other reviewers have noted you spend a lot of time setting it up, cranking away, and you get... some icy soda that isn't anything like a Slurpee.
+Maybe there is some amazing technique I'm missing, but I'm not going to learn it.
+I just can't recommend this to anyone.
+It doesn't help that the buid quality is low, but on that front I wasn't expecting much.
+I was hoping it would at least make a decent Slurpee.
+All that being said, my kids liked the end product, because they've never had a real Slurpee.
+So for them there was some fun to this.
+For me?
+Not so much.
+"I wish I could rate this higher because I love Slurpee brand.
+The plastic this product is made from is so cheap, it breaks easily and since it's for kids - described as a ""toy"" it should be more durable.
+They made it completely disassemble, which is great for cleaning, but makes it a mess to wash, dry, and store, besides the fact that when you are moving it or trying to use it it keeps falling apart.
+You must have salt to make the contraption work and kids get tired of turning the pump to make it work.
+The energy they put into it is not worth what they get out of it- which is a tiny cup of Slurpee.
+Not a fun toy for the whole family.
+Not a fun toy for mom who has to clean it.
+And not worth the cost.
+Sorry to say it did not live up to expectations.
+Cheaper and less hassle to pile in the car or walk to the nearest 7-11 and let them ""make"" their own Slurpee creations there."
+"It was fun for our five-year-old, but she needed a tremendous amount of assistance with this.
+While the set up is relatively easy, it is a bit of a pain in the rear end.
+My daughter has never had an actual Slushee, as she is not a huge fan of such frozen concoctions, but she did enjoy the final product when *I* was finally done making it for her.This machine requires 5 minutes of cranking, which she couldn't handle anymore, so I was assigned the task.
+Washing all the little parts is a pain, too.
+And the ""Slushee"" didn't dispense the way it was supposed to....I had to take the machine apart and spoon it out.
+Nevertheless, it eventually came out.Overall, my daughter enjoyed the frozen mush that was a result of my efforts.
+Does this taste like a Slushee?
+Absolutely not.
+Then again, I'm pretty sure 7-Eleven doesn't use Juicy Juice in their Slushees either.
+Is this machine worth it?
+For us, yes....my daughter has a low tolerance for sugar and would probably get sick if she ever consumed a real Slushee.
+This version is a pretty good substitute for a real Slushee.
+She doesn't know the difference and I'm not toooo terribly bothered by all the work on my part, as long as she doesn't ask for a second Slushee, which she has yet to do."
+"This Slurpee Maker is just what kids need.
+Instead of hearing, ""Mom, can you take us to town for a slurpee?""
+I much prefer hearing, ""Mom, can you help us make slurpees?""
+There's nothing like an ice cold slurpee on a hot Texas afternoon.
+And having this slurpee maker makes it fun and economical!
+No batteries, no plugs, just good old arm power."
+after reading the instructions, it requires alot of salt to make this thing work.
+We used it a couple times to test it, but it is going in the garbage.
+I will not allow my children to have all that added sodium.
+If we would just use ice and juice it would be so much better than having to add all that salt.
+"When I was a kid, I was jealous of some of my friends who had this toy that was basically a Slurpee/Icee maker.
+It was nothing like this toy...I think it was a white house with Snoopy on it, and it made red Slurpees?
+Whatever.
+The point is that, although that 1980's Slurpee toy seemed cool in principle, the reality was that it made really sorry excuses for Slurpees.
+You'd think that, 30 years later, technology would have improved slightly, even in the Slurpee toy department.
+Well, you thought wrong.
+This new and ""improved"" Slurpee maker is just as bad as the old one, or maybe even worse.
+It takes a lot of time and effort to create Slurpees so small they wouldn't even satisfy your childrens' Barbie dolls...and what fun is that?!
+I admit that the Slurpees taste pretty good, but still, for the price, I certainly expected more."
+Needless to say, my kids were overjoyed when this arrived.
+I hardly got the box out of the packaging before both were begging me to make them Slurpees.
+Unpacking was easy, especially seeing a Quick Start guide that gave an overview.
+Sadly, the one component we were missing was an ice cold beverage.I unpacked, opened the instructions for the step by step assembly.
+Parts were annoying, for sure, like getting the crank into the ice container after ice was in, or getting ice in once I realized my problem and had to dump it out and start over.
+But once it was assembled I added the liquid.
+We chose Ginger ale, because we have nothing else sugar based in the house.Both kids took turns cranking the handle for a minute or so before the ice started to form.
+It was super easy to turn, which at first had me nervous that we were doing it wrong but no, it was fine.The slurpee was hard to dispense from the bottom.
+I would suggest using it on a towel or better yet, a tray.
+There was quite a mess when we were done.
+It was easy to rinse and clean and not too big to store for later.
+The kids seemed happy although they wished out loud for those little spoon/straws that they have at 7-11.I am not sure how often we'll take it out but for the novelty, it was fun.
+Would be a good thing for kids' parties!
+"Yes, this is a little messy and, as an adult, I'd rather drive a few minutes to the nearest 7-11 to grab a Slurpee.
+However, for the four-year-old, this was a treat!The minute she saw it, her face lit up.
+She was thrilled with the fact that she could make her own Slurpees with only a little help from me.
+Yes, it was messy (especially with the little one doing most of the work), so do it in place that's easy to clean.And yes, it seemed to give us a little less Slurpee than we expected, but my daughter was absolutely thrilled with the results.
+The fact is that the two of us had a lot of fun making these treats.I have a feeling that on every warm weekend, I'll be hearing, ""Mommy, let's make Slurpees!"""
+I thought the way this thing operated is pretty neat.
+You basically have a tub of ice and salt in the middle of the unit that super-cools when agitated with a crank.
+The liquid around it (Dr. Pepper in our case) freezes within minutes, creating a reasonable facsimile of a Slurpee.My kids loved helping make it, and it was even fun for me!
+This is basically a tiny ice cream maker.
+There is a cylinder that you fill with ice and salt just like in an ice cream maker.
+Then you pour in the juice or soda and turn the crank until it starts to freeze up into a slushy consistancy.
+It was fun the first time but since you have turn the crank for at least 5 minutes and get only 12 ounces of Slurpee in return, I don't think we'll be using it too much.
+It's a lot of work for just a little Slurpee.
+The concept here is a lot like the old-time ice cream makers, where you use an ice and salt mix to make a super-cooled container (colder than freezing temp), and that chills a liquid quickly enough to turn it into slush/ice cream.There is no blade or anything sharp here.
+You crush your own ice BEFORE you put it into the aluminum container.Add salt to the crushed ice to make it get a lot colder, and then close it up.Next step is to pour the sugary juice/pop/syrup/whatever into the space around the outside of the super cold container.
+They recommend this liquid already be as cold as you can get it before pouring it in!Turning the crank on top helps circulate the sugary liquid around the outside of the cold container, in theory, freezing the liquid into a slushy, sugary mix that then comes out the bottom, into the cup, when you pull the lever forward to allow it through.Problem 1: The lever is really difficult to push in or pull out.
+Once you get it to budge a little to come out, the seal is broken with the canister and stuff begins coming out through every crevice possible.
+That's where it gets sloppy!Problem 2: You are going to have to crank on it for more than 5 minutes (per instructions) to get your drink to freeze.OK, so now we know why we prefer the stuff we get at 7-11 or wherever, because their containers are REALLY cold, all the time thanks to electricity, and they have automatic cranks.Your results may vary.
+but it wasn't.
+First, it is cheap flimsy plastic.
+A lot of ice ends up everywhere so there are puddles all around.
+It doesn't shave the ice, it freezes what ever you add to it to make a slushy icy drink.
+It is a pain.
+Donvier ice cream makers do this by freezing the canister and adding your liquid to it then stirring.
+A lot less mess,better made, and a great end product.
+I would recommend getting that or one of those slushy mugs instead of buying this slushie maker.
+My title might sound a little harsh, but it's true.
+This is one horrible product.
+Let's start with setting it up.
+It comes in a large amount of pieces, and had directions to set it up that go on and on and on---over 15 steps.
+In the middle of the direction, suddenly you need crushed ice and salt, to fill a center chilling chamber.
+I don't know about you, but I don't keep a lot of crushed ice around the house, and if I had some, I wouldn't need a slurpee maker---I'd just make a slurpee from the ice.
+But okay---I am reviewing this, so I go crush some ice and get the 6 teaspoons total of salt to layer with the ice.
+I then recheck and realize I will soon need a soda---the more sugary the better.
+Sugary juice would work too.
+I don't have either, so I go to the corner store and buy a Coke, thinking about a product aimed at kids is kind of oddly reminding me over and over in the directions that low sugar juice or soda won't work.
+But no-one said Slurpees are a nutrition food, so I'm okay with that.
+I finish the many steps, figure out after a bit of trial where they mean I am supposed to pour in the soda, pour it in, and start turning the crank, for the 5 minutes they say to.
+From what I can see, I see---liquid soda.
+I consult the directions and am told sometimes it takes longer---was I sure I put in the crushed ice and salt as called for?
+Yes, I was.
+Was the soda nice and cold?
+I don't even know where to start with this thing.What I can definitely tell you is that after my initial experience with it, I have no desire to put myself through it ever again.
+For all the preparing and assembly that this requires, you will literally get the same exact result if you put some ice in a zip lock bag, take a hammer to it and fill a cup up with your newly crushed ice and the beverage of your choice.
+In fact, you will most likely get better results if you do it that way.The Slurpee maker has quite a few pieces that make up the whole, something you really can't tell from the official photos.
+That's not such a bad thing, you think... until you realize that you're going to have to wash it all later.
+You may not be averse to washing dishes in general but after everything was said and done, I had absolutely no desire to wash this thing for reuse.It takes way longer than it should to put it together, so hopefully you have patient kids.
+That's just one thing that will start to annoy you, but not as much as the fact that you'll have to crank this thing for a full five minutes as per the directions once you're ready to go.
+By the third minute, I wasn't even curious to see what the results would be and was sorely tempted to smash this thing against the wall if it weren't for the mere idea of having to clean up the mess afterward.
+The amount of watered down slush that resulted from my five minutes of vigorous cranking was equal to a couple of Dixie cups worth of liquid and while it was cold, it was in no way comparable to the fine icy slush that a Slurpee essentially is.
+Not only that but as a final insult, the machine leaked all over the place as I opened the dispenser to pour the liquid out.Cheap, sloppy build aside, the most damning aspect of this product is the simple fact that there is absolutely nothing about the process involved that is fun in any way.
+It'd be one thing if you could at least enjoy this with your kids, the intended target of this, because then you could give it high marks based on the experience you get from it.
+This is a complete waste of time, money and ice, even if you get your ice wholesale.
+From its flimsy construction to the truly disappointing results you get for your time and hard work, this thing fails on just about every level imaginable.This so called Slurpee maker is an unbridled piece of crap.
+And for the record, the Snoopy Sno-Cone Machine got it right DECADES ago.
+"Once my kids saw this in a store, they wanted it.
+So after getting one, I was not happy to learn that it is made of VERY cheap plastic, takes a while to actually make a Slurpee, and the results are nothing like they are advertised.
+We have now tried to make a Slurpee a few times, following the directions to a ""TEE"", and yet we usually get a half cup of Slurpee-ish drink.
+While the concept is a good one, I feel that the Slurpee Maker is better in concept than it real life.
+There is no fun to this, it is tedious and boring and the results are kinda lame.
+We tried soda, cool-aid, some flavored High Punch something, and other drinks.
+None came out very well."

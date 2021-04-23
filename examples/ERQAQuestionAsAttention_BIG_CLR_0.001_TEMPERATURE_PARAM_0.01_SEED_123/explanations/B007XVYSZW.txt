@@ -1,0 +1,101 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+How loud is this toy? My nephew loves both dinosaurs & vehicles but I dont want to get him something that will annoy his parents!
+Top sentence(s):
+I just expected my toddler to love it and he did but lost interest quickly.
+"At first sight my son didn't want anything to do with this toy.
+My son played with it for about 30 minutes and totally lost interest.
+My three year old absolutely loves this toy.
+Any pre-schooler - boy or girl - will love this toy.
+
+Question attention weights:
+0.015956316143274307,0.22347316145896912,0.21903358399868011,0.13110263645648956,0.14541426301002502,0.2650200426578522
+Sentence attention weights:
+0.012673553079366684,0.0149708716198802,0.014742015860974789,0.008061826229095459,0.015950610861182213,0.016079148277640343,0.01947259157896042,0.016960103064775467,0.014206032268702984,0.01541757769882679,0.011807112023234367,0.007027873303741217,0.010163810104131699,0.0063657914288342,0.010183529928326607,0.010244278237223625,0.014598261564970016,0.015833543613553047,0.014995051547884941,0.010064960457384586,0.014220054261386395,0.008607501164078712,0.017558220773935318,0.016051126644015312,0.01544315367937088,0.011193007230758667,0.010132458060979843,0.014052080921828747,0.011289994232356548,0.017294002696871758,0.015234928578138351,0.009486489929258823,0.015368427149951458,0.01598729006946087,0.016097651794552803,0.016626307740807533,0.011496889404952526,0.01205957680940628,0.014272241853177547,0.014984337612986565,0.013639857992529869,0.015126094222068787,0.008018995635211468,0.00814883317798376,0.010630912147462368,0.015518106520175934,0.011209546588361263,0.009857069700956345,0.01054076012223959,0.016787858679890633,0.014005769975483418,0.014973299577832222,0.015934264287352562,0.01547339465469122,0.015142410062253475,0.009134526364505291,0.012337075546383858,0.013963199220597744,0.014033288694918156,0.010273310355842113,0.011383692733943462,0.015654224902391434,0.015313980169594288,0.017848758026957512,0.009646973572671413,0.019580980762839317,0.011131050996482372,0.01146948616951704,0.014836020767688751,0.014826380647718906,0.011768372729420662,0.01990877278149128,0.012534866109490395,0.022073611617088318
+0.013874293304979801,0.01732753962278366,0.019502267241477966,0.009635239839553833,0.018307700753211975,0.01454361341893673,0.02029125764966011,0.01769510842859745,0.013657364062964916,0.01347875315696001,0.0062411013059318066,0.005352819804102182,0.011112965643405914,0.007732782047241926,0.0058490196242928505,0.009073754772543907,0.015376688912510872,0.015058530494570732,0.015336400829255581,0.0142469871789217,0.010420785285532475,0.007475643418729305,0.020568309351801872,0.018758481368422508,0.017771214246749878,0.012192105874419212,0.011139496229588985,0.008774582296609879,0.011519775725901127,0.017814332619309425,0.018246693536639214,0.008690569549798965,0.01778479479253292,0.017488909885287285,0.017734717577695847,0.012234313413500786,0.008330564945936203,0.012720983475446701,0.015820341184735298,0.01512073539197445,0.01513694878667593,0.01297840941697359,0.00988571997731924,0.007391408085823059,0.009058807976543903,0.016832957044243813,0.012275672517716885,0.008076382800936699,0.0105276545509696,0.01790882647037506,0.013101324439048767,0.016940994188189507,0.01732458733022213,0.015144829638302326,0.006496775429695845,0.006960209459066391,0.01040977705270052,0.016280006617307663,0.01593349315226078,0.013809730298817158,0.013893592171370983,0.019676586613059044,0.017695963382720947,0.019588489085435867,0.007849237881600857,0.01800643466413021,0.006078631151467562,0.009207691065967083,0.008005279116332531,0.018610753118991852,0.014273853041231632,0.014147085137665272,0.0135069340467453,0.02268340438604355
+0.013603457249701023,0.017405467107892036,0.0191891361027956,0.008831593208014965,0.018514979630708694,0.01496597845107317,0.021200597286224365,0.018105005845427513,0.013492661528289318,0.01417167391628027,0.006483959965407848,0.004768543876707554,0.010576521046459675,0.006914475467056036,0.005755926016718149,0.008820204995572567,0.015584401786327362,0.015167929232120514,0.015456130728125572,0.013372916728258133,0.010767113417387009,0.007131796330213547,0.02121889963746071,0.018911899998784065,0.01791303977370262,0.011828686110675335,0.010872913524508476,0.009103030897676945,0.011126140132546425,0.018125804141163826,0.018391385674476624,0.008194494061172009,0.017916539683938026,0.017815077677369118,0.01793457381427288,0.012825055979192257,0.008472729474306107,0.01223172526806593,0.015727054327726364,0.015280460938811302,0.015022322535514832,0.013041200116276741,0.008870745077729225,0.007023307029157877,0.00849897414445877,0.016647743061184883,0.011905347928404808,0.007830717600882053,0.010104486718773842,0.018302859738469124,0.013232971541583538,0.016974572092294693,0.01776551455259323,0.015339613892138004,0.006936963181942701,0.006534646265208721,0.010248246602714062,0.01618834212422371,0.015850616618990898,0.013066602870821953,0.013883759267628193,0.019769171252846718,0.017786988988518715,0.020217247307300568,0.007276894524693489,0.01918654888868332,0.005999475251883268,0.008965853601694107,0.008353332988917828,0.01889476552605629,0.014004711993038654,0.01480251457542181,0.013209993951022625,0.02409294620156288
+0.014046356081962585,0.01579008623957634,0.017449121922254562,0.008291086181998253,0.017652401700615883,0.014472328126430511,0.021580804139375687,0.01801477186381817,0.013471996411681175,0.013696474023163319,0.006364317145198584,0.004814428277313709,0.010373753495514393,0.006138904485851526,0.006996694952249527,0.008112337440252304,0.014401969499886036,0.017028603702783585,0.015132040716707706,0.012117498554289341,0.012378228828310966,0.007509191054850817,0.020233577117323875,0.018436787649989128,0.017020177096128464,0.01058027520775795,0.010127753019332886,0.011431894265115261,0.010820175521075726,0.019625453278422356,0.016837015748023987,0.008743304759263992,0.016939513385295868,0.017495421692728996,0.017413266003131866,0.015177834779024124,0.007308594882488251,0.011922908015549183,0.015614481642842293,0.01626659370958805,0.014093082398176193,0.014698834158480167,0.009659862145781517,0.006123183760792017,0.009297702461481094,0.01660611294209957,0.011038634926080704,0.0076749869622290134,0.009420638903975487,0.01724104769527912,0.014834078028798103,0.015682246536016464,0.016390018165111542,0.019167721271514893,0.010695126838982105,0.00731584383174777,0.011239046230912209,0.015065246261656284,0.015039898455142975,0.012175828218460083,0.012023883871734142,0.018772460520267487,0.017039742320775986,0.020402295514941216,0.0091403778642416,0.01992512121796608,0.00659911846742034,0.009971712715923786,0.011263864114880562,0.015833983197808266,0.013930652290582657,0.015810849145054817,0.012451755814254284,0.025546597316861153
+0.014692263677716255,0.016307611018419266,0.01844564825296402,0.009941906668245792,0.017868492752313614,0.01346789300441742,0.020300932228565216,0.017216090112924576,0.012604277580976486,0.013625193387269974,0.005771353375166655,0.004686982370913029,0.011412445455789566,0.007863065227866173,0.005996420979499817,0.00839783251285553,0.014514593407511711,0.01573340781033039,0.014769299887120724,0.0147697227075696,0.011211409233510494,0.008286871016025543,0.02034611999988556,0.01865311898291111,0.017382225021719933,0.011664409190416336,0.011591995134949684,0.009856224060058594,0.011406593956053257,0.018551055341959,0.01763836294412613,0.008875589817762375,0.017349619418382645,0.017433730885386467,0.017065221443772316,0.01341310329735279,0.00707831559702754,0.012263649143278599,0.01591609977185726,0.0159267820417881,0.014665390364825726,0.01344987004995346,0.011519285850226879,0.006658115424215794,0.008839118294417858,0.016193445771932602,0.011722510680556297,0.00781239615753293,0.009949145838618279,0.016718430444598198,0.014857794158160686,0.015851255506277084,0.01670009270310402,0.018436534330248833,0.008105648681521416,0.006881058681756258,0.010649085976183414,0.01580854319036007,0.015758438035845757,0.014453249983489513,0.014465954154729843,0.019711488857865334,0.017430221661925316,0.019865447655320168,0.008504677563905716,0.018708020448684692,0.005535821430385113,0.009731321595609188,0.00911424495279789,0.0175794530659914,0.015677770599722862,0.012337690219283104,0.012916408479213715,0.02309611439704895
+0.013782006688416004,0.01769579015672207,0.019915003329515457,0.009186063893139362,0.01874224655330181,0.014618457295000553,0.02113049104809761,0.018006153404712677,0.013186314143240452,0.014217930845916271,0.006059468723833561,0.004516795743256807,0.010867089964449406,0.0071833571419119835,0.005278989672660828,0.008648611605167389,0.015630709007382393,0.014894077554345131,0.015414245426654816,0.014121981337666512,0.010324811562895775,0.007129328791052103,0.021504640579223633,0.019242828711867332,0.018144918605685234,0.012095455080270767,0.011166113428771496,0.008525123819708824,0.011173403821885586,0.018072301521897316,0.01878141425549984,0.008010775782167912,0.01815645769238472,0.017932763323187828,0.01788773387670517,0.012320860289037228,0.008033454418182373,0.012298285029828548,0.015850452706217766,0.015168135985732079,0.01518623623996973,0.012668531388044357,0.00932803563773632,0.006890803575515747,0.00828442070633173,0.01673402637243271,0.01191153097897768,0.007628875318914652,0.010094906203448772,0.018210723996162415,0.013414916582405567,0.01703725755214691,0.017956241965293884,0.015250125899910927,0.006181715521961451,0.006199843715876341,0.009921709075570107,0.016417838633060455,0.016154156997799873,0.013693257234990597,0.01457170583307743,0.020335819572210312,0.018036404624581337,0.02034202590584755,0.006931132636964321,0.018834976479411125,0.005454307422041893,0.008835053071379662,0.007651429157704115,0.01967739686369896,0.01445937342941761,0.01364972535520792,0.013292022980749607,0.023848477751016617
+Questions:
+Any "aggressive" phrases?
+How loud is this toy? My nephew loves both dinosaurs & vehicles but I dont want to get him something that will annoy his parents!
+My son, 3, loves it and can change it no problem, but the racecar driver is the only thing we see and hear. How do we get the dino back?
+For what age is this toy?
+hello, has sounds in Spanish, thanks
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+This is a fairly cute toy I got for my 4 1/2 year old son.
+He loves cars and dinosaurs so I figured it would be perfect for him.Pros:1.
+Easy to switch from car to dinosaur and a small child can accomplish this on his/her own.2.
+No issues at all with the face portion changing from the dinosaur face to the car driver when the toy was switched back and forth.3.
+Very sturdy.
+No risk of pieces breaking off by small children pushing and pulling on them.Cons:1.
+My son played with it for about 30 minutes and totally lost interest.
+It was fun while he was mastering switching from car to dinosaur, but once he had that figured out, it was tossed in the toy box never to be played with again.
+So, we had issues with it being something he'd enjoy long term.
+"****""My name is Horns, I am massive in torso and always in charge.
+Whenever I roar I terrify my fellow dinos, enforcing my command, and nothing could ever get in my way.
+My three solid orange horns and my cladded head shield are part of my mighty attack weapons as I storm into forceful action, that will stun you and frighten those of feeble hearts.
+""Horns the Triceratops is ready to tread heavily or trample violently on with fast frequency, ruling out the competition with a big blue shield and three big orange horns on his huge head.
+His powerful tail, is as dreadful as a crocodile's, (it turns into a spoiler in its dual persona as a fast racing car).
+Pressing the dino mode button Oliver, my five years old grandy, to try many pairs of dinosaur eyes, and choose which one to confront his brother's T-Rex, with solid Horns that will show on his LCD screen.Horns makes awesome alarming sounds revealing his wild and vicious nature, that even gentle Oliver may enjoy while Horns is in his Dino-Mighty phase.
+As a racing car, which Oliver is a big fan, its half Mach speed (1/2 sound speed !)
+vehicle's sounds are deafening.
+When Horns is in Shielded racing car phase.
+Pressing the other button you can hear mighty Horns talk, and he will tell you all about his wild life as a Triceratops.With a big variety of unique sounds and many frightening phrases, Horns will make you guess all the time, what he is going to say next.
+Here, to start with big brother will help in Horns transforming into a favorite race car.
+I hope I could share the kids enthusism and see their eyes expressing pride and joy.
+I hope T-Rex tries to give Horns some space to show his tricks of the Triceratops brand."
+"At first sight my son didn't want anything to do with this toy.
+Literally I offered it to him and he said ""No thank you.""
+I thought maybe at 7 he was just too old for it?
+That didn't make sense to me because he likes younger age toys, anything fidgety/transforming and noise makers.
+When he decided to give it a try he has been playing with it non-stop!
+I like it because it changes from dino to car with ease.
+It makes a lot of sounds and phrases but it's not too loud.
+I do agree with the age recommendation of 5-8 years old.
+I'm glad I got it."
+Personally, I really liked the visual appeal of this toy.
+It's colorful and cute.
+It looked easy to maneuver, and it is, even for a two year old.
+It talks and for some reason, it engages my grandsons, both the two and five year old for long periods of time.
+They can both transform it from dinosaur to vehicle with ease.
+I was pleasantly surprised to find such a well made, fun toy for less than $20, and plan on buying them some of the other dinos.
+"Note:  We got two of these, so my two reviews will be very similar.
+:-)Fun Factor:From the moment she saw Horns the Triceratops, my daughter was in love!
+This is a terrific little toy.
+It manages to look cute and powerful all at once.
+It's got sounds, phrases, and you can personalize it choosing the eyes you want in dino mode and the driver you want in race car mode.
+It was very easy to switch from dino to race car and back.
+The digital graphics for the eyes and race car driver could be just a little brighter and more prominent, but my daughter didn't care - she just loved that she could personalize these.
+They race on kid power - no automatic racing mode - however, they rode smooth and fast on our hard floors.
+We didn't try them on the carpet.
+Also, it was possible to race the Triceratops in both Car and in Dino mode.Assembly:I was very happy to note that there is no assembly required!
+You do need a pair of scissors to remove the 5 or 6 plastic ties holding the toy in the box, but once that's done, it's ready to play with.
+Batteries are already included!Durability:This was an extremely durable toy.
+My daughter and I raced it, crashed it, and played for hours.
+(Okay, so the four-year-old also dropped it on the hard floor many times.)
+After all the hard play, there wasn't a scratch on it!Value:At the current price, this is very good value.
+I do think you'll need to buy two to make racing and pretend a little more fun, but it will stand on its own if you just want to buy the one.
+My 3-year old grandson loves race cars, dinosaurs, and Transformers so he loves Switch & Go Dino Triceratops.
+It's a race car that transforms into a dinosaur - with sound effects.
+Cool racing sound effects when it's a race car and dinosaur sound effects when it's a triceratops.
+The sound effects are annoying after while but you can turn them off.
+This is sturdy toy that comes all in one piece.
+No assembly required.
+And no extra pieces so it's easy to take along in the car or to a restaurant.
+Two AAA batteries are included, but batteries are only required for the sound, not required to play with the toy.
+Any pre-schooler - boy or girl - will love this toy.
+It's awesome.
+My three year old absolutely loves this toy.
+He only had to be shown once how to transform the dinosaur into a race car and from that point on seemed very pleased with himself when he shifted in between the configurations easily.
+My seven year old enjoyed the custom features, changing the dinosaur's eyes, or the driver's pictures and learning a few facts and tips about the triceratops.
+Both boys seemed entertained with the sounds and phases (supposed to be 50, but I haven't heard them all to count) that were emitted from both animal and vehicles and could encourage more noises from a push of another button.Personally, I am really impressed with the versatility that comes with the toy.
+It also seems pretty sturdy with a hard plastic feel, consistent with all the other Vtech brand name toys, and it has been dropped a few times without any problems.
+Furthermore, with me, longevity is not a concern as well with the Vtech name -I am still using the original batteries and it has been a few weeks without any sluggishness.
+I have never had a problem with this company and certainly do not anticipate any in the future.
+With this toy, the fun is endless and I am sure this would be a hit for anyone in the 3-6 year old crowd.
+My 4 year old son did enjoy the transformer feature of this Vtech Switch and Go Dinosaur toy however, after about 30 minutes of play he set it down and hasn't really taken any interest in it since.
+It does have a lot of noises and fun features on the screen.
+I just expected my toddler to love it and he did but lost interest quickly.

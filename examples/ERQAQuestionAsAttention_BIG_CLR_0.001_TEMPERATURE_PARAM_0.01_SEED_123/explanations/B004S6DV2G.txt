@@ -1,0 +1,83 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+what type and how many batteries does it use
+Top sentence(s):
+I wish you could somehow add songs as well because they become very repetitive.
+Good fun for preschoolers."
+My daughter loves Elmo and anything musical and I thought she would love this toy but so far she's been indifferent to it.
+A cute toy, easy on batteries, and sings 6 different numbers that are easy for kids to learn.
+Elmo sings six songs and comes with a microphone, tambourine and drums (if you want to hear something funny, set him up for the drums but leave the tambourine in his hand...Elmo will remark that it's not easy to play the drums with a tambourine).
+
+Question attention weights:
+0.09598155319690704,0.029419761151075363,0.18859241902828217,0.060441989451646805,0.05059748888015747,0.5749668478965759
+Sentence attention weights:
+0.013946198858320713,0.013208913616836071,0.015153622254729271,0.017004335299134254,0.021889694035053253,0.01479860208928585,0.016240546479821205,0.019916288554668427,0.010142212733626366,0.019916288554668427,0.014727506786584854,0.021881181746721268,0.020329145714640617,0.02359074354171753,0.01912546344101429,0.015688398852944374,0.01684250868856907,0.012999773025512695,0.022551504895091057,0.01691269315779209,0.02226974442601204,0.027118848636746407,0.01803302951157093,0.017072103917598724,0.01422327570617199,0.011946761049330235,0.02314416877925396,0.0206969752907753,0.0206969752907753,0.019913775846362114,0.01499379426240921,0.0083650266751647,0.019838867709040642,0.016231652349233627,0.030817875638604164,0.011967221274971962,0.02000552974641323,0.013904944993555546,0.020464418455958366,0.02219630405306816,0.01080375537276268,0.020828332751989365,0.018454445526003838,0.022300943732261658,0.017708737403154373,0.017523406073451042,0.020469384267926216,0.010688705369830132,0.02404377982020378,0.009651336818933487,0.015813006088137627,0.014865405857563019,0.01980620250105858,0.020590845495462418,0.011528659611940384,0.02415613830089569
+0.011013493873178959,0.014174898155033588,0.016582779586315155,0.018986422568559647,0.021177241578698158,0.015270243398845196,0.012135429307818413,0.021762866526842117,0.010082315653562546,0.021762866526842117,0.011079590767621994,0.02038593217730522,0.022332482039928436,0.01955452188849449,0.017637090757489204,0.018125975504517555,0.01668396219611168,0.010876266285777092,0.02147422358393669,0.010505584999918938,0.023190073668956757,0.027003735303878784,0.018914349377155304,0.018492985516786575,0.010626391507685184,0.005578283220529556,0.012565551325678825,0.02184942178428173,0.02184942178428173,0.017276309430599213,0.015533939935266972,0.010339870117604733,0.017656097188591957,0.017892075702548027,0.02932046167552471,0.011908731423318386,0.021761726588010788,0.018258605152368546,0.01924324780702591,0.023250287398695946,0.010702358558773994,0.019907696172595024,0.020961271598935127,0.02700858935713768,0.017932873219251633,0.02008175291121006,0.024035755544900894,0.012784350663423538,0.033918049186468124,0.01101203728467226,0.015399257652461529,0.016447581350803375,0.019943421706557274,0.021009070798754692,0.015106748789548874,0.01963339000940323
+0.014196922071278095,0.014656191691756248,0.014768185093998909,0.017672277987003326,0.023302938789129257,0.011590195819735527,0.011154931969940662,0.02344154566526413,0.009572413749992847,0.02344154566526413,0.01195084024220705,0.018944840878248215,0.02338413894176483,0.01821856014430523,0.019494270905852318,0.018062593415379524,0.012119563296437263,0.011933071538805962,0.025802163407206535,0.012160520069301128,0.025389740243554115,0.023233022540807724,0.017272206023335457,0.01825452409684658,0.01184199471026659,0.008711261674761772,0.014938103035092354,0.02360127680003643,0.02360127680003643,0.016963548958301544,0.013770487159490585,0.010481043718755245,0.0197241622954607,0.018175004050135612,0.027517320588231087,0.008831561543047428,0.02336939424276352,0.017923928797245026,0.02108575962483883,0.021009620279073715,0.011875700205564499,0.020130833610892296,0.013108603656291962,0.02637002430856228,0.019916294142603874,0.019830778241157532,0.019547278061509132,0.014663076028227806,0.02670300379395485,0.014485526829957962,0.01608489453792572,0.013675916939973831,0.023143135011196136,0.022684261202812195,0.014278792776167393,0.021939003840088844
+0.013918794691562653,0.015647077932953835,0.015760794281959534,0.018185829743742943,0.021891169250011444,0.013356494717299938,0.012057187035679817,0.0218543391674757,0.01112170610576868,0.0218543391674757,0.012700583785772324,0.01974203623831272,0.021778710186481476,0.01819106563925743,0.019959280267357826,0.017674585804343224,0.015018604695796967,0.01313949003815651,0.024042366072535515,0.013210471719503403,0.024281231686472893,0.023171531036496162,0.017386548221111298,0.01857648231089115,0.012715097516775131,0.009476717561483383,0.015865903347730637,0.021993592381477356,0.021993592381477356,0.017873698845505714,0.015149013139307499,0.011690485291182995,0.01907864212989807,0.018055731430649757,0.025439640507102013,0.0105016203597188,0.021804004907608032,0.01776421256363392,0.020302027463912964,0.020979756489396095,0.012841000221669674,0.020027631893754005,0.015581769868731499,0.02437286265194416,0.019118718802928925,0.019087856635451317,0.019606776535511017,0.014945575036108494,0.02565935254096985,0.014329027384519577,0.016060126945376396,0.015062457881867886,0.021380051970481873,0.021280646324157715,0.014741882681846619,0.020699739456176758
+0.01515969168394804,0.015185683034360409,0.01570676825940609,0.018267439678311348,0.021459627896547318,0.014295054599642754,0.011643178761005402,0.021781984716653824,0.010966785252094269,0.021781984716653824,0.013101916760206223,0.019831717014312744,0.022227851673960686,0.019464751705527306,0.019638119265437126,0.017971834167838097,0.014655305072665215,0.0140006635338068,0.02366180531680584,0.01461044978350401,0.02258145436644554,0.023958615958690643,0.018076034262776375,0.018819337710738182,0.012974802404642105,0.008410538546741009,0.015986604616045952,0.021929383277893066,0.021929383277893066,0.017657028511166573,0.015535324811935425,0.012091228738427162,0.01846388541162014,0.018274972215294838,0.02423662319779396,0.010409814305603504,0.021673547104001045,0.01698758825659752,0.020076332613825798,0.0208717193454504,0.013210763223469257,0.020087769255042076,0.014499671757221222,0.02415943332016468,0.01910264976322651,0.019216341897845268,0.019894402474164963,0.01465567946434021,0.025454215705394745,0.014201474376022816,0.015866156667470932,0.01563645713031292,0.021068070083856583,0.020999353379011154,0.01542389765381813,0.02016681805253029
+0.014254598878324032,0.013341395184397697,0.013916403986513615,0.01698724739253521,0.024990616366267204,0.009717550128698349,0.010390245355665684,0.025231698527932167,0.007884040474891663,0.025231698527932167,0.011141317896544933,0.01786036044359207,0.025403408333659172,0.018888534978032112,0.018674220889806747,0.018197959288954735,0.009330297820270061,0.010380434803664684,0.027190007269382477,0.011748060584068298,0.02577490732073784,0.023230446502566338,0.01726372353732586,0.017630478367209435,0.010777448303997517,0.007274276111274958,0.013557475991547108,0.025375479832291603,0.025375479832291603,0.01581018976867199,0.012476789765059948,0.009175949729979038,0.020364155992865562,0.018262531608343124,0.0297196414321661,0.0076119741424918175,0.025048431009054184,0.01793023571372032,0.02172742411494255,0.020819706842303276,0.011330844834446907,0.02129942923784256,0.010313520208001137,0.02862253226339817,0.02069619484245777,0.020681453868746758,0.019420145079493523,0.01422846782952547,0.028187593445181847,0.014864722266793251,0.016534999012947083,0.012419694103300571,0.024781782180070877,0.024024691432714462,0.013928914442658424,0.02269819937646389
+Questions:
+Why does my Elmo stop singing in the middle of the song even with fresh batteries?
+Can you adjust the volume?
+what type and how many batteries does it use
+How many batteries does it take to work
+What are the 6 songs he sings?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+"This latest Elmo toy is sure cute, but boy does he come with a big price tag!
+Elmo has 3 interactive toys; a microphone, tambourine, and a set of drums.
+You can switch out which one Elmo is using at the time and Elmo ""recognizes"" each toy and names it.
+He sings songs and moves around.
+Because of this he is not cuddly.
+My daughter and the other children (prechoolers) I take care of had a good time playing with him.I also say that there are other ""add on"" toys that you can purchase to play with this Elmo.Overall, if you have an Elmo fan, this toy will go over well.
+He is cute and fun in the same fashion that made ""Tickle Me Elmo"" famous.Would I have paid the asking price for it?
+Probably not.
+But my daughter isn't a huge Elmo fan.
+She still has been playing with it and having a great time though!"
+We have two preschool-age granddaughters, and when I brought out this box, they jumped up and down in excitement.
+Elmo's battery operated, naturally, and when you turn him on (!
+), he really does rock!
+He comes with tom-tom style drums, a nonfunctional mike, and a plastic tambourine, and kids are encouraged to play along with him.
+Elmo's fully capable of holding the mike and playing both  instruments.
+Our girls liked the drums, but weren't too impressed with with the tambourine.
+What they seemed to enjoy most was dancing while Elmo sings and plays.
+This might grow old quickly, so we decided to keep Elmo at our house for use during their visits, to increase his longevity.
+A cute toy, easy on batteries, and sings 6 different numbers that are easy for kids to learn.
+I really wasn't expecting much from the Sesame Street Let's Rock Elmo, but I'm pleasantly surprised.
+Elmo sings six songs and comes with a microphone, tambourine and drums (if you want to hear something funny, set him up for the drums but leave the tambourine in his hand...Elmo will remark that it's not easy to play the drums with a tambourine).
+My little one smiles widely as soon as she hears Elmo and loves him to pieces, at least for a little while.
+After a while, she gets bored with it (after you go through the songs, Elmo does get a bit stale with subsequent listenings), but while she's into it she'll dance, sway and drum with him, which is cute to watch.
+Elmo is animated rather well and is a lot tougher than he looks.
+He's taken a tumble or two that might be enough to maim lesser toys, but Elmo's apparently built-to-last, so he's still ticking.Overall, the Sesame Street Let's Rock Elmo is an entertaining toy for young children.
+It can get old, but the fact that it also interacts with the Sesame Street Let's Rock instruments (Elmo guitar, Grover microphone and Cookie Monster keyboard) will more than likely add some extra playtime, especially if your children are learning more about music and instruments.
+"My daughter isn't the biggest Elmo fan but since this was the ""IT"" toy for Christmas and I got it from Vine, I thought I'd give it a try.
+It is cute.
+It is also annoying.
+I sense my daughter doesn't like Elmo because his voice gets on her nerves.
+She can read and color Elmo and play with a regular doll but Elmo Dvd's, shows and this talking toy are a no go.
+The toy does recognize which instrument you give Elmo which is a plus for little children who are playing with it.
+The downside is having to buy the other attachments when your child gets tired of the drums or tambourine.
+That will definitely add to the price.
+I wish you could somehow add songs as well because they become very repetitive.
+Since this isn't a hit w my daughter we will be leaving him at Grandma's so the other grandkids might enjoy it."
+"What a fun toy for your little one!
+Elmo is a big 14"" tall and he comes with his own set of drums that he likes to pound away on while he sings six different songs.
+He also comes with a little play microphone and a tambourine so your child can take a turn at the drums.
+Very easy to use, just press his hand and he gets moving and singing.
+There are three other toys that can be purchased to expand your band and make for more interesting play.
+Since he is animated he isn't a soft plush toy that your child can snuggle with, his fur is soft, but his body isn't.
+His mouth opens and closes while he sings and he stands on his own.
+Good fun for preschoolers."
+The 3 and 4 year olds can't stop playing with this toy...they love it.
+It's a fun hit for the adults in the house, too, believe it or not.
+It came completely ready to go, including batteries.
+I highly recommend this toy for the young and young at heart!
+My daughter loves Elmo and anything musical and I thought she would love this toy but so far she's been indifferent to it.
+Elmo's music selection is very limited (I think there's about 6 songs he sings) and the instruments he 'plays' are on the cheap side.
+It gets very repetetive and his high-pitched voice really starts to annoy after a short time.
+My daughter actually prefers to beat on the drums instead of actually playing with Elmo.
+She will be 2 in a month so she's certainly at that age where she understand what he is trying to do, she just isn't all that interested in it.
+I still can't believe the price is set at what it is.
+Truly there is nothing super special about this toy to warrant such a high price.
+I know it's a popular toy but if I actually had to pay money for it, my max would be $30.

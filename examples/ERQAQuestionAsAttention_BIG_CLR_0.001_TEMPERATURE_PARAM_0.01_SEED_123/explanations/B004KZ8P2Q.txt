@@ -1,0 +1,287 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+There's 6 wooden snails, a race-board, and two dice.
+I've already ordered another game from this line, with hopes to add more along.There's no type of competition with it.
+I love that it's an exciting game for children but it's not as competitive as most games are.
+This is a good game for younger children but older siblings and parents wont mind joining in because it's a fun little game that doesn't.
+My 3.5 yo and 5 yo loved it.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.004475129768252373,0.0038251839578151703,0.0043640597723424435,0.0040962425991892815,0.00373182725161314,0.0028690651524811983,0.004378039855509996,0.0036719064228236675,0.004600349348038435,0.004210767801851034,0.004616898950189352,0.004805160220712423,0.004159152042120695,0.004849030636250973,0.004819737281650305,0.004853122867643833,0.004082166589796543,0.00452566659078002,0.005723877344280481,0.005765302572399378,0.001624811440706253,0.002498043468222022,0.004447371233254671,0.005293034948408604,0.004012667573988438,0.0038040848448872566,0.005049748346209526,0.003701806301251054,0.0030669632833451033,0.0037444389890879393,0.00328529579564929,0.003856782102957368,0.004873308818787336,0.003412058809772134,0.003692581318318844,0.0031101685017347336,0.004553661216050386,0.004328257869929075,0.002163086086511612,0.003694395534694195,0.003613139037042856,0.001796263619326055,0.0037748906761407852,0.004681285470724106,0.00422672601416707,0.0051381997764110565,0.0035555881913751364,0.003887398401275277,0.0018750033341348171,0.0019130429718643427,0.002563891466706991,0.003571084700524807,0.003529004054144025,0.004926114808768034,0.002613472519442439,0.004428956191986799,0.0025310972705483437,0.003937453031539917,0.0036661364138126373,0.004320895299315453,0.003917915280908346,0.004289770498871803,0.004790263716131449,0.00391016760841012,0.0024028646294027567,0.0015370798064395785,0.003848455147817731,0.0025637326762080193,0.0015710967127233744,0.0030707416590303183,0.002817736705765128,0.0044713797979056835,0.004200974013656378,0.0046942452900111675,0.0015332550974562764,0.0036449364852160215,0.0038533087354153395,0.0020190647337585688,0.0029431201983243227,0.003672611666843295,0.003474131692200899,0.0027245604433119297,0.003169537056237459,0.0030402732081711292,0.004448629915714264,0.004430475179105997,0.0033025825396180153,0.004497198387980461,0.002706531435251236,0.002703477395698428,0.003031956497579813,0.004164013080298901,0.004479968920350075,0.004205265082418919,0.00450114905834198,0.004631941206753254,0.004933445248752832,0.004475955851376057,0.004285732749849558,0.0045964703895151615,0.002607218688353896,0.004355707671493292,0.004445433616638184,0.0022609448060393333,0.004445433616638184,0.004732917062938213,0.0033760692458599806,0.004316322505474091,0.004410209134221077,0.002927674911916256,0.004167142789810896,0.00538735743612051,0.002187298843637109,0.00475230673328042,0.004121714271605015,0.004471748135983944,0.0034444991033524275,0.004022473003715277,0.0044768741354346275,0.004179423674941063,0.004421799443662167,0.0034967754036188126,0.0026185456663370132,0.0039482638239860535,0.0035629430785775185,0.0025832164101302624,0.002823552116751671,0.004524553660303354,0.003841134486719966,0.004484929144382477,0.0036150452215224504,0.004024086054414511,0.002664834726601839,0.0025389741640537977,0.004750770516693592,0.002574414946138859,0.002082245657220483,0.003109243931248784,0.00445266580209136,0.004570827819406986,0.00445266580209136,0.0046258363872766495,0.0031680334359407425,0.003971832804381847,0.002690740395337343,0.00315669784322381,0.0027238670736551285,0.004345406778156757,0.004078879952430725,0.0035432144068181515,0.0027611684054136276,0.002470206469297409,0.005660968832671642,0.0029642065055668354,0.004740044474601746,0.00498413247987628,0.0020511006005108356,0.003954870626330376,0.004953827243298292,0.0030470092315226793,0.0019881105981767178,0.0028361286967992783,0.005401931703090668,0.004428528249263763,0.0029061208479106426,0.0034233378246426582,0.0048123616725206375,0.0035491432063281536,0.004412736278027296,0.0039781867526471615,0.002111034234985709,0.0022453463170677423,0.004458578769117594,0.0044738370925188065,0.002325889654457569,0.0022594821639358997,0.003046985249966383,0.0021601521875709295,0.004203081130981445,0.0048794071190059185,0.003322192933410406,0.0042495583184063435,0.004114760551601648,0.004493905231356621,0.005345289595425129,0.003879086347296834,0.0038813245482742786,0.003832616377621889,0.0027237143367528915,0.00391916511580348,0.004513257183134556,0.004371385555714369,0.003627591300755739,0.004230135586112738,0.004270151257514954,0.0019575157202780247,0.0042310054413974285,0.003981389570981264,0.004393738228827715,0.0036885591689497232,0.004102302715182304,0.004377100151032209,0.0025191516615450382,0.002388224471360445,0.004871551878750324,0.003300646087154746,0.002300080144777894,0.002181410323828459,0.002431386150419712,0.0041607944294810295,0.0041860113851726055,0.001960768597200513,0.002796678803861141,0.00393269769847393,0.0030971833039075136,0.0038119598757475615,0.004664353094995022,0.004709509667009115,0.0037396030966192484,0.0031792158260941505,0.0037231058813631535,0.00357222487218678,0.003277252893894911,0.0036264946684241295,0.0027531234081834555,0.003576019313186407,0.002336731646209955,0.0030672892462462187,0.004923150409013033,0.0026435088366270065,0.002961850492283702,0.004795841407030821,0.0017916652141138911,0.003968742210417986,0.0045686643570661545,0.004451814107596874,0.0038827701937407255,0.003020728938281536,0.004476442933082581,0.004339875653386116,0.00398847134783864,0.004523987416177988,0.002619975944980979,0.004047933034598827,0.0040693157352507114,0.002849833806976676,0.0029362060595303774,0.004178621806204319,0.004540994763374329,0.003469283925369382,0.0019699321128427982,0.002785161603242159,0.00374432816170156,0.004277756437659264,0.002642314415425062,0.00280582788400352,0.003535141469910741,0.003677480388432741,0.002303171204403043,0.004550313577055931,0.0034237499348819256,0.003899770323187113,0.005000833421945572,0.002407203894108534,0.004459028597921133,0.00444377725943923,0.002098669530823827,0.0026003571692854166,0.0031098120380192995,0.0043928311206400394,0.004390044137835503
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+This is an interesting concept for a game.
+With the basic rules, the snails are competing instead of the players.
+Roll a pair of colorful dice, move the corresponding snails.
+Then try to guess which snail will win.
+You could also assign each player a color if you wanted a more traditional version.
+My pair of 3-year-olds didn't fully understand the idea of trying to predict the winner, but had a bit of fun watching the race and liked to match the snails up with their colors on the track.
+I liked that even though the game is simple, it doesn't look cheap.
+It has nice wooden snails and a sturdy board.
+Our five kids, ages 4-9 years old LOVE this game.
+It's bright colors and pace of the game is perfect for them, and best of all EVERYBODY wins in the game.
+My four year old loves the dice in the game and is always so excited for her turn to come so she can roll them.
+I think it educationally right on par and is a great tool for teaching turn taking skills.
+This game is best for really young children!
+I'd say 2-4.
+My son is almost 4, but he has some learning delays, so this game has proved perfect for him.
+Most of the games that are sold in stores, like Wal-Mart are still too old for him.
+I believe in challenging him, but he just doesn't understand them yet.
+Again, though, this one has proved to be perfect for him.
+I've already ordered another game from this line, with hopes to add more along.There's no type of competition with it.
+There's 6 wooden snails, a race-board, and two dice.
+You roll the dice and whatever color they land on, you move that colored snail up a space.
+If both dice land on the same color, you move that colored snail 2 spaces.
+Sometimes, I had to wonder what the point was!
+It IS a great learning tool, though.
+It teaches taking turns, learning colors, and counting.
+Plus, quality learning time with children is always a good thing.While I received this one free for review, I honestly would have purchased it.
+Before I received it, I didn't even know about this line of games.
+My son has had fun with it, and I'm really glad that it's now part of our game collection.Overall, I'd say if your child is very young, or has learning delays, or simply likes simple games, this is a great choice.
+Snail's Pace is a really nice little game for toddlers.
+As it's very simple, it's not likely to appeal to kids who are any older than maybe 4, but it makes for a great first game for a little one.
+My son is three, and he had fun playing it with me and my eight-year-old daughter.Set-up is simple: unfold the board, place all six colorful snails at the starting point, and begin rolling the dice.Gameplay: There is no competition in this game in that it's the snails competing in the race, not players competing to beat one another.
+It's for this reason that I don't think it would appeal to older children.
+It's really just a simple and fun way to teach toddlers about colors.
+Each person playing takes turns rolling the two dice.
+Whatever colors come up indicate which snail gets to move.
+For instance, if you roll a blue on one die and a red on another, the blue and red snails each advance one space on the game board.Educational Value: I think the value of this is twofold.
+For one, you can have your little one name the colors that are rolled on each die.
+The second part of the equation comes in when you help your toddler make the connection between the color on the die and the snail that gets to advance.
+Another aspect of this game that I like is it teaches my little man that he needs to be patient, as his first instinct was to grab the snail and simply move it all the way across the board.As with every Ravensburger game I own (and I own many!
+), this one is a living example of quality game construction.
+The board is thick, sturdy cardboard.
+The snails are made of colorfully painted wood, and they're large enough to fit quite nicely in my son's hands--which means they're also too big to be a choking hazard.
+Since he still has something of a tendency to put things in his mouth, this is a concern for me.
+My only real quibble is with the dice.
+"This game indicates that it is for ages 3+.
+I'm not so sure about that ""+"" part.
+My younger daughter, who is three (and, to be honest, a rather odd bird), loves the game.
+Her older sister, who is a very typical worldly-wise five-year-old, didn't see the point.The game is very simple.
+There are six wooden snails in six different bright colors, a game board with six different color-coded tracks for the snails to ""race"" on and two ""dice"" with six different colored dots rather than numbers or pips.
+The snails line up at the starting line (the instructions indicate that the leaves are the starting point, but my daughter insisted that the leaves should be the finish line - the reward that the snails are racing for, so we started at the snail end).
+All six snails line up regardless of how many people are playing.
+Players take turns rolling the dice and moving the appropriate snail forward each time its color comes up (a snail gets to move ahead two spaces if both dice come up with its color).
+The players make predictions about which snail will win and which will come in last.
+The winning player is the one who correctly guesses the winning and losing snail.There are some pluses and minuses to this game, which is why I say it's a good game for the right child at the right age.
+It's perfect for my younger daughter because she's not very competitive and she's never been into traditional board games.
+This game allows her to play not to win or lose, but just to see what happens.
+If anything, she feels sorry for the ""slow"" snails and she will ""cheat"" to help them win.
+She really doesn't use it as a game, but more of an interactive toy to play with Mommy or perhaps a bridge to board games.
+It's also good for her because the snails fit nicely in her hands and there are no numbers or reading involved - just color matching.
+She's a very laid-back kid and this game is perfect for her.But if your child is more traditional, this game probabaly won't go over very well, even at younger ages.
+My son is three and is just starting to want to sit and do games with  my husband and I.
+This game is a great introduction to games.
+It is simple enough that he easily picked  up on it and enjoyed playing a couple of games with us.
+The concept of the games is that first the snails are matched to the corresponding snail on the board.
+On the other end of the board are leaves that the snails are trying to reach.
+The object of the game is to roll the dice and move the snail that matches the rolled color and children guess who they think the winning and losing snail will be.
+I like that children do not have a personal game piece that would result in possibly not moving due to that color not being rolled which means that each turn a child gets to move two pieces.
+The games do not last more than 15 minutes which is also wonderful for the shorter attention spans of younger children.
+Finally, the toy feels durable with minimal pieces-- 6 wooden snails, two dice, and a board.
+We are always looking for ways to spend time together away from the TV and other electronic devices weekly and a game like this totally fits the bill in our home with two kids under the age of 4!I found this game to be quite colorful, eye catching, and a whole lot of fun.
+The board for the game is very durable and the wooden snail pieces are also very sturdy ( perfect for little hands)!
+The instructions are short and simple.
+I like that they point out really just to have fun with everything and that you can even mix things up to make a different game every time you play!My preschooler really enjoyed playing this game.
+She has known her colors for quite sometime now but I wanted to point out that this game would be great for kids just learning to recognize them.
+There is the concept of matching, for example you'll roll the two color dice included and then you'll move the corresponding snail of that color along the race way.
+This game will be great in teaching kids how to take turns, that you don't always have to win in every game you play.
+Cooperative gaming can be a lot of fun and that's something we are now trying to get across to our kids who sometimes get really disappointed when they don't win!I highly recommend this game for any child ages 3-5 years old...especially if you are looking for something cooperative!
+This game comes in s sturdy box and contains 6 snails, two colour dice and instructions.
+One quick glance at the instructions by an adult and you are ready to go, which is great when you have impatient kids wanting to play now.
+The game is about matching the colours on the dice to the snails and moving them forward one spot at the time.
+You can use this game to help your child know about taking turns and also matching and learning colours.
+The colours are bright and attractive and the snails are solid.
+They are easy to grab hold of and have a large bottom so it does not take too much fine motor skills to be able to stand them up and move them.This board game is a great introduction to board games.
+It is a simple concept and can be played as very uncompetitive as it is simply about taking turns, however if you have old children that are into winning and losing you could have them choose and winner or a loser before the beginning so that the correct guesser is the winner.
+Me and my son who is just four played it and it was quick and simple.
+Just enough for his attention spell.
+I think it would be better with more than two players but it is still fun when it is just the two of us.Overall this is a great game that I would purchase as a gift for friends with small children.
+"This is such a quick and easy game for younger kids.
+I played it with my son who has trouble understanding the larger games with lots of pieces and steps.
+This snail game is now his favorite toy!
+Really simple to understand for young kids or kids with disabilities, while still teaching them the fundamentals of turns and game playing.
+The pieces are wooden and pretty durable for sticky fingers!
+Great for socialization and plays really fast so that if it's a ""one more time before bedtime"" scenario, it will be quickly over.
+I would recommend this for kids 3-6 and adults can help play too."
+This grandmother tested out this product on her six year old granddaughter.
+We first wrote down our predictions of what color would come in first and last, as the directions called for.
+My granddaughter liked the game so much that we played 4 more games in succession!
+I would call this game a winner.I was hoping to test out the game with her 3 year old brother, but that didn't happen (yet).
+I would think he would respond well to the game, also.
+The game itself takes less than 15 minutes (more like 5min.
+if an older child plays) The colorful wood pieces, wood dice, and heavy colorful cardboard race area are quality made.
+I think this game will become a family favorite.
+This game is very easy to play.
+Line up 6 colored wooden snails on the starting line and take turns rolling the two wooden dice.
+Guess which snail will come in first and which one will come in last!
+Not many games out there where there can be a tie for the win!Game play is quick- good for kids with short attention spans.
+Also gives the opportunity to practice matching colors and taking turns.
+Overall fun game for parents and kids alike.
+This game is very well-built with pieces that will last.
+The snails are wooden, and the board is heavy-duty cardboard.
+The gameplay is very basic, well-suited to preschool aged children.
+My 3.5 yo and 5 yo loved it.
+They both had fun moving the appropriate snail forward according to the colors rolled on the dice.
+It's good for building matching skills and color recognition.
+It's a very quick game, perfect for shorter attention spans and for parents and older siblings that are playing along.
+This is a very well built game with sturdy pieces.
+The game is super simple, roll the dice and move in a straight line.
+There is no strategy or complicated rules to follow.
+Simple for 2-3 years olds to enjoy.
+You can come up with any kind of rule for winning.
+You can simply say the person who gets red wins or person who get the most number of snails win etc.
+The game as it is suggesting to bet on snail that will win.
+Only thing I wish is they had different characters for each color than all snails.
+Well the game does reinforce leaving colors and counting to one.
+I say that because they never move more than one space at a time.
+That's not an issue, it actually makes sense given that they are snails.
+the part about this game that I thought was funny was that the main game seems to be based on guessing the winner.
+The rules have you guess, before the race starts, who will come in first place and who will come in last place.
+To me all I saw here was placing bets on dog/horse racing.
+There isn't any strategy here.
+It's completely based on the roll of the dice.
+I think I got a new game to bring out at my next poker night to mix things up.
+Snail's Pace Race is an incredibly simple game.
+Roll a color, advanced your snail.
+It's easy for younger children to grasp and be able to play with older children.
+You don't have to choose a snail and be competitive, you can all cheer for all snails and find out who wins.
+Or for some healthy competition, choose a snail.
+It's a great way to learn about playing board games and colors.
+I think it's a very simple concept yet so fun.
+Some games are too complicated and overwhelming for children.
+This is not one of those.
+It's from Ravensburger so the quality is superb, far above other board game manufacturers.
+This game is great for a smaller child who can't read or add yet, but who at least knows their colors.
+Just shake the dice and move the colored pieces according tot he colored dots on the dice.
+Couldn't be easier, but at least has minimal rules (don't pick the piece up and throw them; don't move them; take turns).
+This is a great first board game for very small kids.
+Durability is also very good: nice, stiff board; wood piece and dice are decent quality.
+I'm very happy with this puzzle, as are my two and three years olds.
+"Have you played Candyland at least 300 times in your home in the last few months?
+If so, THIS GAME IS FOR YOU!If your child understands Candyland then they will understand this game.
+It's just as easy, but not as mindless for adults as that other childhood classic.
+Snail's Pace Race is a fast game to play so you can easily appease your child by saying ""Okay, one more game and THEN it's bed time"".
+I love that it's an exciting game for children but it's not as competitive as most games are.
+It may be a tad confusing to your child at first, as the game-play is slightly counter-intuitive, but after the first round they will have it down.
+And you will VERY MUCH enjoy having an alternative to Candyland to throw into your family game night."
+"The first thing you'll notice about this game, is how wonderfully well-made it is.
+I was blown away just by the quality of the snails, and how durable the board is.
+You might not notice from the box alone, but it feels and looks rather expensive.The best part, of course, is the gameplay.
+For an early preschooler, this is simply brilliant.
+Using the included instructions, it's extremely easy for everyone to learn and understand, and the rules effectively prevent any one player from being the explicit winner.And because this is just colors on a board, with colored dice, the game is as fair for your three year-old player as it is for you.
+Plus you can create all sorts of variations (including ones with a winner) that keep it fresh.It's one of those rare ""must-have"" items, in my mind, and Snail's Pace is now at the very top of my list as a gift for age-appropriate kids."
+The wooden snails are cute colorful and certainly durable.
+This is a good game for younger children but older siblings and parents wont mind joining in because it's a fun little game that doesn't.
+Take up a lot of your time.
+The way we play is the last snail to cross the line is the winner.
+The snail wins not a player... we just root for the Color we want to while each player takes turns rolling the dice and moving game pieces.
+I was first introduced to this game by a therapist who uses this game at home with her children and with her young clients as well.
+So I would have to say it is Mom and therapist recommended.
+Great for playgroup etc.
+This is a great game for introducing the concept of a board game to the 3-5yr old set.
+The basic game is that the children pick a snail that will win the race and then take turns rolling dice to advance all the snails across the field of play.
+It teaches basic game setup, rolling dice, taking turns and winning and losing without personalizing the win or loss.
+Game play is quick and the set is very sturdy.
+Overall the period of time where this will be a fun game for the kids seem to be pretty short and adults will tire of it quickly because there are no choices that will make the win/loss not completely up to chance.
+"Snail's Pace Race is a game where all the snails race.
+You aren't the snail.
+Each player guesses the winner and loser of the race.
+Then you take turns rolling the dice to see which snail wins and which snail loses.
+Then you win or lose based on your guess.
+The game is quick enough that even small kids (2 years old) stay interested in the game.
+At first, the kids did have a difficult time understanding that they were not a snail, but once we played a couple times through, they got the hang of it.
+We called the guesses a ""hypothesis"" to make it a little more scientific sounding.
+It is fun for the whole family.
+It says you need 2 players, but my 6 year old likes to play alone.
+She just guesses which snails will win or lose and then see if she's right."
+I got this game for my grandkids, ages 5 and 7.
+This is a really easy game to learn and it is quick, so even children with short attention spans will be able to finish the game.
+All the children need to be able to recognize is color.
+You line up the wooden snails and roll both dice, whatever color shows up on the dice gets to move forward one space.
+The snail to reach the finish line first is the winner.
+It is that simple.
+We had a lot of fun playing with the kids, and they were able to play together without help once they had played a couple of games.
+I even found one of the kids playing by himself and racing all of the snails just to see which one would win.
+It is a quick, quiet game that will keep your children busy for a while.
+We even varied the game by only using one dice, which made the game a little longer.
+We also chose a color of a snail not being used and made up a rule that if anyone rolled that color, their snail went back a space.
+The possibilities are only limited by your imagination.
+I highly recommend this game.
+I love the wooden snails durability.
+They appeal to my Waldorf-aspirations.
+;)  My daughter was so excited to play this game when she saw it.
+But, the cooperative aspect of it didn't really appeal to her.
+Basically each child rolls two dice that have colored spots on them (corresponding to the color of the snails).
+Whatever colors you get, you move that snail.
+The instructions say you can try and guess who will be first and who last--but that didn't seem to appeal to her.
+Basically, we played it once and she has not asked to play it again, which is not typical for a new game in our house.I do plan to use it with her baby brother in about a year to learn colors.
+If my opinion changes, I'll rewrite my review.
+:)For preschool games,  Hi-Ho Cherry-O,Horton Hears a Who - You to the Rescue,Richard Scarry Busy Town,Tomy Pop-Up Pirate Game, andYahtzee Jr. Mickey Mouse Clubhousehave all been more popular in our house.
+My girls (3.5yrs & 6yrs) really enjoy cooperative games so I was excited to share this one with them.
+The cooperative games we're used to typically involve the children working together and winning together.
+This game is different in the fact that they suggest children each guess who which snails will win..therefore, allowing a child to ultimately win or lose.This game also was not intriguing enough for my 6yr old to want to play again.
+However, I do like the fact that my 3.5yr old enjoys playing this game on her own.If you're looking for a truly cooperative game, that is a tad more educational too, for this age range I highly recommend you check outPeaceable Kingdom / Count Your Chickens Cooperative Board Game
+The Ravensburger Snail's Pace Race is a good Board Game for small children.
+It teaches Children to play with others.
+This game teaches children to how to take turns and give other a chance to play.
+It also teaches simple counting.
+This toy is a tool that enhances the basic skills of living and playing and getting along with other children.
+"My daughters (ages 6 and 8) have been playing this game since it arrived.
+They've played it with just the 2 of them, and they've played it with some of our neighbors (ages 3, 8, and 10).
+The kids take turns rolling the dice, and then moving the snails.
+The first snail to the finish line wins BUT the kids don't play against each other; i.e.
+each snail (game piece) doesn't represent a particular player.
+Instead, each player guesses which snail s/he thinks will cross the finish line first and last and whichever person(s) guesses both the winner and loser correctly wins.Although my girls aren't ""learning"" colors and numbers since they're older, they have fun playing a game where skill doesn't determine the outcome, plus they enjoying guessing the winners and losers.The neighbors even knock on our door and ask to come inside and play the game - even if my daughters aren't here.As a parent I like that it's not a competitive game as well, that it keeps their attention, and that no one cries when the game is over (because they lost).The game board is bright and sturdy, the snails and dice are well made, and the children have fun playing it over and over again."
+As with all of Ravensburger's products (games, puzzles, etc.)
+this product is well made and features solid, sturdy parts and bright and bold colors that catch the eye.My 4 year old and I had fun with this right out of the box and played several times.
+Chunky, brightly colored wooden snail game pieces are easy for little fingers to grasp and move across the board.
+The game helps young children identify colors and counting, but the purpose of the game is to emphasize that it's not who wins or loses in this race, it's all about having fun.
+Players are supposed to guess which snail will win and which will come in last, but you can easily change the rules of the game to suit your own taste.Even after playing a few times with me, my daughter had fun playing with this on her own both playing as the game should be played and making up her own rules.
+My nieces and nephew are 4 and they really enjoyed this game.
+The object of the game is to predict which of the 6 snails will make it to the finish line first and whoever guessed right wins.
+That's good for teaching kids to make and confirm predictions in my opinion.
+I did find it weird that you have to use all the snails regardless of how many people are playing though.
+I have other Ravensburger products and puzzles and they are all high quality cardboard and/or wood, unlike the cheap way most things are made these days.The kids really liked taking turns with this, counting the spaces, and can work on color recognition, so this game helps with several developmental skills.
+I wouldn't really recommend this for older kids though because it doesn't keep the attention for more than one game so that's why I gave it 4 stars.
+It would be nice if there were some variations of the rules for the older kids.
+Overall, a good product!
+"Quality:As usual, the quality of this Ravensburger game is stellar!
+You can tell that the game maker takes special care in creating a quality product.
+The board and game pieces are sturdy and perfectly suited to little hands.
+The colors are bright and the illustrations of little animals on the board are fun and engaging.
+The game rules are simple and easy to understand for even the youngest child.Fun:I think that this game may be well-suited to a young child who is just learning their colors, however for an older preschooler, the rules are way too simple.
+This simply is not challenging at all.
+My daughter, her grandma, and I played the games by the rules included first.
+My daughter was bored stiff.
+Her grandma and I were stifling our yawns.
+Then, my daughter began to make up her own rules.
+She had a lot more fun, however, there were really only so many variations she could come up with based on the configuration of the board.
+Although she played on for another 45 minutes, her grandma and I were struggling to stay awake through it.Conclusion:Well, after that one night, my daughter hasn't wanted to play again.
+Her response, ""it's just not that fun"".
+This one is now sitting in the closet and I don't see much hope of her pulling it out in the near future.
+Kudos on the quality and I'll look for more of their games in the future, but this one is far too simple for the average four-year-old."
+"I've never found a board game as perfect as this for preschool children.
+To fully participate, all they need to know are 6 basic colors (red, green, etc.-no lavender or mauve) and how to count to 2.
+The wooden snails (game pieces) are smooth, painted wood, large enough for small hands to easily handle.
+I gave it 5 stars for ""educational value"".
+Your child won't be ""educated"" mentally, but will learn that a game can be enjoyed without the pressure of winning or losing.
+My 5 year old granddaughter tends to not enjoy a game if she doesn't win.
+There will be plenty of competition when she's older, why burden children with it so early?
+The 5 year old, my 2 1/2 year old granddaughter and I played Snail's Pace Race several times.
+It's a short game,so you won't be ""stuck"" for 30 minutes, unless you want to be.
+We laughed and really enjoyed ourselves, and each other, without any pressure to win.
+Please note that most 5 year olds will not find this game particularly fun.
+She enjoyed it because it's something the little one could really understand and share.
+I give Snail's Pace Race 2 thumbs up!"
+"I love this game for little ones.
+The wooden snails are really big and chunky, so perfect for chubby little hands to move.
+The game is not competitive for the players (although the snails are battling it out), so the mood while playing was more like cheering spectators than frustrated kids winning or losing.
+There's practice in how to roll dice, and how to count out ""one"" or ""two"" correctly.
+Color identification, too, although my daughter already has that skill down pat.
+It was a quick game and didn't try my patience (or my daughter's), and was over at just the right time.
+A simple, ideal game for very little people."

@@ -1,0 +1,124 @@
+Top question(s):
+How many amo does it hold?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+My kids are big fans of Nerf guns and this one did not disappoint.
+The glow in the dark feature adds extra fun to regular Nerf Guns.
+I turned around to see her taking her own turn against the ducks.
+My 8 year old son loves it.
+And then they can shoot away!
+
+Question attention weights:
+0.10037071257829666,5.6561890232842416e-05,0.0026284100022166967,0.732021152973175,0.16492316126823425
+Sentence attention weights:
+0.010132650844752789,0.014674149453639984,0.008737863041460514,0.010667485184967518,0.011138586327433586,0.012357723899185658,0.006571291014552116,0.011929898522794247,0.008389796130359173,0.008979075588285923,0.003589861560612917,0.003977229353040457,0.010364831425249577,0.012452195398509502,0.007902247831225395,0.012652755714952946,0.013025465421378613,0.018558716401457787,0.010818388313055038,0.012000934220850468,0.005438760854303837,0.012334686703979969,0.012153209187090397,0.008306416682898998,0.013717785477638245,0.007049121893942356,0.01577123999595642,0.018369348719716072,0.00365513120777905,0.0151309659704566,0.008353853598237038,0.006090756040066481,0.011475282721221447,0.006633687298744917,0.008061540313065052,0.004016172606498003,0.015197837725281715,0.012250463478267193,0.004614979960024357,0.008599468506872654,0.019929885864257812,0.0026200897991657257,0.013359310105443,0.011641516350209713,0.012050608173012733,0.014372426085174084,0.00874935369938612,0.008441268466413021,0.004728091415017843,0.013502282090485096,0.013516823761165142,0.009803143329918385,0.01146661676466465,0.013828040100634098,0.011766120791435242,0.010862438939511776,0.009431013837456703,0.008924759924411774,0.011462634429335594,0.016479920595884323,0.010747873224318027,0.010939204134047031,0.00838246289640665,0.008389250375330448,0.006594291888177395,0.014419246464967728,0.011462634429335594,0.004958140663802624,0.012965860776603222,0.01174013689160347,0.004180138930678368,0.004950702656060457,0.010901214554905891,0.0060307979583740234,0.011495248414576054,0.012080901302397251,0.0056856293231248856,0.012299266643822193,0.0048659625463187695,0.008696344681084156,0.007281915750354528,0.007550378330051899,0.01767679862678051,0.008432350121438503,0.011552988551557064,0.011433686129748821,0.002906405832618475,0.013454096391797066,0.008312725462019444,0.009429649449884892,0.007195110898464918,0.012637674808502197,0.012572728097438812,0.004738472867757082,0.012909415178000927,0.01430833525955677,0.005494377110153437,0.005491466261446476,0.011757963337004185
+0.009365281090140343,0.012265452183783054,0.00809130072593689,0.009103132411837578,0.011745009571313858,0.009731936268508434,0.007633504457771778,0.009491117671132088,0.008937529288232327,0.00818680226802826,0.008007926866412163,0.009323690086603165,0.00901025254279375,0.010198731906712055,0.010957615450024605,0.01111249066889286,0.010231361724436283,0.017340954393148422,0.010569669306278229,0.012992323376238346,0.005786152556538582,0.011045214720070362,0.009951895102858543,0.008666417561471462,0.011413868516683578,0.008423089049756527,0.01208770927041769,0.016528453677892685,0.0060899583622813225,0.014365198090672493,0.009875234216451645,0.011701474897563457,0.009708520025014877,0.007476754020899534,0.012499283067882061,0.004424446262419224,0.011459528468549252,0.00972758512943983,0.006022071931511164,0.008625784888863564,0.015020851045846939,0.00724920816719532,0.01074628159403801,0.009650257416069508,0.00987637136131525,0.011452815495431423,0.008218892849981785,0.007971529848873615,0.006539821159094572,0.012112874537706375,0.010324633680284023,0.010318278335034847,0.016124006360769272,0.01338998880237341,0.008162936195731163,0.011058111675083637,0.010282974690198898,0.00695964228361845,0.009151076897978783,0.01729876920580864,0.008429434150457382,0.017707740887999535,0.007093935739248991,0.008617471903562546,0.0069544194266200066,0.01038008090108633,0.009151076897978783,0.006146635394543409,0.011382538825273514,0.011157538741827011,0.006382578052580357,0.009570572525262833,0.009343279525637627,0.009954109787940979,0.009305327199399471,0.014243521727621555,0.008684458211064339,0.009700764901936054,0.00588929932564497,0.011439000256359577,0.009185795672237873,0.012514131143689156,0.014146440662443638,0.008983992971479893,0.010365315712988377,0.01073367241770029,0.005424607545137405,0.00949612632393837,0.011445513926446438,0.015430007129907608,0.012564699165523052,0.0096015315502882,0.009918421506881714,0.006682060658931732,0.017962424084544182,0.011502565816044807,0.004950742237269878,0.006155652459710836,0.009318465366959572
+0.009639307856559753,0.009943976998329163,0.009265659376978874,0.010478440672159195,0.008634558878839016,0.009438036940991879,0.009068388491868973,0.01072679739445448,0.011951697990298271,0.010469703935086727,0.007922363467514515,0.00801993627101183,0.012180477380752563,0.009974250569939613,0.013474678620696068,0.011903979815542698,0.011488215066492558,0.017276406288146973,0.013264570385217667,0.00852371845394373,0.006047762930393219,0.00928817130625248,0.011366807855665684,0.012102343142032623,0.012486917898058891,0.010672067292034626,0.010927869006991386,0.012212477624416351,0.007176798768341541,0.012402609921991825,0.01033072266727686,0.01092500053346157,0.010280400514602661,0.00927057396620512,0.006081910338252783,0.004508316051214933,0.010457692667841911,0.010948476381599903,0.00764590036123991,0.007618700619786978,0.011451071128249168,0.008656272664666176,0.01194357592612505,0.011290851049125195,0.010379825718700886,0.010320780798792839,0.01120062917470932,0.010384175926446915,0.00851171649992466,0.01171078346669674,0.011319290846586227,0.010634798556566238,0.011892092414200306,0.014009779319167137,0.007694705855101347,0.010296941734850407,0.011329726316034794,0.007929467596113682,0.010811790823936462,0.009523177519440651,0.00899901706725359,0.01078869216144085,0.0077190762385725975,0.009669501334428787,0.00584151316434145,0.009136981330811977,0.010811790823936462,0.0067643471993505955,0.01003367267549038,0.011990451253950596,0.011372076347470284,0.00851662177592516,0.00934457965195179,0.007521377876400948,0.011019175872206688,0.012567009776830673,0.011889394372701645,0.011170179583132267,0.010712074115872383,0.01009151991456747,0.00708953570574522,0.0072576189413666725,0.017401695251464844,0.011235925368964672,0.010911339893937111,0.012949432246387005,0.00835562963038683,0.008517105132341385,0.006565365474671125,0.011284529231488705,0.009400520473718643,0.010441474616527557,0.010622918605804443,0.007910340093076229,0.01183483749628067,0.009412774816155434,0.0059588635340332985,0.0084313303232193,0.010771584697067738
+0.010559745132923126,0.011451088823378086,0.01013823039829731,0.01201306190341711,0.009069770574569702,0.011653518304228783,0.008279630914330482,0.013092498295009136,0.011173192411661148,0.01164337806403637,0.004197977017611265,0.003963673487305641,0.012958234176039696,0.012207319028675556,0.009230123832821846,0.013060087338089943,0.013980720192193985,0.01619621366262436,0.013250867836177349,0.00828537903726101,0.006358515936881304,0.010876969434320927,0.013385371305048466,0.01130866352468729,0.01400532852858305,0.009078705683350563,0.013839869759976864,0.011896966956555843,0.004859683569520712,0.012425851076841354,0.008959629572927952,0.005978898610919714,0.01188988983631134,0.00822157971560955,0.004278641659766436,0.00539437448605895,0.013554038479924202,0.013317601755261421,0.00679059000685811,0.007937067188322544,0.013253537006676197,0.0037735323421657085,0.013919617980718613,0.01355067640542984,0.012664525769650936,0.012869591824710369,0.011720648966729641,0.01126454584300518,0.007036030292510986,0.012737937271595001,0.014224783517420292,0.010219532065093517,0.00822693482041359,0.012783492915332317,0.011447828263044357,0.010180627927184105,0.0098388297483325,0.010429036803543568,0.013101285323500633,0.009004008024930954,0.011769592761993408,0.006405916530638933,0.009406006895005703,0.00969243235886097,0.006437100004404783,0.012227177619934082,0.013101285323500633,0.006091479677706957,0.011085223406553268,0.012116852216422558,0.007261183112859726,0.0049456460401415825,0.01107087079435587,0.004680922720581293,0.013163324445486069,0.010398258455097675,0.00833179336041212,0.013605005107820034,0.007823185063898563,0.007712099235504866,0.005961393006145954,0.004702749662101269,0.017911825329065323,0.010404246859252453,0.011881779879331589,0.012759232893586159,0.005367516074329615,0.01153142936527729,0.005711061414331198,0.007462712004780769,0.005695664789527655,0.013243809342384338,0.013088379986584187,0.005732404068112373,0.008292625658214092,0.011374969966709614,0.0073616961017251015,0.007998318411409855,0.01318285521119833
+0.011603260412812233,0.011206740513443947,0.009755770675837994,0.012144651263952255,0.009744402952492237,0.010517837479710579,0.010739029385149479,0.012743929401040077,0.013470026664435863,0.01274200715124607,0.005214860197156668,0.005023458506911993,0.01323743723332882,0.011891534551978111,0.010309268720448017,0.012516779825091362,0.013545352034270763,0.018080418929457664,0.011977913789451122,0.008032594807446003,0.006770573556423187,0.010031412355601788,0.013382820412516594,0.011876609176397324,0.013563152402639389,0.009768838994204998,0.013236893340945244,0.01119778212159872,0.004781270865350962,0.009709232486784458,0.011114387772977352,0.007088667247444391,0.010242076590657234,0.0075707389041781425,0.0033358633518218994,0.005572606343775988,0.011541597545146942,0.013062257319688797,0.008404985070228577,0.006945931352674961,0.015539456158876419,0.00662052258849144,0.013844948261976242,0.011911439709365368,0.011543920263648033,0.010887344367802143,0.01246627513319254,0.012235039845108986,0.00758452108129859,0.011240221560001373,0.013636358082294464,0.008848625235259533,0.009941504336893559,0.012529526837170124,0.008858618326485157,0.010368130169808865,0.010522271506488323,0.01031638402491808,0.013192637823522091,0.00921764224767685,0.01077271904796362,0.007440068293362856,0.008658870123326778,0.008959103375673294,0.005363688338547945,0.01100149005651474,0.013192637823522091,0.005484947934746742,0.011636912822723389,0.01160387136042118,0.007225885055959225,0.0057914601638913155,0.009787390008568764,0.004208550788462162,0.012895594350993633,0.009637896902859211,0.008819769136607647,0.013440973125398159,0.011493765749037266,0.006949800997972488,0.005891875829547644,0.003726211143657565,0.01948491483926773,0.012714537791907787,0.011166342534124851,0.012453773058950901,0.007258612662553787,0.010492954403162003,0.004888896364718676,0.006739482283592224,0.006734677590429783,0.012619368731975555,0.013188313692808151,0.007407092489302158,0.008437898010015488,0.009150408208370209,0.006249690894037485,0.008955859579145908,0.013073361478745937
+Questions:
+Does it need batteries to shoot? Or are they optional?
+How can I get extra discs?
+does it jam?
+How many amo does it hold?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+Now this is an ultra-fun toy!
+The kids got a huge kick out of it - it's easy to load, easy to cock, and easy to fire.
+In general we found the discs to be pretty accurate.
+Also, the glow-in-the-dark novelty is fun.At one point, the gun jammed, but before I could get to it, the kids had already cleared it, and were up and going again.
+They are very pleased, and so am I!A word of warning, though.
+The discs are very bouncy, and will rebound a good distance from a hard target.
+The size of the discs means that you will quickly start to lose discs, so you will want to buy someextras.On the plus side, though, when I was accidentally shot in the back of the leg, it only stung a little.
+Which is good.
+But, I would not want to be shot in the face with this toy, especially not at close range.
+Make sure you talk to the kids about gun safety!To boil it all down - the kids love this gun, and have a great time playing with it.
+Get them a toy they will love, get them a Nerf Vortex Lumitron!
+(Review of Nerf Vortex Lumitron)
+We just got this in the mail a few days ago and my daughter has taken it outside every day.
+She loves it, and the kids in the neighborhood have been having fun with it too.
+My daughter is only outside for a short time before everyone starts coming over to also have a try with it.The gun has a cartridge that comes off for easy loading, and then snaps back on nicely.
+There is a black light inside the cartride that kids can turn on to charge the glow-in-the-dark discs.
+And then they can shoot away!
+The glow in the dark feature adds extra fun to regular Nerf Guns.
+I also figure it is going to make it easier for my daughter to find them after she shoots them all.We definitely will be looking to buy more discs if they sell extras.
+I can tell this is going to get even more use as warmer spring and summer nights start.
+I am also betting at least a few of the kids on our street will soon be getting one as well.
+It is a big hit.
+Awesome!
+This is the best Nerf gun I have ever shot.
+My 8 year old son loves it.
+He has no problem loading the disks into the magazine or loading the magazine into the gun.
+It fires perfectly.
+The added touch of having the disks glow in the dark is also great.
+It not only adds to the enjoyment of watching the disks fly, but it is practical as well; it definitely helps finding the disks in a darkened room.The clip holds 10 disks (which is what you get with your purchase).
+We have already ordered another clip with 10 disks.
+This will make it much more fun as we won't have to stop to reload as often.My 16 year old son also thinks it shoots great.
+He's owned several Nerf guns over the years and he says this one shoots strong and straight.
+He could stand 20 feet from any given target and hit it 8 out of 10 tries.What fun!
+Always buy directly from Amazon and you will get a great buy and fast delivery!
+Nerf discs shoot far, and the Nerf Vortex Lumitron gets you off to a good start with the little buggers.
+I received this and theNerf N-Strike Rayvenfor review, and both feature glow in the dark darts/discs.
+This is not only cool in itself, it helps you find the darts/discs after you shoot them.
+This is especially helpful with the discs, since they are like little frisbees and really fly far.
+The gun needs to be cocked between shots using the handle on the front, which takes getting used to but works well once you do.
+It needs batteries for the light that gets the discs glowing, but can be used without batteries if you want, since they aren't needed to propel the discs.All in all another fun toy gun from Nerf.
+"Holy Cow!
+The NERF VORTEX LUMITRON is a blast!
+When I pick out this toy, I thought that maybe my eldest daughter (14) *might* like it.
+But the moment it arrived, my husband and youngest daughter (6) rushed for it.
+Soon they had it opened and ready to go.
+But what to shoot at?
+Let's just say our house is a ""target-rich environment.""
+My youngest produced a number of rubber ducks which she lined up on an ottoman.
+My eldest stood and watched while the other two took turns and I watched distractedly from my computer.
+Soon, however, I overheard the eldest saying, ""Say hello to my little friend!""
+I turned around to see her taking her own turn against the ducks.
+By now, they had added a small metal mailbox to the mix, and they were trying to shoot the ducks into the mailbox.
+This went on until dinner time and for several evenings thereafter.I confess that I never even touched the thing - until yesterday.
+But I wasn't shooting at no ducks.
+I don't know what came over me, but I saw it laying there and I picked it up.
+Looking for a worthy target, and I am embarrassed to admit this, I spotted my husband's head.
+I ordered this for my almost-five year-old son.
+He got it for Easter since there is no better way to celebrate Jesus' return from the grave than to run around shooting things with a nerf gun - at least that is the way I see it.
+I was a little worried that the gun might be too difficult for him to use but so far he has done very well with it.
+Loading the magazine hasn't proved too difficult and the glow in the dark disks shoot very well.
+I don't know if I'd say they are accurate to 35' but that really isn't important with a gun like this.
+In fact, I'd argue that too much accuracy in a toy gun like this might be a bad thing.Just running down the basics, the glow in the dark charger works well in the magazine.
+You can also charge them up in sunlight as well, and a black light also works well.
+I'd also add that a 405nm laser works very well also.
+The XLR disk bullets are excellent.
+Not too soft or lightweight, but not dangerous at all.
+Even our 10 lb.
+Pomeranian doesn't seem fazed by getting shot with them, and he tolerates the occasional random shot quite well.
+We don't let the kids shoot AT the dog, but sometimes a stray disk goes his way.
+Another nice thing is that they don't have enough mass or velocity to break things easily either.
+So far no vases knocked off of bookshelves and grandma is safely in her urn on top of the fireplace mantel even though she has taken a few hits.We have lost a few of the disks, and it couldn't hurt to have some spares, but overall this is a great gun for us 2nd Amendment loving families to let our younger children play with.
+I would note that our 3 year-old daughter cannot operate the gun yet, but 5 years old seems to be the turning point to be able to use this gun effectively.Overall I'd give it 5 stars, there are some imperfections but the general playability is excellent and it is a well-designed and COOL gun!
+This thing has nice heft and pump action.
+It has a clip that takes batteries in order to turn on a light that charges up the glow discs that is uses as ammo.
+It is cool to say the least.
+It's easy to lose the discs, but that's not the guns fault.
+Big kids and little kids will have fun with this Nerf gun.
+I do as do my coworkers.
+The disc format of ammo is a nice change from the dart version.
+And what kid doesn't love glow in the dark!
+Having a clip that actually lights up to charge the glow in the dark discs is an awesome idea.
+I whole heartedly recommend this toy.Notes:- Sweet pump action.- Removable clip that charges up glow in the dark discs- Solid quality unit- A ton of fun
+My kids are big fans of Nerf guns and this one did not disappoint.
+The discs do glow well and the cartridge which holds them has a light in it to make sure they remain luminescent.
+The gun is sturdy and works well.
+My kids had no problem figuring out how it works.
+I see replacement discs and supplemental supplies for this style gun are well stocked at both Walmart and Target.
+Because of the distance these discs shoot this toy is much more suited to outdoor play and inside play which can be done with many Nerf guns.
+I still feel the cost of most of these guns is higher than what it should be, but perhaps I don't understand the cost of manufacturing well enough.
+I like that this gun does offer a different look, action, and disc feature than traditional nerf darts.
+Nerf has really outdone themselves with the Vortex Lumitron.
+I took the gun over to a friend's house, who has a couple of younger kids.
+Passed it around, got an idea of what the kids thought as well as the adults.
+The verdict was universally positive.
+This is a solidly built piece of gear, so it will withstand a lot of running around with it, dropping it, knocking it against the wall or whatever.
+Batteries will light the thing up, making it really cool at night or indoors in the dark.
+They aren't kidding about the range of the foam/rubber discs it shoots - these things will sail pretty accurately for about 25-35 feet, but will go even farther than that (just don't expect to hit a target with any reasonable accuracy at those longer distances.
+The discs are definitely soft enough that you don't have to worry about hitting someone, but still I don't recommend blind siding someone in the face if you can help it.
+All in all, a great toy that should last a long time.

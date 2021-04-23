@@ -1,0 +1,173 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+(as I'm sure most of us suspected) You need to spend time smoothing it out.
+Now I just need to figure out how to hang them or figure out what else I want to with them.The product is easy to use and it goes a long way.
+Sometimes it's good to preserve a 1000 or 2000 piece puzzle that took a lot of effort to assemble.
+It takes few moments to figure out how much adhesive to apply.
+I would recommend a couple of coats to make sure that it got completely covered.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.009336576797068119,0.007307138759642839,0.007531215902417898,0.008876529522240162,0.0064117820002138615,0.0050277188420295715,0.007844783365726471,0.0038347525987774134,0.007418566383421421,0.008401991799473763,0.009297244250774384,0.005728453863412142,0.0033792455215007067,0.006658650003373623,0.00700727105140686,0.004634281154721975,0.007976246066391468,0.004477590322494507,0.004548223689198494,0.00421118875965476,0.004358954261988401,0.005914370995014906,0.007806736044585705,0.008836102671921253,0.011075764894485474,0.007400436792522669,0.008518796414136887,0.009763569571077824,0.0063054547645151615,0.006704825442284346,0.00788076501339674,0.005967346951365471,0.009308758191764355,0.006921587977558374,0.0068509639240801334,0.008695065043866634,0.008483278565108776,0.006492340937256813,0.004292208235710859,0.00869002565741539,0.006786233279854059,0.00679972767829895,0.005646612960845232,0.002506270771846175,0.006618309300392866,0.0051939161494374275,0.010429007932543755,0.00233199424110353,0.009122109971940517,0.006578940898180008,0.006630317773669958,0.004169350024312735,0.004933473654091358,0.005348522216081619,0.006534093990921974,0.008036580868065357,0.007619678974151611,0.0059095630422234535,0.0042929681949317455,0.005117947235703468,0.005956275854259729,0.0026513789780437946,0.00718288728967309,0.0027647751849144697,0.003541351528838277,0.0068105170503258705,0.007250937633216381,0.00581819424405694,0.007457441184669733,0.004833565093576908,0.004350953735411167,0.007850848138332367,0.008593258447945118,0.006463285535573959,0.0056435889564454556,0.00542178051546216,0.0032809297554194927,0.0034258526284247637,0.0068605318665504456,0.007862946949899197,0.005338697228580713,0.006653057876974344,0.0036918630357831717,0.005471671000123024,0.004161009564995766,0.0030691304709762335,0.005029691848903894,0.006685796193778515,0.002700280863791704,0.006303428206592798,0.007208401802927256,0.004232726525515318,0.0032409781124442816,0.005386472679674625,0.0033660386689007282,0.0025735923554748297,0.005252816714346409,0.003894553752616048,0.008822019211947918,0.006559198722243309,0.0066092172637581825,0.005381441675126553,0.008863561786711216,0.006048751994967461,0.0062749991193413734,0.004343125969171524,0.004031920339912176,0.006711173802614212,0.008468793705105782,0.009639274328947067,0.009236701764166355,0.008610374294221401,0.006484384648501873,0.006833527237176895,0.007487439084798098,0.009770548902451992,0.006280424073338509,0.008952494710683823,0.008659281767904758,0.0073171150870621204,0.005069268401712179,0.006359747610986233,0.008703017607331276,0.005134877283126116,0.008703017607331276,0.00440580677241087,0.008221524767577648,0.0036258443724364042,0.004037180449813604,0.007451856508851051,0.004007262643426657,0.005249155685305595,0.005209457129240036,0.010180621407926083,0.006775525398552418,0.006211522966623306,0.006673587020486593,0.008704743348062038,0.0077954912558197975,0.0031727622263133526,0.008344446308910847,0.009397927671670914,0.0062920404598116875,0.006320336367934942,0.008603008463978767,0.007765212096273899,0.007642427925020456,0.010692451149225235,0.00700149592012167,0.003421662375330925,0.006720708683133125,0.0035114018246531487,0.003598051378503442,0.007007742300629616,0.0023464891128242016,0.007803027052432299,0.007389605510979891
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+I got this awhile ago, but only recently finished a puzzle so I could try it!It works pretty well.
+I like it better than other puzzle glues I've used in the past.
+The sponge applicator works well and the glue dries nice and clear without discoloring the puzzle.Now, I just hope the can doesn't dry out from disuse before I finish another puzzle ...
+When we put together a puzzle, it's usually a puzzle we want to keep together.
+So, we are always on the lookout for good products that help us accomplish that purpose.We used Puzzle Conserver on a 1000 piece puzzle.
+We used three light to medium coats, and the puzzle seems to be holding together just fine.
+It definitely is not stiff and still needs a full frame.
+But, I don't fear losing pieces between now and when we can get the puzzle framed.My biggest complaint is in application.
+Unless the conserver is applied very thickly, it does not show up white.
+That makes it very difficult to determine where conserver has been applied and where it hasn't.
+Keep in mind that I tend to apply such things in a very systematic manner, but even it was almost impossible to ensure a smooth, even application.
+When I did apply it thickly enough for it to show up white, I had even more difficulty making sure it was an even application.
+And, the white tint did not remain very long - it switched to clear in the earliest stages of drying, typically before I had finished applying that coat.If I intend to preserve multiple puzzles or projects, I would definitely choose Mod Podge over this Puzzle Preserver.
+But, for an occasional job now and then, especially when preparing a puzzle for a frame, this Puzzle Preserver works just fine.
+"Once I get a puzzle finished, I usually frame it.
+I use a foam paint brush and polyurethane finish.
+It has always worked well.
+When I found the Puzzle Conserver by Ravenburger, I thought I would give it a try.It is less messy than the brush/polyurethane and the applicator doesn't drip.
+Apply a bit of pressure to get the liquid to flow and rub it over the puzzle.
+Allow it to dry and you have your protective finish.
+Be sure to get it into the ""joints"" of the puzzle pieces as well.The instructions say to rinse the applicator under running water but I found that you needed to squeeze the applicator as well to remove the residue so it didn't dry in the sponge and prevent you from using it again."
+"I tested this conserver out on a cheap puzzle just to get a good idea of what it was like.Make sure you shake the bottle well.
+I purposely left a spot kind of bubbly just to see if it would dry smooth.
+It does NOT!
+(as I'm sure most of us suspected) You need to spend time smoothing it out.
+Even the spots that I worked at smoothing out dried a little ""smeary"", but from a distance you can't tell.
+You also need to work at getting it in the cracks.It dries quickly.
+The bottle says to wait about an hour for drying.
+It also recommends using the whole bottle within 12 months for best results, so it does last a decent amount of time.Overall, this is a decent puzzle conserver(coming from an amateur puzzle conserver)."
+With glue for puzzles I can at least see where I'm putting it.
+With this spray it was a bit harder to tell.
+It also has a bit of a strong odor to it (so you might want to make sure you are in a well ventilated room).
+Otherwise it held well and worked perfect for the puzzle.
+There is more left (although I'm not sure there is enough for 4 1000 piece puzzles.)
+I really like this puzzle glue.
+At first it was hard to know exactly how much to use though.
+The instructions were kind of vague.This glue has almost a water like consistency.
+It is definitely not thick like regular white glue or Mod Podge I have used in the past to glue my puzzles.I really liked how easy this glue is to use.
+It has a built in sponge applicator which makes application a breeze.
+I found that using 2 coats worked best.
+The finished results are great.
+It dries nice and clear with no murky film on the puzzle.
+"This Ravensburger ""Puzzle Conserver"" is easy to use and works as expected.
+We typically build two or three good sized jigsaw puzzles a year and have sealed a handful to use as wall pictures in my kid's room using ""Mod Podge"", but this is convenient alternative since it has a nice foam applicator and a glossier finish.Using this is very straight forward, first build a puzzle, then place plastic wrap or wax paper under the puzzle, then shake the bottle well, thoroughly cover the puzzle using the foam applicator, being sure to get into every crevice (goes on milky, so it is easy to see where it needs to be added), and then let dry of an hour or so.
+It will dry clear and will provide enough rigidity to the puzzle to allow it to be moved and framed.
+It is best to rinse out the applicator with water right away to prevent it from becoming sealed since the bottle can be used for several puzzles.This works well and is convenient to use!Recommended!CFH"
+Sometimes it's good to preserve a 1000 or 2000 piece puzzle that took a lot of effort to assemble.
+This Puzzle Conserver is easy to use: (I covered the table with drop cloth to prevent any spills and stains), shake the bottle well, dab the sponge tip on the puzzle and let the adhesive flow into the crevices to securely lock the pieces together.
+I've already used it on two 1000 pcs puzzles.
+The 200ml bottle is sufficient for four 1000 pcs puzzles; just make sure to apply the adhesive gently and evenly, then rinse off the sponge tip with water after every use.
+The puzzles dry clear and are ready for framing!
+"The Puzzle Conserver by Ravensburger does exactly what it is supposed to do - give a permanent hold to a finished puzzle.
+I like the foam applicator though you have to work at getting the product into the ""cracks"" of the puzzle.
+I also like that the product goes on white and dries clear - that way you can see where you have applied and what areas you might have missed.
+I found that for a larger puzzler (1000) it took a couple of applications of the product to hold.
+Also, it is a bit pricey compared to other alternatives.All in all a good product which does what it claims.
+I would recommend it but I would also suggest that you look at less expensive alternatives depending on your project and budget."
+This is magic in a bottle as far as my 10-year old and 9-year old sons are concerned.
+After all the time and effort they pour into a 1000-piece puzzle, the most disheartening thing we could do is take the jigsaw puzzle apart and put it back in the box.We glue and frame our jigsaw puzzles.
+They decorate our hallway and our sons' room.We've used our Puzzle Conserver from Ravensburger on two 1000-piece puzzles so far.
+Each came out glossy and clean (the glue is colorless).
+We still have half a bottle left.The biggest caution is putting something between the puzzle and your table (kitchen, living room table, whatever).
+We used newspaper for the first puzzle but wax paper worked better on the second puzzle.
+Also remember to rinse out the sponge applicator so it doesn't get crusty.Rating: Five stars.DISCLOSURE: This review is courtesy of the Amazon Vine program, which provides products at no cost in exchange for my independent and unbiased feedback.
+My objective is to test and review products fairly, providing you with helpful information that improves your shopping experience.
+This product review was not sponsored or paid for in any way by the manufacturer or an agent working on their behalf.
+My 5 year old son has recently gotten into doing puzzles.
+I thought it would be great to try this out on one of his puzzles and he loved the idea of hanging his puzzle on the wall.
+We've only done it with one puzzle so far, but I wanted to see how durable it would be.
+We put the conserver on the puzzle a week ago, it's a 2 foot by 3 foot puzzle.
+After we made sure all the cracks in the puzzle were properly sealed we let it dry for a couple of hours, laid out on the table.
+It was super easy to do, he did a lot of it by himself with me just sitting with him and making sure he was getting all the spots.After it was dry I picked the puzzle up and it came up all in one piece!
+Good start!
+I stood the puzzle up against his toybox and it was still standing there the next morning, completely intact.
+We couldn't find one of the pieces of the puzzle so we just put it all together without that piece and when we do find that piece we'll just put the puzzle conserver over that part and let it dry.
+In the meantime we have a few more puzzles to do if he wants to hang those up, too!
+This stuff is really cool and it makes my little guy happy to see his puzzle that he put together all by himself hanging on his wall!Update 1/20/2013The puzzle is still together and has now been hanging on the wall (we found the missing piece) since we completed it a week after the original review.
+I only used a Command sticky hanger put that on the back of the puzzle.
+It's stuck right up over his bed and we have had no problems with anything coming loose!
+Ravensburger makes some of the best puzzles known to exist, so I was eager to try out their Puzzle Conserver.
+My family loves doing puzzles together, but the ones we do are typically about 50-500 pieces at max.
+In order to properly try this conserver, I decided to buy a 1000 piece puzzle and put it to the test.
+I found a beautiful artwork puzzle from the Jewish Museum,Mizrah Decoration for the Eastern Wall Puzzle, and proceeded to assemble it in hopes of putting this puzzle conserver to the test.First, if you intend to build a puzzle to frame it, I highly recommend you pick the frame out first and have the cardboard back ready.
+You should not build the puzzle directly on a table.
+I discovered this the hard way when I was done with my puzzle and ready to glue it, and reading the instructions on the bottle I realized that the glue would seep through the puzzle and glue the puzzle to the table if I didn't put something under it.
+I slid some paper under my puzzle but lesson learned - build the puzzle on the mounting surface.As soon as you shake the bottle vigorously, you realize quickly that this conserver is a lot thinner thanMod Podge CS11202 Original 16-Ounce Glue,  Gloss Finish, the classic glossy conserver that kids have used for years to preserve their artwork.
+The bottle itself is sealed.
+There is a sponge on top with a dispenser tip inside of it.
+Turn the bottle upside-down, push the sponge against the puzzle, and the conserver will saturate the sponge and can be applied to the puzzle.
+It goes on foamy and slightly white, but turns clear quickly.
+Since it turns clear so fast, it can be hard to tell where you've applied it and where needs more conserver.
+You then proceed to move the sponge up and down the puzzle, pushing it down to release more conserver as you go.The first coat was rather thin and dried fast, but I found the whole puzzle wasn't really sticking together.
+I proceed to apply a second coat an hour later, and it worked much better.A few notes - you wanted to be careful you don't damage the puzzle with the sponge.
+The truth is that a brush dipped in Mod Podge is a little safer than the sponge, especially for a lower quality puzzle.
+You want to be sure to use the sponger to smooth out the bubbles because they will dry in place as bubbles.
+Just a I prefer Ravensburger puzzles, I also prefer the Puzzle Conserver manufactured by Ravensburger.
+White as it leaves the bottle, it dries clear.
+I always protect my tabletop from the adhesive from staining by lining it with either plastic or sheets of paper.
+The plastic tablecloths from a dollar store work great for this purpose and most often can be reused.
+They are large enough to either cut to size or simply fold to the correct size with care.
+I also find it beneficial to use a great light so that I can see the thin coat which I apply as opposed to a thicker coat that some generate.
+It's also helpful to rinse the sponge applicator in running water and I also seal the bottle in a plastic bag for security.
+I highly recommend this conserver to those who enjoy saving their assembled puzzles.
+I love puzzles and anyone who wants to keep the puzzle will need some kind of glue.
+This puzzle conserver is something you apply on top of the puzzle.
+It goes on white and dries glossy.
+What's more important is that it comes with an applicator that is easy to use, much better than a pot of glue and a brush!
+Highly recommended for puzzle lovers!
+This puzzle conserver is a must have for any puzzle enthusiest!
+My 9 year old daughter loves to do puzzles and was very excited when I showed her this.
+It is easy to use and dries quickly.
+What a great way to keep your hard work preserved!
+This is very easy to apply to a puzzle.
+It has a spongy top to help apply smoothly across the puzzle.
+It dries clear.
+I would recommend a couple of coats to make sure that it got completely covered.
+It does a nice job and dries clear.
+It allows you to keep and frame a puzzle.
+After doing all that work, it would be nice to enjoy it for a while.
+This is one of the easiest to use products you'll find.
+The instructions are common sense and printed on the bottle.
+But wax paper under the puzzle, apply the product making sure to fill the joints.
+Apply again if needed.
+Wait an hour until it dries.
+Done.
+It's basically a bottle of specialty glue with a foam applicator, much like you'll find on shoe-polish.
+It works well.
+You could also use as project glue where large applications are needed, or just as a sealer on water-fast products (ie, not water colors or ink jet prints!
+)An adult can remove the cap easily - a child would have some difficulty - that's the point.
+The product must be used within one year of opening.
+I wanted to try this because I have a Ravensburger puzzle (the New York Taxi puzzle) that I wanted to frame.
+It works well and does the job.To use this product you should first place something underneath the puzzle to protect the surface beneath from excess adhesive.
+You then shake the puzzle conserver and turn it upside down and the adhesive comes out though the sponge.
+It takes few moments to figure out how much adhesive to apply.
+The instructions say to make sure sure the crevices are covered.
+You then wait an hour for it to dry.
+Once done you need to run the sponge under cold water.This product allows you to lightly apply the adhesive.
+This is simple to use but like anything new it takes a little adjustment in knowing how much adhesive is enough.
+I did repeat the process the first time over a couple of spots on my puzzle.Once done I put the puzzle in a frame and hung it on my wall and it looks great.
+I was skeptical about doing this to our puzzle, but after working on it for so long, we decided to take a chance to preserve it and turn it into wall art.
+It worked great, and was much easier than I expected.
+It wasn't messy at all.
+The only challenging part is making sure that you really get it into all the crevices, but since it goes on white that isn't too hard, just time consuming.
+Once dry, it is perfectly clear and slightly glossy.I think that you will be pleased with this puzzle glue.
+I've never used a Puzzle Conserver until I used this product.
+I'm a puzzle freak and I do puzzles quite frequently.
+There's been many times over the years that I've made comments about how I wish I could save the puzzles and hang or do something with but for whatever reason I never thought about getting anything like this.Now that I have this I've started conserving some of my favorites.
+Now I just need to figure out how to hang them or figure out what else I want to with them.The product is easy to use and it goes a long way.
+The finished product is clean and doesn't leave any bumps or anything that's unappealing.I think this is a great product and I would recommend it.
+"Before I got this stuff I usedPlaid Mod Podge CS11223 4-Ounce Puzzle Saverto ""glue"" my completed puzzles together.
+And it did work fairly well, although it struggled to hold larger puzzles together and often created a white-ish finish.
+Ravensburger, however always seems to solve the problems that arise during puzzle-making.
+The applicator here is easy to use and it comes out in a foam for easy application.
+Simply apply a thin coat, allow to dry (it dries on very clear) and voil&agrave;!
+You have a firmly glued puzzle that won't crumble when you try to move it and will look beautiful framed.Rinse the applicator brush immediately so you can use the rest of the generously-sized bottle on your other beautiful puzzles!
+Considering this bottle is about the same price as Mod Podge and other brands, I say why not go for the best?
+So far Ravensburger has never let me down."

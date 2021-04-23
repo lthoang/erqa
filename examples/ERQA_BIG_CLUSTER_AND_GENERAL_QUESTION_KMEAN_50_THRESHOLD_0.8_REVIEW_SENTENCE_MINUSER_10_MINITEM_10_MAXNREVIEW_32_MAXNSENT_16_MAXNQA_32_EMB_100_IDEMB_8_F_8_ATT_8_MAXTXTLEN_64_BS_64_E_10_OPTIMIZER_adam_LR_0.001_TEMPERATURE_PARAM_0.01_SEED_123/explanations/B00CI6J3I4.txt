@@ -1,0 +1,274 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+After trying out theCrayola Jewelry Boutique Neon, I couldn't wait to try out the Crayola Bead Studio.The Crayola Bead Studio comes with everything needed to make your own beads and then construct your own jewelry.
+The cords and connectors are all light-weight plastic and seem more like camp craft projects.
+I watched her carefully select colors and twist them together, and gently craft & glaze these little beads) but the final product did not compare to the rows of bracelets she bought at Claire's, Macy's, etc.
+Since beads and rubber bands are the new rage, your child will enjoy.
+The Crayola Bead Studio includes the following.Bead RollerPeacock Drying StandBead PunchGlitter Pendants x 3Design Buttons x 3Heart Shaped CutterDiamond Shaped Cutter4 small pouches of model magic (Blue, Purple, Pink, Orange)Breakaway Clasps x 3Necklace Strings x 3Elastic StringPastel Colored Ribbons x 6 (Blue, Pink, Yellow)Plastic NeedleGlitter Glaze x 1 (25ml)This set has all the needed tools to make a variety of different necklaces and bracelets.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.0020516940858215094,0.0040684351697564125,0.0025692398194223642,0.002707976382225752,0.004011185839772224,0.0030209459364414215,0.004702109377831221,0.0037221505772322416,0.0028100598137825727,0.004914872348308563,0.0028353543020784855,0.0024728637654334307,0.003945501055568457,0.0031429603695869446,0.004055557772517204,0.003082399722188711,0.004440212622284889,0.005513384472578764,0.002405037172138691,0.002465097466483712,0.004708207678049803,0.0029374584555625916,0.006141509860754013,0.0037819533608853817,0.0042793285101652145,0.0045573594979941845,0.004772030282765627,0.00336979771964252,0.003881875891238451,0.0037939997855573893,0.0035425531677901745,0.004722883924841881,0.002646110253408551,0.00272731832228601,0.004471288528293371,0.004629243165254593,0.0033357120119035244,0.003807120257988572,0.007228350732475519,0.0024016781244426966,0.00292772869579494,0.003931465093046427,0.003281935816630721,0.0037113861180841923,0.0036246401723474264,0.0059842378832399845,0.003870020853355527,0.0047278194688260555,0.003228036453947425,0.0038531722966581583,0.003669052617624402,0.0055478583090007305,0.003451633732765913,0.004481642972677946,0.0038572114426642656,0.0035504428669810295,0.003632283303886652,0.002904413966462016,0.0038072201423346996,0.003721992950886488,0.002374705858528614,0.0038072201423346996,0.00382929272018373,0.0038072201423346996,0.002767950529232621,0.0059278192929923534,0.0035239846911281347,0.00389946554787457,0.005528571549803019,0.004366535693407059,0.0037901580799371004,0.006740980315953493,0.004965584259480238,0.0043158819898962975,0.003807901870459318,0.003028576262295246,0.003856085706502199,0.0036678656470030546,0.0033588060177862644,0.0028499446343630552,0.003620424307882786,0.003631979925557971,0.0040868003852665424,0.0031976329628378153,0.0038384515792131424,0.004321483429521322,0.003832415444776416,0.003928696271032095,0.0051834131591022015,0.004099197220057249,0.0038205250166356564,0.005300065968185663,0.004133553244173527,0.0024015007074922323,0.005568701773881912,0.003834994975477457,0.0035767233930528164,0.003913277760148048,0.006852526683360338,0.003985589370131493,0.003945292439311743,0.004328277427703142,0.003583078971132636,0.00458242604508996,0.002845065901055932,0.003819370875135064,0.003790485905483365,0.004030697979032993,0.0027355060447007418,0.00475401571020484,0.0038090969901531935,0.002937794430181384,0.004238736350089312,0.004072833340615034,0.0038839883636683226,0.003969399258494377,0.0037708363961428404,0.004598367493599653,0.004191127605736256,0.00409140158444643,0.004454317502677441,0.0031703044660389423,0.002834029495716095,0.0034089440014213324,0.0045865080319345,0.0022383728064596653,0.0029704133048653603,0.0039891465567052364,0.002127024345099926,0.0035960646346211433,0.0018334107007831335,0.002137276344001293,0.00421149330213666,0.0038432059809565544,0.003509094938635826,0.004648621194064617,0.003996455110609531,0.001883356599137187,0.002767103724181652,0.004111090674996376,0.004049989860504866,0.0018764977576211095,0.004091787151992321,0.004008814226835966,0.0034899471793323755,0.003989137709140778,0.004153513349592686,0.0025317994877696037,0.0030259457416832447,0.0038429810665547848,0.004224777687340975,0.0038906284607946873,0.0038738406728953123,0.004398284014314413,0.004291373770684004,0.004078168887645006,0.0043716346845030785,0.004174911882728338,0.00454964442178607,0.004462039563804865,0.004240380600094795,0.0037826579064130783,0.003906344063580036,0.004400576930493116,0.005253724288195372,0.0034251888282597065,0.0038127172738313675,0.0039680590853095055,0.003929630387574434,0.004208724480122328,0.002301580971106887,0.005798806436359882,0.004076099954545498,0.00400327006354928,0.003954323474317789,0.0032349920365959406,0.005207110662013292,0.0038372918497771025,0.002902379259467125,0.00270802597515285,0.0038153398782014847,0.004449023865163326,0.003701557172462344,0.004893479403108358,0.0038153398782014847,0.0037869629450142384,0.003604291705414653,0.003739340463653207,0.0028612916357815266,0.004565034992992878,0.006254314444959164,0.003331016981974244,0.005227781366556883,0.003967215307056904,0.0041557070799171925,0.005945423152297735,0.003203580155968666,0.003954320680350065,0.004166511818766594,0.004318096674978733,0.00387742486782372,0.004115990828722715,0.002861950546503067,0.003867772174999118,0.004141881596297026,0.004025714006274939,0.002907458459958434,0.003758621634915471,0.0056314109824597836,0.004150333348661661,0.0022200860548764467,0.003788373898714781,0.003767798189073801,0.004210296552628279,0.006072753109037876,0.004618336912244558,0.0029674300458282232,0.005076632369309664,0.0039138589054346085,0.003974112216383219,0.0038152330089360476,0.004269431345164776,0.002887479029595852,0.0029878756031394005,0.003517936682328582,0.0047050719149410725,0.003552755806595087,0.005675449501723051,0.004788009449839592,0.0027976043056696653,0.0033626495860517025,0.0022575168404728174,0.004833810962736607,0.003650503233075142,0.0038161701522767544,0.0037133118603378534,0.003931530751287937,0.005550830624997616,0.0032846168614923954,0.003851579502224922,0.005241052713245153,0.003833870403468609,0.002889292547479272,0.003393901512026787,0.0032866031397134066,0.0038478176575154066,0.0031821264419704676,0.004169913940131664,0.0053754812106490135,0.0026535948272794485,0.004058448597788811,0.002612120471894741,0.003141155932098627,0.002703011268749833,0.005004967097193003,0.004067217465490103,0.0032607275061309338,0.003924387041479349
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+This is a fun little kit - while it says age 8 and up, most younger children can use it with a bit of adult supervision.
+The bead maker is plastic, and is a bit tough to turn.I would say that based on the results, this is definitely in the pre-teen group or younger.
+The jewelry settings are plastic, and the look is really that of home-made.It can be re-used, either using the clay (available) or sets of jewelry and extras including the clay (also available).
+It does take awhile for the beads to dry, so this might be a weekend craft, or it will take more than one day to make the jewelry.
+If you're trying to decide between this Crayola Bead Studio and the Crayola Jewelry Boutique, I'd suggest opting for the boutique.
+The roller design of this Bead Studio makes just one kind of bead that's supposed to resemble the swirling petals of a rose (I think).
+If you manage to make a perfect one, they look like little cake icing roses you'd find on a birthday cake.
+However little kids will probably end up with less than perfect flowers.
+The design of the beads made with this set are less forgiving to a kid's style of play-jewelry making.The set comes with the clay material, a roller machine to roll out the clay to make the beads, a big plastic needle (not sharp) to make holes through the beads, strings and ribbons with which to thread the beads on to, little plastic clasps, a few settings to put the clay into to make wearable jewelry and a drying rack to set your beads on as they harden.
+There is also a container of glitter glaze that can be applied onto the beads to give them a bit of sparkle, but it doesn't stay on the beads very well.
+It's an interesting idea for a toy, but I'd suggest the Crayola Boutique set instead, since the roller tool isn't as fun for making jewelry as having additional settings to make bracelets and necklaces, which is included the Crayola Jewelry Boutique set.
+This set presents a nice all-in-one solution to bead making and stringing for young people wanting to experiment with jewelry making but not quite prepared to source raw materials at the craft store and create their own hodge podge.
+The target market for this is ages 6 to 15 years old.
+Let's adjust that to 6-9 (on the outside).
+I can easily see a 6, 7, or 8 year old wearing these creations without shame, but I know almost anyone in the double digits would know this was a kiddy substitute for more grown-up jewelry and not leave the house in the creation.
+However, they might still engage with the process behind closed doors.If you are looking at this for an older child, veer toward the Neon kit as its creations have a more grown-up flare than this set.
+This bead making kit is really nice for kids.
+My nieces loved using it but the bead roller was a bit frustrating to use at times.
+The clay has to be fresh and moist for the bead roller to work well.
+If the clay has been out for a while and is not as pliable as it should be then the bead roller really didn&#8217;t roll the beads.
+Overall, though, I would say this was a hit with the girls and they made lots of beads.
+The kit doesn&#8217;t come with much clay so we will have to be ordering more soon.
+The Crayola Bead Studio includes the following.Bead RollerPeacock Drying StandBead PunchGlitter Pendants x 3Design Buttons x 3Heart Shaped CutterDiamond Shaped Cutter4 small pouches of model magic (Blue, Purple, Pink, Orange)Breakaway Clasps x 3Necklace Strings x 3Elastic StringPastel Colored Ribbons x 6 (Blue, Pink, Yellow)Plastic NeedleGlitter Glaze x 1 (25ml)This set has all the needed tools to make a variety of different necklaces and bracelets.
+Most young girls will probably enjoy making them once they get the hang of it.
+We did find out that it can be difficult for young ones to do certain parts and we ended up having to help a lot more than we should have.
+The instructions were vague to say the least.
+It gave good instructions for separate little tasks like making beads or making a bracelet or a necklace but parts of the instructions were simply left out.
+It comes with bead glaze and a drying rack but fails to tell you anywhere in the instructions that you should make the beads, let them dry and glaze them before trying to make a bracelet or necklace.
+We found this out the hard way.
+Our first task was to make a ribbon wrap bracelet.
+We followed the instructions step by step and made the beads and then threaded a needle and pushed it though the ribbon which was difficult with a plastic needle, especially for kids.
+I had to do this part for my Daughter.
+Then we put the needle through the middle of the first bead which immediately made the bead get deformed.
+Then you need to push the needle through the ribbon which made the bead get deformed again.
+Anyways the first ribbon wrap bracelet didn&#8217;t turn the best but it was a learning experience.
+We learned that it&#8217;s better to poke holes on the ribbon ahead of time and it&#8217;s also better to make a big batch of the beads ahead of time and let them dry and harden.
+It&#8217;s also best to glaze them before using them.
+This set doesn&#8217;t contain a ton of supplies but there is enough to make a handful of different necklaces and bracelets.
+After trying out theCrayola Jewelry Boutique Neon, I couldn't wait to try out the Crayola Bead Studio.The Crayola Bead Studio comes with everything needed to make your own beads and then construct your own jewelry.
+The roller that makes the beads could be used with any other modeling clay or Playdoh for fun.It was easy to use and we had fun mixing and matching the colors.
+Good Holiday or rainy afternoon project.
+We had fun making our creations.
+This occupied my kids for hours.
+It was heavenly in that respect.
+They could do it on their own without my help, and even though it looked sloppy to me (I uploaded pictures to the product gallery) they were quite proud of their work.
+I loved that it wasn't messy and that it came with different components for them to make a pretty nice finished product (e.g.
+clasps, string, pendants, glitter glaze, etc.).
+It was a pretty comprehensive product.I also like that it's made with model magic, which you can buy more of at Walmart.
+It doesn't come with a ton of model magic, but I would say it's an appropriate amount for the accessories that came with it.The major drawback which knocked it down a few stars for me was that even after drying 24 hours, the beads were soft and fell off the string when my kids (ages almost 5 and 7) wore them.
+They were really pretty bummed about it.
+Normally they forget about these types of projects, but they were really invested in it and actually wanted to wear their creations, so that was a downer.
+I think next time I may try using a different product.Also, in my opinion, I'm not really sure what the roller thing really accomplished.
+It would't be that big of a deal to use a rolling pin and roll it up to accomplish the same thing.
+Still my kids got into it in a way they wouldn't have with a rolling pin, so I guess that's kind of a toss up.As another reviewer said, it's a decent (though kind of expensive) gift, but not really worth buying for yourself.
+You could easily do the same for less money.
+This is one product that looks a lot better on the box and every youngster has high hopes that they can instantly produce wonderful beads.
+Not so, but understanding that is a given.
+The Crayola Bead Studio is a lot of fun to play with though and with some practice the beads will start to become easier to make and look better.With the Crayola Bead Studio you can make Striped Coil Beads, Basic Beads and Charms, a Pendant Necklace, a Basic Bracelet, Swirled Coil Beads, and a Ribbon Bracelet.
+The instructions are very good.
+They are presented in a step-by-step fashion with photographic visuals.What is a really nice touch is that if you have questions or comments (good, bad, or indifferent) there's a phone number beneath the bead roller for your convenience.
+If the Crayola Bead Studio works out well, there are a few additional kits to consider, one of the being theJewelry Boutiquethat will work with this unit.The other two are theCrayola Model Magic Jewelry Studio Refill Sweet Like Candyand theCrayola Model Magic Jewelry Studio Refill Rockstar.
+Perfect?
+No, but jewelry making is a lot of fun and will encourage young arts and crafts lovers to be creative and love delving into the world of arts and crafts.WHAT'S IN THE BOX:&#9788;  Bead Roller&#9788;  Peacock Drying Stand (easy to assemble)&#9788;  Bead Punch&#9788;  3 Glitter Pendants&#9788;  3 Design Buttons&#9788;  2 Shape Cutters&#9788;  5 Pack of Model Magic (Raspberry, Cerulean, Dandelion, and Lavender), .05 ounces each&#9788;  3 Breakaway Clasps&#9788;  3 Necklace Strings&#9788;  Elastic String&#9788;  6 Ribbons&#9788;  Plastic Needle&#9788;  Glitter Glaze .875 fl.
+Oz.
+(25mL)&#9788;  An Easy How-To GuideCRAYOLA MODEL MAGIC:Crayola Model Magic Deluxe Variety PackCrayola 57-4415 Model Magic Modeling Compound, 2-lb.
+Bucket, Assorted ColorsCrayola Model Magic (2 Pound Tub) - in your choice of colorsCrayola Model Magic Single Packs White
+"I ordered both this original set and the neon set.
+My experience was obviously similar for both.
+I sincerely hope it assists you (the customer) in your decision-making process.When I presented these sets to a young girl, she played with them for a bit (around an hour), but her final assessment was one I pretty much expected.
+The ""jewelry"" wasn't something that she would wear.
+She reported having fun being creative and making the beads (and I can testify that this is true ...
+I watched her carefully select colors and twist them together, and gently craft & glaze these little beads) but the final product did not compare to the rows of bracelets she bought at Claire's, Macy's, etc.
+And, continuing with this frankness, this girl has more ""Alex and Ani"" than I do ... little girls today are sophisticated, they have much more cosmopolitan tastes.
+These little clay beads simply cannot compare (but I can add that the stickers and glitter of this particular set was liked slightly better than the neon set by this particular child).From an adult's perspective, I think the price is difficult to justify.
+It's some clay and some plastic.
+However, I also believe that if this kit were one a child truly loved, the price would not seem nearly so steep.
+The lukewarm response I received was concerning.The bottom line here was that the experience was great fun, but the product was tossed to the side.
+I think this could be best used at a summer-camp or even an after-school program.
+(Somewhere where the bonding experience of creating a product outweighs the final result.)"
+This is not one of the better bead studio products.
+It comes with the magic dough to make braclets/earrings/etc and additional parts to make them.
+However the rollers themselves are quite tricky to use.
+Need to have the exact right amount for it to roll properly, too much and it jams, not enough and it doesn't roll up.
+Kids seem excited about the concept of it, but it doesn't seem to work very well.
+The dough/jewelry items it includes are good.
+Not sure who enjoyed it more the 5 year old, the 8 year old or the 19 year old.
+Girls just want to have fun.
+What a cool craft kit for girls or teens or adults.
+Use ribbon, string, and dough to be so creative.
+Make your own jewlery to your taste.
+Use with adult supervision for 5 to 8 year olds.
+9 to teen to adult can do it themselves.
+This is a one scession craft, but the machine and molds can be used over and over if you buy more doughCrayola Model Magic (2 lb.
+White)MODELING DOUGH 3LB BUCKET ORANGE by CRAYOLA LLCCrayola 23-6002 Model Magic Modeling Compound Class Pack, Asstd Colors, 1-oz.
+Pouches, 75/ctnor any clayCrayola Modeling Clay Four 1/4 lb Pieces, Red/Yellow/Blue/GreenCrayola Air Dry Clay 5 Lb Bucket, WhitePrang DAS Air Hardening Modeling Clay, 2.2 Pound Block, White (387500)
+This little set is pretty fun for pre-teens and some of the parts can be reused with different projects, even for adults.The accessories are really geared towards kids and pre-teens.
+They are plastic and not very durable.
+Definitely made for one time use sort of thing.
+The cords and connectors are all light-weight plastic and seem more like camp craft projects.
+The clay is okay.
+I prefer other brands of clay - especially the kind you can bake.
+The clay is also somewhat hard for young girls to mold, so the beads often come out clunky and child-like.
+The plastic needle leaves much to be desired, it broken after only three beads.However, a few of the pieces in this set are fantastic for making beads and doing other craft projects.
+I love the peacock drying stand, which I went on to create other sorts of crafts with like magazine beads and beads that I finished off with glitter nail polish.
+The dryer is an ingenious invention that could be sold on it's own, if any crafter knew it was available!
+How many times I have wished there was some kind of object like this to dry beads separately without having them stick to the paper or take up tons of space being laid out.
+The other piece that is invaluable to any clay crafter is the bead roller.
+Such an easy way to make unique bead designs whether you are trying to make rose beads (it really works!)
+or just a swirled design.Since this is geared to 6-15 year-olds, I think the lack of quality accessories is not that big of a deal.
+The use you'll get out of the two main pieces will much outweigh the temporary jewelry made with this first batch.
+Testing it out with the first batch of goodies will train you enough to go on an create inspiring pieces that look much more professional.
+The Crayola Bead Studio is going to be a really good gift in some situations.
+But overall as a toy, it is very disappointing.
+The studio is fun but the beads it turns out are not impressive.
+They aren't really pretty enough to wear or use.
+This definitely not a kit for a kid that already does crafts and has other materials available.
+This set was too frustrating and limited to compete with drawers full of craft supplies.This will work very well for a young child.
+It will work well for a kid who has not gotten into crafts before.
+But what it would be brilliant for is entertaining kids visiting grandparents or family members who don't keep lots of crafts around.
+It is completely self contained.
+They can start crafting immediately without having to wait for materials.
+And to keep using it, you just need model magic which as crafting items go is very clean and easy to use.
+"Let me start out by saying I am of the shrinky-dink generation - and puffy paint - and paper mache masks using white glue and newspapers (or globes using a balloon if you want to get fancy).
+I would like to believe that I am somewhat able to succeed at a kid craft especially when under the direction of a cool-under pressure able-to-whittle 9 year old, but I failed at this - mostly because I found it frustrating.
+The offspring persevered and was rewarded with some color swirl blobs pierced through the center and placed on the Peacock stand alongside my puce colored beauties.
+They had lovely puce color variations within though.Getting started:1) The Peacock stand was assembled by the offspring in about 45 seconds sans instructions.
+It was simple and keeps the bead holes open while they dry.
+I have no complaints about the Peacock stand aside from the fact it is now adorning my dining room buffet alongside her mantids and their required fruit flies.
+So yes, keep in mind this requires drying and space for drying...and may end up living in space you did not intend to populate with kid stuff.2) The roller apparatus is preassembled.
+We were up and running in under 5 minutes.
+We are girls who appreciate instant gratification and were happy with unpacking and mostly lack of extra packing materials (although I wish they used reclosable bags for the supplies)3) Kit components include pink, blue, yellow, and purple clay, some pendant holders, clay punches, a device for hole poking, plastic clunky bracelet clasps, elastic and string (I am not clearly not employed in marketing).4) The instructions are... minimal... and clearly supposed to be written for the offspring's benefit (about a 3rd grade reading level, laid out fairly nicely) except they bounce around a lot (e.g.
+if you are making a swirl bead do steps 1-2 for regular beads, then swirl, then repeat steps 3-4...) - flattening position versus rolling position could have used a picture for the younger crowd.
+No instructions for round (obvious) and square (obvious enough for us, but maybe not for a younger child?)
+beads.
+A couple ok project ideas.5) I like the clay.
+It is vibrant and soft; it is not so messy or crumbly (just be aware of the ""may permanently stain!""
+warning when choosing location).Making stuff:1) We decided by committee that the pendants were clunky.
+Most of this decision arrived from why do you have to flatten with the roller then smoosh it in the pendant holder.
+We picked up this toy along with the Neon Bead Studio.
+Honestly, they're so much alike that I could just copy over my other review, but I won't.
+This set uses modeling clay to make the beads.
+It's a nice concept, but the finished product looks and feels like shiny play doh.
+My daughters enjoyed playing with it and making the jewelry and seemed really proud of the finished product.
+I just expected more for the price.
+These crayola kits do a fine job of capturing the imagination of aspiring (7-10 year olds)artists and jewelry/fashion designers (and really, whom among this land of princesses at that age doesn't have a bit of aspiration in that area?).
+It is fun.
+Much like pixels - parents will have a love/hate relationship with it.
+They really are meant, I believe, that for anyone 8 or under it's going to be a team kid/adult project.
+It has the potential for a slight mess and a plan for its use will need to be developed for both to enjoy it.
+(But, I'm an aunt - so those little things don't bother me too much :-).
+I'll just say, my niece loved it, she made some jewelry for her, for me, for her mom, for her grandma.
+It was a creative venture.
+And, yes, it will probably be put away now.
+But I, like another reviewer, whom reviewed it, would buy it as a gift for any little princess in this age group.
+This is fun but not super easy to use for the age range that would enjoy it the most (6-8).
+If you have a tween who is really into making their own arts and crafts and like a variety of projects then they may still appreciate this and have some better coordination/skills to use it.
+I think it's a great project for adults and younger children to do together.
+The younger kids will be uber-excited to wear their creations to show and tell.
+Unfortunately this is another Crayola craft project I have to give the thumbs down.
+I am disappointed at how cheap and cheezy the jewelry from this kit is.
+It's frustrating to work with, but it would be ok if the results were at least something you could enjoy.
+They really aren't.
+For the price charged you would think they could come up with something a little better than this.
+Crayola is very hit or miss with their kits like this.
+This Bead Studio is more of a miss.
+It's cute the first time, but you quickly run out of the Model Magic Clay and other supplies.
+Also, I would say the bead making itself is geared toward an 8 year to be able to do by herself, but the creations you make are more for a 4-6 year old to wear.
+My eight year old did have fun making the beads, but she has never worn the things she made with them.
+If you just want to make some clay beads, you can easily do it without buying this kit.
+The kit is one of those things that is fun once or twice and then winds up in the bottom of the toy box.
+It's Crayola beads, so what I imagined was a massive pile of melted-by-children repurposed crayons.
+If your thoughts are going there let me put you at ease, that's not what's happening.
+It's going to be okay.
+Kids will have fun and your carpet will survive.
+And it really is fun.
+Pretty easy to use, instructions might require adult assistance for younger ones, and the results are bright and cheery.Do plan on &#34;wearing&#34; some of these creations.
+"This would be a pretty good gift idea for times when your daughter is invited to a classmate's birthday party and you don't know much about the bday girl's interest.
+It comes with the ""rosette roller,"" which has bright colors, and 4 very small packs of model magic (although it doesn't take much to make a bead).
+There is also a drying stand, bead punch, and plastic needle.If you wanted to make jewelry at home, particularly if you already had some model magic on hand from another project, you could simply punch the hole with a wooden toothpick or an icepick so long as you had string that would fit in the hole.
+Again, the reason you are paying $20 is because they have everything ready to go---perfect for a gift but not really necessary, particularly if you think your child will lose interest after one or two items.There is also glitter glaze for a finish.
+You could certainly get by with something like nail polish.
+These aren't going to be heirloom pieces.The bottom line is that I would in fact buy this as a gift.
+The price point is ok for that purpose and it's nice to give something that doesn't require ""screen time.""
+For personal use with my own child, I would just buy some model magic and wing it.If you go to the crayola website and look up bead-studio-product, you can see exactly how it works before you decide.
+Happy crafting!"
+This is great to keep kids occupied during a rainy day , or just a day with nothing to do.
+We found the kit easy to use with step by step instructions.
+We found the clay a bit stuff but used a roller and a plastic knife the best way to cut clay.
+we also found out using a plastic or glass cutting board works as well as well.
+This was a lot of fun, we made a few pieces And they came out cute.
+Since beads and rubber bands are the new rage, your child will enjoy.
+Great for a big sister little sister project as well.
+I got this for my 8 year old niece.
+She LOVES making things for all of us, so I thought this would be perfect for her.
+She had no problem getting out all of the pieces and doing it herself.
+She was a little bummed out that the beads didn't swirl together like the pictures showed, even when she followed the directions (I even tried it, and couldn't get it to look like the pics on the box).
+The modeling clay is easy to use and the yarn, clasps, etc.
+are pretty flimsy, but easy for a kid to figure out on their own.
+She gave the creations to her younger cousins who thought they were great, but when I asked if she wanted me to get her more clay to make more beads she said no thanks.
+So, it's fun for a one-time kinda project, but isn't cool enough for multiple crafting sessions.
+This is my second bead making studio by Crayola and it did not disappoint.
+The jewelry came out beautifully and my daughters just love it and so do I.
+The main feature of this studio is the bead roller which you use to mold and coil the model magic clay into different designs and once dry you can customize them with the stickers and glitter glaze which is included.
+It comes with everything you need to get you started creating your own jewelry such as shape cutters, a bead punch, ribbons, ...etc...The quality of the items are very good and durable.
+Makes an awesome gift if you have crafty children.
+"Despite the result being pitiful and the cost of materials ridiculously high, the Easy Bake Oven is pretty awesome.
+I enjoyed it as a kid because it let me craft my own real, edible(?)
+foods.
+In a similar fashion, this Bead Studio does not produce great jewelry and will cost a silly price to keep fueled with clay, but may spark that ""I created this myself"" trigger in kids.In the package are some ribbons,four colors of clay, strings for the beads to go on, a roller, a cute peacock drying stand that is more for psychological effect than practicality, a glittery glaze, and some basic plastic decorations.
+Among the latter are glittery pendants that have a strong Disney princess inspiration.If you make your own jewelry, you've probably found that little kids want to play along.
+Unfortunately, standard jewelry can involve toxic chemicals and sharp objects that require close supervision.
+With this set, Crayola has made a very safe way for kids to independently mold, harden (dry overnight), and glaze.
+The included instructions may be harder for younger kids to follow, but they can deviate and make it their own way too.
+The included roller is primarily for making mini Cinnabons, which are not particularly pretty, but enjoyable to create.
+The process is pretty reminiscent of the Play-Doh pasta makers.For a product that is one use, the price is pretty steep.
+I had difficulty rating this between 3 and 4 stars.
+However, remembering how fun the Easy Bake oven was, despite the same offenses, drove me to look at this more generously.
+What is most important is the opinion of the child who will receive this."
+My 10year old daughter really loved this when she first saw it.
+Unfortunately the product itself didnt live up to its hype.
+Her complaints included the following: the finished product is ugly, the bead roller was mostly useless, the clay didnt harden well and broke, and the glitter didnt stick onto the clay properly.When i asked her if she'd buy some more of the model magic clay with her allowance she said no.
+Thats pretty telling to me and why i dont recommend this product.
+"Really these beads only look good and functional when you glaze them (glaze included, but you must first wait 24 hours for the clay to dry before you can add the glaze), otherwise it's just another play dough set.
+The ""machine"" you get with this set only twists the clay into folded beads--neat, but that's it.
+You get variety by mixing the dough and beading it in different directions, or using the presses on the machine to add designs.
+When you're finished you can wear your designs--BLING!
+Little kids will get a kick out of wearing their creations, from bracelets to necklaces, or maybe just design beads they can play with endlessly (once hardened and glazed).Overall it's a nice concept, but it's a limited set.
+I have to rate it 3 stars."
+"Crayola Bead Studio rolls strips of Model Magic dough into cylindrical shapes to be strung on a cord.
+It can be placed on top of the Crayola Jewelry Boutique, but it can also be used independently.
+Personally, I think the Bead Studio is just fine by itself.
+There is not much to be gained by purchasing the Jewelry Boutique, except a fun way to roll a swirledThe beads made by the Bead Studio are superior to the ones from theModel Magic Jewelry Boutique.
+The cylinders hold their shape better when pierced and the beads are more uniform.I had two nine year-olds play with both Bead Studio and Jewelry Boutique.
+My daughter thought Bead Studio was ""cheating,"" while her friend loved the nice beads she could roll.I rolled a bunch of beads myself and I loved how they turned out.
+A coat of polish makes them shine.
+My daughter took them all and made a necklace she wore all over town.
+She likes them, even if it is ""cheating."""
+We watched the video of the Crayola beads and was excited with my 7-yr old daughter to get it.
+The video looks a lot of fun and easy to make.The first thing we noticed is that it doesn't included the green tray that was on the video.
+That was a bit of a disappointment.
+We opened the of magic clay packets, there are 4 colors.
+She started mixing them up and make those swirls.
+It was not as easy as it looks on the video and the result is nothing close to what we saw.You have the accessories including the necklaces pendants, stands and strings but you would need to wait the next day to make the beads dry up and hard enough to hold.
+The next day they were still a bit soft but she decided to paint using included the clear polish.
+After waiting again until the polish glitters dries up, she finally put them together.
+The result was OK.
+But the thing was that she seems not very excited anymore wit all the waiting.The clay of course is one use so you would need to buy and replenish it if you want to do it again - which is not happening.Overall, it is kinda fun but doesn't really feel like its worth to buy it.
+Although the product description says it's for ages eight and up, I want to assure you that younger children can use and enjoy this.
+My daughter is five and after a quick read through of the instructions, was cranking out beads, pendants and rings like nobody's business.The Model Magic compound creates beads that are big and colorful and the set is ridiculously easy to use.After making quite a bit of jewelry, my daughter decided to use the roller to make marbles instead and I now have swirly marbles everywhere.The cleanup wasn't bad either - not too much mess.Our only complaint is that you run out of the Model Magic compound pretty quickly.
+It would be nice if the set included more.My daughter really enjoys this one!
+My daughter is 7, she loves crafts and jewelry.
+So I figured this set would be a good place to start.We got it all set  out on the dinning room table, and before long she was having a blast.
+Even my son who's 5 wanted to help (although that required more supervision).The included supplies really are 1 time use kind of stuff.
+However the peacock drying stand and bead roller are worth holding onto.
+You can buy other types of clay and bead making stuff and use both of those products again and again.I think that it would make a nice gift if you were to include more materials, and clue in the gift recipients parental unit.
+My daughter loves these type of items where she can be crafty and show off what she has made.
+She had lots of fun with the bead studio.
+She now wants to look into other items like this.

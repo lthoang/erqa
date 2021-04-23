@@ -1,0 +1,117 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+I have bought two of these and have yet to receive one that makes any sound when you reach in the jar. Am I missing something or just getting defective products?
+Top sentence(s):
+This was appreciated.++ MUSIC/TALKING SWITCH.
+Different shapes in a cookie jar, you can take them out, you can put them back, MMM, cookies make a yummy snack.
+He has drooled all over it, (he's a serious drooler too), and it's wiped up just fine.
+The music and the choice of only four shapes makes it quite elememtary.
+I had originally picked this out for my new baby, I thought for sure that my 2 yr old was way too old for this &#34;baby&#34; toy, but boy was I wrong.
+
+Question attention weights:
+0.20104417204856873,0.3064844310283661,0.10586828738451004,0.38660308718681335
+Sentence attention weights:
+0.010289722122251987,0.013954725116491318,0.0101725272834301,0.010474022477865219,0.006883593276143074,0.018568379804491997,0.010225459933280945,0.01002639252692461,0.005670464131981134,0.01095006987452507,0.01332139689475298,0.012958786450326443,0.012902758084237576,0.01673045940697193,0.005405784118920565,0.014889639802277088,0.01116359792649746,0.006028768140822649,0.00549883209168911,0.004870217759162188,0.015059142373502254,0.010873734019696712,0.012924231588840485,0.012826483696699142,0.011592832393944263,0.013390401378273964,0.004329436458647251,0.010929571464657784,0.007486795075237751,0.011786139570176601,0.013089867308735847,0.006040684878826141,0.011888250708580017,0.013893427327275276,0.009581289254128933,0.012881654314696789,0.011983070522546768,0.010982473380863667,0.010845095850527287,0.011865038424730301,0.008861598558723927,0.009593059308826923,0.010124010033905506,0.011453555896878242,0.012258733622729778,0.013593979179859161,0.007585036102682352,0.010464556515216827,0.012705313973128796,0.013295483775436878,0.01367354765534401,0.013984788209199905,0.017943311482667923,0.015058096498250961,0.007171954028308392,0.006421088241040707,0.0102250836789608,0.013419209979474545,0.01115910243242979,0.006004632450640202,0.011745254509150982,0.00737296137958765,0.012060055509209633,0.010389087721705437,0.00974730122834444,0.005823641084134579,0.015512080863118172,0.005267898552119732,0.012419064529240131,0.007133165840059519,0.008798551745712757,0.011002318933606148,0.013524319976568222,0.013524319976568222,0.013855194672942162,0.00469039473682642,0.01374460756778717,0.013524319976568222,0.00874104630202055,0.005160822533071041,0.012053406797349453,0.009493126533925533,0.012707961723208427,0.01124925259500742,0.006116722710430622,0.011321499943733215,0.005387924611568451,0.011758379638195038,0.005950178485363722,0.00896421354264021,0.010852829553186893,0.009131855331361294,0.009723784402012825,0.011021150276064873
+0.010632546618580818,0.014844593591988087,0.009727231226861477,0.010895737446844578,0.007089516613632441,0.01759299822151661,0.010855519212782383,0.0100620798766613,0.00553840771317482,0.010724136605858803,0.01369269285351038,0.01374494843184948,0.011814492754638195,0.01686890982091427,0.005398202687501907,0.01428947877138853,0.01170372124761343,0.006178696174174547,0.005339730065315962,0.004778269212692976,0.01532361563295126,0.010617529042065144,0.012092663906514645,0.01291313860565424,0.01221436820924282,0.0141513766720891,0.003884780453518033,0.010577349923551083,0.007351689040660858,0.01175638847053051,0.013305047526955605,0.005877098999917507,0.012814064510166645,0.01475024688988924,0.00943971611559391,0.013448790647089481,0.011934126727283001,0.01132362149655819,0.011047150008380413,0.012667902745306492,0.008577150292694569,0.00863633118569851,0.009881367906928062,0.010441448539495468,0.012695997953414917,0.014174206182360649,0.008465556427836418,0.009454398415982723,0.013017421588301659,0.013344638049602509,0.01425176952034235,0.014873354695737362,0.014416554011404514,0.015741296112537384,0.007005238439887762,0.0056780981831252575,0.010555182583630085,0.014173994772136211,0.011836080811917782,0.005757085047662258,0.011242746375501156,0.0063662221655249596,0.01302134059369564,0.010800865478813648,0.009369093924760818,0.005669190548360348,0.016121121123433113,0.004944392945617437,0.012658652849495411,0.006623067893087864,0.008749998174607754,0.01049055252224207,0.014344039373099804,0.014344039373099804,0.01355756726115942,0.004404182080179453,0.01454940065741539,0.014344039373099804,0.00960469525307417,0.004420219920575619,0.011215186677873135,0.009494242258369923,0.011685878038406372,0.011777517385780811,0.0060585057362914085,0.011318420059978962,0.005041261203587055,0.010098382830619812,0.005229651462286711,0.01003547664731741,0.010481984354555607,0.009349058382213116,0.00887341983616352,0.011475780047476292
+0.011089646257460117,0.013204014860093594,0.008870663121342659,0.00962880440056324,0.008130152709782124,0.020081430673599243,0.009434742853045464,0.009011690504848957,0.004758263472467661,0.010804289020597935,0.012951296754181385,0.012522866018116474,0.012628019787371159,0.016437452286481857,0.005695344414561987,0.014271442778408527,0.011467560194432735,0.004466168582439423,0.00547926826402545,0.004642181098461151,0.01634235680103302,0.009136207401752472,0.01332106627523899,0.013401152566075325,0.012003413401544094,0.013191782869398594,0.00524743041023612,0.012491115368902683,0.007922828197479248,0.012497248128056526,0.01137296948581934,0.006786047946661711,0.010529584251344204,0.013230453245341778,0.009988903999328613,0.012705867178738117,0.011905430816113949,0.010609899647533894,0.011284057050943375,0.011518776416778564,0.01001070812344551,0.010825584642589092,0.011110622435808182,0.01381678506731987,0.010111307725310326,0.013101804070174694,0.00756138376891613,0.011413929052650928,0.011457503773272038,0.01318360585719347,0.013521872460842133,0.013286327943205833,0.019553743302822113,0.014226223342120647,0.009181463159620762,0.007645029108971357,0.011016367003321648,0.012742367573082447,0.011202377267181873,0.006524889729917049,0.012334111146628857,0.008353029377758503,0.010429364629089832,0.010119087062776089,0.01047332864254713,0.006307261995971203,0.011380196548998356,0.005406280979514122,0.010393921285867691,0.007459632586687803,0.00841953232884407,0.010782362893223763,0.01299243327230215,0.01299243327230215,0.014421437866985798,0.005075505003333092,0.013332872651517391,0.01299243327230215,0.00821852870285511,0.0056898086331784725,0.012282082810997963,0.009887033142149448,0.0149692939594388,0.010133854113519192,0.00482801953330636,0.01303016860038042,0.006168576423078775,0.012604562565684319,0.007421364076435566,0.00643084617331624,0.011865735985338688,0.009134465828537941,0.010424640960991383,0.010690015740692616
+0.010451581329107285,0.015028812922537327,0.009952906519174576,0.011271724477410316,0.006907907780259848,0.016964636743068695,0.01076224073767662,0.010557186789810658,0.005862802732735872,0.010774536989629269,0.01382539700716734,0.013853243552148342,0.011482752859592438,0.01680552028119564,0.005469200201332569,0.014542099088430405,0.011585287749767303,0.006407899782061577,0.0052529373206198215,0.004638828802853823,0.015141436830163002,0.010903769172728062,0.012029780074954033,0.012824229896068573,0.012041879817843437,0.01420576125383377,0.004018712323158979,0.010326556861400604,0.007384113967418671,0.011500400491058826,0.01366925984621048,0.005909180734306574,0.013018895871937275,0.014925996772944927,0.009131768718361855,0.01349618285894394,0.012032419443130493,0.01149976160377264,0.011042328551411629,0.012648367322981358,0.008397935889661312,0.008390390314161777,0.009669388644397259,0.010276713408529758,0.012809311971068382,0.014250840060412884,0.008457611314952374,0.009476269595324993,0.013432664796710014,0.013311999849975109,0.014379007741808891,0.015099816024303436,0.014041702263057232,0.01590721122920513,0.006642741151154041,0.005400463938713074,0.010391282849013805,0.01436236035078764,0.011859281919896603,0.005878879688680172,0.010991773568093777,0.006177817936986685,0.013561315834522247,0.010892219841480255,0.008850972168147564,0.0056661684066057205,0.01665305532515049,0.00489460164681077,0.01295236125588417,0.006776966620236635,0.008862221613526344,0.010312363505363464,0.01450349297374487,0.01450349297374487,0.01340781431645155,0.004351593088358641,0.014689466916024685,0.01450349297374487,0.009728215634822845,0.004545664880424738,0.011237581260502338,0.00950293242931366,0.010903864167630672,0.01202210783958435,0.00634668068960309,0.010967501439154148,0.004843058530241251,0.00984171498566866,0.004900727886706591,0.010210584849119186,0.010086932219564915,0.009488719515502453,0.008606942370533943,0.011631430126726627
+Questions:
+What age group is this item suitable for?
+I have bought two of these and have yet to receive one that makes any sound when you reach in the jar. Am I missing something or just getting defective products?
+hello, spoke in Spanish?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+"This toy is well designed, inexpensive, and high quality.
+However, unless you want your child to hear about cookies all day  long, you might want to pick something else instead.
+That said, the shapes make different pleasing  noises when they are placed in the right holes, and the top of the toy can be pressed to make the toy sing various songs.
+Additionally, when you reach in to grab a piece out the toy also plays a bunch of different (non-singing) songs.+++ GOOD VOLUME CONTROL.
+On the back there is a three way switch which makes the toy SILENT, LOW VOLUME, and HIGH VOLUME.
+This was appreciated.++ MUSIC/TALKING SWITCH.
+Though this doesn't affect the songs that the toy sings, it will change the sounds that are made when a shape is placed into the toy.
+It will either tell you what the shape is, or play a short jingle.++ DURABLE.
+Fisher Price doesn't disappoint with the quality of this product.+ NO ASSEMBLY REQUIRED.
+This is something ready to play with right outside of the box.+ FAIR PRICE.
+For twenty bucks this is a good value.--- HALF THE SONGS ARE ABOUT EATING COOKIES.
+This really turned me off.
+I mean, I KNOW this is a cookie jar, so if you don't mind having your child hear all about cookies, then go for it, but at least half of the songs are about cookies.And finally, a complete list of toy's song lyrics are below:Toy sings alphabet  ""A-Z"" in a sing-song voiceToy sings ""Would you like cookies, here they are!
+Different shapes in a cookie jar, you can take them out, you can put them back, MMM, cookies make a yummy snack.
+""Toy sings ""I love cookies how about you, orange, red, green and blue.
+""Toy sings ""Count the cookies that you see, 1, 2, 3, 4, share some cookies with a friend, then lets count some more!
+My daughter is only 5 months, but she really smiles at this toy.
+It's got 4 shapes that fit into 4 different holes (circle, triangle, square, and heart).
+Every time a toy passes through the hole, it starts singing a song (pretty clearly).
+The toys drop into the center and they can pull them out and start over.You can press the top of the cookie jar and it will sing songs as well.The shapes don't have sharp edges, so I don't get nervous when my daughter puts them in her mouth :)Overall, a very cute toy!
+I had originally picked this out for my new baby, I thought for sure that my 2 yr old was way too old for this &#34;baby&#34; toy, but boy was I wrong.
+He loves this cookie jar and repeatedly asks to play with it.
+He loves trying to Make the shapes go in the holes.
+So while it's great and entertaining for little ones, don't be surprised if your toddler loves it too!
+"The grandson loves this toy.
+He's 9 months and absolutely brilliant.
+He has great hand-eye coordination for a pre-toddler, but this toy with its musical positive feedback has improved those skills....though he isn't really talking yet....his series of ""sounds"" calls mom in to watch or to participate...failure to come when summon is not an option..especially when he wants to share his joy of discovery.
+Where this toy has really helped him is in shape recognition.
+He is super when it comes to colors, but initially it was a little challenge for him to match a piece with the corresponding hole that looked like the shape.
+Did I mention that this toy can take a beating...at least from a 9 month old... keep on ticking?
+Nothing worst for a 9 month old when the square shape will not fit into the triangular slot.
+The toy survived...and the grandson has improved shape recognition...too bad you can change the shapes to keep the challenge up."
+I was skeptical if my 21 month old daughter would like this since we already have a couple other shape sorter toys in which she shows no interest.
+But she liked it from the beginning and actually spends a decent amount of time playing with it each time.
+She gets frustrated though when she tries to carry the cookie jar around because the shapes fall out of the giant hole.
+But other than that, she really enjoys playing with it, especially the music.
+I am glad there are two volume settings.
+"Our 8 month old grand-daughter was immediately attracted to the colorfully shaped ""cookie"" pieces.
+The shapes have open backs which make them easy for little hands to grasp.
+She also really enjoyed the variety of musical options created by the toy.
+She was just about able to activate the songs by pressing the lid, another day and she would have had it.
+At 8 months she was able to place the shape pieces in to the belly of the jar, but has not yet advanced to using the individually shaped holes.A fun and colorful learning toy, 5 stars all around!"
+This toy is cute and entertaining, though it falls short of being outstanding.
+The sounds and shapes are entertaining for young babies from about the age they learn to sit (roughly 6 months.)
+It has the put-in-take-out aspect for when they go through that stage, and works as a shape sorter when they become old enough to figure that out.
+Then the songs will help with learning counting and the alphabet.
+I think most children will find this a bit babyish by the upper end of the recommended age (36 months) but even my three-and-a-half-year-old wanted to check it out for awhile.I have only minor complaints.
+One is that the toy centers around cookies, which for me isn't a huge obstacle but also isn't my favorite for babies at an age where I wouldn't feed them a cookie.
+Then again, the shapes don't really look like cookies so I doubt it matters much.
+The other is that the cookies/shapes tend to get lost easily since the front is so open.Personally I lean away from the category of toys with batteries and jingles, preferring things like basic shape sorters with more shapes and toys that require more imagination as they get a bit older.
+However, the sounds do help keep a baby interested at a younger age and for longer, so they do have a place in our toybox.
+Within its category, this is a pretty decent pick for a baby.
+This is a wonderful starter shape sorter.
+The music and the choice of only four shapes makes it quite elememtary.
+The recommended age span of 6-36 months is accurate.
+I would buy this for a baby gift or a 1st birthday gift thinking by the time the baby is older they will be ready for a sorter with more shapes and slots.
+It is fun and musical while starting the educational journey.
+Children can identify shape, color and of course enjoy the melodies.
+We've had shape sorters before, but none of them really clicked with my two year-old like the Fisher-Price Laugh and Learn Cookie Shape Surprise has.
+It works like every other sorter, match the shapes with the holes and drop them in.
+When you do that, one of a handful of songs plays and then the pieces drops down to where they can grab it and repeat.
+Maybe it's the fact that the shapes are supposed to be cookies and the sorter a cookie jar, maybe it's the music it plays, or maybe she's just at the right age to really get it, but whatever the case, she just loves playing with it.
+My one-year-olds also seem to love it (they press on the top and drool over the pieces enough to know that).
+You spend so much money on toys that never seem to be played with, so it's good when one in particular becomes a favorite.
+The Fisher-Price Laugh and Learn Cookie Shape Surprise musical shape sorter has become a favorite in my home.
+My newest little man is just at 7 months, a solid sitter upper and he loves this cookie jar!
+He has drooled all over it, (he's a serious drooler too), and it's wiped up just fine.
+The sensor on the jars tummy works great and he cracks up whenever he puts his wobbly little hand in.
+He hasn't mastered the fine motor skills needed to actually sort the shapes, but thats why the wide opening on the tummy is such a great design.
+It's solidly made, the songs are cute, and the cookies jar voice is cheerful.
+I'm thrilled with the price of this for the many hours of play he's already had with it.A solid baby toy that I would be happy to purchase again.
+Do you remember the shape sorting toy that you put the shapes in the hole and pulled it apart to release them?
+This is it!
+Just better.
+This toy will help your baby sort shapes and stimulate his or her mind with vibrant colors.
+It is complete with songs and sound effects that will delight your baby's senses.
+This is the toy you loved as a child.
+Only better!
+The Fisher-Price brand has always had a good name, and this toy lives up to that reputation.
+It is wonderful for ages 6 months to 3 years.First, the toy and its components are made of durable, bright colored plastic that has no sharp edges and is easy to clean.
+It is shaped like an old-fashioned cookie jar with a happy face on the front.
+When the top is pressed, the toy starts to sing, talk, and play music.
+It has over 25 sign-along songs, musical tunes, and phrases.
+On the sides of the toy are holes for shaped and colorful blocks.
+The shapes are circle, square, heart, and triangle - each a different color with different designs.
+As the child puts a shape into the correct hole, the toy announces the name of the shape for the child.
+There is also a large hole in the center front, and if the child places a shape block in this area, the toy also responds.Overall, when used alone by a child, this toy will give feedback and responses that will help the child with self-play and independent learning.
+When used under supervision, the learning is improved through adult confirmation of shapes, colors, and singing of songs.The toy requires three AA batteries, and comes with some already installed.
+There is no on-off switch; however, the toy stops its musical or verbal interactions within a few seconds after usage is stopped.Overall, this is an excellent toy for young and pre-school age children.
+I've seen many versions of this type of toy as I'm sure you have (which is why I'm not bothering to tell you how it works).
+Usually my primary complaint with these toys is that once you get the shapes in, it's difficult for a very small child to get them back out.
+That is not the case here--if anything Fisher-Price has erred on the side of the shapes not staying in.
+I don't see this as being a problem during use, BUT I would like it if there was a way to secure the shapes so that when the jar is put away, they don't fall out and get lost (-1 star for that).
+Otherwise, I'm very happy with this iteration of a shape-sorting, noise-making toy.

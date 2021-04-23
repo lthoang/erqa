@@ -1,0 +1,80 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+How do you erase your lines?
+Top sentence(s):
+It has ""passed the test of time"".Highly Recommended!"
+I got this for my son, who is very creative.
+Some lines were not even straight.
+We take a lot of long car rides and the ""Etch A Sketch"" was a great way to keep them amused.For those that don't know, an ""Etch A Sketch"" allows the user to draw a picture using two knobs, one controlling the up/down and one controlling left/right motion.
+I had one as a child and loved it.
+
+Question attention weights:
+0.15302042663097382,0.14538782835006714,0.0693744421005249,0.23291121423244476,0.39930611848831177
+Sentence attention weights:
+0.019877877086400986,0.014814414083957672,0.022176040336489677,0.02010236866772175,0.012528760358691216,0.026215147227048874,0.011541405692696571,0.017360728234052658,0.010499779134988785,0.02774868533015251,0.019588202238082886,0.023567872121930122,0.014333713799715042,0.022751901298761368,0.028023352846503258,0.021991049870848656,0.019452763721346855,0.022107575088739395,0.013257596641778946,0.019114583730697632,0.012045767158269882,0.015436185523867607,0.010141708888113499,0.010085949674248695,0.020795216783881187,0.01657205820083618,0.016314886510372162,0.01990273967385292,0.022543324157595634,0.022543324157595634,0.022543324157595634,0.021990060806274414,0.01946495845913887,0.01059715822339058,0.014311783015727997,0.015333246439695358,0.022582605481147766,0.015644283965229988,0.023809535428881645,0.02226652204990387,0.019691241905093193,0.019616011530160904,0.021893857046961784,0.0164178479462862,0.02115834318101406,0.020755097270011902,0.017927613109350204,0.021946722641587257,0.006441089790314436,0.02397402562201023,0.015713704749941826,0.008112844079732895,0.015558014623820782,0.021574612706899643,0.007240584120154381
+0.019612645730376244,0.016094382852315903,0.020956553518772125,0.01967172510921955,0.013851731084287167,0.023568907752633095,0.013347257860004902,0.017815789207816124,0.012480336241424084,0.025027180090546608,0.020745739340782166,0.02172877825796604,0.015629980713129044,0.02118905819952488,0.024724578484892845,0.021078119054436684,0.019562117755413055,0.02093059942126274,0.014135848730802536,0.018921252340078354,0.013803190551698208,0.01610873080790043,0.011901388876140118,0.011591660790145397,0.020446836948394775,0.01749943569302559,0.01711183227598667,0.019322412088513374,0.02157329022884369,0.02157329022884369,0.02157329022884369,0.021217042580246925,0.01923639141023159,0.012803632766008377,0.01491611823439598,0.016749676316976547,0.02182927168905735,0.016691969707608223,0.022311575710773468,0.020982669666409492,0.019062083214521408,0.01903555728495121,0.020466884598135948,0.01670270971953869,0.02053019031882286,0.019054608419537544,0.01830941252410412,0.021479124203324318,0.008694483898580074,0.022488022223114967,0.015154093503952026,0.010909236036241055,0.01718589849770069,0.02092602290213108,0.009685381315648556
+0.019236402586102486,0.014909188263118267,0.02227122150361538,0.01975219137966633,0.01476444210857153,0.024368660524487495,0.012539694085717201,0.016811756417155266,0.013562816195189953,0.024048039689660072,0.017357567325234413,0.023271678015589714,0.014399704523384571,0.021354330703616142,0.026918645948171616,0.020075278356671333,0.018116116523742676,0.02193143591284752,0.014825675636529922,0.019634146243333817,0.013047314248979092,0.016274556517601013,0.014423364773392677,0.013935515657067299,0.019595198333263397,0.018782787024974823,0.017506862059235573,0.019675610587000847,0.020440690219402313,0.020440690219402313,0.020440690219402313,0.020091667771339417,0.01752481423318386,0.013465413823723793,0.016990328207612038,0.01523501891642809,0.019628584384918213,0.017008932307362556,0.021010776981711388,0.021275173872709274,0.019343486055731773,0.021065298467874527,0.021078171208500862,0.016739511862397194,0.01941438391804695,0.022821864113211632,0.018795793876051903,0.021353600546717644,0.007984481751918793,0.021022964268922806,0.016783298924565315,0.011482645757496357,0.01612364687025547,0.019757995381951332,0.009289816953241825
+0.019946947693824768,0.01605857163667679,0.021213477477431297,0.02024388685822487,0.012431146577000618,0.024598103016614914,0.012465466745197773,0.017809191718697548,0.010607069358229637,0.02697739563882351,0.02019769512116909,0.022584211081266403,0.014506294392049313,0.021895520389080048,0.0244522076100111,0.022525573149323463,0.019575798884034157,0.021319061517715454,0.01306894887238741,0.019379593431949615,0.013620944693684578,0.016256190836429596,0.010488521307706833,0.010031244717538357,0.02133112959563732,0.015661535784602165,0.01673903875052929,0.02001669816672802,0.023060642182826996,0.023060642182826996,0.023060642182826996,0.022593382745981216,0.01958961971104145,0.011031468398869038,0.013727948069572449,0.017359502613544464,0.023166416212916374,0.015859447419643402,0.023868001997470856,0.0219497662037611,0.01955551840364933,0.018226146697998047,0.02146524004638195,0.01628708280622959,0.02162540890276432,0.01880536414682865,0.018406596034765244,0.02209676243364811,0.007341744378209114,0.02292628400027752,0.015562551096081734,0.008384163491427898,0.016652444377541542,0.02004603110253811,0.008289657533168793
+0.020062528550624847,0.016447756439447403,0.020661314949393272,0.02051619254052639,0.01136842742562294,0.024723591282963753,0.012206796556711197,0.018021808937191963,0.009352844208478928,0.02810090407729149,0.020213376730680466,0.02252904139459133,0.01420253049582243,0.02251964807510376,0.02333655394613743,0.023797975853085518,0.02002285234630108,0.021121464669704437,0.012125352397561073,0.019269337877631187,0.014000368304550648,0.016433021053671837,0.009383577853441238,0.008508626371622086,0.022288288921117783,0.01388149056583643,0.016330137848854065,0.02024035155773163,0.0243881493806839,0.0243881493806839,0.0243881493806839,0.02385019138455391,0.020376604050397873,0.009867865592241287,0.012393330223858356,0.01850084215402603,0.024841587990522385,0.0153536107391119,0.02517860196530819,0.022457726299762726,0.01964290626347065,0.016944412142038345,0.02191322110593319,0.01595200039446354,0.022714894264936447,0.01782536506652832,0.018112195655703545,0.02228204347193241,0.006891721859574318,0.023447759449481964,0.015688879415392876,0.006859079003334045,0.01656314730644226,0.019711481407284737,0.007799945306032896
+Questions:
+Is the Etch A Sketch actually made in the USA?  I read that Ohio Art moved manufacturing to China in 2000 laying off over 100 American workers.
+Does this Etch A Sketch have a spell-checker?
+what is your  opinion of this prduct
+How do you erase your lines?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+This is the classic Etch-A-Sketch toy that I remember so well from childhood.
+In today's hi-tech world (where an 8 year-old often knows more about gadgets than I do), it's refreshing to see this simple, fascinating toy available.
+"""Etch A Sketch"" was my favorite indoor toy as a child.
+We did not have a TV (my father did not like them), so we had a lot of time for creative pursuits.
+I spent many hours drawing on our ""Etch A Sketch"", when I could get it away from my older sister.An ""Etch A Sketch"" was one of the first toys we bought for our kids and they have seen a lot of use.
+We take a lot of long car rides and the ""Etch A Sketch"" was a great way to keep them amused.For those that don't know, an ""Etch A Sketch"" allows the user to draw a picture using two knobs, one controlling the up/down and one controlling left/right motion.
+This means a diagonal line could only be drawn by moving both knobs at the same time.
+Also, there isn't a way to make it not draw so your picture is made up of one continuous line.
+To erase the picture, you just flip the ""Etch A Sketch"" upside down and shake it.This is a great low tech toy (no batteries required) that can still entertain kids.
+It has ""passed the test of time"".Highly Recommended!"
+The Classic Etch A Sketch Magic Screen is a great gadget to introduce kids to sketching in the process of developing some motor skills and hand-eye coordination.
+Also great at enhancing a kid's imagination.
+The screen is big enough for big sketches but the lines are terribly thin and faint.
+The other gripe I have about this thing is when you need to erase what you just sketched on the screen, you have to give it a vigorous shake to be able to erase it.
+The shaking creates a bit of frustration on my daughter since it doesn't let you erase it with just a light shake, has to be continued vigorous shaking.
+There must be a better way of erasing than shaking this thing continuously.
+Its a great classic concept but absolutely needs a more improved approach when you need to erase what you have sketched.
+It's gotten a so-so attention from my daughter and its been forgotten after a few days.
+I've enjoyed Etch A Sketches since the 80s.
+My children also love this toy as well.
+The marvel at how just turning the knobs creates a picture.
+It's one of those toys that can occupy a child for a nice stretch of time.Our previous Etch A Sketch met it's demise when a guest stepped on it and shattered the screen.
+Thanks to the protective film on the screen, the glass stayed contained within the toy.
+Prior to the mishap, our Etch A Sketch began to have issues with the silver material that is inside the toy leaking out at the knobs.The newer Etch A Sketches don't seem to be as well made as they were many years ago.
+Erasing the design seems like a bit of a chore with the amount of tapping and shaking you have to do to eliminate ghost images of the previous sketch.
+With the older Etch A Sketches this was not an issue.Other than my few grievances with this toy, the Etch a Sketch is still a lot of fun and is a great classic toy that doesn't require batteries, just your creativity.
+I have not met a person who is not spellbound (at least for a few minutes) by the etch a sketch.
+What fun it is to sit and try to control the dials and create a picture.
+I had one as a child and loved it.
+Then when I had children of my own I wanted them to have one too.
+Glad we have one for them now, they truly enjoy it!
+Mind you it is not a video game but it still does draw their attention and is great to have around.
+Our boy doesn't have the patience to use it for a sustained amount of time.
+Never the less it still teaches hand and eye coordination.
+Don't know if I just got a lemon, but my etch a sketch was junk.
+Did not work well, lines would disappear while drawing then come back in another part of the screen.
+Some lines were not even straight.
+Very disappointed, my son had a key chain sized etch a sketch that worked much better.
+I got this for my son, who is very creative.
+I also have my original Etch A Sketch from when I was a kid.
+I can definitely tell a quality difference in the materials.
+Of course, most things made now are made cheaper.He loves it, but I have to agree with the other reviews that it does not erase the lines completely and it takes quite a bit of effort and shaking to get it blank again.
+Overall, it's okay, but I'll stick with my 'original' original Etch A Sketch!
+:o)
+I loved this when I was a kid, and now my 7 yr old does too.
+Not only is it fun without batteries that encourages imagination and creativity, but it's also a great way to share fond memories with your children.
+This is a GREAT toy!
+It is exactly like the one that everyone grew up with.
+By moving the white knobs, horizontal and vertical lines as well as curves can be drawn, allowing the user to draw countless objects.
+The objects can be cleared by simply shaking the screen.The Etch A Sketch can be dropped and banged around without breaking.
+It is fun both for adults, as well as children, although it is probably better for the 5+ age group rather than the 3+ age group, as advertised.
+While children under 3 can use the Etch A Sketch, it is a bit too difficult for 3-4 year-old children to make interesting objects with the dials so that age group often gets bored with it.While the Etch A Sketch has no bells, whistles, or computerized parts, it seems to be the toy that kids keep coming back to.
+Its simplistic design actually keeps it from becoming tiresome.
+I very much appreciated the quietness of the toy.The Etch A Sketch is particularly good with children who need to develop hand muscles, as continuous use of the dials requires intricate hand movements.
+Also, it shows children the different objects that can be drawn simply by combining vertical and horizontal lines with curves.

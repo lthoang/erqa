@@ -1,0 +1,196 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+Our two young daughters have so many My Little Ponies that it makes my head spin.
+Although the castle itself is fun for her, even more fun for her are the many accessories and the ponies.
+You can put the pony in the swing and it swings.
+What's not to love in a this fun playset?Part of me wish this would have been available back in 2011 when my daughter was a flower girl for the wedding of friends of ours.
+My kids would love to play with this, if it actually stayed together and worked like they'd want it to.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.006660980172455311,0.005794153083115816,0.004530525300651789,0.005445980932563543,0.0066504268907010555,0.002831910504028201,0.006527103949338198,0.008154925890266895,0.0025071415584534407,0.0027122183237224817,0.006175783928483725,0.003992744255810976,0.005897961091250181,0.004890356212854385,0.007694704923778772,0.002301903208717704,0.004545442294329405,0.004560129716992378,0.008193563669919968,0.0026196185499429703,0.006650461349636316,0.003543269354850054,0.006991283036768436,0.0033332102466374636,0.0035934376064687967,0.002447051228955388,0.007313138339668512,0.007747865281999111,0.002909852657467127,0.0057163480669260025,0.0058472962118685246,0.006218379829078913,0.005660052876919508,0.0060717081651091576,0.007044188678264618,0.002680070698261261,0.0032983694691210985,0.002487298334017396,0.003863378195092082,0.007078897207975388,0.0031422022730112076,0.0023396192118525505,0.0050223651342093945,0.0057664900086820126,0.004176863469183445,0.004160916432738304,0.006660116836428642,0.007316620089113712,0.0035319188609719276,0.006756616290658712,0.005342434160411358,0.007187040988355875,0.004348489921540022,0.0034716741647571325,0.0042852251790463924,0.0025234746281057596,0.006755575072020292,0.007253385614603758,0.00782132986932993,0.0074402205646038055,0.006414280738681555,0.0068001458421349525,0.00468469737097621,0.004896360915154219,0.005033046007156372,0.005571884568780661,0.005109076388180256,0.007279268465936184,0.006513683591037989,0.00555412145331502,0.006392236799001694,0.00426711468026042,0.006727765779942274,0.007146864198148251,0.007714073173701763,0.006765376776456833,0.007827620021998882,0.008339092135429382,0.002983284182846546,0.006829805672168732,0.0030308046843856573,0.003779707010835409,0.006731554865837097,0.006032573990523815,0.007937022484838963,0.004286780487746,0.0075803049840033054,0.00707881897687912,0.005509526003152132,0.005140034481883049,0.0023914529010653496,0.005716022569686174,0.005683409981429577,0.006695447023957968,0.00738963857293129,0.007183894515037537,0.00738963857293129,0.006833218038082123,0.005727943032979965,0.0035896054469048977,0.003150356700643897,0.006130357272922993,0.0032659631688147783,0.003341239644214511,0.006661572027951479,0.007123690098524094,0.006241193972527981,0.008485844358801842,0.007303882855921984,0.004278479143977165,0.006553929764777422,0.007269761059433222,0.00643937848508358,0.007269761059433222,0.0066490694880485535,0.007252407725900412,0.006676084827631712,0.007349709048867226,0.007174894213676453,0.00523200910538435,0.007429125253111124,0.007269761059433222,0.0073487283661961555,0.007554151583462954,0.007252842653542757,0.005667476914823055,0.007588022388517857,0.002563673770055175,0.004318717401474714,0.007118610665202141,0.005115654319524765,0.006095279008150101,0.003089828882366419,0.005988832097500563,0.006917116232216358,0.006359781604260206,0.004225643817335367,0.00496695376932621,0.007054876070469618,0.004364830907434225,0.005657970905303955,0.006689292844384909,0.004308545961976051,0.0046539162285625935,0.007788180839270353,0.004946008790284395,0.005519234575331211,0.005012632813304663,0.008214112371206284,0.003872092580422759,0.0033376181963831186,0.005372755229473114,0.005511699244379997,0.007902969606220722,0.0025818906724452972,0.005354379303753376,0.0041313027031719685,0.0045546963810920715,0.006019205320626497,0.00590535206720233,0.007528793532401323,0.007829095236957073,0.00587251503020525,0.007313049864023924,0.0045763044618070126,0.006556326523423195,0.002929894020780921,0.001747066038660705,0.003949899226427078,0.006670744623988867,0.002535533392801881,0.0037268935702741146,0.0032774643041193485,0.007540758233517408,0.006200613919645548,0.007131533697247505,0.0061638327315449715,0.0065182168036699295,0.0020947833545506,0.0033204902429133654
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+My little girls love this thing, until it falls apart, which is quite often.
+Yes, it is cute to look at and has a lot of features that my girls adore, but it is as cheap as they come and can't be moved without falling apart.
+It's easy to put together (although applying all the stickers was annoying and, in my eyes, highly unnecessary) because everything just slips into place, but once you lift it off the ground it all falls out of place and you're left with a pile of pieces that need to be put back in.
+The ponies are cute and the idea of having a royal wedding was cute, especially since most little girls are obsessed with getting married (oh god my future is bleak).
+I love the idea of having a swing, but the swing hangs too low and gets caught on the carpet every time my girls try to use it.
+You actually get quite a few pieces to play with (a comb, wedding cake, piano, etc.)
+and so there is a lot here to enjoy, I just wish that a little more time had been put into making this a practical gift.
+My kids would love to play with this, if it actually stayed together and worked like they'd want it to.
+So, it gets an A in conception but an F in construction, so I'll round it out and give it a C.
+She has bring princess, ponies and many more toys to stay in the castle and play for long hours.I am satisfied with this product and will get it as a present for other people.
+This is an interesting playset for little girls who loves My Little Pony.
+Most little girls loves wedding and this playset will  allow them to pretend a wedding with Princess Cadance and her love Shining Armor.
+The toy is made of sturdy plastic and will allow your daughter to play for hours.
+If she possess other My Little Pony figures, she can invite them to the wedding and have a big party.
+Everything has been thought to make the celebration a success!
+There are the bride and groom, the bouquet, the wedding cake and so many details for this playset.
+However, another pony will have to act as the minister for this wedding as it is not included in the set.Truthfully I find this castle quite interesting.
+The butterfly will spin on top of the castle, the swing will allow the newly married couple to rest in the midst of the celebration, the door of the castle is fully functional and the bride and groom are simply adorable.
+What's not to love in a this fun playset?Part of me wish this would have been available back in 2011 when my daughter was a flower girl for the wedding of friends of ours.
+She would have love to re-enact the wedding ceremony and I suspect that the ponies would have taken the names of our friends.If you have a little girl that loves anything connected to the My Little Pony toys, I am certain she will adore this fun and out-of-the-ordinary playset depicting the wedding of the Princess Cadance and Shining Armor.
+My daughters (7 and 5) like to watch the new My Little Pony Friendship is Magic series on TV.
+They excitedly watched the wedding special when it aired and they were thrilled to receive this toy!The castle is made of plastic pieces which all snap together quickly in a logical way.
+There are no screwdrivers or batteries required.
+The instructions are pictures which are clear and easy to follow.The toy includes two ponies, Princess Cadenza and Prince Shining Armor.
+These ponies are not the traditional chunky ponies from the 80's, they are the more stylized ponies from the new series.
+However, the older version classic ponies will also work with this toy (we tried it out just to make sure).The castle has three levels of play: the bottom floor has a moving drawbridge and a moving double swing, the second floor has arches, a dangling golden chandelier (removable) and a long grand entrance staircase, and the top tier has a nook type attic room.Accessories include wedding bands for both ponies, crowns for both ponies, a wedding cake, a table for the cake, a lacy golden cloak, a pocketbook with a clip to snap onto the ponies, an organ or piano, and a tea set (tea pot and two cups).My girls played with this toy for hours, happily and together.
+That's saying something.This wil make a terrific birthday or holiday gift for a little girl who loves horses and weddings!
+I am very happy with this toy!
+"So says my five-year-old daughter who has watched every ""My Little Pony:  Friendship is Magic"" episode multiple times and who owns the world's largest collection of Ponies on earth.
+Well, maybe I exaggerate, but the Ponies do seem to be everywhere in our house.
+She was so excited by this toy that she immediately tried to set it up herself.
+I've hardly been able to get her to bed or out of the house since.
+Her three-year-old sister, also an avid Pony fan, elbows in her fair share of time too.Not being an avid Pony fan myself (although, as far as such entertainment goes, it is one of the better shows), I'm not as enamored of this toy as the girls are, but it's decent.
+It assembles rather intuitively without too much need for the instructions and, what's better, no tools or batteries are required.
+The structure is fairly simple.
+A curved staircase leads up to an open platform.
+Underneath the platform are a Pony-sized swing and a drawbridge leading to a small chamber, while on top are little minarets, one big enough to have a balcony-type platform.
+The ""castle"" is decorated with flags, trumpets and a butterfly and can be further decorated with stickers that are rather difficult for little hands to apply.The set also comes with two Ponies, Princess Cadence and Shining Armor, as well as a host of small to practically microscopic accessories, including clothes, rings, crowns and the like for the two Ponies, and a wedding cake, chandelier, bouquet, table, piano, teapot and teacups for the castle.
+I know it's only a matter of days before those teacups are going to end up missing, that is, until they turn up again under my heel at 3:00 o'clock some morning.
+I can't figure out why toy companies design such small pieces for such little kids.
+Aside from the likelihood of pieces getting lost, however, this set seems pretty durable.This toy doesn't have a lot of bells and whistles.
+Aside from the swing and the drawbridge, there are no moving parts (well, the flags and the butterfly are adjustable, but it's pretty minor).
+Most of the action will have to come from your child's imagination (or memory of the show).
+That doesn't seem to be a problem for our girls, who have been holed up, either alone or together, playing with this toy for days now.
+"The title of playset is about the best description of this ""playset"".
+That really is all there is to the ""castle"", not to mention the two included ponies and their accessories.
+This really just boils down to pedestal on which to display the ponies.And yet, that is how my daughter plays with her toys.
+She likes to line things up and just place figures in situations and in all honesty this set works perfectly for that.
+Plus it includes enough accessories to dress up each pony, which she also loves to do when she brings them with her away from the playset.
+""Some Assembly Required""The set arrives in the box fully disassembled.
+the hardest part of the whole kits are the included stickers.
+The bannerflower-curtain stickers are especially long and therefore difficult to line up.
+Expect around 10 to 20 minutes to fully assemble depending on how meticulous you are with the stickers.As for durability, this set just clips together and I would not expect it to be partcularly durable to rough play, but then again how much rough play would it get.
+It should be perfectly fine for walking the ponies up and down the steps but repeatedly hauling it around town might not be the best idea.In summary, as a guy (or rather when I was a boy) I'd look for play features and this set really just has the swing.
+But this set isn't really designed for me and as potentially disappointed with the feature set as I might be, for girls that play like my daughter does, it is perfectly acceptable if not great.Also note that the included ponies are Princess Cadence and Shining Armor, which are directly from the story in the MLP cartoon that runs on the Hub network.
+Bump review accordingly if acquiring these character to play out that story line is important to you and your daughter.For note, accessories include:Teapot, 2 tea cups, pony jewelry and clothes, wedding cake, table, piano, and comb."
+Not much of an expert on these toys but my little cuz really enjoyed this.
+When I was able to pick something out for her I went straight to this.
+It seemed like something she would enjoy and I was right on the mark.
+I really don't know what else to say other than she really liked playing with this.
+In my opinion that may be the best review I could give on this.
+The kid liked it, it's for kids, so she recommends it I guess.
+"This product was carefully designed to be simple, but have lots of clever details a child would love, with some fun accents.
+The smallest size My Little Ponies (not included) can fit forward through the windows and just hang there.
+These little guys can also line up along the stairs.
+There are spots with little knobs where ponies or accessories can be attached.
+The window swing has a spot for a trusty little animal friend to stay alongside.It's lightweight and easy to assemble for an adult.
+Again, the design is such that it can fit into a fairly small box but seem BIG when assembled.
+However, it's a bit too flimsy and I am periodically invited to put pieces back together that my daughter cannot manage to do.
+I wish the connections were tighter and stronger so it would stay together better.
+That said, it was definitely worth it to my daughter.
+She LOVES ""My Little Pony"" and this goes along with the Friendship is Magic video opening her up to extending the story from the video into new scenarios.
+She normally doesn't like boy characters but Prince Charming was a great addition.
+Overall 3 1/2 stars, but 5 stars on the ""my daughter loves it"" value!"
+There are a lot of things to like about this toy.
+The easy one is that our daughter loves it and plays with it constantly.
+On the younger end of the age range for this toy, she still has lots of fun with it, even if she can't do the play wedding and stuff like that.
+Although the castle itself is fun for her, even more fun for her are the many accessories and the ponies.
+She is especially fond of the small teacup and teapot set that comes with this toy and carries them around the house.
+Just those pieces alone were worth the price of this set.
+This really is a well done set--with the castle, 2 ponies, and many accessories to go with it.
+In all honesty, it is a cheap, plastic made in China toy--like they all are, but for the money it holds up well.
+This is a great set for your money and one of our daughter's favorite toys.
+"My daughter loves this wedding playset and having a bride and groom pony.
+This is her first ""new"" Brony, so she was super excited about that.
+(She has a few of mine from the 80's).
+She also likes the clothes and little swing.
+The set itself is a little flimsy and comes apart a lot when she moves it, which is a lot.
+It pretty much only holds up on the ground/flat surfaces, which frustrates my 6 year old, and she has only played with it a few times and is already ""over"" it.
+She loves the ponies and having a pretend wedding over and over with them, though.
+For that reason I think it is partially educational and she has asked me about different wedding rituals and taken them to playtime with her ponies and learned a lot about different wedding rituals in different cultures and how animals don't really marry, etc.
+So it has been interesting since she has gotten this set, but the set itself has frustrated her, probably more so than most children as Ella does have aspergers and will just give up usually when a toy continues to fall apart and kinda give a ""forget it"" kind of attitude and just play with what works since she has plenty of other toys anyways."
+Once all put together, this is a durable, fun playset.
+It feels really solid and parts do not break off without some trying involved.
+The two included ponies are well made and look true to the show on the HUB.
+my entire family(including husband) watch my little pony with our kids, so we all can appreciate this toy on some level.
+Girls who are fans of the show will enjoy this set.
+i'd say ages 2-6 would be a good age for this toy.
+"Background:  For those not in the know, ""My Little Pony"" has had a major upgrade since the days when we were kids.
+The new series,My Little Pony Friendship Is Magic, is still sweeter than an explosion at a candy factory, but is smarter, funnier, and (of course) anime-influenced.
+Our seven year old loves it, and she loves this set too.This is a wedding castle playset and comes with two figures - bride Princess Cadance and groom Shining Armor - plus about twenty tiny toys like teacups or combs.
+It's a bit fragile, and comes with a bunch of stickers that you need to add.
+The stickers are finicky enough that we ended up putting them on before showing the set to our daughter, to avoid frustration when she tried to do it herself.What We Liked:  This is a great setting for My Little Pony games, and our daughter was delighted to add it to her village.
+The Cadance and Shining Armor figurines are also a great addition.What Could Be Better:  I took off a star because the set is not particularly sturdy, so it's best when it stays in one piece so we don't need to keep snapping pieces back together.
+I also wish there was a better way to store and organize the little pieces.
+Other than that, though, it's great."
+"Our house is Equestria.
+Our two young daughters have so many My Little Ponies that it makes my head spin.
+""What's this one called again, Sweetie?""
+They know them all.And then there's the accessories and the houses.
+My wife, God bless her, made up her wonderfully organized mind early on to keep the minutia together.
+I don't know how she does it.
+Uses containers.
+It stresses me out to think about it.
+Luckily, it's out of my realm!The Pony Princess Wedding Castle is one more thing.
+Of course, our girls(6&8) love it and must have it.
+There are only 2 Ponies: Cadance and Shining Armor.
+A royal wedding.
+She's fortunate, I quess.
+I don't remember any other boy ponies, but what do I know?It's regal looking.
+They can go up and down the steps; swing on the bench; open the door; spin the butterfly on top.
+Woo hoo.
+If you like My Little Pony sets you are going to love this one.
+For the adult it is easy to assemble and can stimulate a child's imagination -- Much better then tv.
+My daughter LOVES this set.
+The best part has been that all three of my girls have been able to play with this set together each taking on a few characters.
+FYI: for storage it is best if you get a little container for the small items.
+"My daughter absolutely loves My Little Pony - she's 8 - so we were excited to review this playset!
+She has all of the ponies and we had a blast playing with it.PROS:- no batteries!
+Any parent loves this!- Easy to set up.
+My daughter, her friend, and my son and his friend (both 11) were able to set it all up themselves with no help from me in about 20 minutes.
+How's that for simple?- Comes with ponies.
+It comes with Shining Armor and Princess Cadence, and what I love about this is that they're both just a little bit taller than the regular ponies, as they are in the show!- Extras!
+You'll see in the photos I'll post (hopefully!!
+If it works!)
+that it comes with a few extras.
+An organ, a chandelier, rings, bouquet, cake, and little teapot and teacups are really fun to play with.- Perfectly pony sized.
+A definitely plus!CONS:- Still messed up the ""cutie marks"".
+Once again there are only cutie marks on one side of the two ponies that come with the set.
+Bummer.- Doesn't fold up.
+It's not that big of a set, but if it folded up somehow, or could be broken down, it would take up less room in her bedroom, which would be nice!Overall the pro's far outweigh the cons.
+I highly suggest this set for anyone who has a My Little Pony lover in their house!"
+This is a nicely sized castle which was easy to assemble and came with some lovely little accessories which will be quickly lost.
+Thankfully it also comes with two ponies so even if you aren't sure if the little girl you are buying for has any ponies, never fear because she will get two to use with this set.The little girl in your life will have hours of fun playing with this set.
+So why not 5 stars?
+Because if the little girl you are buying for is not dainty, or has a brother there are plenty of bits that can be broken off, including the flags at the top of the castle.
+Also the little accessories are little, hurt to step on, and can be easily lost.On the whole this is a cute castle that looks good as decoration in a girls room and can offer hours of fun filled play for their owners
+This playset comes with Castle playset with Princess Cadance and Shining Armor.
+You can put the pony in the swing and it swings.
+The butterfly fits on the top of castle and the box comes with lots of wedding assessories.
+Like a cake, bouquet, piano, teapot, and teacups.
+It says for children 3 and up but the parts are fairly small so if your child has a habit of putting objects in their mouth I would take those away before giving the playset.
+The two figure ponies that come are about the size of five inches high.
+Not extremely large but not tiny either.
+Perfect fot he playset and if they buy other ponies if you do not buy the rather large versions of the ponies should be able to interact with the playset.
+My daughter loved it and played with it all afternoon.
+If your child is into My Little Pony this playset is a must have.
+You and your child certainly don't have to know the show/movie in order to enjoy this set, but my daughter - who loves all things My Little Pony, owns more than 20 pony toys, and has a horse bedding set in her room - she LOVES to watch episodes of the My Little Pony show streamed on Netflix.
+The final two episodes on that show are available as a DVD (My Little Pony Friendship Is Magic: Royal Pony Wedding); those are the episodes that feature the wedding depicted in this toy set, between Princess Cadance (the girl pony's name) and Shining Armor (the boy pony's name).
+(Be forewarned that some parts of pretty scary for little ones, though.
+I'd recommend at least age 3 before watching and older than that if your child is fearful.)
+Because we watch it over and over, my daughter immediately recognized the set and was ecstatic.
+She would have loved it without knowing the movie, though, so don't be worried that the movie/show is a must have before getting this set.My daughter (age 5) doesn't have the fine motor skills to put the included stickers on the set, so I did that for her.
+That was the most time consuming part of the assembly - everything else was pretty self-explanatory.
+The star stickers on the sheet have no designated place; neither the instruction page nor the picture of the box include them.
+We added them to the stars at the top of the castle, but your child could just as easily play with them in a craft or use them in another way.My son (age 3) likes to join his sister in playing with this set, because it includes a boy pony.
+He usually doesn't join in her pony games, so it's neat to see them enjoy it together.Included in the set are:--Castle playset, with some assembly and sticker placement required (no tools necessary)--Groom pony (Shining Armor), who has more coarse hair - which my daughter says is more boyish - than the girl ponies, whose hair is more silky)--Bride pony (Princess Cadance)--Butterfly to go on the top of the set--Comb--2 teacups (VERY tiny!)
+--teapot--table--wedding cake--bouquet--piano--purse--tuxedo on Shining Armor--groom crown--bride crown--dress for the bride (which is sort of like a cape, but that's how all the dresses are in My Little Pony toys) and a veil--2 rings--necklace--chandelier--sticker labels (including yellow star stickers that aren't pictured on the box)Not included, but pictured on the box:--The four bridesmaid ponies (named Rainbow Dash, Twilight Sparkle, Pinkie Pie, and Fluttershy.
+We already owned Pinkie Pie and Fluttershy from previous pony purchases.
+My daughter noted that one pony bridesmaid is missing: Rarity.)
+--The bunny and swan toys, shown next to Twilight Sparkle and Fluttershy respectively--The present, shown next to Rainbow DashMy major dislike for all My Little Pony items is that the box shows more toys than the set includes and a fold-out ad is included, one side which is a sweet invitation to the wedding and the other side shows the DVD to buy and at least 14 other My Little Pony sets to buy.
+It's hard to keep your kid from being greedy when she sees all the possibilities... which is why I've learned to snatch that fold-out section out of the box before my daughter sees it.
+I would prefer she be content with her new toy instead of begging for dozens of other toys that we don't have.And, yes, there are small parts, so I'm not sure the age range of 3+ is the best one.
+"My SO loved this play set, and uses it to play with several visiting little girls... and even little boys.
+Like she said ""We used to do ""pony weddings"" but all the ponies were girls, so... but now we have Shining Armor, so we can really have pony weddings!
+""This is really quite lovely, if not entirely sturdy (but it snaps back quite easily).
+It has scads of little fun accessories.Of course, you'll need to add pony ""guests""."
+This cute MLP playset celebrates the wedding of Princess Cadance and Shining Armor.
+The set comes with the bride and groom pony figures (not the large ones but the regular sized ponies which fit the playset), butterfly, comb, 2 teacups, teapot, wedding cake, table, bouquet, piano, purse, tuxedo, the groom's crown, the bride's crown, dress, 2 small rings, necklace, chandelier, and sticker labels.Little girls will enjoy playing with this set, and the set can be further enjoyed with the addition of one's collection of MLP toys.
+My daughter and her friend (they also love the Littlest Pet Shop) had great fun putting on a royal wedding, complete with wedding march:-) The set does come with some tiny accessories, so parents may want to keep them away from younger children.

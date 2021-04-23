@@ -1,0 +1,208 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+Your child can also work on her counting by counting along with the teapot while waiting for the tea to brew and count along to the correct number of pours of tea.
+This is the perfect toy for children ages 1-3.
+The cups also have two little holes on one side of the cup so you won't be having tea parties with any liquids unless you don't mind the cups dribbling.
+I think it has six different colors to match the pieces of cake -- and the teapot sings about the different flavors (""blueberry tea"" for the blue, etc.).
+The tray they go on has subtle imprints of the fruits to match up to, but they are hard to see, though there.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.005219705402851105,0.0021533614490181208,0.004207647871226072,0.005806760862469673,0.00596406077966094,0.005262902472168207,0.0046111284755170345,0.006790480110794306,0.0067795938812196255,0.003051413455978036,0.0036681268829852343,0.0052782767452299595,0.003361533395946026,0.007256048731505871,0.005118668545037508,0.00660340441390872,0.007107147015631199,0.006438629701733589,0.005389450117945671,0.006726827006787062,0.0058884224854409695,0.006583083420991898,0.002905843313783407,0.0065528713166713715,0.003964233212172985,0.004402546677738428,0.006410071160644293,0.0068416111171245575,0.0027363384142518044,0.005772049073129892,0.005458496510982513,0.006321317981928587,0.006791768595576286,0.005349268205463886,0.004910844378173351,0.005464702378958464,0.0047529605217278,0.006572066806256771,0.005372227635234594,0.0071892826817929745,0.0058014956302940845,0.00301277544349432,0.005396858789026737,0.006732187699526548,0.00509146461263299,0.005842201877385378,0.0037090745754539967,0.004726929124444723,0.007177229970693588,0.0077519966289401054,0.0030291685834527016,0.004437025636434555,0.003195648780092597,0.006880710832774639,0.003451069351285696,0.0034512339625507593,0.005827262066304684,0.006718830671161413,0.005854011047631502,0.006578253116458654,0.006018081214278936,0.006911103148013353,0.006566006224602461,0.006911103148013353,0.004689065273851156,0.004373551812022924,0.006844609044492245,0.005777708720415831,0.006590491626411676,0.006232131738215685,0.006173703819513321,0.006911103148013353,0.006600286345928907,0.006456579547375441,0.0066648609936237335,0.0020258817821741104,0.005163437686860561,0.0028687810990959406,0.001714256126433611,0.005482283886522055,0.0028298855759203434,0.0076005165465176105,0.006810360122472048,0.0057749212719500065,0.005811889190226793,0.004368404857814312,0.008016036823391914,0.006810360122472048,0.006524879485368729,0.0028968071565032005,0.0039202007465064526,0.005459113046526909,0.006803733296692371,0.006749969907104969,0.005541966762393713,0.002510539721697569,0.0038308831863105297,0.005830463021993637,0.0028758125845342875,0.0038874130696058273,0.004568902775645256,0.004211361985653639,0.005871133413165808,0.006333537865430117,0.0059625692665576935,0.0033741197548806667,0.0028068029787391424,0.005665770266205072,0.0018661081558093429,0.008262225426733494,0.003812098875641823,0.0029129881877452135,0.004637142643332481,0.006994110066443682,0.00413344893604517,0.006636436562985182,0.00586355896666646,0.004083395004272461,0.006986171007156372,0.0036400167737156153,0.004921696614474058,0.006425501313060522,0.0034691663458943367,0.006292502861469984,0.0043492973782122135,0.00382201187312603,0.0050780135206878185,0.003428201423957944,0.0020895134657621384,0.005846747662872076,0.006638131104409695,0.004193248692899942,0.00663914205506444,0.006640218198299408,0.002150872489437461,0.004790884908288717,0.008722926490008831,0.005087054800242186,0.0043211146257817745,0.006240509916096926,0.0024104139301925898,0.006659043021500111,0.0067062037996947765,0.006725876126438379,0.006169162690639496,0.002835583873093128,0.004387027118355036,0.002815915970131755,0.006521192844957113,0.005396088119596243,0.001563721220009029,0.00665375217795372,0.0031995160970836878,0.00627935491502285,0.005291749257594347,0.003668875200673938,0.005950269754976034,0.0046767257153987885,0.0042065843008458614,0.0028070821426808834,0.002377294935286045,0.006256526336073875,0.00785786658525467,0.0016998783685266972,0.006774997338652611,0.003972764126956463,0.004946069326251745,0.0032065710984170437,0.0041444431990385056,0.006331519223749638,0.004631492774933577,0.006959849502891302,0.0028037354350090027,0.007328556384891272,0.005733414553105831,0.005901177879422903,0.0048819780349731445,0.005722363945096731,0.007333910558372736,0.007192423567175865,0.006156880874186754,0.006302754394710064,0.003736380022019148,0.001982132438570261,0.006861981935799122,0.0026853494346141815,0.005694253370165825,0.006385572720319033,0.0032324902713298798,0.006509377621114254,0.0036920360289514065,0.008481385186314583
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+My two year old daughter and I have a blast playing with this talking tea set.
+Not only is it adorable but it has realistic sound effects such as a pouring, brewing and empty teapot sounds.
+It sings catchy little tunes and is a great aid in teaching colors, counting and matching using the different cake pieces that come with this.
+Through playing with this toy, my daughter has correctly learned the colors.
+Even my husband and five year old son enjoy having tea parties with her ever since we received this.
+This is a highly educational and really fun tea set that I highly recommend, your little ones will love it!
+"I have two daughters, ages five and one, and this LeapFrog Musical Rainbow Tea Party set struck me as a perfect toy for them to enjoy together.
+And for once, I was right.
+Both of my daughters, despite their age difference, really enjoyed playing with this at the same time.
+I've been encouraging my five-year-old more and more to take an active role in both playing with and teaching her younger sibling.
+This is a great play set that encourages role-play fun combined with educational activities.For my five-year-old, it's a whimsical tea set with some realistic attributes, such as lights that indicate how much imaginary tea is left in the pot and verbal cues from the pot itself.
+Meanwhile, my one-year-old loved the different colored slices of cake.
+For both of them, I was pleased that the play set goes through some basic learning activities such as counting.I've purchased a few LeapFrog products over the past five years, and I think this might be our family's favorite.
+It's one that has gotten a lot of attention over the past few days and it appears to be a real playtime winner that my daughters can enjoy together.
+A moment ago I ""interviewed"" my five-year-old about the set, and she expressed the following, ""It's wonderful, very incredible.
+It's a tea set.
+You match colors, fun and learn something.""
+Recommended."
+"My one year old and three year old have LOVED this tea set.
+Unlike some of the other ones I have purchased it also has the little cakes which they enjoy ""eating"" with their tea.
+The pieces are large so there is no hazard for teething kids.
+The only down side is that it comes ""on"" in the box.
+So if you are ordering this as a present be aware when you pick it up the teapot will start making noise.
+It is also a bit loud for my taste in the living room but is fine when in their room."
+"I am not the most biased person out there as I LOVE Leapfrog products and they can do no wrong in my eyes.
+The teapot sings so sweetly ""Strawberry tea..."" and it will give you a color, taste, amount that touches all your senses.
+This was really sweet."
+I got this for my two boys - baby and older son - and it's fabulous!
+It arrived in standard Leap Frog packaging and it was on, and very loud.
+The loud setting is blasting for me, oh my goodness.
+So kiddos were ready to play right away since they could hear it.Manners, Manners, Manners!I love how polite this tea pot is.
+And encourages participants to be polite as well.
+How sophisticated and fun it is to have manners.
+Both of my boys played nicely with this toy.
+It is great for social skills, something we're big on in our house.
+Taking turns, sitting at table, being polite, having conversations, playing.Age GroupsWhile box says 1 year to 3 years, I always enjoy toys that my older son doesn't mind playing with the younger one with.
+He actually had a pleasant time helping my younger son play with the tea pot.The younger son plays with this for longer periods and by himself as well (with stuffed animals).The Tea PotIt's quite noisy for me, but the kids love it.
+She sings and talks a lot.
+She counts and says colors and her tunes are nice.
+I prefer the volume off - but no such luck!Pretend PlayThis is strictly for pretend play - do not mix with water or real tea and cakes.
+The tea pot wouldn't work if it got wet.
+The cups have little holes in them to discourage liquids.Other benefits are colors (the cakes are different colors) and matching (they will ask for a specific color cake) and counting (the amount of pours of tea), but the learning is really more of the fun and less route drills.Overall I'd say Leap Frog has done it again with a wonderful toy/product.
+I would purchase this for both BOYS and GIRLS as everyone needs to learn manners and how to act at a party.
+This is a cute little tea set.
+The tea pot sings and give prompts about pouring tea for one and two people.
+The pot sings songs and talks about different teas that match up with the different slices of cake.
+The front of the pot lights up and then drops by half after pouring.
+The attached lid can be lifted up and down and the pot talks about being open and close etc.
+I have a one year old girl and a 5 year old boy.
+They have both loved brewing tea and eating cake.
+The pot makes pouring noises much to the giggles of my little one.
+The tea pot comes with a volume button and off position.
+This means that as a parent you can reduce the noise or switch it off all together.Overall this has been a great imaginary play prop for my kids I just have a couple of little things that I wish was different.
+One I wish it had four cups instead of two especially since there are 6 pieces of cake.
+Also the little cups have little holes in the side from where they were threaded to the box which means that if you child decided to put actual liquid in it could easily pour out when drinking.
+Also the colour, why do tea sets always have to be so girly.
+My son loves playing with this set and I am sure other boys would too but being pink and purple means you would not always want to give it to a boy.
+I would have loved more neutral colours.
+I am preschool teacher.
+I teach a class full of three year old boys and girls.
+As soon as I opened this tea set, I knew it was going to be a hit!
+And boy, was I right.
+My students cannot get enough of this toy!
+Both boys and girls love it equally.
+What kid doesn't love to pour?
+The sound of pouring when you tip the pot is definitely the biggest selling point.
+Kids love it!
+They also love passing out the cake pieces and then matching them to the tea.
+The songs are adorable and not over annoying as some singing toys can be.
+I love that there are two sound settings as well, being in a classroom it is not always a good idea to have noisy toys.
+I've directed the kids to keep it on the low setting and it's been great!
+No disturbing nearby classes!
+I can't recommend this toy enough!
+It's the perfect toy for dramatic play!
+"This is a really great first tea set.
+When you pour it, the tea level (which is the colored light) drops realistically and it makes a great sound of water being poured.
+When you open the lid (which is connected to the tea pot - so you can't lose it!
+), the teapot makes little comments about being opened or closed, or says things like ""please close me so the tea stays warm!""
+It recognizes when you pour the teapot, to trigger sayings like, ""you just poured one cup.
+There's enough tea for one more!""
+and prompts the user to pratice counting skills (""please pour two cups!""
+- and then after you've poured the second cup, it can sense that and says ""great!
+you did it!
+you poured two cups!"").
+Pretty cool!
+The songs are pretty cute and there is a volume control and an off button (for when they become not cute as cute...haha).
+I think it has six different colors to match the pieces of cake -- and the teapot sings about the different flavors (""blueberry tea"" for the blue, etc.).
+It's really so cute!
+I love the way it uses the light to make it seem like you're pouring the tea...
+When I just saw it online, I thought that might not be effective -- but my 2.5 year old really thought there was brightly shining tea in there, and keeps opening the lid to see what's inside (and to hear the funny, varied expressions when you open the lid).
+The Musical Rainbow Tea Party is a great toy.
+It's very durable, bold and educational.
+That's the stuff I love.
+My 2-year-old daughter loves playing pretend and this is a great toy for her.
+Plus, all the food slices is a shape that fits in it's on spot on the plates, like a puzzle.
+It helps her learn to identify and name colors; match colors and objects; develop social skills like sharing, communication and learning manners; and get lots of practice counting with adorable The Musical Rainbow Tea Party that lights up in magical colors.
+After she's done with the set I can get her to clean up when she's done.
+And she loves carrying this around the house too.
+Highly Recommended to Explore preschool skill-building activities.
+I suppose the unique factor to this tea set is that it's electronic and colorful.
+It plays some cute songs the while the little one is pouring their fictitious tea.
+Odd how girls gravitate toward this toy and tea sets in general.
+This Leapfrog set is very durable.
+Actually cups can be really used for drinks, at least my girl does, no harm I guess.
+Buy one, your little girl will enjoy for a while.
+"Whether or not you'll like this tea party set from LeapFrog will probably depend largely on how you feel about battery operated toys for little ones.
+For the most part, I'm not a fan of battery operated toys and typically prefer those types of toys when they're turned off.
+Like many ""educational"" toys, this tea party set eliminates the need for your child to have to use her imagination.
+Sure she can have a tea party with a cute teapot that makes sounds and changes colors but I honestly don't think you can expect your child to learn much from this toy.As a tea set, your little one may be disappointed that she can't put water in the teapot and pour it.
+The cups also have two little holes on one side of the cup so you won't be having tea parties with any liquids unless you don't mind the cups dribbling.
+Part of the fun for little girls when they have a tea party is actually drinking water or juice out of the tea cups.
+It does seem like it's rather difficult to find a good quality traditional tea party set with cups and a teapot you can actually use for little ones these days.That said, my almost two year old was mildly interested in this toy.
+She likes to play with pretend food for her kitchen set, so the little cake this set comes with is fun for her to play with.
+She really wasn't all that interested in the tiny tea cups.
+She seems to prefer a Fisher Price tea set that we have had for nearly 11 years to the Leap Frog one."
+If you have a little girl who loves to play pretend, this is the tea set for her!
+The teapot talks and sings, plus it lights up to give the illusion that it's either full or empty.
+It also helps with color coordination because it will ask the kids to find the matching cake.
+This is a very cute set and my daughter loves it!
+My daughter is 3 and loves this Musical Rainbow Tea Party 10-piece set we have both had a 100 cups of tea by now.
+I can see it holding her attention for another year or so even-though it says ages 1-3.
+She has other tea sets some very realistic type settings, but none of them are quite as fun as this.
+It came with batteries installed infact it was talking in the box...you will receive one plate with six different pie slices and 2 tea cups and the tea pot of course.
+It lights up in several different colors and sings songs,they will also learn about matching, manners and counting it knows many phrases.
+The lights mimic the tea being poured and the pot emptying very realistically.I would have liked two sauces for the 2 tea cups or maybe to serve two individual slices of pie.
+My daughter has other serving sets so we were ok...no real complaints other than that
+When the delivery man handed me the package with a grin, I wondered for a moment what made him so happy.
+A second later and the box began to sing.
+I laughed then thanked him and ran into the house.For a small price, the Musical Rainbow will delight your child with its colorful plastic shapes, happy songs, and easy pick-up.
+There aren't a lot of pieces and the ones it has are easy for little ones to grab.
+It's simple to use, teaches about shapes, and my granddaughter just loves it.
+I would recommend this wonderful little tea set to anyone looking for a well-built toy at a reasonable price.
+This is a cute tea set that offers something a little extra.
+I think your preschool child would like it too.
+My daughter loves the mirror inside the teapot and the six rainbow colored lights that represent the tea.
+Your child can match the correct color of light to the correct color on the pretend cake pieces at the end of each song or counting sequence.
+Your child can also work on her counting by counting along with the teapot while waiting for the tea to brew and count along to the correct number of pours of tea.
+Two cups are included but a couple of plates would have been a nice touch as well.
+"The LeapFrog Musical Rainbow Tea Part Role Play set is a new favorite around the house these days.
+My oldest daughter (almost 3) has other tea sets, but this has been the only one she's played with since getting it.
+While my two 18 month-old twin daughters aren't quite old enough for the 'role play' aspect of ""tea time,"" they love it too and love the changing colors and songs (they regularly dance to them).
+The included ""cake"" is a cute addition, and overall it really seems to be hitting the right notes as far as incorporating a bit of education (numbers, including some simple subtraction, and colors) with the fun.
+The songs themselves are cute enough and match the color of the pot (the type of tea, blueberry, lemon, etc.)
+that's being brewed at any given time.
+The 'brewing' (the button on the bottom) is probably my girls' favorite part...that and pouring the tea.
+This is probably also the teapot with the most extensive vocabulary ever made, with over 50 songs, phrases and sounds, so I'm pretty sure we haven't heard them all quite yet.This is a great tea set.
+The build quality is typical Leapfrog and seems durable and well-made, while it manages to be fun and educational at the same time.
+The Leapfrog Musical Rainbow Tea Party Role Play set has become one of those rare toys that isn't just played with, but sought-out and played with almost every day.
+Of all the things that could be said about it, that probably says the most."
+"My 21 month old enjoys the tea set and the cups.
+She likes to pour and pretend to fill the cups.It really isn't a product for a 1 year old, More like 18 months and up.Pros:- ""physics"" based pouring sound (turn it sideways and it starts pouring tea- catchy tune that my little one likes (adults might find it quite annoying after the first hundred times)- Press the ""heart button"" to refill (not infinite tea to pour)- lights inside the tea pot for different colored teaCons:- the pie has been a complete afterthought, little one has never played with it.
+Maybe they could have made it into a puzzle were pieces fit together or something.
+Right now they just site on top of a dish, but doesn't have anything to hold it together.- The amount of songs/sounds from the tea set is very limited/repetitive.
+The pouring sound is fine, it's the other song it as which is always playing.Neutral (strange choices?
+)- Open the top of the tea pot and you have... a mirror.- Only 2 cups and 6 pie slices, would've been nice to have 4 cups, or at least 3 so  babies can play with mom and dad.Overall, my little one has enjoyed it for 2 months, and continues to do so.
+The pie she still doesn't pay attention to, but she likes the pouring sound, and to offer us tea.
+I would recommend it to other parents."
+"This is currently one of my top five toys.
+Sure I got it for my son, and it's decidedly 'girly', but he is too little to care and all of the features are too nice to pass up on.
+He loves the light up teapot 'belly', how the light tips when poured, the color changes.
+It's pretty mesmerizing for my two older kids also, who both vie to play tea party with him.The entire set is durable, hefty, and solid.
+The six cake pieces are also perfect and not hollow on the bottom.
+The tray they go on has subtle imprints of the fruits to match up to, but they are hard to see, though there.
+The cups are just the right size for not just the set, but for chubby little hands to pick up and play with.It says it sings 50+ song, I think I've only heard 10, maybe there is just slight variances I'm not catching, but it's not too annoying even when I feel like it's on continuous repeat.Under the lid, (which is attached to the pot and doesn't remove), is a mirrored area, and one of it's phrases is ""why hello there!
+"", so cute.
+My son likes to lift the lid just to look in the teapot at himself.I subtracted one star simply because it's not a more universally gendered toy, but don't let that deter you if you also have a son, it's a great way to learn colors, learn sharing, learn manners, and just be silly with."
+"My two year old twins and nine month old love this toy.
+I originally selected it for my nine month old, and she loves the colored ""cakes"" and takes great joy in banging them around.
+She also likes the talking teapot, although it took her a few tries to figure out how to make it talk.
+My twins love the tea set.
+Being 2 1/2, they are able to ""play along"" with the teapot and pick out the correct color cake, ""pour"" more tea, etc.
+when she asks for it.
+They have all been playing with the tea set daily for about three weeks, and they have shown no signs of being bored with it.
+I have always been a huge fan of leapfrog toys, and this one does not disappoint."
+My daughters, aged 4 and 10, both enjoy playing with this.
+It has many phrases and even lights up.
+It comes with a cake, which is sliced and 2 cups.
+Just wish it came with 2 plates for the cake.
+My daughters use it with their cupcake kitchen, so they already have plates and utensils, so no biggie, but it should've been included.
+Batteries are included.
+"My daughter loves this thing, even though we tried to keep it locked away till her birthday.
+But she eventually kept finding it, and playing with it from within its box.
+So we decided to give it to her a week early.We have the picnic basket that complements this set, and it's nice overall to have both sets to play along.
+The volume on this tea set is great and loud, and leaves the sound chips and speakers from my infant days in the dust.I like that the spout is sensitive to its angle, so it knows when it's being poured and when it's ""empty.""
+The colors are vibrant, corresponding to the pie flavors, and actually diminish once the supposed tea runs out.
+There are also modes which help distinguish how many cups it's being poured into.The songs are cheerful, and my daughter loves opening and shutting the lid to hear them, as she does on the picnic basket.The pieces are sturdy enough to take a whacking.
+For the price, this set is pretty awesome, and my daughter and both my wife and I have a blast playing with it, whether it's tea time or just throwing the pieces around."
+We love our LeapFrog tea set!
+It's a lot of fun to pretend having a tea party with the educational sounds, songs, and lessons (colors, numbers, matching).
+In particular, my wife and I appreciate the focus on manners (please, thank you, serving others before yourself, etc.).
+We find that many electronic toys are so loud, but the teapot has high and low volume settings as well as an auto shut-off.
+This is the perfect toy for children ages 1-3.

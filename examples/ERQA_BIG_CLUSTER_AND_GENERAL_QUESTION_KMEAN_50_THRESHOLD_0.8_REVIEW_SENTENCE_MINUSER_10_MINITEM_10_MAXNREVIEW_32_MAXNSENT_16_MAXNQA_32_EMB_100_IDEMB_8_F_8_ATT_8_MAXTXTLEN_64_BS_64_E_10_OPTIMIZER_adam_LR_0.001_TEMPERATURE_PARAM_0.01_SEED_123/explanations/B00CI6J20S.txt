@@ -1,0 +1,237 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+The crayola My First Crayola Touch Lites Color Pad is geared for toddlers and up.
+However, being an industrious child, she immediately grabbed some markers and decorated the boring white frame that surrounds the gel pad.I imagine that an infant might be fascinated by the texture, the lights, and the music.
+And an infant can't draw anything anyway, so wouldn't be disappointed if their drawing suddenly disappeared or never appeared at all.However, if you have a child who likes to draw and likes to actually see their drawings stay in place for more than a split second, you will likely have a child who is very disappointed with this product.However, if your child is either an infant or a Wizard (or an infant Wizard!!!
+So let's be clear about what this is: some purple gel on top of a light pad.
+While I can see a toddler playing with this for hours in a long car ride, each drawing would have to be shown ala ""look mommy!
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.004651420749723911,0.004442199133336544,0.004633255302906036,0.003553558373823762,0.004964594263583422,0.004544354509562254,0.006086945068091154,0.0074639273807406425,0.0053407796658575535,0.0054095773957669735,0.0025564345996826887,0.003027873346582055,0.004172772169113159,0.003655380103737116,0.004943518433719873,0.004401564598083496,0.0024791450705379248,0.003479808336123824,0.003692347789183259,0.003048346843570471,0.006295546889305115,0.007629187311977148,0.004269014112651348,0.0034785065799951553,0.004269014112651348,0.005996192805469036,0.005687255412340164,0.0040581440553069115,0.004178153350949287,0.004677879624068737,0.005162958521395922,0.00410773791372776,0.00512230908498168,0.0065872748382389545,0.004160713404417038,0.005059159826487303,0.004780401010066271,0.0026883676182478666,0.00323112984187901,0.006861585658043623,0.004348373971879482,0.005875410977751017,0.0043539670296013355,0.003961163107305765,0.004300670698285103,0.0045261746272444725,0.006534784100949764,0.005764462053775787,0.004208767786622047,0.00490400567650795,0.008922304958105087,0.004697738215327263,0.002865440212190151,0.00365998363122344,0.004794720094650984,0.00493607996031642,0.004281328991055489,0.003814495401456952,0.005238278768956661,0.005407292395830154,0.004569018725305796,0.004391076043248177,0.004136500880122185,0.0018351292237639427,0.004205344244837761,0.0038663463201373816,0.004253160674124956,0.004609056748449802,0.0038427747786045074,0.0037177668418735266,0.004395532887428999,0.003906783647835255,0.003593229688704014,0.0035483429674059153,0.005968621466308832,0.004626755602657795,0.004149767570197582,0.00498770410194993,0.0024506631307303905,0.005612149368971586,0.003870883956551552,0.003919627983123064,0.003970641642808914,0.004274011589586735,0.0044455756433308125,0.004814020358026028,0.0032939931843429804,0.0038787336088716984,0.003881902666762471,0.0041178748942911625,0.00399794103577733,0.010483690537512302,0.004726343788206577,0.0043471939861774445,0.004363959189504385,0.00449173292145133,0.004445602651685476,0.00211194041185081,0.004604736343026161,0.00553091149777174,0.004442698322236538,0.006118146236985922,0.0032973552588373423,0.0045313588343560696,0.004207484889775515,0.004129230510443449,0.004126133397221565,0.0036218774039298296,0.0041588968597352505,0.0034898731391876936,0.00491783581674099,0.004348967224359512,0.005404225550591946,0.004977026488631964,0.001964268507435918,0.004213572945445776,0.005848287604749203,0.006471018772572279,0.0050688195042312145,0.0026913071051239967,0.0027581751346588135,0.005644214805215597,0.0026011343579739332,0.0029211100190877914,0.003190995892509818,0.0041639478877186775,0.006020546890795231,0.006497550290077925,0.004301424603909254,0.0034341129940003157,0.0047548022121191025,0.00559258321300149,0.0033292563166469336,0.0038212763611227274,0.004446752369403839,0.0048994640819728374,0.007629883475601673,0.0038153978530317545,0.003523108083754778,0.0051043047569692135,0.004220458213239908,0.0044082454405725,0.0048945602029562,0.004472760483622551,0.005274830851703882,0.002856925828382373,0.005428574979305267,0.0050084940157830715,0.0022146503906697035,0.004040972795337439,0.006764266174286604,0.004914266988635063,0.004445318132638931,0.004416374024003744,0.004385785665363073,0.004358496516942978,0.0036355359479784966,0.007729322649538517,0.003757308702915907,0.005517123732715845,0.004178480710834265,0.00524928979575634,0.006303537171334028,0.006029600743204355,0.005461760330945253,0.009618685580790043,0.008929996751248837,0.0038131549954414368,0.004219943657517433,0.0043586562387645245,0.003569352673366666,0.005129238590598106,0.0035832058638334274,0.0039770896546542645,0.003978312481194735,0.002744639990851283,0.005220203194767237,0.0043566422536969185,0.00553193548694253,0.005371586419641972,0.008177509531378746,0.004050379619002342,0.004319557920098305,0.004861669149249792,0.002637462457641959,0.00517251156270504,0.004961890168488026,0.003370082937180996,0.004754204768687487,0.0047927722334861755,0.003554171184077859,0.0037959692999720573,0.0048324353992938995,0.0034594431053847075,0.004250512458384037,0.005005300510674715,0.003196661127731204,0.002755531342700124,0.004552709870040417,0.005660966504365206,0.005909804254770279,0.004307648167014122,0.0038512679748237133,0.004569650162011385,0.0042603942565619946,0.004539931192994118,0.0032727757934480906,0.0038016410544514656,0.003499377751722932,0.00412705959752202,0.0043968078680336475,0.003886434016749263,0.00430787680670619,0.004531752783805132,0.0035798451863229275,0.004415583796799183,0.0038282787427306175,0.0045683481730520725,0.004119065590202808,0.002319411840289831,0.0044165062718093395
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+My granddaughter likes this.
+I don't think that she will like it as much when she gets older.
+It doesn't hold the patterns that you draw it very well.
+What my granddaughter likes about this is the music and the color changing.
+That is pretty much all she does with it and doesn't really draw on it much because anything she draws goes away almost immediately.
+What a great way to allow young children to create anywhere at any time without worry of mess and lost pieces.
+The Crayola My First Crayola Touch Lites Color Pad is unique and entertaining.
+There is an option to have music playing or to have the music turned off during play (honestly, I find the music a bit annoying, however younger children may enjoy it, lol).
+This one piece creativity center consists of a hard plastic base, covered in a rubbery type of plastic material.
+Between the two is a thick layer of a gel-like substance.
+This allows the design to appear as you run your finger or the blunt tipped plastic stylus over the top.
+The combination of colors are fun and with the light switch turned on it adds another dimension of fun to the center.
+This is geared toward younger children, however my 7 and 11 year old thought it was pretty cool for short bursts of time.
+To be honest, it has a bit of a zen effect for me, lol.
+The pliable and squishiness of the gel is very calming and enjoyable to run your hand and fingers over.
+A good way to relax and release a bit of stress.
+To erase your creation, simply softly run your hand over the top to spread the gel back out and begin again!
+This touch pad allows your preschooler to fingerpaint or use a stylus and enjoy musical tunes based on his or her color choices.
+In other words, it does a lot despite being contained in one neat package.I really enjoy the fingerpaint aspect of this over the usual reusable drawing surfaces (like a magnetic doodler) because your child can interact with feel.
+Unfortunately, the fingerpaint aspect is basically all that works with this unit....well, except for the music, but it gets tiring after a while.If this were a fully functioning product it would be super innovative and fun.
+As it is, it provides a nice distraction for a toddler.
+Not exactly the same as sitting down with some paper an crayons but it's amazing fun for younger toddlers that shouldn't be around markers an such.
+The feel is unique an once you get to use it it's fun over an over.
+Pretty durable as long as nothing gets punctured dropped or anything an as far as being educational it depends what you use it for.
+Hope you enjoy as much as I have.
+Crayons for the next generation perhaps?
+This is a great toy that combines crayons with more interactivity and less mess.
+Features multi-hue lights and music for the little ones to enjoy.
+Our little daughter thinks its a great entertainer.
+When I saw this I thought it would be great to have a mess-free coloring toy for our 3 year old.
+She plays with it for a bit, but it does not have staying power.
+She quickly moves on to other toys.
+It's fun, but as some reviewers have stated: the music is incredibly annoying and not necessary (easy to turn off).I somewhat recommend this, but don't expect it to become your child's favorite toy.
+The idea behind this toy is interesting, but it fails in execution.
+There is a purple gel behind a plastic covering that you displace with a stylus or with your fingers.
+(I am not so sure that this mess-free toy will remain mess-free.
+I am not going to try to break the cover, but it certainly doesn't seem like it would take much.
+A little bit of effort from a curious kid will most likely result in a mess of purple goo.)
+Because you are using pressure displacement to draw, it's hard to actually draw and it's hard to clear the screen.I think I could have about as much fun with a little bit of corn syrup, food coloring and a zip-lock bag....
+"We have tried so many Crayola products and really have only been pleased with their most basic of products such as their markers and crayons.
+I'm not sure who designs their toys or lets them go to market but many such as this one just lack proper execution.They had me at ""mess free"" and I was very excited about trying the product out but it just doesn't work that well.
+I think young toddlers would still like playing with it because it is something to just doodle on.
+I think the music is also engaging for that age as well.I have a 6 and 8 year old and I realize that they are older than then intended audience but I was excited to have them be able to just sit in the car and doodle since this is a perfect lap toy.
+But they aren't very impressed with it.
+You can doodle on it but your picture doesn't stay on it very long before it fades away so they can't really make any pictures.They were bored and done with it after just a few minutes.Requires 3 AA batteries but are not included.
+I really don't know why companies can't include batteries.
+Are toy prices not high enough already to cover the cost?, I mean really, come on Crayola."
+"In my experience virtually any of these cheap ""drawing toys"" that isn't a magnetic based toy is a waste.
+This one actually breaks the mold a little bit: it's actually fun for the two and under set.
+My older kids (5 and 7) got bored pretty quickly.
+So let's be clear about what this is: some purple gel on top of a light pad.
+You can make the light pad turn a few colors.
+It comes with a stylus, which is pretty useless and not that baby safe, so I tossed it because this became a baby toy right away.
+It's hard to make any actual picture with this, however the babies love the squishy feel and the light.
+The music is pretty awful, but you can turn it off.
+I think anyone over three will get bored fast, but as a tactile and sensory toy for a baby, it's fun."
+What a great new product!
+There is a layer of dark gel under a hopefully durable plastic covering.
+Under the gel is a light source that can change color.
+As you manipulate the gel with any sort of pressure, new designs take form and are easily smoothed out again.
+My older children even got a kick out of this, playing with the product for hours and hours.
+I would recommend this product to any child from 2 to 7.
+My preschool class loves this toy!
+We have actually done a project when the kids use fingerpaint that is stored in a sealed baggie, so they really loved the sensory aspect of the toy.
+The front feels squishy and fun, which kids love!
+The colors are beautiful and bright.
+The music is a great addition to the toy.
+My class really enjoys the songs when they are drawing with this.
+Touch Lites is also very durable.
+It has been dropped several times and keeps on ticking!
+Crayola art toys are always a hit and this one is no exception.
+We really love this in our house!
+We bring it out everyday and my 3 year old colors away.
+He likes the music and colors behind the paint.
+We have been working on tracing letters on the color pad.
+I draw a letter and then he traces over it or draws it next to the one I just drew.
+I really like that I can use this in an educational way.
+The pad comes with a pen that tucks into the back for storage, but we mainly just use our fingers.
+Even when he gets rough the pad holds up and it seems exceptionally durable.
+I think this toy would be great for as young as 6 months and as old as preschool age.
+Absolutely a toy that will grow with the user.
+My son loves to draw.
+Before getting this toy, I would let him play with drawing apps on my phone or iPad.
+Even though the apps are made for kids, many of them have pop up ads and are constantly asking you to buy upgrade packages.
+It was frustrating for me and for him.
+This color pad is a nice, low-tech way for kids to be creative.
+It's also very portable, which makes it nice for car rides or entertainment while hanging out in a stroller.
+The songs can get a little annoying, but you can have the color change option without sound.
+My son seems to prefer playing with the sound off, so I'm happy.When the color pad first arrives, the purple stuff inside looks like it is dried out and cracked, but it's not actually.
+All you need to do is smooth it out with your hand and it's good to go.
+After the color pad has been sitting, unused for a while, the weird dried/cracked appearance will come back, but you just need to smooth it out again.
+The crayola My First Crayola Touch Lites Color Pad is geared for toddlers and up.
+The stylus is not really usable for a toddler, so I suggest that they use their hands instead.
+The music is loud and somewhat annoying and got turned off almost immediately.
+I don't think that an older child would enjoy the toy as it is difficult to get any precision in the drawing (as the gel in the pad keeps slowly migrating back across lines.
+The batteries are not included, so be sure to pick them up when you get the toy.
+It was an okay play but not one that I recommend highly.
+"I received this as a review unit and I was hopeful it would be really neat to play with it.
+The pad itself is fairly heavy, it's not too bad but there is some heft to it.
+The ""color pad"" part of it is made up of dark purple liquid inside a plastic case.
+It comes with one tool, a pen with triangle sides.
+The pen is self explanatory, the triangle sides are used to smooth out the liquid on the pad to essentially ""erase"" your design.I found when playing with it as I drew the liquid started to fill in my design again really quickly.
+The only want to get around this was to push the liquid away from the middle where I drew, and then draw on the mostly exposed part.
+It worked but it left a lot to be desired.
+There is really too much to ""think about"" when trying to use this.The music and lights are pretty neat, it's a fun toy but I think there is a lot to be desired.
+I remember having a toy similar to this with a part you could lift up to erase your design, this one doesn't seem to work so well in that aspect.
+Yes I think kids would enjoy it, but I think it could be better."
+My 3 year old was really interested in this for about an hour.
+She thought I had given her an iPad, and doodled on it a little bit.
+Then she realized it wasn't an iPad and nothing she draws on it comes out very well.
+That was the end of that, and it has been under the coffee table with a dump truck parked on top of it ever since.
+My toddler loves to draw, so I was very excited about this toy and hoped that it would live up to my expectations.
+It does have a lighted background which she can change between colors and it will play child-friendly music, but it is a terrible drawing toy.
+The surface of the pad is a gel-filled tablet and you can squish shapes into it with either your fingers or the provided stylus.
+Unfortunately, the gel seems to move rather freely so that once you have pressed a line into place, the gel oozes back over it almost immediately.The only way we managed to get any drawings to stay on the board for any length of time was drawing on it when it happened to get let in a rather chilly room overnight.
+The next morning, simple drawings with widely spaced lines would stay visible for longer periods of time.
+But I'm sure prolonged exposure to the cold would ruin the electronics inside.The toddler likes to scribble on it, but seems to get frustrated that her pictures disappear and often ends up abandoning it in favor of traditional crayons and paper.
+"What is the Touch Lites Color Pad?
+It's a squishy gel pad lit from underneath.
+Simple as that.It does have an interesting feel to it, a bit stiff and requiring a decent amount of pressure with a finger, or there is a triangular stylus included to draw and write.
+It clips nicely to the back.I actually did not purchase it for a little child, but for our Special Education classroom at a high school.
+The tactile experience is nice, but the pad is not very large (probably a bit larger than a typical 8x10 drawing pad).
+Pressure as you draw will squish the gel into a space you might have just drawn, so there is occasionally some frustration in ""undoing"" what you just did.You also (obviously) cannot save art work, so it is much like the old-fashioned Etch-A-Sketch in that you can show off your work, but then you start over.
+It's not a messy project, like the fingerpainting it tends to mimic, since it's all self-contained, and is quite portable.The light up background makes for more interest, and the music adds to the experience.
+Thankfully, the sound can be turned off at any time with a quick switch on the back to provide quite time.You will need 3 AA batteries that are not included and a mini screwdriver to insert them.
+It's a nice safety feature that the battery compartment does not pop open, but it does make it a little bit more of a project to install or change the batteries.Botton line: Clean artistic fun for a little while each day."
+The Crayola Mess-Free Touch-Lights is a unique toy.
+It is a tablet for the youngsters with a squishy gel that can be manipulated and pressed to reveal any of six colors of light to form patterns or just to squish around.There is optional music, six different tunes, one for each color.
+The colors are selected with the yellow button.
+The effect and tactile experience are quite similar to fingerpainting but the pictures fade as the gel fills in where pressure has been applied.Three AA batteries are needed for this toy but aren't included and I would recommend rechargeable ones, such as the Eneloop brand.I must admit that I enjoyed playing with this as much as the little ones did&mdash;perhaps more so.
+It is lots of fun with the lights out, too!
+My almost 3 year old boy likes this pad.
+There is dark fluid under the screen and light under.
+Quite cool effect.
+The syllabus doesn't work as well as fingers.Every color has a different song (nursery rhymes like Twinkle, twinkle little star or Old Mcdonald's farm).
+The music is a bit too loud (side note: toys manufacturers tend to make musical toys very loud and if there's an option for different volume is either loud or obnoxious loud instead of quiet and regular as most parents would appreciate).It would be nice if 3 AA batteries would be included.The drawings don't keep shapes for a long time but my son was mesmerized by light and finger painting and the toy also attracted my 10 months old daughter (light and music).Overall decent toy, will see how long it can occupy toddler.
+I have a two year old that loves this toy, however my other son with sensory issues just can't handle the texture of the gel.
+I would suggest not bothering with the stylus, my kid just tossed it aside and used his fingers, the music an be a bit much but the color changing is pretty neat.
+This product requires too much pressure, so much that I can barely draw anything on it myself.
+It worked so poorly that we ended up throwing it away after trying my different times to get it to work properly.
+My daughter liked this for 30 minutes and then it was never touched again.
+I think it was due to just the novelty of drawing on a squishy gel ( the product is just a gel covered with a plastic type cover) and the fact that you cant draw much of anything on it.
+I'm not sure how they made that sun picture on the product image and i cant get anything close to it, so dont expect anything of that quality.
+But i think it a decent , cheap, and durable toy for a small toddler to waste some time on.
+"We joke that this is called ""Doodle Buddy,"" like my toddler's favorite app.
+And it kind of is-- it's flat board that you can run your fingers or the ""stylus"" on to paint pictures.
+Now, you're not going to be making masterpieces with this, so older children might get frustrated if that was what they're planning, but it still has been fun for all of my kids.
+There's something soothing about using your fingers to draw here.
+And for something that kind of simulates finger painting without the mess, it's a win.
+I like how the board can change colors, too.
+The plastic covering seems incredibly durable, too-- my 4 year old has run her fingernails over it, pressing very hard, and it hasn't even gotten scratched.There's only one slight drawback to the pad, and that's if it's dropped while drawing, the light/music is prone to turn off.
+This happens even with small little drops.
+But it hasn't really bothered my kids because the drawing stays intact, and it's very easy to just hit the button on again.
+I don't really mind the music on this toy, but we usually play with the music off."
+I had been saving this toy for my younger son (2 1/2) to play with in the car during a late night trip.
+He liked it!Overall this is not the best toy made, but it was enough to make my 4 1/2 year old jealous and want one too (no, we're not buying another one).
+We previously owned theCrayola My First Crayola 2-in-1 Doodle Board, which was a complete waste.
+The gel part, which is much the same as the Touch Lite Color Pad, my son found interesting, but it was small and he was smaller, so he just liked the feel of rubbing his finger over the gel.
+The water-pen part of the board just got destroyed when my son scraped it too much.
+Anyway, back to the Touch Lite Color Pad... it kept my son well occupied and the lights and sounds weren't that annoying.
+The designs do not stick that well though, they tend to clear away too quickly, but he's 2 1/2 and doesn't really care.
+My 4 1/2 year old, once he got a chance to play with it, liked it well enough, but it's hard to say how much of that was because his little brother had one and he didn't.Overall I think it's a good night travel toy.
+The pictures on the box show children who have supposedly successfully drawn pictures on the color pad.
+And those pictures are clear, vibrant, and stay long enough for a photographer to snap a picture.There is only one explanation...those children are Wizards!My own, perfectly normal, non-magical child couldn't draw a clear picture on this thing to save her life.
+Immediately upon using either the included stylus, her fingers, or any other thing around the house that we tried to draw with, we noticed that most of the time it is impossible to even draw a clear line - and in most cases, the gel refills any lines immediately.
+However, being an industrious child, she immediately grabbed some markers and decorated the boring white frame that surrounds the gel pad.I imagine that an infant might be fascinated by the texture, the lights, and the music.
+And an infant can't draw anything anyway, so wouldn't be disappointed if their drawing suddenly disappeared or never appeared at all.However, if you have a child who likes to draw and likes to actually see their drawings stay in place for more than a split second, you will likely have a child who is very disappointed with this product.However, if your child is either an infant or a Wizard (or an infant Wizard!!!
+), you may enjoy this one.
+* Two Stars simply for use by infants (or Wizards).
+I like it but it but the music is pretty annoying.
+When they make these toys they really have to consider the fact that the parents may have to also endure the sound!
+The drawing aspect of it is pretty cool, it makes really nice finger paintings and is a whole bunch of fun for kids that are into art and drawing.I recommend it for parent with young children who display artistic skills.
+"Our four-and-a-half year-old granddaughter is quite the artist... from age 2, she would draw things where we could easily identify the objects she was drawing.
+Nothing Da Vinci-level (yet), but she has quite the innate talent and she loves to draw.
+She loved playing with this for several minutes, but then it became ho-hum.
+She will return to it on occasion to have a large-scale alternative when her mother's iPhone is otherwise occupied, but she'd rather use paper and pen over this, despite the colors.
+The age range for this toy is supposedly 24 months - 15 years.
+I don't know where they get that a 15 year old would be playing with this.
+Our 4.5 year old gets bored with it after a few minutes.
+The stylus is frustrating to use, so she just uses her finger - but compared to the amazing things she can draw with an iPhone app like ""Draw Something,"" this color pad is seriously a dated piece of technology.
+While I can see a toddler playing with this for hours in a long car ride, each drawing would have to be shown ala ""look mommy!
+look daddy!""
+for each masterpiece, where art on an iDevice can be saved for review later.
+This reminds me of a similar drawing pad I had as a child (sans annoying music) and I found it quite charming then - but even with few technology choices 40 years ago, I also preferred pen and paper to the finger drawing tablet of yesteryear.
+This can be used as a paper-saver in games like Pictionary and others that require lots of drawing - so I see a long term use for it there, but not for our little artist."
+The only real plus for this product is that it's mess free, but that doesn't matter much if no one wants to play with it.
+Little ones can use their fingers to make a design on the gel-like substance or use the stylus that's provided.
+There are six colors and different music that plays along with each color.
+Neither of my boys seemed to care too much about these features.
+My oldest boy (3.5 years old) loves doing crafts, but hasn't been at all interested in this toy.
+After several weeks, it's gotten almost no playing time.
+In my opinion, it's bit of a dud.
+"I was really expecting this toy to be more functional.
+The drawing disappears almost immediately.
+As an example, my 3 1/2 year old daughter tried to draw a simple face.
+She drew 2 eyes, a nose, and then the mouth.
+By the time she had drawn the mouth, the eyes had disappeared.
+After playing it for about 5 minutes, she proclaimed it ""broken"" and asked me to fix it for her.I thought that perhaps I had gotten a defective unit, but after reading some of the reviews here, it is just how the toy works.
+Cute idea, poor execution.
+We'll stick to using a Magna Doodle, which has stood the test of time."
+"There aren't many toys aimed at very little kids that honestly can be enjoyed by the whole family, but this is one!
+It's such a simple idea.
+The screen has some kind of liquidy material under it which can be pushed around to create finger-painting-like art.
+There is an included stylus, but we all found we liked just using our fingers better.
+The feeling of pushing around the material is addictive and relaxing.
+It feels like going back to long ago days in maybe kindergarten art class, pushing around the finger paint.When we first started playing with this, we were out of batteries, so it took me about a week to put batteries in it for those features.
+It's a tribute to the toy that it was fun without them, and I honestly didn't think the light-up or music features would add much.
+I was right about the music.
+There really wasn't any reason to have music with this, and the melodies are fairly forgettable and annoying after a while---mainly there's a version of ""Old McDonald"".
+But the light up colors---wow!
+They are great.
+They backlight anything you have painted with different colored lights, changing each time you push the button, and they make a really striking look.
+It certainly adds to the experience.
+My daughter played around with the lights for a long time, and then my son, who is well beyond the age of the toy, did so also!Overall, a real win.
+I've tried a few Color Magic products lately and have been very disappointed with them.
+This is a great alternative---reusable, portable and just plain sensory-filled fun."
+"After reading several other reviews, I was afraid my son would only like this toy for a short time, so I started using it in the car, rather than at home.
+It takes us at least 10 minutes to get anywhere and for the past 2 weeks this has been the go-to entertainer for car rides.
+My son is 22 months old and loves the music and lights, but especially loves that he can ""color"" in the car.
+I'm not sure how he'd do with it in the house, with other toys to distract him, but in the car he seems enchanted with his art projects.I think, once he gets a little older, he may tire of it, but for now I really like the ease of use of he seems to enjoy himself!
+A great toddler toy!"

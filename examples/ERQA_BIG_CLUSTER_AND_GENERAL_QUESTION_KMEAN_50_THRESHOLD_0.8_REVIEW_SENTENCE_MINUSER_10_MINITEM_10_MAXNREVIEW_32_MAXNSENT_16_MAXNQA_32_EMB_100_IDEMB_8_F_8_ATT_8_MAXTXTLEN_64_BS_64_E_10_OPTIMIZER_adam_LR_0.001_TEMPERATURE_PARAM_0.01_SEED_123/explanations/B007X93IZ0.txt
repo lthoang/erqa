@@ -1,0 +1,231 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+I have owned other Air Hogs copters and this one is just as good as I would expect.
+My son and daughter-in-law said they thought it was overpriced, but then they said they think most toys are overpriced.I can see how the discs that shoot out of the plane are a problem because of safety.
+The one major drawback for this item is the fact that it takes 10 double A batteries to run the Battle Tracker.
+I gave it to my two grandsons.
+This is very easy to use, so folks who aren't up to flying the tricky helicopter can get in on the fun.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.004007322248071432,0.0048079839907586575,0.004325744230300188,0.009610988199710846,0.004849046003073454,0.004800254479050636,0.005199628882110119,0.004655951168388128,0.005355492699891329,0.004757836926728487,0.007426509167999029,0.004805006552487612,0.003940087277442217,0.004083932843059301,0.004703491926193237,0.004862633533775806,0.004589833319187164,0.006419172044843435,0.006157703697681427,0.004494807217270136,0.0038833150174468756,0.003617927199229598,0.005440469365566969,0.005334279965609312,0.004482408054172993,0.0021221349015831947,0.006046594120562077,0.0024058984126895666,0.004201126750558615,0.005274948664009571,0.0050647929310798645,0.004695736337453127,0.00474533811211586,0.0035943251568824053,0.004158253315836191,0.003481124294921756,0.003431057557463646,0.003525366308167577,0.008339572697877884,0.0026712510734796524,0.0028151292353868484,0.004679979756474495,0.0031525243539363146,0.002737700706347823,0.0024383096024394035,0.008365537971258163,0.0030762809328734875,0.003391850274056196,0.002716258866712451,0.0036992139648646116,0.004867859184741974,0.002546834759414196,0.00442327419295907,0.005867474712431431,0.006891816854476929,0.003075514454394579,0.004271254874765873,0.0044068824499845505,0.0033701425418257713,0.004219961818307638,0.004419821314513683,0.004595164209604263,0.004178459290415049,0.005010009277611971,0.0019698825199157,0.004839795175939798,0.005195669364184141,0.005047157872468233,0.003392605809494853,0.0039247325621545315,0.003533056704327464,0.004611601587384939,0.004372110590338707,0.0049608866684138775,0.005131364334374666,0.004404305014759302,0.0027933758683502674,0.003423378337174654,0.004541924688965082,0.0057566226460039616,0.004705838859081268,0.006773458328098059,0.0034151298459619284,0.0031036704313009977,0.0088321128860116,0.0028772836085408926,0.00589053425937891,0.002918603364378214,0.004462938290089369,0.0032154524233192205,0.004444722551852465,0.0062764110043644905,0.0041559236124157906,0.006574733182787895,0.005307115148752928,0.003245467320084572,0.004234157502651215,0.0041528609581291676,0.007201822940260172,0.003764010965824127,0.0056434860453009605,0.004217688459903002,0.003579489653930068,0.005207645706832409,0.004676588345319033,0.006341111846268177,0.004928762558847666,0.0047631170600652695,0.005180658772587776,0.004508138634264469,0.004708349704742432,0.005288282409310341,0.005216875113546848,0.0048347651027143,0.0051894658245146275,0.004441252443939447,0.004816426895558834,0.004294673912227154,0.003132940037176013,0.004513230640441179,0.004570995923131704,0.004537032917141914,0.003398894565179944,0.0036700915079563856,0.00337602524086833,0.0037131011486053467,0.006054094526916742,0.0054830932058393955,0.005360608454793692,0.005397152155637741,0.0046743061393499374,0.002511829836294055,0.005086617544293404,0.004998522344976664,0.004095977637916803,0.004261422902345657,0.004272797144949436,0.004504196811467409,0.0073065804317593575,0.0044653634540736675,0.004482119344174862,0.00588308135047555,0.005460469983518124,0.003808485111221671,0.004529175814241171,0.005115640349686146,0.0030701772775501013,0.0038685782346874475,0.005243675783276558,0.004667662084102631,0.005730099510401487,0.0027866738382726908,0.006836944259703159,0.00357128051109612,0.004667662084102631,0.002366557950153947,0.004667662084102631,0.004583409056067467,0.00374642969109118,0.005774632096290588,0.006420895457267761,0.0035405922681093216,0.004822824615985155,0.00435273302718997,0.004188702907413244,0.006649737246334553,0.004758520517498255,0.004709405824542046,0.00865107960999012,0.004788725636899471,0.004325788468122482,0.005671596620231867,0.0028411163948476315,0.0033957259729504585,0.004805491305887699,0.005019403528422117,0.007705940864980221,0.009364363737404346,0.005627991631627083,0.0030101377051323652,0.005605257116258144,0.0027036687824875116,0.005144747439771891,0.0058755106292665005,0.004551754333078861,0.0053088245913386345,0.004645697772502899,0.002722859149798751,0.004916994366794825,0.004579279106110334,0.0064855581149458885,0.004527072422206402,0.006132924929261208,0.004864529240876436,0.00456107035279274,0.007783740758895874,0.004386739805340767,0.005884598009288311,0.004280068911612034,0.003253510221838951,0.003334685927256942,0.0070298281498253345,0.0031454009003937244,0.0017785278614610434,0.003507342655211687,0.006981133483350277,0.004526706412434578,0.004113918635994196,0.004331658128648996,0.004580079112201929,0.005052243359386921,0.0030826700385659933,0.005471357610076666,0.004986189771443605,0.004093702416867018
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+"This is a great toy for kids with the dexterity to use it.
+My little nephew who is almost 6 loves to play  with this when he is over at our house.
+We have literally sat and played with this for hours.
+I have owned other Air Hogs copters and this one is just as good as I would expect.
+It's cool that the ""missles"" fire at the helicopter and the way the copter fires back.
+I don't know of any other similar product on the market.
+This is one I recommend to my friends and coworkers....it's not just for kids!"
+This is a fun and exciting toy.
+While the instructions warn against it, it is also great fun to just use it to shoot at people.
+In fact, that is probably more fun than its intended purpose.
+I would give 5 stars, but the helicopter is more difficult to maneuver than other RC helicopters that I've used.
+It's not exactly worthy of an obstacle course, even with a lot of practice.
+It is more of a hovercraft that turns from side to side.
+Also, the helicopter has to be frequently recharged, but that is typical of helicopters of this type.
+That said, the toy is a lot of fun and is one of the kids' favorite toys.
+The technology that goes into this is amazing and frankly, I did not believe that this toy would match the hype.
+But it does.
+As excited as my son was when the Air Hogs Battle Tracker arrived (it looked so impressive!
+), his enthusiasm soon turned to disappointment and frustration.
+It took forever to get the items out of the box because of how they were packaged.
+Next, it required 10 AA batteries, which luckily we had on hand.
+Then the helicopter had to be charged.
+(This is to be expected, but difficult for an impatient boy.)
+When everything was finally ready, the actual flying and shooting were thoroughly disappointing.
+The helicopter was extremely difficult to maneuver; it would not fly where he want it to go.
+(Not even my husband, who is an experienced R/C helicopter pilot, was able to get the helicopter to cooperate.)
+To add to the frustration, when trying to shoot, the foam discs often got stuck inside the helicopter.
+When trying to hit the helicopter with the foam darts, the darts missed time after time.
+Lastly, the toy was very noisy, which did not seem to bother my son so much, but annoyed the rest of the family.
+The toy was a neat idea, but it just doesn't deliver.
+Very disappointing.
+Would not recommend.
+This is a great toy with a lot of good features.The helicopter took a lot of practice before I could fly it well.
+I recommend using it outside until you're comfortable.
+You can adjust the trim and with some practice hover in place.
+The ceiling fan in my living room actually produces enough downdraft to affect flight... be aware of that kind of thing.
+The helicopter rotates very quickly, making aiming a challenge, but it's a fun challenge.Helicopter durability is another big issue.
+One of the first things I did with this was fly it straight up into my ceiling fan, which knocked the helicopter into another room (this was an accident, obviously).
+The helicopter has been rammed into walls and the ground repeatedly.
+There's a minor bit of damage on the tail, but the helicopter still flies quite well.
+The durability is impressive.The firing ability of the helicopter is a cool feature.
+The little yellow discs are soft and harmless, yet fly pretty well so long as the range is limited.
+I found that aligning the helicopter with my target, and then approaching at a high elevation and then dropping in, got the helicopter on target without being hit by enemy fire.
+And if that fails, the helicopter ramming the launcher produces a 'tie' in my book.The missile launcher is awesome.
+Two pods of six foam darts and a nice detachable (wired) remote for aiming!
+This is very easy to use, so folks who aren't up to flying the tricky helicopter can get in on the fun.
+The automated 'battle tracker' mode works pretty well too.The objective for the helicopter is to hit the missile launcher's large antennae.
+Against a good human or the 'battle tracker', this is good challenge.The entire unit requires ten AA batteries.
+I'm not going into detail about what comes with this toy, and everyone else has.My older son, and my 4 yr old Grandson had such  fun  and excitment  with this set.My Son use to fly large outside air planes,  so this was easy and fun for him.Even though this says its for older children, the 4 yr old would shoot the Battle Tracker at thehelicopter,and hit it a few times, while my son flew it.The helicopter was flown in a large living room with a high ceiling,.
+It can fly for over 40 mins before having toto be recharged.The Battle Tracker will shoot a far distance in the house, up to 17 ft up in the air at the plane, and about 20 ft across the room, or farther.Even though the 4 yr old is young, he had so much fun with this toy.
+We did not let him fly the plane.
+Only shooting off thethe rockets at the plane, and reloading.I think it is a fun family game , playing with someone who knows how to fly the plane, You do not want to crash the plane and break it.Although it does seem sturdy.I think this toy is good for Eye, and Hand coordination, and learning how to share..Besides all the excitement that goes with a toy like thisone..
+My boys (Age 6,6 & 5) have wanted a RC Helicopter and this seemed like a good choice.
+Both the Helicopter and the battle tracker shoot bullets.
+The helicopter shoots small discs and the tracker shoots nerf like bullets.
+The Tracker has a sensor where it will fire at the helicopter or you can control it with a remote for two player action.
+The helicopter takes some getting used to to control it and make it fly properly.
+It is easier to fly than other RC helicopters Ive tried as it does kind of self adjust to help it remain stable.
+Both toys work on 10 AA batteries.
+These do run down pretty fast so I would keep a supply on hand or use rechargable AA batteries.
+Overall a fun toy that takes getting used to to make it work.
+My son and his best friend do not let this thing rest.
+Every time I turn around they are flying this thing around and trying to shoot stuff (although they are losing the discs and missles quickly).
+When the batteries die, they immediately want to recharge and replace.
+I have to admit, this is a pretty fun toy though, I have found myself on occasion picking up the control and flying it around shooting at the Battle Tracker or my wife.
+I havent hit either yet, but I keep trying.
+Anyway, the helicopter seems very flimsy so I am surprised that they haven't killed it yet.
+The control is easy to use and the Battle Tracker is real cool to watch.
+Overall this is a fun toy, just be ready for it to break if you dont have the patience to learn to fly the helicopter.
+I DO NOT RECOMMEND USING THIS OUTSIDE.
+It is too light and the wind will carry it away.
+"The Air Hogs - Battle Tracker with Yellow Disc Firing Helicopter is a solid toy for entertainment purposes, so the question is: Why did I only give it three stars?
+Well, in a word, frustration.
+It's not a bad product but the fun factor is marred by frustrating controls and missile that don't really have any ""heat"" to them.The arguably coolest part to this toy is the auto tracking missile silo that tracks your chopper as it flies around, all the while firing little missiles in the hopes of actually hitting it.
+It rarely (read almost never) hits the chopper, but when it does... nothing.
+It kind of takes all of the enjoyment out of flying that chopper in front of the missile silo.The build of the product is great!
+The missile silo alone is worth the price of admission, the chopper - like all Air Hogs RC choppers- takes a learning curve to figure out the controls and rarely will the chopper be stable.
+The chopper is charged via the controller with a cable attachment.
+I personally don't care for that method of charging the chopper as this is a HUGE drain on the life of the batteries and taking 6 AA batteries to run this thing, it can get very expensive if you aren't using Rechargeable batteries.
+Still, that's a nitpick.The product IS fun when you get over the dissapointment of the forceless missiles and hard controls and it's just fun to fly the chopper around the silo and watch it track.Highly Recommended 3-star purchase!"
+This product is the result of some extremely creative thinking by the people at Spin Master.
+The best part of this package by far is the Battle Tracker Set ART, which utilizes some pretty nifty technology to constantly follow every movement of the helicopter.
+The helicopter itself is a cool item as well, but somewhat difficult to maneuver as it doesn't have the ability on the remote control to go forward or back, it only allows you to go up/down to ascend or descend or left/right to turn.
+Also, similar to what other reviewers have said, the helicopter itself is relatively flimsy and prone to breaking (although luckily this hasn't taken place with my helicopter yet).
+The one major drawback for this item is the fact that it takes 10 double A batteries to run the Battle Tracker.
+It would have been nice if the people at Spin Master were more thoughtful and included an A/C cable for the battle tracker considering it remains stationary and in one place.
+For that reason, this item loses one star, but otherwise, a great buy for anyone looking to get some early Christmas shopping done this year.
+How fun to have a remote controlled helicopter that shoots missiles!
+This chopper shoots circular disk foams and battles with an AI equipped tower that shoots back at it.
+You need a learning curve if this is your first time flying a chopper but things gets a lot more fun once you master the  controls.The tower is huge.
+It looks for the chopper while it flies through the air,  once it detects its enemy, it will shoot one missile at a time.
+You can also control the tower manually for a two-player mode using the control pad at the back.
+The control pad is detachable for easier control although it is still tethered by a wire and not completely wireless.The firing response seems to lag by a second from the time I press the trigger to the actual launch of a missile.
+Although the tower is big, it is hard to aim and make a direct hit because you need to fire at the right height; you cannot tilt the chopper's nose up and down.
+The tower always look for the chopper even when it is just on the ground.
+While on air, the chopper never got hit by the tower even it is almost stationary in front of it, which is a letdown.Both the tower and the chopper requires a total of ten batteries, so make sure you have a stock of AAs; they are not included.
+My son was very excited when we received it but unboxing it is a pain.
+You have to deal with so many cables before you can completely remove everything.
+The tower also accepts regular Nerf bullets which is a good thing as we have 4 Mavericks and a load of supply of bullets.
+I have a twelve-year-old who, not surprisingly, spends a good deal of time sitting in front of a glowing screen.
+But the Air Hog has put a serious dent in his video gaming.
+He got this toy for Christmas and it's the only one that is still in the living room and used on an almost daily basis.
+Also, he can play with his eight-year-old brother who can take turns flying the helicopter or manning the battle tracker.
+A great bonding experience for brothers and a way to sharpen eye-hand-coordination without needing to click a mouse.
+This toy was a big hit with a ten year old boy.
+The helicopter is realistic, and he was thrilled from the moment he saw how to target and shoot.
+Unfortunately, the battery life is quite short, and he found that subsequent play was harder when the batteries were replaced.
+Overall, a very good bet for a 10-12 year old boy.
+Even his 25 year old uncle was jealous!
+"We've had a few different Air Hogs vehicles in our home, and while my husband and I usually obsess over them, my son will play with them for awhile and then forget about them (unfortunately!)
+He's 11, now, and I'm learning that the older he gets, the more difficult it is to entertain him.
+The Air Hogs Battle Tracker, however, definitely did so!PROS- A number of different ways to play.
+You can either play with two people, one person controlling the helicopter and the other controlling A.R.T.
+(if you didn't see ART stands for Automated Robotic Turret) with the controller that pulls out of the back.
+Or, if you're alone, you can play single player, as A.R.T.
+can be FULLY AUTOMATED.
+Yes, FULLY AUTOMATED.
+And yes, it does seriously work.
+Granted if you're flying around a bit like a maniac (like I may have been...ahem), it takes a milisecond to catch up, but if you're actually trying to attack A.R.T., as you're supposed to, A.R.T.
+does an amazing job tracking your helicopter!- Let me say it again - AUTOMATED!
+I never thought I'd see the day when my children got to play with something that is so intelligent.
+A.R.T.
+truly is smart as it is able to track the helicopter, and to fire, all on it's own.
+If it gets hit, A.R.T.
+proclaims that it has suffered ""catastrophic damage"" and shuts down (just turn it off and on again to get it started once more).
+This Air Hogs set is a blast.
+Play solo or play with a friend.
+Let your imagination fly with this fun set.The hardest part is learning to fly the copter.
+It's tricky, but not impossible.
+The copter is surprisingly rugged.
+It's crashed and dropped from tall heights a lot and is still working fine.
+The copter has a mini-rechargeable system that receives its charge from the remote control (take 6 AA batteries).
+Each charge only last a few minutes, but those will be full of silly fun.
+My 9 year old giggle bunches learning to fly the copter then shooting the soft yellow discs.
+That copter shoot so fast, you can barely see the yellow disc!
+But it doesn't hurt if you get hit by it by accident.The Battle Tracker is the best.
+The computer voice is reminiscent of the robots in Dark Colony game.
+It can be put on automatic or can be manipulated by remote.
+The foam tubes it shoots are harmless, it doesn't hurt if you or a pet get hit.
+It, too ,shoots very fast.This Air Hogs Battletracker set is a lot of fun.
+This toy is some high flying fun.
+A little pricy, but for those who engage in a lot of outdoor activity it may be worth the price.
+You can play alone or with one other person (instructions for both are included).
+Classic toy for boys who like to play battle.
+Dads and sons will enjoy this one together.
+My son, 14, set this up and loves it.
+The robot that takes down the helicopter is freaky with his robotic voice and ability to track the helicopter to shoot at it with styro darts.My son has had RC helicopters before and they have broken quickly as soon as they crash to the floor.
+Because this one is made to be attacked it is sturdy.Be sure to get all the pieces from the box- which is an event to extract the robot and helicopter all on its own.
+We didn't see the discs and had to run out to the trash to retrieve them from the cardboard.
+This is a cool toy.
+This helicopter (and others like it) are much easier to fly than ones made only a few years ago.
+The helicopter does take some time to learn to control well enough so you can hold it steady to shoot at the Tracker gizmo that is shooting at you.
+And that Tracker gizmo is pretty cool as it moves around trying to aim at the helicopter.
+It's a freaking toy--it should not be able to do that.
+But it does.
+The helicopter needs to be within several feet, for the tracker to hit it.
+Still it is fun.
+A kid can play all by himself or have someone control the Tracker.
+Either way, this toy is pretty cool.And since the helicopter has been crashed many, many times but has not broken, I would say the toy is pretty durable also.
+"We've had loads of fun playing with this Helicopter and Automated Robotic Turret.
+Not only do you get a helicopter but you get the Automated Robotic Turret.
+You're able to fire discs at the Turret from the helicopter and the Turret fires ""missiles"" at the helicopter either by a friend or automatically if you have it set on ""auto"" mode.
+It's a bit challenging to actually hit each other but very exciting when we actually do.
+Shooting from the Turret is very simple but for some reason when we try to shoot from the helicopter it takes several pushes at the fire button before it actually shoots.
+Not sure what the problem is there but it hasn't taken away from the fun at this point.Flying the helicopter is pretty simple and getting started was very quick and easy.We've had many different remote control toys over the years and this has to be my favorite.
+Beware though that this set takes 10 batteries.
+The whole family enjoys this Air Hogs set and we'd highly recommend it."
+This is a very ingenious toy.
+I gave it to my two grandsons.
+According to my son, it worked well the first day.
+I went to my son't house to check it out the second day in the afternoon, and I was dismayed to see that the discs sort of fell out of the helicopter and fluttered down to the floor.
+My son said that the discs had started sticking that morning and wouldn't come out at all.
+Also, I realized that in order for the robot to shoot at the heli you had to operate it manually unless it was flying really low and was right beside the robot's tracking grid.
+To me it is mostly a two-person toy because when the robot is on automatic the grid won't tilt enough to shoot at a plane flying over it.
+My son and daughter-in-law were surprised at how sturdy the heli was, as they had bought a number of them before, and they all broke the first day.
+One of my grandsons crashed it four or five times while I was there, and it was none the worse for wear.The kids really liked the toy, but I think what they liked most was the helicopter and trying to see how high they could make it fly.
+They didn't like that they had to stop often to recharge it, though.
+My son and daughter-in-law said they thought it was overpriced, but then they said they think most toys are overpriced.I can see how the discs that shoot out of the plane are a problem because of safety.
+They can't be too hard or shoot too hard because they could injure someone;  power had to be sacrificed for safety.
+It would be nice if the heli shot foam missles and made a noice when it shot.
+If it's supposed to make a noise when shooting, I didn't hear it.
+I liked the soft bullets the robot shoots, and I was startled at first by the loud sound it makes when it does shoot.
+I think it makes it seem more realistic.
+"I'm pretty impressed so far with the Air Hogs Battle Tracker.
+So far the most difficult issue has been getting it out of the box.
+It's yet another of those toys that are taped/plastic screwed/tied to several pieces of cardboard making the unpacking process fairly difficult.
+Anyway, on to the toy.
+I had another air hog helicopter and it seems that they have made improvements on them.
+This one seems to be much easier to fly than my other one.
+(It's not idiot proof...
+I did crash it, but more about that later.)
+The A.R.T.
+is a whole other thing with the ability to track and shoot at your helicopter.
+This made me very happy that it is much easier to fly, I had troubles with the other one without anyone trying to shoot me down.
+Also the durability seems to have improved.
+I noticed right away that this one did not come with replacement rotors, though after several crashes, a couple of which were fairly hard, this chopper seems none the worse for the crashes.
+It makes sense being that it is designed to be shot at... but anyway.
+Overall, so far I am, as I said, impressed.So, why the 4 stars?
+I have no complaints with what it does or how it does it, but I do take issue with it charging directly from the remote.
+"There have been a lot of ""neat toy"" ideas on the market this year, some of which are indeed neat, and some of which were good ideas that didn't work as well in reality.
+So, is the ""Air Hogs - Battle Tracker with Yellow Disc Firing Helicopter"" neat or not?
+Below are my thoughts on this toy.Pros:- Both the helicopter and battle tracker can be played manually, so it's a true 2-person toy, where you can play with your kid(s), or they can play with against each other.
+Or it can be played with one child flying against the battle tracker.- The battle tracker is a really interesting part of the toy.
+It can be set in automatic mode to track and fire darts at your helicopter, or in manual mode, where you do the ""fighting"" yourself via remote control.
+The range on for the tracker on automatic mode is around six feet, while the darts have a range of about 12 - 15 feet.
+Since you can play in manual mode, your children can also use it to ""pretend play"" with toys other than the helicopter.
+The battle tracker was fairly easy to learn to control.- After multiple play sessions, the toy seems durable, and the helicopter has survived some fairly spectacular crashes.Cons:- This is my first helicopter since a verti-bird I had when I was a boy, many many years ago.
+The learning curve for me to learn to fly this helicopter well was fairly steep.
+In order to accurately fire the discs, you need to be able to hover the helicopter in place, and this takes time to learn.
+It's not impossible or anything, just be prepared to practice flying a lot.
+My seven year old is picking it up much faster than I am, by the way.- It takes 10 AA batteries.
+It would have been nice if this had came with a rechargeable battery pack.- The helicopter and battle tracker have a hard time actually hitting each other in combat, although a lot of that is probably due to the trouble I'm having learning to hover in one place long enough to launch an accurate shot.
+:-)Overall ... the toy passes the ""yes it's neat!""
+test.
+It's a bit tricky to fly at first and perhaps should have included a battery pack, but if you're looking something out of the ordinary to buy, this is a good choice.

@@ -1,0 +1,260 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+My daughter also tried playing with it alongside my grandchildren to get them interested in it, yet she too became bored with it in a couple minutes and the kids had already run off.
+My grandchildren (2yr and 4yr) have only been interested in playing with this toy for about 10 minutes total since we have had it over the past week.
+At the slightest hint of a song anywhere, on screen, in the car, off the ipad, she's up and dancing and singing.
+"Right out of the package, the LeapFrog Ocean Music School brought bright smiles.
+It's a fun toy, with three modes:  two slightly different ""just play music"" modes, and one game mode that asks questions like ""point to something orange.""
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.0046639712527394295,0.004912781994789839,0.004301195964217186,0.005801305174827576,0.003925828263163567,0.001839867909438908,0.0027151682879775763,0.005205713212490082,0.0029222334269434214,0.0048013231717050076,0.0032696304842829704,0.005308956373482943,0.0037297671660780907,0.006806819699704647,0.004625239409506321,0.005112582352012396,0.0024487643968313932,0.00223727710545063,0.002378306584432721,0.0060029481537640095,0.0019650370813906193,0.004862849600613117,0.003930432256311178,0.00199064239859581,0.004333151504397392,0.006353806704282761,0.0034267527516931295,0.0051561989821493626,0.0025115699972957373,0.0020452572498470545,0.003641967661678791,0.0034912442788481712,0.004916015081107616,0.003765605390071869,0.005249014589935541,0.004520155489444733,0.004102734848856926,0.0034464732743799686,0.0017969852779060602,0.003730272874236107,0.004882606212049723,0.005249014589935541,0.004780208691954613,0.0033788555301725864,0.005249014589935541,0.004219003487378359,0.001313355634920299,0.0029756578151136637,0.003946606069803238,0.002857514889910817,0.002469623228535056,0.0015543667832389474,0.004669381771236658,0.0017030289163812995,0.0043462966568768024,0.0028310962952673435,0.0021036036778241396,0.004618107806891203,0.004085994325578213,0.003662656294181943,0.00446079159155488,0.004711836576461792,0.0034996960312128067,0.006206379272043705,0.004395465832203627,0.006628848612308502,0.0044173565693199635,0.003904026234522462,0.00496450811624527,0.0013326636981219053,0.006094747222959995,0.0047427937388420105,0.005909636151045561,0.005384610965847969,0.003439112100750208,0.003749367780983448,0.005080713424831629,0.0023430646397173405,0.004006295930594206,0.005282314494252205,0.0029076342470943928,0.004097068682312965,0.004908673465251923,0.005013129208236933,0.005295130889862776,0.0031381319276988506,0.0031085896771401167,0.003942530602216721,0.004159203730523586,0.0031966150272637606,0.0022637248039245605,0.0047739483416080475,0.00450233044102788,0.003482597880065441,0.0035431738942861557,0.0029683541506528854,0.004806396551430225,0.005255618132650852,0.003533960785716772,0.003265191800892353,0.004952458199113607,0.004956350661814213,0.0047154207713902,0.003816355252638459,0.005256568547338247,0.005400275811553001,0.007436155807226896,0.005061816424131393,0.002187379403039813,0.005270593799650669,0.01012255810201168,0.0031461836770176888,0.002469779923558235,0.004298899322748184,0.002323515946045518,0.004515490960329771,0.004873359575867653,0.002417509676888585,0.0023573844227939844,0.0067148045636713505,0.004364409483969212,0.0038652534130960703,0.002765061566606164,0.0022129404824227095,0.00516880676150322,0.003814868163317442,0.004191887564957142,0.004342052154242992,0.006389789283275604,0.00637406948953867,0.005902184173464775,0.004519432783126831,0.0052983458153903484,0.005569430533796549,0.0029709949158132076,0.004824335221201181,0.00512301130220294,0.004316217266023159,0.0039534009993076324,0.004540083929896355,0.003695430001243949,0.003612559288740158,0.004651458002626896,0.003325572470203042,0.006277519278228283,0.00512362364679575,0.00547053012996912,0.004422786179929972,0.004630818963050842,0.006228465586900711,0.004530778620392084,0.004472578875720501,0.004332281649112701,0.001839003642089665,0.006225753575563431,0.00578745873644948,0.001766594941727817,0.0016375244595110416,0.0046296268701553345,0.003780385944992304,0.003922434989362955,0.004448732826858759,0.0027122606988996267,0.004418505821377039,0.002920065075159073,0.002858200576156378,0.00172700104303658,0.0036081587895751,0.0030900598503649235,0.0040880609303712845,0.005509052891284227,0.004188028629869223,0.004333831369876862,0.005656148307025433,0.0045047360472381115,0.0050231390632689,0.005185632035136223,0.005498955957591534,0.0046522049233317375,0.002068163361400366,0.004319427069276571,0.004227979574352503,0.005072109401226044,0.002856513950973749,0.005356553476303816,0.00571484724059701,0.004677409306168556,0.002952154027298093,0.005150092765688896,0.002240691101178527,0.004908235743641853,0.00282085407525301,0.0015815265942364931,0.005748421419411898,0.0027472376823425293,0.004520844202488661,0.0035472437739372253,0.003421569475904107,0.003987309522926807,0.0027215967420488596,0.0035364176146686077,0.0034901248291134834,0.005350000690668821,0.0056383307091891766,0.0024532824754714966,0.002754625165835023,0.004810962826013565,0.003218813333660364,0.004936535377055407,0.002108906628564,0.002828439697623253,0.004196452908217907,0.0021874643862247467,0.005076919216662645,0.004456047900021076,0.004652427043765783,0.003651892300695181,0.005279838107526302,0.004466306418180466,0.003421016503125429,0.00498589314520359,0.004980478435754776,0.004958953708410263,0.004978136625140905,0.006722954101860523,0.0049253590404987335,0.00346983689814806,0.0035892853047698736,0.0036920979619026184,0.002878847299143672,0.002448451705276966,0.0028972779400646687,0.0028690339531749487,0.004708126652985811,0.004044051747769117,0.004187990911304951,0.003426932729780674,0.003986317664384842,0.0018263674573972821,0.003631135681644082,0.0037719556130468845,0.0052259014919400215,0.002383761340752244,0.00481180427595973
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+This is such a mysteriously awful product, it's hard to encapsulate in words.
+Somehow it annoys well beyond what you would expect.
+Expect the tinny, poor quality sound.
+Expect irritating jingles.
+Expect it to feel light and even cheaper than you imagine possible.Be amazed at its remarkable resilience, because despite me trying to break it, it has resisted.
+I have stood on it, dropped it, and spilled water on it, and nothing seems to kill it.It's like a zombie that plays octopus jam band tunes- the worst kind.
+"My two-year child played with this a bit, but ultimately neither she as a child nor I as a parent cared for it.
+The thing is not very touch sensitive, for one; it kept telling her to ""touch the tombone!""
+and when she or I would touch the trombone ... nothing happened, except a few seconds later it told us to ""touch the trombone!""
+Rinse, repeat five more times, and I turned the thing off.
+It is never silent, never just lets the kids make noise; it wants to give them ""directed fun"" or something.
+Ugh."
+My daughter lives for music.
+At the slightest hint of a song anywhere, on screen, in the car, off the ipad, she's up and dancing and singing.
+Any toy of hers that makes music is never far, except this one.
+She played with it for about 15 minutes, and hasn't looked at it again.
+I think a few factors may be the cause:1.  its not intuitive - its a flat panel toy, and different parts of the surface produce music when pressed.
+the only hint that a given surface produces music is the graphics on the panel.
+unlike most music-making toys that have graphic AND a 3 dimensional design to indicate an engaging surface, there's not much to direct the player's attention.
+yes, the graphics are quite cute, but there was no tactile response that involved my daughter (unlike pressing a button).
+i suppose this is a bit surprising, given her ipad (practically glued to her) doens't have a tactile response either, but it doesn't work for her.2.
+sound quality - is awful.
+the embedded speaker is very low quality, and the sounds are muffled, with little audio fidelity.
+i'm not expecting ipad-like sound quality (itself not great, but light years ahead of this one, albeit at orders of magnitude more cost), but the sound was so weak that it was hard to discern the different instruments.3.
+my daughter is 3, which is the beginning of the recommended age range for the product.
+it didnt hold her interest at all, but it makes me wonder whether they should revise the range down.
+perhaps its more simple design would better appeal to a 2 y/o or so.
+This toy is really neat.
+It's like a sea creature themed mixing board.
+I like how you can speed up or slow down the music and add instruments to make your own sound.
+There are a lot of neat things you can do with this toy, but younger kids are just going to press it and make sounds; they won't be doing a lot of mixing.
+I think the complexity of this toy is the reason for the 3 and up age rating.
+I don't, however, think most kids much over three will be interested in this toy.
+My daughter is 1 and likes the music and the lights, but I think her Papa likes to play with the toy even more than she does!
+First off I will say even though this is for ages 3 and up, my just turned 2 year old did just fine with it.
+There are no pieces to loose, which is a huge bonus in my book and it comes with a carrying handle for little hands.
+My daughter loves to carry this around the house and it even comes in the car with us for her to use while in her carseat.
+We have another LeapFrog Touch Magic product and so I knew what to expect.
+Lots of buttons to touch and tap around on the smooth surface of the board.
+Its amazing how LeapFrog is making things smooth now instead of actual buttons.
+My daughter just taps around and likes to listen to the pre-recorded music.
+There are little games but she doesn't really have an interest in them yet.
+I think this would be perfect for about 18 months to 3, maybe 4 years old.
+It is perfect for a child who likes to tap around on an iPad screen as its more durable and kid-friendly.
+Very colorful and cute.
+For about $20, its a cute toy for kids who like music.
+"Known for making innovative and educational children's toys, LeapFrog has introduced the ""LeapFrog Touch Magic Ocean Music School"".
+This colorful toy can be used, according to the description, to compose music and to play music and games.
+The recommended age range for this toy is 3 years and older.
+A handle at the top of the unit allows a small child to carry the ""LeapFrog Touch Magic Ocean Music School"" wherever they choose to go.
+There are no loose pieces to lose which can be a real plus.The ""LeapFrog Touch Magic Ocean Music School"" operates by touch.
+Turning on the unit requires a bit more pressure on the small on/off ""button"" than expected.
+Initially, younger children may not exert enough pressure to turn on the button and may become frustrated.
+The instruments, small keyboard, and other functions activate with a much lighter touch.In the ""compose"" mode, the user is told to touch one of three instruments and listen to what happens.
+Then the child is told to spin the fish to make the music go faster.
+However, there is a fish playing a horn and a circular school of fish - neither is capable of ""spinning"", but if you move your finger rapidly around and around the school of fish, the music speeds up.
+Touching the ""song"" key and then one of the six animals causes a portion of a familiar childhood song to play.
+The ""game"" mode directs the child to touch an item or color; if correct, the voice gives positive reinforcement.
+The toy ignores, by saying nothing, an incorrect answer.I was not impressed with the ""LeapFrog Touch Magic Ocean Music School"".
+Although targeted for ages 3 and older, my 3  -year old grandson was quickly bored by the ""LeapFrog Touch Magic Ocean Music School"".
+The questions in the game mode, for example ""touch something red"" or ""find the harp"", asked him to identify things he was able to do beginning at age one.
+In my opinion, most children in the recommended age range would also find the game mode too simple to be interesting.
+When this arrived as toys go I didn't have too many problems coming out of the box.
+Batteries are included.
+The whole surface is smooth on the toy.
+I do wish that there was a slight texture on the animals etc.
+The on button needs a little more pressure to switch on than the other areas.
+There also is a switch at the back to reduce the volume.
+The activities are simple and easy to grasp.
+There are three little stars that light up next to the horn, drum and the guitar.
+To me they seem a little strange as nothing else lights up.
+My one year old had fun touching everything although she is not doing the educational piece.
+The questions and actions are a little on the basic side but can still be fun.
+Overall this is a nice toy.
+I liked the new design of this toy where all the buttons are seamless kind of reminiscent of a tablet type of surface.
+It's extremely easy to clean and provides a small variety of sounds and options.But like all toys, my 3 year old's interest waned after a couple of days and it just ends up as one more toy in the forgotten toy bin.It's a good toy to pack on a trip since it's flat and easy to clean though.
+But it definitely won't the hold the interest of the kids for very long.
+"The Leap Frog Tough Magic Ocean Music School is a really cute, lightweight musical board.
+It says ages 3 and up.
+While my 3 year old enjoys it and uses it more age-appropriately, my 1 year old also enjoys using it.
+There is nothing dangerous about it for under 3, they just may not get the full benefit of playing some of the games and composing ""real"" music.
+However they will still enjoy banging the keys.
+There are various instruments - piano, harp, trombone, drums, etc.
+It will prompt you to touch the drums, etc.
+Or you can play on your own, or play various games.
+There is an on/off switch and two volume levels.
+This is our second Leap Frog toy of this similar design and both are popular in our house.
+Very durable, slim and doesn't take up a lot of space.
+Easy for a child to sit in their lap and play on, and holds up to some abuses like my 1 year old standing on it and banging it...he also likes to play the piano with his feet :)  If you have a little music lover in your household, this is a great addition to the toy lineup and it is not particularly repetitive or annoying, like so many music toys can be."
+My daughter is going on 3 years old just loves to grab and examine anything that catches her curious little mind.
+I try to surround her with as much educational toys I can find so that playtime can also be a learning time.
+As we parents know, the learning ability of toddlers are so amazing, they are like sponges where they absorb many things by what they see and hear.
+The LeapFrog Touch Magic Ocean Music School provides that learning process by what a preschooler (or a toddler in my case) with things they would eventually experience when the time comes for them to start school.The LeapFrog Touch Magic Ocean Music School has a flat surface with no protruding parts and everything can be operated by a simple touch.
+The face of the Touch Magic has different sea characters and different colored keys that when touched plays a musical note.
+There are also different musical instruments that plays a particular sound.
+A preschooler's visual stimulations can be trained to recognize that note or she can sing a long to some of the songs that the character plays.
+It did not take long for my daughter to get the hang of it.
+The intuitive approach makes learning easy and fun.
+I can see it in her eyes.I am very happy with my daughter's reaction with this educational toy.
+It brings the art of learning and the sense of fun at the same time.
+Very highly recommended!
+!
+This is a cute little toy, but it does not engage your child for very long.
+We got about 1 hour total entertainment before it went to the bottom of the toy box to never be retrieved.
+I like it, but I am the mom!
+The preschoolers were not impressed.
+My grandchildren (2yr and 4yr) have only been interested in playing with this toy for about 10 minutes total since we have had it over the past week.
+Some children may be more interested in it than others.
+It has some educational value, but I would think a cheap electronic keyboard would be more entertaining and educational and get more use.
+It seems like more of a baby toy than something for a 3+ year old.
+My daughter also tried playing with it alongside my grandchildren to get them interested in it, yet she too became bored with it in a couple minutes and the kids had already run off.
+"So the toy is cool because it's a touch pad when most music toys are buttons and keys.
+At the same time, it seems a little strange for the keyboard to be touch, but it's the new tech age and all the keyboard music apps do it, right?
+Swirling with your finger to slow down or speed up the music is a fun trick.The ""educational content"" is best for a child under 3 years old.
+Many 3 and over will know everything the toy claims to be teaching (colors, etc.).
+But I'm not sure a 2 year old could really operate the toy with its touch screen buttons.
+So I'd say this toy is one to skip."
+"The first thing that stood out to me about this toy over other similar-looking products we've used in the past is the pads take very little force to activate.
+My older daughter has cerebral palsy and can't press very accurately or firmly, and she was able to activate the pads just fine.
+It's a fun toy, with three modes:  two slightly different ""just play music"" modes, and one game mode that asks questions like ""point to something orange.""
+All were fun for my 3 year old daughter.
+It's lightweight and seems very durable so far.One very minor issue is that only one pad can be hit at a time, making playing any kind of chord on the keyboard impossible.
+On the other hand, that cuts down on the noise factor, and you can still layer the accompaniment in pleasant ways."
+I'm not usually a fan of toys that make music or sounds because after a while, it gets on my nerves.
+But with the Ocean Music School, it was actually fun to listen to since it's like a beach type of music.
+It wasn't really redundant like other musical kids toys are and my daughter enjoyed trying to play songs on it.
+"Our 4 year old and the toddlers all love this toy.
+They like the different sound they can get from it.
+They like anything with music but they especially like the ""bells and whistles"" of this one.
+One of the features I like is that it teaches colors.
+This is one of the things we are trying to teach and this is just another avenue to reinforce those lessons.
+This is a learning toy but it's all about fun to the kiddos and they just think it's fun.
+They are not all that impressed with the learning part.
+That just happens naturally as they enjoy the toy."
+LeapFrog Touch Magic Ocean Music School.
+This toy is easy for my 3 year old grand daughter to handle and carry around with her.
+It is great in the car, it keeps her busy.
+You can adjust the volume so it is not too loud.
+It teaches them colors, the names of the instruments and what the names of the sea life are.
+They can make the songs go faster or slower.
+It teaches them to look and find things by there name or color in the picture.
+She can add rhythm to her creations and she loves to make up her own words.
+Good creative toy.
+The Leapfrog Ocean Music School is such a great toy!
+My daughter was so excited to dive in and play with it as soon as we got it in.
+The music is great and my daughter loves to make the sounds on it.
+It's very easy for her to use and play on.
+It's also easy for her to carry around to different rooms.
+I love the Leapfrog toys that we already have and this makes a great addition.
+I would definitely recommend this one!
+I got this thinking that my 14 month old could not only handle it, but would embrace the smooth tactile-less 'ipad-esque' non features.
+Maybe that was failure on my part, since he is well under the 3+ age range listed on the packaging.
+But, he loves the ipad or any phone he can get his hands on, so I thought this would be a good alternative.However, the smooth surface, while very responsive, doesn't give any visual feedback, (except for a few lights that light up).
+So lack of visual combined with lack of tactile, doesn't equal up to an engaging toddler toy.
+And my toddler simply wasn't interested, all he did was lift it up, set it down, slap at it and then walked away.
+No matter how many times I try to get him to enjoy it, he seems bored.
+It's cute, it has lights, it has no hold over his attention.The sounds are kinda cute at first, but quickly become an unbearable loop when you, or your child, aren't pressing on the correct answer or if it's being used in the free play 'compose' mode.
+And I think that's where the biggest failure comes in, it's hard for a disinterested child to realize the cause and effect of his actions on this toy, it's playing music practically non stop making it hard, to practically impossible, to tell which sounds you did pressing say the piano key, unless you know to listen for it, (and you know a small child isn't, well, not mine anyway!
+).Unless you try this in person I would look for a different music option, I think the idea far outweighs the actual product.
+Maybe in another year I'll pull it out and give it another try.
+But, I have a feeling even with age on his side there will still be far more engaging options.
+I think the interaction of this toy for a child older than 3 is a little below them.
+They might have fun with it off and on but I know my 3 year old nephew is way above this level of interaction.I like that you can turn the sound down to a lower level and think it is neat that you just have to touch part of the toy to make it work (no knobs or switches or anything) so my 8 month old niece can play with it as well (granted she is just pounding on it, but she can make it make noise)  It seems to keep her more entertained than the 3 year old is by it.I think a 2 year old could have a lot of learning value from this toy.
+I think they would actually try to find the various things the game tells you to press.
+LeapFrog has exceeded my expectations once again.
+This is perfect for any toddler who is into music and/or fish!Pros* Durable* Fun* Educational* PortableCons* hmmm... can't think of any...
+"This review is written based on how my 3 year old twins played with the Leapfrog Touch Magic Ocean Music School.First of all, contrary to some of the other review, I do agree with the age rating of 3+ as my girls are just about 3 and enjoyed playing with this.
+It's not the first toy they reach for and when they do play with it they don't stay engaged for long.
+Part of this is because it has different settings (one for ""composing"" music) and that's a little beyond the abilities of a 3 year old.One thing to note as it may not be obvious from the product picture; this toy has a flat surface so there are no raised buttons for the kids to push.
+They have to figure out which part of the board to press from closely looking at the pictures.
+And this is what makes me give this toy 4 stars.
+It's not a 5 star educational tool and it's not a 5 star entertaining tool either.
+It's just one more thing to add to the play room.
+When it comes to kids learning music, I much prefer to see how they enjoy the actual instruments - drums, keyboard, ukulele etc.
+This toy is not an adequate substitute for actual musical instruments."
+I have really enjoyed the LeapFrog products I have purchased for my grand kids.
+We already have theLeapfrog Touch Magic Counting Train, Retailand theLeapFrog Touch Magic Learning Bus, Retail, which are enjoyed by all.
+My grand kids range in age from 6 years to 6 months.
+The 6 month old hasn't played with them yet, but it won't be long!
+The two I already have say they are for ages 2 and up, but this one (the Ocean Music School) says 3 and up.
+The little ones (there are 3 two year olds) can still push the buttons and play with the music school.The colorful display is very enjoyable.
+The sounds are clear and not obnoxious, even when they push the same thing over and over.
+LeapFrog has done a great job at coming up with new and innovative things to educate and entertain.
+One of the things I like about the Touch Magic is that they are self contained.
+No pieces.
+They are good to take in the car.
+The Ocean Music School is a great addition to Grandma's Playroom!
+"The LeapFrog Touch Magic Ocean Music school is another great toy from LeapFrog.
+This one is completely touch screen, so your child won't have to hit any buttons, just touch what they want to hear.
+The Compose mode is not my child's favorite, it allows kids to ""create music"" over a background loop.
+The Play mode lets kids basically just hit anything on the screen and hear what it does.
+they can play the piano and hear the colors or touch an animal and hear what it is and what music it makes with the instrument.
+The Game mode is fun for older kids (3+) because they respond to voice prompts by touching the correct instrument or animal, etc.This is a good tool for preschoolers who are learning about colors.
+It's also fun for younger kids who enjoy the music and animals.
+It is very lightweight and portable, great for taking in the car, but doesn't feel like it would be very durable.
+Overall, still a good toy."
+"This toy has several ""modes"", allowing it to be a simple ""touch and hear the sound"" toy, up through a vocabulary builder.
+When the kids first picked it up, I thought it was pretty lame (and so did they), but they found the game mode, which helps kids with colors, animals, and musical instruments.
+After 15 minutes of activity with it, they were fighting over the toy.
+(The kids are 3.5 and 5.5 years old, so 5 is definitely not to old for this toy).I'm really glad to have found a toy that encourages musical creativity (song mode and compose mode)for children of this age group that don't have room or money for a piano or other large instrument.
+I definitely recommend this toy, regardless of a child's current musical interest."
+This Leapfrog Touch Magic Ocean Music School toy is a really neat toy for kids who like music.
+Both my kids at ages 4 and 2 enjoy playing with this and listening to the different songs they can make.
+This toy is completely smooth which I think is aesthetically pleasing; however, I think kids might be more interested in the toy if it actually had buttons and raised places to push and interact with.
+I have noticed my kids at times not knowing where to press on this toy, and spending time pressing areas that don't respond.
+So my only complaint with this toy is that design issue.
+Otherwise it is a great music toy that kids enjoy and is not too loud or annoying for parents.
+The LeapFrog Touch Magic Ocean Music School is a fun way to learn about musical instruments and the sounds they make.
+There is a game mode where the child is asked about animal names, colors, and musical instruments.
+A child can play the instruments solo, or play along with different background tunes.
+There is a keyboard, horn, guitar, drums, and a harp, Overall, a fun and engaging toy.
+The kids love music.
+They like Just Dance, Rock Band, and trying to play the keyboard.
+The little one can do those things but this is more her speed.
+It's colorful and attractive.
+She loves the sounds.
+She can get an idea of how rhythms and sounds work together to make music.
+Or she can just play the color game.
+There is a lot more to do here than you see in a lot of other instructional games.
+The lights add another dimension of attraction that keeps her engaged.
+She likes it a lot.
+It's very durable too.
+It's an all around great toy.
+Highly recommended.
+"Right out of the package, the LeapFrog Ocean Music School brought bright smiles.
+The colors are exquisite.
+The sea animals: a pink octopus; a purple seahorse; a blue dolphin; a yellow blowfish; a red lobster; a yellow starfish; and a school of gold fish all have adorable and happy faces.
+The musical instruments: a colorful keyboard; harp; shell guitar; drums and trombone all make unique and appropriate sounds.
+The overall sound quality of the unit is clear and not overwhelming.
+There is a well-thought button on the back of the unit which allows you to reduce the volume if you find it to be too loud.
+There are no removable pieces which is a real plus for the safety-conscious parent.
+There is a built-in carrying handle which allows your child to carry the unit around with ease.
+The On/Off button does require a good bit of pressure to actually engage the unit.
+But, fortunately, all of the activities respond to a gentle touch which your child should have no problem with.
+In the ""music"" mode, touching a sea animal will activate a short version of a familiar children's song.
+In the ""game"" mode, your child will be asked to touch a specific item or color.
+When they perform the task correctly, there is a positive response.
+In the ""compose"" mode, your child can create their own simplistic music.
+The keyboard only has a one octave range, so don't order this particular unit expecting to start teaching your child to play an organ or piano, by keeping in mind this is intended to be a ""toy.""
+It is a real plus that the unit comes 'play-ready' with batteries already installed.
+This is a musical toy from Leapfrog.
+It is cute and not annoying.
+My 5 year old loves it and carries it around.
+This toy lets him play around a bit with musical sounds and it is well enjoyed two months later

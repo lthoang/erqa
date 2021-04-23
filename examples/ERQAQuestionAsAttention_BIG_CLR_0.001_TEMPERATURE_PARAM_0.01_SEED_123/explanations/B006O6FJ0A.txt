@@ -1,0 +1,192 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+What is the suggested age for this gift?
+Top sentence(s):
+Plus, batteries are included!My three year old cousin is a Minnie fanatic.
+While this might be a bit of a challenge for the youngest recommended age range, with a bit of adult guidance they should grasp the concept fairly quickly.
+I got this for my granddaughter who is almost 3.
+I'm not very happy with that, but my daughter is otherwise very happy with it after a month and a half now.
+I'll probably end up taping or gluing the outer plastic so that the handle will not come off when it swivels.
+
+Question attention weights:
+0.1332930624485016,0.4118027985095978,0.45490407943725586
+Sentence attention weights:
+0.008588583208620548,0.007122150156646967,0.006159676238894463,0.00851453561335802,0.006208742968738079,0.006929339375346899,0.003575462382286787,0.0036755772307515144,0.0027678559999912977,0.0056787109933793545,0.005933653563261032,0.006852456834167242,0.0071533299051225185,0.00348613946698606,0.003012603847309947,0.006398133002221584,0.01017668005079031,0.004559098742902279,0.0058348774909973145,0.007004298269748688,0.006609146483242512,0.0034966827370226383,0.0061406041495501995,0.005955081433057785,0.003951136022806168,0.007276868913322687,0.005031054839491844,0.005324745085090399,0.005869878921657801,0.004647582303732634,0.0050734891556203365,0.0018894150853157043,0.006695779040455818,0.00501977140083909,0.00616630120202899,0.003509113099426031,0.003056164365261793,0.0026648365892469883,0.0055409567430615425,0.006037808954715729,0.003726863069459796,0.005533643998205662,0.007498415652662516,0.006026121322065592,0.0049685705453157425,0.005033747758716345,0.008790050633251667,0.004654997028410435,0.006372678559273481,0.007143408991396427,0.0055483924224972725,0.005349866580218077,0.007486246060580015,0.00876364205032587,0.00868918001651764,0.007226669695228338,0.0070809973403811455,0.004382851533591747,0.006437967531383038,0.00496091041713953,0.009360264986753464,0.006604271940886974,0.00613384647294879,0.004088079556822777,0.005515908822417259,0.007088949903845787,0.006660144310444593,0.0026415286120027304,0.005369620397686958,0.005507721100002527,0.0055280388332903385,0.0037318773102015257,0.00394161744043231,0.007647587452083826,0.005032989662140608,0.0071862442418932915,0.006762431934475899,0.007298116106539965,0.003044732380658388,0.006648222450166941,0.004667871166020632,0.003121095709502697,0.0038687081541866064,0.007317479234188795,0.005532421637326479,0.006654474884271622,0.007160118781030178,0.00627208361402154,0.006114769261330366,0.01687636412680149,0.008996997959911823,0.006719933357089758,0.005175934638828039,0.0059564015828073025,0.004959494341164827,0.005321747623383999,0.007175513543188572,0.007566366344690323,0.005635704845190048,0.004662713501602411,0.005305598024278879,0.00469189090654254,0.005819921847432852,0.006911265663802624,0.005046832375228405,0.0061917295679450035,0.006263477727770805,0.007069232873618603,0.007481055334210396,0.004039292223751545,0.007790503092110157,0.0042681461200118065,0.006768031511455774,0.007722409442067146,0.0039597670547664165,0.008255483582615852,0.005372622516006231,0.005129937082529068,0.00614900840446353,0.0052859182469546795,0.006736354902386665,0.006639071740210056,0.007206373382359743,0.006711994763463736,0.006131759379059076,0.0028755527455359697,0.004024802707135677,0.008302459493279457,0.004639608319848776,0.009328815154731274,0.008799164555966854,0.004682378377765417,0.0036886539310216904,0.005565284751355648,0.005178496241569519,0.0036205605138093233,0.003557599848136306,0.004866035655140877,0.004797562025487423,0.004408679902553558,0.004488619044423103,0.006114176474511623,0.008709035813808441,0.003534396644681692,0.00503845838829875,0.007451875135302544,0.006518807727843523,0.005436691455543041,0.005345748271793127,0.004128380678594112,0.005506317131221294,0.005812314338982105,0.003548549022525549,0.006713722366839647,0.0039911395870149136,0.004347606096416712,0.00548871885985136,0.005441304761916399,0.0062569743022322655,0.010376627556979656,0.004050370771437883,0.0059057422913610935,0.009172072634100914,0.0076356129720807076,0.0029944998677819967,0.006405017804354429,0.006333664525300264,0.007042449899017811,0.004319165833294392,0.0026685858611017466,0.007128099910914898
+0.0072368839755654335,0.007597784977406263,0.006245573051273823,0.008210529573261738,0.006603578571230173,0.007671949919313192,0.002758191665634513,0.0040451339446008205,0.002910432405769825,0.006006309762597084,0.005823506973683834,0.007057492621243,0.006280792877078056,0.0035472060553729534,0.0027251471765339375,0.005850447807461023,0.009302172809839249,0.005418266635388136,0.0056514255702495575,0.00745502719655633,0.008125431835651398,0.004097055643796921,0.006455917377024889,0.006613580044358969,0.0033045904710888863,0.0073533677496016026,0.004893008153885603,0.0057286955416202545,0.006346057169139385,0.005096403416246176,0.004608449060469866,0.003125711577013135,0.007887664251029491,0.004834468010812998,0.007028405554592609,0.002992757363244891,0.0025304113514721394,0.0036296627949923277,0.006533841602504253,0.006416494492441416,0.003816201351583004,0.003774198004975915,0.007113636005669832,0.005904364865273237,0.004653055686503649,0.005801214836537838,0.007306284736841917,0.004369680769741535,0.006305486895143986,0.00749066611751914,0.005424937233328819,0.004789161495864391,0.00758785754442215,0.006955236662179232,0.008641689084470272,0.00801386684179306,0.006932797376066446,0.005179850850254297,0.006416012067347765,0.005688189994543791,0.008739732205867767,0.005732567049562931,0.00716756796464324,0.004235752858221531,0.005278275813907385,0.007481094915419817,0.006993704475462437,0.00289551867172122,0.004990876652300358,0.005003498401492834,0.004986235406249762,0.004687377717345953,0.003808423178270459,0.006538436282426119,0.004048100207000971,0.007597909774631262,0.006660815794020891,0.007736352272331715,0.0034663595724850893,0.0067979819141328335,0.00413809809833765,0.003367119003087282,0.003697461448609829,0.006734044756740332,0.005337152164429426,0.007818533107638359,0.0076379189267754555,0.006004786118865013,0.006371795665472746,0.012272505089640617,0.007915189489722252,0.00697924243286252,0.005437647923827171,0.005700681824237108,0.00493000540882349,0.005265076644718647,0.0070795826613903046,0.008205419406294823,0.004778711590915918,0.004766915924847126,0.004372632596641779,0.004512632265686989,0.004832441918551922,0.0071037872694432735,0.004945534747093916,0.006246939301490784,0.006550631020218134,0.007449696771800518,0.0077088335528969765,0.004745543468743563,0.006738593801856041,0.004497038200497627,0.007052305620163679,0.008853004314005375,0.004619190003722906,0.008756140246987343,0.005070613697171211,0.00508327130228281,0.0070028468035161495,0.005914219655096531,0.007865420542657375,0.007008744869381189,0.007622640114277601,0.006567018572241068,0.00635614525526762,0.0027580696623772383,0.0051922970451414585,0.007538057863712311,0.00500092376023531,0.0074766771867871284,0.006990429945290089,0.005287987645715475,0.0037485496141016483,0.005875650327652693,0.005322847981005907,0.0033358975779265165,0.004295681603252888,0.005825988482683897,0.003958391025662422,0.003195894882082939,0.00418982096016407,0.0049361372366547585,0.010510456748306751,0.0047486210241913795,0.004436488263309002,0.008231963962316513,0.007112553343176842,0.00510046910494566,0.005224351771175861,0.003283180296421051,0.005647467914968729,0.0064815739169716835,0.0040536862798035145,0.007160109467804432,0.0029126545414328575,0.004239122848957777,0.0047936998307704926,0.005799719598144293,0.005936196073889732,0.007797589059919119,0.004072130192071199,0.0053489175625145435,0.008156675845384598,0.008028125390410423,0.0037879731971770525,0.00650153448805213,0.006708523258566856,0.007462040055543184,0.0039994316175580025,0.0036257861647754908,0.008985099382698536
+0.007175973150879145,0.007678930182009935,0.006258606910705566,0.008239281363785267,0.006507713347673416,0.007714392617344856,0.0027468998450785875,0.003975515253841877,0.0028721746057271957,0.006046408787369728,0.0058210548013448715,0.007137376349419355,0.006200921721756458,0.0034893767442554235,0.00262696691788733,0.005870590917766094,0.009368425235152245,0.005492494907230139,0.005676142405718565,0.0075446320697665215,0.00812878180295229,0.004073175601661205,0.006542341783642769,0.00653056101873517,0.0032956006471067667,0.007365128491073847,0.004843431990593672,0.005817159079015255,0.006446218118071556,0.005128656048327684,0.004637707490473986,0.00311498180963099,0.00800367072224617,0.004774149507284164,0.0070625790394842625,0.0030186744406819344,0.0025175835471600294,0.0036290455609560013,0.006536778528243303,0.006523796822875738,0.0037797288969159126,0.003629448125138879,0.007090207654982805,0.005926518235355616,0.00470707006752491,0.005771019961684942,0.0074065374210476875,0.00431694183498621,0.006333617493510246,0.007568396627902985,0.005363074131309986,0.004710158333182335,0.0076323640532791615,0.006772284395992756,0.008624107576906681,0.007851599715650082,0.006947290617972612,0.005191100295633078,0.006360714323818684,0.005776141304522753,0.008749846369028091,0.005694453604519367,0.007302409037947655,0.004086195025593042,0.0053352974355220795,0.007554313633590937,0.007024102378636599,0.0028861442115157843,0.004977483302354813,0.004990702494978905,0.0049132248386740685,0.004763580858707428,0.0038373859133571386,0.006333769764751196,0.0039414712227880955,0.007676244247704744,0.006739333737641573,0.007816897705197334,0.0035190389025956392,0.006967445369809866,0.004015940707176924,0.003401448717340827,0.0037031329702585936,0.00680565694347024,0.005286406725645065,0.007877342402935028,0.007714495528489351,0.006051646079868078,0.006355913355946541,0.012155978009104729,0.007871254347264767,0.007045735605061054,0.005478506442159414,0.005692111793905497,0.004971953108906746,0.005147202406078577,0.007151836063712835,0.008290902711451054,0.0046952334232628345,0.004716662224382162,0.004209971055388451,0.00446989294141531,0.004796583671122789,0.007157157175242901,0.004906189627945423,0.006230972241610289,0.006563559640198946,0.007521824445575476,0.007768481969833374,0.004734754096716642,0.006795817520469427,0.00449563330039382,0.0070867277681827545,0.00898408330976963,0.004600189160555601,0.008695093914866447,0.005107557866722345,0.005129738710820675,0.007054406218230724,0.005992842372506857,0.00799765344709158,0.007080533541738987,0.0076974076218903065,0.006438323296606541,0.006451223511248827,0.0026836583856493235,0.005181403830647469,0.00740533834323287,0.004976722877472639,0.007438597269356251,0.00683559849858284,0.005273366812616587,0.0037969809491187334,0.005912831984460354,0.005325329024344683,0.0032701180316507816,0.00434569688513875,0.005871016997843981,0.003838049015030265,0.003174214158207178,0.004223049618303776,0.004737997427582741,0.010448952205479145,0.004774052184075117,0.0045039039105176926,0.008293813094496727,0.0071958876214921474,0.005024213343858719,0.005255444906651974,0.003188599366694689,0.005765113979578018,0.006431919988244772,0.004123404622077942,0.007078785449266434,0.0027862286660820246,0.004214196465909481,0.004798245616257191,0.0057190158404409885,0.005982681177556515,0.007627519313246012,0.004103444050997496,0.005300635937601328,0.008163033984601498,0.008117391727864742,0.0037416887935250998,0.006540031172335148,0.006732597015798092,0.007394131738692522,0.0038922566454857588,0.003645928343757987,0.009169369004666805
+Questions:
+would a precocious two year enjoy this
+What is the suggested age for this gift?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+"This toy has a button that cycles through a few Minnie quotes and songs, all of them can be heard three rooms away.
+And they're annoying.
+She comes with three dresses, three bows and two pairs of shoes.
+That's it.
+Not sure where they come up with the ""10+ accessories"" the box claims.
+The age says 2+ but my daughter, who is about 3 1/2 has a little trouble putting the shoes on by herself.
+The case has a handle and wheels to make it like a tiny travel suitcase, but it's so short even my 3-year-olds have to hunch over to keep the wheels on the ground."
+Before I actually review the product, let me make it clear: There are some small, chokable parts, so be careful with your young ones!Now that that's out of the way, this is a very fun little toy for Disney fans.
+It seems that the Mickey/Minnie community has been growing smaller and more irrelevant over the past decade or so with so many other cartoons out there, so it's nice to see some toys still coming out for kids who do like Mickey.This Fashion on the Go set with Minnie is very practical and well built, complete with a cute little pull-along case.
+There are a few different outfits and more to buy if your child is a fan.
+It's a good alternative to just the typical baby doll.
+Sometimes a little mouse need attention too!
+My 5 year old loves Minnie Mouse and was very excited about this set.
+As other reviewers have stated, the handle is extremely cheap and short and we thought it broke within the first 5 minutes when in fact, it fell off.
+The sounds are loud and the spinning dish is to fast to keep Minnie on her feet.One major positive aspect: Disney has some other 5-in Minnie sets, some of them under $20, and the clothes and accessories are interchangeable.
+We purchasedFisher-Price Disney's Princess Bowtique Minnie Mousefor $15 the 2 sets of accessories are perfectly interchangeable.
+I got this for my granddaughter who is almost 3.
+She loves Minnie, and the value of the toy stands on that alone.
+It's a fun toy, but the excitement wears off pretty quickly.
+The accessories are really only a change of clothes.
+Minnie can put on a short fashion show and spin on her stage.
+I'm told she needs Mickey or another friend to keep her company.
+The case is durable and easy for a child to carry.
+We have the ipad app which has a similar theme, creating bows etc.
+This was a really fun compliment to that and our favorite part is the light show and sounds when you press the heart.
+My mom even found an accessory kit at target with more bows and dresses.
+I was pleasantly surprised by how long my 5yo and 3yo can amuse themselves with this.
+"My three-year-old granddaughter's a big Minnie fan, especially the ""Minnie Bow-Tique"" products, such as the DVD.
+She already has one of the dressable plastic dolls at each of the homes where she spends time (her own, my house, and my ex's).
+So this dressing room looked like a perfect match-up to me.And it certainly is!
+It comes with another of the Minnie figures -- a plus in and of itself -- so now she has two at my home, in addition to new wardrobe options, which really adds to the fun factor for her.Everything's well-made and extremely durable -- especially the dolls -- and should last for a long time.
+She enjoys the heck out of it.But now, the downside, and why I detracted points.
+The current asking price for this product here on Amazon is right at 40 bucks, and that strikes me as a bit pricey for what you're getting.
+I'm not sure what justifies that price.
+Disney licensing fees?
+I have no idea.I received this item for free through the Amazon Vine Program in order to evaluate and review it.
+In all honesty, I'm not really sure I'd be willing to shell out 40 bucks of my own money to actually buy this product, as nice as it is.=========================================================================A POTENTIAL PROBLEM  9/5/2012Today, when the munchkin wanted to play with the set, we opened it up after having the case closed for the last couple of days, and there was a very strong and repellant scent of curing plastic.
+I don't know exactly what's causing this, but I suspect the plastic is outgassing for some reason.
+After leaving the case open for a few hours, the smell seems to have dissipated somewhat, but the odor's still pretty strong.
+I've got to see if it completely goes away, or if there's something I can do to cure the problem.
+Right now, the munchkin won't play with the unit.If I can't solve the problem, I'm definitely going to have to change my rating on the product.
+I'll update this section once the verdict's in.============================================================================UPDATE  9/7/2012Well, it turns out that stench was emanating from Minnie's ""fashion accessories"" -- soft, flexible plastic shoes and bows.
+I put them out in the sun on a warm day here yesterday, and that seems to have ""baked"" or cured the stink out of the plastic.I'm not going to change my product rating; I don't see any other reviewers mentioning the same issue, so maybe I had a unique problem, or a defective set of accessories."
+My 5 and 6 year old have been playing with this nonstop the last several days.
+With that being said, it's definitely geared for the younger age group.
+It's just that my 5 year old is big Minnie fan and thought it would be perfect for her.Cons:*It only has an on and off button which means the music is way too loud.
+You can fix this by putting tape over the speaker in front.
+*If you spin Minnie remotely at normal speed, she falls off.
+They should have thought about magnets in Minnie's feet and the bottom of the `runway'*My daughter is a little too tall (possibly since she may be too old for this toy) to use it like a suitcase, which the handle repeatedly comes off ofPros*My kids can actually change all the accessories on Minnie without my help*You can store everything inside!
+*It's just darn cute
+My three-year-old daughter loves this toy.
+She loves the interchangeable dresses, shoes and hair bows for Minnie Mouse.
+The clothing is easy for her to snap on, but the dresses only cover the front.
+This toy is colorful and appealing for little princesses.
+My daughter also loves to pull this behind her, which brings me to the only two negatives I have found with this toy.1.
+The handle is wimpy and had fallen off on more than one occasion.2.
+When we first opened this up, it smelled like chemicals for days.
+We let it air out, but you could smell it as soon as you entered the room.
+Finally, the smell has significantly been reduced; but you have to wonder why they need to make these things so toxic.Now that it has aired out, she has tons of fun playing with this.
+"The toy itself is colorful and well constructed.
+It is fairly loud but not to bad.
+Lots of fun for little girls and although other reviewers have mentioned it is a short term attention holder, most toys are at this age.
+In addition to the ""Minnie"" figures play value, the carrying case adds to the playtime potential.
+It resembles and adult suitcase and my kids love stuffing other clothes and toys in it while taking imaginary trips.
+Also makes real trips easier when you need to pack some toys to keep the kids entertained, you can pack up this whole set and take it with."
+This toy is too cute.
+It screams girl.
+It comes with 3 bows, 3 dresses, 2 pair of shoes, 2 dress dummies, spinning stage, desk accessory and talking see through window case.
+There are also several phrases and music it cycles through.
+The recommended age starts at 2, however, my daughter at 18 months can easily play with Minnie with help from me to put the clothes on and off.
+She loves pulling and pushing things, so the case on wheels (like a suitcase) is a perfect addition to her play time (she also uses the suitcase for packing things like mom and dad!).
+Just be warned the music is quite loud and there is no adjusting for the volume possible.
+The handle is also at a height for the younger (or shorter) so just be aware if it is for a child older than 2 or 3.As far as educational, I would say that it is great for fine motor skills, but not much else beyond that.
+My nieces have a Minnie Mouse boutique set and their dolls and accessories are smaller than these.
+I appreciate that Minnie and her accessories in this case are slightly larger and easier to manipulate for my younger daughter.
+My 2 year old gran-daughter is in love with this.
+It is just her style.
+Minnie all the way.
+Comes with 3 bows, 3 dresses, 2 pair of shoes, 2 dress dummies, spinning stage, desk accessory and talking  see through window case.
+There are several phrases and music it cycles through our favorites is when Minnie says she likes this dress.
+Case features a heart shaped clear window to see Minnie and a handle for roll away that is sized for the 2 to 4 age range.
+This is a fun toy and even a 53 year old Grammy like me had fun with this.Fisher price says 2 plus but with help younger ones can play with this just remove the bow and shoes( might swallow) and let them play.
+They can pretend and put minnie on the stage and push the button to make her spin around or just play with the doll.
+Depends on how advanced a child is but you can even give the doll and case and stage (nothing else save clothes and other pieces until older) to a younger child like for play fun.
+I would even give just doll without bow and shoes to 8 months and up.
+You will have to help the 2 and under to put the dresses on and off.
+"Call me a kid, but I think this set is adorable!
+First off, let's talk about what you get.
+You'll receive: 5"" Minnie figure, three dresses, three bows, two pairs of shoes, and a storage box with handle and wheels.
+Plus, batteries are included!My three year old cousin is a Minnie fanatic.
+She adores everything Minnie.
+This kit is the perfect size for her tiny frame.
+She can easily move the 'to go' bowtique around with her and doesn't have much trouble with the outfits, either.
+As far as durability, I think is is far better than some of the toys out there.
+Disney usually has pretty durable items on the market.
+Educational value is also high as this should stimulate kids imaginations!
+Hand in hand, my cousin seems to be having a pretty fun time taking Minnie with her wherever she goes!I can't think of any real 'cons' for this Bowtique.
+It really is adorable and seems to entertain my cousin, who is in the target range for this toy.
+If you have a Minnie Mouse fan in your house, you'll want to take a peek at this!"
+"My three and a half year old daughter loves Minnie Mouse.
+She also likes playing with dolls.
+This toy was a no brainer for her.That said, there's a few things I should point out.
+(1) It's loud.
+Very loud.
+Minnie's voice echoes across the house as if she had been talking into a megaphone.
+The worst part?
+There's no way to adjust the volume.
+It's either on or off.
+That's it.
+I'm planning on taking it apart and stuffing some cloth or other insulation to help muffle it a bit.
+(2) The handle on the back for hauling the set is junk.
+It comes off practically every time my daughter lifts it.
+Why it's removable in the first place is beyond me; it's not like you are gaining anything from taking it off.
+I'll probably end up taping or gluing the outer plastic so that the handle will not come off when it swivels.
+(3) The spinning platform/runway is every model's worst nightmare.
+For some reason the product that I received isn't complete - it's missing the very important part that you actually PUT Minnie ON to turn her to display her outfit.
+So it may be a little difficult for me to fully review this product as i don't actually HAVE the full product.
+This is NOT the first time this has happened, so thanks for that, Amazon.Anyway, we gave this to our two-year-old for her birthday.
+She loves it and loves Minnie and loves clothing and accessories, so we thought it would be a slam-dunk.
+However, the actual concept of the toy seems a bit above her comprehension at this point.
+I wish I had saved it for her 3rd birthday when she will be mature enough to really appreciate it.
+Maybe we'll pack it up and hide it until then.
+She'll never know.
+"Although this toy is marketed towards younger girls ages two and up, I picked it out for my niece, who is almost seven and she loved it.
+The handle on it (which allows it to roll) was definitely too short on it for her, but the toy itself was fun and she played with it for several hours when I gave it to her.
+The costume changes are fun, the Minnie doll is nicely made (although it would be nice if it had more mobility in the legs and arms), and the little ""bowtique"" it comes with is darling.It also seems pretty sturdy; when our two-year-old nephew got ahold of this and started banging it around, it withstood his blows, even on the cement sidewalk.While it doesn't have much educational value, it's still a fun toy."
+My five year old adores Minnie Mouse and anything that comes with its own bag/suitcase and this toy fit the bill perfectly.
+Minnie Mouse comes with 3 snap on dresses and hairbows plus shoes that are easy to pull off and on (the clothes/accessories are made out of the same plastic material as Minnie).
+I love that this toy can be played without batteries.
+There are batteries that come with the suitcase portion but it's just to press a button where Minnie Mouse says different phrases.
+My daughter actually never uses this button.The handle on the suitcase is a piece of junk.
+It snaps into place easily enough and it feels like it's secure, but every single time my daughter tries to hold the suitcase by the handle it falls right off.
+She ends up having to carry the whole case in her arms and while it's not heavy, it is a bit awkward.
+I like how everything fits into the suitcase, but I wish there were specific compartments where the items fit in.
+Everything is just stashed in there loosey goosey, which may be harder for very small children to put in and close it properly.
+My 5 year old doesn't have a problem with closing it, though.The little stand that Minnie stands on to spin around is actually really flimsy.
+They should have a notch that her feet can click into because every time you go to spin her, she falls off the platform.
+The toy is best suited to just use for the dressing up and changing outfits.
+The Minnie Mouse Fashion Boutique is perfect for younger kids to put on their own fashion shows starring Minnie Mouse.
+Using the easy yet sturdy and colorful snap-on pieces for Minnie's outfit (shoes, hair-bow and dress), Minnie can pose in front of the mirror and `twirl' on the runway to model her outfits.
+Press the heart-shaped button at the top of the boutique and you will hear different sayings and songs from Minnie Mouse.
+The entire boutique is portable - it closes into an adorable little suitcase that your little one can bring with them.I think the best part of this is the ease with which the plastic pieces of Minnie's outfit snap on and pull off.
+While this might be a bit of a challenge for the youngest recommended age range, with a bit of adult guidance they should grasp the concept fairly quickly.
+I also really like the storage/portability feature - that it all closes up into itself and can be taken with you.The only thing I don't like is that the sounds that the toy plays are rather loud and there is no volume control.
+If they only played once in a while it wouldn't be bad, but when you have a toddler who pushes the button over and over, it can get very tedious.
+This is a very cute toy.
+My 4 year old daughter plays with it a lot and is extremely happy with it.
+This is like a small carry on luggage bag with a handle to take it along, and inside you have a small dressing vanity and facility to dress up Miss Minnie!
+There is also a light and sounds.
+I really liked the lighting and the disco sound effects, very novel.
+The product is exactly as seen in pictures and described.
+Material is top notch as expected from a fisher price product.
+I did not face problems with material as described by other reviewers.We recently went on a trip to Pismo beach, and my daughter carried this with her.
+"My daughter (almost age 2 1/2 years), is simply in love with her new Minnie Mouse toy.
+She is a huge fan of the Mickey Mouse Clubhouse cartoon, so having a toy with one of her favorite characters makes her a happy little girl.The set comes with a Minnie Mouse figurine, 3 dresses, 3 hair bows, and 2 pair of shoes.
+My favorite feature is that all of the pieces close up in a bright pink plastic case that looks like a small suitcase.
+All of the pieces feel durable, and should hold up to the rough play of a small child.I had to help my daughter play with this the first time, but then she learned to manipulate the smaller pieces by herself.
+She will happily play with this set for about 30 minutes at a time, which is a long time for a child her age.If there is a negative to this set, it would be that a Daisy Duck figurine is not included.
+On the TV show, Minnie and Daisy are business partners at their ""bow-tique"".
+When I gave my daughter this toy, she immediately asked me where Daisy Duck was at.
+I suppose it would be difficult to design the accessories to fit both Minnie and Daisy though."
+My daughter loves anything Minnie Mouse so this was an instant hit with her.
+It is very cute and she uses it with all her smaller Minnie stuff, although they don't belong together.
+It is a good gift idea.
+My only complaint is that the currently $39.99 price seems a bit high for what it is so watch for sales.
+I got this for my 3-year old daughter who loves Minnie.
+She absolutely loves this toy, admittedly more then I expected.
+It comes with a Minnie doll, various articles of clothing (shoes, dresses, hair bows), and a dressing room that includes a 'stage' Minnie can be spun around on.
+The dressing room has places for all parts and can be closed up and becomes a storage case with wheels and folding handle.
+Only problem we've found is the case's folding handle tends to fall off very easily...
+I'm not very happy with that, but my daughter is otherwise very happy with it after a month and a half now.

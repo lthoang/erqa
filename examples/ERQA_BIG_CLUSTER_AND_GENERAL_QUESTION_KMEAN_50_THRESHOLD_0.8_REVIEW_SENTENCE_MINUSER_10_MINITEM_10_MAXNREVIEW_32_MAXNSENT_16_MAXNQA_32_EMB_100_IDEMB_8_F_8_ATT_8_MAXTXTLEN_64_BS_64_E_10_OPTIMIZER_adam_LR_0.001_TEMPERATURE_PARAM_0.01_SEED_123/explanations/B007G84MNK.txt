@@ -1,0 +1,221 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+The watercolors are much nicer and allow for more creativity than the oil paintings I remember.Be sure and read the directions, including the safety tips.
+It is really for any age over 8 but for the 8, 9, or 10 year old I'd recommend some adult guidance for mixing colors.
+;) As a momma of 3 little ones, this is a peaceful activity to relax a bit, and a great way to have an artistic outlet, despite my lack of artistic abilities.
+It features a Colour Circle for a color theory introduction and Painting Techniques highlighting the effects of various watercolor brushstrokes.
+I would recommend buying a set of moderately-priced brushes of better quality that includes a wash brush, even for children using these pre-printed kits, in order to experience what makes the medium unique.This is a fairly educational activity, especially if it were accompanied by instruction on basic color theory, as the kit is designed to encourage mixing the paints to achieve a full range of  colors.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.003466368652880192,0.005020340904593468,0.004505747929215431,0.005096119828522205,0.005440888926386833,0.0059836432337760925,0.00443427124992013,0.004773604683578014,0.003415016457438469,0.0035695149563252926,0.004955747630447149,0.004943084437400103,0.00885366927832365,0.00501383887603879,0.005356010049581528,0.004372089169919491,0.0044328453950583935,0.006776114460080862,0.004637403413653374,0.0043266513384878635,0.005582005251199007,0.0037872169632464647,0.005894605070352554,0.005238593555986881,0.004729898180812597,0.005092263221740723,0.004814295098185539,0.004045787267386913,0.004587009083479643,0.004121284931898117,0.003069081110879779,0.0049104755744338036,0.002117893425747752,0.004556648898869753,0.002965084509924054,0.005216038785874844,0.005993731319904327,0.00562269939109683,0.003239647950977087,0.004154222086071968,0.005338944029062986,0.005002249497920275,0.005627225153148174,0.003730597672984004,0.004870196804404259,0.004987164866179228,0.004711752757430077,0.0049210600554943085,0.007312155794352293,0.005598367191851139,0.006315223407000303,0.004973703529685736,0.005092332139611244,0.004883767571300268,0.005172351840883493,0.006340669002383947,0.00521763926371932,0.00486386613920331,0.004465636797249317,0.004196614027023315,0.005673852749168873,0.00491200340911746,0.00486386613920331,0.004914663266390562,0.0041717360727488995,0.005673114210367203,0.008051810786128044,0.004709736444056034,0.0031811734661459923,0.005049002822488546,0.0034895699936896563,0.0034628226421773434,0.00511519517749548,0.00430838018655777,0.008751115761697292,0.0046935612335801125,0.0041847857646644115,0.005990719422698021,0.003159197745844722,0.006825250573456287,0.0063859326764941216,0.00382250570692122,0.004722229205071926,0.004888977389782667,0.004213028587400913,0.0047231088392436504,0.00467133242636919,0.0053480686619877815,0.006733744405210018,0.005433946382254362,0.005224543623626232,0.00344975502230227,0.006951246876269579,0.006488468497991562,0.004865472204983234,0.003101490903645754,0.007340867538005114,0.004911813419312239,0.004054280463606119,0.006168144755065441,0.004968645982444286,0.004407607950270176,0.0064215767197310925,0.003140027401968837,0.004118230193853378,0.0056875539012253284,0.004269514698535204,0.004793529398739338,0.002575069898739457,0.004162583965808153,0.0024315521586686373,0.0027277267072349787,0.00867871381342411,0.004033787176012993,0.0033823191188275814,0.00377197889611125,0.0035063945688307285,0.005678066983819008,0.0035904725082218647,0.004967222921550274,0.004954379051923752,0.004967222921550274,0.005084034521132708,0.0055219391360878944,0.0051449136808514595,0.005195751320570707,0.007684251759201288,0.004383162595331669,0.004932818468660116,0.0029283782932907343,0.004285482224076986,0.005164411384612322,0.005076021887362003,0.005424259230494499,0.0036071764770895243,0.0036871409974992275,0.004375696647912264,0.005122472997754812,0.006251897197216749,0.003849719651043415,0.007831139490008354,0.004704238381236792,0.004333568271249533,0.0041079167276620865,0.0042396122589707375,0.004677184391766787,0.005218136589974165,0.004409212619066238,0.0034806535113602877,0.004096332937479019,0.004574654623866081,0.004654895979911089,0.004360230173915625,0.00472506508231163,0.00509333610534668,0.005261518061161041,0.0033010549377650023,0.00493011437356472,0.003350350307300687,0.005308116320520639,0.002822251757606864,0.004468406550586224,0.0073516108095645905,0.012584563344717026,0.004270690958946943,0.003900319803506136,0.003125613322481513,0.007529909256845713,0.00533128110691905,0.004768970422446728,0.005241339094936848,0.0034259443636983633,0.0027658145409077406,0.004099635407328606,0.004691107198596001,0.002936252858489752,0.0059546357952058315,0.005026176571846008,0.004978809505701065,0.004700862802565098,0.00355310901068151,0.004700862802565098,0.004458336159586906,0.0050973063334822655,0.006226514931768179,0.004657157696783543,0.004363497719168663,0.005671285558491945,0.007013204041868448,0.005209761206060648,0.005684313829988241,0.0055921487510204315,0.006279217079281807,0.008935526013374329,0.005467839539051056,0.0055473181419074535,0.0042562359012663364,0.0048378827050328255,0.002171737141907215,0.004494740627706051,0.003354140091687441,0.005883010104298592,0.00375077361240983,0.004670067690312862,0.003125303192064166
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+First off, I want to lead with how creative I think it was for Ravensburger to include a double-ended paintbrush in this kit in order to help children  keep up with their tools as best as possible (by minimizing the pieces to possibly misplace).I also think it is nice that children can mix colors and also color &#34;outside&#34; the lines by creating their own color combinations to maximize the personal aspect of the works of art.I feel like the international flair of these works makes kids feel more important about painting them than they would feel about dabbling in watercolors on a flower pot or landscape.Many of Ravensburger other products are quality, and this watercolor craft kit follows suit.
+Definite recommend.
+This is a *wonderful* beginner's kit for watercolors!
+The only other experience I've had with watercolors has been with those cheap little kits you buy in the school supply section.
+It's no wonder I've never really cared for it until now!
+I've had lots of fun with this kit.It comes with 3 different pictures to paint, a mixing tray, a water dispenser, a paintbrush, a blotting sheet, and 5 different colors.
+There's a booklet with different tips and a &#34;mixing chart&#34;.
+It tells you exactly how many drops of what to use for each color.
+Of course, you can experiment all you want to create different colors.
+That chart gives you a great, basic starting point, though.This kit is perfect for beginners, because of the lines in the picture.
+They help keep your color where it needs to be.
+It made me feel like a better artist than I could ever really hope to be.
+;) As a momma of 3 little ones, this is a peaceful activity to relax a bit, and a great way to have an artistic outlet, despite my lack of artistic abilities.
+I can easily set my boys up with some painting of their own and be there playing with them while I paint, too.Overall, it's fun!
+I definitely recommend this kit for older children or those of you who are like me and want an artistic outlet, but lack the talent.
+The Aquarelle World Cities set is watercolor painting with a twist.
+Instead of watercolor painting on disposable paper, this set comes with 3 canvas boards with the pictures outlined.
+There are very thin white lines that keep the colors separated and allow for a very pretty picture because the colors don&#8217;t all blend together.
+You still have the freedom to pick any colors that you want and you still have to stay in the lines if you want it to look good.
+Don&#8217;t be worried that it will be too easy because I took several hours completing each of my canvas paintings.
+Sure you could probably finish one in ten minutes if you didn&#8217;t care what it looked like but I took my time and got really creative with it.
+It comes with five bottles of liquid watercolor paint.
+The colors are red, blue, magenta, yellow and black.
+It comes with a guide that will give you guidance on how to mix certain colors.
+You can use the guide or just make it up as you go along.
+It also comes with a double sided paintbrush that has a medium tip on one end and a very fine tip on the other end.
+There is some very detailed work on these paintings so the fine tip will come in handy.
+It also comes with a water pipette for lightening up your colors and a color mixing palette so you can have a variety of colors mixed up at the same time.
+The five bottles of paint go a long way and you will most likely have a decent amount leftover after painting all three canvas paintings.
+You can save it and paint on paper or something else to get more use out of it.
+This set comes with three different prints including Paris, London and New York.
+This is one of those unique items where it is high quality which means it could be potentially used by adults, but makes kids feel like they are adults when they use it.
+Paints are of good quality, tray is easy to use and allows the kids to easily mix the paint.The lines on the paper are great since they don't let the paint sit on them, which makes the resultant drawings look really good.
+Definitely a great set for an introduction to watercolor, and kids love it.
+This kit contained 3 separate papers (London, Paris, New York) along with various colors of dyes, a brush and instructions for how to get started.
+I do recommend reading the instructions first, especially if your child has never used watercolors before.
+There are some nice tips and hints.
+There's also a nifty guide to help kids learn how to mix colors.
+The kit requires very little set-up and I found it engrossed my daughter for hours.
+It took her a weekend to finish all three designs, but that will vary based on each child's attention to detail.
+The colors are bright and vivid, although they do stain fingers so be careful.
+I think this is a very nice kit for a beginner.
+The amount of included dye was enough for the three picture designs included, but not enough to really save for another project.
+I took off one star because the instructions could be frustrating for a child to have to pick out their own language in sections scattered throughout the guide rather than each page have the complete instructions in one particular language.
+I was pleasantly surprised to see how fun this was.
+I thought is was more like paint by numbers but the Aquarelle World Cities craft kid was really a good project.
+My kids were able to pain the scenes however they wanted.
+But the paper is treated with lines so you get a good effect.
+You get the wonderful color effects of watercolors but not the frustrating bleeding.My kids got so involved with these that they built a little puppet theatre and used these as the backdrop for a horribly macabre Halloween story.
+I loved the way their imaginations took off with this product.
+I am a fan of the posters in this set but it may be geared toward an older group of children rather than eight year olds.
+There are other sets which may be more suited to their tastes.
+Having said that, painting with this kit was a lot of fun.
+If you take your time and read through the process, it makes painting with watercolors easy.
+The techniques you learn with the kit can be used in original designs later.
+When I was a child, I loved paint by number kits and this new style of painting is so much better!
+I recommend it and plan on getting a couple of other kits for my own enjoyment.
+"We absolutely love this product line!
+This specific product does have more difficult patterns, which proved slightly frustrating (at times) to my 9-year old, but she stuck with it and stayed busy all weekend long!We started by reading the instructions (fairly simple, no issues), then worked together to mix the watercolors, which also was fairly simple (although it absolutely stains fingertips or anything else it touches!).
+Then I let my daughter work on the projects at her own pace.She loved it!
+She told me she felt like she was a true artist and felt very proud when she completed one of three projects.
+I would definitely buy from this product line again, as the pieces are of a higher quality and they provide a type of ""play"" that is different, yet fun for kids.
+The amounts of watercolors etc.
+are small, enough to finish these projects, but not much else.
+But we were very happy with the contents and the results."
+Overview: An excellent starter kit for watercoloring.It's not like traditional watercolors, which makes it cool.
+Instead, you get little bottles of color which remind me of bottles of food coloring.
+You also get a guide that tells you what to mix to get certain colors.
+The kit also includes ready made designs with rubber outlines to make sure that you don't paint outside of the lines.So together what you have is a starter kit to introduce youngsters to the world of watercoloring.
+All these items simplify the process and makes it fun.
+The reward is a watercolor that looks great!I would recommend this kit to anyone who wants to introduce a novice to watercolor art.
+"This is an excellent, high-quality kit with everything needed to learn the intricacies of watercolor.
+It is not quite paint by numbers, but rather it includes three internationally-themed designs, on high-quality, textured paper with the borders already printed in a slightly raised mildly off-colored ink, leaving the creativity of color choice to the artist.The kit includes Paris, London and New York canvases, a double-sided painting brush of sizes 1 and 2, a blank 3 3/8"" x 4 3/4"" canvas for test strokes, a thin plastic watercolors tray, a pipette, an instructional guide, and five bottles of watercolors including the three primaries from which the the full color spectrum can be derived, with the addition of dark and magenta for additional convenience and value, as well as a product sheet for other available Aquarelle watercolor kits.The full-color instructional guide is printed in many languages, with the English British section ""favouring"" Great Britain.
+It is short reading that gives simple-to-follow instruction that will have anyone new to watercolor going at it in almost no time at all, with general guidelines and useful tips.
+It features a Colour Circle for a color theory introduction and Painting Techniques highlighting the effects of various watercolor brushstrokes.
+There is a ""recipe"" guide on the back page to assist in mixing colors for use.
+It helps to look at the recipes which use both red and magenta in order to distinguish those colors before mixing any colors which use either, as it is possible that one may be mistaken for the other due to their similarities in print, but once a reference is found it is safe to continue with the mixing.This kit is perfect for anyone new to watercolors.
+It is a fun set to keep young, supervised children over eight years of age busy as well.
+Supervision is advised because watercolor dyes should not come into contact with or eyes, be ingested, nor should the fumes from the dyes be inhaled.
+This is a great way to introduce any artist to the behavior of watercolor interactions on the media surface.
+I highly recommend this wonderful watercolor kit for anyone with an interest in the application of physical media."
+The super quality you would expect from Ravensburger.One of the things that really stands out with this kit is that the watercolors are already mixed up.
+They come in little eyedropper vials.
+So there is no way to use too much water.
+As a result the colors are surprisingly vibrant.The paintings have heavy, waterproof white lines all over them, making it really easy to paint in the lines.My daughter loves to paint, and she really enjoyed these.
+This product removes some of the requirements for having a good technique.
+I'm going to see if they have other ones I can buy.
+If you have someone in your life that has wanted to dabble in the arts, the Ravensburger Aquarelle is an easy way to sample a watercolor experience.
+While it is a tremendous introduction to the paints, paint mixing, color choices, and color combinations, it still is fairly limited in creativity.
+You are not making something, but rather coloring it.
+As such, it may be a tremendous hit with some who likes to paint within the lines (quite literally) but less of a rave for those who march to the beat of their own drum.
+However, despite this small reservation, I think the kit succeeds as an excellent primer in watercolor paints.The World Cities kit has three cityscapes from Paris (with the Eiffel Tower), New York (with the Statue of Liberty) and London (with Big Ben).
+While the box proclaims these pre-drawn designs will create modern masterpieces, I'll leave that for the individual user to determine.
+The pictures are all outlined with a wax which causes the added colors to stay in their own territories without bleeding together.
+The final product does look especially nice because of these borders.
+But it also somewhat limits the artist's imagination.The only thing that the aspiring Renoir has control over is the color selection.
+This isn't nearly as uninvolved as it sounds, though, because you do have a tray where you can blend colors for some uniqueness.
+You can have up to 20 colors on this tray and where you place these is totally up to you.
+The kit also has a double sided brush to allow for detail work.
+As I've said, this is a nice activity, but  it's focus is more on color than design.
+KGHarris, 10/13.
+A great kit for a child wanting to try their hand at watercolors and create some art you wouldn't mind displaying.
+It has all you need and easy design for your kids to let their artistic skills shine.
+These are solid quality student art supplies, with guided instructions for creating childhood masterpieces.
+Encourage children to be confident in their abilities with these impossible to mess up art sets!
+Still, every child's rendition will be unique.
+And, hopefully, it will also inspire them to create new and original works.
+(You will have paint leftover).
+The Ravensburger Aquarelle series makes watercolor fun and easy by providing designs masked out with wax.
+The Aquarelle Maxi World Cities kit contains three watercolor boards measuring about 9 1/2 in.
+x 11 7/8 in., each printed with the name of the city (London, Paris, New York) along with a national flag theme and some iconic structures, giving the flavor of each place, if not an accurate visual representation.The little droppers of watercolor make it easy to handle the paint and a twenty-well palette, pipette, and color combination chart are included for color mixing.
+The weak point would be the inexpensive synthetic double-ended brush with #1 and #2 tips, suitable for details but not for laying down a wash.
+I would recommend buying a set of moderately-priced brushes of better quality that includes a wash brush, even for children using these pre-printed kits, in order to experience what makes the medium unique.This is a fairly educational activity, especially if it were accompanied by instruction on basic color theory, as the kit is designed to encourage mixing the paints to achieve a full range of  colors.
+With Aquarelle paint kit, any child can find success painting a wide assortment of unique pictures.
+This is not the first Ravensburger Aquarelle set we have used, and both sets were well received and each picture within each set came out beautifully.
+This makes traditional paint by number sets obsolete!
+These painting sets are well worth the money and any youngster on your gift list will be thrilled with the results they will have with this set.
+Truthfully, even the adults in the family had fun painting!
+For once, the results described and pictured are the results you will achieve!Happy painting!
+this was a lot of fun and easy to do.
+we all had a blast at looking at the finished product.
+We liked that you can not make mistakes.
+Great fun, as well easy clean up.
+the kits comes with everything you need to complete the whole  paintings.
+great for beginners as well as teaching children about other places in the world.
+Overall great for all ages and great education value.
+Brought this out Thanksgiving to keep a couple of girls (8 & 12) occupied.
+The 12 year old loved it but stated quite clearly that it needed more and better brushes (I would agree).Both children were able to easily mix the colors of their choice and create a fun art project.
+This is a great kit for just having fun with and quite possibly learning a few techniques as well in a stress free way.
+Provides a lot of info on techniques, shadowing, mixing colors, etc but is also great for just a fun project for those who aren't serious about learning or technique.
+I fall in the latter catergory but I had a blast with this kit.
+Highly recommend!
+My 10year old daughter was very happy when she first saw this but it proved to be a bit too involved for her.
+I think she prefers simpler form of coloring without the trouble of mixing colors and also something that requires less time spent to create a finished drawing.
+I think its also the predefined pictures that discouraged her.
+I think she wants to draw whatever comes to her mind and also is not interested much in coloring cities/buildings.The quality of the product itself is great in my opinion, and they include everything you would need to do some basic watercoloring.
+There are even informative instructions included as well; though its somewhat daunting given the number of things mentioned in it.To summarize: the product itself is of great quality but i think you should evaluate your little artists desire to determine if its worth purchasing this product.
+I was extremely pleased with this little water color kit.
+Although the kit says that it's for ages 8 and up, my five-year-old and her six-year-old cousin had a blast with this.The included canvases have images already on them - basic outlines - so the creativity in this set comes with the colors you create.
+There's a template included that tells you how to create specific colors - easy enough that the five-year-old was able to do it on her own - or you can simply create your own colors.
+The kids carefully squeezed color drops into the included palette (tray) and created all sorts of wonderful colors.They loved painting on the provided canvases and then took blank paper and created their own images with their special colors.They've asked me to get more water color kits for them - preferably the ones with animals - and simply had a blast painting.Oh, and cleanup?
+Easy.
+There was very little mess and any drops of watercolor that got on anything were easily wiped away with a damp cloth.
+I think this may be yet another product solving a problem i don't have.
+Or maybe not solving the problem i do have.
+Possibly both.
+Either way, as i mention above, if for you (or your child) the 'hard' part of watercolor is sketching the image, or keeping your colors from mixing on the paper, this will solve all of your problems.However, if you want a good final product, you need to be good at choosing the colors, and have good brush technique.
+There are some large, large sections in these pictures (the flags especially), and it takes more than casual brushwork to get even coloring.
+(The instructions actually advise a larger brush for such tasks, but you'll have to go get one separately.
+This kit includes a double-ended brush that had a fine tip and a very fine tip.
+)The paints are pretty good for such a kit - good colors and they mix well.
+The paper is lovely, very thick and doesn't warp at all, even with a fairly heavy wash.
+The brush, eh, it probably isn't worth keeping after you finish the three included pages.
+The plastic palate can be a bit frustrating.
+Several of the color recipes on the back include 20 or more drops of paint and water, and i found that the wells hold about 22 drops.
+I think fewer, larger wells would have been more useful.So for a patient, artistic child, i think this kit could be a big hit.
+Assuming a steady hand, it all but eliminates a few of the frustrations of watercoloring (namely deciding what to paint, sketching the design, and keeping the paint where you want it).
+However, these pre-drawn designs are fairly complex.
+This is not something you can sit down and dash off in ten minutes.
+This kit was a great introduction to watercolor for my granddaughter, and myself!
+The kit included a brief primer on watercolor techniques, as well as a small blank piece of watercolor board so we could practice.
+The plastic palette allowed us to mix a variety of colors, and my 8 year old granddaughter was fascinated with the way she could control the shades and depths of colors.The kit included three watercolor canvases that made it easy for her to create beautiful pictures.
+The images have raised wax patterns that allow her to stay within the lines, almost like an updated version of the old paint-by-number oil paintings that were popular when I was her age.
+The watercolors are much nicer and allow for more creativity than the oil paintings I remember.Be sure and read the directions, including the safety tips.
+The brochure advises you to avoid the eyes and you must flush your eyes with water if you splatter any paint in them, so kids will need supervision while mixing the colors.
+It also will not wash out of clothes and is hard to remove from fingers.
+We read the tips together so she would understand that she needed to be very careful and take her time painting.The set was wonderful to get her started and she's ready to attempt her own designs now.
+I decided to buy blank watercolor pads and supplies for her for Christmas because she was so taken by this kit.
+I think it's a great introduction to watercolors for kids.
+Initially when I got this, I was excited as this seems to be the perfect solution to introducing water color to my little girl.
+However, when my wife saw this she was not too excited about this Arts and Crafts kit as she feels that a child should just express art in the way she sees it and does what she likes with water coloring.So well, it became my art project instead.
+I liked that I did not have to think of a subject or have to spend time drawing a picture since there are 3 themes to this World Cities ie.
+New York (Statue of Liberty), London (Big Ben) and Paris (Eiffel Tower).
+After selecting my picture, I go on to mix the colors using the tray provided (up to 20 colors) to paint on my selected picture.The pictures are outlined with wax and thus keeps the water lines in place thereby having very clean demarcation of colors.
+Because of the wax outlines, the end result looks fairly professional.
+:) No doubt I was please with the kit, perhaps more of myself for getting this easy to use - cheat craft kit for my water-coloring art project.
+"My 12-year-old daughter and I each chose 1 of the 3 canvasses to paint and we both loved it.
+I don't think either one of us have ever sat down and done more than a few minutes of water-coloring in our lives.
+Especially not real water-coloring like this where you mix the paint yourself.
+We weren't sure how good we'd do but I think we both did pretty awesome for our first time.
+We both had a lot of fun mixing the paints up and coming up with our own designs.The box states ""Watercolors Made Easy"" and for us, we loved the fact that the pictures were outlined in a raised wax which is designed to help you stay in the lines.
+This was very beneficial to us since we are beginners.
+It's still not ""easy"" by any means because you can still paint over the lines but at least you have a tiny bit of room for error.
+I think this set is an excellent set for beginners.Now my daughter and I get to go fight over who gets to paint the last one.
+Hoping I win because I think I've picked up a new hobby.
+Would love to see more options and sizes available in these kits because I can't wait to do more.I would highly recommend this set.
+Especially for beginners but don't make the mistake of thinking that it's going to be simple.
+It's fun but takes some practice and patience."
+I've never had a Ravensburger product that I didn't love.
+Their quality is amazing.
+This kit comes with everything you need to do the 3 watercolor pictures using the samples or designing with your own colors.
+The pictures are pre-outlined, there are paints, painters pallet, brush and instructions.It is really fun to experiment with the colors and come up with fun color combinations.This is great for a crafty kid, and I would not hesitate to give this as a gift.
+Ravensburger Aquarelle World Cities Arts and Crafts Kit is fun and relaxing to work on.
+It is really for any age over 8 but for the 8, 9, or 10 year old I'd recommend some adult guidance for mixing colors.
+You can try to match the colors used on the examples on the box or any others you'd like.
+Not only do the waxy lines make it easy to keep the paint where you put it but, it makes for a really cool outline giving the paintings a very modern look.A great intro to using watercolors for anyone thinking about taking it up.
+Since the pictures that come with this set have lines that have waxy outlines.
+I would say that this is aimed at the lower end of the age spectrum of 8 to 15 that is recommended.
+My grandchildren enjoyed it, but I let them finish the one I started because of those lines.There is very little chance for originality in this set and the drawings themselves are rather simplistic and more like a banner or poster type than a water colour masterpiece.It is a nice way to begin, but for older children and teenagers I would have preferred less waxy lines and more skill needed and able to be developed.
+"We have had watercolor sets for the kids forever, and one big problem is that they don't really understand how to get colors other than the 8 that come with most sets - blending colors can be pretty tricky.
+Instead of the normal dry paints, the paints are instead liquid dye type paints, which then allow you to blend by using a few drops of this, a few drops of that.
+There is a chart of colors with the 'recipe"" on the back of the instruction guide.Our 5 year old had fun, though she rushed through it.
+Our 10 year old took her time and got something very close to the picture.
+Our 7 year old had something in-between.
+Overall, a good intro to water color type painting, but in this case I'd recommend one of the other designs - ""World Cities"" was not as interesting as some of the other designs."

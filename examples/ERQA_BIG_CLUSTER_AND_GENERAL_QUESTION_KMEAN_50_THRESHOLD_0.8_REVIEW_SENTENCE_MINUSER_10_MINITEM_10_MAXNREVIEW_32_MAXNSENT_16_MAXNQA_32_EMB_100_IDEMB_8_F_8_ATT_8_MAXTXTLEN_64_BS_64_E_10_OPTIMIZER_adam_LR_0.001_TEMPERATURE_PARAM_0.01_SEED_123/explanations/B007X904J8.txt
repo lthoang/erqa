@@ -1,0 +1,116 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+what size and quantities batteries does this product use?
+Top sentence(s):
+Not full charges (half an hour or so) but a good 15-20 mins.
+Again, taking a while to gt used to the remote.
+Thanks to Amazon Vine for the opportunity to try out a new toy for our Christmas list."
+However, compared to other Air Hogs products this does come a little short in the way of flying.
+Air Hogs have been popular in our household.
+
+Question attention weights:
+0.157460018992424,0.3337532579898834,0.5087867379188538
+Sentence attention weights:
+0.010032634250819683,0.013598978519439697,0.014358380809426308,0.01014848705381155,0.010836451314389706,0.013799400068819523,0.009901735000312328,0.012756407260894775,0.012011355720460415,0.010287855751812458,0.010034708306193352,0.00914500467479229,0.008316637948155403,0.005766185931861401,0.010052017867565155,0.00926342885941267,0.010690524242818356,0.010674427263438702,0.010374367237091064,0.01035570539534092,0.012534639798104763,0.015024444088339806,0.010162214748561382,0.009584744460880756,0.010312721133232117,0.010505424812436104,0.011159421876072884,0.010558083653450012,0.012274930253624916,0.01024610549211502,0.00870121456682682,0.010135858319699764,0.008866132237017155,0.01060794573277235,0.011658579111099243,0.01575281098484993,0.010414134711027145,0.009084813296794891,0.01131569966673851,0.01002033706754446,0.010276642628014088,0.01388738676905632,0.013135821558535099,0.006395482923835516,0.010395742021501064,0.009392290376126766,0.010349533520638943,0.016294848173856735,0.013360472396016121,0.00949842855334282,0.010017977096140385,0.006533678621053696,0.00914427824318409,0.011226041242480278,0.012332542799413204,0.01014389842748642,0.008136254735291004,0.00997573509812355,0.011978114023804665,0.013554299250245094,0.01062870305031538,0.012123002670705318,0.011077591218054295,0.01300692930817604,0.009895967319607735,0.009284096769988537,0.013609839603304863,0.007882384583353996,0.012563786469399929,0.00913731288164854,0.010249083861708641,0.007310189306735992,0.0162627212703228,0.007952929474413395,0.008482452481985092,0.007908517494797707,0.010446579195559025,0.007030016276985407,0.010789955966174603,0.010432371869683266,0.0075406539253890514,0.00847711507230997,0.008732244372367859,0.010546916164457798,0.008742145262658596,0.01076100766658783,0.007634913548827171,0.009413769468665123,0.00977380946278572,0.010448785498738289,0.012795548886060715,0.007480344735085964,0.009808216243982315,0.010988299734890461,0.013427365571260452
+0.010385394096374512,0.01350822951644659,0.013879377394914627,0.010715259239077568,0.01016232743859291,0.013775184750556946,0.009454460814595222,0.012192944996058941,0.011182074435055256,0.009349081665277481,0.009510695934295654,0.00951963011175394,0.008585363626480103,0.005700296256691217,0.010227782651782036,0.009439398534595966,0.010977569036185741,0.010859508067369461,0.010400539264082909,0.010808666236698627,0.012954565696418285,0.014625804498791695,0.010282042436301708,0.010177121497690678,0.010669945739209652,0.010318996384739876,0.01133425161242485,0.01069179642945528,0.011616764590144157,0.010592258535325527,0.008376077748835087,0.010577557608485222,0.008764589205384254,0.010809819214046001,0.01180652529001236,0.016054874286055565,0.010497108101844788,0.009120460599660873,0.011124826036393642,0.009944313205778599,0.010422952473163605,0.012124607339501381,0.012735048308968544,0.006600378081202507,0.010613110847771168,0.009037820622324944,0.010564308613538742,0.01690310426056385,0.014113669283688068,0.008520443923771381,0.010356292128562927,0.0070988028310239315,0.008486555889248848,0.011409121565520763,0.011895778588950634,0.010491006076335907,0.008699271827936172,0.00972442515194416,0.011456831358373165,0.014008932746946812,0.01035455521196127,0.012116244994103909,0.011542849242687225,0.012764877639710903,0.010129626840353012,0.009641051292419434,0.015375804156064987,0.007621202617883682,0.011272760108113289,0.009293777868151665,0.009822049178183079,0.006901459768414497,0.016127191483974457,0.007875936105847359,0.008402414619922638,0.008502122014760971,0.01057981327176094,0.006907770410180092,0.010121826082468033,0.01047723088413477,0.007981359027326107,0.00890892930328846,0.00897569302469492,0.010819229297339916,0.009074993431568146,0.010933751240372658,0.007359538692981005,0.009302613325417042,0.01058265846222639,0.010679800994694233,0.012409879826009274,0.00794963724911213,0.009642314165830612,0.01091668289154768,0.01239643432199955
+0.010583899915218353,0.014147237874567509,0.01440509594976902,0.010909542441368103,0.010111220180988312,0.014425653964281082,0.009020977653563023,0.0124127846211195,0.011037962511181831,0.009202498011291027,0.009039521217346191,0.00931504275649786,0.008661738596856594,0.005369318649172783,0.01027501281350851,0.009292014874517918,0.011256932280957699,0.01114413421601057,0.010709764435887337,0.010217166505753994,0.012945129536092281,0.015449333004653454,0.010463804937899113,0.009837456047534943,0.010887539014220238,0.010351605713367462,0.011329291388392448,0.010953251272439957,0.01196880079805851,0.010807288810610771,0.008085639216005802,0.010727654211223125,0.008784805424511433,0.011071667075157166,0.011938611976802349,0.016765277832746506,0.010747261345386505,0.00904255174100399,0.011500458233058453,0.009979642927646637,0.009983198717236519,0.012236380949616432,0.01282469742000103,0.0060911625623703,0.010860731825232506,0.008767738938331604,0.010590736754238605,0.017225058749318123,0.01308485958725214,0.008565756492316723,0.010552829131484032,0.00655626505613327,0.008339702151715755,0.011439836584031582,0.011729789897799492,0.010698836296796799,0.008125973865389824,0.009586151689291,0.011213114485144615,0.014220369048416615,0.010495169088244438,0.012468837201595306,0.01151925977319479,0.013166223652660847,0.010344890877604485,0.008988462388515472,0.015314714051783085,0.007484338246285915,0.011339579708874226,0.009487512521445751,0.009952526539564133,0.006558940280228853,0.016686975955963135,0.007011975161731243,0.008507385849952698,0.008393850177526474,0.01075545884668827,0.006669600494205952,0.01025586761534214,0.010679363273084164,0.007952741347253323,0.008870400488376617,0.00866084173321724,0.011060650460422039,0.008922873996198177,0.010972587391734123,0.006881440058350563,0.009242808446288109,0.010685115121304989,0.010712995193898678,0.012707175686955452,0.007655260153114796,0.00913067813962698,0.01051405631005764,0.012081663124263287
+Questions:
+How to charge the air hogs ground assault
+what size and quantities batteries does this product use?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+The concept of this toy was great.
+The execution not so much.
+It's poorly built, cheap, confusing to control, annoying to play with, etc.All around, it's bad.
+My nearly 11-year-old boy is having a lot of fun with this toy.
+It has taken him a few days to figure out exactly how much power to apply for driving around, for takeoff, for maintaining flight, etc.
+But it was fun trial-and-error, not frustrating.
+Now that he has the hang of it, he can have it take off from the kitchen floor, fly around a little, and land lightly on the kitchen counter.
+It is challenging, though!I like that this toy appears to be a little more durable than the super light heli's he has had in the past.
+This truck/heli has had a few crash landings, running into walls, etc, and seems no worse for it.
+I think the big tires make for a more forgiving landing, too.The battery life is acceptable.
+The truck/heli charges for about 15 minutes (off of the batteries in the control unit), and then it's played with for about 20 to 25 minutes.
+That isn't 20 minutes of straight flying time... but 20 minutes of fly/crash/fly/land/celebrate.
+My son says it seems like he gets more flight time per charge with this truck/heli than with his regular helicopters.
+This is a lightweight and responsive flying hover craft!
+I couldn't believe it, when it started to rise into the air in my kitchen.
+We quickly moved outside and played with it all night (the 4 year old boy was jumping up and down in excitement the whole time and the older girl was just as captivated).
+In fact, my husband may have had the most fun with it.
+So cool!
+I really like the concept of this toy.
+Being able to drive it along the ground, albeit on flat surfaces, and then have it take off into the air is a lot of fun.
+The kids dig it and that's important.
+However, compared to other Air Hogs products this does come a little short in the way of flying.
+It doesn't seem to hold up in the air the way their helicopters do.
+With that said, I actually liked this product and recommend it overall.
+This little vehicle takes off!
+It has a lot  of power and shoots stright up in the air.
+Took a while to maneuver the remote control to get the flying aspect of it.
+It's not for younger children.
+It didn't want to ride along the ground on it's wheels.
+As if they were for show.
+After many tries and battery charges later, a pice attached to the chopper blades had broken halfway off.
+That's two days of chraging and playing.
+It took less than an hour to charge,  the green light indicator comes on.
+It gave about a half hour worth of playtime/air time.
+It would shot stright up into the air and then drop during our first use.
+Again, taking a while to gt used to the remote.
+It was fun to play with .
+"I have many Air Hog products.
+About 7 helicopters of different sizes and shapes.
+So far, there has only been one that is a good build and played with.
+Unfortunately, The Hover Assualt is not one of those.After charging the Hover Assualt, we drove it around and trying to figure out how to fly the darn thing.
+The best we got was the jump function where it flew up a bit and hit a wall.
+After consulting the manual a few more times and attempting flight many more times, we got it to fly jauntily around a bit before hitting the wall.
+Took it outside so it wouldn't hit a wall and raced it around on the ground a few laps and got it take off for a bit.
+Wind took it.
+Hit a fence.
+:)During this time, we had to charge it about 6 times.
+Not full charges (half an hour or so) but a good 15-20 mins.
+Noone has that kind of time to wait for the charge.The Hover Assualt is a decent RC Car (no reverse thought) and it could just be us or a faulty controller but the sucker doesn't like to fly.
+Or at least the propeller seems to have a problem maintaining the 100% propeller velocity to keep it aloft.I won't mention about the ""targets"" the Assualt comes with because it's cardboard and generally pretty useless to us since we couldn't even fly it long enough to even consider a run at shooting at the targets.
+Hahaha.
+The missiles do shoot a decent distance though.
+About 3 to 5 feet.It's decent fun and a reccommended purchase if Air Hogs can drop the price down to about $20-$30 price point."
+This, like most other helicopter remotes reuqires a lot of patience and practice.
+However, unlike other air hogs, you can actually get the hang of this and fly it around a bit, the problem is you really need to spend a lot of time and since flights last about 5 minutes, it's a lot of charging, crashing, charging, crashing, etc., for a kid to try to master.....my son did not.
+He got tired of it.
+Down half a star, as this is marketed for kids......I'm a different story.I guess the OCD in me couldn't let it go, and after trimming it, and a lot of time, I started getting the hang of it.
+I can't aim to save my life,but you can fire the missiles, and even I don't wantto take the time to get good enough to fire them accurately.
+I should note that my son and I have built our own R/C cars together, and he does not get distracted that easily.
+Out of all the air hogs, this is by far the best and most controllable of the flyers.
+For the amount of crashes, it has held up well.
+I suspect they should market it to 13 year olds and up.
+4.5 stars!
+"If you give it as a gift however, you might want to include a pack of batteries.
+It does go through them quickly.
+This is typical of remote control items, so as a rule, we keep rechargeable batteries in our house.
+Air Hogs have been popular in our household.
+This one should be priced a bit lower to earn an additional star.Even though the box says it can be used inside, I would suggest telling the parents that it would be best to ""practice"" outside.
+It can travel quite a ways and it can crash into lampshades and knock over lightweight items indoors, such as picture frames, etc.
+The toy itself is pretty sturdy however.We found it does better on the ground than in the air.
+It faltered the first couple of tries to get it in the air.
+Our 10-year old twins seemed to enjoy it immensely, and like good boys, took turns with it:) As to how long it lasts remains to be seen as this is still pretty new, and I will update that part of the review later.
+Thanks to Amazon Vine for the opportunity to try out a new toy for our Christmas list."
+I received one of these toys for review, and it took quite a long time for me to get around to reviewing it as I kept forgetting to grab more AA batteries while I was out.
+This unit takes 6 (six!)
+batteries to operate it.
+Batteries are heavy things, of course, so they are all used in the had control unit.
+The vehicle is then connected to the remote via a tiny connector cord for charging.
+Chargin can be completed in less than one hour.Once the unit is turned on, a small light at the nose blinks red - on and off - to let you know it is under power.
+The remote has a small green indicator light to show you that it is under power.Though the concept of this toy is fun (really fun, in fact!
+), the actual operation of the toy is pretty difficult.
+I was able to drive the thing around on the ground without too much problem, but maintaining any sort of control during flight was another thing, entirely.
+I'll admit that I have no previous experience flying remote control aitcraft, so it IS POSSIBLE that I'm not good at it.
+I don't believe this is the case, however.
+The hardest thing to do is to maintain a steady elevation.
+It seems the thing always gets too high and then cuts out.
+My son and I were always running around underneath it trying to catch it when it inevitably dropped out of the air.The thing took several falls from 10-15 ft and managed to survive them without us rescuing it in time.
+However, it only held up about 30 minutes before one of the legs snapped off.
+Very disappointing.
+I want to start by saying that the picture online makes this product appear bigger and nicer than it is in person.
+The package says 10+ and online it states ages 8-12 years so my kids (6&4) are a little on the young side.However this toy is fun to use and very easy to figure out.
+The packaging also advises its for indoor use only but it does quite fine outside.
+8 missiles are included and they are yellow, but keep in mind they are small so they are sometimes hard to locate.6 AA batteries are required and are not included so remember to pick up a value pack or rechargeable batteries.
+The length of battery life is comparable to other remote control toys we have owned in the past.This is a great toy for any kid who likes remote control vehical or air craft.As far as durability,so far so good.
+However I haven't had it that long so if it doesn't hold up ill update my review.

@@ -1,0 +1,113 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+If you were only going to get one set - stackdoos or spinaroos - which one would you choose (for those who have both). I have a 14 month old. Thanks!
+Top sentence(s):
+The pieces attach and detach easily.
+However, he isn't quite ready for Lego.
+I shouldn't have worried.
+I am extremely pleased with the Spinaroos Bristleblocks.
+My 3 year old was very excited to see this toy.
+
+Question attention weights:
+0.2694460451602936,0.22814024984836578,0.01891912892460823,0.4834945797920227
+Sentence attention weights:
+0.011480934917926788,0.007813221774995327,0.008132745511829853,0.013046996667981148,0.014232415705919266,0.014682132750749588,0.010946058668196201,0.007722936104983091,0.0061373962089419365,0.011820606887340546,0.010258734226226807,0.014123993925750256,0.009957793168723583,0.007866565138101578,0.013019171543419361,0.010565289296209812,0.009073415771126747,0.009956717491149902,0.005872334353625774,0.013069379143416882,0.0072045763954520226,0.014197510667145252,0.0095933573320508,0.014189571142196655,0.013908825814723969,0.01538940705358982,0.012900887988507748,0.012339637614786625,0.009813080541789532,0.011111417785286903,0.015293083153665066,0.010205578058958054,0.008730050176382065,0.013742569833993912,0.013756725005805492,0.010583440773189068,0.012879195623099804,0.008041582070291042,0.013337083160877228,0.012231952510774136,0.015473518520593643,0.012635280378162861,0.01165104191750288,0.011010379530489445,0.014824386686086655,0.01063611637800932,0.01125457976013422,0.004798324313014746,0.0143312718719244,0.015281902626156807,0.011947627179324627,0.009633051231503487,0.00898924469947815,0.012100106105208397,0.007935876958072186,0.015947341918945312,0.006583548150956631,0.006960637867450714,0.006038907915353775,0.009119543246924877,0.011260938830673695,0.01173595804721117,0.006927209906280041,0.008741077035665512,0.009835539385676384,0.014323634095489979,0.013414809480309486,0.012550166808068752,0.006066417321562767,0.008300071582198143,0.015808459371328354,0.011091997846961021,0.012576819397509098,0.01646915078163147,0.00974823534488678,0.012493718415498734,0.010912153869867325,0.013224874623119831,0.00961178820580244,0.013155569322407246,0.008600682020187378,0.008787318132817745,0.012705305591225624,0.007146158721297979,0.011126457713544369,0.013583432883024216,0.01036126259714365,0.013566073030233383,0.007481483742594719,0.01201225072145462
+0.011832350865006447,0.00806924607604742,0.008438567630946636,0.01296149380505085,0.013970747590065002,0.01436667237430811,0.01081163715571165,0.007944160141050816,0.006594432517886162,0.011910238303244114,0.01010272279381752,0.014853817410767078,0.010321777313947678,0.008297971449792385,0.012883149087429047,0.011056534945964813,0.009184259921312332,0.010184241458773613,0.006334981881082058,0.012996243312954903,0.0074631390161812305,0.014241497032344341,0.009479395113885403,0.013940783217549324,0.013816467486321926,0.015343720093369484,0.012743733823299408,0.012242022901773453,0.010336942039430141,0.011111832223832607,0.01490259263664484,0.010412878356873989,0.008950271643698215,0.013550677336752415,0.013532961718738079,0.010638953186571598,0.01277720183134079,0.008747699670493603,0.013165881857275963,0.012038752436637878,0.01472423318773508,0.012574783526360989,0.011652695946395397,0.01119417417794466,0.014520511962473392,0.010647484101355076,0.01111316867172718,0.005002036225050688,0.01406010240316391,0.01506016030907631,0.012018997222185135,0.009761802852153778,0.009034124203026295,0.011806444264948368,0.008269254118204117,0.015575445257127285,0.006736054550856352,0.0070533351972699165,0.006335357669740915,0.00869042333215475,0.011172495782375336,0.010968673042953014,0.007215633522719145,0.009275615215301514,0.009907501749694347,0.014101648703217506,0.013225982896983624,0.012430315837264061,0.006702175829559565,0.008598758839070797,0.015263683162629604,0.010904778726398945,0.012538009323179722,0.015958860516548157,0.009766964241862297,0.012310649268329144,0.01098591834306717,0.013051451183855534,0.009874993935227394,0.012918122112751007,0.008495677262544632,0.0090763745829463,0.012529280968010426,0.007663556840270758,0.010936393402516842,0.013033576309680939,0.01047902088612318,0.0134028485044837,0.007363046053797007,0.011464716866612434
+0.012216387316584587,0.010228578932583332,0.009906301274895668,0.010513730347156525,0.011927610263228416,0.011794449761509895,0.009738721884787083,0.01006679143756628,0.009150287136435509,0.011371990665793419,0.014115769416093826,0.012628230266273022,0.009609848260879517,0.012673926539719105,0.00936286710202694,0.010863003320991993,0.010558069683611393,0.010069707408547401,0.008977647870779037,0.01137656532227993,0.008400182239711285,0.01096667442470789,0.013368230313062668,0.011347129009664059,0.011861143633723259,0.011884250678122044,0.01121108140796423,0.010772491805255413,0.009199133142828941,0.009628343395888805,0.013628699816763401,0.009164401330053806,0.00971263088285923,0.011887388303875923,0.011496633291244507,0.010768186300992966,0.010879277251660824,0.00881191436201334,0.011011688970029354,0.010035579092800617,0.016502616927027702,0.011075273156166077,0.012027612887322903,0.010716074146330357,0.011978039517998695,0.009609968401491642,0.01402368675917387,0.009789353236556053,0.011615640483796597,0.012245441786944866,0.011956153437495232,0.00888734683394432,0.010148304514586926,0.012354851700365543,0.009115230292081833,0.013483882881700993,0.007120342925190926,0.011491174809634686,0.010115019045770168,0.010408429428935051,0.010721069760620594,0.011452282778918743,0.010884088464081287,0.008600542321801186,0.010923144407570362,0.010903856717050076,0.011104718782007694,0.012180224992334843,0.009268224239349365,0.011175348423421383,0.012429848313331604,0.014083721674978733,0.015191126614809036,0.015439106151461601,0.0094762546941638,0.010054181329905987,0.011434761807322502,0.011814436875283718,0.009332742542028427,0.012861048802733421,0.008312073536217213,0.008982540108263493,0.013266254216432571,0.008887430652976036,0.012533069588243961,0.011954259127378464,0.010838309302926064,0.010977333411574364,0.013740617781877518,0.013327427208423615
+0.011488771066069603,0.007734483107924461,0.008157601580023766,0.013586681336164474,0.014686966314911842,0.015245378948748112,0.01109594851732254,0.007284399587661028,0.0062809293158352375,0.012460950762033463,0.008686115965247154,0.015117878094315529,0.010718653909862041,0.007160407956689596,0.013227777555584908,0.01174310315400362,0.00853617675602436,0.009969147853553295,0.00583853991702199,0.013461588881909847,0.007090017199516296,0.01528815645724535,0.00874378066509962,0.014884775504469872,0.01453495305031538,0.016479352489113808,0.013355481438338757,0.012723096646368504,0.010767466388642788,0.01185440830886364,0.014521436765789986,0.01107083074748516,0.008457666262984276,0.014214200899004936,0.014312688261270523,0.010442276485264301,0.013289947994053364,0.009195396676659584,0.013871307484805584,0.012911856174468994,0.013760717585682869,0.012947874143719673,0.012342306785285473,0.011075777933001518,0.015243014320731163,0.010712978430092335,0.00958486832678318,0.004281484056264162,0.014857526868581772,0.016093699261546135,0.011734645813703537,0.01048563327640295,0.008472825400531292,0.011471119709312916,0.007687866687774658,0.016531726345419884,0.0062956917099654675,0.006461636628955603,0.0056089176796376705,0.008272208273410797,0.011079716496169567,0.01019331905990839,0.006590383592993021,0.009365635924041271,0.009262505918741226,0.01503652986139059,0.01386847160756588,0.01235070638358593,0.006026075687259436,0.008020102977752686,0.016116932034492493,0.010347834788262844,0.011672843247652054,0.0161379836499691,0.009527863003313541,0.012766556814312935,0.010240845382213593,0.013603470288217068,0.009699933230876923,0.013275563716888428,0.007647116202861071,0.0092463418841362,0.011441411450505257,0.00706072710454464,0.01060936227440834,0.01336810551583767,0.010179263539612293,0.014229120686650276,0.005936041008681059,0.010686077177524567
+Questions:
+If you were only going to get one set - stackdoos or spinaroos - which one would you choose (for those who have both). I have a 14 month old. Thanks!
+Are these compatible with the Bristle blocks?
+How many 'three legged' pieces do you get?  Is it two or three?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+My three year old daughter is used to playing with Lego and Lego type toys.
+I knew these would be a hit.With the colder weather outside and also rainy days, this is the perfect toy to take out!
+She likes to sit on the floor and can play/build all afternoon!
+It is hard to get here to put them away.
+It is a wonderful way to for your child to work on their creative side.
+There is so much you can do with these.
+I myself have found them to be fun and love sitting with her and watching her build or creating my own.They are a great color and also the pieces are big enough for her age.
+The only thing I have seen her do that concerned me is put the pieces under her feet and sliding them on my wood floors.
+I put an end to that quickly though.Only con would be the box does not have a lid.
+If it had a lid it would be perfect!
+However, my daughter has a walk in closet so I am able to store them on an upper shelf so all the pieces stat together.I had never heard of these but they are wonderful.
+Endless possibilities and hours on entertainment!
+Spinaroos are similar to legos in that you can build endless creations with them.
+I like these for younger children because they're much larger, and they have more motion that Duplo blocks.
+You can spin them around on their bases and you can attach them at any point on their grid.
+Sometimes my 7-year old will still pull out this box and create a Spinaroo city or vehicles on a rainy day.
+I also love the box - it's sturdy and even fits in the toy organizer we have.
+Highly recommended - we love Spinaroos!
+I really enjoy toys made by B.
+This is no exception.
+This is a really fun set that encourages creativity as it is an open ended toy.
+The pieces are durable and colorful.
+My only complaint is that while it comes with a nice storage container, there is no lid.
+The addition of a lid would probably make this a 5 star product for me.
+My three year old loves to put things together and play imaginary worlds.
+However, he isn't quite ready for Lego.
+The spinaroos provide an easy and fun alternative that he is getting a lot of play mileage out of.
+I highly recommend this for anybody with kids in the 2-5 range.
+This is a modern take of a classic toy, and this version is a lot of fun for kids.
+The quality of these pieces is good, and they are durable.
+We also like the colors for our girl, but they may not be as appealing to a boy.
+I wish there were more of the standard building blocks in this set and fewer specialized pieces.
+The specialized pieces are not as versatile as the plain building blocks.
+All in all, though, this is a good set of blocks that's fun for kids.
+This really is a well-made and very fun toy.
+My children absolutely LOVE building things with these and they are easy for little ones to stick together.
+(We call them &#34;sticky blocks&#34; in our house because they just kind of stick together!)
+This set is a great addition to the &#34;Stackadoos&#34; set we already owned.
+I love the spinning pieces and the fun faces and other fun pieces.
+The set comes with a good number of pieces (I hate it when you buy building toys that only fill up half of the box!).
+I agree with the other reviewers that it is quite baffling that this toy does not come with a lid for the bin, but what can you do?
+This toy will get hours and hours of play, your children will love it!
+Encourages creativity and motor skill development in the young'uns.
+Definitely recommended!
+Really cute toy, lots of fun for younger kids.
+My almost 2 year old and 3.5 year old love it and I don't have to worry about small blocks being swallowed.
+The pieces are a learning curve if you are use to traditional blocks but after a few attempts we got the hang of it and built some creative, moveable creatures.
+I REALLY wish there was a lid included for the awesome storage container.
+Durable pieces.
+My 3 year old was very excited to see this toy.
+She immediately began to play with it.
+These are kind of like waffle blocks.
+She immediately was attracted to the spinning base and called it a rocket ship.
+The great thing with toys like this is that they encourage creativity.
+My daughter immediately began to assemble fun things, like a house, a rocket ship, and a person.
+The pieces attach and detach easily.
+The toy pieces themselves are nicely made, brightly colored, and attractive.
+The storage bin is nice except that the cover it comes with is a flimsy plastic sheet that is basically packaging material that doesn't really snap on.
+It really is too bad that they didn't include a more sturdy cover for the container and this toy loses half a star from me for that.
+All in all though, this is a great toy for preschoolers and my 3 year old and I highly recommend it.
+This is a great toy.
+The pieces are large enough for small hands to grasp and maneuver.
+They are brightly colored and the faces are adorable.
+They connect easily and they let a child use their imagination instead of following a strict set of instructions, although there is a booklet with some ideas included in the set.
+This has been a great toy for me to have on hand when my grandsons, ages 3 to 9, come to visit.
+They all seem to enjoy playing together with it.
+I like the quality and I love the colors.
+You can build house, carnival mask, train etc with some imagination.
+It's fun to play with my 3 year old boy, interact and see how he see things.Also the toys help with fine motor skills (how to join two and/or more pieces).The base could be bigger and I would like to see more smaller pieces.
+I also think that there should be a cover for the tub for mess free storage.
+I am extremely pleased with the Spinaroos Bristleblocks.
+These are high quality, attractive blocks that stimulate the imagination.
+At first, I was a little afraid that the resident five-year-old might be bored with these.
+I shouldn't have worried.
+The minute I opened them, she was intrigued and has spent literally hours constructing and deconstructing fantastical creatures.These are colorful, sturdy, and easy to use.
+The blocks are large in size, colorful, and easy to connect together.
+Although I showed my daughter the little book that came with it, she was more interested in doing her own thing.Because the pieces are so big, they were easy to see and clean up after play - unlike some of the smaller connectable blocks out there.These are an absolutely fabulous way to encourage imaginative play.Five Happy Stars!
+"Seems like a great toy for the 2 to 4 year olds.
+I have a recently turned 5 and 8 year old and while they like to make jungle theme characters together, I am getting the feeling that it would have been better if they had had this a few years ago instead of now.
+My eight year old said these would have been ""awesome if they glowed in the dark"".
+however, they do not (nor were supposed to)While playing, both boys seemed to really enjoy the spinning features of the set and have already successfully combined the original bristle blocks with this to make bigger structures and scenes.
+The newer sets are more flexible and have better colors than their primary color cousins, and definitely have fun faces than seem to resemble animals rather than humans.
+There are no tails however so that leaves me unsure what the faces are actually supposed to be (which is really great for a child's imagination).
+The bristles are easily cleaned with soap and water."
+Right out of the box, this set became my 2 1/2 year old's favorite toy!
+She enjoys making creations for me out of these and her 9 year old sister even joins in sometimes, too.
+These promote creativity and it's fun too see the variety of ways my children have played with these.
+They are colorful and well made.
+I can tell we will have these for a long time.Like other reviewers, I am also baffled that this set comes with a handy storage bin but no lid.
+I hope they'll improve on that in the future.

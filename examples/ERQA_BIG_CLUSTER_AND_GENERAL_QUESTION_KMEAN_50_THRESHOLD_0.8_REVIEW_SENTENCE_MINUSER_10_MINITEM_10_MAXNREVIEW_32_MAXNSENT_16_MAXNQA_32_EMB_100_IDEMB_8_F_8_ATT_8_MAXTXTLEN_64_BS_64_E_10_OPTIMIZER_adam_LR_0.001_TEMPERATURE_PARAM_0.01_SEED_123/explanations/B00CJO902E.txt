@@ -1,0 +1,186 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+My daughter was asking for Daisy which she helps out Minnie in Mickey Mouse Clubhouse, so I'd say if I could change anything I'd add the ability to sell extra figures or have the set come with two of them.
+Last September I got her theFisher-Price Disney's Minnie's Fashion on The Go, a dollhouse toy for Minnie that came with a Minnie doll and various fashion accessories.
+If your child likes Little People, but is not ready for Littlest Pet Shop's tiny pieces yet, then this set is just right for them.The set comes with two pets to play with, and three pop-on bows.
+I like the coloring of the dresses and bows.
+Fisher-Price and Disney have another great product on their hands with the Minnie Mouse Pampering Pet Salon Playset.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.005580125842243433,0.005945213604718447,0.005712942220270634,0.005902960430830717,0.003809078596532345,0.005211307667195797,0.01081017404794693,0.008920909836888313,0.003789328970015049,0.007793380878865719,0.00545240193605423,0.005392853636294603,0.005124089308083057,0.005372373852878809,0.006352530792355537,0.004928347188979387,0.007719339337199926,0.006847316399216652,0.005598303861916065,0.0043409341014921665,0.004804365802556276,0.005278369877487421,0.005491999909281731,0.005172093398869038,0.005460372194647789,0.0051065366715192795,0.004468159284442663,0.004895070567727089,0.005589762702584267,0.008420469239354134,0.013473371975123882,0.0046795690432190895,0.0053733899258077145,0.005585933569818735,0.00616516312584281,0.005695363041013479,0.007568491622805595,0.005508776288479567,0.004565392155200243,0.004474409390240908,0.00450111273676157,0.004643595777451992,0.006399046629667282,0.011108064092695713,0.006073624361306429,0.0035962641704827547,0.003125517163425684,0.005400518421083689,0.005879316013306379,0.008813487365841866,0.008275873027741909,0.0064123691990971565,0.006527245976030827,0.005170926451683044,0.004833705723285675,0.007797661237418652,0.014127993024885654,0.005131050944328308,0.006934602744877338,0.004090302158147097,0.0067594824358820915,0.0042045749723911285,0.006085305009037256,0.0056860498152673244,0.005335455294698477,0.007597914431244135,0.006639424711465836,0.005492250435054302,0.004279852379113436,0.005162849556654692,0.0052566868253052235,0.005511606577783823,0.0037738555110991,0.005357597954571247,0.004843082278966904,0.005316535010933876,0.005151416640728712,0.005589524749666452,0.005126662086695433,0.005242522340267897,0.004201430361717939,0.00596280675381422,0.005109780468046665,0.006500103045254946,0.004901634529232979,0.008572766557335854,0.005036222282797098,0.005837514065206051,0.005367582198232412,0.0053165447898209095,0.005868456792086363,0.0050636460073292255,0.004685991443693638,0.0058550057001411915,0.005893714725971222,0.005778051912784576,0.00491216778755188,0.00528405187651515,0.008211422711610794,0.004749392159283161,0.006864903960376978,0.004485241137444973,0.004490000661462545,0.00466920156031847,0.005344307981431484,0.007290852256119251,0.005205462221056223,0.006215772591531277,0.006673063617199659,0.006036259233951569,0.0054630097001791,0.004851660691201687,0.0065133171156048775,0.00926828570663929,0.005533123388886452,0.005092127248644829,0.00557292066514492,0.005909093655645847,0.006099788472056389,0.0073187146335840225,0.006069588474929333,0.004669905640184879,0.0062155527994036674,0.005247157067060471,0.005721442401409149,0.005275669973343611,0.005019512493163347,0.007675879634916782,0.0076077161356806755,0.005053506698459387,0.00596510199829936,0.006805309560149908,0.005422430112957954,0.0065643154084682465,0.004910707473754883,0.007032967172563076,0.004467016085982323,0.007437672931700945,0.0056003727950155735,0.005715113133192062,0.004832148551940918,0.005265565123409033,0.005714219994843006,0.004179744981229305,0.005175160244107246,0.005553243216127157,0.004941341932862997,0.005772298667579889,0.005554893519729376,0.005540021229535341,0.005679264198988676,0.00530290650203824,0.007324556354433298,0.009310453198850155,0.0032967503648251295,0.003838135162368417,0.005406160373240709,0.010168137960135937,0.005930065643042326,0.006673761643469334,0.004948633722960949,0.008361595682799816,0.007048910483717918,0.006304971408098936,0.005254736170172691,0.004921081010252237,0.005424391012638807,0.005424391012638807,0.005629375111311674,0.005104789510369301
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+This set comes assembled and is very well constructed.
+Minnie and her pet pals are decent size and there is not anything I would consider a choking hazard.
+My daughter has been playing with this for the last few weeks and loves it!
+She can play with it for hours!
+She loves changing out the bows and dresses on Minne.
+Her shoes come off as well, as on set.
+I like the coloring of the dresses and bows.
+You can mix and match all of them.The lighted mirror and music is adorable!
+I like that the unit is one piece so you don't have to worry about it losing a part or piece.
+However, there are a lot of the accessories and that can be a pain to store.
+I wish it came with a storage bag of some sort for the smaller things.
+There is nowhere to put them.
+I ended up using a blanket box to put the big part in and also all the smaller parts.
+That is the only drawback to this toy.I also like that you can play with other toys with this.
+My daughter has a playhouse with chairs and tables and likes to add them to this set so the animals can sit down and eat.
+It is really cute.Colors are very vibrant and again, very well made.
+Whenever Minnie's Bowtique comes on TV, my girls immediately start singing along and are mesmerized.
+They were so excited to get Minnie's Pet salon and be able to play with her bows and pets.
+There are sounds and lights and so much room for imaginative play.
+It looks like we'll have to purchase another set to get Daisy Duck to make the play complete.
+This is a quality set that I would highly recommend for Minnie lovers.
+"My daughter is Mickey Mouse obsessed.
+When Minnie's Bowtique items started coming out, she was over the moon.
+Add in a ""pampering pet"" hair salon and you have several of her favorite things together.
+She LOVES this toy.
+Lots of small pieces, so parents be aware.
+This is interchangeable with other Fisher Price Minnie's Bowtique toys.
+The characters are slightly different in size to the sets purchased through disney.
+Overall, a hit at this house."
+My almost-4-year-old munchkin is, like most little girls, a big fan of Minnie Mouse.
+Last September I got her theFisher-Price Disney's Minnie's Fashion on The Go, a dollhouse toy for Minnie that came with a Minnie doll and various fashion accessories.
+She loved it when she got it ten months ago, and still does, playing with it often.So when I had the opportunity to get this set through the Amazon Vine program, I snapped it up.When I gave it to her, her eyes got as big as saucers, and she couldn't wait for me to get it out of the packaging.
+Fortunately, because of my engineering background, I was able to finally do that.
+I do have to say, when Fisher-Price packages a product, they PACKAGE that product.
+It's certainly ... secure.Actually, I don't mind that.
+It's certainly better than getting a toy busted to pieces from rattling around loosely in the box.
+But you will be cutting a lot of fastening twine.In addition to the pet salon, you get a Minnie doll and fashion accessories, and a couple of her pets: a puppy and a kitten.
+My munchkin loved all the characters, and with the interchangeable fashion accessories -- especially in conjunction with the other set that she already has -- she has a little Stepford Village of multiple Minnies that really enthrall her.One big improvement over the earlier set I got last year: when we got everything out of the box there wasn't any of that obnoxious curing-plastic odor that took several days to go away that was present in last year's set.
+I guess Fisher-Price did something to resolve that issue between then and now.
+Good!These sets are very solidly made, and very durable.
+Last year's set is still 100% after 10 months of heavy use.So...
+I can strongly recommend this set for your own munchkin, either as a stand-alone or as an addition to anything you already have.Well done, Fisher-Price.
+If your child is a fan of Disney Junior's Mickey Mouse Clubhouse and Minnie's Bow-Tique, then they will love the Fisher-Price Minnie's Pampering Pet Salon.
+If your child likes Little People, but is not ready for Littlest Pet Shop's tiny pieces yet, then this set is just right for them.The set comes with two pets to play with, and three pop-on bows.
+Minnie is included, with two snap-on outfits.
+There is a bath tub with a shower head, a hair drying chair, a pop-up roof (to reveal your styled pet!
+), a revolving closet for Minnie's outfits, a pet wash (like a car wash with fabric strips), and a light-up mirror.Parents: this is a talking toy.
+It has sounds and music.
+Batteries are included, so it works out of the box.
+The batteries can also be changed if they run out, using a Phillips-head screwdriver and three AAA batteries.Additional sets are available separately: Daisy Duck, pets, or Minnie with full-length mirror.The pieces are durable plastic that are easily washed.
+They are lightweight, like the Little People sets, so they will not splinter or break.My kindergarten-aged daughter loved the pets and the Minnie Mouse.
+I got this set for my 2 year old's birthday as she loves Minnie Mouse and surprisingly there is not a lot of Minnie Mouse toys out there!
+This set is perfect for a good size range of kids (its for 2-6 year olds) as my 2 year old played with it along with her 4 year old friend.
+It is nice to see a toy that different ages can play with, it should also be a toy that will grow with her!
+First off since this is from Fisher Price I knew it would be durable, which it is and believe me my kids have tested the pieces!
+The set comes with a play set, actually a pet salon, Minnie Mouse, two animals and some accessories - enough to get started.
+My daughter was asking for Daisy which she helps out Minnie in Mickey Mouse Clubhouse, so I'd say if I could change anything I'd add the ability to sell extra figures or have the set come with two of them.
+Yes its a Minnie Mouse toy but another figure would be nice for two kids to play with the set.
+Anyways the accessories, bows, are cute and they snap on the animals for a cute little style.
+The set also plays lots of songs and phrases, which we all know kids love toys that make sound - my daughter at least gets a huge smile when the sounds come on this when she pushes the buttons.
+Overall though, it is a cute product for toddlers and preschoolers, perfect to get a little girl started on a doll set when she is too small for some of the other dolls out there.
+Also, you are paying more for this set because it is from Disney, in my opinion I probably wouldn't pay more than $24.99 but then if you have a huge Minnie fan its worth it for the joy on their face.
+Fisher Price Disney's Minnie's Pampering Pet Salon is a great addition to any little girls toy collection.
+Who wouldn't want a toy salon for their toy pets?
+She can wash and dry her pets, which are included, all the while dancing to cute music.
+There's a platform she can place her pretty pet on to display, a mirror so the pets can check themselves out, and Minnie herself!
+There is no educational value to this toy but any little girl will be delighted to have it.
+This toy is rated for ages 2+, and I used an almost-3 yr old that frequently uses toys rated for ages older than her.The enthrallment started with the packaging.
+She was totally fixated and nothing but getting the toy out was going to satisfy her.
+I was less than thrilled with the packaging--it was not easy to open.
+However, I eventually extracted the toy from the packaging.For those that spend time with two year olds, no matter how close they are to three years old, you know...few things enthrall for long.
+Not so with Minnie and the pet salon.
+She was fixated for over an hour before we pulled her away, and she returned to the toy at the first opportunity.It is a complex toy, and she's not figured out all of the nuances of using it yet (she's still trying to fit Minnie into the pet shower unit) but it definitely has the ability to keep on entertaining and challenging the child.
+There are some small pieces to keep track of, and if the child is prone to trying to eat things--this may not be an appropriate toy.Overall, I'd say this is a wonderful toy for any child who likes pets (it includes a dog and a cat) and Minnie Mouse.
+It's visually geared for the pre-schooler, and pieces are both simple and large enough for their hands to maneuver.
+My daughter really loves this and I secretly like playing with it with her too.
+I agree with another reviewer that the idea of a &#34;pet salon&#34; rather than having something less shallow (like a vet's set) isn't the best and just reinforces appearances/etc.
+- but it's a really cute toy, well made, with cute (not too annoying!)
+songs and sounds - and we love how Minnie and the pets can wear the bows.
+Besides, it is fun to be a little shallow sometimes.
+And if this gets my daughter to allow me to brush her absolutely wild hair, all the better.
+:)
+I got this to have at my house for all my friends daughters.
+My son is ALL boy and my house has been taken over by every Rescue Hero or Superhero there is and I thought it would be nice to have a girly option when they came to play.
+All of the girls adore playing with this super cute set!
+It is enough to keep the toddlers and little girls occupied for a few hours.
+Disney does it again!
+I plan on giving this set as a gift since it is packaged so nicely.
+This is the kind of thing that would make a little girl gasp in delight as she unwrapped the package.
+"This set is great for little hands.
+All the buttons that activate Minnie's voice and make the play set move, are made big and easy to use for little ones.
+Kids 4 and under should have an easy time figuring out all the little things this set can do.
+Minnie can change her clothes, including her bow, as can her little animals friends.
+Theres a cute little bathtub that she can bathe the animals in, a sit down hair dryer, a swing, and a ""pet wash"" that the pets swing through to get clean.
+Overall its a good set for kids 4 and under, any age above that might get bored with the set."
+This toy is a box full of tiny pieces ready to be lost.
+The songs and theme are all about pet fashion and glamour.
+I know it is a grooming shop but could not be more frivolous and insulting to little girls (and to groomers!).
+Why not Minnie the vet?
+I admit that I am not the most fun gramma in the world.
+For one thing, when I get a toy for the grands, whether boys or girls, I'd like it to be gender neutral.
+Another, and even more importantly, I'd like the toy (or game) to have some educational or social value.
+I realize that's asking a lot from a toy, considering what's out there.Well, there's a lot of pink and purple in the Minnie Mouse Pampering Pet Station, but there's also blues and turquoise, and yellow.
+There's lots of silly stuff for the preschool set, such as Minnie talking, a revolving closet, and a pop-up roof, but it also offers adults an exceptional opportunity to raise children's consciousness about the roles of pets in their lives and animal welfare (obviously, Minnie isn't going to leave a dog tethered to a short chain in the hottest of hot and the coldest of cold.
+Look how happy Pluto is.
+).Despite the gramma-pleasing factors, the Pet Station also offers kids an opportunity for fun.
+It's a stand-alone toy, but kids can add elements of other toys to the play.
+I am perfectly happy allowing my grands to play with the Minnie Mouse Pampering Pet Station.
+Super cute Minnie play set.
+I really like the Fisher Price sets because they are sturdier than most other sets like this.
+No tiny little pieces and no pieces that snap on and then fall right back off.
+Minnie comes with two outfits and then are the pets and bows to dress them up with.
+The musical mirror and bow on top are a nice touch, even if somewhat annoying around the 30 or 40th time in the same day.
+It's a great playset for my niece though because she loves Minnie and she loves animals.
+It keeps her busy for quite awhile whenever she comes over.
+She even runs to set up the pet salon before turning on the TV and that is saying something!
+She keeps asking me to get her more pets.
+It would be nice if they came out with a little accesory set with maybe some different kinds of animals and a couple more outfits for Minnie.
+My niece likes dressing up Minnie as much as her pets.
+Fisher-Price Disney's Minnie Mouse: Minnie's Pampering Pet Salon Playset.
+My 3 year old grand daughter loves this.
+She gets excited when the mirror lights up and sings.
+She enjoys changing the outfits and shoes on Minnie and the bows that fit all of the characters too.
+They are just the right size for her little fingers.
+The peek-a-boo closet is great fun for her too with the raising roof.. She has a good time putting the pets in all of the different play areas.
+You can also purchase more items to add to this play set.
+It is sturdy for a 3 year old to play with.
+Fisher-Price + Minnie Mouse = HIT!It's bright colors, Minnie, pets and a salon, what more could a little kid ask for?
+Well, I'll tell you that I even had fun playing with this with our nieces.
+The 3 year old is in heaven!
+She's proving to be a girlie-girlie and then some, so when this arrived I couldn't wait to see her face light up with awe and I got just that and then some!It's sturdy though light and comes with several accessories for both mini and her pets.
+Anything Minnie and girlie tends to be a hit in our house and I knew this would be a welcomed attrition to the toys we have here for the kids.
+I was even down on the floor playing with the girls and the play set and could see the appeal for this through their younger eyes.
+My daughter has loved her Pampering Pet Salon Playset!
+The toy is well-made and perfect for pre-schoolers.
+There are enough sound effects and actions to keep her entertained, and the clothes and bows are compatible with other Fisher-Price Disney's Minnie Mouse sets.
+I only have two very minor complaints.
+The swing piece snaps off easily enough that she frequently needs help putting it back on, and I have yet to find a way to turn the sound effects off.
+But I would definitely recommend this toy; we have already put more of these sets on her Christmas list!
+A very nice toy.
+Minnie is bigger than expected.
+You can change her dress and bow.
+She comes with some of her pets and Figaro.
+Lights and sounds, very cute.
+Ever since my daughter went to Disney she loves Minnie and Micky.When we opened the box her eyes lit up.
+Was easy to put together.
+Very durable and does not fall over.She loved playing with the set and loved the music as well.This kept her entertained for area hours.
+She could not wait to play the next day.
+I like that there is not a lot of small pieces.
+Good to buy the add on packs makes more fun for the child.
+The Fisher-Price Pampering Pets Salon comes in a large box that offers a colorful display of the items, that is sheer delight to little kids ages 2+!
+The set includes 13 pieces & 3 songs with lots of fun sounds and phrases when you press the large colorful heart shaped buttons on the floor of the pet salon.This set is all fun and games and includes a Minnie Mouse figurine, 2 dog figures to use in your salon, and many accessories & salon pieces, including a heart shaped vanity mirror with faux styling products, a pet wash, & a revolving closet.
+This set will delight young children with the colors & cute pieces!I highly recommend this for a birthday present or holiday gift, especially for the Minnie Mouse fan!
+My 3 year old daughter already has a couple of the Fisher-Price Minnie Mouse play sets which she really enjoys.
+This Minnie's Pampering Pet Salon play set is no exception, and she loves playing with it.The plastic that the toy is made of feels like it is high quality and durable.
+We have not had any problem with the paint color wearing off any of our Fisher-Price Minnie Mouse play sets yet, and I believe that this set will be just as durable.This toy does have sound effects, but I do not find them annoying.
+I like that my daughter uses her imagination when she plays with toys like this.
+Fisher-Price and Disney have another great product on their hands with the Minnie Mouse Pampering Pet Salon Playset.
+It is a coloful, interactive fun playset for kids of all ages, but primarily for preschool age children.
+There are all kinds of activities to do with your pet at the salon such as give your dog or cat a bath and then groom their hair.
+Minnie is in charge of overseeing all the action that your child can bring to this fun set.
+I would recommend this set for all young children, ages 3-6.
+I always think it's important to teach children to be compassionate and empathetic to our pets.
+This is one way to instill that value while having a good time.
+Children will not even know they are learning because they will be having so much fun.
+Highly recommended.
+The toy set is easy to put together.
+Looks great.
+Has Minnie.
+This is a quality set I'd highly recommend for that Minnie loving toddler.

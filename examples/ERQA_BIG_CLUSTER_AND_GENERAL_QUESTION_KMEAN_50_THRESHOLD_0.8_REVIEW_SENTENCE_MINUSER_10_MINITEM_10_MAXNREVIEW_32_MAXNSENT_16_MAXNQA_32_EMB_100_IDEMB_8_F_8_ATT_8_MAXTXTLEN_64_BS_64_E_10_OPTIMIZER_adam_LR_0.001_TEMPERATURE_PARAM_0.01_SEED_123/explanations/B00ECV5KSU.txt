@@ -1,0 +1,174 @@
+Top question(s):
+What is the ball made of foam ?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+This is the perfect ball for those times - it's soft so it doesn't hurt my house or their heads, it's easy to grab so one can throw it around even with 90% of focus on other things, and it's fun because the asymmetries make it somewhat unpredictable.
+That may be a good thing.The Bash Ball seems at least as durable as a Nerf football, which are typically prone to tearing.
+However, my kid is growing up fast and when we were ready to introduce some playtime focused on more traditional sports and to develop the skills needed to participate, we found he had outgrown his Oball, at least as far as playground sports go.The Nerf Bash Ball is a good alternative, especially for older kids with larger hands.
+It's wonderful.It's also Nerf, so my kid is less likely to run away from the ball and knowing he can catch it has given him more confidence which is definitely a necessary skill when venturing onto the playground.
+And when they get bored, the can kick it around.I'm knocking one star because it is already showing signs of wear (don't all nerf-like balls wear out pretty quickly).
+
+Question attention weights:
+0.2667975425720215,0.41088128089904785,0.3223211467266083
+Sentence attention weights:
+0.0050797536969184875,0.005824180785566568,0.0062634083442389965,0.005366515833884478,0.006388981360942125,0.005865836050361395,0.006326689384877682,0.0059820739552378654,0.005115632899105549,0.007059860043227673,0.006564178038388491,0.006206207908689976,0.006326689384877682,0.0052909706719219685,0.006578731816262007,0.007703001145273447,0.007208804599940777,0.004042398650199175,0.00604259641841054,0.006731822155416012,0.006410000380128622,0.006616821978241205,0.007254138123244047,0.0099427979439497,0.00655323313549161,0.006509125232696533,0.004975795280188322,0.004618257284164429,0.005510753020644188,0.010304356925189495,0.005710621830075979,0.007407021708786488,0.007114378735423088,0.006611719261854887,0.012943042442202568,0.008252952247858047,0.005161137320101261,0.006375511176884174,0.008038301020860672,0.006437025032937527,0.006076399702578783,0.005917272064834833,0.005517648998647928,0.006515517830848694,0.006519977003335953,0.007376356516033411,0.006232284475117922,0.005937487818300724,0.006012462079524994,0.003266296349465847,0.005375646986067295,0.005918432958424091,0.006496164947748184,0.0059457803145051,0.008100476115942001,0.006456341128796339,0.007104434538632631,0.007777388207614422,0.005312229041010141,0.005386419594287872,0.008042555302381516,0.0072799865156412125,0.0044694398529827595,0.010455694980919361,0.004775356501340866,0.0057541122660040855,0.0064756786450743675,0.006266065873205662,0.006433312781155109,0.006241000723093748,0.006782731041312218,0.0067556025460362434,0.005194684490561485,0.00722733186557889,0.005390208680182695,0.0073599121533334255,0.005191251169890165,0.0064451564103364944,0.006854075938463211,0.00768923619762063,0.0062260618433356285,0.007452898193150759,0.006249675527215004,0.006278320215642452,0.0071624284610152245,0.006417461205273867,0.00840333104133606,0.00448251748457551,0.00718709547072649,0.0070216236636042595,0.005370286293327808,0.008473151363432407,0.0064691477455198765,0.007112421561032534,0.006398856174200773,0.005976259708404541,0.006500266492366791,0.005938702262938023,0.007352266926318407,0.008501451462507248,0.006322768516838551,0.005667862482368946,0.006786320824176073,0.0052220625802874565,0.006230050232261419,0.005699722096323967,0.005818034987896681,0.005998370703309774,0.005362730007618666,0.007189935073256493,0.009567934088408947,0.006681917235255241,0.006660830229520798,0.006286849267780781,0.004941652994602919,0.006073004100471735,0.0072324760258197784,0.007781216874718666,0.0054841069504618645,0.004816968459635973,0.006337773520499468,0.006512476596981287,0.008049961179494858,0.005245419684797525,0.00792351458221674,0.006041813176125288,0.008190236985683441,0.008630133233964443,0.007232843432575464,0.006614096462726593,0.005369821563363075,0.006392407696694136,0.006412971299141645,0.005851112771779299,0.00635971175506711,0.006247520446777344,0.0058911461383104324,0.007241948042064905,0.00639038672670722,0.007117193657904863,0.003518308512866497,0.006549313198775053,0.005968339275568724,0.006165169179439545,0.008342497982084751,0.006126012187451124,0.0074103535152971745,0.006498181261122227,0.003618380054831505,0.00765037490054965,0.006776197347790003,0.007307570427656174,0.010174077935516834
+0.005169682204723358,0.006046207156032324,0.006258612032979727,0.005547466222196817,0.006125911604613066,0.006130452733486891,0.006308191455900669,0.006079044193029404,0.005483493208885193,0.006986429914832115,0.006355606019496918,0.007343858480453491,0.006308191455900669,0.005189788527786732,0.006432170048356056,0.007801747880876064,0.007914732210338116,0.004329902585595846,0.006115999538451433,0.006683931685984135,0.006468894891440868,0.006537793669849634,0.007587818428874016,0.009633744135499,0.00654148543253541,0.006359451450407505,0.005502990446984768,0.005137827713042498,0.006004020571708679,0.009409158490598202,0.0058289566077291965,0.0071047027595341206,0.0071534086018800735,0.0065325405448675156,0.011160113848745823,0.007583813276141882,0.005785712040960789,0.006332834251224995,0.008010182529687881,0.0063702124170959,0.00633220374584198,0.006154640577733517,0.005538200959563255,0.006952021736651659,0.006521026138216257,0.007285019848495722,0.006190809421241283,0.005716574378311634,0.006088544148951769,0.0036659378092736006,0.005664031952619553,0.005814415868371725,0.00647471658885479,0.006531441118568182,0.00846080668270588,0.006408629938960075,0.00724322022870183,0.00738143315538764,0.005371458362787962,0.006325544789433479,0.00770393293350935,0.0073763723485171795,0.004807014483958483,0.010197171010077,0.005157052539288998,0.006087102927267551,0.006402161903679371,0.006212552543729544,0.00638009374961257,0.007168171927332878,0.0067353155463933945,0.0057379514910280704,0.005184821784496307,0.006865154951810837,0.005578318610787392,0.007134323939681053,0.005691050086170435,0.006389142945408821,0.006833205930888653,0.007095537148416042,0.006232735235244036,0.006955231074243784,0.006169224623590708,0.006058893166482449,0.007059894967824221,0.00632389634847641,0.008070814423263073,0.00478300079703331,0.006975784432142973,0.006682176608592272,0.006299977190792561,0.00806468166410923,0.006561539601534605,0.006802237592637539,0.006599157117307186,0.006077971309423447,0.006379429250955582,0.005856095347553492,0.007333808578550816,0.008123611100018024,0.00628617824986577,0.005950548220425844,0.0067647844552993774,0.005620831158012152,0.006391998380422592,0.005932088475674391,0.006054592784494162,0.006011670920997858,0.005714224651455879,0.006672711577266455,0.009142446331679821,0.006845743395388126,0.007365938741713762,0.006314377300441265,0.005070477724075317,0.00549624627456069,0.007059612311422825,0.007014025468379259,0.005548689980059862,0.00520261051133275,0.006605655886232853,0.006854599807411432,0.007542924489825964,0.0053841895423829556,0.007314017042517662,0.00614161416888237,0.007710477337241173,0.008026760071516037,0.006911327596753836,0.006555117201060057,0.005605918355286121,0.006373777985572815,0.006399314850568771,0.005615648347884417,0.0065119946375489235,0.0062256441451609135,0.006138675380498171,0.006960236467421055,0.006511733867228031,0.007598736323416233,0.003921558614820242,0.00655366899445653,0.005772242788225412,0.006122156511992216,0.007505293004214764,0.0060331569984555244,0.007750562392175198,0.006811270955950022,0.0042289504781365395,0.0071156513877213,0.006661109160631895,0.006865873467177153,0.009285972453653812
+0.004982165060937405,0.005884488578885794,0.006298975553363562,0.005205837544053793,0.006150166504085064,0.005884090904146433,0.006381287705153227,0.005892780609428883,0.005170234013348818,0.007162542548030615,0.006574684754014015,0.006554244551807642,0.006381287705153227,0.005038198549300432,0.006543342489749193,0.007883262820541859,0.007681875955313444,0.003688422730192542,0.006098541896790266,0.006805966142565012,0.0065588802099227905,0.006694441195577383,0.007670660503208637,0.009954771026968956,0.0063942428678274155,0.006471860222518444,0.004952042829245329,0.0046228370629251,0.005675411783158779,0.01010852213948965,0.005472945049405098,0.007569727022200823,0.007116470020264387,0.006587199401110411,0.013091586530208588,0.008318647742271423,0.00518640736117959,0.006447251886129379,0.008317296393215656,0.0065952506847679615,0.0060752020217478275,0.005796190816909075,0.005436589475721121,0.006710641551762819,0.006577647756785154,0.007179403677582741,0.006222262047231197,0.005495677702128887,0.0058384183794260025,0.0031469990499317646,0.005221451632678509,0.005565102212131023,0.006551305763423443,0.006165098864585161,0.008150226436555386,0.0064883753657341,0.006928413640707731,0.00790970679372549,0.005151412449777126,0.0055665564723312855,0.008237251080572605,0.007168536074459553,0.004305724054574966,0.010089698247611523,0.004883236717432737,0.005876669194549322,0.00644338596612215,0.006269481033086777,0.006499617826193571,0.006666416767984629,0.0068267835304141045,0.00625614495947957,0.005006506573408842,0.007133488543331623,0.005364587064832449,0.007299951743334532,0.004953459836542606,0.006547766737639904,0.006956321187317371,0.007762191817164421,0.006274301093071699,0.007472829427570105,0.0063137696124613285,0.006291791331022978,0.0073232827708125114,0.006346904672682285,0.008562374860048294,0.00429824972525239,0.007292584981769323,0.0067672342993319035,0.0055788978934288025,0.008298573084175587,0.006540994625538588,0.007147201336920261,0.0065437201410532,0.00601299200206995,0.006440907251089811,0.005953800864517689,0.007589804008603096,0.0085910614579916,0.006394143681973219,0.005659086164087057,0.006908208131790161,0.0052198669873178005,0.006045391783118248,0.005714584607630968,0.0058600823394954205,0.005996353924274445,0.005331744439899921,0.007014761678874493,0.009457250125706196,0.00681733526289463,0.006911273114383221,0.006367506925016642,0.004789531696587801,0.005536246113479137,0.007475171238183975,0.007658009417355061,0.005372363608330488,0.004903402645140886,0.006453205365687609,0.006687231827527285,0.007636388298124075,0.005049117840826511,0.007880523800849915,0.006013806443661451,0.008149574510753155,0.008593354374170303,0.007366030011326075,0.006514198612421751,0.005237461067736149,0.006422233767807484,0.006494956091046333,0.005739194806665182,0.006525662261992693,0.0062867943197488785,0.006068102084100246,0.0073472619988024235,0.006168954074382782,0.007361933588981628,0.0033841936383396387,0.006645619869232178,0.005975768435746431,0.006230928469449282,0.008250171318650246,0.006045120302587748,0.007707315497100353,0.006702984217554331,0.0035867388360202312,0.007592089474201202,0.006792931351810694,0.007134722545742989,0.010089004412293434
+Questions:
+What age group uses this product?
+What is the ball made of foam ?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+"UPDATE:  CHANGED TO 3 STARS.
+After about two weeks, the ball is now ripped.
+The durability of this toy is not as expected.
+The ball may be fine for dodge ball and voley ball type of games, but it could not withstand intense kicking and pool play.
+In pool, specifically, the ball felt heavy like if it soaked up water.ORIGINAL REVIEW:  My son likes this ball.
+We played several games that included throwing and catching the ball and kicking the ball.
+It was fun.
+The ball is light weight and easy to throw.
+It is also squishy enogh to make it easy to catch and not to hurt if it hurts a body part.
+The ""handle"" holes make it easy to hold the ball for throwing.
+We played ""soccer"" and the ball worked well for this purpose too.
+The ball, being quite light, did not cause much destruction when my son played soccer with his friend inside the garage.
+Overall, I like this toy."
+My kids have had such a blast with this.
+It's about the size of a small soccer ball, but the holes add a whole new level of things they can do with it.
+They do kick it around, but prefer throwing it using the holes for grips.
+It doesn't go as far as a &#34;normal&#34; ball when kicked, but they have launched it over 50 feet using the grips.It's held up well so far to play by a five and seven year-old.
+It's been kicked, rolled through mud, launched over fences and into trees, and it has some minor nicks, but so far nothing major, no rips or large gashes.
+It seems to be made of pretty sturdy hardened foam.All in all, a great 'non-traditional' ball.
+My son loves this ball.
+With this, he'll poke a stick through and wave it like a flag, or do lots of other imaginative things things that are simply not possible with a regular ball.
+Oh, and it's also fun to kick, throw, and catch.
+As I am raising a child with developmental delays, including gross motor skill challenges, I am a fan of the Oball,Rhino Toys Oball Original (Colors May Vary).
+However, my kid is growing up fast and when we were ready to introduce some playtime focused on more traditional sports and to develop the skills needed to participate, we found he had outgrown his Oball, at least as far as playground sports go.The Nerf Bash Ball is a good alternative, especially for older kids with larger hands.
+I'm not thrilled by the name and the packaging brought me back to some ugly rounds of dodgeball when I was a kid (with the same developmental disorder as my child).
+The ball itself, is a bit easier to catch and throw thanks to the built in handles/holes all around the ball.
+It definitely is encouraging and motivating for a child to pick up a ball and focus on the throwing action instead of only being able to hyperfocus on the challenges they have holding the ball and getting ready to throw.
+I like that this ball allows him to develop a wider array of skills, but of course we will still work with the other skills and regular balls, but woohoo!
+What a joy to see your kid light up because they threw the ball with all of their might and it went somewhere, or you tossed it to them and they caught it.
+It's wonderful.It's also Nerf, so my kid is less likely to run away from the ball and knowing he can catch it has given him more confidence which is definitely a necessary skill when venturing onto the playground.
+The other kids just see it as another Nerf ball.
+I have teenaged boys.
+One thing I have noticed about teenaged boys is that they can entertain themselves for hours with mindless repetitive ball play.
+They even enjoy this when lying around the house, as when watching TV.
+This is the perfect ball for those times - it's soft so it doesn't hurt my house or their heads, it's easy to grab so one can throw it around even with 90% of focus on other things, and it's fun because the asymmetries make it somewhat unpredictable.
+It's also soft enough to throw against the wall and catch, while lying on the couch and watching TV, 6 or 7 thousand times in a row.
+It's not rugged enough for hardcore teenaged outdoor ball play, but it's perfect for inside.Also, I'm a physical therapist, and I have started bringing this ball when teaching little ones any back-and-forth ball play.
+It is VERY easy to catch, which is great for learning and also for kids with disabilities.
+(It is pretty easy to throw too, except some kids get their fingers stuck in the holes and can't release.)
+The kids love when I bring this ball out.BOTTOM LINE:  Excellent for little ones learning to catch or teenagers playing inside.
+Ok, so this is basically a hollow ball with holes in it that you can use as finger holes.
+Thus you can fling it pretty far and pretty hard.But it has zero bounce to it.
+I also can't really imagine what sport you'd use it for.
+It doesn't seem to be well-suited to something like soccer or volleyball.
+I CAN see kids using it to throw at each other in a version of dodgeball, and for that, I imagine it would be very well-suited indeed.So if you need a ball with a lot of bounce, look elsewhere.
+If you want to give the kids something they can throw at each other without breaking a vase, or Marcia's nose, then this is probably a good buy.
+I haven't used this too many times yet, but so far, so good.
+Like other Nerf products it seems to be well-made.
+The soft Nerf material is coated so it's more durable than just a plain Nerf ball.
+It's solid, but lightweight at the same time.While it isn't &#34;regulation&#34; size for many sports, it's a great ball that can be used just for fun for a variety of sports, especially kickball, dodgeball, or indoor soccer.
+It's ideal for catch because of the size and weight and because of the holes in the ball that make it easy to grip when throwing.Ideal ball for kids and even college students in a dorm room.
+As other reviewers have stated this definitely doesn't replace any other balls in your collection - certainly not a soccer ball or playground ball.
+Having said that, it is *perfect* for younger kids to play catch with.
+I love that they can easily grip and manipulate it and it is much easier to throw for that reason.
+It is a high density foam that will wear like any other nerf product - it won't last forever and it doesn't feel great if you're hit hard with it, but that's to be expected.
+My kids have really enjoyed playing with it.
+They advertise it as being good for soccer, volleyball, etc., and yeah, you can kick it and hit it etc., but it's hardly a replacement for the proper balls for any of those things.It's molded foam that's reasonably rigid.
+The holes are nice and it feels satisfying to grip.
+It can be squashed flat with a few pounds of force.
+Feels a bit like a foam bicycle helmet though somewhat softer.I think a dog could tear it apart pretty easily, and it will acquire nicks and tears from teeth marks, so I wouldn't recommend it as a dog play toy.It's about the size of a beginner level kids soccer ball.G.
+First, for scale, this ball is 7 inches in diameter.
+That makes it slightly smaller than a size 4 soccer ball.While easy to grip, the handholds mean that you will be throwing the ball with a lot of backspin.
+That, plus the air resistance provided by all the holes, means you won't be throwing it very far.
+That may be a good thing.The Bash Ball seems at least as durable as a Nerf football, which are typically prone to tearing.
+Our Bash Ball has been used both indoors and out, and has a few scratches, mostly from the pavement.
+It got pushed under a seat for a while, and took a couple days to spring back to shape.CAUTION: Don't think this is a marshmallow.
+It's high-density foam.
+Throw it at a face and a bloody nose will result.
+Ask me how I know.
+Another safety notice: Because of how the ball is held with fingers grasping the openings, there exists the potential to injure a finger if someone aggressively rips the ball away from you.Currently, the navy ball is out of stock.
+The silver ball is availablehere.
+I asked my 6 year old son to help me with this review, and here is what he told me after rating it 4 stars:&#34;First of all, you don't need to fill it up with air.
+Second of all, it has grips so you can chuck it far.
+Third of all, it doesn't blow away like most balls blow away.
+The ball can be chucked a really far distance.
+My favorite game to play with it is catch because it is hard to play soccer with it because it doesn't kick really far.
+It also doesn't bounce too well.&#34;Just to add the adult perspective, this is a nicely sealed Nerf ball, so it will work better outside than most conventional nerf balls.
+It really is fun for playing catch, especially with younger children because you don't need to worry about it hurting when it hits them like a conventional ball.
+It doesn't need inflating which is good and bad.
+Good because it is always ready to go, but bad because it doesn't bounce.
+While the box says it is good for soccer, my kids said it really wasn't good for that game.
+So 4 stars - buy it for catch but not for major sports use.
+This is a cool ball that does it all.
+Its dark blue with a little bit if green here and there.
+It has many medium size holes across the ball.
+The foam between the holes make a great handhold if you want to throw it.
+The ball is made of a nice soft foam that won't hurt your hands if you catch it.
+It's heavy enough to sail through the air but light enough that it drags your arm down.
+A soccer ball is of similar size but different weight.You can play with the ball in so many different ways.
+You could play soccer with it, kickball, dodgeball, volleyball, and a lot of other sports.
+Using it as a basketball could be a possibility but the holes make it hard to shoot it.
+You could probably even play football with it if you threw it while holding the holes.
+It's something different and a great ball that you can play so many sports with.
+I would definitely recommend this to a friend who likes to play various sports.
+My kids have had fun with this foam ball, but have not taken a particular shine to it.
+It does not seem that durable.
+It is lightweight and easy to grip and throw.
+It will probably be best used for dodge ball.
+My son did twist his finger one day while playing with it, but it only happened once.
+My daughter said the ball stuck to her foot one day when she tried to kick it.
+My kids still seem to prefer the plastic play balls.
+Fun ball but starts to show signs of wear pretty quickly.
+Unlikely, to last much longer.
+Good for tossing at each other and lots of fun in the pool.
+"My 7 and 9-year-old boys put this Nerf Sports Bash Ball through a multi-sport test and found that it's best for throwing and catching games.
+It's not bouncy enough to use as a basketball.
+It can't be kicked far enough to be as fun as a soccer ball.
+It wasn't bad as a volley ball.
+The holes make it fairly easy to throw and catch and we're thinking it might be fun to take to the beach or play with in the pool.
+It's one of those toys where you make up your own ""bash ball"" sort of game.It is pretty dense foam, so it can hit pretty hard.
+But it is slightly soft and can get scuffs and nicks.This has not replaced the basketball, football, or soccer ball that the boys play with, but is a fun toy."
+This is a great ball to add a little variety to basketball, dodgeball, even volleyball.
+It's made of heavy duty Nerf material but you still want to keep it away from the dog!It's small enough for 10 years olds to have fun as well as adults.I would have given it 5 stars if it were priced under $20.
+I decided to pick up this ball on a whim.
+I thought &#34;we can always use another ball, right?&#34; It is Nerf, which I trust to be durable and its a ball, which is a no brainer of a toy.
+When it was delivered, my 7 year old son opened the box himself.He took it outside where in one hour it was a basketball, kickball, soccer ball, It was tossed over the shed, thrown between him and a friend, used as a bowling ball and more.
+Versatile is an understatement.The ball is lightweight but durable.
+It has been left in the rain, kicked with shoes and without, played on pavement and grass, mud and moss.
+Although it is quite a bit dirtier, there are no holes or rips thus far.
+The holes make it easier for smaller hands to toss and pick up to throw.We've enjoyed it very much.
+So much so that this will remain on our 'gift ideas' list for friends!
+We have tons of Nerf guns in our house, but I was so, SO happy to get a hold of this ball!
+Remember when Nerf was about outside toys rather than just guns?
+THIS is Nerf getting back to Nerf!I have had a very, very difficult time keeping this ball out of my hands.
+What makes this ball different from so many others?THE HOLESThe holes really do make a difference.
+I'll give you an example as to how - we held onto the ball as you normally would and tried to throw it over the house - we all failed.
+Then we put our fingers through one of the holes and we were able to whip the ball over the house fairly easily and consistently.We've done everything from throw to kick this ball and its held up beautifully.
+As with every Nerf ball, there are little nicks here and there, but nothing big enough to impact how the ball works or to make it look horrible.
+We absolutely and fully love this ball and we are ready to get much more use out of it this summer!
+This ball is made of a solid foam material with enough resilience that it will bounce on a floor (less bounce than an inflatable ball) and enough give that it hurts less when you are beaned with it.
+This has a nice, smooth outside.
+The handholds make this a fun, non-traditional ball.
+My kids enjoy it.
+I think Hasbro/Nerf has a strong product here.The product description says that there are three hand holes, and then later, three handy holes.
+There are twelve holes and many different ways to grasp it.
+It has enough holes that little hands and big hands will all find a way to clutch it.
+Good fun while it lasts.
+Well, when I showed my 9 year old son I was about to review this the title of the review is what he said!
+It is the one ball he chose to take to a recent scouting event - they played soccer with it and it can be thrown easily as well.
+There is no way for it to go flat so keeping a pump handy is not needed which is another benefit.Overall, highly recommended.
+I got this ball as a choice through the Amazon Vine program.
+I do not know how much it retails for, but if it's more than $15 I'd say pass on buying it.
+It's a very dense foam ball, very lightweight at about 4-6oz, with gentle finger tip give and approximately 9&#34; in diameter.
+I don't see this holding up long for it's advertised purpose of &#34;bashing and kicking&#34;.
+If you threw this ball with force, or kicked it and it hit someone it would hurt despite it being made of foam.
+I think this would make a very good ball for toddlers/preschoolers to play with because of it's light weight and very grip friendly design.
+Also, this age group typically can not kick or fling/throw a ball with the strength and force to hurt themselves or someone else.
+I think this ball would be rather appealing for any dog to play with, however they would probably quickly tear it apart or chew it up-something to keep in mind if you have dogs.
+I read that some reviewers stated that their ball broke rather quickly with kicking, not a good sign.
+I have two kids under the age of 6.
+They both are learning to throw and catch balls.
+This works out nicely because they can catch it easily with both hands and can throw it.
+And when they get bored, the can kick it around.I'm knocking one star because it is already showing signs of wear (don't all nerf-like balls wear out pretty quickly).

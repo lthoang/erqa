@@ -1,0 +1,161 @@
+Top question(s):
+Do the Matchbox cars work with this garage? I'm a grandma who has been away from this stuff too long!
+is this toy compatible with fisher price "wheelies" cars? (the ones that come with the set look very similar to wheelies)
+Top sentence(s):
+Assembly required at least 25 minutes from opening box to having stickers placed, but wasn't frustrating (if you're good at putting on those stickers!)
+Thankfully it didn't hit another child.
+Despite their roughhousing, the toy has suffered no damage.
+We've had it for a month now and the kids haven't broken a thing on it, despite heavy play and occasional arguments.
+This is definitely THE item for little boys for Christmas this year - all imagination and NO video games.
+
+Question attention weights:
+0.12147793918848038,0.7009117603302002,0.01827951893210411,0.0851607397198677,0.07417000085115433
+Sentence attention weights:
+0.006157450843602419,0.008557196706533432,0.0076058367267251015,0.0071620396338403225,0.007483492139726877,0.009947548620402813,0.0072876750491559505,0.007475553546100855,0.007298530079424381,0.007735294755548239,0.009111573919653893,0.007568839006125927,0.008108298294246197,0.006574871484190226,0.0069763860665261745,0.0059952205047011375,0.00871544424444437,0.007048618048429489,0.004413729067891836,0.008978779427707195,0.007144622504711151,0.008728334680199623,0.00862310454249382,0.007241373416036367,0.007612031884491444,0.007039946969598532,0.006565401796251535,0.007304158993065357,0.006194903049618006,0.007078839000314474,0.00718004209920764,0.006660863757133484,0.0071037691086530685,0.007180214859545231,0.006584365386515856,0.00648212106898427,0.006791191175580025,0.0034806332550942898,0.0065889316610991955,0.010748280212283134,0.009145395830273628,0.006210782565176487,0.007869789376854897,0.005089839454740286,0.008072850294411182,0.00957977119833231,0.010872727259993553,0.005352967418730259,0.005060270894318819,0.005488569848239422,0.00829595047980547,0.0075584049336612225,0.006992333568632603,0.008429083041846752,0.006365678738802671,0.008681423962116241,0.007680058944970369,0.00771752605214715,0.008267751894891262,0.006704365834593773,0.007954297587275505,0.007306108251214027,0.005443062633275986,0.006647312082350254,0.00781808327883482,0.006929761730134487,0.0071204002015292645,0.008396252058446407,0.006834072060883045,0.006811026483774185,0.005057379603385925,0.008008725009858608,0.00645201001316309,0.006589261814951897,0.00817455630749464,0.00651196064427495,0.007506818510591984,0.007730760145932436,0.00780283659696579,0.007439281791448593,0.00634186714887619,0.008350842632353306,0.0071218968369066715,0.006301601883023977,0.007991724647581577,0.007486451882869005,0.010235778987407684,0.007273014169186354,0.009130973368883133,0.008319525048136711,0.006953897420316935,0.008626132272183895,0.007174581289291382,0.008434105664491653,0.00824207067489624,0.007800644729286432,0.00908525101840496,0.00822701957076788,0.005600584205240011,0.00744273466989398,0.004086658824235201,0.008303740061819553,0.00479111447930336,0.006037723273038864,0.009115160442888737,0.008583346381783485,0.009738633409142494,0.006042638327926397,0.00670813862234354,0.009456179104745388,0.006447607185691595,0.007204663474112749,0.006130635738372803,0.004562797024846077,0.0071326131001114845,0.007812515832483768,0.006464803591370583,0.0070452336221933365,0.008112013339996338,0.008482411503791809,0.005967371165752411,0.0074496218003332615,0.007560144178569317,0.0057068574242293835,0.009245098568499088,0.007709579076617956,0.0070943948812782764,0.005862781312316656,0.008154096081852913,0.00551643269136548,0.008100675418972969,0.006800217088311911,0.009837737306952477,0.007808370981365442,0.006501819472759962,0.007780490908771753
+0.005252393428236246,0.009891048073768616,0.007875724695622921,0.007291870191693306,0.008110997267067432,0.011008795350790024,0.00709335645660758,0.00792488269507885,0.00746006378903985,0.00838084239512682,0.008953632786870003,0.007923341356217861,0.008458955213427544,0.005375724285840988,0.007007448002696037,0.005209649913012981,0.009179062210023403,0.006375440862029791,0.002972338115796447,0.010226715356111526,0.007252700161188841,0.009256337769329548,0.008831211365759373,0.007323743309825659,0.008245496079325676,0.006933616008609533,0.0049240426160395145,0.006716465577483177,0.0054550995118916035,0.007129655685275793,0.007317786104977131,0.005522054620087147,0.007179461885243654,0.006723853759467602,0.005889181979000568,0.006602067034691572,0.006532022263854742,0.0024757080245763063,0.005772776901721954,0.013901970349252224,0.00998205691576004,0.006019063293933868,0.008280126377940178,0.0030264686793088913,0.0074432180263102055,0.010089604184031487,0.013834688812494278,0.004094940144568682,0.003851591609418392,0.004171130247414112,0.008821189403533936,0.007801103871315718,0.007068060338497162,0.00952823180705309,0.006391048897057772,0.009096469730138779,0.00792612973600626,0.007075408473610878,0.00838683545589447,0.006771798245608807,0.007759770844131708,0.007368542719632387,0.005641459487378597,0.006285640876740217,0.007992064580321312,0.00569640938192606,0.007231198251247406,0.009120774455368519,0.0065855304710567,0.00611976720392704,0.0038550295867025852,0.008325235918164253,0.006264049094170332,0.005433615297079086,0.008960391394793987,0.006204345729202032,0.007181525230407715,0.007964417338371277,0.00814506970345974,0.007338597904890776,0.005657853092998266,0.00924388412386179,0.007235794793814421,0.006518652196973562,0.00855247862637043,0.008007957600057125,0.011911929585039616,0.0073663899675011635,0.010850032791495323,0.00816047191619873,0.006801276933401823,0.009225069545209408,0.006842585746198893,0.009730653837323189,0.008769961073994637,0.008217338472604752,0.009255052544176579,0.009733828715980053,0.004851693753153086,0.007718791253864765,0.0028267193119972944,0.008435025811195374,0.0037598556373268366,0.0056767333298921585,0.009493445046246052,0.009474077261984348,0.009241671301424503,0.005774964578449726,0.006555251777172089,0.011315843090415001,0.006014748476445675,0.007382062263786793,0.005695752799510956,0.0031786751933395863,0.007134496700018644,0.008167963474988937,0.005430024582892656,0.0069983466528356075,0.008668388240039349,0.009371533989906311,0.005396869033575058,0.007661878131330013,0.007761102169752121,0.005118510685861111,0.008622267283499241,0.008183457888662815,0.0071868374943733215,0.005349614191800356,0.007557407952845097,0.005032829474657774,0.007479327730834484,0.006667289417237043,0.009570393711328506,0.008116220124065876,0.00551657285541296,0.00844205915927887
+0.00598356407135725,0.0077123139053583145,0.007297476753592491,0.006672969553619623,0.006841977592557669,0.010380560532212257,0.00705491891130805,0.007026353385299444,0.006935912650078535,0.007340956479310989,0.010692687705159187,0.007096983026713133,0.00804049987345934,0.006990581750869751,0.006491370499134064,0.0064103687182068825,0.008854397572577,0.00731184147298336,0.0042756302282214165,0.008711899630725384,0.006832331418991089,0.00883050449192524,0.00828558485955,0.007168632932007313,0.007125577423721552,0.006863053422421217,0.007608492858707905,0.007221964653581381,0.006024577189236879,0.006638312246650457,0.0067435079254209995,0.00731603242456913,0.006697865668684244,0.007379135116934776,0.006680192891508341,0.005617158953100443,0.007279562763869762,0.0023518723901361227,0.009841319173574448,0.012334136292338371,0.010424422100186348,0.0050815860740840435,0.007497204001992941,0.006078794132918119,0.008456596173346043,0.011114465072751045,0.011707721278071404,0.006619294174015522,0.00498940097168088,0.006678824778646231,0.008776330389082432,0.006993795279413462,0.006653279531747103,0.008101811632514,0.005269942339509726,0.008661867119371891,0.007758791092783213,0.006500794552266598,0.01084026601165533,0.005569993983954191,0.007969173602759838,0.006892784498631954,0.004520385526120663,0.006294707767665386,0.007803299929946661,0.008793906308710575,0.007369353901594877,0.009515196084976196,0.006436140276491642,0.007594581693410873,0.005992886610329151,0.007938620634377003,0.005947107449173927,0.008404826745390892,0.008425121195614338,0.006389017216861248,0.006784551776945591,0.007448320277035236,0.007607967127114534,0.006914666388183832,0.006777940317988396,0.008582531474530697,0.006724203005433083,0.0049123140051960945,0.00853638630360365,0.007046413607895374,0.009603723883628845,0.006731166038662195,0.009432071819901466,0.007974686101078987,0.006013680715113878,0.008272676728665829,0.007383290678262711,0.008021664805710316,0.007997721433639526,0.007701486349105835,0.010403532534837723,0.008272839710116386,0.005061141215264797,0.007064581848680973,0.004302012734115124,0.009080909192562103,0.004014698322862387,0.005179785657674074,0.010525678284466267,0.008716445416212082,0.010471049696207047,0.005986375734210014,0.005998646374791861,0.009002530947327614,0.0065152631141245365,0.006138453260064125,0.0055513642728328705,0.004318780731409788,0.006751151755452156,0.00740156602114439,0.007060340605676174,0.006657630205154419,0.00807992648333311,0.008575024083256721,0.005815394688397646,0.007283929735422134,0.00701393885537982,0.005062918644398451,0.009167136624455452,0.0075431037694215775,0.0070638349279761314,0.005298323463648558,0.009391763247549534,0.004617261700332165,0.007200308609753847,0.006417339667677879,0.010939978994429111,0.008059157058596611,0.0066855610348284245,0.007817418314516544
+0.00606415094807744,0.008318602107465267,0.007341603748500347,0.007204369176179171,0.007205501664429903,0.0103969881311059,0.0073196496814489365,0.0074636610224843025,0.007426464930176735,0.007865875959396362,0.009446321986615658,0.0075325448997318745,0.008308200165629387,0.0067862337455153465,0.007045455276966095,0.006009769160300493,0.008744828402996063,0.007284555118530989,0.004013071767985821,0.009052284061908722,0.007144027389585972,0.008152734488248825,0.00836104154586792,0.007570640649646521,0.007700647693127394,0.007177089806646109,0.006699363701045513,0.00605664262548089,0.005968588404357433,0.007169242948293686,0.007298674434423447,0.0059915208257734776,0.007235359400510788,0.006032522767782211,0.0061948238871991634,0.0055398098193109035,0.00679005729034543,0.0025491900742053986,0.010072407312691212,0.011665495112538338,0.009941400028765202,0.004903499968349934,0.007729432079941034,0.005590745713561773,0.00794789008796215,0.01108202338218689,0.012411188334226608,0.00608949176967144,0.005196970887482166,0.006917581893503666,0.008259352296590805,0.007350885309278965,0.007182400673627853,0.008600263856351376,0.005640500690788031,0.008468682877719402,0.008077532052993774,0.005849959794431925,0.010873991064727306,0.006014363840222359,0.008014591410756111,0.0073198662139475346,0.0050733680836856365,0.006031244061887264,0.007463322952389717,0.0077447849325835705,0.007814462296664715,0.009498341009020805,0.006616806145757437,0.007082859054207802,0.005174980033189058,0.008347131311893463,0.006413891911506653,0.008348542265594006,0.008561109192669392,0.0058412752114236355,0.0069547127932310104,0.007579895667731762,0.008131157606840134,0.006700204219669104,0.0069866240955889225,0.00783450622111559,0.007243734318763018,0.005341880954802036,0.008501047268509865,0.007590810302644968,0.008916265331208706,0.007115350570529699,0.008871393278241158,0.0074167572893202305,0.0062196156941354275,0.007466503418982029,0.007365631405264139,0.008736991323530674,0.009010445326566696,0.008179835043847561,0.009841752238571644,0.008358951658010483,0.005574274342507124,0.00739625096321106,0.004478377755731344,0.009076938964426517,0.004069602582603693,0.005192638374865055,0.00950234942138195,0.008325583301484585,0.008837149478495121,0.0057695298455655575,0.006585560739040375,0.009097494184970856,0.006970337126404047,0.005880290642380714,0.005906555335968733,0.003868281142786145,0.007250354625284672,0.007753447629511356,0.007481832057237625,0.0071436092257499695,0.008470918983221054,0.00917312502861023,0.006507695186883211,0.007415832951664925,0.007241541054099798,0.0051166582852602005,0.008163472637534142,0.007365440484136343,0.007485596463084221,0.005752100143581629,0.009275000542402267,0.004660942126065493,0.006419356446713209,0.00698802899569273,0.009501136839389801,0.007584957405924797,0.006462543271481991,0.008216368965804577
+0.006268230266869068,0.008274558931589127,0.007388229016214609,0.007114230655133724,0.007144457660615444,0.010263913311064243,0.007366537116467953,0.007336397655308247,0.0072932918556034565,0.007700054906308651,0.009685051627457142,0.007494447752833366,0.008261224254965782,0.006753901485353708,0.006935729645192623,0.005897404160350561,0.008983440697193146,0.007447065785527229,0.004242483526468277,0.00873746257275343,0.007114305626600981,0.008590438403189182,0.008528235368430614,0.00729867210611701,0.007542709819972515,0.007073270622640848,0.007239225320518017,0.006854897830635309,0.005989826750010252,0.007048902101814747,0.00715097738429904,0.006429100874811411,0.007074662484228611,0.006718020886182785,0.006499024573713541,0.005990026984363794,0.006679919548332691,0.003095027757808566,0.007437160704284906,0.01107494905591011,0.00956123135983944,0.005412773694843054,0.007744404021650553,0.005853627808392048,0.008402204141020775,0.010328881442546844,0.011482351459562778,0.005685286596417427,0.005193457473069429,0.006026641000062227,0.00818275474011898,0.007430801633745432,0.007024730555713177,0.008426779881119728,0.00592503696680069,0.00855169165879488,0.007779347710311413,0.00701567530632019,0.00936959870159626,0.006252058316022158,0.008277364075183868,0.007268862798810005,0.005010244436562061,0.006358021404594183,0.0076922206208109856,0.007685340475291014,0.007367375306785107,0.008637415245175362,0.006717038806527853,0.007279536686837673,0.005236119031906128,0.00813689362257719,0.006412172224372625,0.007247998844832182,0.008154667913913727,0.006034839432686567,0.00747276097536087,0.00761513551697135,0.0078803151845932,0.007152402773499489,0.006647679954767227,0.007911918684840202,0.007112014573067427,0.0056182765401899815,0.008149989880621433,0.007448016665875912,0.010071405209600925,0.007189195137470961,0.009227613918483257,0.00818855781108141,0.006675342097878456,0.008190125226974487,0.007266789209097624,0.00833448488265276,0.008344599045813084,0.007877551950514317,0.009411477483808994,0.008048543706536293,0.005565898027271032,0.007343181408941746,0.0041178190149366856,0.00877401977777481,0.004340904299169779,0.005569871515035629,0.0094278734177351,0.008439379744231701,0.01005589123815298,0.005819722078740597,0.006561459973454475,0.00909355841577053,0.006788903847336769,0.006287050433456898,0.0060791075229644775,0.004292958881705999,0.007135511841624975,0.0077452827244997025,0.006808130536228418,0.007046265993267298,0.008226148784160614,0.008676797151565552,0.00623930711299181,0.007475925609469414,0.007526709698140621,0.005556551273912191,0.00930288340896368,0.007518182508647442,0.007209063973277807,0.0055978503078222275,0.008887517265975475,0.0048919180408120155,0.007590355817228556,0.006878746207803488,0.009955896064639091,0.007515215780586004,0.006770871113985777,0.007870105095207691
+Questions:
+is this toy compatible with fisher price "wheelies" cars? (the ones that come with the set look very similar to wheelies)
+Do the Matchbox cars work with this garage? I'm a grandma who has been away from this stuff too long!
+Is it possible to buy replacement cars for this garage? We have lost the police car that comes with it and my son keeps asking for it.
+Can regular matchbox cars be used with this garage too?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+Make sure you don't overlook this insanely cute garage!
+The cars fit the little guys' hands very well - they're a bit on the chubby side so it makes them easy to pick up.
+And that motorized crane!
+Golly do the boys LOVE that thing!
+They really outdid themselves over this one - the giggles and the insane amount of fun the boys have with this thing is over the top.
+This is definitely THE item for little boys for Christmas this year - all imagination and NO video games.
+Yeah!HIGHLY recommend!
+This is a rather large toy so make sure you have a good sized play space.
+It is easy to set up and play.
+The kids love this toy and have a hard time waiting their turn.
+It seems to work best with our 4 year olds because of the motor skills required to use the crane and elevator.
+It also works best with no more than two children at the same time.
+So far no one has gotten bored with it and they all love to play.
+Fisher Price remains one of the best names out there for toys.
+The set is a lot of fun and my kids loved it.
+There is a lot of different neat details, like roll-out extra road and the way it hides inside, the elevator - it has very interesting construction, and kids had a lot of fun discovering how it works - it goes right through the platform on the middle level.
+The way it makes the police car start chasing the yellow car is interesting, too.YOu need batteries for the crane to work.
+At first, we had problem with the crane - it would fail to work properly, but we soon found out that we didn't assemble the toy correctly - it is made of flexible plastic, and you might think that it clicked in place, but it might not, or not in every place it should have done it.
+So, if something does not work, inspect carefully all the connections (some of them are well hidden) and chances are, there is one or two that didn't fully engage, and it throws the toy's balance off, and it does not work correctly as a result.
+My nephew is a little fellow - younger than the target age of this toy, but Man, does he love it!
+There is so much stuff going on and the toy is durable and very kid friendly.
+Once you get it set up - yeah you gotta do that - and put the batteries in and put the cars in place, the kids can have a whole lot of fun watching the police car chase the race car through the garage and out onto your solid floor.
+There are sound effects as well which helps the kids have some fun.
+Be ready to have the dog chasing those little cars around...
+"This play set has a lot going for it.
+It seems like it has a lot more ""nooks and crannies"" than other car play sets.
+It requires batteries for the sound effects and for a crane portion that moves the cars from one road to another.
+There is also a hand operated elevator, gas pump and pull out and retractable road (not sure about the point of that part actually)It comes with two cars already and I note that I have another fisher price set with cars and the cars from that set will also work with this one... so I wonder if that was intentional.
+Probably was, and is a nice way to get people to stick with Fisher Price for their toys.This set will keep your little tykes busy playing for hours.
+There is a lot to see and do with it."
+This is a fun set with plenty going on.
+There's the main action with the garage ramp/crane and also a little mini mart with a gas pump that makes noise, a little lever to launch a car over a bump in the road.
+Overall, this seems to be good quality for what it is.
+I like that this is a set which my four-year-old can enjoy, but I'm not too worried that something will get swallowed or chew up immediately if baby brother comes on the scene.In my limited experience, plastic car sets try to design in more stunts than can really be pulled off most of the time in play.
+That somewhat applies here, but at least the coolness seems to outweigh the frustration.
+When you launch the racecar from the top of the elevator, it triggers the police car to follow (if you have him stashed in his spot above.)
+Then there's a break in the ramp where they have to be lifted over by the crane.
+It's designed so that the crane carries the sports car across and then quickly comes back to pick up the police car, which should have paused.
+It's fun when it works, but a good percentage of the time the police car has enough momentum that it doesn't stop to wait for the crane and just crashes off halfway down.This does need to be assembled, and it will need 3 AA batteries which are not included, so plan ahead if you're giving a gift.
+Assembly required at least 25 minutes from opening box to having stickers placed, but wasn't frustrating (if you're good at putting on those stickers!)
+Battery installation DOES require a phillips screwdriver.
+There's not a lot you'll be able to do with this set without batteries since they operate the crane and cars can't go down the ramp without it.Decide what your thoughts are, but I did realize that this could be perceived as teaching that being chased by a police car is a fun thing.I really like the Fisher-Price Rollers cars, but had trouble finding a place to buy more.
+(I figure with two cars, there's a good chance one of them will be misplaced at any given time.)
+I ended up ordering from Fisher Price's website, but shipping with seem disproportionately high to the price of the cars unless you're buying along with other things.
+[Good]It's a pretty attractive looking toy and that will keep your kid distracted for hours.Safety: The choice for plastic instead die cast metal was a good one.
+We've already had an episode where my kid has thrown one of the cars.
+Thankfully it didn't hit another child.
+If it did, the damage would be minimized since the cars aren't die cast metal.Ease of Assembly: The instructions were pretty clear and simple to follow, with the hardest part being the precise placement of stickers.Durability: This toy is durable enough to survive being pulled away roughly on multiple occasions.Children under 4 that play with this toy will become more familiar with the idea of mechanical motion[Bad]Battery Operated: I really didn't like it that the crane was battery operated.
+I feel that there would be more educational value if it was hand crank operated.
+I really didn't see the value of making it battery powered.While this toy is rated for 3-6 years old, I'm not sure I can see children 5 years old and older really having fun with this toy.I don't really see any point in the retractable rubber road, other than increasing the toy dimensions on the box.
+[Misc]I didn't see this toy's price as either a positive or negative.
+[Verdict]This is a great toy for a young child.
+My son is four.
+He could not wait for this to be put together.
+While I was putting it together all he did was push the two cars around.
+When it was finally done his out lit up.
+He spent a whole hour playing with this garage.
+He really enjoys it.This does take up a lot of space so we put this on a small kids table in his room.
+No small parts so thats even better.Overall nice imaginary play no batteries to buy .
+We will add to the car collection later on for the holidays.This is a great concept and once it get together it will be sturdy.
+HOLY COW my kiddos love this!
+I have a 3 year old daughter and a 1.5 year old son and they both love love love it.Putting this together was easy.
+It is VERY important to push all connections together until you hear them click, if you do not the crane will not work.
+I thought ours was broken, but my hubby went over all the connections and I missed one of them, a loud CLICK later everything worked perfectly.I thought the extendable road was lame, but my kids love it so there you go.
+There is a lot of extra details in the structure, it is well made and feels sturdy.
+The sound effects are a big hit and are great for me too; I can hear from the kitchen when they are done playing with it so I can peek in on them more often.I would pay money to replace this if it broke, we will be buying a few more cars for it so friends can get in on the action.Final note: It cracks me up that this toy is a reenactment of a policeman's speed trap, lol.
+My son loves toy cars, and he will turn anything into a road.
+Whenever we need to keep him occupied, all we have to do is give him a couple of toy cars, and he does the rest.
+However, this does not diminish the fact that he LOVES having a garage to drive his cars around in.
+He loves the ramps, the elevator, and the pull-out road.
+The launcher and motorized crane are pretty fun too.This is a great toy.
+There is assembly required, but it's easy enough, all the parts just snap into place.
+Once assembled, it seems pretty sturdy and durable.
+It also requires 3 AA batteries (not included) for both the sound effects and the motorized crane.
+I love that it comes with two cars, making it easier to share when playing with a friend, and I love that the cars are chunky, little kid cars, making them perfect for my three-year-old.
+I also like that my son can work the elevator and launcher himself; he tends to stay more interested in a toy when it requires more interaction from him.Overall, the Fisher-Price Roll `n Go Garage is a big hit, and it seems like it's going to be my son's go-to toy for some time to come.
+Here at last a chance to give a five-star review to a toy.
+This thing has delighted all my kids, age 1 to 7, boys and girl.
+Assembly is a bit of a chore, to be sure, but you only do it once.
+The reason it's a chore is because this thing is made of thick stiff plastic that takes some force to assemble.
+The centerpiece in particular is hard to get inserted fully.
+I suspect most of the complaints people make about it not lining up right are really just side-effects of not getting the centerpiece installed correctly.
+After six weeks the kids still play with this every other day.
+They invent little stories about the police car the the robber.
+They find ways to manipulate the mechanism to make the cars drop where they shouldn't.
+They beat each other up for a turn.
+Despite their roughhousing, the toy has suffered no damage.
+It's strong.
+The little cars are strong, by which I mean they don't have bent axles from the kids using them like miniature walkers.
+It's expensive, but you're getting what you pay for.
+All in all, a big hit.
+I have always liked Fisher Price toys because of their durability, bright colors and age appropriateness.
+My grandsons had a blast playing with this exciting Roll N Go Get Away Garage.
+(ages 3, 6 and 7 years old) They set it up in my hallway and sent the cars racing.
+It was so nice to hear them laugh with delight as their imaginations went into high gear.
+Looks like I will be buying more cars now that they invited their friends over to join in the fun.
+You can't go wrong with Fisher Price.
+My son is four and we've had a heck of a lot of road sets and car doohickey things over the years.
+Some of it is really simple and now too babyish for his four year old tastes.
+Other items tend to be not only meant for an older child, but incredibly breakable.
+Nevertheless, my son and toddler daughter both love to play with cars and rocket ships and anything that goes.The Fisher-Price Roll N Go Get Away Garage reminds me of the ancient play garage I got from a yardsale back in the day, but much cooler.
+It has an elevator, it has three stories of road, and it has a car crane to pick up vehicles and move them around.
+The set comes with two cars (a police car and a race car) that are not quite as small and fiddly as matchbox cars: these two cars are much more durable and of a size easily held and manipulated by small hands.
+The product comes with some assembly required, but it took my husband no more than 15 minutes and a screwdriver to get it set up.
+There is apparently a sound function that's included with the garage, but the batteries that were sent with this product  faded out very speedily.
+Since we're a family who prefers less electronically noisy toys, this has been fine with us.My son and daughter both enjoy playing with the garage, sometimes playing together, but often on their own.
+My four year old makes up elaborate stories while playing and including his own sound effects.
+My daughter generally prefers to just drive the cars around and manipulate the elevator.
+The garage is satisfyingly sturdy.
+We've had it for a month now and the kids haven't broken a thing on it, despite heavy play and occasional arguments.
+The worst that's happened is the loss of a sticker or two.
+Even the fact that my husband and I occasionally trip over the thing hasn't resulted in damage.
+It can be a bit of a pain to store this if you have a small space.
+This is perhaps the fifth Fisher Price garage our family has gotten for kids, neices and now grand nephews.
+This is one of the best.
+My nephews love the elevator and the different routes the cars can take.
+It is one of those toys that is a classic and whatever small changes fisher price maes, really doesn't matter.
+Kids just love these.
+Fisher Price has made the best garages for 40 years at least (that is the first one we got in my house for my kid brother.)
+The girls play with them as  much as the boys do.
+I ordered the Roll N Go Getaway Garage for my son who just turned 2.
+It takes a little time to set this toy up and put in batteries.
+Once it is functional, it is a really great toy.
+The sound effects are awesome, and the little cars are bright and durable.
+I kept thinking the elevator or crane would break with little hands roughly placing cars on it or jerking it, but so far, it has held up wonderfully.
+Out of all the toys my son received for his birthday, this one captured his interest the most.
+I would most certainly recommend it!
+I didn't think my son was quite ready for a car &#34;set&#34; like this one (he's just turning 2), but after spending an afternoon at a friend's house playing with their Hot Wheels set and not destroying it, I knew it was time to take this one out of the box.For us, it was easy to put together and he absolutely loves it.
+Perfect for both independent play (thank goodness he's finally doing that) and for us to play with him.
+The cars are a great size for his hands and the set stays together when knocked over.I can see this lasting in our home for a long time.
+Toy is not very sturdy or durable and therefore I consider it over priced at $39.99.
+The two little cars are very cute, roll easily, but are not super durable either.
+Ws had the fisher price ramps around garage which was bright yellow and flimsy.
+This new toy is nicely colored and thicker, more sturdy plastic.
+Both the boys have a blast.
+Highly recommend.

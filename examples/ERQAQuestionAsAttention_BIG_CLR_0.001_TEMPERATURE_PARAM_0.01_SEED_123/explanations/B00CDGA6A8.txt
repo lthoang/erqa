@@ -1,0 +1,195 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+What age child is this appropriate for?
+Top sentence(s):
+The ""pasture"" was also not well thought-out, as all he has to do is pick it up and it falls apart.
+The barn has many features to entertain a toddler and will be perfect for imaginative play as a child grows older.
+Since so much of the use of the toy is imagination centered, it is a toy that will grow with her for a bit."
+"My toddler age daughters have had a good time playing with this.
+The animals are adorable.
+
+Question attention weights:
+0.03236349672079086,0.158015638589859,0.3061223030090332,0.5034985542297363
+Sentence attention weights:
+0.005709628574550152,0.0038601462729275227,0.005407388787716627,0.005503987893462181,0.00566227687522769,0.004434121306985617,0.0043281628750264645,0.006045755464583635,0.005449102260172367,0.004125243052840233,0.0058158449828624725,0.005699093919247389,0.005327365826815367,0.004930884577333927,0.005936868954449892,0.004841921851038933,0.005820602644234896,0.005352898500859737,0.00602435739710927,0.006045684218406677,0.006206379272043705,0.006018638610839844,0.003456793026998639,0.006321381777524948,0.006511569023132324,0.005835136864334345,0.0069769504480063915,0.006066176574677229,0.006528641562908888,0.005613533314317465,0.005846023093909025,0.004017637576907873,0.0049485401250422,0.0047400170005857944,0.004637468606233597,0.006305722054094076,0.0059801265597343445,0.0050262869335711,0.0042234156280756,0.003978104330599308,0.006627410184592009,0.005741776432842016,0.005553498398512602,0.005569609347730875,0.005357486195862293,0.006706335581839085,0.005747206974774599,0.006417775526642799,0.005639869254082441,0.006769844330847263,0.0067853303626179695,0.006553941406309605,0.005155101418495178,0.006256716791540384,0.005992680322378874,0.006266921758651733,0.006053534802049398,0.006336177233606577,0.004860784392803907,0.006647803820669651,0.005724716931581497,0.00498889060690999,0.004602095112204552,0.00605259882286191,0.004983379039913416,0.006149068474769592,0.007189088501036167,0.004568110685795546,0.006182846147567034,0.003942799288779497,0.004703720100224018,0.00552411237731576,0.006121136713773012,0.006001465488225222,0.0074380203150212765,0.006986766587942839,0.00419903639703989,0.0058844564482569695,0.006097061093896627,0.003596243681386113,0.006026748567819595,0.0059663099236786366,0.006215786561369896,0.005969238933175802,0.006464058067649603,0.005749463569372892,0.004801198840141296,0.0061913165263831615,0.006418679375201464,0.00653804698958993,0.006175019312649965,0.005737911444157362,0.00649269251152873,0.00624820776283741,0.006159828044474125,0.005988749209791422,0.0066246590577065945,0.005843617953360081,0.006918763276189566,0.0055104694329202175,0.007344183977693319,0.005981338210403919,0.005679883062839508,0.0049497028812766075,0.004951148293912411,0.006111851427704096,0.006592438090592623,0.0060750809498131275,0.006007057148963213,0.005186530761420727,0.005966333672404289,0.006410025525838137,0.005488768219947815,0.005785600747913122,0.005563792772591114,0.007447026204317808,0.004357539117336273,0.0067253075540065765,0.006144970189779997,0.005056353751569986,0.006054390221834183,0.006731277331709862,0.0062152063474059105,0.00560049619525671,0.006056234706193209,0.006593669764697552,0.004812652710825205,0.005907317157834768,0.0064927046187222,0.005992223508656025,0.005084136966615915,0.005945675540715456,0.00598182575777173,0.006498199421912432,0.006420661695301533,0.0062536196783185005,0.0039042201824486256,0.007583173457533121,0.006229966878890991,0.006175159011036158,0.006607850082218647,0.006175159011036158,0.006692798808217049,0.005434682127088308,0.0061106025241315365,0.005523147992789745,0.004937204532325268,0.006476300768554211,0.005735596641898155,0.005157661624252796,0.0064168814569711685,0.006441154517233372,0.005993309430778027,0.00739399204030633,0.00615303311496973,0.006558247376233339,0.007207593414932489,0.007553599774837494,0.005868964828550816,0.004216070752590895,0.0052576614543795586,0.007105223368853331,0.0058113629929721355,0.006102613639086485,0.006188817787915468,0.0059772697277367115,0.006262701470404863,0.004901542793959379,0.004948136396706104,0.005675556603819132,0.0056166378781199455,0.005564753897488117
+0.006264122668653727,0.002762746764346957,0.0035145594738423824,0.005484008230268955,0.0036992779932916164,0.0029979050159454346,0.002292908728122711,0.0068995715118944645,0.006350355222821236,0.0035276818089187145,0.005387614015489817,0.005843351129442453,0.0042217690497636795,0.0026108911260962486,0.005671289749443531,0.003363818395882845,0.005314422771334648,0.005225333385169506,0.006283510010689497,0.0059999264776706696,0.006965950597077608,0.007190851029008627,0.001919887843541801,0.005789360962808132,0.006888940464705229,0.006411710288375616,0.006386715918779373,0.007277269382029772,0.007504324894398451,0.004368229769170284,0.006266405805945396,0.002199039328843355,0.0036459353286772966,0.0036799744702875614,0.0031857856083661318,0.007094197440892458,0.004700530786067247,0.003476020647212863,0.0018339542439207435,0.003132730722427368,0.006368136964738369,0.005556123796850443,0.005403705406934023,0.0067871022038161755,0.006014449521899223,0.008113383315503597,0.0069398460909724236,0.007433447986841202,0.005849403329193592,0.007906912826001644,0.006836750544607639,0.007263179402798414,0.005776094738394022,0.007143150549381971,0.007062600925564766,0.0072323945350945,0.0058400193229317665,0.0071309576742351055,0.0051299165934324265,0.00798716302961111,0.004531825892627239,0.004004320129752159,0.004111746791750193,0.006684870459139347,0.0031758109107613564,0.006910378113389015,0.007962609641253948,0.004312736913561821,0.007094593718647957,0.0032354374416172504,0.0034855122212320566,0.004480638541281223,0.007141465321183205,0.006738973781466484,0.00903372559696436,0.007066453341394663,0.004279207903891802,0.0062853810377418995,0.007063371129333973,0.0021183094941079617,0.006114589050412178,0.0062714386731386185,0.007111588958650827,0.00673148175701499,0.007032694295048714,0.006334465462714434,0.004540497437119484,0.007048239465802908,0.008188302628695965,0.0068270196206867695,0.006281489972025156,0.004340926185250282,0.006117632146924734,0.0070987967774271965,0.00690493592992425,0.005995001643896103,0.007439088076353073,0.0044787186197936535,0.007333572953939438,0.005186977796256542,0.006082997191697359,0.006305027287453413,0.005266145803034306,0.006033699959516525,0.0037069804966449738,0.006768863648176193,0.005517261568456888,0.005890072323381901,0.006440976168960333,0.004588783252984285,0.006535718683153391,0.007504607085138559,0.004689521621912718,0.005533882882446051,0.0047311619855463505,0.007338411640375853,0.005077872425317764,0.005308092106133699,0.007392341271042824,0.003297970863059163,0.006239107809960842,0.008166350424289703,0.005868922453373671,0.005146932788193226,0.006284177768975496,0.006946347653865814,0.0035390642005950212,0.006009906996041536,0.005219523794949055,0.00587040837854147,0.004659938160330057,0.00618194742128253,0.006943945307284594,0.00837164930999279,0.006998736876994371,0.007865467108786106,0.004041195847094059,0.007863792590796947,0.006978990510106087,0.007050002459436655,0.007210283540189266,0.007050002459436655,0.007787915877997875,0.006834347266703844,0.007084986660629511,0.0055627524852752686,0.0051222797483205795,0.005903203040361404,0.0038347383961081505,0.0059605189599096775,0.006350899580866098,0.007911930792033672,0.004996591713279486,0.007736233528703451,0.00613456591963768,0.006697904318571091,0.008141735568642616,0.007272386457771063,0.006185268051922321,0.003453224664554,0.005342097487300634,0.0068477848544716835,0.00640322919934988,0.006840840447694063,0.004971902351826429,0.0066943042911589146,0.007522077765315771,0.003811755683273077,0.005243935622274876,0.004528746474534273,0.0045336405746638775,0.005268741399049759
+0.006371408235281706,0.0028774067759513855,0.003875557566061616,0.00532505800947547,0.002533860271796584,0.004884727764874697,0.0029943352565169334,0.007165141403675079,0.00532918656244874,0.004420226439833641,0.006922008935362101,0.0063845994882285595,0.005794651340693235,0.0038098886143416166,0.005563629791140556,0.002621188759803772,0.005098269321024418,0.005371659994125366,0.006419474724680185,0.006982669699937105,0.007306526880711317,0.007374919019639492,0.002505287993699312,0.005903605371713638,0.006486091297119856,0.0063807242549955845,0.004348985385149717,0.007356091868132353,0.007958580739796162,0.004277494736015797,0.006676126271486282,0.003321434371173382,0.004472715314477682,0.002987790619954467,0.005448438692837954,0.007415524683892727,0.003535872558131814,0.002146253129467368,0.0028192796744406223,0.002686778549104929,0.0065567148849368095,0.006326047237962484,0.006164479069411755,0.007276150863617659,0.005527608562260866,0.008013679645955563,0.006463529542088509,0.007290340028703213,0.003589330008253455,0.007107445504516363,0.00782622117549181,0.007832629606127739,0.006125010084360838,0.007388952653855085,0.007575592026114464,0.007371353451162577,0.006544528063386679,0.0074967797845602036,0.006441236007958651,0.006013574544340372,0.0037931527476757765,0.004439966753125191,0.004798348061740398,0.006422653328627348,0.0026982238050550222,0.007314855232834816,0.008182019926607609,0.004842269234359264,0.007437264546751976,0.0030317422933876514,0.0033801153767853975,0.0043861703015863895,0.00733752129599452,0.0072491061873734,0.005771702155470848,0.008433520793914795,0.004679057747125626,0.00693249236792326,0.007299074903130531,0.0029766352381557226,0.006545360665768385,0.005901757162064314,0.007399388123303652,0.007167194038629532,0.006712549831718206,0.006391671486198902,0.00455044349655509,0.0073736379854381084,0.006798222195357084,0.007406312506645918,0.006935885176062584,0.00425074715167284,0.006022380664944649,0.007340463809669018,0.005444368813186884,0.00533250579610467,0.00463279290124774,0.004623005632311106,0.009173313155770302,0.0062959399074316025,0.00913409423083067,0.006207391619682312,0.004917381331324577,0.0050206840969622135,0.003957233391702175,0.0061881220899522305,0.00604879017919302,0.0033921306021511555,0.006894682068377733,0.006117999088019133,0.006666693836450577,0.007620949763804674,0.004153882153332233,0.005825525615364313,0.0045194197446107864,0.006558320950716734,0.004180354066193104,0.004423710983246565,0.007202689535915852,0.004387741442769766,0.0063055772334337234,0.007850011810660362,0.005446322727948427,0.006002956070005894,0.00649923225864768,0.006374014541506767,0.003979182336479425,0.006330300122499466,0.004518014844506979,0.0041112713515758514,0.004422257654368877,0.006025239825248718,0.006108702160418034,0.007279662881046534,0.0072267139330506325,0.007574054412543774,0.003333213273435831,0.007385643199086189,0.007398303598165512,0.007341450545936823,0.0056809415109455585,0.007341450545936823,0.006739424075931311,0.006957939360290766,0.007236795499920845,0.005863511934876442,0.005016300827264786,0.006220131181180477,0.004053865093737841,0.005543050821870565,0.007721206173300743,0.008176355622708797,0.005591379012912512,0.00843885075300932,0.0052120741456747055,0.006673090625554323,0.007243155036121607,0.007783408276736736,0.006606700364500284,0.0019705621525645256,0.005811165552586317,0.0045190234668552876,0.00465085543692112,0.007108895108103752,0.005073425360023975,0.006751141976565123,0.007302436046302319,0.004859616979956627,0.005019834730774164,0.003464908804744482,0.005140847526490688,0.004509249702095985
+0.006336815655231476,0.0031583509407937527,0.0040175714530050755,0.004574958700686693,0.003263384336605668,0.004680986050516367,0.0026831182185560465,0.00717263063415885,0.005045144818723202,0.0044716717675328255,0.006776662543416023,0.006603117100894451,0.005325494799762964,0.003628219710662961,0.005311267916113138,0.0029104906134307384,0.0052886479534208775,0.0058579351752996445,0.006388517562299967,0.006768218241631985,0.007327544502913952,0.007698532193899155,0.0023083502892404795,0.005978308152407408,0.006548093166202307,0.006264852359890938,0.004730286542326212,0.00764730479568243,0.007846484892070293,0.004346304107457399,0.0068064285442233086,0.003294273279607296,0.004436494782567024,0.0030729235149919987,0.005120213143527508,0.007499870844185352,0.0037821547593921423,0.002692698733881116,0.0027808123268187046,0.0030009320471435785,0.006378897465765476,0.006104248110204935,0.00653046416118741,0.007195454556494951,0.005284266080707312,0.008202909491956234,0.0068140518851578236,0.007387923076748848,0.003892635926604271,0.007193367462605238,0.007905497215688229,0.007975584827363491,0.006093363743275404,0.0074538905173540115,0.007484620437026024,0.007416645064949989,0.0069464752450585365,0.007559292949736118,0.006311849225312471,0.006402174010872841,0.004293350502848625,0.004301102831959724,0.0044686151668429375,0.006772203370928764,0.0024933547247201204,0.007346790283918381,0.008175145834684372,0.005173542536795139,0.007424802053719759,0.0031680846586823463,0.003557695774361491,0.004858420696109533,0.0075743673369288445,0.007204615511000156,0.005885817110538483,0.007986181415617466,0.004778191447257996,0.006924683228135109,0.007403342518955469,0.002826426876708865,0.006265855394303799,0.005675391759723425,0.00746361305937171,0.007253117859363556,0.006633390672504902,0.006618357263505459,0.004714068491011858,0.007455436512827873,0.006912602111697197,0.006936968304216862,0.006097979377955198,0.004435569979250431,0.005063734948635101,0.0073993210680782795,0.005566983018070459,0.005705379880964756,0.004639855120331049,0.0047720056027174,0.008514419198036194,0.006364171393215656,0.008657868951559067,0.006379364989697933,0.004945314489305019,0.0052644032984972,0.00429052859544754,0.005884734448045492,0.005012533161789179,0.004045011475682259,0.006781252101063728,0.005652182269841433,0.0063026063144207,0.0077265226282179356,0.003647868987172842,0.005587195511907339,0.004689935129135847,0.006444205064326525,0.004454509820789099,0.004840292502194643,0.007468280848115683,0.004370131995528936,0.006583712995052338,0.008098836056888103,0.005958384834229946,0.006152616813778877,0.006290924269706011,0.006285789422690868,0.00456097861751914,0.0063960668630898,0.00393224461004138,0.003504334017634392,0.004328466486185789,0.005570995155721903,0.006421721540391445,0.007313092704862356,0.007226791698485613,0.007731900550425053,0.0036077213007956743,0.00774291530251503,0.007349325343966484,0.007413219660520554,0.005895369686186314,0.007413219660520554,0.007034897804260254,0.006763694807887077,0.007329828571528196,0.005519115831702948,0.005132247228175402,0.005591218359768391,0.003313981695100665,0.005702417343854904,0.00701357563957572,0.00806113239377737,0.005517014302313328,0.008710252121090889,0.004951092880219221,0.007156434003263712,0.007463480811566114,0.007235044147819281,0.006212604697793722,0.0022399143781512976,0.0060109226033091545,0.005106783006340265,0.004208638332784176,0.007185780443251133,0.004671957343816757,0.006711940746754408,0.007354019209742546,0.004057655576616526,0.005287392996251583,0.003032265929505229,0.0051063718274235725,0.0050103249959647655
+Questions:
+age level please
+does it come with figures
+What age child is this appropriate for?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+We are a huge fan of Little People toys and I was so excited to see a new addition to the family!Assembly notes: It came out of the box easily..
+There were no annoying twist ties or things that needed to be cut before you could remove the toy.The two pieces (the boy and the horse) that were stuck to the cardboard to show in the front of the package ended up with white paper stuck to them.
+I scrubbed with hot water and it came off.You will need a Phillips head screwdriver for assembly.
+The barn &#34;snaps&#34; into place on the base really easily.
+The ladder was easy to attach with the two included screws.
+I had to lay the barn down to get a good surface for pushing the screws into place.
+The ladder top also needed to be pushed a bit to get the holes to line up completely.The shed &#34;snapped&#34; into place easily, with helpful little hands (who were watching every move I made and asking if it was done yet) holding up the slide so I could insert the top into the side of the barn.
+Make sure you're holding it the correct way, I realized after trying to make it fit that I had it facing the wrong way.
+Once I got it facing correctly, it snapped in easily.
+The way to check positioning is to make sure the &#34;overhang&#34; is facing down.
+The pictures in the directions really help with that.That's it.
+The silo door is designed to come off and there are directions for reattching it.
+Good to know since I'm sure I&#34;ll be putting it back on a lot!Play notes: My 3 1/2 year old could not wait to play with this toy.
+He went and got out every Little People toy we had and built a big town with the barn as part of it.The dial on the front changes from day to night songs.
+That was nice since it didn't play the same one song over and over like some toys do.
+I ended up putting a piece of clear packing tape over the speaker because it is pretty loud.
+My kids had one of these in the 70's.
+It was well made and all our kids played with it and nothing ever broke.
+This one is made of cheap plastic, and I expect better from Fisher-Price, who used to be known for well made toys.
+The old set came with all the animals a farm needs, but with this one you have to buy more animals to make it fun to play with.
+For the price, it should be complete.
+I wish I had kept my old set for the grandkids.
+I own another version of this Fisher Price farm toy (without sounds) that has much better quality than this toy.
+It is very cheaply made - the thickness of the plastic parts reminds me of toys that come in happy meals.
+Several of the parts are warped and do not fit together correctly.
+The whole product just feels cheap for $40.
+I would expect to find a toy like this in a discount or dollar store for something like $5-10.
+Other than the shoddy build, our kids are happy playing with it.
+The only pieces that are quality are the figures.
+"I was pleased with this farm set from Fisher Price.
+The installation was easy, everything fit together pretty snuggly, and there were enough farm animals and sounds to allow for extended play for young ones.First, putting it together.
+It only took about 5 minutes to put together; that mainly consisted of pushing the barn down on to the base until each of the supports clicked and locked, and then attaching the back to the barn.
+The only thing I didn't like about the installation is that it required a Phillips head screwdriver to finish the installation.
+When you are done pushing and clicking all the parts you still have to install two screws into part of the barn to keep a major piece from falling off.
+Not sure why they didn't just build the part with a couple of tension grips or something, like they did with the rest of the toy, but that's my only complaint about that.
+(Also, when you build the barn it no longer fits into the box.
+)The toy came pre-installed with batteries and it makes a lot of noises when you put pieces inside the main door or the hay chute --lots of singing.
+Also, when you open the white gates more noises accompany the action, which I thought was very child friendly.
+(The sing-song voice -which is the same voice on another Fisher Price Toy, the Cookie Jar, starts to grate on me, but I suppose I'm not the target audience for that.
+)Additionally, though the plastic is somewhat thin, the overall product is very durable.
+It has been kicked over once or twice (by me) in my early morning stumbles, and it is none the worse for wear.Also, I was happy that the product came with multiple play objects (a person, two horses, a sheep, a bale of hay, and an immovable chicken).
+I don't like the toys where you buy a set but it only comes with a play figure or two and you have to buy an expansion set to really get play time in.
+This one comes with all you need.Finally, I like how you can ""make"" the fence.
+This is something simple enough for toddler hands, and something the parent can ""do"" with the child.Overall, I thought this was a good set.
+Recommended."
+"My toddler age daughters have had a good time playing with this.
+They like playing with the animals and the barn.
+Like most ""Little People"" toys it is sturdy, simple, and free of all the little bits you worry about small kids swallowing.
+This is a fairly simple toy without many bells or whistles and that is just fine by me.
+I'd rather have a sturdy safe toy that can get their imagination going.
+Their older brothers have also grabbed it a few times to use when they are playing with cars or trains so I think I can expect a few years of use of it as my girls get older.
+Overall a good toy that I have no complaints about - and the kids seem to enjoy it."
+Seems like every generation has a Fisher Price Farm.
+I think some of the older versions were better.
+They came with more animals and more people.
+That being said, this is still a great toy for toddlers.
+It is sturdy, colorful, fun and makes great farm sounds.
+As always, you can add it to other Fisher Price play sets and make a village.
+I recommend this for any house with toddlers.
+It is fun and engaging.
+You can't go wrong with a Fischer Price playset.
+I don't think there's a child alive who doesn't love this farm set, or a former version of it.
+I put this in my preschool classroom and it is by far, the most popular toy.
+Kid's flock to this familiar red barn, knowing it's going to be good classic fun.
+I love the additions of more sounds, children love a noisy toy, but eeven when the batteries died, my students still loved it.
+This farm is sturdy, ready to handle many years of play.
+The animals are adorable.
+The packaging was easy to remove and assembley was quick and simple.
+Every child needs this toy!
+This newer edition of the Animal Sounds Farm toy is really cute.
+It is larger than the old one, but maybe slightly more flimsy.
+It makes sounds when you push down on the bottom of the silo or when you swing open the gates.
+It also plays a few little songs, which are classic melodies (like William Tell Overture and Where is Thumbkin?)
+with farm-related lyrics.
+Kind of cute, possibly could get annoying after awhile.
+I just wish there were more animals with this set - it only comes with 3.
+It seems like Fisher Price is skimping on the people and animals lately - the newer sets are cute and fun, but a lot more people and things for little hands to manipulate would be a lot better.
+I know you can buy more separately but just wish they would include more for what you already pay for the set.
+I give this toy 3 1/2 stars.
+My grandson who is about to turn two came over the day the package arrived in the mail and it was a bit hard not having his curiosity peaked considering the way it was packed it was playing a tune as it sat on my front porch.So right away as soon as he seen the box he went crazy about getting it open, The whole thing took about ten minutes to get it all together for him and he spent the rest of the day exploring and playing with it.Now it is the first toy he runs to when he walks in the house.
+He has one of the old ones that was his mommies when she was young but he really likes the new one with all the sounds and music.
+"My 2-year-old really likes animals, so I thought this would be a great toy for him.
+He was very excited about it when it first came out of the box.
+He loves making it play songs and moving the animals around to different places.
+He also really liked Eddie the farm boy.
+He is just beginning imaginative play, so this is perfect for him to get started.I'm not quite sure about the hay?
+lever from the top of the barn.
+It doesn't really seem to make sense to me.
+Also, I am not a big fan of the fence pieces.
+My 2-year-old tends to just toss the ""extra"" pieces around and put them on and take them off a lot.
+I am probably going to need to put them away for a bit just because he doesn't really understand what to do with them just yet.Overall, it is a cute toy that my toddler enjoys playing with.
+A couple more animals would make it better, but my son doesn't seem to notice."
+"My 20-month-old daughter is crazy about sheep, so I was pleased to be able to present her with this farm toy.
+Assembly was very easy, so it was ready to go in very little time.
+The pieces are fairly sturdy and stood up well to the rather rough handling of my toddler.
+She was thrilled with all the sounds and got a big kick out of opening and closing all the little doors.
+She has a couple of other Little People sets, so some of those characters came over to  ""visit"" the farm too!We played together and worked on animals sounds, counting the pieces, and the mechanical skills involved in linking the fencing together.
+Most of the fun and learning in this is in her imagination play, which seem to feature the sheep climbing the ladder and getting in all sorts of trouble, much like one of her favorite cartoons.I am pleased with the product and the price.
+Since so much of the use of the toy is imagination centered, it is a toy that will grow with her for a bit."
+This is another great toy from Fisher-Price.
+The barn has many features to entertain a toddler and will be perfect for imaginative play as a child grows older.
+The animals and farmer are cute and the perfect size, easy to hold.
+The entire toy is well built and should last for many years.
+The animal sounds are wonderful too!
+I am very pleased with this Fisher-Price animal sounds farm!
+It was very easy for me to put together (took less than five minutes).
+Once I had it set up my two year old son was playing with it and he didn't stop until his bedtime about 45 minutes later.
+He had a great time opening and closing the gates so he could hear the animal sounds and he loves the sounds the silo makes when he puts the farmer in it and down the slide.I do think the plastic is a bit thin but I don't think it will be damaged all that easily.
+We have had several other little boys here playing with it and after three weeks of daily play it still looks new.
+I think it is very good quality and I will be buying it for my nephew when he turns two in December.
+My two year old son plays with and loves this toy.
+It goes very well with his other Little People sets, especially the tractor/wagon.
+The only thing that kept confusing my husband and I is the catapult thing.
+I think it's for tossing hay barrels, but my son just uses it to throw animals around.
+But, in the end he IS playing with the toy and that's what it's about I guess!
+"This farm set includes a narrow barn with a rooster attached on a nest.
+It also includes a boy, cow, horse, sheep, a hay bale, and 4 pieces that form a fence.
+Batteries provided create sounds from movement of buttons/opening doors etc.My daughter was very excited to play with this set and it remains one of her favorites.
+She likes the sounds and playing with the animals.
+Over time she adjusted to not being able to play with the rooster that you can't remove from the nest.
+I wish they had made the rooster as something that you could click on or just place there so she could play with it.
+Whoever designed it that way didn't have to sit through the tantrum of ""I want to play with the rooster""...and her trying to pry him off there.
+Also, I'm confused why they put a rooster (clearly a rooster because of the curved tail feathers) on a nest instead of the female hen that would have been a useful addition on her own.I wish the set had a secure place to store the included parts like the animals and fence when not in use.
+As a parent of a 2 1/2 year old, I'm finding that I spend a great deal of time trying to keep the set together.
+My daughter plays with the animals more than the barn itself although she does like to open/close door etc.
+for the sounds.Overall, it is a nice set and very durable for a toddler to play with and keep intact.
+My daughter wishes it had more farm animals to play with but I see that there are some additional ones that can be purchased separately.
+If your child likes anything to do with a farm or the animals, it is a great purchase."
+It's hard to be disappointed by Fisher Price quality  IMO, and this new addition to the family is no exception.Our granddaughter LOVED this and immediately feel in love with the animals and farmer boy as well.
+She quickly got the concept of how to make the sound effects as well.Not sure what some of the comments about fur on the animals were, unless that was an older version of the farmhouse??
+Our animals are fur-free, but cute as can be.A great toy and great value.
+Recommended
+This is the first Little People toy for our boys, ages 3 and 18 months.
+I was doubtful that they would enjoy it after opening it up and putting it together.
+There doesn't seem to be much fun to be had here.
+The noises are odd, and the people and animals don't really do anything.
+There is a hay baler, but it simply drops the hay in the middle of the barn.
+It seems to have serious design flaws.
+However...The boys love this thing.
+It's been a week now, and they still spend lots of time with it.
+I still think that the noises are annoying, but they keep pressing them.
+I realize that annoying for me may be fun for them.
+If I were to rate it with my objective mind, I'd give it one or two stars.
+But, with the boys in mind, it's a four star for sure.
+And I suppose that's what matters.
+My 3 year old and almost 2 year old sons love this farm.
+They played with it non-stop after opening it and more than three weeks later, they continue to go back to it as a favorite toy.
+The farm comes with a few starter animals (sheep, cow, horse) and a farmer.
+As other reviewers have commented, the plastic is a bit thin, and, overall, the toy seems cheaply made for the price.
+We have other Little People products that seem to be of higher quality than this one.
+However, it's still intact and unbroken after three weeks of a lot of play time (more than I can say for other toys, so it's obviously more durable than it appears).
+"This was our first step into the Little People toy world and I was really not impressed.
+My son is not a rough kid and loves to play with smaller toys, but every time he would bump into this or knock it over, it was coming apart.
+The ""pasture"" was also not well thought-out, as all he has to do is pick it up and it falls apart.
+I've spent more time putting it back together these past few afternoons than anything else.The toy doesn't hold his attention for very long either.
+I think, if the entire play set were purchased, rather than just this starter kit, more fun would be had, but these Little People toys are expensive!
+I think we'll be passing this onto a friend.
+No need to keep a toy around that he doesn't find fun and I don't enjoy having to constantly mess with.My recommendation?
+Choose a different toy!"
+While the farm is brightly colored and has cute animals, it is lacking in quality and durability.
+The plastic is rather thin and assembly is required for a few pieces.
+The fence is very flimsy and the ladder has to be attached with screws (we left it off).
+The silo is suppose to be for storage of the animals and little man, but the door does not stay closed to keep them in.
+Over all very disappointed.
+As with all my other reviews of toys for little ones, I am deferring to my 2.5 yr old on this one.
+My expertise in toys for little ones is sadly, very outdated.
+The little guy went right to this toy and loved it from the start.
+I actually held off a bit on the review and now, almost a month after he received it, he still loves it.
+A toy keeping his attention that long is kind of rare.
+It has also held up to all the punishment he could dish out which is a testament to the toy's durability.
+I've always been a fan of Fisher-Price and the Little People Animal Sounds Farm Toy has not disappointed me.
+If you buy, I hope your little one is as thrilled as mine was and thank you for taking the time to read my review.

@@ -1,0 +1,214 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+They loved super heroes and especially Spiderman.
+Not to mention the noise isn't even in my house...simply marvelous!
+Plus, it doesn't need batteries, which is always a bonus!As with most toys like this, my boys greatly enjoyed it for 30 minutes or so, and then their minds diverted elsewhere.
+Little boys love super heroes as much as the bigger boys, and I love that this set is designed for ages 3-7.
+They only provide a spiderman figure and no villain toy to play with.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.003783326130360365,0.00489844148978591,0.006448221392929554,0.0047875652089715,0.0033592521212995052,0.003034208668395877,0.004600991029292345,0.004538651090115309,0.005444365553557873,0.00430676992982626,0.0035427873954176903,0.004524139687418938,0.00582217937335372,0.00479116989299655,0.004075149539858103,0.003114021150395274,0.006078524515032768,0.0059196376241743565,0.00820451881736517,0.00485969427973032,0.005733399651944637,0.007525646593421698,0.005055144429206848,0.0033251033164560795,0.00395559798926115,0.006847924552857876,0.004441987723112106,0.003131513250991702,0.004134975839406252,0.004769597668200731,0.005413966719061136,0.00841661635786295,0.004192268941551447,0.004668681416660547,0.006512575317174196,0.005097304005175829,0.009493089281022549,0.005104868672788143,0.004928681533783674,0.004588274285197258,0.004402447957545519,0.005000801756978035,0.004593391437083483,0.004736107774078846,0.004318635445088148,0.005600179545581341,0.004338339436799288,0.003367043798789382,0.0038047151174396276,0.005105892661958933,0.007100418210029602,0.004231263883411884,0.004854694940149784,0.005127632990479469,0.005546417087316513,0.004545724019408226,0.006437521427869797,0.005123085808008909,0.004854694940149784,0.0044990237802267075,0.003967869095504284,0.005387311335653067,0.0030435752123594284,0.00395407946780324,0.004139752127230167,0.004730847664177418,0.00470036081969738,0.003933523315936327,0.0029811901040375233,0.003967262804508209,0.004780098795890808,0.005768527742475271,0.004436523653566837,0.005067026242613792,0.003784894710406661,0.004303512163460255,0.004732406698167324,0.004764729645103216,0.00492133991792798,0.004770203027874231,0.00454356474801898,0.004517300985753536,0.0050963470712304115,0.0034602389205247164,0.0039221192710101604,0.004073189105838537,0.004026486538350582,0.004683771636337042,0.002596065867692232,0.003849815810099244,0.00455493526533246,0.00519963912665844,0.004837700631469488,0.004647978115826845,0.008025582879781723,0.007070746272802353,0.0051022968254983425,0.011927416548132896,0.0029836378525942564,0.0032038851641118526,0.004525098484009504,0.006713052745908499,0.004771393723785877,0.005313520785421133,0.0034279199317097664,0.005194168072193861,0.004581864457577467,0.002954872092232108,0.0046669370494782925,0.00484808161854744,0.006337943486869335,0.0050749396905303,0.005243332125246525,0.00649764621630311,0.0073889209888875484,0.008333954028785229,0.010693729855120182,0.0054595801047980785,0.004967380780726671,0.0042260983027517796,0.004543989431113005,0.005430377554148436,0.00517352856695652,0.005927857477217913,0.0031886098440736532,0.004657013341784477,0.005577874835580587,0.0067104315385222435,0.008804664947092533,0.004660754464566708,0.004273901227861643,0.004470328334718943,0.004881600849330425,0.005130378529429436,0.004960981197655201,0.003895977046340704,0.006325854919850826,0.007340953219681978,0.009368288330733776,0.004434941336512566,0.005230231210589409,0.0048211910761892796,0.004445334430783987,0.004989116918295622,0.0075246538035571575,0.005002493504434824,0.004670311231166124,0.006735857110470533,0.005599557422101498,0.006775371264666319,0.004950523376464844,0.003859040793031454,0.006233288440853357,0.004864822141826153,0.003093719482421875,0.003810977330431342,0.004854273982346058,0.004718095995485783,0.0062689827755093575,0.00489432318136096,0.0032665799371898174,0.004692313726991415,0.004864822141826153,0.004880552180111408,0.004126724321395159,0.004864822141826153,0.005300861783325672,0.004559213761240244,0.0055077155120670795,0.0055572595447301865,0.002504531992599368,0.004791721701622009,0.004325923975557089,0.003911021631211042,0.005002687219530344,0.0049161408096551895,0.007034406065940857,0.004518596921116114,0.00685207499191165,0.005084814969450235,0.00533462967723608,0.004967379383742809,0.005511333700269461,0.0068320524878799915,0.0054207490757107735,0.004690319299697876,0.004690319299697876,0.0033193554263561964,0.005315793678164482,0.005196050275117159,0.004788471385836601,0.004811618477106094,0.005086343269795179,0.004852479789406061,0.006912035867571831,0.004690319299697876,0.004490210674703121,0.004690319299697876
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+So if you've been in any toystore or store with a toy section, you've seen Marvel toys in abundance for several years, especially following the great (and not so great) Marvel movies hitting the theaters in the last decade.
+Some toymakers make good Marvel toys, others don't.
+Playskool is making toys for a very different demographic (toddlers and younger), but their toys get away with some pretty substandard stuff.BOXING:This Spiderman Racing Funhouse comes in a large box.
+Inside are a bag of stickers and instructions, all the pieces, and packaging cardboard.
+The pieces are all held in with paper twine, which is a blessing compared to the metal/plastic wiring fasteners in usual toy packaging--scissors go right through the twine and removing all the pieces is quick.REVIEW:The product took me about 20 minutes to put together.
+The instructions are rather straightforward, but the pictures are small, and all the instructions are on one sheet of paper.
+You may need some reading glasses to see exactly how all the pieces fit.
+The plastic pieces are pretty sturdy--definitely will stand up to toddler punishment.
+However, the moving pieces: the tower and the elevator will probably break with normal use (so far so good-it's held up a day).When playing with the tower, there are two or three major flaws with construction.
+The first is the tab that holds Spiderman's webbing swingline.
+The tab even when fully put together, is loose and does not hold the swingline in place without some jiggering with the tab each time it's reset.
+Not that problematic for me, but my sons cannot adjust the tab on their own and get frustrated.
+Second, the slides that go into the ballpit are not aligned very well.
+Spiderman's motorcycle shoots off the table instead of into the ballpit when setting off the webbing trap (not supposed to do that).
+The third is the elevator (on the bottom of the tower)--depending on how aligned the rest of the track is, the elevator can be tough to latch when in the down position.
+If you are playing with your kiddos, this again won't be a problem, but if you're not, they may get frustrated playing and not being able to reset the tower.As far as the detail of this set, the Spiderman is the best and the worst.
+This is not our only Spiderman/Marval playset - so we loved bringing in this addition.
+With two boys, racetracks are always a welcome item - and this one is solid and sturdy.
+It only took a few minutes to put together and doesn't require batteries - woot woot!
+It takes up a little under three feet of floor space, so you can pick it up as one piece and move it and keep it out for a few weeks if you want to keep it out.
+It's easy to take apart when you're done with it as well.It's colorful and appealing, drawing the attention and imagination of my boys out.
+One Spiderman and Spiderman motorcycle is included in this set.
+Additional characters and villains sold separately which we have.
+The cool factor and the draw is the Spiderman web trick - which works some of the time, nonetheless, it's what makes this different from other tracks.
+The tower is cool as well.Recommended age use is 3 to 7 years old.
+Any kiddo who is a fan of the Spiderman series or movies will go nuts for this.
+Girls included.Between this and the Batcave (already ours), the boys spend at least half hour playing with this toy.
+We have taken it outside this summer and added it to chalk garages and even water play, which is not how it's supposed to be used - but it easily dried and is fine.
+Boys can be tough on toys and this holds up.It's a bit on the pricey side, but that's pretty standard for Marval toys, and they last forever.
+You can pass this down to future generations if so desired.
+I'm happy with it and so are my boys.
+Would be great gift by itself or with a Spiderman comic or DVD of the movie.
+This is a pretty cool toy, but a little pricey for what it is, to be honest.The set up is simple.
+There's several little pieces, so you'll want to keep the instructions.
+It does take a little time to put together, but I do LOVE that it doesn't require a screwdriver or anything!
+Toys like this don't stay put together all the time at our house, so the more simple it is to put back together, the happier I am about it.
+Plus, it doesn't need batteries, which is always a bonus!As with most toys like this, my boys greatly enjoyed it for 30 minutes or so, and then their minds diverted elsewhere.
+It's a great toy to keep stored in the closet and pull out on a rainy day or one of those days that mommy needs a few minutes of peace.
+;)I like that there are other superheroes/vehicles that can be added to this set.
+(Captain America, Ironman, etc) Mine and my husband's love of comic book heroes has rubbed off on our boys, so it's a bonus that we can buy another vehicle.That way, each of our oldest has one to play with when this set is out.Overall, it's a fun set, and I have no reason to not recommend it.
+(I'd just maybe keep a watch on the price and buy at a low point).
+:)
+My son loves playing with this set.
+He was very much into superheroes.
+This is not ideal if you have carpet, but if you have hard floors it stays together pretty well.
+One drawback are the yellow spinning things towards the end of the track, if they aren't perfectly placed then it can prevent the motorcycle from moving forward, so it gets stopped in the middle of the track.
+That's a bummer.
+The slingshot action works well, but honestly I think my son would have more fun with it if it were a continuous loop.
+The slingshot arm part of the track needs to be reset every single time.
+Overall, he still loves it, but it is not perfect.
+I love the concept and he is able to push the motorcycle thing down to make it go, but I will try to find a different track (same brand) just with a track that goes in a continuous circle and doesn't need to be reset every time.
+The box arrived and when I pulled out the toy I admit I groaned.
+There were lots of pieces all individually tied to the inside of the box.
+I could not find the good scissors and so spent a good ten minutes with a very excited son bouncing next to me as I got the pieces out of the box.
+Putting it together was not hard to understand but actually putting the pieces together was hard at times as a lot of it was push it in till it clicked.
+Once the toy was together there are two options.
+You can whiz the Spider-man around to catch the Goblin.
+Spider-man is meant to catch the Goblin by pulling handle and twirling round.
+I would say this works maybe 40% of the time.
+Sometimes the net goes up without Spider-man holding on.
+The other option is it to race around the loop.
+Sometimes on the loop the little plastic pieces on the side of the track stop Spider-man from racing round.
+All of these things included however my son has still enjoyed racing the Spider-man around.
+You are able to purchase extra characters to catch the Goblin.
+"We spent the weekend with this set as the main toy entertainment.
+Building it took a little while and is way beyond the skill set of most children, especially those in the recommended age range.
+We had to pull the instructions out in other words.
+And the good news is that after we finally had it assembled and made sure all the joins were tight, the complex engineering elements worked fairly well.
+Part of the track releases and swings around when you launch the motorcycle.
+If you choose one direction on the track and have everything just right, a handle is touched and a web is ""released"" too.
+Those worked much better than expected.
+A few times, we even managed to get Spiderman to grab and swing on the handle, although that success rate was fairly low.That said, the simpler parts were not as successful.
+The motorcycle gets caught in the track on the curves--we even ended up greasing it down with cooking spray around the most difficult areas.
+And the three yellow spinner obstacles entirely stopped the motorcycle on the alternate track so off they came, probably to soon be lost forever.Anyway, the resident four year old loved it and played with it much longer than expected.
+And the Spidey and motorcycle along with the launch pad are also fun on the kitchen floor without the track.
+He did grow bored and frustrated with the track over two days time, however, and soon had it in pieces as he tried to make it do more but soon learned he couldn't.
+He won't be able to reassemble on his own and I am not sure how soon an adult will be eager to help him reassemble it if he even asks."
+"The second the kids saw the box, it really was Christmas in July.
+Superheroes (Spiderman) AND a racetrack - they were in heaven.
+They ripped into it and ""helped"" me get all of the pieces out of the box and put together.
+For the most part, it snapped together easily.
+The last 2 pieces were the worst but eventually I got them attached.It takes up about the same amount of room as their other playsets.
+Because I don't want to put it back together again, we're trying to leave it intact.
+So far so good.We've had other race track toys.
+This isn't the largest one, but it still is a decent size and hasn't fallen apart after multiple uses from 3 kids (the last one we got had to be reattached about every 10 minutes).
+They can use it as a loop, or ""trap"" the Goblin, or let the cycle zoom off onto the floor.
+One thing is that the kids expected Spidey to ""grab"" the bar with his hand, but it never worked like that unless the kids actually attached him to the bar.
+A small nit and one that the kiddos didn't really care about too much.The kids also like playing with the Spidey character and cycle away from the track.It's not too noisy.
+Other than the launcher's noise, there aren't any extra pings, bells or whistles.Your mileage may vary - I don't know how long the kids will stay enthralled with this.
+It is a pricey toy (at least at the time I'm writing this).
+If it breaks easily I will come back and update the review."
+This was easy enough to put together, took about 10 minutes for me.
+It's nice and colorful and sturdy enough if your kids aren't the really rough types.
+I think this is better for the younger kids because it is really repetitive and older kids are likely to get bored after a few spins around the track.
+I especially like the Spiderman figure.
+As others have said, I think it would have been nice if another figure was included, but of course they're going to want you to purchase those.
+"The boys are 4 and almost 6.
+They loved super heroes and especially Spiderman.
+There was alot of excitement when the playset arrived, but what you can do is extremely limited and much to my surprise they got bored with it very quickly.
+It was no problem to assemble and it stayed together fine, but once they sent Spiderman around the track a few times they were pretty much done.
+I think I've only seen them play with it a handful times since.
+For the price I think another character could have been included and I don't understand why Spidey has to stop after going around the track one time, if he makes it all the way to the end that is.
+And exactly where does the ""racing"" come in?
+In my opinion, this would have been a lot more fun as a duel racetrack with a villian going against Spiderman on the track.
+This will soon be relegated to the ""not played with"" toys in the basement."
+This toy comes in a big, colorful exciting large box.
+It says ages 3-7, but my grandson is 9 and he had a great time playing with it with the neighbor kid.Thank goodness it needs no batteries, you don't need any special tools, and is fairly easy to set up.
+We are leaving it up so I don't have to continually reassemble it.Included are Spider man, the web racing funhouse, playset, a motorcycle, and a web-swinging spider man figure.You can also buy the Wolverine, Captain America,which can zoom around the track, and  Iron man launcher, and Spider man launcher, which are vehicles that also work with the launchers.
+It seems more complete with the extra figures added, but I suppose may be a bit pricey.
+The dolls were strong and held up to three year old hands very well.
+The track was another story, lol.
+Not bad though.
+I enjoyed the look of the chubby short Spider-Man.
+My 4-year old friend has enjoyed numerous hours playing with this toy.
+The various ways to piece it together along with the how the cars travel through.
+Certainly the best money I've spent in years.
+Not to mention the noise isn't even in my house...simply marvelous!
+Who doesn't love Spiderman these days?
+Very cute and fun toy.
+Spiderman on his motorcycle race around the track for some swinging fun.
+Kids play with this daily and seem to enjoy it.
+There is usually a lot of pretend play and trying to recreate the movie scenes going on in this house.
+Perfect toy
+I built this for my 4 year old and he loves it.
+He loves spiderman and runs around the house pretending that he's shooting webs!
+When he saw the track he was very happy!
+We had it built in about 10 minutes and he played it for about an hour.
+It was fun watching him figure how the track worked and all the variations of ways that you can play to make Spidey zip around the track.The only downside to this is after so many times it gets a little boring.
+They only provide a spiderman figure and no villain toy to play with.
+So after a bit, my son went to other toys.
+I'm sure he'll be back to this one, but I can already tell the amusement will wear off.
+I would consider adding a villain figure to this in the future to add more replay value.
+The man of the house got the job of putting this track together, it was fairly quick but a few pieces were not as easy to put together as others.
+These pieces also tend to fall off and need to be reattached, one of those is supposed to be grabbed by spiderman as he rides by on the motorcycle and not only does he not grab it but that piece has come off a few times.
+The track is a single lane, not to be raced even though there are other characters with motorcycles that can be purchased, and this means only one kid can play with it at once.
+It can be a bit annoying as far at the noise level.
+There is one piece of track that has to be reset each time spiderman passes by, even though he lands right back in the place to easily hit the button to send him around the track again you will have to push the piece of track to run the course again.My husband was disappointed that this did not come with a real Green Goblin figurine, instead it comes with a flat plastic piece shaped like a person that you attach a decal of green goblin to.
+This Spiderman racetrack is fantastic!
+Little boys love super heroes as much as the bigger boys, and I love that this set is designed for ages 3-7.
+My four-year-old nephew and four-year-old son are going to have a blast with it!
+They can either use it as a race track or as a launcher to launch Spiderman on his motorcycle across the floor, and they can position Spiderman just so on his bike and have him capture the Green Goblin.
+Very cool!There's adult assembly required, but the instructions are clear and concise.
+Since we'll have two little boys who will be playing with this racetrack, it would be great if the set came with two figures and motorcycles instead of just one, but we can always look for a second one to buy.
+I have no real complaints; it's a fantastic toy!
+My 5 year old nephew loves all super heroes so it is a given that he would like this toy.
+The assembly and set up were pretty easy to do and took less than 5 minutes.
+It is a fairly quiet toy but he squeals with delight playing with it.
+There are not that many activities to do with this toy so he has use his imagination to stay interested.
+For storage, it's a little awkward but we disassemble it and put it back in the original box for neatness in the closet.
+We are happy with this playset and would recommend it to other Super Hero fans in the 3-5 age range.
+My son and I had a lot of fun putting this racetrack together.
+The instructions are easy to follow and they snap on with ease.
+Each piece has a letter stamped on it so you can find the parts easy during assembly.
+They are very sturdy and should hold up to hard play.
+I always keep the how to set up sheet because it will not be long before it is recklessly dismantled and I have to put it back together for him.
+It took only a few seconds to figure out how to make him go around the track.
+Out of the ten times we made him shoot out of the starting line Spiderman got stuck about three.
+It isn't annoying though because I showed him how to fix it and he kept right on playing.
+The stickers are easy to put on and they have little indentions to help you apply each one where it is intended.
+The toy motorcycle and Spiderman are just as fun because he clicks on to the bike and can be played with separately.
+The only thing I can find to complain about is the hand hook that is grey on the tower piece.
+As Spiderman shoots around he is supposed to snag the hook if you have his hand up.
+Out of the ten times we tried he got it maybe two.
+Again this is trivial and the toy is fun and easy to set up.
+Great for a first race track and no batteries which is always a plus.
+Enjoy!
+I was pretty excited to get this playset.
+It sounds very cool.
+However, it is a total pain to assemble.
+I don't know why some of the parts aren't already assembled.
+And anyone with kids can tell you that they will inevitably take the pieces apart and you'll be stuck putting it back together over and over again.
+Also, the pieces are small and easy to lose, and not very durable.Once assembled, the track usually works as advertised.
+Push down on the button and Spiderman goes zipping through the track.
+Sometimes he doesn't get enough speed and sputters out.
+I was planning on getting more figures for the set, but I don't think it's worth the trouble to play with this toy.
+"We had a little bit of trouble getting this to work.
+We were able to get the Spider-Man track together, but we've yet to get Spider-Man to grab the trapeze device that pulls the cage up around the Green Goblin.
+Spider man usually flies off the motorcycle before he gets to that point.
+My boys enjoyed playing with it, so it gets points for that, but I personally wasn't crazy about it since we have yet to successfully ""capture"" the Green Goblin.
+My boys enjoyed driving the motorcycle along the track, but technically you only have the option of a figure eight or the side-track that traps the Green goblin.
+If you have a big Spider-Man fan, they might like it (my boys LOVE Spider-Man, so this was a hit with them), but if the Spider-Man character was not involved, I'm not sure they would have found it to be quite as impressive.
+To be honest, I would not pay $70 for this toy - $30 maybe, but definitely not $70."
+My three year old grandson is in heaven.
+He loves Spiderman and loves the track.
+There are some really great bonuses to this toy.1.
+It is easy to put together.
+This is a big one.
+I hate toys that require more than an hour to put them together.
+This one was done in 10-15 minutes and requred no tools.2.
+No batteries.
+This is great.
+I really should buy stock in a battery company.
+This is a welcome change.3.
+It's just plain fun.
+My grandson has had hours of fun putting Spiderman through his own special workout.The drawbacks:1.
+It could use another character to make it more fun.
+I will buy him one to add to his pleasure.
+It would have been nice if it had come with one though.

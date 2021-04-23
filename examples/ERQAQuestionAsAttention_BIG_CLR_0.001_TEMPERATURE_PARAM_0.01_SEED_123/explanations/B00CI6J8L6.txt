@@ -1,0 +1,275 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+There were little sand grits all over our playing area when we were done, so you'll continually have to 'sweep' up the dirt using the Morphix.
+Our grandson was quite excited when we gave him this new Crayola item.
+The clay is different from Model Magic and my youngest didn't even like touching it.
+We didn't have a problem with the dough breaking into tiny pieces (like play-dough often does) and there's a wide variety of molds to use.
+Really fun and I will have to check out the other sets they have available.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.003163750749081373,0.0030318598728626966,0.0034770595375448465,0.003560498123988509,0.0018075014231726527,0.0039527625776827335,0.004358938429504633,0.005095453001558781,0.002811240032315254,0.005078115966171026,0.003307035192847252,0.0044522942043840885,0.0027914352249354124,0.002261541783809662,0.0036438300739973783,0.004275728017091751,0.004208981059491634,0.002562043722718954,0.004745366983115673,0.004816574510186911,0.0036344665568321943,0.0036784831900149584,0.002566298935562372,0.004473261535167694,0.005874664057046175,0.004869856871664524,0.0035767273511737585,0.0037428555078804493,0.0025696454104036093,0.003648025682196021,0.004929056391119957,0.0038405251689255238,0.004373157862573862,0.005094016902148724,0.003927629441022873,0.004626187961548567,0.0038977391086518764,0.004586550407111645,0.0030531894881278276,0.0025004884228110313,0.005898427218198776,0.003344915807247162,0.005101673770695925,0.005433334037661552,0.0020802796352654696,0.0024593316484242678,0.004412373993545771,0.003705359995365143,0.003846261650323868,0.004150835797190666,0.0015156740555539727,0.002127111190930009,0.00358227058313787,0.004860390909016132,0.0029191120993345976,0.004674477037042379,0.004991058725863695,0.005088899750262499,0.0032183967996388674,0.0037948235403746367,0.0048251706175506115,0.0019068879773840308,0.004913877230137587,0.0042185597121715546,0.003616602858528495,0.003980093169957399,0.003319178707897663,0.0035171671770513058,0.004386351443827152,0.0017624824540689588,0.004288370255380869,0.003729922464117408,0.004723191261291504,0.0017636832781136036,0.0033996598795056343,0.004058131482452154,0.00537157105281949,0.003065599361434579,0.004900852218270302,0.0023090543691068888,0.0036427343729883432,0.0025600939989089966,0.005185767076909542,0.0037002626340836287,0.005113563034683466,0.004145859740674496,0.0032183900475502014,0.0034040319733321667,0.004940423183143139,0.0023358501493930817,0.005850626155734062,0.004434442147612572,0.004114494659006596,0.004097695462405682,0.006485432386398315,0.004218867979943752,0.005224619060754776,0.004671814385801554,0.005014456808567047,0.0045216744765639305,0.004150298424065113,0.004872461780905724,0.004942340310662985,0.004942340310662985,0.005107538308948278,0.004472846630960703,0.004971630405634642,0.003986432682722807,0.003217951161786914,0.005496096797287464,0.004694906994700432,0.0050841402262449265,0.004971630405634642,0.004791570827364922,0.005920324008911848,0.004625655245035887,0.005201088730245829,0.004005348775535822,0.0034551257267594337,0.0037794148083776236,0.002119786338880658,0.0026342475321143866,0.004283194430172443,0.0017021432286128402,0.002535969950258732,0.0019303077133372426,0.003071435261517763,0.002702426165342331,0.003594714682549238,0.001295318710617721,0.003945703152567148,0.00430289888754487,0.004523172974586487,0.004718422889709473,0.003977011889219284,0.00471245963126421,0.0026362778153270483,0.004470483865588903,0.0036641089245676994,0.00253289844840765,0.003165346337482333,0.002035442041233182,0.0037920072209089994,0.004264876712113619,0.004221754148602486,0.0037785128224641085,0.004689804278314114,0.005982528906315565,0.004522297531366348,0.0032324001658707857,0.0028490363620221615,0.003798561869189143,0.0028084528166800737,0.005282514728605747,0.00433567026630044,0.005012788809835911,0.0023649907670915127,0.004857084713876247,0.005111308768391609,0.0046451641246676445,0.003907653037458658,0.004857560619711876,0.004179093521088362,0.0048421830870211124,0.0031428085640072823,0.005393973086029291,0.002396389376372099,0.005638888105750084,0.0051724412478506565,0.0023233003448694944,0.0026414087042212486,0.003184557193890214,0.00468509690836072,0.003881565062329173,0.004610877018421888,0.0030903159640729427,0.0018371237674728036,0.002091222209855914,0.003665089374408126,0.0015241738874465227,0.0038909208960831165,0.005303042475134134,0.0055202702060341835,0.004194068722426891,0.003427089424803853,0.0047611938789486885,0.003969279583543539,0.005217894446104765,0.0053983572870492935,0.004824225325137377,0.004480784293264151,0.005345101468265057,0.004438892472535372,0.002131582470610738,0.0047308760695159435,0.006014878861606121,0.004245507996529341,0.004853254184126854,0.0037848243955522776,0.004981031641364098,0.0037235405761748552,0.0037135377060621977,0.004791575483977795,0.0023877639323472977,0.004637976177036762,0.002340722596272826,0.002594422083348036,0.003562159137800336,0.004093612544238567,0.0034027593210339546,0.00465075857937336,0.0037533531431108713,0.004577901214361191,0.0024910455103963614,0.004919788800179958,0.002294643083587289,0.004819435067474842,0.004728944972157478,0.004717033822089434,0.00437320489436388,0.004819435067474842,0.002742500975728035,0.0028635128401219845,0.002561424393206835,0.004740764386951923,0.002459340263158083,0.001708154333755374,0.0026948556769639254,0.006772349588572979,0.004071791190654039,0.0029595440719276667,0.0023917255457490683,0.004296342842280865,0.003805354004725814,0.0037954463623464108,0.0025204061530530453,0.00380412838421762,0.0035360122565180063,0.0027580512687563896,0.0017058603698387742,0.0017681907629594207,0.0032586881425231695,0.00467445096001029,0.0047274427488446236,0.004240730311721563,0.0034699689131230116,0.004184999968856573,0.004012920428067446,0.003602834651246667,0.0024996830616146326,0.003935048822313547,0.0032986474689096212,0.001997245941311121,0.001635778695344925,0.0033503202721476555,0.0017824015812948346,0.002993547124788165,0.004562973976135254,0.002044078428298235
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+I cannot rate this item as it was not sent to me.
+Based on this and other reviews on this item as well as others, this seems to have happened a few times already.We recieved the Crayola Dino Destruction Metropolitan Mayhem instead, which we liked.
+"In theory this would be a really fun set to build a couple of forts from the ground up to ""destroy"" with a catapult during an invasion.
+In execution, it is somewhat lacking.The blocks are a bit gritty (they are made out of a putty-like substance) and just don't have the fun factor you see in the product illustrations.
+You also don't end up with as many blocks as you see in the photographs, so your children aren't going to learn the finer points of empire-building through destruction since they will only be taking down extremely tiny strongholds.If the entire set were $10 or less, I'd say it would be a good gamble, but when priced higher, it is a definite skip."
+If I could have actually built this set, it might have been fun.
+Even then, though, I really question its concept.
+The problem is with the clay.
+It's not simple play-doh, but rather it's gritty like sand is mixed into it.
+It says not to get it on furniture and the like because it can scratch the finish.So the concept is that it provides molds to make two different fortresses, then battle it out using the catapults.
+You get three colors of clay, the molds, and the box doubles as a play mat.
+The clay is supposed to harden, but it never hardens fully.
+Add to that two additional problems: The molds stick to the clay and don't release it.
+The molds are really durable and heavy duty, but this means you can't bend or twist them well to release the clay.
+Therefore, I couldn't get the pieces out without destroying them.That was a real disappointment after waiting overnight and then some.
+This is where the overall concept is flawed.
+Most kids won't want to fill the molds, then wait multiple hours as it instructs.
+It says not to add water to try and re-hydrate the clay, so I'm assuming that if pieces break, crumble or get lost, you'll need to buy additional clay instead of adding some water and re-forming.Between the clay not coming out of the molds in one piece, not being able to try and reuse it, and the fact that your kids will be shocked to learn they are expected to put everything in the molds then wait a few hours before playing, I don't recommend this product.
+This is a fairly average product.
+My kids were excited to play this when we got it.
+However, just like any playdoh-type stuff, it gets hard pretty quickly when left outside of its container.
+Unfortunately, this is a common outcome at our house as those little play-doh pieces gets stuck everywhere and leaves a gigantic mess.
+After a couple of days, my kids stopped playing with this toy but the mess it left is still in our living room.
+Let me start with a positive.
+I like the feel of Morphix better than Play-Dough.
+It has this neat gritty texture.
+It feels like a foam more than a dough.
+It will be damaging to the surfaces of your tables.
+So, as a stand along toy, the Morphix is a lot of fun.I was a little confused about how to use this play set.
+When the compound was still wet, it was hard to get out of the molds.
+Impossible, really.
+So if you want to create the pieces, you have to let the Morphix completely dry in the molds.
+(And even then, they are not so easy to remove.)
+So now, you have dry Morphix that can't be remolded and is eternally stuck in these molded shapes.
+Hard dry blocks that are not nearly as good as Legos.
+That's what you've got.
+"My grandson, approaching five years old, was the target for this toy.
+But when we opened the package we were quickly disappointed.
+The contents didn't look like the items in the front cover: Two boys catapulting items to each other behind a high wall.
+It's better suited for small action figures and the children sit behind a low table with the blocks as a sort of fortress wall, albeit not very tall.The cardboard mat doesn't sit securely on the table surface, yet because the clay material leaves residue on coffee tables (a sticky, cloudy seal), this is not recommended for indoor play on or near nice furniture.
+The pieces are too small for outdoor use as well.My grandson tried this out for a few minutes and then lost interest, telling me ""It's boring, Oma!""
+What a shame as he loves other Playdough products more suited for young boys."
+"My oldest one said, ""this is no fun.""
+That's a first.
+Until now all toys were fun.The benefit of this toy is that it includes 3 medium size round containers of a fun-to-manipulate clay-like substance.The demerits of this toy include the fact that it's not like the illustrations on the box.
+The board is really a relatively small section of cardboard.
+It looks and feels cheap.
+The castle(s) cannot be built because the material to do so is the clay substance and there's not nearly enough of it for that purpose.I felt that the molds were not that serviceable because it's unlikely children like mine will use them more than once.Finally, the catapults shoot the clay all over and cannot really be used to shoot at such close range.
+The balls of clay then can potentially become a mess.
+Mainly the gap between the box illustration and the contents was too large."
+This set comes with 3 tubs of Morphix which is sort of like Play Doh with sand in it.
+It comes with gray, blue and orange colors.
+The Morphix can be used over and over as long as you don't let it dry out.
+It also comes with 4 catapults, 36 molds, a play mat and the instructions.
+First you take the Morphix and put it into the molds and form, bricks, boulders, walls, doors and people.
+The Morphix doesn't always come out easily and it helps to use a butter knife to easily remove it when it gets stuck.
+Then you build your fortress and place your people in the fort.
+Then it's time to start the battle.
+You can take turns shooting at each other or you can both fire as quickly as you can.
+It's fun to build your ultimate fort but you are very limited by the amount of Morphix in this set.
+Sure you can buy another set and combine the Morphix but I think they should include a little more in each set.
+You can also purchase Morphix separately but it is quite expensive and you are probably better off just buying the entire play set.
+The battles can get really intense but it can be extremely difficult to hit the tiny little people with a boulder that is lunched by one of the catapults.
+My kids played together a few times and I played with them as well and each game took a very long time because it would go ten minutes in between hitting people.
+Even when you do finally hit one of the people that don't guarantee you that the person is going to fall over.
+The boulder that you launch doesn't really have enough weight to it to do a very good job of knocking the people over.
+I like the overall concept of this toy which allows kids to endlessly create structures to destroy.
+However, everything about the toy just feels cheaply done.The toy doesn't even come in a real box, but rather a taped cardboard sleeve.
+This means there is no place to store the toy when you are done playing with it.
+You will want to get your own storage container to keep the many components in one place.As soon as I pulled the toy out of the packaging sleeve, the thin, plastic, clay containers fell on the floor and broke.The playmat is made of thin cardboard which won't lay flat well which is sort of important if you are trying to balance a structure on it.
+You are better off just not using the playmat and building on a table surface.The catapults are made of decent quality plastic.
+However, the molds are made of thin, flimsy plastic that will get distorted easily.The manufacturer states the toy is appropriate for ages 4+ but I think that is too young for most kids.
+I think it is better suited for much older kids maybe around 8 years old and older.
+You need a more mature kid to have the patience to build the fortress, not mix up the different colored clay, be gentle enough not to break the molds, and clean enough to pick up all the clay and put the many components away.I really like the concept of this toy which allows kids to be creative and build disposable structures.
+If they came out with a premium version with quality components, it could be great.
+"The catapult is a perfect present for children who are home on a rainy teacher `training' day.This looked a lot simpler than it was.
+The hardest thing was using the molds to make parts.
+Because the molds didn't bend, taking them out meant the parts got all smushed and icky.
+Finally, I made up a system of sort of dropping them from about a foot high, and most of them would fall out.
+Sometimes it took a faster drop, not unlike the catapult action.
+Eventually the children were catapulting the molds to get parts to come out.I like that the colors did not permanently blend together.
+They have all been mixed together now but the colors are distinct.However, it did not take long until the children turned all the bricks and parts into cannonballs.
+They made up a song to go with it called ""Eight-eight pickles.
+""And then one of the children started collecting all of the cannonballs to make bricks.
+Eventually he was the only one with clay.It's all good."
+"Crayola Create 2 Destroy Fortress looks really cool on the box; unfortunately, reality doesn't live up to the picture portrayed.
+The molds are extremely cheap and the ""dough"" is rough and scratches easily.
+It's interesting that the box notes that it can mar counter tops, floors, etc.
+but no where in the description online do I read this warning.
+It is strictly for outdoor play.
+The mold to make the catapult bombs didn't work well and we had to pull the stuff out and mold the item by hand.
+The catapult did work but you had to use both hands unlike the one finger shown in the picture on the box sleeve.
+The ""play mat"" for this set is actually the cardboard sleeve unfolded - we thought we were missing the playmat until we realized just how cheap the company had constructed both the box and the play mat.
+For the price, I would have expected more of this set.In the end, I would not buy this or any other morphix product in the future."
+Our grandson was quite excited when we gave him this new Crayola item.
+The large box that the toy comes in immediately got his attention.
+It is very colorful, and any boy would get excited when he receives it.
+The box allows 19 different molds to use, and is easy enough for a boy to get the hang of it.
+My grandson was quick in opening the box and immediately began to follow the instructions provided.
+The set provides 19 different molds to keep any boy busy.
+Our grandson immediately called one of his buddy's, and in a few minutes they were both at work.
+It is not particularly overpriced, as some of these tend to be.
+I believe it is worth the money.
+Any boy will enjoy it, even if just for a few days, as these things go.
+This is crayolas answer for Play-doh.
+The building material reminds me of floam.
+It is a little different then playdoh but basically does the same thing.
+You build castles and armies out of the dough and then try to destroy it with the catapaults.
+My boys had lots of fun builing and destroying the castles.
+This is a must for families that have boys.
+You get to build and create things which is cool.
+Then you get to knock it all down and start over.
+Who wouldn't like something like this.
+I had lots of fun playing with this myself.
+Really fun and I will have to check out the other sets they have available.
+Great play set, allows kids to build and destroy their own fortresses for hours of creative and destructive play!
+Something all kids enjoy doing!
+"Though this toy is aimed at ages 4+ my 3 year old grandson has had a ball playing with it with me and his 3 year old buddy.
+(It only held the interest of my 5 year old granddaughter for a few minutes.
+)Part of the box it comes in folds out to form a 34"" x 11"" playing area, but whenever we play with this I lay out a huge tarp (a heavy duty canvas tarp, which is easier for sitting on than the thin plastic type of tarps sold in paint departments).
+The tarp insures that the flying ""colorful construction compound"" that Crayola calls Morphix and which though pretty different than Play Doh reminds me of it, stays in a confined area instead of landing on carpeting, etc.
+In addition to the illustrated cardboard play area you get 3 containers of Morphix, 4 catapults, and 3 dozen molds to be used with the Morphix.
+With care, all of this can be put back into the original packaging for storage between play sessions, but in many cases an adult is going to have to be the one to put everything back into the container.
+After having heavy containers of Morphix fall onto my sock-clad feet a few times I realized that it's wisest to open the container close to or on the floor, because the packaging design is such that once you slide the outer cover off, the Morphix containers have nothing to hold them in place and unless you're being extra careful, they will slip out.Judging by how much fun my grandson and his bud have had playing with the Create 2 Destroy Fortress Invasion Ultimate Destruction Playset, I gotta rate it 5 on the fun scale, though I think this is one of many toys that will for most users have more novelty value than staying power."
+This is basically scratchy Play-Doh - 1 tub each of blue, gray, and red.
+There are also molds to make bricks for a fort, catapult balls, and soldiers, some plastic catapults to shoot the balls at the other side's bricks and soldiers, and a battlefield mat.It's a cool idea, but the execution is underwhelming.
+The box makes it look like you can build giant structures, but there's only enough dough for several small bricks and a few accessories.
+After struggling to make the various pieces, then trying to get them out of the molds, you basically end up with the world's tiniest, most tedious snowball fight.
+Not recommended.
+"Sometimes when I review a children's product I feel its necessary to include both my point of view and also that of the childs.Thats because I am a MUCH harsher judge of quality.
+I would probably give this item a 3 or a 4.
+But the person it was actually made for - my son, aged 5 - would definitely give it a 5.My son has really enjoyed this item.
+He has played with it for over 8 hours, which is longer than many toys get played with.
+He also played with it with my nephew, who is 10 years old.
+And they both enjoyed it for several hours.
+They have lots of time during the summer, and I can really see that it kept their attention.
+They didn't wander off and do something else.My son greatly enjoys crushing molded objects with the dinosaurs, and was thrilled to discover that there are hidden molds in the ankylosaurus type dinosaur.From my perspective, the product is not perfect.
+I played with it for a while too, of course.
+My main disappointment comes from the use of the molds.
+The ""clay"" is soft and sometimes you destroy the item trying to get it out of the mold.
+The bridge was very hard to pop out.
+The molds themselves are made of a plastic that is similar to a plastic milk bottle, but slightly thicker.
+By slapping the mold in my hand I was able to pop out some items, but not others.
+The volcanoes also have molds in the bottom, and the clay stuck to it and was hard to pull out.
+The molding process wasn't really working out for me.
+I'm always a little apprehensive when it comes to things that have any type of dough in them, as I usually end up finding bits smashed into the carpet a day or two later.
+But I was pleasantly surprised with this set!
+We didn't have a problem with the dough breaking into tiny pieces (like play-dough often does) and there's a wide variety of molds to use.
+My seven-year-old son and his friend spent HOURS playing with this!
+I think it's an excellent set to encourage creativity and it doesn't make as much of a mess as I had anticipated.
+The only thing I'm not crazy about is the contraption that flings balls of dough back and forth.
+But what parent would be?
+My son loves it and gives it a huge thumbs up.
+I think he and his friend will get lots of play time out of this.My husband even sat down to play with him one evening!
+They had the best time building their own fortresses.
+Crayola has really branched out, and we love some of the new products they've come up with!
+I would definitely recommend this for any kid of elementary school age.
+"With a name like ""Create to destroy"", I thought surely my grandsons would go nuts.
+However, as soon as I saw it was not furniture friendly, I decided this was a really nice OUTDOOR toy.
+So that solved that problem, but there were others.
+The blocks that were supposed to create the walls were tiny, and not fun to knock over, since they were basically only a few inches tall.
+The picture on the box was very deceptive there.
+You would need much more clay to make a ""fortress"" of any decent size.
+While the kids did get some play value out of this, they have not wanted to play with it again.
+This toy is inexpensive, but you dont get much for your money."
+This is a great toy.
+You have these molds to make bricks, weapons ect.
+You build it up using crayola clay like stuff and then you knock it all down.
+Kids spend hours with this, making it, and then destroying it.
+This was the first set of crayola playset that my kids and I played with one rainy afternoon.
+The kit comes with a ton of forms that help you build your castle and weapons.
+Packing the playdough like stuff into the forms is quite easy but I found getting it out required a bit more effort than just tapping on the table.
+After a while, it sounded like a drumset as me and my 6 year old were smashing these on the table to get the forms out.This type of playset is really a two day or longer process.
+The first day is spent forming the pieces and then you need to let them dry to harden.
+The next day you can build your fortress without the worry of ruining the pieces.
+The good thing I found is that even when dry, these pieces do still have some flexibility to them to touch them up a bit.
+Some of the pieces still had edges on them from the forms and cleaning them up when dry was quite easy.This set is for older kids and the main reason why this is so, in my opinion, is the level of paitence needed to build it in the first stage.
+My 6 year old and I spent a good hour making pieces but my 3 year old only spent about 3 minutes before his attention span moved to something else.Overall, it is a nice playset to do on a rainy day.
+we found the forming/building part to be more fun than the destruction part.
+In these days of legos and blocks, creating your own wall with crayola clay and then knocking it over is really not as fun as you think.
+You can easily buy a nice sized tub of Caryola clay formuch less.
+The plastic molds are okay, but there isjust so much work for very little reward.My kids (and I) got bored VERY quickly.
+I can't imagine what Crayola was thinking.
+My kids have notlooked at is since we  first opened it....and they LOVE to use modelling clay.
+Not fun, not crafty, not worth it!
+This looks so cool.
+My kids could not wait to open this.
+After we finally read how to do it and put it together, it was not fun.
+I think that this would of worked better without using the clay and use Play-doh like we did.
+The play-doh was much easier to create the objects.
+The clay dried and crumbled.
+If you have Play-doh this now becomes a great set that why three stars.
+My daughters are obsessed with art and love Crayola products.
+We had just visited the Crayola factory and they had so much fun with the model magic that I thought they would enjoy this.
+They were very excited to get it, until actual playtime.
+The clay is different from Model Magic and my youngest didn't even like touching it.
+My eldest was enjoying herself, until you had to remove the clay from the mold.
+We couldn't get the clay out.
+I even made her let it dry overnight, but this didn't help either.
+She wasn't very interested in it that next day very much, anyway.
+It really takes too long for the pieces to dry before you can destroy them.
+And I thought there would be more molds.
+I don't recommend this toy.
+I gave it 2 stars instead of 1 because at least it is a construction toy that has three little tubs of clay (gritty clay) and a set of molds.
+Other than that, the set is a bomb.
+The clay is called Morphix, and the directions warn you explicitly that Morphix is abrasive and may damage surfaces (like tables, floors).
+For the intended age range, I'd rather have a product that does not require clay police.
+The molds themselves are very small, and the finished product does not, in my view, measure up to what appears on the box cover.
+When using the molds, the directions suggest turning them over and tapping them to get the clay out, but sometimes the clay just gets stuck.
+I don't mind that kids have to wait overnight for the clay to dry; we have plenty of building sets that require days to complete.
+But the whole result is underwhelming.
+The catapults are cheap and don't work terribly well.
+The play-mat is small and just part of the cardboard box.
+I think you'll end up finding this set deeply discounted at an arts and craft store near you.
+My boy and his friend did not like this at all.
+I will review this based on what they told me.
+At first they were very excited about trying this one out.
+Once they got everything out and set it up they played with it for about an hour.
+They said the stuff was cheap and boring.
+The worst part of this product was this construction compound that did not stay hard and made a mess( I had a feeling that was going to happen so I had them play one the hardwood floors for easy cleanup).Thumbs down!
+Get something else for your kids!
+Tried via Vine.Fun: 2: It took awhile for my girlfriend and I to mold out the bricks.
+The Crayola version of Play-Doh is pretty terrible in our opinion and several times you couldn't just 'tap' the Morphix from the mold, you'd have to take a ball and try to pull it out, so it took awhile.
+We finally just rolled the gunk into vague structures.
+The catapults are kind of fun once you get aiming and the like figured out, but this set is definitely not much fun.
+I think most kids would like Play-Doh more.Education: 3: I'd say you could go either way for Morphix, but the catapult and all can be semi-educational.
+I'd just put it in the middle of the ground.Durable: 2: The molds are pretty hard except for two thinner, semi clear strips with trees and ladders, which was flimsier than I'd like, but the pieces should last if you know how to take care of 'em.
+I couldn't give more stars for the whole set because Morphix is basically Play-Doh filled with sand particles, and boy, can you tell it!
+There were little sand grits all over our playing area when we were done, so you'll continually have to 'sweep' up the dirt using the Morphix.
+I guess this was done for legal reasons or something, but it definitely takes the fun out of it.
+The box doubles as the playmat, and I think it should have at least been vinyl because it'll take lots of punishment if kids do play with it lots.Overall: 2: I do not think this is worth 25 or so dollars by any stretch of the imagination, regardless of how much free sand you'll get from it.
+This dough has an interesting texture, it's almost like a really sandy play dough.
+It does go into the molds fairly well, but there were a few times that it got lodged in there and we had trouble getting it out.
+The molds are just like a cheap plastic tray.
+It also dries out fairly quickly.
+My boys enjoyed flinging dough at each other (I however was not a fan of having to pickup the little pieces off of the floor.)
+My kids played with it a few times and then lost interest.
+This toy is useless.
+It is suppose to be able to launch play-dough at buildings that you build.
+The play-dough was to be inserted into a dinosaur mold but the play-dough gets stuck in the dinosaurs mouth and thus you can't get it out.
+This terrible toy has no education value other than creativity.The set comes with two launchers, four molds shaped like houses, trees, etc., and play-dough that seemed like it was mixed with moon sand.Overall this toy was boring.
+The molds are not too hard to make if you use enough play-dough but the launcher is not very effective.I would not recommend this toy.
+To wit, hard to assemble and 3.5 year old lost the interest very fast.
+The end.
+Yes,I know it says the age is 4 to 15 but this one usually has no problems with the toys for 4 year olds.
+I put this away for a rainy day at our house and it was a hit.
+My 5 yo son had a blast building blocks and destroying them.
+But what 5 yo doesn't?
+!Good mix of creativity sand prebuilt items to get you started.
+He paired it with his Angry Bird toys for even more fun
+Pros:This is a great activity set that combines crafts, building and game play.
+The set contains 36 molds and 3 tubs of putty.
+Kids can mold building shapes, bricks, boulders and warriors to build one or two fortresses then they can use the catapults to fling boulders towards the fortress to destroy the other fortress.
+The set also includes a fold out mat with a ground scene on it to use to complete the playing field.
+You can also collect the different sets and connect the different playing mats to create a large play area for ultimate fun.
+Best part about this set is that when done playing, the putty can be put back into the tubes and put away, or they can build another scene and play again using their creativity.Cons:My biggest complaint about this set is the box - the play mat folds up to put back into the box but all the pieces are loose inside the mat and the mat is open on two sides so it makes it difficult to put all back into the box.
+I wish there was a tray included with the set that will hold all pieces in place to slide into the outer box.UPDATE:After playing a second time with this activity with my younger child, it became clear to me that the molds are not great and it is very difficult to remove the putty from the molds unless they are allowed to dry.
+This was not made clear in the instructions... What WAS clear in the instructions is that it states not to use the putty on furniture / wood surfaces because it WILL leave scratches.
+The putty has a sandy-grit to it that is pretty coarse so beware to only use this on the included mat or on an appropriate childs play table!

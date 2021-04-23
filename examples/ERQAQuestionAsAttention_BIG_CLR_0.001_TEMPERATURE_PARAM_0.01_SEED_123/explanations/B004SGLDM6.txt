@@ -1,0 +1,185 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+Actually, I could see some older children (and adults) getting frustrated.
+I'll admit it; I didn't get this for a kid.
+Consider that if you're thinking about this for your own young'un.
+Somehow the fact that they put it together and it was a big job made it that much more interesting for them.
+I just wish his head was bigger.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.009339161217212677,0.006869449280202389,0.004015207756310701,0.007375987712293863,0.005482478067278862,0.008419953286647797,0.008112246170639992,0.009223701432347298,0.00568630825728178,0.004271415527909994,0.00404695887118578,0.006346132606267929,0.005814192816615105,0.008070726878941059,0.007340159732848406,0.006969697307795286,0.006266748066991568,0.006048210430890322,0.004257521126419306,0.004408528562635183,0.008618460036814213,0.006574271712452173,0.0034949779510498047,0.0059501915238797665,0.005803446285426617,0.007767310831695795,0.0070486124604940414,0.004671275150030851,0.007822463288903236,0.006568579468876123,0.006871017627418041,0.004035475198179483,0.007173402234911919,0.004387008957564831,0.0042424933053553104,0.006900088861584663,0.007891621440649033,0.0038494940381497145,0.007150022778660059,0.008462522178888321,0.006598369218409061,0.006541093345731497,0.004333536606281996,0.006424668710678816,0.0058232685551047325,0.008667612448334694,0.004860464949160814,0.008978058584034443,0.0024166449438780546,0.005129053257405758,0.0018598218448460102,0.006554573308676481,0.004931024741381407,0.0036312611773610115,0.0053355819545686245,0.007485527545213699,0.004903137218207121,0.00320793897844851,0.007016284391283989,0.0029324383940547705,0.004786884877830744,0.004001730587333441,0.007173782680183649,0.0025873961858451366,0.006669394206255674,0.007845883257687092,0.004565223585814238,0.005740309599786997,0.00823137816041708,0.005367100704461336,0.008217444643378258,0.0033908665645867586,0.008446584455668926,0.008679567836225033,0.005373420659452677,0.007440029643476009,0.005221933126449585,0.005922070704400539,0.0062637911178171635,0.0063521056436002254,0.006486133206635714,0.007644676137715578,0.0051851882599294186,0.007474877871572971,0.004778852686285973,0.007378092966973782,0.00466269813477993,0.006592005491256714,0.0058426870964467525,0.010029600001871586,0.0056165666319429874,0.008546642027795315,0.0049377004615962505,0.006339869927614927,0.005492970813065767,0.008498047478497028,0.004271502140909433,0.004217410460114479,0.0037641285452991724,0.006665799766778946,0.0074286870658397675,0.008925138972699642,0.0076683880761265755,0.005502108484506607,0.0067931488156318665,0.00742469634860754,0.005708645563572645,0.008049608208239079,0.00439081247895956,0.006274654995650053,0.008498047478497028,0.008212518878281116,0.004457749892026186,0.004705600440502167,0.009197935461997986,0.008065786212682724,0.0027852803468704224,0.007474113255739212,0.008662809617817402,0.004645404871553183,0.008544753305613995,0.002349851420149207,0.008884310722351074,0.007150052580982447,0.0058379340916872025,0.0036879016552120447,0.004651854746043682,0.00841591041535139,0.004565276205539703,0.004402434453368187,0.003834180999547243,0.0034044585190713406,0.005287913605570793,0.005522255785763264,0.002572255674749613,0.0036994724068790674,0.003543786471709609,0.0068139550276100636,0.0038759002927690744,0.002297931583598256,0.003192323260009289,0.0052807326428592205,0.006430768873542547,0.007212227676063776,0.00754221435636282,0.007411343976855278,0.004027781542390585,0.005935150198638439,0.008022218942642212,0.005668800789862871,0.002857342828065157,0.0031995377503335476,0.005384274758398533,0.004020107910037041,0.0048532928340137005,0.006214755121618509,0.002715744310989976,0.002535453299060464,0.008293923921883106,0.007965907454490662,0.00389772467315197,0.003690058132633567,0.0042778546921908855,0.008696598000824451,0.00829897727817297,0.006749332882463932,0.004561674315482378,0.0039686416275799274,0.004901493433862925
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+I'll admit it; I didn't get this for a kid.
+I got it for the big kid... me.I saw it and thought it looked really cool.
+I like gadgets; I liked the Transformer movies; I collect... stuff.This toy looked like it fit all my criteria, and I have to say, I'm not in the least disappointed.It's big, it's colorful, and it turns into all kinds of different things.
+I had no problem making it transform into different configurations... but then, I'm also not a kid.
+I can see how kids might have some trouble with it.I think the product quality is very high; toys have come a long way since I was a kid.
+This is a great example.
+I'd have LOVED to have had this when I was 10 or so.
+Consider that if you're thinking about this for your own young'un.
+This toy gave my 10 year old an incredible holy cow moment when we opened the package from Amazon.
+He then proceeded to spend time over three days mastering the transformations from Semi to Optimus Prime.I defer to his rating of four stars.
+He really likes it but noted that the transformation is kind of hard and at one point the arm popped off while torquing it to stow the arm.
+This is not a easy transformation, it is kind of like refolding a map, it takes a little thinking and the pieces don't seem to go back quite where they were.
+However, the overall design is an impressive feat of engineering.My son was very impressed that he mastered this toy despite being listed 3 out of 3 for difficulty.
+It takes 22 steps to transform the semi to optimus, 20 steps to turn the trailer into body armor, and additional 9 steps just to get the action figure into the body armor.
+the instructions are a double sided poster with scores of steps.He demoed the toy for an hour and was very excited, but when he found that it was $70 or so he was shocked.
+We talked about it for a while and he decided that dollar for dollar it was probably better off with a good lego set.
+Since the demo it has sat pretty much unused.
+He still likes it, but it does not get the day to day use of many of his other toys.So all in all, it is pricey, well designed but somewhat difficult to transform.
+I see it more as a fan boy collectible than a day to day toy.
+Impressive, but not overly engaging.
+Let me just start by saying that this is a big action figure.
+When in vehicle mode, it's 20 inches long and over 5 inches high.
+Depending on how high you pop his wings, in power-suit mode he's got about the same dimensions.
+His gun alone is over 9 inches.Good things about this Optimus Prime.
+1) Size--big toys are fun toys.
+2) Stability--he stands up easily in both robot mode and in power-armor mode.
+Fairly posable in robot mode too.
+3) The transformation is tight, with most of the pieces locking into place.
+4) When in robot mode, he really looks pretty cool.
+5) Rolls around in truck mode.Not-so-good things about this Optimus Prime.
+1) The transformation is confusing at first.
+The instructions that come with the toy are merely a series of pictures, no verbal instructions.
+The pictures are a bit ambiguous, and I found myself scratching my head at a number of points.
+The initial transformation from power-suit to vehicle took me almost an hour (though I might have taken a break or two).
+2) The biggest wing sections on the power suit tend to pop off.
+I think they are designed to pop off easily so they are less likely to get broken off.
+I love Transformers, and have almost every OP figure ever made.
+This Prime figure claims to be the largest Prime figure ever, but that is measuring from tip of Wingspan to feet.
+Sure he looks cool, but the head just seems so disproportionate to his body.
+It needs a bigger head to make it perfect.
+I can't really imagine Optimus Prime flying around with wings like this, but Prime sells so you have to make him different every time.The figure is not very difficult to transform, but you will have to be careful.
+The packaging it comes in is awesome.
+You can display him in package as he shows through the clear plastic window.
+He looks awesome in truck mode with his trailer.
+I collect Transformers, and don't play with them but if a kid got his as a gift, he would flip out.
+I know I would if I was a kid.
+Heck, I used to flip out whenever I got any TF as a kid, even an Action Master was cool to me.All in all, he is a cool Transformer.
+I just wish his head was bigger.
+"A Lot of attention on this figure has been paid to what is the most polarizing aspect of this Optimus Prime - ""Butterfly Prime"".
+(Butterfly Prime is the nickname for the pose that is always shown in photos).
+I'd like to separate the figure into the small and large (combined) figures to focus on what I see are the pro and cons each:Small Optimus Prime:Pros:- Unique Voyager-sized Optimus Prime.
+This version of Optimus Prime is fairly accurate of how he looks in the movie in truck mode, and still pretty good in robot mode.
+Better than the new Dark of the Moon Voyager in my opinion.- Good Paint application.
+This guy, aside from the unpainted wheels and autobot hood logo, doesn't really suffer from a lack of paint.-Articulation: He's easy to pose and manuever.-Satisfying transformation: Just the right balance between complex and too easy.-Mech tech ports galore: Strap on every Dark of the Moon weapon you can find onto this guy.
+Has as least 6 ports in truck mode and at least as many in robot mode.- No robot kibble.
+There are no robot parts hanging down under the firgure making it look more like an actual truck.Cons:- Funky forearms.
+Wheels should have been folded underneath, easily the least movie-like feature of the entire figure.- Unpainted wheels.
+A minor quip considering how other DotM figures have fared in the paint department.- Ankles.
+No ankle articulation.Combined, Weaponized Prime:Pros:- Huge.
+The combined figure is ginourmous, the box is correct when it say ""biggest Optimus Prime"".
+This guy is intimidating.- Lights and sounds.
+3 different sound effects triggered by 1 pull tab (extending the gun) and 2 more buttons.- Gun.
+Again huge.
+Stores on the trailer, on Prime's back and flips over to have Prime wear a trageting mask and hold the gun with both hands.- Cape/Wings.
+i didn't get this because I havea kid, nor am i a serious collector.
+I'm just a guy who thought this looked fun, and it is.
+This incarnation of Optimus prime is very large, it feels well built and is fun to tinker with.
+I can't speak for style versus other previous versions as I never owned one of these before, but I really do think this is a great toy for kids and kind of fun for adults too if you like gadgets and robotic type things.
+Good construction and lots of versatility.
+Optimus: Doc, I'm getting old.
+Over 9,000,000 years.
+And I think I'm starting to have memory issues.
+I'm having trouble finding my trailer when I leave it behind to stop decepticon evil.Ratchet: Optimus, I can fix that!
+Let's make a body suit out of the trailer, it will make you stronger and you'll never lose it!
+Part of the trailer will be butterfly wings that give the enemy something disposable to shoot at.
+They can fall off and snap back on easily.
+That is the weak part of this whole setup, but it won't be that big of a deal.Optimus: But won't the body suit make my head look small?Ratchet: Yes, it is either tiny head or big hunking gun, but that's the price to pay for awesome.
+And I'm going to make you stand up well with or without the body armor.
+I'm tired of you falling over on the battlefield!Optimus: That is getting embarrassing.
+Will it be difficult to transform?Ratchet: You're definately not a little kid's toy here, Optimus.
+That's the price to pay for being Michael Bayed.
+No longer are your truck parts transformed into robot parts.
+Instead your truck parts are mostly panels that cover the robot underneither.
+That's really the worst part of who we've become since part of our eternal struggle is now transforming.
+There are quite a few intricate moves in the tranformation.Optimus: Freedom is the right of all sentient beings, but that doesn't mean kids can transform me.Ratchet: True, but they'll still love playing with you in robot and truck form if they can only get help from wise aged beings.Optimus: Transformers Roll Out!
+"This is a TRANSFORMING Transformer.
+Anyone familiar with figures that transform knows that the transformation is never quick or easy.
+I say this because the age on the box states for 5 and up.
+I could see a younger child easily getting frustrated that it is not quick (or easy) to transform him from the Optimus action figure to truck (and back again).
+Actually, I could see some older children (and adults) getting frustrated.
+:)  My kids received the less expensive (non-transforming)Hasbro Transformers Cyber Stompin' Optimus Prime Action FigureandHasbro Transformers Cyber Stompin' Bumblebee Action Figurefor Christmas several years ago.
+They actually liked them better, and play with them more.
+This Transformer was quickly relegated to the toy box.
+This toy is best for the child who specifically requests this SPECIFIC one, or who enjoys the ""transforming"" aspect.
+However, the younger child (who doesn't distinguish among the different version of Optimus Prime) would probably prefer the Stompin' action figures."
+"Look out!
+Here comes Optimus Prime!When I saw this item on the list of the Amazon Vine products, I requested it right away.
+I have two boys who are into all boyish-type toys, and I knew they'd find it a real thrill to get something cool like this out-of-the-blue.By chance, this product arrived on the same day that I went to see the newest Transformers movie.
+When we got home from the movie theater, this toy was waiting for us and my boys could barely contain their excitement.
+(FYI, Optimus Prime DOES NOT appear in this form in the movie!
+)When I got it out of the box, I was surprised to see how large it was.
+This toy is big!
+My four-year old can barely pick it up!
+This in not your father's Optimus Prime.
+This guy is really tricked out with all sorts of added armor upgrades and lights and sounds, and is much, much harder to transform than the old Optimus Prime I had when I was a kid.It took quite a bit of time for me to get ol' Optimus out of the armor suit and transform both components into the automobile form - probably around 20 minutes the first time.
+This was pretty discouraging to me, as I knew right away that my four-year old would never have a chance at doing this himself.
+I also knew my nine-year old would be way too impatient to read the directions and learn for himself how to do this.
+That meant that any time either boy wanted it transformed, they would be bringing it to me to do it for them.
+I don't know about you, but it's not much fun for me to work on something for my kids (something I don't feel like doing, anyway) while they stand by waiting without any sense of patience gratitude.This toy is a bit of a marvel to look at, with much more detail, color and more moving parts than the old transformer toys I grew up with.
+Batteries were included and already installed, and all decals were already affixed.
+But not all changes were a plus.
+Even if you are not a huge Transformers fan for your older boy (the movies are a bit adultish), this toy itself would be great for an older son who loves to build and engineer.
+Although my 8 year old was too small to do it himself, my husband ended up spending hours helping him put it together; and my son even was able to figure out many of the pieces himself.
+Needless to say, it was one of the favorite toys in the house once it was built into a truck.
+Somehow the fact that they put it together and it was a big job made it that much more interesting for them.
+Even when their friends came over it seemed to magnetically pull all the boy's interest to it.
+So I definitely recommend it as far as holding interest for any age boy; just keep in mind that if your son is younger than a teenager they may need help putting it together, and it's QUITE the chore to do so!Although I have watched all the Transformers movies myself, I'm not a huge Transformers buff, so I won't comment on the authenticity of it, etc... many other reviewers have already done that.
+I will say that this toy is HUGE!
+Really huge!
+And that it is quite innocent but very challenging for those huge lego or other constructor toy buffs.That being said, if your child is aware of the movies themselves and is not a teen; be aware that the movies have lots of sexual oriented stuff and are really upper teen/college level appropriate, so if you are concerned about them watching stuff like that and don't want to give them a toy that is associated with a more adult movie than you may want to pass.
+My kids are clueless about the Transformers movies since they were so young, so I didn't mind.
+"I mainly remember the smaller, simpler Transformers of the '80s, so I wasn't prepared for how difficult it is to transform this one.
+When the box says ""Advanced"", believe it!
+And the instructions (wordless and double-sided) look like someone at Ikea went insane.
+But that said, my kids and I really only needed the instructions the first couple of times, after which it wasn't that hard to figure out how to turn OP into a truck and back into a robot again.
+YouTube is also a good resource for visual Transforming instructions.I can't speak to how authentic this Optimus looks compared to the movie, but it does command attention in any kid's room or collector's shelf.
+The ""wings"" swivel so that you can adjust them however you like; I like them swiveled to the 4:00-8:00 positions and with the truck wheels folded so that Optimus doesn't look like he's entangled in a wreck on the interstate.After months of playing, one arm has broken off and the plastic is starting to wear out where the truck doors fold down, so I downgraded it for durability."
+"I have loved robot toys since a small child.
+If your family has a connection to Tractor trailer trucks or your child just loves big trucks... and robots... this may be a special toy for you.
+I like the idea of robots transforming into spaceships or jets or battle vehicles much more... but this one is still kind of cool.
+There is a choking hazard warning so keep that in mind if you have small children or puppies.
+This toy is described as for 5 years and up and Advanced Level 3 on scale of 1 to 3.
+The 2 AA batteries required for sounds and a few lights are included.
+A small Phillips screwdriver is required for installation.
+When a red switch is held down red lights flash and a recorded voice states ""I am Optimus Prime""... something a child will love... other times when held down there are only weapons sounds...
+When the ""wings"" are fully extended the toy is spread to 22 inches!
+But they can be repositioned for convenience when putting it away.The toy is stable on its feet but the wings can pop off.
+When making adjustments or posing some pieces can come loose ... but everything pops back in easily.
+It really isn't so impressive in the Truck mode... as if they didn't want to spend much there when they expected the toy to stay in robot modes most of the time anyway.
+The transformations are complex and its rating as Advanced Level 3 is accurate... this is for Transformer fans who are very familiar with using large Transformers... many children[and some adults] will find it frustrating to work with.It is a large, impressive toy to be sure... but I think at almost 70 dollars... and with its complexity... it is more for huge Transformer fans and collectors... than for real ""on the floor"" play time with children."
+I received this transformer through the Amazon Vine Program, and my sone who is 4 years old loves it.
+It is quite large and very durable, the pieces feel like they are made to hold up.My only gripe is that it really should be marketed to older children for the full functionality.
+Actually going through the Transformation from robot to truck is virtually impossible for him, there's so may steps that the toy comes with a diagram that resembles something from Nasa.
+"This transformer looks pretty impressive in it's box (it better, it's flippin' expensive!).
+I can't imagine a little boy (or man-child) alive who wouldn't be jumping to rip this out of the box and play with it.The weapon it comes with adds some 'WOW' Factor.
+It lights up and makes a shooting sound.As for the transforming part...VERY DIFFICULT!
+It comes with ""instructions"" (I use the term loosely) that show grey and white pictures of Optimus at each stage that you are suppose to follow along.
+Don't expect any kind of detailed instruction on where exactly to bend the arms or how to get the head to stay pushed down.
+You're on your own.
+I'm a transformer novice so it took me about an hour and a half to get this guy changed into a semi-truck.
+It was worth it though, my boy LOVED it.This is a very cool toy but don't expect to just hand it over to a little guy who's new to the transformer scene.
+This Opitmus Prime requires a lot of manipulation to transform him back and forth.As for durability, even though this toy looks pretty breakable, it's actually very well put together.
+I am really surprised at how much abuse it has withstood.
+Obviously you don't want to give this to a toddler but my 5 year old has played pretty rough with it and it's taken the beating like a pro."
+"I remember when my daughter was little and I had bought her the small transformers that turned into different things but this is like a toy for adults and those teens and older who remember the fun they had when they were kids.
+When the package arrived my family was actually interested in what I got and wanted to play with it immediately.
+Turning one of them into a truck and hearing the sounds and flashing lights was totally awesome and although it says for 5 and older think it is more fun for the kid in us just waiting to come out and you will have a great time changing the product like I said into a huge truck.
+What is utterly fantastic is they even include batteries so once you open the box the fun begins to quote my adult daughter ""this is awesome and dont remember having this much fun and excitement when I was younger"" a must for all you fans who still have your transformers and for those who never saved or played with them dont miss out now is your chance to go out and get one or even buy some now to put away for christmas gifts for those older teens who you dont know what to get for this is definitely a winner and fun the entire family can enjoy."
+I gave this toy to my son, who is 13, but was dying to open it when he got it.
+He took a while to put it together, but was impresses with all the different ways you can put it together to build other things.
+Goes from robot to truck, the complete 18 wheeler.
+Ultimate Optimus Prime!
+He has a lot of fun with this toy, and has it set proudly on his desk for all to see.
+Thanks for the free toy, he loves it, and it's a challenge to build, so I would say this is a good toy for building and thinking at the same time.
+Comes complete with step by step instructions.
+This Transformer is very neat and my 8-year-old son really enjoys playing with it but man, it's extremely hard to transform and I'm a mega puzzle person too.
+I can't see any kid being able to transform this toy especially not the 5-year-old's whom the age recommendation is for.
+Maybe if the transforming instructions were printed out in color it would've been a bit easier but we found it extremely hard to know what exactly the picture was pointing too.
+The first time my husband and I tried to transform this item it took us well over an hour to do so.I was quite impressed with the size and quality of this toy but there was one point while trying to transform the toy where it was harder than it should've been to bend the item the way it was supposed to be bent and the plastic started to get a white crease/mark where it seemed like it was gonna break.We do like this Transformer and would recommend it with the warning that it will take quite a bit of time and frustration to transform this toy.

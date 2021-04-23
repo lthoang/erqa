@@ -1,0 +1,151 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Hello I want to know if this castle come in pieces or comes all in one piece, I need put that in my baggage to bring to Argentina.
+Top sentence(s):
+And it definitely requires A LOT of assembly.
+No applying them crookedly yourself.
+It has plenty of play value for little kids.
+Now let's move beyond the ""Wow"" factor.WHAT I LIKED...1)  It was very easy to assemble.
+I thought the build quality was reasonable, sure it could have been better, but nothing was or seemed to be prone to breaking.
+
+Question attention weights:
+0.3058443069458008,0.3331662714481354,0.36098939180374146
+Sentence attention weights:
+0.003443307476118207,0.0060346187092363834,0.010953432880342007,0.012238833121955395,0.008627279661595821,0.010831115767359734,0.009299305267632008,0.011262989602982998,0.00798244122415781,0.002891815034672618,0.004219182301312685,0.008276925422251225,0.009039911441504955,0.010793017223477364,0.007608647458255291,0.010961338877677917,0.004648849833756685,0.011352738365530968,0.009331602603197098,0.010007916018366814,0.007736701983958483,0.009161023423075676,0.007415806874632835,0.006374601740390062,0.007095048204064369,0.010961338877677917,0.009807712398469448,0.004838614258915186,0.009121794253587723,0.005681062117218971,0.005609442945569754,0.005832929629832506,0.006315823178738356,0.007089609280228615,0.00977602880448103,0.012002871371805668,0.0063995555974543095,0.00892044510692358,0.010754338465631008,0.009265181608498096,0.003761955536901951,0.011555008590221405,0.010939295403659344,0.0037585634272545576,0.01182754896581173,0.008533846586942673,0.009519078768789768,0.0071174888871610165,0.005018972791731358,0.005664013791829348,0.0046356297098100185,0.005538056138902903,0.0036622609477490187,0.0065099881030619144,0.00332149607129395,0.004904195666313171,0.0038814209401607513,0.011486141942441463,0.006760519463568926,0.004345792345702648,0.00728614954277873,0.0029136808589100838,0.00938991829752922,0.007112361490726471,0.005221724510192871,0.004449562169611454,0.011710199527442455,0.008192782290279865,0.006888929754495621,0.008794626221060753,0.009678959846496582,0.004560136701911688,0.0077019184827804565,0.004622749052941799,0.005256346892565489,0.003768450580537319,0.003643869189545512,0.003602004377171397,0.004236964043229818,0.006178060080856085,0.006377624813467264,0.008710774593055248,0.010773961432278156,0.0034025111235678196,0.008355789817869663,0.01050305925309658,0.009327572770416737,0.004852838348597288,0.006206955295056105,0.009297830983996391,0.003234917763620615,0.009918448515236378,0.003861868754029274,0.004317788407206535,0.008615359663963318,0.006250356324017048,0.009267186746001244,0.01197691261768341,0.011201862245798111,0.011486263014376163,0.00484103336930275,0.009284432977437973,0.008204427547752857,0.011630329303443432,0.011630329303443432,0.00690978579223156,0.007742493413388729,0.009086842648684978,0.01162960845977068,0.005302499979734421,0.010821826756000519,0.007602469064295292,0.01099281944334507,0.011822624132037163,0.00942977238446474,0.011258560232818127,0.00981275923550129,0.01126040518283844,0.01162960845977068,0.011675765737891197,0.004567474592477083,0.006937116850167513,0.0043912664987146854,0.006118980702012777,0.006381527055054903,0.005877496208995581,0.0055139511823654175,0.010807400569319725,0.005632986314594746,0.005347656086087227
+0.003370046615600586,0.0059147728607058525,0.011090264655649662,0.012448455207049847,0.00864478386938572,0.010907048359513283,0.009293817915022373,0.011294901371002197,0.007980294525623322,0.00284148589707911,0.00410713255405426,0.008222145028412342,0.009067719802260399,0.010879799723625183,0.007550031412392855,0.011053996160626411,0.004533896688371897,0.011456984095275402,0.009413149207830429,0.010059969499707222,0.007701290305703878,0.00918145477771759,0.007424701936542988,0.006308325100690126,0.007100212853401899,0.011053996160626411,0.009865905158221722,0.004730221349745989,0.009129432961344719,0.005644676275551319,0.005602949298918247,0.005814513191580772,0.0062466831877827644,0.007019991520792246,0.009817278943955898,0.01210018154233694,0.006351521238684654,0.008972170762717724,0.010828300379216671,0.009424722753465176,0.0036583358887583017,0.01167573407292366,0.011033657938241959,0.003707702038809657,0.011933228932321072,0.008540250360965729,0.009577970951795578,0.007099602371454239,0.00492983078584075,0.005613384768366814,0.004540863912552595,0.005456856451928616,0.003594601061195135,0.006503324024379253,0.003214821685105562,0.004817151464521885,0.0038030564319342375,0.011633923277258873,0.006686986889690161,0.004304750822484493,0.0072831641882658005,0.0028068553656339645,0.009428839199244976,0.0070353238843381405,0.0051849354058504105,0.004319966770708561,0.011887061409652233,0.008173726499080658,0.006894724443554878,0.008793974295258522,0.00972430408000946,0.004461448173969984,0.007817278616130352,0.004531251732259989,0.0051972223445773125,0.0036641410551965237,0.003544012550264597,0.0034982769284397364,0.004091941751539707,0.006154334172606468,0.0062725963070988655,0.008781054988503456,0.010847153142094612,0.0033016034867614508,0.008336415514349937,0.01057808380573988,0.00934585090726614,0.004757546354085207,0.006183085031807423,0.009287058375775814,0.003101577516645193,0.009965323843061924,0.0037968982942402363,0.004199041053652763,0.00864319410175085,0.006197043228894472,0.00932148564606905,0.012093859724700451,0.011289662681519985,0.011586792767047882,0.004781085532158613,0.009371748194098473,0.008213961496949196,0.011739230714738369,0.011739230714738369,0.006861134897917509,0.007829277776181698,0.009109217673540115,0.011737775057554245,0.0052613383159041405,0.010899979621171951,0.007634008768945932,0.01107216626405716,0.011952949687838554,0.009421947412192822,0.011357036419212818,0.009828870184719563,0.011311347596347332,0.011737775057554245,0.011785373091697693,0.0044960323721170425,0.006902386900037527,0.0043500736355781555,0.006124695762991905,0.006336590275168419,0.005830997135490179,0.00543970987200737,0.010865028016269207,0.005560602527111769,0.005295093636959791
+0.0034055043943226337,0.005891013890504837,0.011089486069977283,0.012400108389556408,0.008697498589754105,0.010936358012259007,0.009224542416632175,0.011208799667656422,0.008075233548879623,0.002865248592570424,0.004063653293997049,0.00818195566534996,0.009145303629338741,0.01092168502509594,0.007587504107505083,0.011094510555267334,0.004488607868552208,0.011466828174889088,0.00936691090464592,0.010084112174808979,0.0076214587315917015,0.009184149093925953,0.007492945529520512,0.0063188159838318825,0.00710546039044857,0.011094510555267334,0.00990716926753521,0.004687596578150988,0.009144853800535202,0.005691861268132925,0.005641983821988106,0.005824157036840916,0.006187943741679192,0.006914082914590836,0.009855280630290508,0.012083367444574833,0.006400980520993471,0.009010033681988716,0.010834869928658009,0.009595254436135292,0.0036538064014166594,0.011591078713536263,0.010993827134370804,0.0037699828390032053,0.01194814033806324,0.008580000139772892,0.009647415019571781,0.007062739692628384,0.004825159441679716,0.005599090829491615,0.004512358456850052,0.005408647004514933,0.003591354237869382,0.006553052458912134,0.0031955682206898928,0.0047426349483430386,0.0037602924276143312,0.011613652110099792,0.006622512824833393,0.004311609547585249,0.007240097038447857,0.0027279278729110956,0.009485872462391853,0.006957696750760078,0.0052286479622125626,0.004241029266268015,0.011833157390356064,0.008163277059793472,0.00699282344430685,0.008815196342766285,0.00976101215928793,0.00436860416084528,0.007895201444625854,0.004547068849205971,0.00526811508461833,0.003604463767260313,0.0034896766301244497,0.003470036666840315,0.004012151621282101,0.006189937237650156,0.0062020388431847095,0.00877447985112667,0.0108744902536273,0.0032787395175546408,0.008321015164256096,0.010603723116219044,0.009357782080769539,0.004691179841756821,0.006225870456546545,0.009297450073063374,0.0030230360571295023,0.00999573152512312,0.003881645854562521,0.004121069330722094,0.008673996664583683,0.0062474277801811695,0.00942170899361372,0.012069406919181347,0.011289497837424278,0.011608650907874107,0.004780056420713663,0.00945998728275299,0.008239530958235264,0.011768062599003315,0.011768062599003315,0.006846723146736622,0.007904167287051678,0.009129863232374191,0.011764252558350563,0.005209974944591522,0.010942908003926277,0.007609263528138399,0.011093230918049812,0.011969941668212414,0.009387834928929806,0.011397276073694229,0.009805492125451565,0.011209952645003796,0.011764252558350563,0.011808538809418678,0.004500921815633774,0.006903418805450201,0.004369322210550308,0.006176831666380167,0.006237504072487354,0.005803121253848076,0.005446909461170435,0.010865648277103901,0.005540830548852682,0.005270634777843952
+Questions:
+Is it easy to move this castle?  We don't have a playroom so I would be moving this from a closet out into the living room and vice versa.
+Hello I want to know if this castle come in pieces or comes all in one piece, I need put that in my baggage to bring to Argentina.
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+So first of all I have to agree with other reviewers who complain that this Disney princess castle is overpriced.
+As I write this review, it's currently going for $189 on Amazon.
+Yeah, that's too much.
+And it definitely requires A LOT of assembly.
+As a word of warning: make sure you're in a very patient mood when you set about assembling it.That said, I can't really rate it less than 4 stars for the simple fact that kids love this thing.
+After I had it together, I thought: is that really it?
+Then I showed it to a couple of my cousins (around 4 and 6 years old), and they went wild.
+There were actually high-pitched screams upon first sight.They've been playing with the castle for a couple of weeks now, and so far it's holding sturdy.
+I was worried at first because it's basically just a giant plastic construction, but to my surprise, it's fairly strong.
+I checked out the first version of this castle and noticed tons of negative reviews.
+The manufacturing seems to have taken the criticism to heart and really improved the design this go around.So yes it's too expensive, but it's also proved really popular with my cousin and her friends, and it's definitely being used for all it's worth.
+"I'll put the update to my review here at the top.
+We have had this castle for more than 6 months and have had zero problems with it.
+Nothing has broken or refused to stay put together.
+The BIG news is the castle just survived a move by professional movers!
+If you have used movers before, you know that is saying a lot.
+I did disassemble it almost all the way and put the main castle body back in it's box.
+(Yes, I saved the box, we move more often than most people.)
+Disassembly was lengthy, probably 45 minutes, but with the occasional use of a flat head screwdriver to pop the tabs apart I got it all taken apart without breaking a thing.
+Once I had all the pieces unpacked at our new place it took me literally 5 minutes to pop everything back together, just like brand new.
+I admit I took a lot of care with this, but still I am impressed with the quality.Original Review:Overall this Disney castle is beautiful!
+My preschooler absolutely loves it, and both my kids and all their friends love to play with it.ASSEMBLY OF THE CASTLE: This took me about 40 minutes to put together.
+The two main floors fold down (like a very old Barbie dream house we had) and are then supported by pillars.
+There are less pieces to put together than I had feared, and they mainly fit together without having that ""snap"" where two pieces fit together permanently.
+I think this cuts down on breakage during assembly.
+The directions made it very easy.
+For example, although you have seven turrets to put together they are mostly different sizes and shapes so it's pretty self explanatory.
+Okay, most reviewers are complaining about the price of this and I agree but mostly this is in line with other Disney toys.
+You pay for the brand and characters, plain and simple.
+And ultimately, this is going to be a thrilling toy for most little girls in that princess stage of development.
+The ones Disney has under their marketing thumbs completely.
+We've not had this long enough to test full playability and durability, but it's a hit and beloved.
+The construction is actually a little better than some other Disney Princess toys I've experienced.
+Assembly takes a while--so for Christmas gifting, consider an hour for an assembly--I actually like including the little ones in the assembly a little to help teach some engineering skills but that also depends on your patience and your little ones.
+The best feature is that all of the stickers/decals are already on the toy.
+No applying them crookedly yourself.
+They will last longer this way and saves time and headaches overall during assembly since they also help you see which piece is what.
+Do not destroy the front of the box and that helpful image until you are fully assembled.
+Think of it like putting a puzzle together although the instructions are adequate enough.Finally, there are fun design elements but nothing really clever here.
+The elevator function is not very useful or a strong selling point, if we are all realistic about it.
+Mostly it's a plastic doll house for Disney Princess Barbies or others who come to visit from your child's collection.
+I never had one of these growing up--the Barbie ones that is--but I vividly remember the ones my friends had.
+It will be played with and it will be exciting and I doubt your child will forget this toy, but remember it fondly long after she has outgrown it.And it's big so remember the space required.
+"First of all, my 6 year old daughter loves it and her Disney princesses intermingle with other fashion dolls throughout the well appointed castle.
+I thought the build quality was reasonable, sure it could have been better, but nothing was or seemed to be prone to breaking.
+The construction took about one leisurely hour to complete.
+Most of the instructions were easy to follow, but some of the black and white sketches didn't quite match the actual castle, although the only thing they didn't cover was how to apply Aurora's mirror (it snaps into place between the two windows).
+Once it was constructed there have been numerous tea parties and races down Rapunzel's hair elevator.My daughter also loves the companion app, although this is the main reason I dinged it a star.
+First of all, the app only works on iOS devices and even though it will load on the 3Gs, it doesn't function correctly.
+Secondly, while it runs well on the iPhone5, it takes up over 700MB, which is a lot of space for a mobile app and I had to clear off apps just to install it.
+Finally, it's basically a collection of about a half dozen princess themed mini-games, which are great but they're all locked at first.
+Which is where the tie in to the physical castle comes in.
+It uses augmented reality, so when you point it at the wall paper in a particular room (or the clock) you see a superimposed animation and it unlocks that game (which can be played later without the castle).
+It's cute, but again it's a lot of space and works on very few modern devices, it would be nice if they offered an Android version or at the very least still worked enough to run the mini games on older iPod touches/iPhones.
+I suppose they could release fixes and more platforms later, if they do I think this would widen the appeal.PROS:+ Fun and huge+ Sturdy and well built+ Mostly furnished (which makes the price seem better compared to unfurnished doll houses)+ Compatible with other 11"" fashion dolls+ Companion App brings the wall paper to life+ No annoying decals to apply (probably because it relies on the graphics for the app)CONS:- A fair bit of easy but time consuming construction needed- Companion app is huge and only works on newer Apple devices, not at all on Android- The augmented reality can be tricky at night or in a poorly lit room- It feels fantastically pink and plastic-y, but won't become an heirloom dollhouseOverall, the cons are more things you should know then deal breakers.
+My daughter loves to play with the castle and herCinderella Transforming Carriagefrequently escorts the princesses to and from the castle for one royal function or another.
+If you aren't planning on using the app or your daughter has the latest 64GB iPad, a well lit room flooded with sunlight, and you like putting things together then the cons are complete non-issues."
+"When the castle is complete, it's a WOW!
+It has a rich and attractive appearance.It's a wonderful and cheery centerpiece / play house.My only concern is it's durability, some of the plastic seems thin, and bends easily.I'm hoping these are just intended to be flexible, so they're not easily breakable.The hinged floors have a metal pin in the plastic henge which seems to be a strong joint.And the entire structure ~ every-where ~ is full of design and details.There's quite a lot of pieces to assemble the castle, and some joints are pretty stiff to snap together,but over-all it's not bad.The instructions are O.K.
+~ but following the large picture on the box is an even greater help.The hours our grand / great grand children will enjoy the castle makes the time spent worth while.I agree with two points already mentioned in others reviews.> 1.
+Stair steps would give more of the feel of a castle.~~~ but since this is a modern day castle ~~~> 2.
+The Rapunzel's doll would be the best choice to get first for the spiraling hair elevatorif you get only one.The three fairy tail friends included are quite small ~ Pascal (3/4"" tall) ~ Suzy Mouse (1 1/4"" tall)and ~ Lumi&egrave;re (2 1/2"" tall)So adding some sizable figures, such as the companion dolls would make the castle even more fun.The best value at this time seems to be the ""Ultimate Disney Princess Collection ~ 7 pack""which includes all seven dolls, Belle ~ Cinderella ~ Ariel ~ Merida ~ Rapunzel ~ Snow White and Tiana,which at present is $89.99 Amazon's price ($12.85 each)And of course the castle rooms feature areas for these dolls.This is an impressive castle, and if fairly well taken care of, should last for many years.Both sides of the castle have an excellent appearance, whether admiring the front,or playing with the dolls from the back.The chairs that come with the castle are just over 7"" tall and 2 1/2"" by 2 1/2"" wide.The rooms are large, Barbi's and/or other dolls are also great for this castle.The recommended age group is 3 to 6 years old."
+This castle is a dream come true for any Barbie and Rapunzel-loving girl.
+It's basically the Holy Grail of Barbie-dom and your kids' heads will explode when laying eyes on it for the first time.
+The sheer size and scale of it may be a bit overwhelming, or it may induce screams of joy.
+I guess it just depends on the girl.As seen in the photo, the Ultimate Dream Castle has three levels that include a living room, bedroom and bathroom, as well as furniture.
+Surprisingly, it doesn't comes with any actual Barbies.
+For the price, I don't think including a doll would have been cost-prohibitive.
+Also, it's a VERY large castle - standing about 3.5 feet, so if you live in a smaller apartment or you're an urban dweller, it may take up too much room.
+However, if you have the room or a basement, that problem disappears.
+Keep that in mind when deciding whether or not to make this purchase.
+"For years and years, theBarbie Dream Househas been the dollhouse aspiration of little girls everywhere and the pride of my girls' playroom.
+But Disney has been aggressive with their Hasbro partnership, competing head-to-head with Hasbro's own Barbie license in dolls, play places, and now the dream house.
+And the Dream Castle is definitely a rival to the gold standard, which had previously occupied the corner of the playroom.The two are almost identically-sized, though they use their height differently.
+While the Barbie Dream House is three true stories, in that there are rooms on the 3rd level, there is no roof to it.
+The Princess Dream Castle also claims three stories, but uses the rooftop terrace as its third level, which doesn't actually have rooms.
+Each of the rooms in the Dream Castle is themed for one of the primary princesses: Snow White, Cinderella, Ariel, and Belle.
+Rapunzel gets the tower balcony ""room"" with a twirling ride down that replaces the Dream House's center-set elevator.
+All of the floors are plenty large to accommodate the full-size dolls, though there's not much space to move around each room.In all it seems a little sturdier than the Dream House (on ours, several accents broke fairly early in ownership), and I appreciate that all the stickers came pre-adhered.
+Assembly took about 15 minutes and I used a littleepoxy glueto secure the tabs I thought might break, but for the price it seems to be well-made.
+Without licensed characters, but a good alternative for quality construction, check out theKidkraft Wooden Dream Dollhouse.The only down side is that many little girls like to play out real life roles in their dollhouse, and while Barbie, Ken, and the babies (whatever their names are) make for a good Mommy, Daddy, and kids dynamic, that doesn't play out the same way in this castle.
+I've never seen my 3yo have Ariel tuck Cinderella in and read her stories like Barbie-Mommy has to her baby.
+Just a thought, if your little one uses the playhouse this way."
+This is the description of this castle:This is the total fairytale Disney Princess Castle that every little girl will wantInspired by scenes from Disney's most classic princess fairytalesCastle is three stories tall and features iconic rooms themed to each of the Disney PrincessesBeloved character friends Lumi&egrave;re, Pascal and Suzy Mouse are also includedFeatures and areas of play for Princesses: Belle, Rapunzel, Ariel, Snow White, Sleeping Beauty and CinderellaThis is the updated version the the Disney Princess Ultimate Castle that had stairs and had horrid reviews.While I do not have the original castle, I don't think this is probably a whole lot better.
+The plastic is flimsy.
+There are to many pieces at almost $200 to put together.
+In my opinion.
+This was very time consuming to put together.Instead of stairs the Princess now have a pole to slide down(Apparently Rapunzels hair elevator) ....
+I don't think this is an improvement at all from the badly reviewed stairs.
+The pole goes up and down or it spins around.
+I'd rather my daughter or niece have their dolls falling down flimsy stairs than trying to figure out this glamorized pole.I do want to give praise to the size of this as we had a previous castle and it was pretty small, so small that 2 Barbies barely fit.
+This is fairly large so the girls will have fun moving about.
+It's about 3 ft tall.The castle itself looks nice when it's all set up but again I just really really wish they would make the plastic thicker.
+It is nice that it comes with furniture for the castle so that is a nice added bonus, but really not all the sturdy.We don't have all the Princess' so I guess this is a great way of getting your daughter to get you the rest of them (if you don't have them all)There is a Magic Mirror App that is free but we don't own an iphone.For the die hard Barbie fans I will say this is probably a must.
+I will add that I don't think this would last long with a 3 or 4 yr old.
+I'm pretty sure they'd break the majority if not all of the furniture as it's not well made.
+This castle looks very nice when assembled.
+It has plenty of play value for little kids.
+However, it seems kind of flimsy.
+The furniture seems kind of flimsy also.
+But so far nothing has broke, so maybe whilst it is flimsy, it is durable.
+Hard to tell only having this thing a month.The biggest downfall I see is the price.
+For what it costs, it should be a heck of a lot sturdier.
+Either that or it should cost 1/3 as much.
+Really, the price is just ridiculous for this thing for what you get.
+$60 would be a more realistic price.
+For the $190 it costs now, it should be heavier, have better constructed accessories, and probably come with a doll or two.So overall it is a decent toy that just costs way too much.
+"When my received this it she was so excited and jumped up and down.
+This was something she saw at the store and really wanted it.
+This castle fits all of the Disney Princess dolls.
+The features are nice.
+I was amazed at the level of detail that the castle has.
+It has a winding ""elevator"" that is supposed to be Repunzle's hair.
+Now let's move beyond the ""Wow"" factor.WHAT I LIKED...1)  It was very easy to assemble.
+Just be careful when assembling the second story.
+DO NOT press down without your hand supporting it.
+You can crack it.
+But, that is just an observation, thankfully not my experience when I had assembled it.2) NO DECALS!!!
+Yes.
+That's right.
+You will not have to peel and paste any decals only to have them curl and come off later on.3) Finely detailed characters and accessories.
+The furniture itself is very well crafted and all the dishes, plates, bowls, fork, knives are well crafted.
+Very nice.WHAT COULD HAVE BEEN BETTER...1) I thought for the price, it should have had lights and/or music2) Why they chose to have a toilet, is beyond me.
+I was going to initially note that &#62;$180 was WAY too much for a toy castle, but have seen the Amazon price creep down to around $130 in recent weeks.
+I'm not sure if it will stay there and it's still pricey, but much better than $189.Given the price tag, I feel like it should at least come with a Disney Princess or two?
+My niece was excited to see the castle but disappointed once she found out that none of the pretty pictured dolls were in the box.
+If you're thinking of giving this as a gift, my advice would be to give it to a girl who already has dolls/Disney princesses, or buy at least 1 or 2 to go with the castle.Another piece of advice - if you're buying it for your own kids, be prepared to spend a LOT of time assembling this thing.
+There are so many little pieces that it can take hours.
+The castle is plastic, but seems durable.
+And my niece has had a great time playing with it...after we located some dolls to occupy it.

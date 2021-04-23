@@ -1,0 +1,187 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+What is the best age of the child for this?
+Top sentence(s):
+""One down-side is that you can choose only one name, so if you have more than one kid who'd use it, you're out of luck.
+and there isn't even a mark on it.)
+Connecting in this case was an embarrassing, frustrating endeavor.
+"Let me begin with the most important thing, and that is that my son has had this LeapFrog toy for several months, and has enjoyed it thoroughly.
+It's a terrific interactive toy that I know he's going to take advantage of for a long time to come, and his amusement level hasn't waned.
+
+Question attention weights:
+0.045559391379356384,0.3974915146827698,0.5569490790367126
+Sentence attention weights:
+0.006155082024633884,0.005064866971224546,0.006151826120913029,0.006536408327519894,0.004945880267769098,0.005276538897305727,0.005824643652886152,0.006203227676451206,0.006475409027189016,0.006320420186966658,0.006041261367499828,0.007055374793708324,0.006221833638846874,0.007345921825617552,0.00822435598820448,0.0064856563694775105,0.005732840392738581,0.005678036715835333,0.005073453299701214,0.004832881037145853,0.006100879516452551,0.00651941541582346,0.005154628772288561,0.003575762966647744,0.005403104703873396,0.005841572303324938,0.005956409964710474,0.005862293299287558,0.005289832130074501,0.004910123068839312,0.006349526811391115,0.005617569666355848,0.0073052761144936085,0.0063248928636312485,0.006766017992049456,0.004681690596044064,0.005596112925559282,0.007859908975660801,0.004912905860692263,0.006650649476796389,0.0046795024536550045,0.007972517982125282,0.0063005248084664345,0.006096638273447752,0.0063727740198373795,0.0048751491121947765,0.006150885485112667,0.006146330386400223,0.006194422021508217,0.006202203221619129,0.00615805434063077,0.005556702148169279,0.006712222937494516,0.004744311794638634,0.003876530099660158,0.005706054624170065,0.006309039890766144,0.005546010099351406,0.005937941372394562,0.006201842334121466,0.006536203436553478,0.005488868337124586,0.004108707886189222,0.00617329403758049,0.005266888532787561,0.0054169041104614735,0.006001454312354326,0.006836467422544956,0.007407778408378363,0.004102514125406742,0.005717363674193621,0.006376377772539854,0.0063340794295072556,0.004871795419603586,0.006893359124660492,0.005156634375452995,0.006862396374344826,0.007767898496240377,0.0063340794295072556,0.005082528572529554,0.004608911462128162,0.0046881153248250484,0.005769703071564436,0.006509347818791866,0.006437921430915594,0.007470832206308842,0.006879938300698996,0.007900252006947994,0.006445795297622681,0.00604940764605999,0.006789479870349169,0.007129418198019266,0.00627157324925065,0.006520555354654789,0.00746178487315774,0.005957328714430332,0.005969000514596701,0.005300153512507677,0.00687590753659606,0.004488350357860327,0.005044125020503998,0.006367306225001812,0.006060406565666199,0.0047792112454771996,0.006927649024873972,0.009976262226700783,0.006384497508406639,0.007383996620774269,0.005826333072036505,0.0059374612756073475,0.005577030126005411,0.004685095511376858,0.006007321644574404,0.0039020352996885777,0.004773467779159546,0.0050623067654669285,0.006577669642865658,0.006620862986892462,0.002686915686354041,0.004045671317726374,0.005339907482266426,0.0061536384746432304,0.007884957827627659,0.005774558987468481,0.003463444299995899,0.0068116988986730576,0.008620447479188442,0.006742521189153194,0.00514958705753088,0.008470067754387856,0.0063512856140732765,0.007425202988088131,0.006416797172278166,0.006873875390738249,0.006255807355046272,0.004495837260037661,0.005897305905818939,0.0062293740920722485,0.005003482569009066,0.0058972896076738834,0.005720214918255806,0.006808196194469929,0.006268886383622885,0.00611336063593626,0.00645867083221674,0.0055253938771784306,0.00669384328648448,0.006340939085930586,0.009019284509122372,0.005076822824776173,0.0071524097584187984,0.006462056655436754,0.007061324082314968,0.006268886383622885,0.005782636348158121,0.006301175802946091,0.006268886383622885,0.006619077175855637,0.006453091278672218,0.0060842158272862434,0.006160111166536808,0.005409009754657745,0.005026604048907757,0.005461495369672775,0.004563732538372278,0.004693408962339163
+0.0069136605598032475,0.005566205829381943,0.007917622104287148,0.006963137071579695,0.004328934475779533,0.006294652819633484,0.00682422611862421,0.006663024425506592,0.00653428491204977,0.0068977149203419685,0.007427683565765619,0.006286024581640959,0.003575901733711362,0.006793538108468056,0.004801711533218622,0.004891031887382269,0.0029838562477380037,0.0064483024179935455,0.003108029020950198,0.0029141975101083517,0.007708067540079355,0.005094969645142555,0.005751228891313076,0.0036372633185237646,0.005106148775666952,0.007301389239728451,0.0070436932146549225,0.0035156423691660166,0.005736914463341236,0.005216412246227264,0.0077252513729035854,0.004606216214597225,0.003160711843520403,0.008062221109867096,0.004495364613831043,0.003751073032617569,0.006242635194212198,0.008584856986999512,0.003679977497085929,0.0056533049792051315,0.005144243128597736,0.007622263859957457,0.008190689608454704,0.007223671302199364,0.00632887426763773,0.004845914430916309,0.006930720992386341,0.007936566136777401,0.007445811294019222,0.007953991182148457,0.0031354064121842384,0.0025676037184894085,0.0064639803022146225,0.004983656108379364,0.0031345016323029995,0.006496819667518139,0.006917482241988182,0.005318838637322187,0.006795107387006283,0.006325746886432171,0.008023515343666077,0.003610918065533042,0.004166824743151665,0.00699835317209363,0.004386420827358961,0.004601753316819668,0.006805366836488247,0.008227653801441193,0.008337197825312614,0.00234522158280015,0.004539318848401308,0.00817994587123394,0.008202912285923958,0.00401318958029151,0.006708855740725994,0.004452589899301529,0.00592077849432826,0.01065583061426878,0.008202912285923958,0.005327663384377956,0.0037990903947502375,0.0053174905478954315,0.005803105421364307,0.008112677372992039,0.007271199021488428,0.006256347056478262,0.006152071058750153,0.007856075651943684,0.008060143329203129,0.005427326541393995,0.004914252553135157,0.007088197395205498,0.00662864139303565,0.005663513205945492,0.00657811900600791,0.0053624240681529045,0.007190356031060219,0.005315330810844898,0.005017410032451153,0.004192248452454805,0.00581780169159174,0.008232714608311653,0.0077318898402154446,0.005157203413546085,0.008055703714489937,0.009911623783409595,0.007165330462157726,0.010900137946009636,0.006247012875974178,0.0051101502031087875,0.0056856959126889706,0.004867690149694681,0.005199774168431759,0.003941632341593504,0.0031231457833200693,0.002829008735716343,0.00712292967364192,0.00498141860589385,0.002817008877173066,0.0029036535415798426,0.0034142888616770506,0.006162186153233051,0.007845010608434677,0.00746175367385149,0.002302282489836216,0.007907478138804436,0.009917412884533405,0.009897751733660698,0.003998782020062208,0.004687387030571699,0.008228554390370846,0.010365539230406284,0.005223496817052364,0.004653831943869591,0.007807516027241945,0.00261405180208385,0.0056722830049693584,0.004885470028966665,0.0045066638849675655,0.006474795285612345,0.0029450994916260242,0.00504140043631196,0.008065592497587204,0.007102200295776129,0.00832994282245636,0.006300297565758228,0.008435415104031563,0.004650194197893143,0.008856961503624916,0.005084747914224863,0.008389853872358799,0.007282123435288668,0.0046713827177882195,0.008065592497587204,0.00732631329447031,0.00806837435811758,0.008065592497587204,0.00867887120693922,0.008433724753558636,0.005723696667701006,0.00420086644589901,0.004687624052166939,0.005454502534121275,0.003199692815542221,0.004948314279317856,0.002481298055499792
+0.0067927953787148,0.005749567877501249,0.008162804879248142,0.006561785936355591,0.0042197066359221935,0.006830750033259392,0.0070519340224564075,0.0067615932784974575,0.006518817041069269,0.007016852498054504,0.007620961405336857,0.00575478607788682,0.003194294171407819,0.006860331166535616,0.004009998869150877,0.004823820199817419,0.002500304486602545,0.006532670930027962,0.002810981124639511,0.002832885831594467,0.007920116186141968,0.004760192707180977,0.005918238777667284,0.003621387993916869,0.004871254786849022,0.007310068234801292,0.007249589543789625,0.0030718131456524134,0.00588715635240078,0.005562968086451292,0.007886692881584167,0.004580415319651365,0.002706939587369561,0.008317992091178894,0.004575804807245731,0.0035843418445438147,0.006514379289001226,0.00881847832351923,0.003441800130531192,0.005182864610105753,0.005229394417256117,0.006863006856292486,0.00842991005629301,0.007435041945427656,0.0063026719726622105,0.0048837908543646336,0.006822530645877123,0.008199040777981281,0.007624177262187004,0.00817094650119543,0.0029399441555142403,0.002259728265926242,0.006254703737795353,0.004888755269348621,0.0030902824364602566,0.006623560097068548,0.0068795946426689625,0.005378016736358404,0.0069089471362531185,0.006400857586413622,0.008297071792185307,0.0034599530044943094,0.004076011013239622,0.006951278541237116,0.004404313396662474,0.004733121953904629,0.00696109002456069,0.008900872431695461,0.008735880255699158,0.0022946051321923733,0.004224385134875774,0.008416783064603806,0.008471265435218811,0.004113006871193647,0.0067986357025802135,0.004286058712750673,0.006132679525762796,0.01137032825499773,0.008471265435218811,0.005854171235114336,0.003864784725010395,0.005288511980324984,0.005629237275570631,0.008418017998337746,0.007695360574871302,0.006468090228736401,0.00607307767495513,0.0071205138228833675,0.008353808894753456,0.005167071241885424,0.004304938949644566,0.006863209418952465,0.006957279518246651,0.005905649159103632,0.005694889929145575,0.0053077335469424725,0.007391528692096472,0.0052677905187010765,0.004695064853876829,0.00437669362872839,0.0062224725261330605,0.008557062596082687,0.008081047795712948,0.005077439360320568,0.008089576847851276,0.009363213554024696,0.0074454438872635365,0.011323069222271442,0.0061604236252605915,0.0052263736724853516,0.005371739622205496,0.004786564037203789,0.004781733267009258,0.0037572046276181936,0.0028470614925026894,0.0026826781686395407,0.006850165314972401,0.0043828957714140415,0.0029885387048125267,0.002735210582613945,0.003399773733690381,0.006553602404892445,0.00734269805252552,0.007586222607642412,0.002154058776795864,0.007961790077388287,0.010177679359912872,0.009972593747079372,0.003920633811503649,0.004154344089329243,0.008499215357005596,0.010980049148201942,0.004812188446521759,0.0039905402809381485,0.008017405867576599,0.0024050495121628046,0.0056149521842598915,0.004994092974811792,0.004914372228085995,0.006563092581927776,0.0026300977915525436,0.004553213249891996,0.008307998068630695,0.00726911099627614,0.00862693041563034,0.006262673065066338,0.00859527476131916,0.004584146663546562,0.008371361531317234,0.00502760848030448,0.009084935300052166,0.007482108660042286,0.0039246175438165665,0.008307998068630695,0.007565205916762352,0.008312206715345383,0.008307998068630695,0.009052503854036331,0.00870098639279604,0.0058023459278047085,0.004109386820346117,0.004519689362496138,0.005603475496172905,0.0032084796112030745,0.0049841320142149925,0.0022902244236320257
+Questions:
+why is my leapfrog storytime not customizing
+What is the best age of the child for this?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+My daughter is almost 2 and has already really enjoyed this toy.
+I was skeptical because I got turned off to Leapfrog with the Tag system my son had.
+However, I found this tablet was great and easy to use.
+I especially like the design since my daughter always wants to play with my ipad.
+The games and connect software are easy to install and it takes a little over 10 minutes.
+You will need to use your computer for this device it does not stand alone.I found it to also be very durable.
+We have already dropped it a few times and it has come away fine.
+However, the screen is really hard to read especially in certain lighting.
+For a tablet that is supposed to encourage reading it won't encourage anything if my daughter can't read it.
+She loves the games and the functionality is perfect but the screen is the main reason that I gave it 3 stars.
+I really wish they had gone with a better quality screen.
+"Does your toddler envy your iPad or Kindle reader?
+Do they want to use their older sibling's Leapster Explorer?This light, durable toy goes from box to playing within 15 minutes.
+The pad requires three AA batteries, which are included.
+There are no books or cartridges to buy.There is a USB cable included to connect the pad to your computer, and the Leapfrog Connect application.
+Once you download and install the Connect application, you will connect the pad to your computer using the USB cable.
+If you already have Leapfrog devices like a Tag, Tag Junior, or Leapster Explorer, the USB cable is exactly the same.
+You will not need different cables to connect all your toys, they are the same.
+I had no errors or compatibility issues having multiple devices connected to one computer.Once the pad is connected, you will be prompted to personalize the device by choosing your child's name, favorite food, favorite color, and favorite animal.
+You will be asked to select little ""e-mail messages"" from Mommy, Daddy, or customize.
+You can choose up to four games, out of ten possible games.
+You can choose music to sing with and melodies to play, including classical pieces by famous composers.The only feature of this pad that I did not like was the view screen.
+It looked like an old pocket game, with a black, grainy interface.
+I would have preferred a nicer, color screen instead of this one, even if it pushed the price point up somewhat.
+With no additional books or cartridges to buy, I would have been fine with paying more for a better screen.
+With all the customization available, I was disappointed that it was only being used in this little screen.Overall, this is a great product for your two to four year old.
+It is a good in-between toy if your child is not ready for the Tag Junior reader just yet."
+What is great about the Storytime Pad is that it is about the size of an iPad or Leappad but it is meant for 2 year olds.
+It is durable, fun, and reasonably priced (under $30.
+It is perfect too for households where there is a little one who feels left out because he or she is too young to be trusted with a more expensive device.I love all the Leapfrog products and this one is no exception.
+It first off is pretty self-explanatory and kid-friendly.
+There are just a few buttons and Scout tells you which buttons to push.
+You don't have to but you can connect the Storytime Pad with its included USB cord to your computer to personalize it with your child's name and other items (songs, stories) they like.
+It is very easy to set up and get going.
+As far as batteries go, it comes with the 3 AA batteries required, which is nice and I love how the device will shut off after non-use.The Storytime Pad has a small screen (but it is probably fine for 2 year olds) that is not in color, which is the only downfall as you have to have good lighting to see it and cannot be used in the dark (my kids sometimes like to play with toys in their beds after lights out.The buttons are pretty self-explanatory.
+Push a letter to hear it, push email to write or read little email messages.
+The stories are pretty cool as they are short and not only show the words of the story and read it aloud but also it has little animations showing actions from the story.
+Parents can personalize these stories with your child's name and some favorites.
+Finally there are songs that it will play for your child, pretty basic and fun.Overall, my 3 and 4 year old got a kick out of this device but I definitely think a 2 year old (or maybe a little younger) would love pushing the buttons and seeing Scout.
+Oh and it is even neat how you can push on Scout and his friends on the actual device to hear messages from them!
+I would say to get this for your child if they love the Leapfrog characters, you are trying to claim your iPad back or you are just looking for a fun interactive toy for them!
+Until we started calling this our 2-year-old boy's Kindle, he wanted nothing to do with it.
+A simple name change, and he was interested in it, for a very short while.
+Still, we couldn't get him engaged in it beyond a minute or two.
+We are quite certain he is not all that enthused with the poor black-only, bitmap-looking, LCD graphics on the screen.
+Seriously, the graphics on the tiny screen are lousy, and our boy is used to playing with our iPhones.
+By comparison, this is just a toy.
+OK, well it is a toy, I guess, but kids these days expect more.
+I asked my wife why they made the screen so small, and she agreed it seems too small to really get kids interested.
+"Overall, this is a great toy, but it's not perfect.
+Here's the run-down of the pros and cons:Pros:--Set-up is easy, though it does require connection to a computer with a USB cable for optimal use.--The ABC feature is very well done.
+When you press a letter, the toy tells you the name of the letter, the sound of the letter, and something that starts with that letter.--The toy is durable and does not break, even when dropped on a hard surface.--The auto shut-off feature saves on battery power (the toy requires 3 AA batteries).--The toy is the perfect size for little hands--not too big and not too small.--You can program the toy to use your child's name in stories.
+This is a fun feature.Cons:--The screen is very small (2.5 x 1.5 inches) and very low-resolution.
+As a result, the pictures on the screen are primitive looking and not very interesting for young children.
+The rest of the toy is so colorful and eye-catching, that the screen looks like an afterthought.--The toy is only programmable with one name, so it doesn't work well for two children.--The e-mail feature doesn't make a whole lot of sense.
+The ""e-mails"" are pre-written, so they aren't personal.--The writing feature doesn't permit anything to be saved.
+So, if you spend time writing a story, it will be lost.--The stories are a bit too short, and you can only select 5 stories to be stored on the device at one time.
+I would rather lose some of the other features (e-mail, etc.)
+to gain more (and longer) stories.Overall, this is a fun toy, and I would recommend it for the 2-3 age range."
+"I have to update the below -- I gave it to my baby, and despite the fact that it's very very similar to the Text & Learn, she LOVES it and wants it more than the Text & Learn (plus it has some more features than the Text & Learn -- although it's not as easy for little hands to carry).
+At $15, it's a great gift!
+(This is what I had written earlier, before letting her play with it)We already had the Leapfrog Text & Learn, which my (15 month old) daughter has loved for a long time and continues to play with.
+The LeapFrog My Own Story is very duplicative of the Text & Learn (""I is for ice and for igloo"" with the same pictures, etc.
+for each letter).
+This might not be a problem for older children (and indeed may be a benefit), but if the pad is reading you a story and you click another button, it doesn't stop reading -- and you need to be pressing the correct ""paw"" button to make the music work, etc.
+For a younger child who just enjoys pressing buttons at this point, this isn't the best option.
+Also, it's hard to see the screen.
+For someone who doesn't have the Text & Learn already and whose child is older, I think it would be exciting to have the personalized element and the reading benefit.
+At $18-$24 though, it might be better to just spend the extra $ and get a V-Reader ($39 at KMart) and have more longevity (ability to download or buy more stories, etc.)
+-- but of course then there's a greater cost of batteries, cartridges, etc...and VTech customer service is the worst."
+"This is a great addition to LeapFrog's line.
+Here are my thoughts:PACKAGING: Easy to get out of the box.
+Nothing excessive.
+Comes with a USB cord.SETUP: You have to sign up for a parent account and go through about 10-15 minutes of downloads and choosing which options you want on the device.
+It's a simple process and lets you pick which stories, songs, and melodies you want, plus it lets you add your child's name and a couple of personal touches-- their favorite color and food (chosen from a list).
+You can also choose from pre-selected sentiments to ""email"" your child from you or anyone you choose.
+You'll get to have 3 e-mails preloaded on the device with simple sayings like ""You make me so happy"" and ""I can't wait to see you.
+""One down-side is that you can choose only one name, so if you have more than one kid who'd use it, you're out of luck.
+Of course, you can go back and change it later, but just one name at a time.BATTERIES: You can't use rechargeables.
+Requires 3 AAs, and it comes with only ""demo"" batteries.
+There's an auto-shutoff feature if you leave the device on accidentally.APPEARANCE: It's about the size and weight of an e-reader like the Kindle or Nook.
+The actual viewing screen, however, is much smaller.
+The screen is just 2.5 inches wide by 1.5 inches high, and I wish it were bigger than that.
+We could have done without the three characters on top, who don't really have a purpose (they just say things like, ""Let's listen to a story!""
+or ""Let's listen to music!""
+when you press them.SOUND: The speaker is in the back of the device.
+"This Leap Frog Pad is going to be a Christmas present for my grandson.
+My 14 yo daughter and I ""tested"" it.
+Ok, we played with it!
+lol  I knew this would be an exceptional product just due to the fact that it's a Leap Frog product!
+When my daughter was younger she had several Leap Frog educational toys and loved them as well as learned from them.
+This Pad can teach the alphabet, sing songs, tell stories, etc.
+The best feature, in my opinion, is that you can personalize it with your child's name.
+It comes with a USB cord that you use to hook up to your computer.
+From there you go to the Leap Frog site where you can download stories, some you can personalize with your child's name, personalize pretend emails from family and friends, download customizable songs.
+You can also print coloring and activity pages featuring the Leap Frog friends on the pad.
+I think any young child would be thrilled to get this great educational toy!
+Before I give it to my grandson, I'm going to put an ""email"" on it from his Mimi.
+If you are looking for good, durable, fun educational toys for your kids/grandkids, you can't go wrong with Leap Frog!"
+"I have been a fan of LeapFrog's products for some time.
+I already owned the ""My Own Laptop"" when I received this.
+Comparing the two, there is not too much difference.
+Some of the functions such on both are exactly the same.
+And while the graphics are nice, they aren't anything too special.
+(As other reviewers have noted, it would have been nice if there was a color screen.)
+However, it does receive high marks for ease of use and durability.
+(My two and a half year old has whacked it against, tables, chairs, etc.
+and there isn't even a mark on it.)
+Also, it is very easy for a young child to use and has provided hours of fun for my said daughter.
+Overall, not a bad product and unlike a lot of so-called education toys, this one actually does have quite a lot of educational value for a young mind."
+"The Story Time Pad is a sweet device for the 2 to 4 year age group.
+It's a good two-hand held size (about 5"" x 8"" x 2"" deep) and is fairly lightweight.
+Unfortunately, the viewing screen is only 2.5 inches wide by 1.5 inches high, and it would be nice if it were a bit bigger.
+It's also very 80's style black & white pixel, which is probably fine for very young ones, but the older set might be a bit disappointed with the simple styling.
+The letter buttons are chiclet shaped and about .5"" x .75"", possibly a little small for chunky fingers, but very responsive.You can instantly play with the pad by pressing any of the buttons.
+Once it is inactive for a few seconds it will give you a prompt such as ""press a letter button"" or ""let's listen to some music"", etc., guiding you to another activity.
+The sound is good and clear and the characters are friendly as they lead you through stories, music and the alphabet.The story included is fairly short (six ""pages"") and you can load more stories by going online.
+It will hold up to five stories at one time.The music includes twinkle-twinkle, row your boat, and the muffin man tunes.
+There are about twenty songs to choose from and it will hold up to ten songs at one time.The alphabet feature is nice.
+I like that it gives not only the ""aah is for acrobat"" sound, but also the ""ay is for ape"" so children are learning that letters can make more than one sound when used in different words.It also has a message feature with ""e-mails"" you can send, in addition to those sent by the characters.
+It will hold three e-mails at one time.Possible downsides- BATTERIES: The Pad requires 3 AA batteries, and rechargeables cannot be used.
+It does come with ""demo"" batteries.
+The upside of this- There's an auto-shutoff feature.I would consider this a great beginner electronic device.
+It's somewhat educational & entertaining, very easy to use, and seems durable and well made."
+This has been dropped, from the height of about 2 feet, several times and still works great.Yes, the lcd screen is small and 'meh', but seeing as it won't break and offers the right amount of visual to keep my childs attention, I'm not going to complain.The price point is great and for a new reader it's so much fun to have a 'toy' that looks like Mommy's book.The fact that it's so simple to set up and personalize on line is fantastic!!!
+His little face lit up at the use of his name and he really dug the 'emails' he received.If you have a little techie to be in your house, of know a little reader,  this is a great option to get them started!
+"Let me begin with the most important thing, and that is that my son has had this LeapFrog toy for several months, and has enjoyed it thoroughly.
+It's a terrific interactive toy that I know he's going to take advantage of for a long time to come, and his amusement level hasn't waned.
+He's still too young at 2 years, eight months to fully appreciate the catalogue of learning games, but he does clearly benefit from letter recognition and the happy reparte with the device.That said, I've had nothing but difficulty connecting this thing to my computer to get every bit of potential out of this toy.
+My son has another LeapFrom product that he's loved, ""Scout"" the Talking Dog, and I'm not sure if we did something wrong when we connected it to the computer for customization or not, but now, every time I try to link the Story Time Pad to the computer, I have to download the most recent Flash Player again and again and I've had to call their customer service desk twice to help me.
+I may not be THE expert with computers, but I can find my way around alright and 99% of the time I know what I need to do.
+Connecting in this case was an embarrassing, frustrating endeavor.
+I am glad to read that most others have not had the bad time that I've had, but I wonder if the fact that we already had ""Scout"" in our account and on the computer is running interference with My Own Story Time Pad.Now that the bad part is out of the way, at $20, this is a great bargain.
+The Pad helps with the alphabet, sounding out letters and saying words using those letters, and my son likes to use it while he watches Nick Jr. on TV.
+Nice match!
+There are a few stories in the Time Pad that can be personalized to your child's name (the online account will define further goodies such as favorite foods, animals, and such which would be great if one can get past my earlier-mentioned issues!).
+The Story Time Pad / Internet relationship also tells me that there will be further downloadable adventures in the future to look foward to.
+The Story Time Pad also is music-friendly and introduces kids to the basics of e-mail and e-trading (okay, just kidding, but I love those commercials with the little boy who does his own stock trading!
+).The My Own Story Time Pad requires three AA batteries, and they can't be the rechargable type, unfortunately.
+The toy does come with short-lived batteries.
+The speaker is loud and crisp, and the screen, while very small and entirely in pixelly, dot matrix animation, is cute and effective.
+The unit seems to be very sturdily consrtucted, light-weight and fit for a two year old to handle, especially in a carseat.
+"My son is two, almost three years old and I thought this would be perfect for him.
+After a week of him playing with it daily, here are the things I loved about this:*It's educational*It's sturdy.
+It's been dropped more than once and I can't tell.
+*It's the perfect size for his hands*He loves it.
+LOVES it.
+*I like it that I could customize it*I like it that it goes on standby if he doesn't interact with it after about two minutes.
+Saves batteries.
+*His favorite things to do are the ABCs and the music.
+Both he and I like the music selection.
+*It's something he could do by himself, unsupervised, that keeps him busy for a chunk of time.
+Sure beats putting him in front of the TV.Things I did not like:*On the story mode, it says ""Press the arrow to find out what happens next"" after EVERY page, and it doesn't indicate which arrow to press.
+(There are two.)
+My son hates this.
+It's very annoying to me too.
+Out of all the things you can do with this toy, the story time is his least favorite thing.
+*The screen can be hard to see.
+This is actually great for little ones I'm thinking maybe 3 and under as my grandkids over 3 tired of it easily.
+In this day of electronics it will help the little ones sound out words and be entertained by the stories even tho they are prety short.
+It helps them to know they have to pick buttons to make it work which is nice althought the buttons are pretty small so with little fingers touching (they have to press pretty hard for it to work) they can hear their abc's.
+I ordered the LeapFrog My Own Story Time Pad for my two year old son.
+He enjoys playing with the Story Time Pad but it's hard for him to navigate between the different features.
+I think the pad will get more use as he gets older.There is a USB connection on the pad that allows you to connect the pad to your computer and customize the stories and emails for your child.
+The customization process is very easy for anyone who has ever used a computer.The only draw back to the pad is the lack of a color screen.
+If LeapFrog upgraded the screen I think it would hold a toddlers attention longer.Overall, for the sub $30 price the LeapFrog My Own Story Time Pad is an extremely durable and fun toy.

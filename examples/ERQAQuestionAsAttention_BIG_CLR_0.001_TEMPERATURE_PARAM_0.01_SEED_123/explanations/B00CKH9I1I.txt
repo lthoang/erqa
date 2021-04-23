@@ -1,0 +1,183 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Does this work with any tablet?
+Top sentence(s):
+remember that Ipad is needed to do this.
+To me, it's a better solution than giving them real makeup at their ages.
+and you can have a great piece of art to share with friends.
+There is also a wand you can use to do your own make-up, but we didn't make it that far.
+Even the adults tried it as well.
+
+Question attention weights:
+0.2118390053510666,0.2166471630334854,0.22688929736614227,0.08712581545114517,0.25749871134757996
+Sentence attention weights:
+0.0066036866046488285,0.006424600724130869,0.0047121052630245686,0.007550758775323629,0.006564350798726082,0.005328303202986717,0.007802244741469622,0.008008765988051891,0.0062074922025203705,0.007787578739225864,0.00838843546807766,0.008162477985024452,0.006453545298427343,0.007167847827076912,0.003712165169417858,0.007584886625409126,0.005091678351163864,0.004367798566818237,0.0085112564265728,0.008471530862152576,0.006010560318827629,0.006724915001541376,0.008011609315872192,0.006997963413596153,0.006031712517142296,0.004621007479727268,0.005981787107884884,0.005364418029785156,0.004041509702801704,0.007717897184193134,0.008088439702987671,0.006642166990786791,0.007053099572658539,0.005264823790639639,0.006408060900866985,0.007962294854223728,0.006291285157203674,0.007442866452038288,0.008028633892536163,0.004018059466034174,0.0027977339923381805,0.003994119819253683,0.007862112484872341,0.008021753281354904,0.005816509015858173,0.007583799306303263,0.00735856406390667,0.003201945684850216,0.0026744927745312452,0.006396852899342775,0.0033859561663120985,0.0076922522857785225,0.0038109924644231796,0.002796458313241601,0.0049580978229641914,0.004695168696343899,0.006731359753757715,0.005678894929587841,0.005081933923065662,0.0072022248059511185,0.008089118637144566,0.006733375135809183,0.007011774927377701,0.003856135066598654,0.004117698408663273,0.004035586956888437,0.008217844180762768,0.002788238925859332,0.007272483315318823,0.005279324017465115,0.007503621280193329,0.008217844180762768,0.003700798377394676,0.004088961519300938,0.008217844180762768,0.003489876864477992,0.006596445571631193,0.004335811361670494,0.0077336630783975124,0.009736727923154831,0.006458187010139227,0.004240488167852163,0.0065777902491390705,0.007959925569593906,0.007449677679687738,0.00550322188064456,0.004217170644551516,0.0057890950702130795,0.00375695270486176,0.00724068284034729,0.004505507182329893,0.006730570457875729,0.008172589354217052,0.006936831399798393,0.007111479993909597,0.0060851192101836205,0.006332868244498968,0.006950958166271448,0.004984523169696331,0.007884598337113857,0.007683156989514828,0.004923793487250805,0.0070178513415157795,0.009019674733281136,0.0031911463011056185,0.006754160393029451,0.003597463946789503,0.006330032832920551,0.0033885312732309103,0.008878057822585106,0.008130439557135105,0.007501019164919853,0.00816662609577179,0.006869875360280275,0.007986722514033318,0.006954359356313944,0.005499307997524738,0.006726748310029507,0.007681782357394695,0.004904487170279026,0.008474614471197128,0.008114648051559925,0.009140612557530403,0.007501380052417517,0.008515551686286926,0.008853974752128124,0.011659170500934124,0.00844134297221899,0.0029037981294095516,0.005825785454362631,0.007886171340942383,0.006535401102155447,0.007401918061077595,0.006325376685708761,0.004843526054173708,0.008682195097208023,0.0087705934420228,0.008108922280371189,0.007510238327085972,0.007829355075955391,0.007864137180149555,0.004590692464262247,0.004537710454314947,0.007316173519939184,0.005702788010239601,0.004780985414981842,0.0050039649941027164,0.0029459551442414522,0.005146380979567766,0.007175171747803688,0.006013841368257999,0.008436257019639015,0.006157071329653263,0.005446400493383408,0.004795479588210583,0.005715510342270136,0.0035067149437963963,0.003077687229961157
+0.006847988814115524,0.006165661849081516,0.004837954882532358,0.007426126394420862,0.0063384100794792175,0.005665360484272242,0.007700301706790924,0.007790915202349424,0.0063570463098585606,0.007858144119381905,0.008266854099929333,0.007929886691272259,0.0065625817514956,0.006952801253646612,0.003988050855696201,0.007490792777389288,0.005877186544239521,0.004672930110245943,0.008332362398505211,0.007573917508125305,0.005821039900183678,0.006609434727579355,0.00783413928002119,0.006690370384603739,0.006204960867762566,0.004835675936192274,0.006079086568206549,0.0053155566565692425,0.003922369796782732,0.007544812746345997,0.00796909723430872,0.006551529746502638,0.006714958697557449,0.006226647645235062,0.0064755892381072044,0.007742755115032196,0.006540151312947273,0.008523260243237019,0.007754511199891567,0.004152585286647081,0.0029174713417887688,0.0041777086444199085,0.007647404912859201,0.007275809068232775,0.005552030634135008,0.007558546960353851,0.00698931235820055,0.003415699815377593,0.0028933791909366846,0.0057444158010184765,0.003324285615235567,0.007495330646634102,0.004261568654328585,0.002963288687169552,0.005520799662917852,0.0045393481850624084,0.007221173495054245,0.006869792472571135,0.0054511819034814835,0.006968366447836161,0.008276918902993202,0.006763669662177563,0.008256567642092705,0.004173243883997202,0.004411402624100447,0.0043878816068172455,0.007961682043969631,0.003088160417973995,0.006682285573333502,0.005274164490401745,0.007073781918734312,0.007961682043969631,0.003806878114119172,0.004065020941197872,0.007961682043969631,0.0036687140818685293,0.005931031424552202,0.00432706531137228,0.00744281243532896,0.009977815672755241,0.0071368226781487465,0.004504671785980463,0.0065285335294902325,0.007738498970866203,0.0074019539169967175,0.0053717391565442085,0.004112267401069403,0.0059409537352621555,0.0037943683564662933,0.0073160757310688496,0.0048175109550356865,0.006087632849812508,0.008508465252816677,0.006752565503120422,0.006960576865822077,0.005799933336675167,0.006729321554303169,0.006695213727653027,0.004810974933207035,0.007638293784111738,0.0075792898423969746,0.004693036898970604,0.0067522418685257435,0.008384316228330135,0.0033129185903817415,0.007354419212788343,0.0037971443962305784,0.006581418216228485,0.003358962247148156,0.009070966392755508,0.007915346883237362,0.007319855969399214,0.007895998656749725,0.006894404999911785,0.00783935934305191,0.0067994012497365475,0.006060951855033636,0.006683172658085823,0.007724056951701641,0.00498046912252903,0.008185829035937786,0.007888900116086006,0.008810121566057205,0.007089889142662287,0.008784061297774315,0.009720546193420887,0.011823874898254871,0.008233153261244297,0.003212100826203823,0.005793086718767881,0.007687821984291077,0.006580469198524952,0.007136886939406395,0.00613207183778286,0.005042792297899723,0.00807146355509758,0.008451426401734352,0.007959045469760895,0.007387575227767229,0.007626746781170368,0.007610219065099955,0.0046495296992361546,0.004576893523335457,0.007015034090727568,0.0057506863959133625,0.0048960004933178425,0.0053313663229346275,0.003348554717376828,0.005215573590248823,0.006937588099390268,0.005635703913867474,0.008015554398298264,0.006193850189447403,0.005550296977162361,0.005099933128803968,0.005994794890284538,0.0033927392214536667,0.0031004634220153093
+0.006596665363758802,0.006323907058686018,0.004458864685148001,0.007743710186332464,0.006484349258244038,0.005256415344774723,0.007962272502481937,0.008148412220180035,0.006116990465670824,0.007941744290292263,0.008654371835291386,0.008322801440954208,0.00642904220148921,0.0071494439616799355,0.00356636312790215,0.00757960369810462,0.0050749103538692,0.004131446126848459,0.008770360611379147,0.00847044587135315,0.00575420493260026,0.006575088482350111,0.008183729834854603,0.007002527825534344,0.006088280119001865,0.004590470343828201,0.005976049229502678,0.0052720909006893635,0.0036823777481913567,0.007824556902050972,0.00825602374970913,0.006710181478410959,0.006984867621213198,0.0055014085955917835,0.006422616541385651,0.008086993359029293,0.006387509871274233,0.007874376140534878,0.008070062845945358,0.003862648271024227,0.0025622439570724964,0.0038167492020875216,0.007985294796526432,0.0081357192248106,0.005634438246488571,0.007684024050831795,0.007384426426142454,0.002970129018649459,0.002426639199256897,0.006318471860140562,0.0030656547751277685,0.007793460041284561,0.0036301552318036556,0.002490955637767911,0.00483468035236001,0.004429705440998077,0.006925559137016535,0.005995808634907007,0.0050040422938764095,0.007207625545561314,0.008419849909842014,0.006797737907618284,0.007536092307418585,0.0035317586734890938,0.00380938989110291,0.003770872252061963,0.008393571712076664,0.002610071562230587,0.007336582988500595,0.005110046826303005,0.007458509411662817,0.008393571712076664,0.0035092653706669807,0.0037485752254724503,0.008393571712076664,0.0033405558206140995,0.0062553114257752895,0.004174746107310057,0.007781688589602709,0.010410766117274761,0.006627548020333052,0.003976889420300722,0.006347132381051779,0.008097955957055092,0.0076299565844237804,0.005321151111274958,0.003958783578127623,0.005796316545456648,0.0034484299831092358,0.00733930291607976,0.004314288031309843,0.0064033023081719875,0.0085586067289114,0.006937421392649412,0.007112620398402214,0.005977247841656208,0.006620065309107304,0.006877736654132605,0.004904887173324823,0.008005623705685139,0.0078035444021224976,0.004590168595314026,0.007082856260240078,0.009344387799501419,0.0028655154164880514,0.006883535534143448,0.0033922307193279266,0.006489980034530163,0.0030668077524751425,0.00943946372717619,0.008297155611217022,0.007541573606431484,0.008316652849316597,0.006944635417312384,0.008155486546456814,0.006881281267851591,0.00560549832880497,0.006831980310380459,0.007895208895206451,0.004804403055459261,0.008659944869577885,0.008273827843368053,0.009378695860505104,0.007602696772664785,0.008760831318795681,0.009199250489473343,0.012580792419612408,0.008676721714437008,0.00259565282613039,0.005821181461215019,0.007993699982762337,0.006555076688528061,0.0074330884963274,0.006216851994395256,0.004652832169085741,0.008887325413525105,0.00898454338312149,0.008266616612672806,0.00760359363630414,0.00794526468962431,0.007999815046787262,0.004414478316903114,0.004127638414502144,0.0073383878916502,0.005666038952767849,0.004590014927089214,0.004806010518223047,0.0028124384116381407,0.004932246636599302,0.007166886702179909,0.005820089019834995,0.008623361587524414,0.006229122169315815,0.00526734022423625,0.004574216902256012,0.005734049249440432,0.0032440433278679848,0.0027112732641398907
+0.006312272045761347,0.005948642268776894,0.0045761838555336,0.00748946238309145,0.006292260251939297,0.004762853961437941,0.0076045989990234375,0.007605400867760181,0.005952035076916218,0.008071047253906727,0.007942784577608109,0.007653093431144953,0.00783371552824974,0.0069541335105896,0.003901747753843665,0.0075089214369654655,0.005348158534616232,0.003795404452830553,0.008005714043974876,0.008320560678839684,0.005462178960442543,0.006135571748018265,0.007645223755389452,0.006773477420210838,0.006142507307231426,0.005679711699485779,0.005982196424156427,0.005441688001155853,0.004265810828655958,0.007347312290221453,0.006658336613327265,0.006410842761397362,0.006832387764006853,0.006227579899132252,0.006265581119805574,0.007560674101114273,0.006520481780171394,0.0072165182791650295,0.007635575253516436,0.004675296600908041,0.002997063100337982,0.004556617233902216,0.007470782846212387,0.00889941118657589,0.00520083075389266,0.007194859441369772,0.0071496060118079185,0.00407412089407444,0.0028714672662317753,0.006780323106795549,0.004194038454443216,0.0072103808633983135,0.0035804184153676033,0.003724269336089492,0.006443799939006567,0.0050150249153375626,0.006868092343211174,0.007569178473204374,0.006599029991775751,0.0068960669450461864,0.00867112074047327,0.006202285178005695,0.008060389198362827,0.004316483624279499,0.0049608503468334675,0.003753839060664177,0.007829048670828342,0.003376944921910763,0.007031181827187538,0.0051030004397034645,0.007099343929439783,0.007829048670828342,0.004224658943712711,0.004127507098019123,0.007829048670828342,0.005375097971409559,0.005071293096989393,0.005614066496491432,0.007829266600310802,0.009155310690402985,0.006658568046987057,0.004113773815333843,0.005397660192102194,0.007481408305466175,0.0072019328363239765,0.005683405324816704,0.004431641194969416,0.005533311516046524,0.004474254325032234,0.00806182250380516,0.0044470918364822865,0.005717774853110313,0.008614589460194111,0.006639620754867792,0.00721481628715992,0.006207004655152559,0.006112295668572187,0.006465193349868059,0.005169912241399288,0.007489802781492472,0.007498948834836483,0.0047021666541695595,0.007412930019199848,0.01000253390520811,0.003916933201253414,0.006349216215312481,0.0035071861930191517,0.007512574549764395,0.004481423180550337,0.008607335388660431,0.007751424331218004,0.007391616702079773,0.007940285839140415,0.006696806754916906,0.00764895835891366,0.0067461393773555756,0.006365501321852207,0.007412003818899393,0.007705647498369217,0.006125159095972776,0.0077815912663936615,0.0077721006236970425,0.008460861630737782,0.007849072106182575,0.008598539046943188,0.007698073983192444,0.009891396388411522,0.007953373715281487,0.0026091504842042923,0.006151906214654446,0.0074827587231993675,0.006832487415522337,0.006968488451093435,0.005961582064628601,0.004700894001871347,0.00840623676776886,0.007970284670591354,0.007865547202527523,0.007127978838980198,0.007393342908471823,0.007762634661048651,0.004817532375454903,0.003895600326359272,0.006950391922146082,0.0052212877199053764,0.00500858947634697,0.00442059151828289,0.0030630058608949184,0.0053967577405273914,0.006858904846012592,0.006132656708359718,0.007882297039031982,0.006589495111256838,0.006079861894249916,0.004496677778661251,0.005525991786271334,0.003781061852350831,0.004237228073179722
+0.006691340822726488,0.006268338765949011,0.00462165754288435,0.007608264219015837,0.006448631174862385,0.005484023597091436,0.007934555411338806,0.00809287279844284,0.006292632780969143,0.007905458100140095,0.008576896041631699,0.008263989351689816,0.006285061128437519,0.007130817510187626,0.003699846798554063,0.007627116981893778,0.005432474426925182,0.00439045112580061,0.008695363998413086,0.008161400444805622,0.0058046188205480576,0.006655758246779442,0.008117759600281715,0.006915756966918707,0.006127476692199707,0.00448954850435257,0.006019014865159988,0.005244694650173187,0.0037166934926062822,0.007789905648678541,0.008354025892913342,0.006692128721624613,0.006919636856764555,0.005678954534232616,0.0064798747189342976,0.008031466044485569,0.006468075327575207,0.008247115649282932,0.007989266887307167,0.003850108478218317,0.0026265301275998354,0.0038443775847554207,0.007937491871416569,0.007676922716200352,0.005641968920826912,0.007721953559666872,0.007235853932797909,0.0030265916138887405,0.0024888175539672375,0.005983392708003521,0.003001145087182522,0.007775743957608938,0.0038946683052927256,0.002499530790373683,0.004967088811099529,0.004411371424794197,0.0070914896205067635,0.006144256331026554,0.0049713593907654285,0.007171889301389456,0.008333212696015835,0.006880512461066246,0.007670121267437935,0.0036868308670818806,0.003923897165805101,0.003982094116508961,0.008315041661262512,0.0026501109823584557,0.007069488987326622,0.005166556686162949,0.007388004567474127,0.008315041661262512,0.0035021952353417873,0.0038353786803781986,0.008315041661262512,0.0031986741814762354,0.0062900870107114315,0.004066376946866512,0.00762522267177701,0.010310999117791653,0.006818078923970461,0.004103482700884342,0.0065767052583396435,0.008042820729315281,0.007621756289154291,0.005336198024451733,0.0039024553261697292,0.0058227041736245155,0.0034510211553424597,0.007297271862626076,0.0044717201963067055,0.006407704204320908,0.008519712835550308,0.006907267030328512,0.007036255206912756,0.005864158738404512,0.006724093109369278,0.0068894741125404835,0.004740406293421984,0.007945723831653595,0.007788211572915316,0.004670735448598862,0.006866807583719492,0.008810981176793575,0.0028938320465385914,0.007135036867111921,0.0035225495230406523,0.006353888660669327,0.003029263811185956,0.009333054535090923,0.00823584757745266,0.007488112896680832,0.008212047629058361,0.006931557320058346,0.008115766569972038,0.006918345112353563,0.0055503943003714085,0.006717673037201166,0.007869737222790718,0.004674248397350311,0.008606254123151302,0.008206245489418507,0.009298725984990597,0.007357591297477484,0.008842234499752522,0.009688596241176128,0.012542026117444038,0.008601429872214794,0.002810227917507291,0.005766268819570541,0.00795479491353035,0.006512434221804142,0.007367567624896765,0.006179035175591707,0.004852300509810448,0.008629259653389454,0.008930323645472527,0.008208848536014557,0.007597497198730707,0.007907128892838955,0.007884987629950047,0.004498585127294064,0.004377522971481085,0.007214531768113375,0.005656543653458357,0.004657329525798559,0.0050432258285582066,0.003008923726156354,0.005031599197536707,0.007133916951715946,0.005724686663597822,0.0084905494004488,0.006190363317728043,0.005261309910565615,0.0047541419044137,0.0058692884631454945,0.0031928131356835365,0.0027134185656905174
+Questions:
+I purchased this a few days ago and just delivered to my home in Hong Kong. However, my iPad air cannot detect the console by blue tooth.
+I have two i pads one is I think a third generation and the other is a i pad air.  Neither of them fit into the mirror part.  They are both too big.  I see reviews that say it isn't designed for the mini.  Do any of them fit into the mirror part?  Can it be set up and work with out fitting into the mirror?  Help!
+Does this work with any tablet?
+Will this work with the kindle fire hd6
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+"My girls were initially VERY excited when they opened the package to try this mirror.
+But we had some user compatibility issues that occurred which quickly left them deflated.
+For me, this toy requires adulat supervision because leaving the IPAD unsupervised with the kids is definitely not an option.
+It was a fun toy, but the novelty of it quickly wore off.
+I think there are things about this toy that COULD make it more user friendly.
+For a toy that carries the ""Barbie"" name and reputation I would expect more from this product--feels a bit cheap and lacks ingenuity."
+Several reviewers seemed to be able to get this product to work well.
+Good for them.
+I couldn&#8217;t get it to work right.
+The facial recognition technology worked a little with the pre-done &#8220;ready-to-wear glam looks&#8221; but these looked more like Mardi Gras or carnival costumes.
+They didn&#8217;t at all look like real makeup looks.
+They were ridiculously over the top.
+When you move your lips, your eyes pop like a cartoon character.
+And while this was fun and funny for a little while, the novelty wore off quickly.
+As for the customizable make-up, we couldn&#8217;t get it to work even a little.
+Before you buy this, download the app and give it a try.
+It won&#8217;t give you the full experience, but it will give you a little bit of an idea of what to expect.
+I would give this zero stars if I could.
+This is an awesome toy!
+Why the caution?
+One reason, make sure you have an I-Pad or there is no reason to purchase it.
+The I-Pad is how the whole toy works.
+It is really neat how it takes a picture of the person who wants to put make-up on them self digitally.
+A wand is provided to touch the type of make up and color to apply.
+The technology on this is through the roof!
+"My daughter could not wait to play with ""The Barbie Digital Makeover Mirror.""
+Yes, you have to remove your Otter Box or any other protective cover to insert this in the stand.
+Common sense and supervision will keep your iPad from damage.
+It takes AA batteries for the ""lights"" to work.
+In order for the lights to work and everything else, you also have to be paired with your Bluetooth connectivity.
+You have to download the App from the iTunes store.
+You take a picture of yourself with your iPad camera and off you go.
+Unfortunately, this toy does not perform well due to the Bluetooth constantly losing connection.
+The facial tracking works somewhat for the ""demo"" makeup, but not when you try to put your own makeup on.
+When you move your head, the makeup does not stay in place like they lead you to believe.
+Half the time, the make up wand does not work to pick up the colors and you have to go back and try all over again.
+This ended up leaving my daughter all frustrated and she has not played with it since.
+We did have a few good laughs with this initially, because the ""demo"" makeup is really funny and my son was using it and making crazy facial expressions.
+I think the price tag is way too high and the product way too glitchy for me to recommend this."
+You don&#8217;t have to have a young Barbie fan for them to enjoy this makeup console.
+Any young lady who is interested in makeup will love working with the Barbie Digital Makeup console sans the mess.
+Looking like anything from a princess to a movie star is just at the tip of the Applicator wand.
+Don&#8217;t like the look?
+Simply step away from the front of the console, use the virtual cotton swab or washcloth and begin again.
+It&#8217;s just that easy.First, before you can even start, you need to pair this with your iPad.
+Most Bluetooth devices assume that you know how to do it, but not everyone does.
+Complete instructions, including visuals, are included in the instructions.
+If you can find your settings icon, you can set up the Barbie Digital Makeup console.
+Once you have paired a notification will pop up and you&#8217;ll be able to head to the App Store to download the free Barbie Digital Makeover app (you simply type in in the search).The console assembly is very quick and easy.
+If you have an iPad mini there is a plastic adapter included.
+Once you slip your iPad in the frame, secure the latch, and get the iPad to recognize the applicator wand, you&#8217;re good to go.
+The nice thing is that the frame can be tilted.
+There are tutorials the young makeup artist can watch right on the screen.
+Loads of fun for teens and `tweens who want to use makeup!WHAT&#8217;S IN THE BOX:&#9788; 1 Frame&#9788; 1 Console&#9788; 1 Applicator Want&#9788; 1 iPad mini Adapter&#9788; InstructionsFEATURES:&#9658; Enjoy a make-up free makeover with the Barbie Digital Makeover&#9658; Transform an iPad into a digital mirror by sliding it into the vanity frame&#9658; Simply look into the mirror and select options like eye shadow, lipstick, color and glitter&#9658; Facial tracking technology keeps the digital makeup in place as the girl moves, just like she&#8217;s really wearing it&#9658; Girls can make a digital scrapbook of their favorite makeover looksCOMPATIBILITY:iPad 2, iPad (3rd and 4th generations), and iPad mini
+"Maybe I'm getting tired of handing over my technology to children (my iPad for LeapFrog Mr. Pencil product, my iPhone for the LeapFrog ""camera,"" and now this Barbie ""mirror""), but this particular toy just seemed to ""miss the mark.
+""Let's start with the price.
+While it has dropped a bit over the past several weeks, it still seems surprisingly ""pricey"" for what one receives (a plastic frame for your iPad).
+Maybe if it were something truly impressive, genuinely educational, or wildly captivating, it wouldn't seem so painful ... but, in this instance, it was played with for about twenty minutes and then left behind.Theoretically speaking, I do like the fact that my makeup stays safely tucked away in the bathroom.
+And, yes, it is great that clean-up isn't even an issue.
+And, certainly, the picture capability is fun.
+But, in all honesty, I think this toy is going to end up under the bed, occasionally brought out to show a friend, but that's about it.
+I would be entirely okay with this if the ""mirror"" were around $30.00, but anything more feels a little too expensive for what one receives."
+"From the makers of ""Barbie and Her Sisters in a Pony Tale Train and Ride Horse Playset"", a toy that allows Barbie to wirelessly command her horse to walk, stop, bow using hand signals, comes the ""Barbie Digital Makeover Mirror"", a Bluetooth enabled toy that works with Apple iPad 2 & above to allow girls to do a virtual makeover.
+This latest generation of Barbie toys are high tech and compelling.The idea behind this toy is that you load the Barbie Digital Makeover app (free on iTunes) onto your iPad, make sure Bluetooth is turned on, then drop your iPad 2 or above (due to the need for front facing camera) into the back of the mirror frame.
+You will need to add batteries (sold separately) for the frame to use for its border lights and to power the Bluetooth.
+The iPad app will automatically prompt you to make the Bluetooth connection between the iPad and the Mirror.
+Why Bluetooth?
+That is how the Mirror communicates to your iPad which virtual makeover things you are doing so they can be displayed on the iPad screen, almost as if you are looking into a mirror.
+After that you use a makeup brush to touch various makeups and lipsticks to virtually apply them to your face.
+That's one of the best features, no mess.The feedback from my 10 year old daughter on this toy is that it is a cool toy that is fun & easy to use.
+She is able to take the iPad 3 that we have out of its case, drop it into the back of the Mirror frame, turn it on, and start using the app.
+Works perfectly every time.
+She can do a makeover, which includes eyes, lips and cheeks, and even add glasses or a bow for her hair.
+Then she can snap a picture of it and do further editing work such as adding a border, a background or stickers, and then save it to the iPad photo gallery.
+Pretty neat.
+I've seen the end product of a few of these and they turn out great!We have noticed that she uses it for a max of about 30 minutes at a time, which is great because we give our children no more than 30 minutes of iPad time per day.The Mirror isn't very smooth at first until you learn how to work with it.
+It's important to keep your face still and in the proper location for it to work effectively.
+Also, sometimes there is a little bit of lag between what you are virtually brushing on your face, and it showing up on the iPad.
+OK - my girls begged me for this.
+To me, it's a better solution than giving them real makeup at their ages.
+It's nice that it works with iPads and iPad minis.
+The software for it is a free download, and the unit itself connects over bluetooth.Here's the issue for me: if you have any kind of case on your iPad (and who doesn't?)
+it isn't going to fit into the holder.
+The fit is snug.
+I wish they had some other mechanism.
+The kids aren't going to take the cover on and off every time they want to play with this, so they'll leave the cover off.
+This means the iPad is at higher risk for damage.They do like playing with it, though it's of questionable educational value.
+This is an amazing toy, but I think it will have limited replay value.
+It would be great for a party or sleepover for younger kids, since everyone wants to play with it once or twice, but only die hard make up fans are going to be asking for your iPad for more than a week or two.How it works:  You download the app onto an iPad, slide the pad into the frame, set it to recognize your face, and then the app shows you your face.
+By tapping a plastic make-up stick onto various makeups in the tray, then touching your face, you can add blush, eye shadow, accessories, etc., in various colors, including a set of sparkling glitter colors.
+As you move your face and change expressions, the makeup moves with you on the screen.How well it works:  Well, to paraphrase Samuel Johnson, it's not that this app simulates makeup well, but I was impressed that it could do it at all.
+No one in our test group could get the make up to look any more subtle than a sort of &#34;clown&#34; look, and while the make up did follow our faces as we moved, it didn't do so flawlessly.Did we have fun?
+Yes, both the adults and our eight year old - lots of fun, for several minutes each.
+However, after that, our girls haven't asked to play with the make up kit again.
+Mildly recommended, but only if you have a lot of people to try it, or if you think it will have staying power for your young ones.
+My niece loved this she is very much the girly girl with dress up and make up as well as plenty of hairstyles so it is loads of fun for her.
+Her mom appreciates it as well, she can play with makeup all day long, without the massive clownish mess.
+It's is extremely user friendly's which is great considering it is geared towards kids.
+It truly is a hit for any little princess with access to an ipad.
+There other apps/upgrades as well.
+Lastly they can save their work as well.
+Great little fun item for young girls interested in makeup/art.There are no real negatives other than keeping them stationary as much as possibly it has been know to slip out from time to time.
+"This is an amazing toy.
+There are two parts, both pink and white plastic, that fit together to make a 'mirror' and a make-up pallet.
+You insert the iPad into the back and drop down a plastic 'snap' that holds the iPad in place.
+Once you've downloaded the app, the fun begins.
+The camera on the iPad 'locks' in the person's face.
+Then, you can automatically insert pre-made eye shadows and lipstick.
+You can add ribbons and bows, take the picture, and upload it to Facebook or your website.
+There is also a wand you can use to do your own make-up, but we didn't make it that far.
+We adults had as much fun as the kids.
+It is easy to use, fun, and well, even the boys got involved.
+Everything was wonderful until....""Daddy!""
+My granddaughter stood in the kitchen door, tears streaming down her face.
+""What's the matter?
+""""It broke.""
+Instead of the pallet or mirror, my granddaughter held up her father's iPad.
+Needle-like shards of glass just missed her fingers.
+My daughter has even using this when she goes babysitting and the little 5 year old loves it.
+However, she quit taking it with her because the case around this is so flimsy that she started worrying about the little girl breaking her iPad.PROS1- it is fun to use2- a lot less messy than makeup kits3- app is freeCONS1- I think it will lose its appeal after a few weeks2- case is really flimsy and cheap plastic3- only works with iPadAlthough this is a cute little toy, it is very cheaply made.
+For the price, I don't think I would recommend.
+over the Holiday the kids had a blast with trying to make  themselves over.
+Even the adults tried it as well.
+Whats good about it , there is no mess what so ever.
+easy to set up just push the colors you want and make yourself a princess and then its to the printer.
+and you can have a great piece of art to share with friends.
+remember that Ipad is needed to do this.
+great product for tweens,
+Made for iPad (4th generation), iPad mini, iPad (3rd generation), and iPad 2 (iOS 6.0 or higher required)  I wish this was compatible with the Kindle Fire, it would make life much easier!
+Having said that, it is a lot of fun for little girls, but mine prefers to put on actual makeup.
+First of all, make sure an ipad is available.
+This works great with our Apple.
+Our 8 year old girl loves trying new looks.
+She would spend all her time with anything I pad related (if she is allowed).
+She also likes Barbie and things related to Barbie.
+Put the 2 together and she can't stop humming.
+What a neat idea!
+This is a really neat product that even my 12-year-old daughter has fun with.
+I babysit 2 girls aged 4 and 8 and they love this.
+It's very easy for all of them to use.
+They have fun taking their pictures and saving them.
+It's so neat how they can move around in front of the camera and the makeup and accessories move right along with them.
+They can make different expression and the makeup will adjust to whatever they are doing.
+It's pretty incredible.The best part is that there are so many options from colors to accessories and much more.
+There's non-stop fun to be had.
+I like the fact that they don't have to actually touch the wand to their face.
+I worry about germs so it's nice that everyone doesn't have to touch it to their lips and stuff.Pretty much the only issue that we've run across is an issue with lag (a delay) at times.
+We have a fast internet connection but every now and then there will be a bit of a delay where the makeup isn't lining up the way it should.
+It will straighten out after a few seconds usually but it happens a bit more frequently than it should.
+Also at times the kids will go to apply the makeup and nothing will happen.
+It's not so bad that I wouldn't recommend the product because it does work most of the time and when it's working perfectly it's an amazing product that the kids love.I think this is a really neat item that any girl aged 4-12 would have fun with.
+I would recommend it.
+"Actually I feel it is 3.5 stars but that isn't an option on AmazonFirst, a warning.
+All of these ""toys"" that involve using your iPhone/iPad/iPod Touch carry the risk of damaging the device.
+This happens because the normal protect case/covering you keep it inside must be removed before use and re-applied afterwards.Anytime you handle such a fragile item without a case, you are taking a risk.
+These toys have feedbacks to prove this (including this one where a customer's daughter broke her iPad).
+PLEASE require kids do not move these toys and you, not your child, should remove the case and install/remove the devices always.+ Actual ""game play"" is quite fun and even adults enjoy playing with it.+ Good game play for groups of girls, even sleepover activity worthy.+ App seems to work well.+ Fun concept and use of existing iPad helps keep cost down.+ Good value depending on actual market selling price.+/- Requires AA batteries which are not included.+/- Requires an iPad or iPad Mini (but I only recommend using a full sized iPad)+/- Does not support first gen iPad.+/- Requires you access iTunes to download the APP.+/- Requires you pair the bluetooth device.- Requires you remove any case/skin before inserting the iPad.- Works with iPad Mini but is really designed for a full sized iPad.
+I do not recommend it for iPad Mini.- Lights should be brighter, they are more of a prop instead of being useful.- Makeup brush isn't touch screen compatible like you expect it to be.- Case/Frame build quality is disappointing.- Does not feel like it is a good value at list price.Overall, I feel it is a decent product but really needs to be better made to warrant the asking price set by Mattel."

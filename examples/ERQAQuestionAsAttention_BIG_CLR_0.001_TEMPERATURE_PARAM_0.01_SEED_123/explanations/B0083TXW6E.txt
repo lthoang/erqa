@@ -1,0 +1,234 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+The boys were not impressed.
+He loves that they spin all over the stadium(and they do).
+Those things will spin for very long periods of time if you spin them on a flat surface.
+He opened the box and put it all together, and said, ""Daddy, can you help me, I think I did something wrong.""
+I think this is overpriced.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.007742842193692923,0.005444542039185762,0.00424999138340354,0.007204256020486355,0.005602789111435413,0.00517433462664485,0.004751117434352636,0.006579854525625706,0.0068588657304644585,0.003877678420394659,0.004594572354108095,0.003101701382547617,0.004717186093330383,0.0016453828429803252,0.0027828235179185867,0.0033726580440998077,0.006465019658207893,0.001967216841876507,0.003904645796865225,0.002605185378342867,0.0039075943641364574,0.006629297509789467,0.0025514503940939903,0.0021622637286782265,0.0027264428790658712,0.005605306476354599,0.008028320036828518,0.0058773355558514595,0.005776008125394583,0.006521272473037243,0.004183290060609579,0.007209587376564741,0.006294383201748133,0.0028278937097638845,0.005801811348646879,0.0026272903196513653,0.002479131333529949,0.00608091801404953,0.006690680980682373,0.006690680980682373,0.0056902519427239895,0.0026562914717942476,0.0023950887843966484,0.0045944941230118275,0.002281541470438242,0.00353675102815032,0.0068321856670081615,0.006114492192864418,0.0048525030724704266,0.0035797248128801584,0.003120905254036188,0.00272170826792717,0.0026240567676723003,0.0021234590094536543,0.005056595429778099,0.006252787541598082,0.004791248124092817,0.002950180321931839,0.007294296752661467,0.006141397636383772,0.002736669732257724,0.0028552361764013767,0.00195978838019073,0.004912522621452808,0.008059298619627953,0.003822165774181485,0.006367701105773449,0.006246357690542936,0.0022010616958141327,0.0028296676464378834,0.005576401948928833,0.007094529457390308,0.006858121603727341,0.007190254051238298,0.002678445540368557,0.005092147272080183,0.003468017792329192,0.002915620803833008,0.004971685819327831,0.004177920985966921,0.004419911187142134,0.004358050879091024,0.002373223891481757,0.003307964187115431,0.002206663368269801,0.0031837336719036102,0.00511878402903676,0.0053842514753341675,0.0025918781757354736,0.0019406136125326157,0.0027020208071917295,0.0030902372673153877,0.00652799429371953,0.006392380688339472,0.0019211347680538893,0.0026881606318056583,0.0023642899468541145,0.0033179279416799545,0.0034274200443178415,0.002713380614295602,0.0049387249164283276,0.002798374742269516,0.00666903518140316,0.0026982217095792294,0.006302486639469862,0.00426433514803648,0.006016158498823643,0.0027424239087849855,0.003120336914435029,0.003981668036431074,0.0019648780580610037,0.0019304994493722916,0.0025326614268124104,0.0032109012827277184,0.00531335175037384,0.0033975201658904552,0.0031147783156484365,0.004187841899693012,0.00591844879090786,0.005266031250357628,0.003282484132796526,0.005822287872433662,0.0025701646227389574,0.0040341024287045,0.0021397406235337257,0.006469860207289457,0.007549016270786524,0.006357303820550442,0.0028631871100515127,0.006610424257814884,0.004704557824879885,0.0037141807842999697,0.00593510502949357,0.00455169752240181,0.005316474474966526,0.006956461351364851,0.0028745094314217567,0.005996680352836847,0.006395962554961443,0.005978573579341173,0.005428482312709093,0.003999403677880764,0.00479723047465086,0.004390588030219078,0.00669030100107193,0.004446950275450945,0.0051915617659688,0.005398275330662727,0.0041096885688602924,0.0038974222261458635,0.005671229213476181,0.002882910892367363,0.003975092899054289,0.007613547146320343,0.007947108708322048,0.0063673653639853,0.002584878820925951,0.005234295967966318,0.006801533978432417,0.006616643629968166,0.002318160142749548,0.004197987727820873,0.004600983578711748,0.00372035033069551,0.0025615983176976442,0.0031124562956392765,0.0070265489630401134,0.008703083731234074,0.006899734493345022,0.0025170196313410997,0.0050875782035291195,0.0028667631559073925,0.005030978471040726,0.004444283898919821,0.0036988845095038414,0.006750876549631357,0.004723852500319481,0.006744321435689926,0.0033624758943915367,0.00583284068852663,0.00622266810387373,0.004581388086080551,0.0037497670855373144,0.00603808369487524,0.003702092682942748,0.005902642849832773,0.0058284844271838665,0.003700735978782177,0.006116614677011967,0.006713475100696087,0.006526004057377577,0.0038936445489525795,0.006782591808587313,0.005526404827833176,0.0050797611474990845,0.0034333106596022844,0.006713475100696087,0.0018082178430631757,0.0035830968990921974,0.0026796492747962475,0.0019284664886072278,0.0025940295308828354,0.0022678531240671873,0.006980886682868004,0.0024940313305705786,0.007021628320217133,0.0073285894468426704,0.006790331099182367,0.006235003005713224,0.006980886682868004,0.0044426568783819675,0.0017978003015741706,0.006900565233081579,0.0037973446305841208,0.004263992886990309,0.0016862743068486452,0.004851688630878925,0.003351893275976181
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+I think this is overpriced.
+The dome isn't really flimsy but it isn't sturdy either.
+It is fun for a while and then the boys chose to play with the Beyblades outside of the dome.
+They return to using the dome from time to time however.
+Overall, I would have to say this is just an OK value.
+If it were more realistically priced it would be a better value.
+Unless you have someone addicted to Beyblades, I would pass on this product.
+On second thought, if they are addicted they will probably find this a bit lame anyway.
+The packaging makes this toy look fantastic.
+My eight-year-old daughter is a big fan of Beyblade.
+She already owns several of the tops, along with a red arena.
+When we came across this toy at our local Target, she immediately latched onto it and wanted to blow all of the allowance money she'd saved up on it, but I managed to talk her out of the purchase.
+Now that we've had the chance to use this product, I'm really glad that I did--and, amazingly, so is she.Assembly of this toy is pretty straight forward.
+You put the two halves of the dome together, connect it to the black base, and slap the stickers on it.
+A plastic disk is included, and the dome can be set on top of the disk so that the Beyblades don't fall through the bottom.
+This is meant to help train the user on how to properly launch the toys.
+My daughter felt it was pretty lame, and she was pretty much right.
+Once the tops hit the bottom of the dome, they're more or less done.After several attempts, my daughter was able to correctly launch the tops.
+They zoom around the dome, which is kind of interesting to look at, but she was pretty indifferent to it after a few launches.
+My three-year-old was more entertained by it, so my daughter ended up launching them mostly for his benefit.A couple of days after it arrived, my daughter told me that I was right, the toy was cheap and she was glad she hadn't bought it, much to my amazement.
+Unsurprisingly, she's attracted to all the advertising she sees on TV, and this was one of the first times she realized that what she saw and what she ultimately got aren't the same thing.
+She told me that she likes the Beyblades, but that she didn't think the toy was worth it.And she's right.
+The dome itself is made of flimsy, paper-thin plastic that I have no doubt would crack with very little abuse.
+It's the kind of plastic that, if you put a fingertip to it and apply slight pressure, will bow in, if that gives you any idea of how poorly constructed it is.
+I once had a hamster and a hamster ball, and the construction of that ball had a quality level of approximately 100 times the quality level of this toy.
+Let me start off with the positives-- the tops included in this set (two five piece tops) are wicked cool.
+Those things will spin for very long periods of time if you spin them on a flat surface.
+They also have a nice weight to them.
+They look like solid products that any boy or girl would want on hand for those 'down times' when they just want to see something spin!
+The idea is neat.
+It would be awesome to actually figure out how to get the tops to do more than, say, land in the bottom of the dome, but that must take a lot of practice, from what I can see!The cons?
+Oh boy, there are many.
+To start with, the instructions are confusing.
+Furthermore, the actual dome is a bit flimsy and poorly designed.
+The ripcord came out of the box bent instead of straight, making it harder to get a good tug on it.
+Last, the ripcord holder (that holds the tops) doesn't always work.
+Multiple times, I would set the top in the ripcord holder, turn it as instructed, and the top would simply fall out of the holder.I actually wouldn't recommend this toy to anyone unless they're a huge beyblade fan.
+The tops are totally worth it, even if they occasionally have problems.
+They spin really well.
+The rest of the set?
+It's just a bit too flimsy for me to recommend!
+"Before this arrived, but after ordering it, I read the reviews here and everyone was talking about how cheap and flimsy the construction was, how poorly it worked, etc., so needless to say I was a bit worried.But honestly there's nothing wrong with this set at all!The dome is relatively thin plastic, sure, but it's strong and rigid and not anything like a ""plastic drink bottle"" as I think one reviewer described it.
+If I hadn't read all the negative reviews I don't think it would have occurred to me to comment on the thickness of the plastic, as it's completely adequate for this application.As far as how well it works, it seems to be at least as good (probably better) than most of the ""battle tops"" stuff.
+Sure, there's a big chance that you drop both spinning tops into the dome and they mostly just go ""plunk"" and lay on the bottom spinning down.
+But every few tries you can actually get the two tops racing around the dome, and you can get some pretty good action from a single top which will orbit the inside of the dome for several seconds.
+Again, it doesn't work every time, and maybe works less than you would like, but it does work.Personally I don't really get the appeal of these top battle things though, and our 5yo did get bored with it relatively quickly.
+The whole concept seems kind of silly for the amount of marketing and product development they've put into it.
+The way that the tops work, they kind of hang from the launcher thing when it looks like they should attach securely, so the whole thing seems a lot less satisfying than it could be.
+But this is just my grown-up observation of the whole battle tops thing, and not a criticism of this set specifically.But this toy is fine for what it is.G."
+"Upon opening the large box with many impressive graphics I was very underwhelmed by the actual toy inside.
+The plastic dome is very flimsy.
+No more stiff than your average water bottle or plastic packaging.
+You have to apply the decals which don't exactly go on so smoothly (because it's a dome).
+I think though after looking at what just the tops cost, I am seeing that probably you are paying more for the two tops that come with the set more than the actual battle dome itself.
+HOWEVER, my son was not into collecting Beyblade before this and so I don't really care that the tops are expensive to buy separately.
+I see that this dome is cheap and I feel a little put off and it puts me off to wanting to collect anything else ""Beyblade"" if they can't do quality stuff on a consistent basis.
+This feels almost gimmicky to me.The assembly was pretty easy.
+I was a little confused by the extra pieces when I was done, these I figured out were parts for the actual tops, two ""tools"" to take apart the tops so you can interchange parts, and two extra top pieces.The mastery of the tops probably takes time.
+We were able to get them to spin but probably it takes practice to get them to spin really well.
+They just kind of spun around the bottom of the ball before petering out.
+My son is more enthusiastic about the whole process than I am.The tops themselves are heavy and seem to be of a much higher quality than the dome.
+The dome by itself is worth no more than $5 to $10 in my opinion.This toy would probably be best for someone already into the Beyblade products, and not for someone who has never owned any before this."
+My son has owned 3 beyblade stadiums,Beyblades Metal Fusion Beystadium Bolt Blast Stadium Dark Blue,BEYBLADE XTS Half Pipe Battle Setthis one we returned because it was horrible and the beys did not work very well,Beyblades Exclusive Metal Masters Sonic Series Super Vortex Battle Setand now this battle dome.
+He absolutely loves this stadium and has been playing with it everyday for about a week now.
+He loves that they spin all over the stadium(and they do).
+I've read other reviews that say the beys do not go all over the stadium like they're suppose to, but my 8 year old son and my daughter whom is 5, can both get the beys going everywhere in this thing.
+It's not exactly made of the greatest plastic, but seriously, its enough for it to stay together, it has not fallen apart even once.
+it does the job.
+Its a nice addition to the beyblade line of toys, and my son who is an avid collector enjoys it very much.
+I highly recommend this to other beyblade crazed kids.
+My son wanted this from Santa and was asking for it for months.
+When he opened the present and saw it, he was super excited.
+We put it together quickly (super easy setup) and he gave it a whirl.
+It didn't really work.
+We tried it again, and again the beyblades simply bumped into each other and fell to the bottom of the dome.
+He decided it wasn't working and moved onto something else from Santa.This is an awesome concept but such a poor execution.
+The dome doesn't seem to be wide enough for two blades to battle.
+The dome is made if flimsy plastic, which is okay until the dome gets hit during play and topples over.The plus with this set is the two beyblades you get with it, which are normal quality and can be played with as usual.This set was a disappointment for sure.
+I would save a few pennies and just buy the blades.
+My son has been collecting Beyblades for a couple years now.
+He has dozens of them and he and his friends (and my husband) have had many battles.
+We have 2 other beyblade stadiums:Beyblades 2011 Metal Fusion Beystadium Burning Firestrike Stadiumand another one.
+so when I saw this one, it looked like a great addition to our collection.The set comes with a plastic dome that you put together.
+It is easy to assemble, and my 8 year old mastered putting it together even without my assistance.
+Once you assemble the dome, there are these sort of lightening bolt shaped stickers to affix to the outside for decoration.
+The dome is plastic and is made of similar quality/material to the other beyblade stadiums.The set comes with 2 beyblades and 2 discs/wheels that the beyblades fit into to make them spin better inside the dome.
+Without the wheel, regular beyblades will not work real well in the dome.
+After that, it works like any other beyblade set.
+You pull the rip cord and launch the beyblades into the dome, and watch them spin.
+There is a hole at the bottom of the dome, and the last beyblade to stay inside without falling through the hole is the winner.I do like that the beyblades in this set are interchangeable with other beyblades in your collection.
+I don't have any real problems with the construction of the set compared to the other beyblade products we own.
+Overall though, this held my son's attention for maybe an hour.
+Then he went right back to his other stadiums.
+The open stadiums are just more fun.
+It is easier to launch the beyblades when  you aren't trying to aim them into a small hole.
+Anyone who has walked into a toy store or the toy aisle at a big box store will probably have seen Beyblades before.
+Beyblades are your fancier battling tops from yesteryear.This Destroyer Dome set is basically a big round hollow sphere in which you throw your Beyblades in.
+Most reviewers here have commented on the cheapness of the plastic.
+The plastic is thin, but it does it's job ok. After all, no one is going to be sitting on it, it's fine for two tops, err.. excuse me, two Beyblades.I actually prefer the Beyblades stadiums myself.
+It's not too bad a product, just don't have very high expectations for it, it's just battling tops with a hollow sphere, if you have someone who likes Beyblades, this is not a bad gift for them.
+This marks our third BeyBlade arena, and this is the most unique.
+Many reviewers have noted the lack of durability because the plastic seems flimsy, but I can assure you it is not!
+How do I know?
+While making my sons' beds yesterday, I stepped on one of the hemispheres of the dome and it survived intact (I'm 250 lbs).
+It may seem flimsy, as all the Bey Arenas do, but it isn't.Now, on to the gameplay.
+Like all the Bey Arenas, this one introduces something new to the gameplay.
+In this case, it goes vertical!
+A typical Bey Battle consists of two tops trying to be the last one spinning.
+They all have customizable parts to make them behave differently, and while I have yet to see a difference, my sons swear there are marked differences in performance.You pull the rip cords at the same time and drop your tops in through two holes at the top of the arena.
+The included tops work quite well, insofar as they are equipped to spin on their points as well as their circumferences.
+We have tried other BeyBlade tops in the arena and they don't work quite so well.
+Likewise, the two included BeyBlade tops don't function quite as well in older Bey Arenas, probably due to their larger circumference.Finally, this Bey Arena takes up more space then the horizontal ones, and it won't nest in other arenas.
+If space is at a premium as it is in our house, you probably won't like the footprint of this toy.If you are a fan of BeyBlade toys, this will make an innovative addition to your collection!
+This is about the single worst product I've ever gotten from Amazon Vine.
+It's made from something that feels not even as tough as the plastic packaging they use for batteries.
+Mine came with a couple dents in it already just from shipping, and they wouldn't come out completely, so if the rest of this had actually worked as advertised, it still would've been a problem.Assembly is easy, to half spheres held together with little clamps that insert into the base pieces.
+Stickers were annoying to get off of their strip as well.But the real snoozer here was the launcher itself.
+It has little arms that come down then turn at a right angle, on opposite sides.
+These fit into slots on the top.
+Then when you yank the zip string, they turn in the direction that keeps them from pulling out.
+once it stops spinning, the top's rotation will pull it off of the arms and let it fall.
+But the arms just BARELY hold the top on.
+My 8 year old son and I both tried these for a while, but half the time he couldn't even get it into the hole to hold it to launch without it falling off completely, or having one arm come loose and leaving the top just dangling there.The hole that you have to hold these in is annoying as well, it can be a little tough for kids to get the top in there without it falling, then yank the zip and get them going.
+I had a better time, but this isn't made for adults.Then the tops - even when I really cranked hard, so hard I thought I might break something, they really didn't do that much.
+The positioning of the holes and how the tops fall off the launcher so easily pretty much preclude you holding it in a vertical fashion to try to get it to go around from bottom to top as opposed to just going in circles around the equator.All in all, there wasn't a single aspect of this that was worth of even two stars.
+"This thing is garbage.
+The two halves that make up the dome is made of such cheap and flimsy plastic my kids and I thought it was packaging material and were looking for the ""actual"" pieces.
+When we realized what we had even my 4 year old scoffed.
+After only a short time there are already scratches from the Beyblades all over the inside of the dome.
+This is surprising just because of the fact that the BB only spin in this thing for a few seconds at a time if at all.
+The only upside is my boys got a couple new Beyblades.
+The dome sits unused after about a day and a half.
+$40...
+Seriously?!?!"
+Our son L-O-V-E-S Beyblades so when we got this he was so excited.
+It's made very cheaply.
+The plastic dome itself is very flimsy and I have to wonder how long it will hold up.
+It works best with just one Bey but the whole concept if for Bey wars, which of course don't last long because of the cross spinning action going on.
+He thinks it is fun but I wonder....how long will this thing last?
+Hopefully he will lose interst rather then be dissapointed if it breaks.
+"My son LOVES Beyblades, so for him to HATE this, says a lot.
+To start, the dome, as others have mention is very then.
+I don't think this effects the toy as much as the giant hole on the bottom!!!!
+Gravity pulls the tops into the lowest part, right where the hole is!
+Who designed this thing?
+A battledome with a hole on the bottom?
+Of course, it comes with another flimsy piece of plastic to cover the hole, but it does not sit flush, but it's for ""practice.""
+If my pipes were bigger it would be more fun to mount it over the toilet and battledome them right down the drain.
+This is a HUGE waste of money.
+The only good thing is you get two Bayblades, but that's a lot to pay for two Beyblades.
+The Beyblades themselves are fine, they work fine, etc.....but this is not about Beyblades, it's about that crazy dome, or at least the hole in it.
+My son has a battle arena that he loves (it's basically half a dome, without a hole on the bottom).
+He makes his own stunt areas for his Beyblades.
+He saw the box and went nuts!
+He opened the box and put it all together, and said, ""Daddy, can you help me, I think I did something wrong.""
+I followed all the directions and told him, ""Nope, you did everything right.""
+My 5 year old loves Beyblades, but this toy was truly disappointing.
+Thedome is cheaply made, and after a few uses, it is scratched up badly inside(and my son has not been using it long).
+Considering that he lovesBeyblades, he was not happy with this toy.
+This product is also overpricedfor its cheap quality.
+I do not recommend this dome to anyone, especiallyfor the price.
+My son probably enjoyed this toy the most during the first 15minutes; after some serious letdown from the product, he gave up playing.Do yourself a favor an opt for a better Beyblade product.
+"My daughter pronounced the Destroyer Dome ""awesome"" and ""5 stars"", but she hasn't touched it in weeks, and I have to agree with many of the other reviews.
+The tops don't spin for more than a few seconds, and my daughter seems to have much more fun just spinning them on the kitchen floor.
+If you have a lot of Beyblades, you could just stash them in this dome, but make sure the removable bottom is in place (it doesn't snap or screw in, and it's just a clear plastic disc that could get easily mistaken for trash and thrown out).The list price is absurd.
+Wait for it to be cut to under $10 or forget the dome and just buy the Beyblades."
+In theory this looked like it would be fun.
+The boys were not impressed.
+It is rather cheap looking for starters.
+The beyblades would only go around the arena for a few times before they either crashed into each other and fell to the bottom, or ran out of power and fell to the bottom.
+Unless we can figure out what they are doing wrong, I wouldn't recommend this toy.
+This Destroyer Dome is easy to set up but it does take up a lot of space.
+My son did enjoy to play with it, not sure if he is doing it correctly but this toy is pricey at $35.
+Launching it is fun to watch or even spinning them on the floor without the dome is entertaining.
+I agree with what most people say about this being a cheaply made dome.
+It's very thin plastic.
+It reminds me of cheap plastic packing material that comes in most toy packages.
+Aside from that, it's still fun for a little bit.
+My kids much prefer the Beyblade Stadiums over this though.
+The tops spin for quite a bit more time in those.
+They'll play with the dome for several minutes here and there but there isn't enough time for the excitement of who's going to win to build up.
+It just doesn't compare to some of the better options out there.The assembly was very easy to do although the stickers were a bit of a pain.
+It's not real simple to just put stickers on a curve object.
+It would've been nice if the dome were made with a little more details and coloring in the making rather than having to put cheap stickers on it.My kids have enjoyed taking other tops that they have and using them in the dome and also using the tops that came with this set in their stadiums.Overall, this isn't a bad set but it's by no means great either.
+I'd say if you're able to get this at a good price then it may be worth it but most of the Beyblade Stadiums cost less and they're more enjoyable.
+I'd probably stick with one of those.
+My son has been into Beyblades for a couple of years.
+We have two round arenas that he uses for battles and I thought this new dome would be a nice change to mix it up.
+It was interesting and my son was excited to use it.
+He assembled it easily in no time at all.
+He didn't want to put on the decorative stickers at first, but a couple weeks later he did.
+We put one on, but it wouldn't go on very smoothly since it is a flat sticker and the dome is curved.
+Because of that, we didn't apply any others.
+There are some complaints that the toy is cheaply made, but I think it's alright.
+It's plastic; you can't get too fancy with it.
+It's the same quality as our other Beyblade arenas that we've had for about two years.
+It does what it's supposed to do.
+I would consider the fun factor rather than the quality of the plastic when deciding whether or not to buy this toy.Launching the Beyblades into the dome takes some practice.
+With the other arenas, you just drop the Beyblade down from above.
+The Destroyer Dome has two holes near the top for players to drop the Beyblades into.
+The launch needs to be angled just right so that the Beyblades will spin while climbing up and around the sides of the dome.
+After getting the hang of it, it's fairly easy and the Beyblades look cool as they move around in the dome.
+"""Destroyer Dome Set"" is a toy where two tops battle inside of a plastic sphere.
+Sounds neat, no?
+Well, let's see how it works in practice.Dome assembly is fairly easy ... you put stickers on the dome, mount 4 legs onto a short pedestal, and connect the two-piece dome onto the legs with four snaps.
+There are five parts for each top, and the instructions showed you how to put the parts together.
+However, the top came preassembled, sort of.
+One piece, the ""spin track"" wasn't attached.
+I disassembled the top, and there is no way to add the spin track that I could discover, so I put the top back together the way it came.
+As an aside, I think the instructions could have been a bit clearer/more descriptive.
+The dome itself is made of rigid plastic.
+It's rigid enough to handle the tops, but is prone to scuffing.You launch the tops by threading a long strip of geared plastic into a launching piece, attaching the top to the launching piece, holding the launching piece/top over a hole at the top of the dome, and pulling hard on the long strip of plastic.
+If you do it right and pull hard enough, the top will ""run"" around the dome, and for a surprisingly long time.
+To battle, you and another person each launch their top through their own hole at the top of the dome.The battles themselves are underwhelming, to be honest.
+If neither top touches the other, they'll each loop around for a while.
+But if they do ""battle"", they both pretty much crash to the bottom of the dome and the battle is over (although occasionally, one or both will climb back up the dome).
+Most of the time, they immediately bump into each other and the battle is over within two or three seconds.Rather than battle, my children prefer to either launch only one top into the dome and watch it go, or to use their tops more like conventional tops on our floor.
+When you launch them on a floor, they will spin for a VERY long time unless they bump into something.

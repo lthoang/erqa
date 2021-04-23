@@ -1,0 +1,174 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+You spend the first 5-10 minutes of the game almost randomly putting down tiles and then, maybe, if someone hasn't accidentally won, you can spend a couple of turns trying to strategize or bluff.
+The challenge becomes harder because if you draw a wild token you can move either the top tier or second tier in 90 degress.
+* You don't know for sure who is playing what color.
+If you and your family enjoy competitive games that require strategy and play differently each time, you may want to try ""Swivel."""
+If you get a wild token, then you can use it as a joker for the token you don't have to make a sequence of 4.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.00752129266038537,0.004080508835613728,0.00350716570392251,0.005915525369346142,0.007378484588116407,0.006637881509959698,0.006922437809407711,0.006569684948772192,0.007166686933487654,0.005722858943045139,0.0032318641897290945,0.007579803466796875,0.00794192124158144,0.00880763866007328,0.005493143107742071,0.010405855253338814,0.007915334776043892,0.004003227222710848,0.007749589625746012,0.008336766622960567,0.005524382460862398,0.005832951050251722,0.007571665570139885,0.0027345544658601284,0.0036249158438295126,0.006913021672517061,0.0028635645285248756,0.0024197017773985863,0.005151242017745972,0.006319692358374596,0.00641993060708046,0.007441376801580191,0.005265819374471903,0.007910160347819328,0.0025048931129276752,0.007833026349544525,0.004482390824705362,0.0074106319807469845,0.008516502566635609,0.007228019181638956,0.00763411819934845,0.007585394661873579,0.00599178159609437,0.004599391017109156,0.0050614457577466965,0.0062710936181247234,0.006828411482274532,0.00785290077328682,0.006828405894339085,0.009474187158048153,0.006344563327729702,0.0074213286861777306,0.006476534064859152,0.007443303242325783,0.01003511156886816,0.007112391293048859,0.003432655707001686,0.008580934256315231,0.0037670424208045006,0.008008410222828388,0.007928840816020966,0.007154515478760004,0.0043046441860497,0.008244311437010765,0.007147584110498428,0.007141382899135351,0.007405188400298357,0.006083243526518345,0.007156814448535442,0.0045473612844944,0.00421278178691864,0.005450544413179159,0.003229319117963314,0.008246212266385555,0.008015465922653675,0.007321609184145927,0.0099857859313488,0.004646693356335163,0.0038771191611886024,0.0028167322743684053,0.008425225503742695,0.008077215403318405,0.0030631234403699636,0.008077215403318405,0.00566381448879838,0.002583538182079792,0.006050038151443005,0.006291687022894621,0.006254655309021473,0.0045122504234313965,0.006849667523056269,0.004400768782943487,0.005307838320732117,0.0020742425695061684,0.004241948015987873,0.007390869315713644,0.0063997129909694195,0.00345768965780735,0.005174656864255667,0.005446575116366148,0.004320059437304735,0.006178862880915403,0.004132502246648073,0.008223572745919228,0.008093542419373989,0.008622411638498306,0.008134660311043262,0.006787888705730438,0.008180618286132812,0.0065715117380023,0.008058048784732819,0.008093542419373989,0.009220263920724392,0.007783322595059872,0.002783003728836775,0.006478901952505112,0.006440822966396809,0.005271254573017359,0.008751864545047283,0.009553522802889347,0.007931252010166645,0.004533022176474333,0.006615728139877319,0.009280278347432613,0.006638462655246258,0.005709960591048002,0.008521674200892448,0.0076025486923754215,0.007996984757483006,0.005704009905457497,0.0023459638468921185,0.006404761224985123,0.007074945606291294,0.005109860096126795,0.007738318294286728,0.007165556773543358,0.0069936709478497505,0.004936180077493191,0.009694930166006088,0.004079453181475401,0.0067689246498048306,0.0020914142951369286,0.005736576393246651,0.004353401251137257,0.008388220332562923,0.00930511113256216,0.00642436696216464,0.0050210352055728436,0.00751076452434063,0.006202131975442171,0.008000553585588932,0.005658559501171112,0.0031595018226653337,0.004289714619517326,0.0044953590258955956,0.010800404474139214,0.002618773141875863,0.007153022568672895
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+Connect 4 is a staple game in our household.
+We've upgraded to the Connect 4x4 where it plays like two Connect 4 boards side by side offering a host of new challenges.
+With Swivel, we play a similar game with even more twists, quite literally!UNBOXING:The Swivel box contains a 3D Game Board, 68 game pieces, 4 player pieces (Not necessary if everyone remembers what color they are--the real trick is figuring out who the other players are), Bag for pieces and Rules.REVIEW:So swivel is kind of like a chic-Connect 4.
+The table spins as a part of play, that introduces some major strategy in trying to get all four of your colors in a row.
+Also, at some points of the game, you may have to play another color (not your own) and you might end up making someone else's four in-a-row for them if not careful.Right now, it seems that our 6 and 8 year olds get the concept of the game.
+They are also the ones who can most adeptly play Connect 4.
+I will not say this game is easy for younger kids.
+However as adults, this game can really bring out the competitiveness amongst my wife and I. :)OVERALL:I recommend this game to any strategy game lover.
+Also, the game board, pieces and bag are very well-made.
+You can't get this type of gameplay or production value from most boardgame companies.
+The only thing I don't really like is the way the spinning parts of the board are put together and the color choice for the pieces--Mardi Gras colors anyone?
+Fun game to play with 10 year old.
+It says for ages 8plus on the box.
+Tokens would be choking hazards to young children.There can be two, three, or four players at a time.Each player gets a color that is kept secret from the other players.On your turn, you draw a token from a bag (you can't see which color you will draw).
+You play this token whether it's your secret color or not (thus fooling other players into thinking it's your color, or trying to throw the game for them).The object is to get four of your color tokens in a row.
+The challenge becomes harder because if you draw a wild token you can move either the top tier or second tier in 90 degress.
+This can be to your advantage or dissadvantage.
+My son thought that was pretty cool.I gave it high marks in educational because it does require you to strategize and then re-strategize when the tiers are turned.
+It involved problem solving and sequencing as well.We've played it a few times so far and enjoyed it.
+Depends on how you draw the tokens on how fast the game is played.
+It's a great addition to the playroom for family game night.
+We are a family of board-game lovers and I admit that, when it comes down to it, we tend to prefer games that are a bit more complicated over those that are easy.
+We like games that are intricate, that encourage a lot of strategic thinking, and I didn't quite think this game fit the bill.At the beginning of the game, each person chooses a tile that tells them which color they will play.
+They keep this color secret from the rest of the players, so no one knows for sure who's yellow, who's orange, etc.
+Play them begins, with each player reaches into the bag to select a tile and place it on the board.
+Sometimes you get your own color, sometimes another player's color, and sometimes a wild tile that can be used as any other color.
+The object of the game is to lay four of your colored markers on the board in an unbroken row.The twist to this game comes with the board set up.
+The top two rows are moveable, and drawing the wild token offers the player the opportunity to rotate one of the top two rows, thus changing the composition of the board.The game does encourage some strategy, though it's nothing too complex.
+In general, you don't want the other players to guess what your own color is until you've set yourself up so the board is favorable to you.
+However, this can lead to your inadvertently helping your opponents.
+It's a pretty quick game, which may be part of the reason why I'm kind of ambivalent about it.
+I don't need a game to be an hour, but this one goes by so fast that it seems like someone has won almost before the game really gets going.
+It's good when you want something quick, but not necessarily the best choice for a night spent playing games with the family.
+Swivel is a simple yet fun way to spend a little time with the family playing a game that anyone can learn and learn quickly.
+The game is similar to the classic Connect Four in the way it requires getting four of a color in a row to win, but it is more challenging than that game because the upper rows can rotate, completely changing where your color lies and snatching defeat from the jaws of victory, and vice- versa.Swivel sounds simple in concept and in most ways, it is simple.
+But there are twists to this game that make it a little more challenging.
+Besides the rotating upper levels, there is also the mystery of the other players' colors.
+You see, you do not know which color your opponents are playing, so you do not necessarily know what defensive move to make.
+You can try to guess what color each opponent is playing, but you may be wrong.
+Another twist to the game is that each move requires randomly drawing a token, so you can end up playing an opponents' color and not even realize it.Swivel does involve some strategy and the key strategy is trying to guess what color each player is.
+You have to watch what the other players do to figure out what color they are and what move you should make next.
+I like that there is at least some strategy to the game, even if only a little, because it makes the game more challenging and more fun.This game has another nice advantage: It takes only a short time to play.
+A full game is usually over in about 15 minutes.
+No matter what players' do, it is only a matter of time until someone connects four in a row and wins.
+The short duration of play is nice when you want a quick game that can be completed while waiting for dinner to cook or when you have a short amount of time to kill.Swivel can be played by anyone from grade school age and older.
+It can be taught to most anyone in, say, first grade and higher and it offers just enough challenge to keep it interesting without too much of a challenge to make it difficult for younger players.
+I like it and recommend it as a game to add to your family game night rotation.
+"This game quickly became one of our family favorites.
+It gets pulled out of the game cabinet a lot because it's quick to set and quick to play.
+But once a short game is played, we inevitably say ""one more time!""
+(and repeat and repeat) until quite a bit of time has passed.This is a very simple game to explain and understand, so it's easy to introduce to others at a family gathering.
+It's just a four-in-a-row game, with two ""twists"":* There are wild card tokens.
+When playing a wild card token, the player swivels one level of the board so that the current arrangement changes.
+Strategic players will take this into account; other players will experience it more like random luck.
+* You don't know for sure who is playing what color.
+On each turn, a randomly-selected token is played, and it is not always evident if the token is the player's own color.We've found that this game is actually more fun with 2 people than with 3 or 4.
+When playing with 2 people, you are trying to make 4-in-a-row of your color, block 4-in-a-row of your opponent's color, and 2 colors don't matter.
+Part of the fun and strategy is trying to figure which colors can be safely ignored.
+When playing with 4 people, no colors can be safely ignored.The board and tokens are high quality plastic and I expect this game to last for many years."
+"Just played this with my 9 year old tonight.
+It is a nice quick game.
+We learned it right away and played several games in under 5 minutes.
+That is refreshing - too many of our games go for over an hour, and that is a impediment on school nights.
+After our first short, friendly games, we figured out more of the strategy and tried harder to ""mess each other up.""
+That extended the game to about 15 minutes.
+Tomorrow we'll add another player into the mix, which should get interesting.
+The box says for age 8 and up, but I think younger kids could play as well.
+The ""swivel"" mechanism works but is a big tricky at first."
+"""Swivel"" is a game that will, if you are so inclined, get the competitive juices flowing.
+It is an excellent game for those who think strategically; enjoy problem solving; or think well sequentially.The tiered playing board is made of hard plastic.
+The two swiveling tiers can be lifted out of the base and will fall out if the base is turned over.
+Thus, care should be taken if this is being carried over a hard surface such as a tile floor.
+Colored plastic tokens, the size of a quarter, are kept in a drawstring bag.
+All the plastic components are nicely finished; they have no rough edges.Swivel"" can be played by those who are younger than the recommended minimum age of 8, but it is not a game to attempt, even with older partners, with preschoolers.
+""Swivel"" is a game that evolves during and throughout each play session.
+Its unpredictability makes each time you play ""Swivel"" interesting and keeps this from becoming a boring, ho-hum game.
+If you and your family enjoy competitive games that require strategy and play differently each time, you may want to try ""Swivel."""
+The objective of Swivel is to match four tokens-in-a-row of your color to win.
+The tokens are randomly drawn from a bag, and there are a half dozen 'wild' tokens mixed in.
+When a 'wild' token is drawn, either of the top two tiers may be turned 90 degrees (on a swivel) in order to help line up a row of tokens.
+There are four tiers, and the bottom two tiers do not rotate.I played this game three times with three other adults, and each game took about 10 minutes.
+The game was just way too simple (read:boring).
+With so few 'wild' tokens, a game passed with no one rotating the board at all.
+Also, the third tier is stationary.
+I think it might be a bit more fun if it moved as well, but as it is, only the smallest tiers move, so the overall effect on the gameboard is minimal.
+Simple isn't bad in a board game, checkers and traditional Connect Four still hold up, but Swivel was just too dry.
+We all became bored quickly, as the strategy seems to be 'place your opponents colors randomly and as far away from each other as possible'.
+Each player's color is 'secret', but it quickly becomes obvious who is going for what type of color to match.
+Also, the board and tokens feel fairly cheap.
+I wasn't expecting them to be handpainted, but think something along the lines of a dollar store purchase.The game is rated for ages 8+, but I wouldn't image anyone over the age of 10 would get much enjoyment out of this.
+Chutes and Ladders has more excitement.
+Back to the drawing board on this one.
+"This is a four-in-a-row game that adds two new levels (literally) of additional strategy.
+The game board is an 8x8 space with four levels (the outer most square is the lowest level and the center most four spot square forms the topmost level).
+You draw coins from a bag and place them on the board (at any of the open 8x8=64 spots).
+The goal is to get 4 coins of your color in a straight line - diagonal is acceptable.
+The ""twist"" is that the inner most two squares can rotate.
+If a player draws a 'wild coin', then the player chooses to rotate 90 degrees (a quarter turn) either one of the two top levels (they rotate independently!).
+This adds a whole new level of strategy.
+In addition, the wild coins do not have an assigned color - like a 'joker'.
+Any player can use it as their color of choice to score four in a row.Overall, it's fun game and the ability to turn the top two levels messes up other people's strategy - making this game very interesting.
+The set is also made of durable plastic and the coins come in a nice cloth pouch.
+Even the cardboard box is made of thick material and seems durable."
+This is a deceptive little game.
+I think it's as easy or as hard as the people playing it make it.
+I happened to play it at a Mensa game night, and it was okay.
+I didn't expect the twist that you can't choose your own color token to play, like in Connect Four.
+You blindly draw from a bag, so you may get your own color, or you may get an opponent's.
+If you get your opponent's, you can play it to make things harder for them.
+The fact that the levels swivel when a wild token is drawn definitely adds a challenging aspect.
+You have to look at all the possibilities before you play because the level can change at any time.
+All in all, I think it's a good game.
+It's simple enough for kids and can help them hone their strategizing skills, yet it's challenging enough for adults.
+We liked this new version of a four in a row game.
+Players line up their colored tokens trying to get a row of four while blocking other players from getting four.The game is a little more difficult from other four in row games because the base is tiered and the top two tiers swivel when a Wild chip is played.
+Younger players may be confused by this extra strategy.
+The game is advertised for ages eight and up.
+My seven year old had no difficulty playing though.It's a fun, interesting, and sometimes challenging version of an original, fun game.
+"This is a great game for teaching strategy and ""thinking ahead"" for youngsters.
+Our 6 year old granddaughter was able to quickly pick up the concepts after playing as a grand-dad & grand-daughter team for a couple of games.
+Well made, durable and lots of fun."
+This Swivel Four-in a -Row is the same classic game that we've all enjoyed but with some challenge and fun added to it.
+The goal is the same where you need to get 4 colors of your choice in a row either vertically, diagonally or horizontally.
+My kids and I have really enjoyed playing this and swivel has renewed our interest in this great game.
+The game itself is well made and the chips are in a nice drawstring bag.
+I do recommend this fun game at a great price!
+"This came available on Vine and looked like fun - and it is!
+My son (7) loves it and keeps wanting to play it with the rest of the family.
+Actually, we all enjoy it.
+The play is a bit different than what I was expecting - with players being assigned their colors randomly and NOT allowing other players to know their color.
+It does add a new dimension to the game (you can bluff that you are working to build 4 in a row for yellow and then suddenly rotate the board with a ""wild"" chip such that green [your color] wins), along with the literal new dimension of playing on different levels which can be rotated.My 7 and 9 year old kids (who are both working on learning chess as well) love this game especially the different strategy options and trying to fake one another out about which color they were assigned.Thus far, we have been ""playing by the rules"" but it strikes me that this game could easily be played in a myriad of alternative ways - making up one's own rules; perhaps all players with their colors in the open and a a rule that the 4 in a row must cross at least 2 rotating levels; roll a die as part of your turn and if you get a ""1"" or ""2"" you get to rotate a board segment, etc.
+- or come up with your own way to play!Very few games / toys inspire us to play them a lot right out of the box but this one does.
+It is highly recommended."
+The strategy of this game is to know the opponent's color token in which he is trying to make a sequence of 4.
+That can be known as you keep playing and observing the other player.
+If he tries to make a sequence of 3 in the same color token, then that is his color.
+Then you can go ahead and stop him from making a sequence of 4 by blocking it with your different colored token.
+Be aware that the move by the apponent could be a bluff in order to confuse you (in case of 2 or 3 player game) to enable him get a sequence of 4.
+If you get a wild token, then you can use it as a joker for the token you don't have to make a sequence of 4.
+When you use the wild token, you need to swivel the top-most stand or next stand to suit you in creating a sequence of 4.
+The swivel also can be used if the opponent is trying to make a sequence.
+By rotating either the 1st or the 2nd level of the board, you can prevent him from getting a sequence of 4 tokens.
+The person getting 4 tokens of the same color in a row wins the game.It is more of a mind and strategy game.
+The purpose is to understand the opponent's move well in advance and block him from achieving his goal while you complete your goal by confusing the opponent by your moves and finally create a sequence of 4 tokens in the same color.
+This is a multilevel tic-tac-toe type game.
+The goal is to get four in a row or diagonal.
+There are some fun twists, such that you pull pieces at random, so you could have yours or another persons and only you know your color.
+The other twist being that you can swivel the top two levels.
+I think they should have added the third level as well.
+I did enjoy playing and it was fun for the family and seemed that it has the potential to be more of a strategy game for more advanced players.
+I liked it and will play it again.
+"A classic ""connect 4"" game with a twist, literally.You can learn to play this game in a minute - very simple - try to get four in a row of your color, horizontally, vertically, or diagonally.
+The twist is that if a player draws a wild chip, they can rotate one of the top two platforms to either help themselves or block another player.
+First one to get 4 in a row of their color wins.Problem is, it just doesn't have the right balance of playability, luck, and strategy.
+Sure, you can try to strategically plan ahead to achieve your goal, but just as likely, someone's going to win almost by accident.
+You spend the first 5-10 minutes of the game almost randomly putting down tiles and then, maybe, if someone hasn't accidentally won, you can spend a couple of turns trying to strategize or bluff.
+It's not much fun until the board is well populated, and then it tends to end fairly quickly.Okay, not to sound overly negative, I think this would be a great game for younger kids and I would recommend it for, say kids 6-12, but teens and adults will get bored quickly.It might be more fun if, like a similar game, your color was known to all and you only placed tiles of your own color.
+I'll have to try it that way and see if it works."

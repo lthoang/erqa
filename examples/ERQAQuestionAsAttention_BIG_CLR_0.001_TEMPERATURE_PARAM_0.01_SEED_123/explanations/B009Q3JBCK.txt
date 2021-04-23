@@ -1,0 +1,200 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+Most of the whimsys are easily recognizable and when I discovered a place for them in the puzzle it was a great deal of fun.
+Also, the puzzle pieces were a little larger than normal which makes them easier to handle.
+My kids loved finding the whimsy pieces that are shaped like different things.
+We would highly recommend it!
+This one is especially cool because the pieces are very different, in recognizable shapes like animals.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.00362818012945354,0.004074485506862402,0.006003970745950937,0.0028199334628880024,0.006041739601641893,0.0065093575976789,0.003475160337984562,0.004766674246639013,0.006164121441543102,0.004714882932603359,0.003165918169543147,0.006114442367106676,0.007060539908707142,0.004473689012229443,0.003908120095729828,0.003979144152253866,0.0047065760008990765,0.0037041385658085346,0.002363854553550482,0.0059707509353756905,0.006659325212240219,0.0036475255619734526,0.007148349191993475,0.006251685321331024,0.0057912846095860004,0.004090006463229656,0.006482332944869995,0.0071537247858941555,0.006643482018262148,0.0037270979955792427,0.005580354481935501,0.00307626836001873,0.008778850547969341,0.005627249833196402,0.006563220173120499,0.005215440411120653,0.006868717260658741,0.0033051662612706423,0.006403305567800999,0.003191969357430935,0.004958887118846178,0.0035180561244487762,0.006803214084357023,0.005225266795605421,0.005606707185506821,0.006151641719043255,0.005017314571887255,0.003074404550716281,0.005146349780261517,0.003344649914652109,0.005036079324781895,0.0049430509097874165,0.005094381049275398,0.006369731854647398,0.006065284833312035,0.0056352680549025536,0.004398552235215902,0.00650067487731576,0.0073302509263157845,0.0031289393082261086,0.005942222196608782,0.0051312013529241085,0.006183692719787359,0.006553388200700283,0.006650375202298164,0.00673212856054306,0.004516628570854664,0.006672186776995659,0.0030352293979376554,0.005560263525694609,0.0037951453123241663,0.005482566077262163,0.0053334287367761135,0.007631057873368263,0.006028506439179182,0.006659254897385836,0.005666299257427454,0.005759518593549728,0.007030558306723833,0.0046602957881987095,0.006921290419995785,0.006595850922167301,0.006478024180978537,0.006653224118053913,0.004789337050169706,0.003057460766285658,0.004189603496342897,0.005807962268590927,0.0038801911287009716,0.0063934032805264,0.002769435290247202,0.006762715522199869,0.0055498117581009865,0.007728376425802708,0.0063832770101726055,0.0016670317854732275,0.006690377835184336,0.0037641555536538363,0.0053980001248419285,0.0045592873357236385,0.004962040111422539,0.006532672792673111,0.005018576979637146,0.0065106661058962345,0.0065106661058962345,0.004983064252883196,0.005170872900635004,0.0059719146229326725,0.006831271108239889,0.0053818668238818645,0.004933582153171301,0.00482854014262557,0.007082115393131971,0.005945760756731033,0.007579107768833637,0.006823433097451925,0.006823433097451925,0.005048715975135565,0.0045523918233811855,0.007082563824951649,0.0037083930801600218,0.0069175283424556255,0.007083124481141567,0.0054811942391097546,0.004209993872791529,0.0029801903292536736,0.007251178380101919,0.006356960628181696,0.005905373953282833,0.0068698967806994915,0.007427587639540434,0.006508904974907637,0.004436593968421221,0.005724751856178045,0.0029074980411678553,0.006298481952399015,0.0026329560205340385,0.007385127246379852,0.007302514277398586,0.005165793001651764,0.006086545996367931,0.0018433182267472148,0.0055940477177500725,0.00448860926553607,0.0034281082917004824,0.003623123047873378,0.006130826193839312,0.005540961865335703,0.006760576739907265,0.0036798776127398014,0.0050773536786437035,0.006795827299356461,0.007558598183095455,0.006808439269661903,0.006578207015991211,0.00631292536854744,0.006026953458786011,0.003747637616470456,0.006734396331012249,0.0034844737965613604,0.0038708809297531843,0.007246395107358694,0.006581649649888277,0.004710565321147442,0.0026196097023785114,0.005106322001665831,0.004886827431619167,0.003963747527450323,0.005775646772235632,0.007078640162944794,0.0070069292560219765,0.005915698129683733,0.006882612127810717,0.006883537396788597,0.0064910114742815495,0.0065077017061412334,0.00432578707113862,0.0068365843035280704,0.0061775087378919125,0.0047509940341115,0.0029684160836040974,0.00396716920658946,0.005860542878508568,0.005894607864320278
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+Besides the nice picture and durable pieces as mentioned by other reviewers there are a lot of interesting shapes for puzzle pieces however some do not lock together perfectly which caused some initial frustration.Once this challenge was conquered it became the favorite puzzle of the week to show other people how difficult it is and that it could be finished.This one will enter our normal rotation.
+The color tone in this puzzle coupled with its modestly difficult 500-piece size will make this a fun multi-evening challenge for the solo puzzle solver or a fun diversion for a party of puzzlers.
+The construction quality is really good, and the penguin illustration is lovely after the picture is fully snapped together.
+The whimsy also add a different, fun element to the entire experience.This is the second Pastime Puzzle we have constructed, and I think we will be back for more based on the fun we have had with both issues.
+"This puzzle is listed for 8 and up.
+Even with help from my wife and I, we have yet to finish it.
+The ""whimsical"" pieces are kind of fun, but they lead to requiring some extremely small (1/3""x1/3"") pieces, and also some of very odd shapes (almost, but not quite square) in some areas.
+We basically got the edges done and were working our way toward the middle and we lost interest in it.
+I suppose when bored, we'll probably pick it back up to finish.All that said, the pieces do seem fairly well made and fit together well.
+The picture and colors are very good, too, so I don't have any complaints from that standpoint.
+This is our first ""adult"" puzzle and the difficulty is much higher than I anticipated for us as a family.
+My 5 year old loves kids puzzles, so I thought that while above his age range, this might be a nice step up.
+It's much too hard for him.
+My 9 and 11 year olds found it difficult, but not impossible.I would think that if your family is avid or at least experienced with puzzles of this size, it might be more to your liking, but I wouldn't recommend it as a puzzles that beginners could put together in a single (or even two or three) sittings."
+I'd rate this as an intermediate puzzle for the advanced puzzler.
+There are too many pieces here that look alike to get this one completed, even as one works from the outside in.
+While the construction of the pieces is of average built, the complexity of completing this puzzle is there, and sure to keep puzzlers guessing for hours.
+"Disclaimer: I am reviewing a copy I received for free from the Vine program.My autistic teenage daughter loves doing puzzles, does a lot of them, and is very good at them.
+She enjoyed doing this one, and it was well within her ability to complete, without any frustration, in a couple of days (I usually get her puzzles with 500 pieces or 1000 pieces).Others in the family enjoyed watching her do it, and commented favorably on the ""whimsy pieces"" that are shaped like little animals.The image is a good one, especially for these hot summer days since it's of penguins and snow and ice.We've mostly gotten Ravensburger jigsaw puzzles which are well-made and durable, but this is a good one too, so we'll be checking out more from this brand in the future."
+This puzzle was took us two weekends to finish.
+It was very cute and I really liked the whimsies that it had.
+The quality of the pieces were as good as some more well known puzzle brands and I expect this puzzle to hold up well even after repeated use.
+Besides this penguin one I also have a lesser piece cat puzzle calledThe Standoffwhich was just as fun.
+Overall I am happy to add this one to our game closet.
+"When I picked this puzzle out, I picked it for the adorable picture of a family of penguins.
+The baby penguin was so sweet standing between its parents.But when I started to do the puzzle, I noticed the pieces were all unique instead of the usual eight or so basic shapes.
+Some of the pieces, fifty of them, were ""whimsy shapes"".
+There were all sorts of birds, cat, dogs and other fun shapes.
+This made this puzzle much more fun than usual.
+Just before starting this review and checked for other puzzle with whimsy pieces and was delighted that there are more.All the pieces interlocked beautifully and were durable so you could put it together many times.
+I used to sort the basic shapes of the puzzle out when doing one with a 1,000 or more pieces but that is so boring.I love this puzzle, it was so much fun."
+"I've never worked on a Pastime puzzle before I put together ""The Stand Off"" (a 300-piece Pastime puzzle), nor one with what are called ""whimsy"" pieces.
+Most of the whimsys are easily recognizable and when I discovered a place for them in the puzzle it was a great deal of fun.
+One or two pieces would divulge just where that swan, star, bear, whale, kangaroo, cat, dogs, or many other pieces were to go.
+Some of the pieces were debatable as to what exactly they were.
+A bit of imagination goes a long way in this puzzle.The challenge factor will depend on the age and experience of the puzzler.
+It's difficult to say just how challenging it will be for each individual, but one thing I can say for certain was that the fun factor is high.
+The ""Penguin Family,"" a whimsically designed, animated, and colorful portrait of a penguin family nestled together on a snowy landscape was wonderfully illustrated by Linda Thompson.The whimsy pieces are a bit larger than the others, which are standard size for a puzzle.
+All the pieces are different shapes and sizes, making this puzzle more interesting.
+They are solid, cut well, and the print doesn't pull away when a piece is placed.
+This puzzle can be worked on by several age groups, including children.
+The next builder of the ""Penguin Family"" will be a ninety-year-old I share my puzzles with.
+I think she'll love this one!PASTIME PUZZLES (500-piece puzzles):Cowboss Scattering The HandsA Chorus LineVillage by the SeaYarmouth Clam FestivalA Mixed BagGingerbread LighthouseSunlit MorningPatriotic PattyThe Big ChillParkersburg Memories"
+"This is the second in my now soon to grow collection from Pastime Puzzles.
+This puzzle features a darling penguin family in a beautifully suitable scene.
+The colors are bright and vibrant yet not overly done.
+There's a soft subtle blending though not muted in the least bit.
+I think any penguin lover would adore the imagery captured in just 500 pieces, I know mine does.This puzzle includes 50 whimsies!
+The fun shapes make the puzzle a lot more fun and such a unique piece to put together!
+The finished puzzle is generous in size at 18""x 24"".
+I recommend investing in a puzzle mat or to have an extra table or board to put together the puzzle on.
+This one took my family a little longer to put together than the 300 piece we did previously just because of all the like snow pieces in the background.
+Not an issue though, we enjoy a good challenge.The puzzle pieces are extremely durable and have stayed very solid even when being handled continually by young children.
+My kids like to help me sort and put together the puzzles so I appreciate the high quality!
+Overall, a very fun puzzle that the whole family can enjoy putting together.
+Highest of recommendations!"
+This is a great little puzzle that has cute penguns on it.
+It is a great puzzle for that specal family time actvity.
+It has some unique shapes that make it a little harder to assemble, but that is part of the fun in a challenge.
+the colors really pop and the penguins are so cute.
+"I picked this puzzle as a nice alternative to rotting my brain in front of the tv every night after our kids are sleeping.
+While I haven't been able to finish the puzzle in one night (I have to put it away rather than risk losing pieces during the day) the whole family is having fun with it.
+I got it out to get the edges sorted and show the kids the ""whimsy"" pieces and we lost track of time just playing with the whimsy pieces.
+Some of them are really cute, the coyote and the fairy are two of my favorites.
+Some of the pieces are harder to figure out what they are, and many of the pieces look ALMOST like something (a whale comes to mind) but not quite.
+My 6 year old thought pretty much EVERY piece was a whimsy piece and it was fun to hear what he thought they all were.
+I will probably need to put this away and finish it in a couple of years when I can trust my preschooler not to carry off any of the pieces during the day, but I will look forward to tackling this puzzle again."
+Nice sturdy puzzle pieces.
+The background is mainly various shades of blue, so a bit more challenging to figure out where pieces go.
+The whimsy pieces in unusual shapes make the puzzle a bit more frustrating to do with younger helpers as the whimsy pieces don't lock in well with the other pieces.
+I'd never done a puzzle with whimsy pieces, and I don't think that I'd buy another one.
+I prefer regular standard jigsaw pieces.
+My family likes putting puzzles together and really enjoyed this one.
+My kids loved finding the whimsy pieces that are shaped like different things.
+They had so much fun finding them and were even finding shapes in other pieces that you could tell were not the whimsy pieces.
+The puzzle pieces are very high quality.
+Would really recommend this puzzle as it was great to put together.
+This was kind of difficult to put together as it is pretty much one color (white) and everything looked the same.
+Really liked the challenge but my kids were not able to help as much as they can on the smaller 300 piece puzzles.
+"Puzzles are good, cheap family entertainment.
+What makes this puzzle different is that it isn't just standard puzzle shapes.
+Sure it's 500 pieces, but 50 of those are what they call ""whimsy"" which are fun shapes.
+It makes the puzzle a bit more fun.
+It's a puzzle, what else can you say.
+Good quality pieces, no complaints."
+"Pastime Puzzles is an old brand by Parker Brothers which is being revived by a company named Winning Moves.
+Their twist is that each puzzle are drawn by a professional American artist and includes a number of ""whimsy"" or special pieces.I'm an old puzzle hand so I was very happy to be able to try out these new puzzles.
+The quality of the puzzle is pretty good but maybe not as good as Ravensburger.
+The pieces are fairly thick and crisply cut but they don't have a matt finish on top.I would describe all the paintings as middle American, a lot of American scenes and many of nature.
+This particular puzzle is of penguins.I really like the whimsy pieces.
+They can come in the shape of animals, letters or random objects and make the puzzle just slightly harder to put together, and they're just something different from your regular run of the mill puzzles.Overall, I like this puzzle a lot and was happy to have to opportunity to put one together."
+This puzzle features an adorable picture of a penguin family.
+What made the puzzle extra-fun, though, was the novelty-shaped pieces mixed in with the regular-shaped pieces.
+Also, the puzzle pieces were a little larger than normal which makes them easier to handle.
+My family is enjoying puzzles in this series.
+I usually only purchase Ravensburger puzzles, but I got this one for free through the Vine program and I'm really glad I did because now I've found another manufacturer that I love.
+These pieces are high quality, very sturdy pieces.
+My kids love the whimsy pieces (shaped like animals, letters, stars, etc) and I liked that these pieces actually made the puzzle a little harder, not easier like I was expecting.
+So, even though this was only a 500 piece puzzle, it was challenging enough for an adult to enjoy.I'm buying more of these!
+It's a great price, too!
+I love a challenging puzzle and surprisingly, even though this is only 500 pieces, it was a good challenge.
+The reason is twofold.
+First, even though it is detailed with penguins and various rocks and ice, each piece is similar in color, lots of blues with tiny patterns.
+Next, every piece is different.
+Really.
+Some are square, some are just a curve, some are recognizable shapes.While I liked doing the puzzle, the only problem is that a lot of the shapes don't interlock so they shift around as you work.
+It just means continually pushing pieces back together to keep them where they belong.
+As the puzzle was more complete, it was easier.So although the odd shapes add a fun twist, they were also frustrating.
+My son and I love doing puzzles together, and this is a great one.
+This one, we actually took over to my dad's house to do together.
+My son and my father both absolutely love penguins, and the three of us had a great afternoon piecing this puzzle together.
+It's really well-made and durable, and the pieces fit together nicely.The finished product is great.
+It would be great to glue together, or to take apart and do again.
+We all really enjoyed doing this puzzle.
+We would highly recommend it!
+I like this puzzle a lot.
+The puzzle shapes are very different from the puzzles I usually work on which makes it a bit more challenging.
+The quality of the pieces is durable enough, but I still have to be careful with them, especially to keep them from falling to the floor and being eaten by a dog.
+The picture is absolutely delightful and there is nothing I can say about this puzzle that is negative.
+Great puzzle and a fun time assembling it.
+This puzzle is quality...durable pieces with well glued paper.
+Pieces fit well together.
+It was harder for my younger children to put together because the colors are all very similar and muted tones.
+The graphic is nice and I'd gladly buy a puzzle by this manufacturer.
+I have a nine year old little penguin lover in my life and this was a perfect gift for him.
+The tender picture of the penguin family motivates any penguin lover to finish the puzzle.
+It will not be done in one day or even two but it will bring hours of fun.
+All the white of the snow makes the puzzle a real challenge.
+Also, since it is a 500 piece puzzle, smaller children may need a little help with it.
+However, this is the best part.
+Sharing the time, calm patient kind of time, working on it together.
+"The painting this puzzle depicts reminds me of those Current greeting cards from the 1970s with names like ""Flopsy and Fuzzy"" or ""Fun and Furry"" and watercolor illustrations of animals such as a squirrel using a leaf for a sleigh.The 500 unique pieces and the large areas of similar coloring take a while to put together.
+I like the squarish shape and the ""whimsy"" pieces give it a little twist.The quality is good and the cardboard backing is sturdy."
+"This is a quality puzzle with pieces that feel sturdy instead of flimsy.
+I try to incorporate a jigsaw puzzle every once in a while in ""game night"" because they are one of the few activities that utilize both the left and right hemisphere of the brain - logical sequence on the left and creativity and intuition on the right.An unexpected bonus -- as we gathered to construct the puzzle, the younger members of the group enjoyed the fifty ""whimsy"" shaped pieces.
+They added interest to the puzzle."
+"We look for non-electronic gifts that bring families together, and this one gets high marks.
+The picture is cute without being babyish, and the 50 ""whimsies,"" which are pieces cut into shapes, takes this a step above the average puzzle.
+We will be buying more to give as gifts in the future."
+Teach your little kids to appreciate shapes and colors in a very cute format.
+This penguin family puzzle is beautifully crafted, very colorful, and a great learning experience for your kids.
+Ultimately doing puzzles at a young age teaches kids to problem solver and abstract better, being better able to understand mathematics and science, helping them along every step of the way in school!They'll be so focused on the penguin family that they will not concentrate on the special skill sets they are learning as they maneuver all of these uniquely shaped puzzle pieces into a really nice portrait that is suitable for framing and hanging in their rooms!
+Puzzle is made of quality board pieces.
+They are dense and doesn't feel like the cheap ones that easily separate into flakes.It is not the traditional puzzle pieces with all the fun shapes like Christmas tree, fairy, star, etc.
+The illustration of the penguins in their natural environment is also very nice.
+"This Penguin Family 500 Piece puzzle is 18"" X 24"" when completed.
+The puzzle includes 50 whimsy pieces that are interesting.
+The whimsy pieces can be difficult to get them locked in with the rest of the puzzle.
+I love that no two puzzle pieces are the same.
+It's always frustrating when two pieces look like they will go in the same spot.The puzzle isn't the best puzzle I've done but it's a lot of fun puzzle for the price.
+If you enjoy puzzles give this Penguin Family puzzle a try."
+My grandkids and I love to assemble puzzles.
+This one is especially cool because the pieces are very different, in recognizable shapes like animals.
+A bit harder to put together, but that is what we like.
+We take our time over the course of a week and take breaks to do other things.
+We really enjoyed this puzzle.
+"This is a fun, jigsaw puzzle with 50 ""whimsy"" pieces to make it a more challenging.
+I highly recommend it if you like jigsaw puzzles that challenge you in new ways and can do puzzles with 1,000 or more pieces, because it is much more challenging than the standard 500-piece puzzle.My family loves doing puzzles, and we've developed strategies over the years.
+Most jigsaw puzzles have pieces of standard shapes.
+I call them ""man,"" ""turtle,"" ""tent,"" and so on.
+If you organize pieces by shape, it's easier to find one that fits a space.But this puzzle is different, because 50 of the pieces are truly shaped like people, various animals, and objects (for example, a sitting child, a swan, and a telephone).
+The pieces that fit around them also aren't standard.
+While this makes the puzzle harder to solve, it also makes it more fun.
+I love being the one to find out where a particular ""whimsy"" piece goes!There's a lot of snow in this particular puzzle, so it's a little harder to work things out by color, but it's doable.
+We started with the flat, outside pieces (some of the ""whimsy"" pieces are sort of flat, but you can tell they're not as flat as outside ones), matched up some of the ""whimsy"" with the pieces that fit around them, put the penguin's heads together, and then started working on the sky.
+It's not a bad strategy.The pieces are fairly sturdy, as far as puzzle pieces go, and cut well.
+The ""whimsy"" pieces don't interlock, but the standard pieces do.
+Compared with other puzzles, I'd say this one is a little harder to do than a standard 1,000-piece puzzle.
+It's really fun, though.We've been working on it on and off for a day, and I think it will probably be finished today or tomorrow.
+It's a great puzzle.
+I'm going to be so proud of it when we're done."
+I recently got interested again in doing puzzles as a hobby.
+It is a good way to pass the time.
+This puzzle was challenging, but yet fun to put together.
+I have never heard of doing a puzzle with whimsies, there are 50 in this 500 piece puzzle.
+Some of them just slide right next to each other, different.
+I also purchased the puzzle store to pack away my puzzles in progress, rather than leaving it out on a table, so far it works great.
+This puzzle is moderately difficult to solve.
+Whimsy pieces are the attraction in this puzzle.
+However, the same pieces make the solved puzzle unstable because they don't interlock with surrounding pieces.
+The material quality is not in par with Ravensburger puzzles.
+This particular puzzle is not really colorful, but enjoyable to solve nonetheless.Absence of large areas of single color (blue sky, large clouds, water body, etc.)
+make this puzzle somewhat easy to solve.
+However, odd shaped pieces surrounding whimsies make it challenging to solve.Bottom Line is we enjoyed solving this puzzle and acquired a 1000-piece puzzle from the same manufacturer with lot more whimsies.

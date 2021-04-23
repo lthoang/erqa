@@ -1,0 +1,224 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+My son had a blast putting the set together and injecting the alien's guts with goo, and he ate the candy despite the fact that it tasted bad.
+Of course anything that sounds gooey or messy is a child's dream.
+So, I washed all the parts and now LEGO characters are bursting out of the alien's chest rather than intestines.
+They like pretending that they're actually eating alien guts instead of ""ok tasting"" treats.
+You can purchase ingredient refill supplies, but the candy doesn't taste good enough to make it worth going to the trouble of ordering it.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.004417134448885918,0.005572249181568623,0.003914698492735624,0.005090915597975254,0.004715162795037031,0.005191232077777386,0.00898976344615221,0.004552497528493404,0.004823420662432909,0.006468284875154495,0.004324788693338633,0.004139253403991461,0.004215190652757883,0.005266346503049135,0.00555433752015233,0.003964284900575876,0.004384236875921488,0.002789729507640004,0.004500962793827057,0.005743249785155058,0.0074470192193984985,0.004640880040824413,0.0038753575645387173,0.004705434665083885,0.0045129102654755116,0.005185906775295734,0.004526889882981777,0.005896550137549639,0.004876898601651192,0.0030132457613945007,0.0057304329238832,0.0058325789868831635,0.004883575718849897,0.004618750419467688,0.00508654722943902,0.004365837667137384,0.005500572267919779,0.005125829949975014,0.004413846880197525,0.0070421830751001835,0.0049166083335876465,0.004628154914826155,0.005971871316432953,0.007394122425466776,0.00434541841968894,0.0056223333813250065,0.0041656941175460815,0.008834734559059143,0.003921572118997574,0.012344599701464176,0.0037297517992556095,0.007108594756573439,0.004096892662346363,0.004394912626594305,0.004170116037130356,0.005245635285973549,0.002992569003254175,0.0038890382274985313,0.0029060635715723038,0.005625470541417599,0.004302696790546179,0.0038340396713465452,0.009280583821237087,0.005050674080848694,0.005300127901136875,0.004811275750398636,0.004865903407335281,0.0038224344607442617,0.004588861018419266,0.0037927101366221905,0.0028587470296770334,0.002711628098040819,0.00305686192587018,0.005374746397137642,0.004376098979264498,0.004376098979264498,0.00431683799251914,0.004376098979264498,0.0028860291931778193,0.004376098979264498,0.003961079753935337,0.00444066384807229,0.004093248397111893,0.004437032621353865,0.0024348010774701834,0.005156650673598051,0.010266287252306938,0.004557612352073193,0.00684848427772522,0.0052110482938587666,0.005769711919128895,0.0033601131290197372,0.005218858830630779,0.004557612352073193,0.004205686040222645,0.005777420941740274,0.004226234741508961,0.004696570336818695,0.004223196767270565,0.004353976808488369,0.004281548783183098,0.006750234868377447,0.004933678079396486,0.005767675582319498,0.004577605053782463,0.004514168482273817,0.0045638978481292725,0.004417796153575182,0.0053021954372525215,0.0037249180022627115,0.0045638978481292725,0.004728184547275305,0.0032477802596986294,0.0038960243109613657,0.004393293987959623,0.00455102976411581,0.006574125494807959,0.004397152457386255,0.004678728058934212,0.004163067787885666,0.0041162557899951935,0.00437393831089139,0.006236226763576269,0.004397152457386255,0.004889452829957008,0.005288050975650549,0.005656025372445583,0.004492797888815403,0.0049241106025874615,0.004822795279324055,0.005113482009619474,0.0049290526658296585,0.0030983365140855312,0.0037407821509987116,0.005046746227890253,0.002963628154247999,0.004746044520288706,0.004221060778945684,0.004836347885429859,0.005066142417490482,0.004407571163028479,0.004612865392118692,0.0035412630531936884,0.005325039848685265,0.0056901671923696995,0.005318264476954937,0.0020183345768600702,0.007591107860207558,0.005562060046941042,0.0025034029968082905,0.004354767967015505,0.004695414565503597,0.003417549654841423,0.004883750807493925,0.004610924050211906,0.0035559230018407106,0.004455754067748785,0.004610754549503326,0.004455754067748785,0.004737044218927622,0.004455754067748785,0.004455754067748785,0.004018194042146206,0.006713629234582186,0.004529647063463926,0.004780221730470657,0.004529647063463926,0.004878094419836998,0.006671566050499678,0.004529647063463926,0.005184041801840067,0.004643755964934826,0.00521872891113162,0.004798387177288532,0.0067055076360702515,0.00445950124412775,0.004529647063463926,0.004759215284138918,0.004547646269202232,0.006170377600938082,0.004433862399309874,0.004644936416298151,0.005824322812259197,0.004683079198002815,0.005632622167468071,0.004538587760180235,0.004734870977699757,0.004597632214426994,0.0036598884034901857,0.0066999588161706924,0.0047364383935928345,0.004090491216629744,0.006112583912909031,0.0031949803233146667,0.00473569193854928,0.004818991757929325,0.002805218566209078,0.004391652997583151,0.005960483103990555,0.004840173292905092,0.004945836029946804,0.004196062684059143,0.005255608353763819,0.004997806157916784,0.00414420897141099,0.003256055759266019,0.0039037030655890703,0.0038941793609410524
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+"My boys both 7 and 11 loved this toy.
+They couldn't wait to get it out of the box and start making slimy guts.
+First of all you're going to need 4 AA batteries that are not included.
+The included packages would be enough for about 3 uses and then you'll need to buy refills.
+Not exactly sure how easy the refills are to come across but I'll be looking since the kids loved it so much.
+It does look pretty gross but that's where the fun comes in.
+They like pretending that they're actually eating alien guts instead of ""ok tasting"" treats.
+I'd definitely pick these up for the adventurous boys in the family.
+It'll make an interesting Christmas or birthday gift."
+I got this for my nephew who loves creepy things.Doctor Dreadful- Alien Autopsy is both creepy AND delicious.
+(Not delicious for adults unless you have the taste of a little kid.)
+My nephew loved Doctor Dreadful- Alien Autopsy.
+From start to finish, his imagination flourished and the 'game' continued for hours.
+Candy that is guts and innards...that's perfection.
+What more can you ask for?The alien is constructed nicely with just the right amount of detail while keeping the functionality simple and easy.
+Accuracy?
+There is no point of reference, as this is for sheer fun.
+Those of us who grew up enjoying using the gummy adhesives in magazine adverts or those fake credit card mailers as fake boogers will love the idea of kids enjoying this.As you can see from other reviews, you either love this stuff or you don't.
+;)
+"The packaging is impressive, intriguing, exciting -- and leads you to believe you're getting much more than what is inside.
+Inside the box, you'll find a number of little plastic bags filled with multi-colored plastic parts, just waiting for you to snap them together to create the Alien on the lab table.
+We finally got the little guy together --but it was hardly worth the effort.
+We spent more time putting this toy together than we did playing with it.The instructions were less than clear.
+The very first instruction is to remove the battery pack door with a screwdriver.
+Hmmmmm.
+Where's the battery pack door?
+I found it taped between two pieces of cardboard.
+And although the plastic parts are multi-colored, the instructions are in various shades of gray, so it is difficult to tell what part goes where.Once you get the Alien mold assembled and you've added four AA batteries (not included, of course), you're left with several plastic parts - a syringe, a tiny spoon with a hook on one end, and a tiny beaker, apparently with measuring marks on one side -- though they are very, very hard to see, almost imperceptible -- and four tiny bags of ""ingredients.""
+The total amount of edible ingredients is about 3.5 ounces -- less than a small box of Jello.
+You get one bag of lung bug mix, one bag of stomach mix, and two bags of intestine mix.
+The contents of the ingredient packets are not identified, but I'm assuming it's mostly sugar and gelatin for the first two experiments, and sugar, flour, and cornstarch for the gut experiment.
+With a healthy dose of finger-staining food coloring added in.
+Sadly, none of the bags are resealable.
+(Just putting the ingredients in zip-loc bags would be a huge improvement.
+)There are three ""experiments"" to do.
+"When I was a kid, I had a kit like this.
+I distinctly remember getting one for christmas that had me making bugs that I could then eat.
+My mother hated it, and Santa was probably reprimanded for its purchase (DAD!
+)There is just something about toys/kits like this, that...if you think about it...is quite disturbing.
+Creating guts for an alien, that is dead and you are doing an autopsy on, and then eating them!
+Its brilliant, and fit for that kid who likes the jiggly nasty things in life.
+There isnt any real solid learning value in this, to be honest.
+I have to say that the only thing that might be a teaching tool is how to mix up the ""guts"" and you might could explain what Viscosity is.To those who say this toy is only good for one or two uses, obviously has no imagination!
+just because the packets of goo are gone doesnt mean that a kid cant pretend and play with this till it falls apart!!"
+"My 7 year old son got a $20 gift card for Christmas and bought this with it.
+His overall reaction: the candy tastes bad, but making the candy is fun!
+Know up front that this is one of those products with a limited life span - after you've made several batches of candy and used up the included ingredient packets, you might as well throw the kit away.
+You can purchase ingredient refill supplies, but the candy doesn't taste good enough to make it worth going to the trouble of ordering it.
+Also, the novelty of making the candy is fun at first but loses it's appeal over time.
+My son had a blast putting the set together and injecting the alien's guts with goo, and he ate the candy despite the fact that it tasted bad.
+He was excited to make another batch of candy shortly after, but the law of diminishing returns definitely applies here - the interest level will doubtless drop off after a few rounds of candy-making.Overall we liked this set.
+It has aliens, goo, & guts - what's not to love?
+Set realistic expectations - this one won't make the ""most played with"" list for very long, but it's fun while it lasts - and enjoy."
+"Admittedly, this ""toy"" is pretty cool.
+My seven-year-old son's eyes lit up when I gave this to him.
+Soon after, I found him shut in his room assembling the alien on the floor.
+The quality of the entire set is first rate (for a toy, mind you) and the candy mixes don't taste half bad.
+My son and I had the most fun creating the intestines for the alien.
+You basically mix ""intestine mix 1"" with water and put it in the chest cavity, which you then close.
+Then you mix ""intestine mix 2"" with water, fill the included syringe with it and inject it into the chest.
+When you open the chest cavity, you get this cool-looking colored watery goo filled with blue ""intestines.""
+After doing a bunch of things like making alien eyes, etc., my son informed me ""Dad, I think I'd rather just play with it without making candy.""
+So, I washed all the parts and now LEGO characters are bursting out of the alien's chest rather than intestines.
+C'est la vie .
+.
+.
+or c'est la Alien Autopsy, I should say."
+"The many other reviews have covered this toy well...
+I don't think this is going to be a toy that children return to time and time again, but rather it's a toy where a special memory is made perhaps at a sleepover where the kids are needing something to do together.
+It's easy to assemble and easy to use - though the ""candy"" is not really tasty that's not the point.
+Other reviewers have said there are no refills available but a search on Amazon shows that they indeed are.The stomach ""jiggler"" is especially a lot of fun!So, a toy they'll play with once or twice and then toss away... so only really makes sense of it's a special occasion/event for a group of kids."
+"So when it comes to reviewing books, I remain in the driver's seat.
+With toys, however, I must bow before the opinion of experts.
+Having handed ""Alien Autopsy"" over to my daughters (8 and 10) both returned insistent that I include their assessment in my review.
+""Awesome!""
+says one.
+""Too cool!""
+declares the other.
+Both kept telling me they couldn't wait for Halloween (now I need to make a Doctor Dreadful and assistant costume!
+).As an adult, I can't say I really get it.
+The toy consists of mixing lots of colorful jelly candies in the shape of various guts.
+Getting the mixing right can be a challenge, but when I asked, both said that the failed attempts were part of the fun.
+On the table, the whole thing jiggles as if alive.
+Okay, so maybe I do get it.
+Unlike another reviewer, I didn't find clean up to be much of a challenge -- a hot water soak did the trick and the counter cleaned with a damp sponge.It may not be a toy that adults think kids SHOULD love, but -- at least in my house -- it proved to be one that my kids DID love."
+"Honestly I couldn't believe how excited my kids were to check this out!
+Of course anything that sounds gooey or messy is a child's dream.
+But....
+I failed to read the description when purchasing and of all times.... we didn't have 4 double A batteries in the house.
+By day 2, I had the batteries and the kids were ready.
+My oldest is 11 and my youngest is 8 1/2.
+Although they normally fight, I was excited to see them working together to figure it all out.
+The pieces are tiny, in fact everything about this looks tiny.
+Very small amounts of everything.
+Definitely wasn't made to use more than a handful of times.
+Between the two ""brains"" they managed to figure everything out.
+I think it's educational simply because they had to READ directions and figure it out, it helped them work together.
+It resulted in lots of squeals and giggles.
+My son spit out his creations and said it was definitely more fun making than eating, but my daughter gobbled them up - go figure.
+Now everything is used and nothing remains.
+I really don't know what we will do with it as I don't know where to purchase extra pieces, so I will put this on the shelf and just wait and see what happens.
+I thought Alien Autopsy was icky and gross, but no one had me in my mind when they were making this.
+My 9 year old nephew loooooooved it.
+He loved the gross factor and he actually ate and liked the guts candy it made.
+I didn't try it, but he really liked it.
+It was easier to do than I thought, just a little mixing...although I do think we maybe added a little bit too much water, you do have to be precise in the mixing.
+Other than that though it was mostly simple to do.
+We still have plenty of mix left too so there are more autopsies to come.
+I do think it's a little pricey for what it is and I am not sure yet about the re-playability, but he had alot of fun with it and is still talking about doing it with his friends, so that's a good thing.
+Once the mix is gone though....not sure if it will be worth allowance money to buy  more.
+We shall see.
+OMG I can't imagine some people sitting in a board room and conjuring up the idea for this think, or better yet being the one that  pitches it to investors.
+I got this for my nephew because he is really interested in UFO's, and creepy crawling things (like all boys) and science.
+The box it comes in looks very exciting and it was fun to bring to a party.
+All the kids let out a holler when he opened it.
+He has used it several times, and keeps trying new ingredients to see how it comes out.
+Some are real flops of course, but he is so excited about it, that it is adorable!
+"I have a 7 year old boy and a 5 year old boy, so when I saw this, I thought they'd like it.
+The pieces were very easy to put together and the directions were easy to follow.
+It comes with packages of powder that you have to mix with water and place them in the different sections to ""mix"" them, then you're able to eat your creations.The best part of this was seeing the intestines jiggle in the purple section.
+Is it gross?
+Yes--but boys will love it.
+I have to admit, the other sections weren't as fun and it's recommended that you freeze those sections.
+Kind of difficult to take those pieces off and put in the freezer.
+My kids and I did not like the taste of the stuff at all and after doing this once, I don't find a lot of repeat value in it.
+Overall, I probably wouldn't recommend."
+My nephews Completely fell in love with this item the moment it arrived on our doorstep!
+They were so excited to make all the disgusting body parts and then of course eat them.
+Me, being the girl that I am, was not interested in eating nasty body parts.
+My nieces were Not interested either.
+But once the boys discovered that the body parts were actually a candy type substance they quickly convinced the girls in my family to give them a try.
+Unfortunately, the only bad part about this toy was that there wasn't enough ingredients for all of the kids to make their own body part.
+I'm hoping that there is a refill kit available so that they can continue their gross discovery of alien bodies.
+Alien Autopsy was easy to put together.
+We loved it and the kids begged to do open it for two days.
+We finally had the time and set up our supplies which consisted of batteries, bowls and warm water.
+We found it easier to work out of the bowls rather than the bags provided but you don't have to.If you follow the directions exactly, all will be well.
+There was one thing (the bubbling alien guts) that I had to do three times but that was because I didn't realize it was a two stop process.
+We were too excited.The kids loved creating the super gross alien eyeballs, parasitic lung bugs, and the bubbling alien guts which honestly was the coolest because it is the part were the batteries come into play.
+Once you dump the guts from the throat area into the stomach by lifting a part and watching it drain down into the stomach (the purple area) you turn the dial and the whole thing vibrates making the nasty, green, gross ingredients jump around.What I can tell you about the taste:Umm..the eyes were OK.
+It is like softish gummies.
+Not bad.The lung bugs taste OK but my kids didn't like it.
+It was another gummy type treat.The bubbling stomach mess was just nasty and gross.
+It taste like something I shouldn't be eating.If your kids are looking for something for taste, this is not it.
+If they are looking for gross treats that you prepare in a fun way it isn't bad.I just wonder what happens when you run out of the food packs.
+Ok, i know this is SUPPOSED to be gross but my son could not stand it.
+The candy mix used to create the alien parts was a gross consistency and the taste was not appealing.
+My son tried making a few things and then figured out he didn't like it at all so i wound up cleaning up a lot of sticky, gummy mess.
+It does come with plenty of mix to get you started but you will eventually need to buy refills.
+My son is using it to play with and pretend to do alien autopsy but he doesn't want to use the candy mixes.
+He took out the batteries to use in another toy.
+My sons have all wanted the easy bake oven at one time or another, and they all loved it.
+However, once the boy stage sets in, they leave the mixing and experimenting aside and run for sports.
+I like the idea of education being snuck into these toys.
+it is also appealing to an older age.
+These concoctions work about as well as the easy bake.
+You can't expect a lot from these toys.
+Now, having said that, this is the best working one from this company thus far.
+Would I recommend it?
+Yes.
+would I pay a lot for it?
+No.
+Remember that it doesn't come with a lot of mix, so you have to buy refills.
+You do need to follow the instructions carefully, and if you have a kid that is easily frustrated I wouldn't recommend it.
+I went into this thinking it was an interesting way to make candy.
+Don't get me wrong, it is, but the kids interacted with this thing for you won't believe how long!
+Pretended they were doctors, scientists, Frankenstein.
+Seriously loved this thing.
+And well, there's the edible guts too.From a mommy standpoint, I thought this was going to be a pain.
+Not so.
+Pieces come apart and go back together with ease.
+Cleans easily with water and mild soap.
+Shame the bags aren't resealable though.
+Seems pricey too for what you get.
+Note: the goo/gummy batter hardens fast, so inject into the alien ASAP.
+Also, following mixing instructions to the letter.Additional Note: If you watch your kid's sugar content, run out of candy mixture, or seeking something different, use a Jell-O jigglers recipe and put in the alien and refrigerate.
+Kids loved that!
+"My 2 girls like scary toys and Goosebumps books, so I thought they would enjoy this.
+Putting it together is quite a project, and they suggest you cool it in the fridge beforehand.
+We tried out the gummy lungs and ""guts"" mix - while they worked, the girls did not like the taste of any of it (I actually liked the flavors better than they did!)
+and weren't interested in making any more.
+There's not really anything else you can do with it as a toy, so...off to the dump it goes after the required 6 months or whatever.I've seen this toy drastically discounted.
+As a one-use item, maybe it will be entertaining for a Halloween party or similar event."
+I recently acquired a molecular cooking kit for adults for a much higher price then this toy which teaches you the same thing!Candy making is just another form of Molecular cooking so Alien Autopsy is a fun but totally educational toy.
+It would be great as a home school activity for a science unit.As a toy it's fun albeit a little messy.
+It cleans up fast though.
+The only drawback is that it's pretty much one time use only until you locate replacement ingredients.
+Would be a very fun Halloween activity for the kids.
+"This toy basically lets kids make candy in the shape of alien intestines, eye-balls etc.
+You use the ingredients included in the box (powder you mix with water) and use molds or a ""food injector"" to turn them into gummi-like candy in gross shapes.
+My five year old thought it was fun for five minutes but then decided it was kinda gross and not that interesting.
+Possibly older kids would be more into this, but I doubt it'll hold anyone's attention for a long time - plus there are only four packages of the candy mix included so you won't be able to keep playing it for that long anyway.
+This is a cool idea, and I could see maybe pulling it out at a science fiction or alien-themed kids party could be fun, but it doesn't have much lasting value."
+"I used this with my Goddaughter and we had a total blast.
+The whole concept is great, with the deceased alien on an autopsy table.
+This will go down like gangbusters at a Halloween party.
+You'll need four AA batteries to power the thing, and definitely a fair amount of time - not only for figuring out how to use it properly (good way to help kids learn to follow directions) but also for clean up.
+This is a novelty item for sure, and I don't think its something many kids will want to drag out over and over again.
+Plus, once you're out of the ""food"" mixture (love how they categorize this as ""food"") I think you're pretty much done with the set.
+That makes is a little on the pricey side for something that will get used once or twice and discarded.
+The candy it produces is pretty much sugary junk, but that's beside the point.
+Kids will love creating it themselves, no matter how subpar the actual quality of the candy is."
+I gave this to my 8 year son and he wanted nothing to do with it.
+Pushing past that, we put it together and made the mixes.
+He warmed up to it but after a few uses, never mentioned it again.
+(He has owned it for over 6 months).
+I think the idea is fine but it should be under 15 dollars.
+The retail when I received mine was double that and for that price, I feel it is poor value.Now if you have a child with a lot of interest in Aliens, perhaps the value/repeat play will be higher.

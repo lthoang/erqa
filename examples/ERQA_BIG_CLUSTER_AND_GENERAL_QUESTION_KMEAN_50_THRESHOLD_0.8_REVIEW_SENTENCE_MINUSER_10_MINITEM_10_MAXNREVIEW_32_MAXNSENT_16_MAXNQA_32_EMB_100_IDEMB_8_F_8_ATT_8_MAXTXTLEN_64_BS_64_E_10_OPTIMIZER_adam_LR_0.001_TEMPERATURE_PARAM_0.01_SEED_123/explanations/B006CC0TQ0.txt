@@ -1,0 +1,157 @@
+Top question(s):
+Does this accomodate the full size My Little Ponies or just the smaller ones?
+Are these tracks compatible with the larger set (including three cars) sold exclusively at Toys R Us?
+Top sentence(s):
+The My Little Pony Magical Pony Express Train Set is a great toy for any little girl (or boy, my one year boy is fascinated by it).
+The train and tracks are sturdy and it was bigger than I thought it would be.
+There were no derailments with the train that I was aware of.
+It was easy to get the train out of the box, place the stickers on it and snap it together.
+My little Pony Magical Pony Express is a simple train with only a few pieces of track and a small, battery powered engine and small, additional car.
+
+Question attention weights:
+0.2764112651348114,0.21684016287326813,0.3871792256832123,0.11956929415464401
+Sentence attention weights:
+0.00863017700612545,0.007388990372419357,0.006493586115539074,0.0075413878075778484,0.008197800256311893,0.007744789123535156,0.007165891584008932,0.009089642204344273,0.0070760054513812065,0.007941572926938534,0.007337080780416727,0.008389602415263653,0.008451422676444054,0.006541466806083918,0.0080955121666193,0.007696755696088076,0.008204039186239243,0.008511649444699287,0.008836517110466957,0.007560322526842356,0.00748690590262413,0.004751439206302166,0.007788832299411297,0.0074785128235816956,0.008141722530126572,0.0076354616321623325,0.00751450564712286,0.005979801993817091,0.00777484942227602,0.006535000167787075,0.008340543136000633,0.00782968383282423,0.0051648421213030815,0.006487912032753229,0.00812752265483141,0.005066824145615101,0.0071026780642569065,0.00621428107842803,0.008220567367970943,0.006197776645421982,0.007264322135597467,0.005521710962057114,0.006953830365091562,0.006816070061177015,0.0062890308909118176,0.008343336172401905,0.007815820164978504,0.007193428929895163,0.0070740231312811375,0.007886008359491825,0.008166114799678326,0.0075613935478031635,0.007630142383277416,0.006370311137288809,0.006763376295566559,0.007469667587429285,0.007654089014977217,0.00781390629708767,0.006278988905251026,0.007809992413967848,0.00781390629708767,0.007357588969171047,0.00781390629708767,0.008458815515041351,0.009399596601724625,0.00781390629708767,0.0076417881064116955,0.0071027930825948715,0.007019487209618092,0.007137097883969545,0.007672169711440802,0.009250013157725334,0.005291025619953871,0.008177293464541435,0.00564127741381526,0.007364410441368818,0.0074144937098026276,0.010337439365684986,0.007420416455715895,0.005955858621746302,0.007221396081149578,0.007624164689332247,0.007558033801615238,0.004296689294278622,0.008967531844973564,0.007963566109538078,0.006224485579878092,0.00797885749489069,0.007638945709913969,0.007992999628186226,0.00764399254694581,0.008132628165185452,0.0081320870667696,0.007327308412641287,0.008091202937066555,0.008280837908387184,0.007204878609627485,0.007754767779260874,0.010639277286827564,0.007901132106781006,0.008840011432766914,0.010063495486974716,0.00757936853915453,0.0075860396027565,0.008992321789264679,0.007407682947814465,0.007876264862716198,0.004910304211080074,0.007085764314979315,0.0059167975559830666,0.00931628793478012,0.006715305615216494,0.007311380002647638,0.007612431421875954,0.007954396307468414,0.007399995811283588,0.00856924057006836,0.004405801650136709,0.00633516488596797,0.005546991713345051,0.006887655705213547,0.00731609808281064,0.007621303200721741,0.007161152083426714,0.007885834202170372,0.0060682520270347595,0.006765743717551231,0.005504651926457882,0.007823762483894825,0.006391159724444151,0.011232718825340271,0.006371068302541971,0.0069276695139706135,0.010550345294177532
+0.00857593398541212,0.007174483500421047,0.006157021038234234,0.00727804284542799,0.00793522410094738,0.007557656150311232,0.007122475653886795,0.0091526685282588,0.006929224357008934,0.007848250679671764,0.0077590360306203365,0.0083366883918643,0.00902242586016655,0.006412150338292122,0.007892652414739132,0.0068743848241865635,0.009035928174853325,0.008180017583072186,0.008459528908133507,0.007550712674856186,0.008219514973461628,0.004786224570125341,0.0077131581492722034,0.008043660782277584,0.0075651309452950954,0.007399079855531454,0.007420029025524855,0.007013529073446989,0.007567343767732382,0.0073394146747887135,0.00864758063107729,0.007587688509374857,0.005803820677101612,0.007519353646785021,0.008004164323210716,0.00535852974280715,0.00750147458165884,0.005814668256789446,0.007223980035632849,0.006048547104001045,0.0072957174852490425,0.005851441062986851,0.007086878176778555,0.007158955559134483,0.005754641257226467,0.008100854232907295,0.007701276335865259,0.008183595724403858,0.0076582650654017925,0.007614427246153355,0.009035525843501091,0.006969159934669733,0.0074414899572730064,0.006706674117594957,0.007025795057415962,0.0076831127516925335,0.007676464505493641,0.007561238948255777,0.006341238506138325,0.007608593441545963,0.007561238948255777,0.00714573310688138,0.007561238948255777,0.008180791512131691,0.008926673792302608,0.007561238948255777,0.007542433217167854,0.006940355058759451,0.007431558798998594,0.008023611269891262,0.007420946843922138,0.009741402231156826,0.005382452625781298,0.008092003874480724,0.0057219467125833035,0.007269597612321377,0.008358153514564037,0.009610282257199287,0.007065666373819113,0.006180667318403721,0.007008071523159742,0.007232089526951313,0.007340071722865105,0.004591720178723335,0.008533385582268238,0.007453038357198238,0.006241954397410154,0.00820254161953926,0.00772435124963522,0.007902001962065697,0.007332921028137207,0.008387144654989243,0.007784735411405563,0.007528414484113455,0.008520065806806087,0.0082809217274189,0.008124710991978645,0.007691631093621254,0.010576434433460236,0.007367970421910286,0.009125085547566414,0.00978995393961668,0.007520655170083046,0.007667462341487408,0.008643954992294312,0.007160532288253307,0.00785005185753107,0.005632331129163504,0.007388406433165073,0.006369252223521471,0.008638416416943073,0.006716045551002026,0.0071718390099704266,0.007586485240608454,0.00804365798830986,0.007186360191553831,0.008630885742604733,0.004327144008129835,0.005919900257140398,0.005336889997124672,0.0066220443695783615,0.007832873612642288,0.00744484132155776,0.0065389880910515785,0.007648829370737076,0.0059587182477116585,0.007609236054122448,0.005209284834563732,0.007747704163193703,0.006303866859525442,0.010775918141007423,0.006442702375352383,0.007089509163051844,0.010241311974823475
+0.00879699271172285,0.008057289756834507,0.006713752169162035,0.007498409133404493,0.00835260096937418,0.007885130122303963,0.006989042274653912,0.007296851836144924,0.00708152586594224,0.007991197519004345,0.0059028808027505875,0.008462107740342617,0.006339929532259703,0.006392061244696379,0.008604991249740124,0.008978482335805893,0.006561268121004105,0.0076987529173493385,0.00932150986045599,0.007346033584326506,0.006884601432830095,0.004126801621168852,0.007367075886577368,0.0073911044746637344,0.00969831831753254,0.00785124208778143,0.008261214010417461,0.005005925428122282,0.00797777809202671,0.005576120689511299,0.00966030452400446,0.010233374312520027,0.004082141909748316,0.00494557898491621,0.009509234689176083,0.004560233559459448,0.006844119634479284,0.006626081187278032,0.010321009904146194,0.005897068418562412,0.007283228915184736,0.0045145126059651375,0.0062930891290307045,0.006484356243163347,0.006898487452417612,0.008756859228014946,0.007860217243432999,0.006039073225110769,0.00639013247564435,0.00793466717004776,0.006624250207096338,0.009036511182785034,0.00780703779309988,0.005652304273098707,0.006301986984908581,0.006798334885388613,0.008100109174847603,0.008030102588236332,0.005379958543926477,0.007802153471857309,0.008030102588236332,0.007261240854859352,0.008030102588236332,0.009026043117046356,0.009777212515473366,0.008030102588236332,0.007453827187418938,0.007181006483733654,0.00711438525468111,0.006415236741304398,0.008032827638089657,0.007588458247482777,0.00494498061016202,0.00850064679980278,0.004965184256434441,0.008708415552973747,0.006211999803781509,0.012159578502178192,0.008799495175480843,0.0049096462316811085,0.008339541032910347,0.008003730326890945,0.007753407582640648,0.003084107767790556,0.01017715036869049,0.008328072726726532,0.007115100510418415,0.007863456383347511,0.008403646759688854,0.008501148782670498,0.007775479927659035,0.006909926887601614,0.008683708496391773,0.008393270894885063,0.007433973718434572,0.008647025562822819,0.006034329533576965,0.007988300174474716,0.010240706615149975,0.00878490973263979,0.009761948138475418,0.010365585796535015,0.007771083153784275,0.007147018797695637,0.009410644881427288,0.007804686203598976,0.00761630292981863,0.0034655232448130846,0.007551461923867464,0.005122231785207987,0.012287412770092487,0.006426034029573202,0.007499732542783022,0.007558353710919619,0.008749688975512981,0.007593266200274229,0.007247228175401688,0.003796360222622752,0.006509639322757721,0.005572074092924595,0.006734427530318499,0.006790200248360634,0.007921678945422173,0.007568235509097576,0.008157867938280106,0.005718132946640253,0.0054461341351270676,0.006350720766931772,0.008110667578876019,0.005954450462013483,0.012821996584534645,0.00579551886767149,0.006394976284354925,0.010299677960574627
+0.00857992097735405,0.00737183541059494,0.007534247823059559,0.007731184363365173,0.008090646006166935,0.007466915529221296,0.006890713702887297,0.009596140123903751,0.006682026665657759,0.007528576999902725,0.006724933627992868,0.00846380926668644,0.008437215350568295,0.006197010166943073,0.007898133248090744,0.008556811138987541,0.008875972591340542,0.008812964893877506,0.008961832150816917,0.00730068888515234,0.007840423844754696,0.003993661608546972,0.00732834916561842,0.007391682360321283,0.00873495265841484,0.007294982671737671,0.007541660685092211,0.005301693454384804,0.007479052525013685,0.006081057712435722,0.010091972537338734,0.009110004641115665,0.004873498808592558,0.005910606123507023,0.00904790312051773,0.004555335268378258,0.007006974425166845,0.0056604305282235146,0.009133129380643368,0.005895320326089859,0.006906701717525721,0.004987956956028938,0.006445978302508593,0.006570594850927591,0.006054708734154701,0.008412485010921955,0.007416544947773218,0.006624071858823299,0.006809767335653305,0.00811677984893322,0.007533131167292595,0.008293692953884602,0.007461132947355509,0.006447616033256054,0.0064896754920482635,0.006807470228523016,0.008157599717378616,0.007549445144832134,0.00571464654058218,0.008431308902800083,0.007549445144832134,0.006909836549311876,0.007549445144832134,0.008609414100646973,0.00928801205009222,0.007549445144832134,0.007337003946304321,0.006903399713337421,0.0069643850438296795,0.006735180504620075,0.0074742077849805355,0.010025559924542904,0.004755281377583742,0.008351285941898823,0.004804517142474651,0.008365713991224766,0.0068247634917497635,0.011372883804142475,0.008051451295614243,0.005960279144346714,0.00773409241810441,0.007364281918853521,0.0072818477638065815,0.003071592189371586,0.009743389673531055,0.007953387685120106,0.0074516236782073975,0.008240368217229843,0.007818235084414482,0.007897832430899143,0.0072541618719697,0.007369667757302523,0.008148685097694397,0.0080946646630764,0.008088515140116215,0.00847363006323576,0.006726374849677086,0.008720030076801777,0.011340116150677204,0.008047712035477161,0.009946110658347607,0.010883518494665623,0.007394302636384964,0.007346652448177338,0.00945170596241951,0.007196539081633091,0.007505051326006651,0.004440688993781805,0.0075719826854765415,0.005126402713358402,0.0109650157392025,0.0061624073423445225,0.00733211962506175,0.007322506047785282,0.008561440743505955,0.006849238649010658,0.008637665770947933,0.0034711682237684727,0.006150633562356234,0.005532210227102041,0.006387124303728342,0.006940927822142839,0.00735159358009696,0.007587133906781673,0.007699537090957165,0.005398191511631012,0.006467795930802822,0.006265903357416391,0.007700823713093996,0.006022545509040356,0.011658068746328354,0.007418646011501551,0.00658384757116437,0.011263206601142883
+Questions:
+Are these tracks compatible with the larger set (including three cars) sold exclusively at Toys R Us?
+Where do you purchase the additional cars and add on tracks?
+Does this accomodate the full size My Little Ponies or just the smaller ones?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+This My Little Pony Train is really cute.
+Now do be aware, it's a very small and simple track set, but it's good for younger children.
+This set comes with the track pieces, the engine, one little train car, and the Pinkie Pie Pony doll.
+There are a handful of other train cars pictured on the box that look really fun.
+They're not included, but it looks like you can buy them separately.There are a couple of different ways to set up the track, and the thing I like most is that it's easy to set up and hook together.
+Even the kids can do it on their own (love that!).
+The whole set is sturdy and durable.
+The engine takes 2 AA batteries.
+If your kids love Ponies as much as mine do, they'll think it's great!
+My little cousins absolutely loved this toy.
+Assemblage was done in a snap, and they were conducting the train around the track in no time.
+It doesn't come with many pieces, but there are additions that you can buy.
+I'm not typically a fan of that type of marketing setup, but I think this is the way the My Little Pony line has always worked: lots of individual pieces to assemble one large toy.You'll need batteries and unfortunately they don't last very long, but that's a minor inconvenience.Kids loved it and it seems durable enough to me, so I wouldn't hesitate to recommend.
+This Friendship Express train set is reminiscent of a train set I had when I was a kid, although mine was blue and had a train turn table on one end.
+It looks like Hasbro took that idea and made it modern with My Little Pony.
+Well, I want to say that mine was more fun than this one.Let's look at the initial box: Good graphics with a window showing the engine.
+Inside the box, you'll find Pinky Pie pony with brushable mane and tail.
+You also have a railroad cart for a pony to stand/sit in.
+The whole set up looks like what's on the box.
+There are only 10 pieces to this set, so it's easy to put together (for parent and child).You can't really configure it differently.
+The train loops can either be on the same side (as on the back of the box, or on opposite sides of the bridge.
+To my knowledge, there are several other train cars available, but I can't really find them at my local shopping centers.The train is slow, but young girls' imaginations being what they are can probably make some great play time with this.
+My girls are both older than 5, and they tired of this quickly.
+I assume though that this would make a great toy for girls less than 5.The train set is built well--somewhat sturdy plastic for today's toys.
+My recommendation is that this is a hit or miss toy.
+If your kids are young enough, they may enjoy this immensely.
+For older girls, I don't really recommend this toy.
+My twin 5 year old daughters got this for their birthday from a friend and they love it, they are big My Little Pony fans and one is also a train freak, so that helped.
+The quirks are as follows.
+The back of the box shows a nice long train but it only comes with the engine and a small blue train cart to tow behind it, the other cars are sold separately.
+OK, so other cars are sold separately, but stores including Harbro no longer have them and people are price gouging here on Amazon and on eBay for them (retail was $12.99), so you can't get the extra cars (I did find, after calling around, a Sweetie Belle's train car at Toys R Us and picked that up, but Fluttershy's train car will have to wait till I can find it affordably).
+If Target and Walmart and Harbro are going to stock and sell the train set they really should also stock and sell the extra cars, frustrating.
+I found Rarity's Gem Carriage and bought it only to find out it was not meant to go with the train (wrong wheels) despite having the same couplers, so the train freak runs the train off the tracks to include Rarity's Carriage.
+The tracks don't go far and Hasbro does not make extra track, so you either have to have a limited toy or buy a second train set to get extra track.
+Like many toys, batteries were not included and the girls were very bummed that they had to wait to use the toy until we could get to the store to get batteries.
+I gave it a 4 for fun because it does not hold the girls' attention as long as I'd like unless you make a change, like switch the track configuration or get a new car for it, or when they realized they could run it off the tracks.
+I guess the main reason I only it gave it 4 instead of 5 overall is the lack of availability of the additional cars and the limited nature of the toy because of the small amount of track.
+Other than these complaints, the toy is abfab for My Little Pony addicts, my girls really do love it.
+My little Pony Magical Pony Express is a simple train with only a few pieces of track and a small, battery powered engine and small, additional car.
+The train comes with one pony and it can be assembled and ready in minutes.My girls are big fans of My Little Pony so they took an instant liking to this toy.
+They like the color and the theme, plus the fact that it comes with one pony.
+They have plenty of other My Little Pony figures and they were able to use some of the smaller ones with this toy, either placing them on the trailer or between the track, for added enhancement and fun.This train set doesn't have much track, but it can be configured a few different ways.
+With the two loops on the ends, the train can continuously travel around without it stopping or having to be reset.
+Oval tracks and circular tracks are, of course, the same but the double loops offered here are a little more interesting.It would be nice if this train set came with more cars, but they are available for an extra price.
+The overall cost of the set isn't too bad and it does seem to be reasonably sturdy and durable.
+It adds up to a toy that is recommended for My Little Pony fans and sure to be a hit with many young girls.
+My 19-month old daughter loves trains and horses, so I thought this toy would be the perfect combination for her.
+As others have mentioned, this train requires batteries that are not included, so be ready for that.
+Once I managed to get everything out of the extensive packaging, the track was easy to construct, and the train cars fit easily on the track.
+The track can be configured in several different ways, which was not what I was expecting from the packaging, which just shows one type of configuration.
+A 3-4 year-old toddler would be able to put the train on the track by herself and maybe even to put together the track.
+My daughter required some help with those steps, but she isn't yet 2 years old.Once everything was assembled, my daughter was really entertained by the train moving around the track.
+She enjoyed picking it up and trying to put it back down on the track.
+I think it would be even more fun with more cars, but as others have noted in their reviews, this train only comes with two cars.
+Other cars are available, but they are sold separately.
+All in all, this is a fun toy for the price, and it's good for a pretty wide age range.
+I would say toddlers in the 2-4 year range would enjoy this, though the older ones will probably want the additional cars.
+"My grandaughter has so much fun with this!
+she just adores trains!
+Hard to find them with a more ""pastel theme!""
+This was a great find!
+Now she is into collecting ""My Little Ponies"" and she has quite the herd now!
+Very easy for a little one to learn to use.
+The batteries last quite long!
+and we have gotten some additional packs with cars and ponies.
+Definately recomend!"
+"Being my three daughters were big fans of My Little Ponies, I opted to get this train and let them give it a try.I gave it to my three daughters (8, 6, and 4) and let them have at it.
+My 8 year old and 6 year old were quickly able to figure out how to assemble the tracks (I did not ask my 4 year old to try and assemble the tracks).
+After inserting a couple of batteries, the train was off and running.
+The time from the train set being out of the box to up and running was less than 5 minutes.
+Probably half of that time was me looking for a screwdriver.The kids had quite a hit with this toy.
+Instantly, the kids had assembled a ""city"" out of their My Little Pony and Strawberry Shortcake toys with the train at its center.
+The over the next few days, the train hauled cargo and people around their makeshift town.
+All three were quite thrilled with the toy.As I watched and changed the track configuration for the kids, I was marveled that such a simple design could bring such joy to kids.
+I loved how the smokestack makes for an easy on/off for the train.
+The only real complaint I had about the train is that it seemed to go through batteries pretty quickly.
+I was using rechargeable batteries with the train and they did not even last two days in the train.
+There were no derailments with the train that I was aware of.
+All three of my children seemed to be able to easily put the train on the tracks properly and get the train running.If you have a child who is interested in My Little Ponies, then I would definitely recommend this train set.
+In my opinion, I think it makes a great supplemental toy to other My Little Pony figures and buildings.
+With my children, the train set proved to me the main mode of transportation for a number of different toys.
+Overall, I think this is a fine toy or gift for younger children."
+When I was younger I always wanted a my little Pony but now my daughter can have that opportunity to play with them.
+Once I seen these on the line up on amazon Vine I quickly grab it.
+The product is perfect for my little girl.
+The whole set is cute and colorful but the battery life is terrible though.
+The set is quit sturdy and its very important to me cause flimsy toys are just a waste of money.
+So far my daughter loves the my little pony train set.
+Highly recommended.
+Not too much to this toy.
+There are 7 pieces of track that go together a couple(very few) different ways.
+This product would be good for girls no older than 4 due to how simple it is.
+A girl any older would lose interest quick.
+The train goes on without any help from a parent.
+It is very sturdy and i do not think these tracks would break easily, nor would the train.
+the train also works off the track which is good, the child can chug it along in the kitchen or wherever.
+Looks exactly like Pinkie Pie from the TV show, and is very cutesy.
+Great for a little fan, not to mention the packaging is very nice and would excite a little one upon sight.
+My Little Pony Magical Pony Express Train Set, the kids, ages 2, 3 and 5 enjoy playing with this train set, it was a clever idea to have the smoke stack be the start and stop stop for the train, the kids were able to start and stop the train themselves and hook up the cart.
+It was a little hard for the 3 year old to take the tracks apart and put them back together, but the 5 year old had no problems.
+They loved the pink and purple colors of the train.
+It was easy to get the train out of the box, place the stickers on it and snap it together.
+The battery location was easy to find, open and close.
+They were very excited to see the train run on the floor without the track also.
+Now they want the others cars and ponies that go with the set.
+It kept them busy for a while.
+Right out of the box this set was very easy to assemble and my 4 year old was playing with it in no time.
+There are only a handful of stickers to be applied (not necessary if you don't want to use them), other than that all you have to do is snap a few pieces of track together and in minutes you're ready to play.This set includes 5 pieces of track which you can assemble in a few different ways, the engine, and a tiny little caboose that attaches to the back of the engine, as well as one tiny pony.
+It would have been nice if they had included 1 more train car, but you can purchase additional train cars seperately.Overall it's really cute, fairly quiet, easy to set up and use and does not take up a huge amount of space, and my daughter has been having lots of fun playing with this.
+Mom's point of view:This is a well made train set.
+The train and tracks are sturdy and it was bigger than I thought it would be.
+The tracks go together in various formations and it's easy for little hands to set up.
+The packing was a bit over done - lots of little elastic bits that needed to be cut off, but little set up after that.
+It does not come with batteries.
+Be prepared for a little disappointment.
+Quite a few items shown on the picture of the box are not actually in the box.
+It does read on the box that these are accessories and are not included, but your little one is going to expect them to be in the actual set.Point of View of the Almost 4-year-old:My daughter is not a girly girl when it comes to toys.
+She loves cars, boats, planes, etc.
+Barbie doesn't stand a chance, though she does like Barbie's dog.
+Though a bit disappointed at the girly colors (she prefers red), she loved the train.
+Although she liked that it came with one pony, she prefers to use it to cart around her other small animal toys.
+The train is easy to turn on and off without my help and her hands handle the tracks with ease.
+I spent all last night and much of this morning playing with this one with her and she shows no sign of tiring of it.
+It's a winner in her book!
+I got this for my daughter who loves it.
+After playing it for a minute, she went down to her room got her little Tigger that would fit in the second car and put him in it.
+Then later I suggested to her to put the pony in the second car and put Tigger in the front so he can be the engineer.The track was easy to assemble and can be changed to a couple of different paths.
+It is also come with some stickers to add some scenery to the track.It does have some addition products that you can use to expand with this.My Little Pony Sweetie Belle's Ice Cream Train Carand the &#34;My Little Pony Fluttershy's Nursery Train Car&#34;It is also very well constructed and should stand up to being played with.
+Well it did stand up to my cat playing with it.
+I had it running and my cat came over and started swatting at it as it came by him, till he finally knocked it off the track.
+The My Little Pony Magical Pony Express Train Set is a great toy for any little girl (or boy, my one year boy is fascinated by it).
+The set includes the following: a Battery Powered Train, detachable Caboose, Pinkie Pie Pony, stickers for decoration and of course the 7 piece track which can be set up in a variety of ways.The set itself is made of durable plastic, is easy to clean, the track is easy to snap together and take apart so it makes for easy set up and storage.
+My 5 year old daughter absolutely loves this train set and was even more thrilled to find out you can buy extra train cars and ponies for tons more fun.
+I highly recommend this toy for any little girl (or boy) who loves My Little Pony, or Trains : )

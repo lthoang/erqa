@@ -1,0 +1,143 @@
+Top question(s):
+Is is appropriate for a 3 year old?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+I am wondering, however, it will last since it is very lightweight plastic.It is cute for Dora lovers, there is no doubt about that.
+"On the whole, this is a well-designed and well-built little kitchen that provides plenty of play activity and doesn't take up that much space.
+(At least, an adult's idea of aesthetics--children don't seem to mind the overly-bright and slightly discordant colors or the busyness of the design).As a toy, I think we are going to squeeze many hours of active and imaginative play out of it.
+I loved them as a child and I love them now.When the amazon vine newsletter this month included this kitchen I jumped on the chance to test it with my 4 year old niece.With several little girls in the family, we are always on the lookout for that elusive kitchen that is sturdy and well-made, has lots of playability, but isn't too expensive.This Dora Cooking Adventure Kitchen is good, but not great, for it's price range.The kitchen doesn't feel as substantial as the Little Tykes and Step2 kitchens.
+It is a bit on the smaller side, which is why I stated the 2-3 yr old age range.The cups, pots, pans and utensils are cute and feel well made, but I was not impressed with any other aspect.I feel like it is overpriced.
+
+Question attention weights:
+0.24103805422782898,0.4865727722644806,0.2723892331123352
+Sentence attention weights:
+0.009168733842670918,0.007784958928823471,0.008404229767620564,0.01035062875598669,0.007660713512450457,0.011715796776115894,0.006306637078523636,0.007453569211065769,0.006223485339432955,0.008165581151843071,0.0074949124827980995,0.009617277421057224,0.006726700812578201,0.008315627463161945,0.008371636271476746,0.021574631333351135,0.009168175980448723,0.007872550748288631,0.009555281139910221,0.006995545234531164,0.007453779689967632,0.00810054037719965,0.008799340575933456,0.009680167771875858,0.0075386082753539085,0.006111599504947662,0.007202017121016979,0.0070345476269721985,0.011430961079895496,0.008751217275857925,0.00912720337510109,0.008260468952357769,0.008196604438126087,0.007384180091321468,0.006621730048209429,0.0073203472420573235,0.005778071936219931,0.007858763448894024,0.005363842472434044,0.008814915083348751,0.008000665344297886,0.013734237290918827,0.010716964490711689,0.007558788638561964,0.010102874599397182,0.006247982382774353,0.00935420673340559,0.007954306900501251,0.011501696892082691,0.00799108762294054,0.007965116761624813,0.008175410330295563,0.007312295492738485,0.007643394637852907,0.006855874788016081,0.004082265309989452,0.009206707589328289,0.007642840966582298,0.00801103189587593,0.012488080188632011,0.007698093540966511,0.007768554612994194,0.010445776395499706,0.008232141844928265,0.008191932924091816,0.004317837301641703,0.01273017656058073,0.007659700233489275,0.007864664308726788,0.008828140795230865,0.008168025873601437,0.009198510088026524,0.00858754850924015,0.006790385115891695,0.006482674740254879,0.005620187148451805,0.004821598995476961,0.009903938509523869,0.005497681442648172,0.008437524549663067,0.009722738526761532,0.009327012114226818,0.00507329311221838,0.00773538276553154,0.011183567345142365,0.007949920371174812,0.009875347837805748,0.010079093277454376,0.011304475367069244,0.008742740377783775,0.00762975262477994,0.016933884471654892,0.008506369777023792,0.01283788587898016,0.0030699102208018303,0.004817350301891565,0.00801259744912386,0.004268540535122156,0.005745583679527044,0.00788186490535736,0.007778495084494352,0.00506990822032094,0.006263000424951315,0.006220344454050064,0.00799206830561161,0.007397527806460857,0.007122816983610392,0.008486676029860973,0.008878583088517189,0.006814585532993078,0.008234634064137936,0.007384450174868107,0.005159425083547831,0.00930060911923647,0.007576005067676306,0.007584863342344761,0.005966547876596451,0.008228232152760029,0.008541644550859928,0.008588802069425583,0.007660833187401295,0.007506111171096563
+0.009185602888464928,0.008190792053937912,0.008699522353708744,0.0101423729211092,0.0076566459611058235,0.010869554243981838,0.006250663194805384,0.007900121621787548,0.00656206114217639,0.007667300291359425,0.0071070315316319466,0.009567497298121452,0.007270266767591238,0.008554459549486637,0.008614183403551579,0.017785318195819855,0.008973192423582077,0.008034293539822102,0.009234517812728882,0.007418003398925066,0.00769541971385479,0.007931341417133808,0.009158210828900337,0.009286222979426384,0.007961547002196312,0.005888291634619236,0.00769028440117836,0.007561147212982178,0.011189998127520084,0.008774674497544765,0.0088051101192832,0.00849965400993824,0.008127288892865181,0.007644440978765488,0.007156515493988991,0.007868158631026745,0.006423544138669968,0.008249638602137566,0.006029368843883276,0.009015465155243874,0.00816934835165739,0.012125815264880657,0.010247851721942425,0.007193107157945633,0.009364647790789604,0.0067890179343521595,0.009055343456566334,0.007768021896481514,0.010835099034011364,0.008436620235443115,0.007992232218384743,0.008377720601856709,0.007693466264754534,0.007748426403850317,0.0074096969328820705,0.003898024559020996,0.009156021289527416,0.007726713083684444,0.00731788482517004,0.011299444362521172,0.008188152685761452,0.007767257280647755,0.009968878701329231,0.00847694929689169,0.008671036921441555,0.004627251531928778,0.01123927440494299,0.008059442974627018,0.008331659249961376,0.008709155023097992,0.008556520566344261,0.00950051099061966,0.00871433224529028,0.0063147940672934055,0.0060969931073486805,0.005408794153481722,0.004711978603154421,0.009558514691889286,0.0054726991802453995,0.008366348221898079,0.009216692298650742,0.009437632746994495,0.005402719601988792,0.007578152231872082,0.010890305042266846,0.007749512325972319,0.009243719279766083,0.009714753367006779,0.010285341180860996,0.00889548473060131,0.00806066207587719,0.015096348710358143,0.008161376230418682,0.01244371011853218,0.003747908165678382,0.005517994053661823,0.008313381113111973,0.0044033401645720005,0.006412042770534754,0.00819847360253334,0.007931189611554146,0.005480232182890177,0.006606320850551128,0.006378911901265383,0.008294815197587013,0.007825377397239208,0.007612144574522972,0.008205817081034184,0.009087900631129742,0.0070083364844322205,0.008019405417144299,0.007833120413124561,0.005748868454247713,0.009484179317951202,0.008019158616662025,0.008011259138584137,0.006469920743256807,0.008513175882399082,0.008330702781677246,0.008453133516013622,0.008197029121220112,0.007734718266874552
+0.009240063838660717,0.007872423157095909,0.008442268706858158,0.010460910387337208,0.007622994016855955,0.011695499531924725,0.0062964609824121,0.007539595011621714,0.006173157133162022,0.00794200599193573,0.007379339076578617,0.009586429223418236,0.006764588411897421,0.00838011596351862,0.00841915886849165,0.02125747874379158,0.009248669259250164,0.007917928509414196,0.009592154994606972,0.006997387390583754,0.007494950667023659,0.008103810250759125,0.008915859274566174,0.009625384584069252,0.00761417904868722,0.006132787559181452,0.00728735001757741,0.007091053761541843,0.011526220478117466,0.008854006417095661,0.008957218378782272,0.008285049349069595,0.008197149261832237,0.007383431773632765,0.006696471944451332,0.007458847016096115,0.0058766501024365425,0.0079440763220191,0.005447545554488897,0.008873031474649906,0.007880679331719875,0.013814611360430717,0.010610265657305717,0.007482115179300308,0.009789608418941498,0.0063016717322170734,0.009206531569361687,0.007652089465409517,0.011538971215486526,0.008031057193875313,0.007958470843732357,0.008193760178983212,0.00736937765032053,0.007713986095041037,0.006939705926924944,0.003948260098695755,0.009304286912083626,0.007627398706972599,0.007844149135053158,0.012383936904370785,0.007775680162012577,0.0076458994299173355,0.010254615917801857,0.008302784524857998,0.008319642394781113,0.004273591563105583,0.01290583424270153,0.007896143943071365,0.00791093334555626,0.008729573339223862,0.008252725936472416,0.009175654500722885,0.008618338033556938,0.006622140761464834,0.006303249858319759,0.005615991540253162,0.004555501975119114,0.00988185964524746,0.005360309034585953,0.00834461860358715,0.0098083121702075,0.009320640005171299,0.0050052739679813385,0.007735330145806074,0.011186027899384499,0.007767438888549805,0.00949073489755392,0.010098754428327084,0.01134725846350193,0.008801912888884544,0.007701829541474581,0.017014384269714355,0.008540809154510498,0.012908952310681343,0.003104205708950758,0.004850251134485006,0.00808639731258154,0.0042375223711133,0.00583849661052227,0.007917133159935474,0.007692453917115927,0.005066875834017992,0.006308775395154953,0.006251609418541193,0.008068016730248928,0.007518593687564135,0.007199248764663935,0.008500086143612862,0.008939089253544807,0.006723403465002775,0.008128772489726543,0.007463349960744381,0.005179098341614008,0.009425139985978603,0.007684490643441677,0.007675101049244404,0.0060548316687345505,0.008341203443706036,0.008322468027472496,0.008379953913390636,0.0077974568121135235,0.007588542997837067
+Questions:
+Does this set include batteries? and which type of batteries?
+Is is appropriate for a 3 year old?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+This is the first Toy that my granddaughter gravitates to when she comes to visit.
+She will always look for it first.
+She loves to pretend that she is making food for us and she makes food for her dolls.
+The dishes are sturdy plastic and She uses them alot.
+The cardboard cutouts that are used for the scenery are a bit flimsy but have held up pretty well.
+We did have an issues with keeping the oven door shut as it had to be shut firmly and my granddaughter didn't have the strength to close it.
+My husband fixed the problem with a little duct tape.
+This is a hit at our house.
+Assembly took 15 minutes and was easy to do.
+All you need is a Phillip's screwdriver and 2 AA batteries.
+I also used some Velcro to hold the cardboard cutouts in place.
+They kept falling out, and I think this will keep them in place and they will last longer.This kitchen is very small compared to our Little Tikes kitchen.
+The countertop is 5 inches lower than the Little Tikes.
+My grandkids who are 5 and over are just too tall to use this.
+It is perfect for the 2 and 3 year olds.
+I am wondering, however, it will last since it is very lightweight plastic.It is cute for Dora lovers, there is no doubt about that.
+The burner with the sound works perfectly although I still can't understand what they are saying sometimes, and I have the same problem with the TV program.I am disappointed that there are not more food items and dishes.
+There really is no opportunity for using their imaginations like they do with our other set.
+We have collected a lot of play food items, pots and pans, and dishes over the years; and the kids are always thinking of something new to do with them.
+Yesterday they set up a restaurant, with a cash register on a counter and a table for customers.
+This is a nice kitchen set.
+Aside from being a bit too busy for my tastes and, well, plastic everywhere, it contains a lot of items to keep play interesting and varied.
+There are a number of plates, play good, cups, pots to really encourage the imagination.
+Dora also speaks and encourages more play.The set just needs a screwdriver and around 15-20 minutes of assembly time.
+As toys go very easy.
+I don't know how durable it will be and I also personally get fatigued just looking at it.
+Just colors and stuff everywhere.
+I think toning it down would have improved the overall product.
+In the end I do recommend it as it is good value and encourages good imaginative play.
+I don't normally like Dora the explorer items for a variety of reasons, one being they are not usually good quality.
+The Dora Sizzling Surprises Kitchen is of very low quality for the price.
+It is poorly made and very flimsy, it is not very durable at all.
+For the price you should expect something of better quality, but you are basically paying for the Dora name.
+I cannot recommend this to anyone for the price it is currently selling at.
+This is a great little kitchen but it is a easy to knock over.
+I put it up against the wall and that helped.
+My little one has played with it for hours.
+It was super easy to put together.
+I like that it is light enough that I can easily carry it to put it away.
+Overall a fun little kitchen.
+"Disclosure:  I'm a 50+ year fan of play kitchens.
+I loved them as a child and I love them now.When the amazon vine newsletter this month included this kitchen I jumped on the chance to test it with my 4 year old niece.With several little girls in the family, we are always on the lookout for that elusive kitchen that is sturdy and well-made, has lots of playability, but isn't too expensive.This Dora Cooking Adventure Kitchen is good, but not great, for it's price range.The kitchen doesn't feel as substantial as the Little Tykes and Step2 kitchens.
+It isn't flimsy, but it doesn't have the heft of these other two brands.
+I'm guessing it will nicely survive this one child who takes care of her toys but wouldn't survive a more gung-ho top chef kind of kid.We like the cheerful colors of the dishes and utensils that come with the set.The ""food"" that comes with it is unappealing for fake food and is a very odd and limited assortment.
+My niece (smart kid that she is) couldn't figure out what some of the foods were.In theory the sound effects of the stove and faucet are nice touch, but they don't sound very realistic.The english/spanish phrases from the kitchen are good basic ones that provide some benefit.In summary, my niece is enjoying playing with this toy, and will likely continue to do so until she ages out of it.
+She has a grocery cart and huge selection of better play food that she can use with this kitchen to make it more fun.
+If she didn't have that, I'm not sure how much replay factor there would be."
+Here are few thoughts about the Dora Sizzling Kitchen Suprises.
+The set up was really quick and our two year old really enjoyed helping with the assembly.
+It took about 5-10 minutes, which was great.
+It encourages not only play, but motor skills, to boot!Another plus is the size - it's big enough to play with it without taking up much room.
+There are enough pieces of bright, colorful food, but not too many to make a huge mess or get easily lost.The only real draw back is that it's not super sturdy or very great quality.
+We never put batteries in it, so I am not sure how much more fun that would have been.
+I realize the noises are a big selling point, but you certainly don't have to insert them to have a great time!
+I was really quite shocked at the cheap quality of this kitchen.
+It is priced in the middle as far as play kitchens, so I wasn't expecting a super solid unit, but this is thin, flimsy plastic-it's actually the same quality (or lack of) as another kitchen I got that I paid $20 for on a deal a day site, but it's priced at about $60, which in my opinion is WAY too high for what it is!Pros:It's colorfulIt talks (in both English and Spanish)It comes with some great accessories/play foodCons:It's very flimsyThe graphics (w/ the characters)are all cardboard inserts and keep falling outThe oven door keeps pulling off, even when secured per the instructionsAssembly is frustrating b/c it's cheap plastic so not everything fits the way it's supposed toOverall, I would say, if you just HAVE to have a Dora kitchen, then go ahead and pay the money for this one, but if you're looking for a middle-high quality play kitchen that's going to last, then pass on this one!
+This is an ok set for the younger toddlers - 2 or 3 year olds.
+It is not a set that is built to last.
+It is more of a starter set.It is too lightweight and the slightest pressure will push it over.
+It is a bit on the smaller side, which is why I stated the 2-3 yr old age range.The cups, pots, pans and utensils are cute and feel well made, but I was not impressed with any other aspect.I feel like it is overpriced.
+It feels cheap.
+Dora's talking is pretty much non-stop and does get to be annoying.
+Graphics are actually cardboard inserts - cheap.Some pieces of the pretend food are ok, while others just look like some sort of blob or block.For the price, I would check into a better set.
+There are cuter, more sturdy set available I the same price range.
+I cannot recommend this one.
+The 5 and under age range just isn't as subtle and delicate with their movements - they are still working on coordination and dexterity -  this set falls over or at least sways too easily with the slightest movements.
+Colorful & durable, this little kitchen has provided hours of fun for this little girl.She can be heard repeating the Spanish phrases as she plays (English is her first language).
+Her parents tell me they have to learn some Spanish to keep up with their Espanol- cooking/kitchen conversant daughter!There are many fun aspects to this little kitchen; the various added features are plentiful.Definitely a fun toy-self contained, complete,  and easy to put together.
+A great gift!
+My daughter is 17 months and loves to watch me in the kitchen so I thought this would be a great learning tool for her and being Fisher Price, I had high hopes.
+Boy was I disappointed!
+First of all, it was very easy to put together but the plastic feels so cheap and flimsy!
+She has knocked the entire thing down twice just by lightly pushing on it and it's not heavy at all to keep it in place so it's also not sturdy.
+Another complaint I have is that the picture of the pie in the oven and the backsplash images are printed on cheap CARDBOARD and are only held in by tiny tabs so my daughter has easily removed them and ripped one.
+Kids can push right through them; Fisher Price would've been better off making these stickers to stick to the flat surfaces so they'd at least stay in place.
+The purple pan doesn't sit flush on the burner and while I like that it has little hooks to hang up the cups, there should be something to store the dishes and other accessories in instead of having to put them in the oven.
+But the most annoying part of this kitchen of all is that Dora's voice talks nonstop and the child doesn't even have to do anything to make her talk - the things she says don't even correspond to what the child is doing.
+If my daughter is playing with the pans on the burners, it talks about the sink.
+Where's the educational value in that?
+Also, the Spanish voice sounds muffled and you can't really understand it.The one positive thing I can say is that we do love the accessories and they are made of good quality.
+It comes with a spatula, cups, plates, pans, and play food such as chicken, macaroni and cheese, and eggs.
+But I'm sorry I just cant see that this is worth the $50 price tag - the quality is worth maybe $10 if that.
+So my advice is use the money you'd spend on this piece of junk and put it towards a higher quality set like theStep2 LifeStyle Custom Kitchen II, Brown/Tan/Green.
+My nieces and nephew have this Step 2 kitchen and it's totally worth the extra money because it's made of heavy duty plastic and is very sturdy and more life like.
+Sorry Dora, but your kitchen is terrible.
+The Fisher-Price Dora the Explorer Cooking Adventure Kitchen Play Set is just what your little chef will need to cook up a delicious dish.
+The set contains play food, plates, cups, forks, spoons, serving tray, pot, pan and spatula.
+The kitchen makes bubbling sounds when you place the pot on the stove.
+Everybody loves Dora and the bilingual phrases are an added bonus.
+While this is not a heavy duty plastic, it is sturdy enough for age appropriate children to use.
+I think your little one will love this product.
+"On the whole, this is a well-designed and well-built little kitchen that provides plenty of play activity and doesn't take up that much space.
+It is a tad more colorful than I would have preferred but, as a grandparent with limited space for toys, size (only 2-feet wide)  had to trump aesthetics.
+(At least, an adult's idea of aesthetics--children don't seem to mind the overly-bright and slightly discordant colors or the busyness of the design).As a toy, I think we are going to squeeze many hours of active and imaginative play out of it.
+Although it is made entirely out of plastic, it feels sturdy, is well-balanced and doesn't tend to tip over, and all the play accessories that come with it (also plastic) are in scale for the kitchen and the children's hands.
+There is a battery required for sounds and language (many phrases in English and Spanish and some cooking sounds).
+If you want quiet play, you don't need to put in the battery.Assembly is mostly snap-on, with only 8 screws involved.
+Personally, I prefer screwing things together because I find it hard to use sufficient force and coordination to properly align and snap things together (and once they snap in, you cannot get them out!)
+However, once I got it assembled, all went well.
+The moving parts move, the fixed ones don't.On the whole, I knew what I was getting, and nothing about the toy disappoints.
+It is important to note that, although it is called a ""kitchen"" there is no refrigerator.
+It's just a stove and oven.
+I knew that going in and, so far, it hasn't been an issue.
+I realize that, with the size limitations, it would have been impossible to include one.
+What I do think could have been included is a telephone.
+I remember my daughter's kitchen had one and she was constantly on the phone  (which hasn't changed a bit since)."
+"This is a great kitchen set for a girl at a great price point.
+It is not quite as durable as the more expensive Step One products and does not come with all the bells and whistles as the Step One products.
+However, it is very colorful and there is LOTS to do with this kitchen.
+It is also much smaller than most kitchens, making it easier to find a place to put it.The bilingual words make the kitchen more educational than most.
+I have to say, though, that I prefer more quiet kitchens because I get tired of all the toy noise.
+However, the kids really like the talking.
+It is also great that no additional food, utensils, and plates need to be bought with this set as it already includes all the ""extras"" needed.I really love this product and so do little girls.
+Fisher Price has made a wonderful kitchen at a great price point.
+It would make any 2-4 year old girl extremely happy."
+This was easy for me to put together.
+The kitchen itself is just a bit on the cheap feeling side in my opinion.
+My daughter gets more use out of playing with the accessories.
+Well, to be honest, she's tipped this kitchen over several times.
+I've had to put duck tape on it and make it stick against the wall.
+Even so, she gets some fun out of it running to us taking our orders.
+I wouldn't really recommend this though as surely there has to be better stable kitchens out there.

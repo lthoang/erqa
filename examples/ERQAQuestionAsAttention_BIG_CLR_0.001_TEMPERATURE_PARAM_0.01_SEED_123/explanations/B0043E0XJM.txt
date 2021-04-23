@@ -1,0 +1,216 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+If I'd purchased the item, I'd insist on exchanging it.
+Nonetheless, my son likes it and has a fun time jumping it off the couch.
+So what's not to like?One word: infrared (IR).
+It is was a great gift and he loves it.
+"I recently reviewed theTonka Tonka Chuck Flip The Bounceback Racerand naturally assumed that this car might be just a different version of the same car.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.007822574116289616,0.0072607542388141155,0.0028129841666668653,0.006207726430147886,0.005357563961297274,0.006379356607794762,0.005953068844974041,0.006644806824624538,0.004437962081283331,0.006236972752958536,0.007215197663754225,0.005498230457305908,0.0074779498390853405,0.007093690801411867,0.006555160507559776,0.004839988891035318,0.006649428978562355,0.005008147098124027,0.0032441955991089344,0.006373866926878691,0.006645336281508207,0.007376434281468391,0.0043851397931575775,0.007564352825284004,0.002604762092232704,0.003245484083890915,0.004745169077068567,0.0020188794005662203,0.002852316480129957,0.004335947800427675,0.0070492783561348915,0.0036883214488625526,0.009017650969326496,0.0030152052640914917,0.0030487317126244307,0.006490997038781643,0.005959768313914537,0.003367686877027154,0.0030990573577582836,0.004322538617998362,0.00785599835216999,0.0068070855922997,0.003181740641593933,0.007623272482305765,0.004719888791441917,0.0075040156953036785,0.003623750526458025,0.006452344823628664,0.00522588612511754,0.004446121864020824,0.005347886122763157,0.007320083677768707,0.003736090147867799,0.0063806152902543545,0.0021427508909255266,0.0040696654468774796,0.0042015742510557175,0.0072054252959787846,0.004002847708761692,0.007315247785300016,0.006210890132933855,0.0039565046317875385,0.007020900491625071,0.007368857506662607,0.007930458523333073,0.0037854600232094526,0.004572522360831499,0.0026570556219667196,0.0022014302667230368,0.005129276309162378,0.0030380075331777334,0.0068649351596832275,0.0039624422788619995,0.006458094343543053,0.004843150265514851,0.005273256450891495,0.003047748701646924,0.002959450474008918,0.006213916931301355,0.0036927778273820877,0.007276685442775488,0.00659916689619422,0.007159500382840633,0.007336558308452368,0.007006173487752676,0.006155557464808226,0.006984322797507048,0.007121743634343147,0.005205349996685982,0.004655914381146431,0.0023685884661972523,0.007562729064375162,0.0054793753661215305,0.004889673087745905,0.005590497981756926,0.0017197105335071683,0.006090853828936815,0.0045008850283920765,0.002315970603376627,0.0034205203410238028,0.002204226329922676,0.0019020618638023734,0.00641349982470274,0.004457100294530392,0.005385891534388065,0.008710313588380814,0.002786996541544795,0.00579766696318984,0.0070548029616475105,0.004738693591207266,0.004510270431637764,0.005221942439675331,0.003327751299366355,0.00770273944362998,0.005982030648738146,0.0029502364341169596,0.005400149617344141,0.0071396054700016975,0.0020813802257180214,0.0069832936860620975,0.0062927245162427425,0.006704231258481741,0.0027105798944830894,0.005016797222197056,0.005666724406182766,0.005479275248944759,0.002032187068834901,0.005589664913713932,0.004132270347326994,0.0021593295969069004,0.002862063003703952,0.006431241054087877,0.006708238273859024,0.0025331308133900166,0.003763815388083458,0.0030081477016210556,0.003187689697369933,0.004792716354131699,0.0025933319702744484,0.003000182332471013,0.003880562959238887,0.00313709769397974,0.006822056137025356,0.0034467969089746475,0.0031239704694598913,0.003287832485511899,0.003155716462060809,0.005078286398202181,0.0037756101228296757,0.005691327154636383,0.005523297935724258,0.006058749742805958,0.004393638577312231,0.005761970300227404,0.006096229888498783,0.0032731499522924423,0.005242528859525919,0.006391983013600111,0.003230286994948983,0.007182960864156485,0.003327256301417947,0.0063147456385195255,0.006308360490947962,0.00433740857988596,0.003220314858481288,0.004146352875977755,0.003205864457413554,0.0020501073449850082,0.005662946030497551,0.0024173115380108356,0.0022193691693246365,0.007365621160715818,0.0028388798236846924,0.001991929719224572,0.0028539407067000866,0.0034071707632392645,0.004382092971354723,0.005750987678766251,0.005773752927780151,0.003778960322961211,0.007426177151501179,0.006826202850788832,0.005303673446178436,0.006374156568199396,0.006077067460864782,0.0025722389109432697,0.006883697584271431,0.007168513722717762,0.0043085417710244656,0.006891088560223579,0.005179259460419416,0.0037164632230997086,0.0024508461356163025,0.0059585487470030785,0.0055558509193360806,0.008495881222188473,0.00262459390796721,0.00222245161421597,0.003946333657950163,0.009004110470414162
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+So I am a mom to 3 girls.
+I don't get to play with things like this because they are...well....not interested.
+I do have a nephew and I figured having some toys around here that aren't pink would be a good thing when he came over to visit.I've never really played with RC cars, but the controls were very easy to use for me.
+I picked it up quickly.
+I also had my 8 and 10 year olds try it and they figured it out pretty quickly as well.The truck is rugged and fun and can flip over and still drive.Overall we had a good time.
+My friend's little boy came over the other day and saw it sitting on my counter and BEGGED his mom to get him one after playing with it for a few minutes.
+Not really much to say about this remote control car.
+It really doesn't have anything that makes it stand out other than the fact that it really is zippy.
+My son grabbed it out of the box and kind of got bored with it until he came up with the idea of chasing our cats with it.
+That's when I had to put it up and remind him the importance of respecting our feline family members.
+I was surprised at how small the Ricochet was.
+It's about the size of a standard paperback book, easy to drop in a bag for a play date or put on a bookshelf for storage.
+Our other RC cars (this is our seventh) are all much larger.
+The Ricochet is a great deal of fun.
+Charging was simple, battery life was decent.
+The remote was harder to control than on other Tonka models we have, but still quickly mastered by the younger members of the family.
+The Ricochet Rampage had a great speed, entertaining us for hours.
+On the negative side, the distance range seems to be short.
+Frequently we had to move about the great room to restore the connection between car and controller.
+I can see this item getting stuck under a piece of furniture fairly easily.
+With it's low clearance it slid around under our sofas and wall units happily.
+Durability has been good.
+the kids have dropped this from tables, run it over with larger RC cars and slammed it repeatedly into the wall.
+Overall, a surprisingly fun car for such a compact package.
+"To begin with, be aware that this is a small indoor toy, 4-1/2"" x 4"" x 2"", not the large outdoor toy you might, like I did, confuse it as a variation of: Tonka 2 Sided Stunt 27 MHz 3 Channels 4x4 Radio Control Vehicle - Grey/Orange Color RICOCHET R/C with Suspension Lift for High Ride Plus Remote Control, Batteries and Charger (Vehicle Dimension: 10"" x 18"" x 4-1/2""); in fact it is only marginally larger than the remote controller/charger.
+Of course this would be obvious if you bought it in in a store, but if you are ordering online, it isn't as clear.Second, you will need 5 AA batteries, which are not included.
+Some reviewers have complained about this, but unless Tonka was going to spring for 5 name brand, high drain batteries, IMHO you are better off buying them yourself because the cheap, foreign made batteries you usually get with ""batteries included"" wouldn't last very long both powering the controller AND recharging the car.
+Good quality NiMH rechargeable AA's might be worth trying, too.Third, because the controller uses a beam of infrared light rather than a radio signal to control the car, you are going to need to keep a line of sight between the front of the controller and the front of the car (top or bottom) at all times.
+One trick I learned is that if the car is ignoring you, especially when its back end is to you, try raising the controller higher.In my experience the car takes about 20 minutes to charge and in start-stop use that charge lasted more than half an hour.
+In addition to this Tonka makes two more models, differing only in the one button signature stunt, which in this case is a quadruple flip (or only a triple flip if it starts on its back):Tonka XT Ricochet Trickster R/C Zig-Zag JoltandTonka XT Ricochet Trickster R/C Buzzsaw Spinner, whose signature stunts can be deduced from their names.Defects?
+A couple.
+Mine has a switch, the left side one, that momentarily sticks in the reverse position, not every time, but often enough to be annoying.
+If I'd purchased the item, I'd insist on exchanging it.
+In addition the lack of a ""switched on"" diode on the car or the controller is a good way to accidentally drain (and possibly ruin) the batteries.
+The green diode on the controller only lights while a button or switch is being pressed (or when one is ""sticking"").In conclusion, while I believe my son and daughter will like it, especially as an easily packed ""travel toy"", I don't believe they will love it.The dog?
+He's still making up his mind."
+During the winter this is a great toy.
+The range on it isn't very good so you have to keep it in a relatively small open area and during the winter we stay indoors so my son doesn't really take it outside where it's harder to play with.
+my son drives his in our kitchen/entryway/dinning room area.
+We only have tile and hardwood floors so this thing zooms very fast in our home.
+it can take some very hard hits against our baseboards, i mean really hard.
+It's fun to use around the house but that's about it.
+It can't go over rough terrain because the wheels aren't made for that.
+I feel the price is a tiny bit high for this.
+You could go out and get one for about the same price that can do much more.
+My son also has a Cyclaws and that thing is a beast.
+he uses that outside and it handles everything he throws at it.
+But i do not let him use that one inside the house because it can get really loud.
+This car is allowed because its quieter and less...crazy.I originally gave this a 4 but i think it deserves a 2 or 3/5.
+The car uses infrared which is frustrating when the car goes underneath the couch, the control will not work and you have to get it yourself.
+you have to point the control directly right at the car.
+it can get very old, and tiring.
+I've always been a big fan of R/C cars, and have for several years purchased different R/C cars for my son (who is now  5).
+Most of them, unfortunately, broke pretty quickly.
+That's not the case with this Tonka R/C car.
+At $20 it's a great deal too.The biggest negative about this particular product was just getting used to the controls.
+It's a little different than some of the R/C cars I've had over the years, but my son quickly picked up on it and was easily able to get it going in all kinds of directions.
+He even figured out about the button that automatically flips the car over (that I didn't even realize was a button for a bit).
+He's crashed it into walls, cabinets, other R/C cars (namely mine), chairs, and more.
+The car keeps going without a hitch.
+Every single one of his previous cars didn't even come close to making it through such torture.
+It's nice that it also can run on several different frequencies, so if you're trying to race other cars you don't interfere with each others controls due to running on the same frequency.Otherwise, there isn't anything I can complain about.
+The car is well designed, well priced, looks great, and works wonders for entertaining my 5 year old son.
+As a father, what more can I ask?
+"I recently reviewed theTonka Tonka Chuck Flip The Bounceback Racerand naturally assumed that this car might be just a different version of the same car.
+In fact, I was surprised to receive the car and find that instead of being 8""x8"", it was 4""x4"" in size.
+I likely would have known this if I had read the description more closely, but in fact the small size has some distinct advantages.
+It is quite zippy and fun to play with, and seemed easier to flip over.First thing to note is that if you buy this as a gift, I recommend you open it up, put in batteries, and charge the car.
+That is because the car uses an internal rechargeable battery that is charged from the controller.
+Since it does not arrive pre-charged (and takes about 20 minutes to charge), your kid will be getting very frustrated when their new toy isn't ready to play with out of the box.
+The controller takes 5 AA batteries, so open the box, charge the car with the included charging cable, and then wrap it as a present.Once the car is charged, it is quite a bit of fun to use.
+There are 2 controls, forward and back for the left side and forward and back for the right side.
+This means that the car can be steered (by going forward with the left but not the right), and with some dexterity, driven straight.
+Get it going fast and it easily flips over and drives on the opposite side.
+The controller even has a ""stunt"" button which just makes the car drive crazy for a bit.
+My kids had a blast with this feature - one button push and the car goes all over the place.Range is also great - unlike the other Tonka cars, this uses infrared (so calling it R/C is a bit of a misnomer).
+While that means it won't keep running when it drives under the sofa or around a corner, I was surprised that the infrared control provided greater range than the true radio control in their other cars.You can also use 3 cars at once thanks to the 3-channel switch control.Unfortunately, the fun lasts about 10 minutes after which the car needs a 20 minute recharge.
+Needless to say that with 3 kids waiting their turn, one of them was bound to be in tears.The car drives faster and is more durable thanTonka Tonka Chuck Flip The Bounceback Racer, so I can recommend it for those reasons, but the cost is, in my opinion, far too high for what you get (as of this writing, it is $50, meaning that to race 3 cars would cost $150).
+I rate the car 3 stars overall.
+It's a fun little toy, but the charging limitations and high cost mean I am not likely going to be buying it for others as a gift."
+"This is a great little starter RC car.The Pros:Small.
+Probably seems big to your 6 year old, but, its about the size of an adult's hand.Zippy.
+Kids love the unpredictability of having more speed than they can handle.Indoor.
+Some of the best rainy day fun you could have.
+Its so small you really couldn't do it outdoors.
+But you can make some nice ramps inside.Stunts.
+You can press a button to make it do tricks.Wheels.
+They're big.
+This helps it to go over smaller bumps, transitions from tile to carpet, whatever.
+Really nice to have such big wheels, it doesn't get hung up on the small stuff.The Cons:IR.
+The controller uses infrared of radio waves.
+This isn't a big downer, my kids are used to the helicopters that use the IR also.
+But, bright sunlight/reflections can make it not operate correctly, as can long distances and physical obstructions.Batteries.
+It takes 5 AA batteries, which can raise the cost of use.
+I use sanyo eneloop rechargeable batteries which work fantastic, the best of any rechargeable that I have tried.
+I would recommend you get some if you don't have anySanyo NEW 1500 eneloop 8 Pack AA Ni-MH Pre-Charged Rechargeable BatteriesAt its price point, I think this is a great ""starter"" RC car for a smaller kid, and its durable enough to last a while.
+I love Tonka.
+Just the name beams me back to my childhood.
+Remember the old Tonka commercial where an elephant steps on a Tonka dump truck?
+(Look up: Elephant Stepped On A Tonka Toy Hasbro TV Commercial 1970's.)
+That's why I'm a little disappointed with the TONKA RICOCHET R/C RAMPAGE FLIP.No, it would not survive an encounter with a pesky pachyderm, but it is very tough.
+I really like the physical TONKA RICOCHET R/C RAMPAGE FLIP, and everyone in the family likes chasing the pets with it.
+The steering is a bit awkward with a lever for the left wheels a lever for the right wheels, but everyone gets used to it quickly.
+Smashing it into walls and making it flip is great fun.
+The remote even has a button that makes the little car do it's tricks.
+So what's not to like?One word: infrared (IR).
+Tonka made the unit controlled by an infrared signal instead of a radio signal.
+The difference is that infrared needs line-of-sight to work.
+Think about your remote.
+For most remotes (the ones that use infrared), you have to point the thing directly at the TV or cable box.
+But some use radio waves, which allows you to point the remote at the ceiling, your boyfriends eyeball, the cat's...you get the idea.
+So imagine what happens when this little IR-controlled car zooms under the couch.
+"If the charge on this lasted more than 5-10 minutes, this would be a 4-5 star review.
+I ""tested"" this on a 4 and 6 year old.
+They loved it, laughed a lot, enjoyed the crazy motion and making the car flip over.
+They kept fighting over who got it next.And that is the problem - when you only have 5-10 minutes of playtime and it takes 20 minutes to charge, the toy became a fight magnet.
+Best used when there is only one kiddo in the house.Also, there is very little ""control"" going on - the movements are jerky and fairly chaotic.
+For the age range of my kids, this is fine.
+Older kids who might want more predictable motion, more control, will be better off with another RC car.On the plus side, so far the car has held up to being dropped repeatedly and still keeps trucking along.
+It's also really easy to use - the kids had no problem making it go.
+I just wish it lasted longer."
+"This toy was fast but my 7-yr old had a bit of a tough time maneuvering it to actually move in the direction he wanted.
+Very cool toy - will flip over if you hit a button on the controller and maneuver through tricks.
+The car is a different color on each side so when it is flipping from front to back - it looks really cool.
+It runs on carpet - but much slower.
+It really moves fast on hardwood floors.
+Frankly the inability to easily control the car's direction is inconsequential because as the user starts using the button for tricks, they care less about making it go to the left or right and more about seeing how many flips they can make it do.It's an ingenious concept in that to recharge the car, rather than plug it into a wall you actually plug it into the controller for about 20-30 minutes.
+There is a light that will blink when it's charged and ready for playtime.
+You have to watch closely however because the light only blinks a few times and then it goes out.
+The downside to plugging it into the controller is of course that the controller requires 5 AA batteries which are being drained during the recharge.
+It therefore gets a bit expensive to keep replacing batteries however a supply of rechargeable batteries would likely solve this problem.The directions on how to connect the car to the charger were just ""okay.""
+The directions were on a sheet of paper and frankly if it were not for the illustrations, we would have had a hard time figuring out how to adjust the switches to place it in charge mode.
+If the switches are not in the right spot, it won't charge.
+Naturally, our instruction sheet is now lost - a problem that I suspect many users will have and we're now going on memory on how to charge the unit.
+There is plenty of room on the reverse side of the controller and I really wish the manufacture would have had the insight to place a label with all the important information on how to charge, what the lights will do when charging, etc.
+so it would always be on hand and you would not be tearing your house apart looking for the instructions.It's fairly durable - ours has rolled down 6 hardwood steps many, many times and it still operates just fine.
+Sometimes you have to stand fairly close to this car for the remote to communicate with the car - I'd say about 5-6 feet.
+"I love Tonka products.
+Almost 50 years ago my blessed parents had the foresight to make sure when my brother and I played with trucks out in the back yard - we had Tonka trucks and the quality of that brand makes all the difference in the world for generation after generation of pretenders to the throne.A while back Tonka got into the radio-controlled vehicle business, which made sense from a company evolutionary standpoint.
+The Ricochet of a generation ago I gather was a sturdy, fun, well-made radio-controlled car, but it lacked the ability to perform one of the essentials of the radio-controlled brethren - the ""flip"", which is to radio-controlled cars as the alley-oop slam-dunk is to basketball games.Tonka listened to the feedback of critics and provide this newest R/C Ricochet with the ""Rampage"" Flip, which is like a flip on steroids.
+At any time (including standing still) all you have to do is hit the flip button from the hand-held controller and the vehicle flips - not once, not twice, but three times (arriving finally in the same position that it would if it were simply equipped with a single flip.
+The Mrs. is not generally impressed with the toys we get for our grandsons, but I scooted this baby across the floor towards her, then hit the ""Rampage"" button and it did it's triple somersault in front of her.
+""Wow!""
+she said.The car is quick and the intuitive controls guide it easily forward and backward and in sharp turns in either direction.
+It ran easily over tile, carpet, rugs, concrete, asphalt, our just-mown lawn and wood floors.The car comes with a 9-V battery that is recharged from a little plug in the hand controller that takes five ""AA"" batteries.
+We keep a dozen rechargeable AA batteries and a pair of chargers - so it's relatively easy to make both the controller and the car ""rechargeable"".
+I would have liked an installed rechargeable battery for both - but the Mrs. is glad to not have ANOTHER charger around the house that already has dozens for phones, batteries, laptops, cameras, etc.We think the grandsons are going to be impressed."
+"After charging the batteries in this car I handed it over to my 5 year old nephew for a test run.
+He was thrilled with the little car, and wasted no time before running it all over the garage (I had added the batteries and charged it up just before he came over, so there was no wait to play) Needless to say, he loved everything about it, including making it flip over and running it into walls.
+I liked that the remote is not so huge that he has trouble handling it.
+Some of his other remote controlled cars have big controllers that is difficult for him to handle.
+The car doesn't travel quite as fast on carpet, but it still goes with no problem.
+He also used it to chase the cat, and have it run circles aroung my 7 month old twins, much to their delight.
+It didnt' take long for the older children to want to play, and they also really enjoyed playing with the car.
+As for the car itself, and the play-enjoyment, I think it is worth every penny.
+Being a Tonka product, I hope it is as well made as previous Tonka toys have been.
+(I don't have any illusions that it will stand up as well as my husband's 30+ year old dump trucks and bulldozers, but hopefully it will last a while) As some other posters have stated, for the price, it would have been nice if batteries had been included.
+However, this toy garners so much play time, I suspect any batteries will not last too long.
+I went ahead and bought the ""high end"" batteries, advertised for digital cameras and the like, and they have lasted 1 week so far, and that is with frequent recharging.
+I am pleased with this toy"
+The Ricochet is small and durable, which makes it fun to play with around the house, zooming it around furniture, down stairs, and by pets.
+It really captures the imagination, and you picture what it would be like to be that small.
+It is also very fast, which is great, but a throttle for speed would be nice to avoid hitting the end of the room so quickly and to make maneuvering simpler.
+Also, the remote control uses IR like a TV remote, so it always needs to be in the line of sight.
+I think this was a terrible misstep by Tonka, considering how natural it is to want to drive this underneath tables and that sort of thing.
+As soon as it loses sight of the controller, the car comes to a dead stop and sometimes needs to be fished out from underneath furniture.
+Radio technology is cheap and there was no need to save a few pennies by going with IR.Regardless of the cons, I think most kids (and many adults) would enjoy playing with this for a long time.
+The charging is a bit silly (plugging the controller into the car and charging it with AAs) and it would be nice if it could charge from the wall, but it is not a big issue.
+Overall, a fun toy and a good gift.
+"The unit appears well-made and durable... ready for bumping and tumbling about the house.
+It measures 4-1/2"" x 4"" x 2"" so it will not do well outside except on smooth sidewalks or driveways... those experienced with larger R/C's with the size and power to accommodate rough terrain may be disappointed.
+But for indoor fun this toy is fine.
+The infrared frequency remote control does fine while vehicle is in sight which will cover most users without problems... indoor use is this toys forte anyway.
+If one wants to operate the toy from a seated position in a room full of furniture... not the most common situation... the unit may lose contact with the remote as furnishings may block the signal.
+This unit's trick is called the Rampage Flip... the car flips over and continues as ordered... this was a trick enjoyed but loses it's appeal after a few days.
+You will need 5 AA batteries but the 3.6v battery is provided.
+Fun indoor toy."
+"The Tonka XT Ricochet Tricksters R/C car is a little bundle of energy.
+The vehicle itself is only a little over 4"" long and comes with a rechargeable battery (which is non-replaceable).
+The controller required 5 AA batteries which are not included.
+For a steep price on this toy it would have been nice if it had come with batteries for the whole thing.
+This is for ages 6+ and is for indoor use only.
+It's durable and fun but I expected more from Tonka, like a toy that can be played with outside.
+If you have room inside for this little bugger to go crashing around your house then your child will enjoy the flips and turns that this does."
+First I have to say that my car arrived with only one wheel working.
+Being an electronic geek, I opened it up and found a bad solder connection on the board.
+I re-soldered it and it worked.
+Had I got this from the store I would have returned it, but getting it to work might have been more fun than playing with it.
+The car is hard to control since you are controlling the two drive wheels separately each with its own stick.
+But this is also what makes it fun and lets the car do all sorts of tricks.
+The remote also has a special button that makes the car flip over a few times.
+The kids have a good time with it and losing control of the car when it passed from sight seemed to add to their fun.
+I also have fun with it, so I guess that's the main point.Notes:- Does not come with the 5 AA batteries it needs.- Is small, just 5 inches and is for indoor use (mostly).- Charges from the controller.- Requires line of sight for the remote control.
+If you don't have a clear line of sight, you won't be able to control the car!- Does pick up hair on the axels- Would be really fun to chase cats with- Seems pretty sturdy.- Has been fun for everyone that tried mine.
+It took me a while to review this because we gave it to my son for Christmas.
+It is was a great gift and he loves it.
+However, I will note that although setup, charging was a breeze, I found the front and rear wheels too close together.
+This is an issue because the charging port is on the side in between there and if you have larger fingers (mine are fairly normal sized) then it is difficult to grasp the tiny charging plug and push it in between the two wheels without you finger(s) getting in the way.
+My son was able to do this without an issue.Other than that, it does take a little while to get used to it because it has very quick and sharp turns due to its small size.
+Nonetheless, my son likes it and has a fun time jumping it off the couch.

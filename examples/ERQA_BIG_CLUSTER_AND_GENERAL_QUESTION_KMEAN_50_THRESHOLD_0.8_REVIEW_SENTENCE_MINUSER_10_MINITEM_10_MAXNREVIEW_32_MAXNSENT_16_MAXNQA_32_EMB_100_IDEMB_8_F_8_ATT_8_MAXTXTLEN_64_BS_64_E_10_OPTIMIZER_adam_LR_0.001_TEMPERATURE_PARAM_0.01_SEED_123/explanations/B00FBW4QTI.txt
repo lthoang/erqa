@@ -1,0 +1,209 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+The designs were cute and not too difficult to put on, although there were some frustrating moments on my niece's part because the sticker came up and stuck to her hand.
+It comes with three blank dresses to design but after that the crafty fun ends!
+She laughed again.
+The clothing choices are fashionably cute and totally Barbie.
+(The ties are the most annoying, because they require cutting, and a deft hand to remove without damaging the toy.)
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.0047774245031178,0.005812498275190592,0.0051762559451162815,0.004701899364590645,0.004946666769683361,0.007044166326522827,0.007369333878159523,0.005200533661991358,0.005302763544023037,0.005208777263760567,0.00556833716109395,0.005459309555590153,0.005742109380662441,0.0056019192561507225,0.005208777263760567,0.003828040324151516,0.004081894643604755,0.005288257263600826,0.0054727946408092976,0.00672808475792408,0.0056407819502055645,0.005029020830988884,0.004814221523702145,0.005078695714473724,0.004430229309946299,0.005052792839705944,0.005611862987279892,0.005279819015413523,0.004534387495368719,0.005768922623246908,0.004862707573920488,0.0046590836718678474,0.00523740379139781,0.004216896835714579,0.004893801175057888,0.0052289473824203014,0.005052792839705944,0.00642935698851943,0.005143116693943739,0.004904778208583593,0.0054699149914085865,0.006172415800392628,0.004717876669019461,0.005578415933996439,0.005327909719198942,0.0044472855515778065,0.007734334096312523,0.0044763823971152306,0.004790727514773607,0.004033073782920837,0.007175564765930176,0.007255106698721647,0.00557375606149435,0.005009241867810488,0.005168997682631016,0.00492969760671258,0.005169615615159273,0.004109036177396774,0.005353990010917187,0.005805362947285175,0.003510497510433197,0.004791681654751301,0.0038106113206595182,0.006208737380802631,0.005353990010917187,0.0053391605615615845,0.005458049476146698,0.004840371664613485,0.00539411511272192,0.0035443955566734076,0.005663656629621983,0.004751365631818771,0.003272261703386903,0.003925666678696871,0.004466057289391756,0.0045820013619959354,0.006928591523319483,0.004981832578778267,0.005531243048608303,0.005404527764767408,0.004569123964756727,0.007175600156188011,0.006022635381668806,0.00252807280048728,0.0055251093581318855,0.004238380119204521,0.00602799141779542,0.004111083690077066,0.003787064226344228,0.004731427412480116,0.004035986959934235,0.0026386708486825228,0.005141305737197399,0.005820610094815493,0.004851893521845341,0.005467019975185394,0.004718752112239599,0.005175657104700804,0.004239534493535757,0.004466365557163954,0.0074860937893390656,0.005144831258803606,0.0049728211015462875,0.004910736810415983,0.005385305732488632,0.006869449745863676,0.0058743697591125965,0.007827673107385635,0.005309382453560829,0.004121871665120125,0.003470843657851219,0.005033845081925392,0.00537255359813571,0.005566603038460016,0.005214751698076725,0.004516324028372765,0.006778898648917675,0.004326011054217815,0.004825903102755547,0.005236937198787928,0.005935789085924625,0.0050857882015407085,0.0062594120390713215,0.005888343323022127,0.0053067137487232685,0.0074608507566154,0.005165775306522846,0.005484956316649914,0.004062057938426733,0.004409685730934143,0.0050875358283519745,0.0047190324403345585,0.004036357160657644,0.0037634612526744604,0.0062532988376915455,0.005258691497147083,0.004152543377131224,0.0053001525811851025,0.004040547646582127,0.004700169898569584,0.005772512871772051,0.0055460743606090546,0.007821019738912582,0.004371721763163805,0.005630206316709518,0.005859021563082933,0.006596993189305067,0.0025907964445650578,0.005733898840844631,0.0044134752824902534,0.005167173687368631,0.00457716453820467,0.005207257345318794,0.006937779486179352,0.005103064700961113,0.004220210015773773,0.005274745170027018,0.004890650510787964,0.005278953816741705,0.004142994061112404,0.0037789270281791687,0.004822814837098122,0.005437900312244892,0.004831528756767511,0.0051406933926045895,0.005021857097744942,0.004943761974573135,0.0051686083897948265,0.004923154134303331,0.005845918785780668,0.004797452595084906,0.005942339077591896,0.0054612294770777225,0.004267731215804815,0.0032639633864164352,0.004454746842384338,0.007419985719025135,0.004691301845014095,0.008852368220686913,0.006486994214355946,0.005445895250886679,0.006241182330995798,0.004859485663473606,0.0037803458981215954,0.005123987793922424,0.004921536426991224,0.004265571478754282,0.00598182063549757,0.004038354381918907,0.005118622910231352,0.005956280045211315,0.0050632222555577755,0.006179130636155605
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+The people at Mattel obviously had some time on their hands, and were sitting around wondering, what if kids could create their own one of a kind Giant-Ken-Face t-shirt for Barbie.
+And look what happened.
+We now have this blessing to society.
+Ok, now technically these are stickers, not iron-ons, but let's not let that spoil the fun.
+Barbie needs that t-shirt NOW.
+Oh, and a cute puppy on the back of her jean jacket, if you please.
+This is of course great fun for your Barbie fan, and the price is very reasonable for something that's both fun and allows for a little creativity (within Barbie approved parameters of course).
+Fun for the kids.
+My 5 year old had trouble and wanted my help applying but my 8 year old did ok.
+Some of hers were off balance and a little crocked.
+There are a total of 6 pieces of clothing and lots more decal then that so my girls got other clothes to apply more decals to.
+The issue I had was that after a while the stickers start to look bad.
+Some comes off it fades and just looks bad.
+I have washed most of them off, but barbie clothes and washers and dryers are not the best combo.
+The doll itself is great, very pretty and we will have her for longer then her clothes last I am sure.
+This Barbie doll comes with a non-heat iron, a full-size Barbie doll wearing a shirt, shoes, a skirt, and a vest; two shirts, one skirt, and an ironing board.
+The set comes with three sheets of transferable decals to decorate her clothes with.To place decals on the shirt, you first put the shirt on the blue ironing board.
+Then you cut out the sticker you want to use.
+You place the sticker onto the shirt, press down with the iron for several strokes (rub it on to the shirt), then peel the clear backing off.
+It's ready for your Barbie to wear!My daughter is in third grade and loves the idea of making her own fashions.
+This set lets her personalize her Barbie, which was big in her book.The decals are semi-permanent.
+Once they are rubbed on to the clothes, they are difficult to get back off.
+With some creative scraping using a plastic knife, you can do it, but it may damage the shirts in the process if you're not careful.
+Wow!
+It was a great idea to incorporate Barbie clothing and the freedom to decorate it.
+The doll comes with clothing already on it and the some others to use.
+Stickers are given that can be pressed on any of the clothing anywhere that is desired.
+All you have to do is put the clothing on the clothing board and push down for awhile over and over in an ironing motion.
+A small iron is given to use, but there is no heat involved.
+The stickers are fun for girls in their designs with things such as deserts, lips, bows, dogs, and cats.
+The one thing I would caution about are using the stickers.
+1.)
+Keep the white backing behind the stickers after you use any of them.
+If you do not, they might stick on other objects by accident, I cut out the ones my daughter wanted to use making it easier to handle.
+2.)
+It takes effort to make sure the stickers are stuck.
+Do not rush!
+If you pull prematurely, only part of the sticker may apply.
+This is an toy worth buying!
+Okay so this is like those tattoos you put on kids with water but for Barbie clothes.
+it comes with tons (over 30) decals and you just cut them out, place them on the clothes you want and &#34;iron&#34; them on, not a real iron but rather a Barbie one that is included.
+She is a typical Barbie, other than coming with the iron and decals.
+The concept is super cute and allows any little girl to design her own clothes!
+For under $20 its a cute gift!
+"This definitely a cute set for Barbie fans.
+You get one Barbie in a shirt, skirt, and jacket set along with an extra pink shirt, white shirt with pink polka dots, and a gray skirt.
+The clothing choices are fashionably cute and totally Barbie.
+There are a ton of different decals that you can choose from so you can have a lot of different choices on what you want to do.You use scissors to cut out what decals you want, put the decal where you want it to go, take the clear piece off of the decal, and use the ""iron"" to press the decal onto the clothing.
+The iron is obviously fake and you don't use heat of any kind to put the decal on.
+Younger children might need help on doing this but it's not too, too difficult.Overall, I think this is a great set for any Barbie fan!"
+My 5-year-old granddaughter carried this package around from the minute it arrived in the mail.
+She was absolutely charming while she waited for me to be ready to open it up and figure it out.
+It turned out she could even eat her entire lunch, and with a straight face say, &#34;I always eat my lunch, grandma.&#34;The package itself was pretty easy and pleasant, nothing like the old packages that were obviously sealed with cold fusion.
+This one had tabs and only a few of the plastic links that you have to cut the doll out of.
+I do wish they made packaging easier but it is not as bad as it used to be.This is essentially a regular Barbie with a two skirts, three shirts, and one vest that you can press different decorations on.
+It also comes with a little ironing board and a rather oversized iron -- which does not heat, of course.
+The knees on this doll are articulated so my granddaughter made Barbie do sit-ups and 100s while she was waiting for all of the parts to be free.I was less impressed after I opened the package.
+These have some press-ons that really just need to be rubbed on for twenty seconds or so.
+It's pretty easy.
+The press-on is in the center.
+First you need to take off the backing, place it on the clothing, then after pressing for ten to twenty second and remove the clear topping that held it in place while it was being pressed on.
+You can certainly used the enclosed iron but it has a bumpy surface and I preferred to use my fingers.The designs have a nice selection of larger and smaller pieces, more than we needed for the clothing included.
+I put one of them on my shirt, near the cuff and it held.
+Then we put a big diamond ring ON Barbie, around her naval.
+We also put one on her back.
+They were cute.
+This toy is a two in one.
+The first is the standard barbie.
+You can use any other barbie too.
+You can dress up the pack-in barbie with all the standard barbie accessories like shoes and dresses.
+So any one who knows about or have barbie dolls should have no surprise about the quality of the main doll here.
+It is as reliable and pretty looking as other barbie dolls.The second item is the iron-on decals.
+These are effectively stickers that can be tucked on barbie cloths.
+Standard glue decals, which you can press to attach.
+For smaller hands, it includes a plastic iron that kids can use to press the decals on place.
+It gives the virtual satisfaction as iron-on style decals.
+Cool concept, makes it safe for kids to play by themselves without worrying about heat.Very good set of decals for the modest increase in price compared to standard barbie doll pack.
+I was a little hesitant with getting this doll at first.
+The iron-on process seemed a little gimmicky, but after giving it a try I found it to be fairly engaging.No, not for myself, but for my 4 (going on 5) year old daughter.
+She loves playing dress up and she loves the Barbie universe.
+I can&#8217;t remember how many dolls she has (it's a lot).
+The previous one I got her was the Barbie Cut N Style Princess, which she quickly got bored with.
+But she had a lot more fun with this Barbie Iron-On Style.At first, I had to help her.
+Especially because the decals require a scissors to cut out.
+But once she got it down, she was able to do it on her own (using a child-safe scissors).
+I only occasionally needed to help her &#8220;iron&#8221; on the decals a little better (typically the smaller ones).The process is fairly simple.
+You cut out a decal, peel back the plastic, set it against an item of clothing, and then rub it in using the supplied plastic iron (similar to temporary tattoos but without the water).
+The iron itself does not produce any heat, it just supplies a hard surface to apply pressure with.
+Once the decals are set, they don&#8217;t come off.
+It&#8217;s permanent.
+But because they are small and the doll comes with several items of clothing, you&#8217;re not likely to use everything up in one sitting.Overall, this Barbie has provided a good amount of fun and activity for my daughter.
+Instead of just a doll to play with, it&#8217;s a craft project too.
+And in my opinion, a good combination.
+I know a toy is a winner when my seven-year-old daughter gets up early, on a weekday, to play with it.
+Such was the case with this Barbie set.The decals go on easy enough that with only a little instruction she could decorate the clothing on her own.
+(Just make sure you have some scissors around that you can trust your child with!)
+In fact, I was surprised at how straight she was able to position the decals, and also how well the decals seemed to adhere.
+We were able to wrestle the clothing she decorated on and off the doll and the designs still look like my little fashion maven intended.Mattel has come up with a really neat idea here, I think.
+If your child likes crafts or fashion then this set is sure to please.My one complaint with this set, and it is common for me, is the packaging.
+Something like this really shouldn&#8217;t require so many fasteners.
+(The ties are the most annoying, because they require cutting, and a deft hand to remove without damaging the toy.)
+Seriously, toy companies, look at what Green Toys has done, and do likewise.
+Could these dresses be made any smaller?
+Barbie needs the next size up (or maybe two)!
+The dresses were almost impossible to get on to the dolls!
+The toy is marketed to ages 3 and up but even as an adult I had a hard time following the directions and making a descent design.
+My 7 year old enjoyed the activity and loves the doll so I guess it's worth it!
+It comes with three blank dresses to design but after that the crafty fun ends!
+My daughter has at 8 now has never been into Barbie BUT she is so into crafts and loves fashion.
+When we got this she went right to work reading the instructions and set herself up to design the clothing items that were included.30 decalsan irona dolla dress form for putting clothes on to press the decals easily3 piece outfit on the doll + 3 more items of clothing.She did a skirt first and loved making it.
+After the third piece of clothing she established that a pencil eraser or her finger works better than the iron for a perfect iron on.
+The iron although cute has a bubbled bottom so she felt that she was not getting clean contact between the decal and clothing.The decals go on cleanly and she ended up using the decals on many of her other doll clothes.
+I don't believe we have any left over.
+Hopefully they will continue putting decals out possibly in packages of 30.She believes girls will love this!She is even playing with the Barbie which never happens.
+We had fun making these clothes.
+Even though the 'iron' left a little to be desired (we had to use fingernails and coins to finish the application of the stickers), we still had fun plastering all of Barbie's clothing with these designs.
+She was a hot mess when we were done with her.We found the clothes a little difficult to get on, for some reason harder than normal.
+It was like they were one size too small and it frustrated the younger kids in the group.
+It took a couple ruined stickers to get the hang of how best to apply them.
+And the fun was over really quickly.Not sure if we can buy more stickers because if that's the whole point, we were done with this toy in no time.
+My daughter was more interested in the clothes and the stickers and wasn't actually interested in ironing on the decals.
+Might be a bit complicated for a 5 year old but she enjoys the clothes & shoes so much she was completely happy just putting the stickers on (not using the iron.)
+The clothes & shoes were more of a draw than the ability to iron on.
+I got two Barbies for an 8-yr old girl.
+Both are good.Bu this one got more excitement because of the iron-on decals.
+So plain clothes turned into very pretty designs with the sheets of decals and the cool iron.
+I was even temped to &#34;help&#34;.Great toy with hours of fun.
+This is a great barbie for older girls who have a &#34;handi-crafty&#34; itch.
+My twelve-year-old likes this and enjoys creating her own fashions and mix and matching the clothing.
+This is a good purchase for girls who think maybe they've outgrown barbie but still want an excuse to play with her.
+Our daughter loves Barbie.
+And she welcomed this doll into the dream house with all the others.
+The one concept that separates this doll from the hoers is of course the &#34;iron-on&#34; way to make her clothes personalized.
+And that is sort of fun, though as other reviewers have noted the iron is less helpful in this process than an eraser or a finger.
+Overall, interesting new way to market Barbie dolls.
+But ultimately lackluster.
+Our daughter wondered why Barbie would want Ken's photo on her shirt.
+And I had to agree.
+I told her usually people wear images on their shirts of people who are unattainable to them.
+They wear pictures of Justin Bieber but not Justin in their class.
+She laughed.
+I told her it was certainly true that her mother never had my picture on a t-shirt.
+She laughed again.
+Ah, Barbie, what a world of revelation you offer us.
+I got this for my 10 year old granddaughter as she loves anything to do with fashion and creating different looks.
+Had to explain to her what an &#34;IRON&#34; was (LOL) but she really enjoyed designing Barbie's clothes.
+This is at a very good price as of my review date (cheaper than Wal-Mart) and would make a great Easter gift for your budding Fashion designer child!
+Note: this review is from grandparents acquiring gifts for 3 and 5-yr-old grandkids, often to be shipped over distance.
+I rate toys for &#34;gift impact,&#34; measured by a youngster's excitement and (reported) response.
+We intend to help other grandparents and friends/relatives buying gifts for a child not their own, who order on Amazon and have delivered directly (gift wrap is a great option!
+).This Barbie was a sensation!
+Our problem buying dolls is 1) our little princess already has so many, it's hard to give something that will stand out, and 2) what do you do with a doll anyway?
+So many of them are passive.We prefer gifts with a hands-on or &#34;craftsy&#34; aspect, and this Barbie does the trick.
+&#34;Barbie Iron-On Style&#34; is intended as a little girl's do-it-yourself fashion design project.
+30 permanent decals can be &#34;ironed on&#34; to any of the several outfits that come with the doll.
+There's a toy Barbie iron with which to do the transfer.Not so incidentally, the iron does not heat up (good safety feature!).
+It's just the idea.
+The youngster is actually pressing the decal onto the clothing.
+Here are the instructions: &#34;1.
+Pick a fashion design (piece of clothing) 2.
+Iron on a transfer (press the decal on the clothing) 3.
+Peel & Reveal!&#34;It's that simple.
+And it was a lot of fun, we're told!
+First of all, it comes with a Barbie.
+Second you get a plastic play iron.
+You don't have to fill it with water.
+It comes with a board to place the clothes on.
+Simply place the clothes on the board, pick a decal, Cut the design, place it on to the clothes, then use the iron to press down and the design stays on the clothes.If you don't press hard, it won't stick on.
+Once you use a decal, you cannot use it again.
+It is kind of hard in order to get the decal to stick to the clothes.
+But, when it does, it looks good.You get different clothes.
+Some clothes are easy to remove and fit, others are not.
+Overall, this is an okay product.
+Just remember, that you have to press hard in order to transfer the decal onto the clothes.
+What I like:-plenty of fun iron-on designs to choose from-cute designs-several clothing pieces so you can design various outfits-no heat needed for iron on-can be used on other Barbie clothing (very cool!
+)What I don't like:-Iron doesn't work, use a coin instead-the can be tricky putting on (stickers can fingers instead of clothing) and often needs adult assistance and you have to press down fairly hard-no refills (come on Mattel!
+step it up)My seven-year-old niece really liked this, more so than the tattoo hair Barbie.
+This had more play factor than the tattoo hair Barbie.
+The designs were cute and not too difficult to put on, although there were some frustrating moments on my niece's part because the sticker came up and stuck to her hand.
+She made lots of adorable outfits and went on to decorate other Barbie cloths.
+the decals seem to be sticking very well after a week of play.
+I don't know if the stickers can be taken off the clothes easily as my niece prefers to keep them on.
+I really think Mattel needs to make refills of these stickers, they would sell fast.
+At first I didn&#8217;t know what to expect with this iron-on set.
+To my surprise, it doesn&#8217;t take an iron or any heat at all.
+The decal just rubs off onto the clothes.There were no instructions in the package, but I figured out how to &#8220;iron on&#8221; the decal.
+You just put the clothing on the blue plastic doll form to keep it flat, cut out the design you want and peel off the backing, place it on the clothes and rub with the iron until the decal transfers.
+You need to rub with a fair amount of force, but you can see when the decal has come off the plastic and onto the clothes.
+My five year old was able to do it with a little bit of help.The decals stay put on the clothing.
+My kids have decorated the clothes that came in the packaging as well as several others we have.
+There are a lot of decals to choose from and they seem to work on all sorts of material.
+I think this toy is a neat idea and my kids have had a lot of fun with it.
+My 5 year old daughter loves anything that is Barbie, over the last 6 months - she is into stickers and designing dresses for dolls.She loved the Barbie 'iron-on' style doll - which is basically a sticker :)

@@ -1,0 +1,194 @@
+Top question(s):
+can I buy just the cannons separte? my son lost one.
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+This toy is a no-brainer for any dinosaur lover and should allow a lot of creativity in your child inventing adventures for this dinosaur and his rider.
+Once we figured this out, the dino didn't topple over anymore.
+The dino seems sturdy.CONS:First and foremost, I am not crazy about the missiles for obvious safety reasons.
+This apatosaurus toy is the least realistic looking dinosaur toy he owns, given that it has a cartoonish look, but this in no way detracts from its educational value, i.e., as a dinosaur toy that can be used to explain things about dinosaurs to young children."
+It's a weird Barcalounger that winches upward to bring the rider to the same height as the Apatosaurus's head.
+
+Question attention weights:
+0.0647779181599617,0.8048855066299438,0.06030501425266266,0.07003147155046463
+Sentence attention weights:
+0.006195132154971361,0.004615278448909521,0.009154913015663624,0.006505800411105156,0.006091170944273472,0.00488507142290473,0.007343127392232418,0.004646945744752884,0.003336349967867136,0.00530223548412323,0.005986819509416819,0.010461157187819481,0.006589052267372608,0.005820962600409985,0.007380445953458548,0.003294979687780142,0.004731925670057535,0.005852962844073772,0.0037849771324545145,0.005193362943828106,0.002629492897540331,0.004258339758962393,0.006589214783161879,0.006548845209181309,0.0069162375293672085,0.00806630589067936,0.004824540577828884,0.010219952091574669,0.007402119226753712,0.005961655173450708,0.004400524310767651,0.005211083684116602,0.003817138960584998,0.00493963249027729,0.00747135654091835,0.004899030085653067,0.006991186179220676,0.007285051513463259,0.006316652055829763,0.005271902307868004,0.005534803029149771,0.008720753714442253,0.0038984387647360563,0.005333996843546629,0.005810899659991264,0.005762510932981968,0.004412186332046986,0.006290367804467678,0.007256668992340565,0.005604593548923731,0.005743782967329025,0.00593683822080493,0.005503980442881584,0.005828335415571928,0.006777080707252026,0.006363915745168924,0.005418911576271057,0.004770760890096426,0.006922694854438305,0.004227975849062204,0.008265062235295773,0.0056881411001086235,0.007150757592171431,0.007717384025454521,0.008764883503317833,0.008987195789813995,0.0033700703643262386,0.005072161555290222,0.004561843350529671,0.004404956009238958,0.0034533063881099224,0.0030727398116141558,0.004067161586135626,0.0060082185082137585,0.007724004797637463,0.006886424031108618,0.0055808695033192635,0.006430938374251127,0.004345770459622145,0.005066466983407736,0.00582012627273798,0.006953274831175804,0.005487921182066202,0.004312195349484682,0.005457746796309948,0.010634439066052437,0.00785501766949892,0.006140624172985554,0.005956291686743498,0.006112501956522465,0.003493069438263774,0.004936177749186754,0.004426417872309685,0.005481313914060593,0.005520266015082598,0.006551429629325867,0.008274954743683338,0.00382255669683218,0.00466835917904973,0.004877773579210043,0.00491716992110014,0.005530978087335825,0.0052934130653738976,0.007250205148011446,0.004960073623806238,0.005936060566455126,0.005936025641858578,0.006027997937053442,0.005755270831286907,0.004901025909930468,0.008328255265951157,0.00589466467499733,0.005651039537042379,0.005719701759517193,0.005050123669207096,0.0067085702903568745,0.006068908143788576,0.0027484975289553404,0.006086169276386499,0.006199430208653212,0.007448893506079912,0.004521332215517759,0.00688915653154254,0.006341271568089724,0.004010156262665987,0.006066669709980488,0.00529958913102746,0.0040501682087779045,0.005569052416831255,0.005686818156391382,0.004709441214799881,0.005346042104065418,0.005470901262015104,0.005961528513580561,0.005483430810272694,0.007891504094004631,0.006768797989934683,0.004709168802946806,0.005842757411301136,0.004980141296982765,0.005617761984467506,0.00569177558645606,0.005635216366499662,0.0058026970364153385,0.008398746140301228,0.005635216366499662,0.005779912229627371,0.005627003498375416,0.005635216366499662,0.00455288914963603,0.004862562287598848,0.006395747419446707,0.005635216366499662,0.005534858908504248,0.00364640261977911,0.005780439358204603,0.007091146893799305,0.002586708404123783,0.003549967659637332,0.004949078895151615,0.01826738566160202,0.006236501969397068,0.0032136659137904644,0.006504809949547052,0.005966678261756897,0.00510190287604928,0.005624543409794569,0.0065926373936235905,0.005837989971041679,0.005980175454169512,0.007541544269770384
+0.005010625347495079,0.0032372085843235254,0.007788047660142183,0.006270057056099176,0.004534433130174875,0.0049058012664318085,0.007120128720998764,0.005394529085606337,0.0030985281337052584,0.005346077028661966,0.005034276284277439,0.009960541501641273,0.005225277040153742,0.007005180232226849,0.006642129272222519,0.0027354219928383827,0.004625343251973391,0.0068100192584097385,0.0035553586203604937,0.0055919247679412365,0.0029988728929311037,0.005007649771869183,0.006388647947460413,0.007955504581332207,0.008710318244993687,0.0086742602288723,0.00480309221893549,0.011792863719165325,0.007935777306556702,0.00691555580124259,0.005765729118138552,0.00543109280988574,0.0037807966582477093,0.005369941238313913,0.008317084051668644,0.004292564000934362,0.007455017417669296,0.006936464458703995,0.0053993817418813705,0.0043210918083786964,0.006213787943124771,0.007464604917913675,0.003548129228875041,0.004146498162299395,0.005784167442470789,0.006558914203196764,0.003991365432739258,0.00573375029489398,0.005686504300683737,0.0063670179806649685,0.0065941656939685345,0.0058536347933113575,0.004851599223911762,0.004755167756229639,0.006341015920042992,0.007054643705487251,0.00465879961848259,0.003721988294273615,0.006564827170222998,0.0037950780242681503,0.006836761254817247,0.005094386637210846,0.0071030245162546635,0.007936231791973114,0.007880487479269505,0.007807470858097076,0.0035397212486714125,0.005373236257582903,0.005371140316128731,0.004057256039232016,0.002859327243641019,0.002035377314314246,0.004479981493204832,0.005010730586946011,0.009086309000849724,0.007654911372810602,0.006825795862823725,0.006097336299717426,0.003160919062793255,0.003485620953142643,0.004750038031488657,0.007025865372270346,0.00638357549905777,0.004243509378284216,0.006372073199599981,0.009761386550962925,0.008002097718417645,0.0069715711288154125,0.007272436283528805,0.00738187413662672,0.0025812219828367233,0.00542256236076355,0.0036299529019743204,0.005118376109749079,0.006425040774047375,0.0055548036471009254,0.008006931282579899,0.003543832805007696,0.0053778355941176414,0.004995794966816902,0.004360450431704521,0.0055945152416825294,0.004698640666902065,0.00787746999412775,0.005859144497662783,0.005876495037227869,0.005272923037409782,0.006556295324116945,0.005603503901511431,0.0057281991466879845,0.007388758473098278,0.006796051748096943,0.006552121136337519,0.006603470537811518,0.004181463271379471,0.005277654156088829,0.006112490314990282,0.002511334838345647,0.005924220662564039,0.005984370596706867,0.009495163336396217,0.004114964511245489,0.005845937877893448,0.008347290568053722,0.0038606582675129175,0.006733449175953865,0.005887923296540976,0.0039048814214766026,0.006481288466602564,0.0063838292844593525,0.0036413816269487143,0.006171174813061953,0.006432580761611462,0.006515204440802336,0.004087142180651426,0.008340082131326199,0.00496586412191391,0.004737540148198605,0.006823814008384943,0.00531041668727994,0.006472994573414326,0.0055656954646110535,0.006566166877746582,0.006148436106741428,0.008528778329491615,0.006566166877746582,0.006612752564251423,0.006561958231031895,0.006566166877746582,0.004480325151234865,0.005541989579796791,0.00442893011495471,0.006566166877746582,0.004419116768985987,0.0037598991766572,0.005589297041296959,0.006806971039623022,0.002456814981997013,0.003894130000844598,0.004353811498731375,0.016948170959949493,0.0060904305428266525,0.0020761459600180387,0.005252997390925884,0.005744020454585552,0.004110579378902912,0.006550831254571676,0.0082847373560071,0.006601450964808464,0.0067437016405165195,0.008525190874934196
+0.0063385507091879845,0.004506211262196302,0.00934112723916769,0.006554656196385622,0.005725116468966007,0.0048436387442052364,0.007166991475969553,0.004687468055635691,0.003408720251172781,0.0053018489852547646,0.005854855291545391,0.010395707562565804,0.006253757048398256,0.005913794040679932,0.007219250779598951,0.003324460005387664,0.004745589103549719,0.00584733160212636,0.0037045772187411785,0.005162512883543968,0.0027536412235349417,0.004423186182975769,0.006619027815759182,0.0066338591277599335,0.006784940138459206,0.00802877638489008,0.004747995175421238,0.010044638067483902,0.0072484491392970085,0.006028363946825266,0.004518479108810425,0.005130864214152098,0.003899318166077137,0.005037921946495771,0.007564511150121689,0.004653257317841053,0.007018476724624634,0.007198890671133995,0.006371396593749523,0.005133936181664467,0.005532326642423868,0.00853484682738781,0.0038446239195764065,0.005486444570124149,0.005874622613191605,0.005764037370681763,0.004383626393973827,0.006321050692349672,0.006836144253611565,0.005559870041906834,0.0057406434789299965,0.005944558419287205,0.005451767239719629,0.005864209029823542,0.006911617238074541,0.006362763699144125,0.00565304746851325,0.004850420635193586,0.00675810594111681,0.004191318992525339,0.00828233640640974,0.005945180077105761,0.007070571184158325,0.007727750577032566,0.00878047663718462,0.009001795202493668,0.0034605604596436024,0.005113815423101187,0.004556376952677965,0.0043310984037816525,0.0035990329924970865,0.0030406785663217306,0.004253607243299484,0.005952742882072926,0.007901070639491081,0.006919685285538435,0.005763362627476454,0.006428038235753775,0.004207582212984562,0.0049364082515239716,0.005900254473090172,0.006818403955549002,0.005502598825842142,0.004474841523915529,0.005475394427776337,0.010505212470889091,0.007678643334656954,0.006104871165007353,0.005955033004283905,0.006154730450361967,0.00351529149338603,0.005013909190893173,0.004217351321130991,0.005720172543078661,0.005528569687157869,0.006699752062559128,0.008213352411985397,0.0038236421532928944,0.004601770546287298,0.005032621789723635,0.004767590668052435,0.005628598388284445,0.005313721019774675,0.007364301010966301,0.004988172557204962,0.005875793751329184,0.006014480255544186,0.0061247446574270725,0.005760937463492155,0.004942882340401411,0.00825849361717701,0.006032242905348539,0.0057263062335550785,0.00580701045691967,0.005027832929044962,0.00671431003138423,0.0060237497091293335,0.0027444136794656515,0.006358269136399031,0.0062605938874185085,0.007709243800491095,0.00471235578879714,0.006617713253945112,0.006371039431542158,0.003947493154555559,0.005916181486099958,0.00533261988312006,0.004171611275523901,0.005584761966019869,0.00565816555172205,0.004701813217252493,0.005368129815906286,0.005503249820321798,0.006023902911692858,0.005508906673640013,0.00785441417247057,0.006767572369426489,0.004840648267418146,0.0058524152263998985,0.005127681884914637,0.0056394729763269424,0.00561798270791769,0.0056371805258095264,0.0057495287619531155,0.008329556323587894,0.0056371805258095264,0.005794034339487553,0.005635386798530817,0.0056371805258095264,0.004611050244420767,0.004925338551402092,0.0060538556426763535,0.0056371805258095264,0.005255239084362984,0.0037174602039158344,0.0058512091636657715,0.007144463714212179,0.0025765893515199423,0.0036754258908331394,0.005214739590883255,0.01707003451883793,0.0059186299331486225,0.0031879639718681574,0.006721224170178175,0.006075575016438961,0.005215107463300228,0.005641066003590822,0.0066215177066624165,0.005879776086658239,0.006174280308187008,0.00763963907957077
+0.006218805909156799,0.00453569833189249,0.009056726470589638,0.006487327627837658,0.005847249645739794,0.004900537431240082,0.00721872178837657,0.004734945949167013,0.0033966051414608955,0.005328891798853874,0.005894372705370188,0.010239685885608196,0.006339896935969591,0.005922050215303898,0.00721344817429781,0.003324472578242421,0.0047732447274029255,0.0059081632643938065,0.003779117949306965,0.005225182045251131,0.0027485371101647615,0.0044103628024458885,0.006595822516828775,0.00662947865203023,0.0069280825555324554,0.008040836080908775,0.004820242058485746,0.010082116350531578,0.0073181684128940105,0.0060508218593895435,0.004555841442197561,0.0052115959115326405,0.003911164589226246,0.005020062439143658,0.007500812876969576,0.004783302545547485,0.0070266881957650185,0.0072206309996545315,0.006271349266171455,0.005157718434929848,0.005584120750427246,0.008462618105113506,0.003888188861310482,0.00536945229396224,0.005850620102137327,0.0058142454363405704,0.004413335118442774,0.006261134520173073,0.006937492173165083,0.005638374947011471,0.005797214340418577,0.005942403804510832,0.005437849089503288,0.005775669123977423,0.006787370424717665,0.006397202145308256,0.00551450764760375,0.004776050802320242,0.006817699875682592,0.004223041236400604,0.008093290030956268,0.005805657710880041,0.007091638632118702,0.007649793289601803,0.008693675510585308,0.00880793109536171,0.003481510328128934,0.005135811399668455,0.004620200488716364,0.004374498035758734,0.003543349914252758,0.0030249187257140875,0.004236816894263029,0.005938863381743431,0.007827835157513618,0.006920786574482918,0.005743265151977539,0.006421776954084635,0.004253515042364597,0.004939255770295858,0.005795691162347794,0.0068726432509720325,0.005556559190154076,0.0044306060299277306,0.005529045592993498,0.010390261188149452,0.007729228585958481,0.006180109456181526,0.006012239493429661,0.006180979311466217,0.0034747847821563482,0.005024152807891369,0.004309665411710739,0.00560352997854352,0.005586453713476658,0.006575737148523331,0.008155420422554016,0.003847126616165042,0.004698629025369883,0.0049923984333872795,0.004827981349080801,0.005606515798717737,0.005300760269165039,0.007321203593164682,0.00504213897511363,0.005902689415961504,0.005911491811275482,0.0061111655086278915,0.005758989602327347,0.004989100620150566,0.008177141658961773,0.006021114997565746,0.005748368799686432,0.00582079216837883,0.004993948619812727,0.006647532340139151,0.006060913670808077,0.0027932997327297926,0.006257851142436266,0.006216063164174557,0.007612233050167561,0.0046323612332344055,0.006657756399363279,0.006431735586374998,0.004020063206553459,0.00602459441870451,0.005359261762350798,0.004135506693273783,0.005637248978018761,0.005724314134567976,0.004666281398385763,0.005419301334768534,0.005553570110350847,0.00603146618232131,0.005451605189591646,0.007853401824831963,0.006661018822342157,0.004808260127902031,0.005905881989747286,0.005099654197692871,0.005686603486537933,0.005655784625560045,0.0056969462893903255,0.00580525491386652,0.008306090719997883,0.0056969462893903255,0.005842085927724838,0.0056922901421785355,0.0056969462893903255,0.004610915668308735,0.004957768600434065,0.0061300466768443584,0.0056969462893903255,0.005352362059056759,0.0037396219559013844,0.005798526108264923,0.007121932227164507,0.002622839994728565,0.0036716379690915346,0.0050870259292423725,0.017120517790317535,0.006101264152675867,0.003160814754664898,0.006568179465830326,0.00601697713136673,0.005139138549566269,0.005695549305528402,0.006636262405663729,0.0058889142237603664,0.006123488303273916,0.007618677336722612
+Questions:
+do we need batteries...what size if so
+can I buy just the cannons separte? my son lost one.
+does it need batteries?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+"I wasn't familiar with this product so I took a moment to view the Fisher Price video clip of the dinosaur, I admit I was skeptical because the video was downright cheesy!
+With that said, my son and I were pleasantly surprised with the dinosaur, so don't let the video fool you, and give it a chance.The dinosaurs recommended age is for 3-8 years.
+The tip of its tail and head fully rotate, the mouth manually opens and closes.
+The dino has two modes which are enabled by either pressing the top button (located at the top of the tail) for Battle mode with walking or pressing the bottom button for battle only mode.
+Battle mode consists of the the dino roaring, the seat popping up to reveal a cockpit and then firing two missiles.
+Once the cockpit is opened the action figure can stand in the pit and swivel to release side spikes.PROS:What we liked most was the imaginative play and versatility.
+The action figure has removable armor as does the dinosaur, for classic dino play.
+The action figure can be seated or stand in the cockpit.
+After the seat was removed my son pretended it was a mini pod-like fighter plane.
+The dinosaur works on both hard surfaces and carpet.
+We have standard carpet and it worked fine, but I did notice the dino became slower and more sluggish after the seat had raised to reveal the cockpit.
+The dino seems sturdy.CONS:First and foremost, I am not crazy about the missiles for obvious safety reasons.
+Second, my son had a somewhat difficult time realigning the seat to put it back on the dinosaurs back.
+I would have like to see the dinos mouth open and close automatically.
+Next, the armor was a little misleading - it looked as if it might glow in the dark, but it does not.
+There is no volume control, but it doesn't seem overly loud.
+"This is another fun toy from Imaginext.
+A fun addition to the collection.
+This dinosaur walks and roars with the push of a button.
+Make sure you are not too close to the projectile after pushing the button.
+The seat lifts, the dino walks and then fires two ""cannons"".
+When we first tried the toy, the projectile hit my son in the face.
+(thankfully not in the eye).
+It helps to read the directions first.
+:)The dinosaur originally kept falling over.
+This lead to a bunch of tears.
+Again, after reading the directions, we discovered that all four legs must be on the floor at once in order for the dino to walk.
+Once we figured this out, the dino didn't topple over anymore.
+We had a great time playing with the dinosaur and other characters.
+This toy is great for imaginative play."
+This was our first Imaginext toy and we are so impressed, it will not be our last.
+The dinosaur is big, stable and well made.
+The sound effects are great snd the shooting mechanism is great.
+The roar and stomping feet sounds are.so cool when it walks.
+Even the colors and materials seem nicer than normal.
+I'm going to see what mire we can buy from this manufacturer.
+I'd recommend this toy.
+"My four-year-old Son loves his Imaginext toys, and this Mega Apatosaurus is no exception.
+He was immediately added to the ranks of ""The Bad Guys"", based on his surly appearance, and has participated on many raids against Imaginext Batcaves, Fortresses of Solitude, Castles, and Pirate Ships.
+It walks (On hard surfaces, which irritates my Son to no end, as we primarily play in the carpeted Living Room...), roars, and comes with a rider, seat, and the usual compliment or rockets and missiles.
+Imaginext makes fun, sturdy toys that can stand up to heavy play, which is a Godsend."
+"We have a huge bin of the Imaginext dinosaurs, so I knew my son would like this one before it even arrived.
+Overall, for a six year old little boy, it's pretty cool.WALKINGThe dinosaur walks and does an okay job of it as long as he's on a hard surface.
+On carpet, he seems to just fall over or kind of slide around.FIRINGWhen in the mode to fire, the seat lifts up very quickly and fires two missiles.
+Be ready and make sure he isn't pointed toward anyone!
+This is where the annoying part comes in.
+The sound effects just keep going and going and going and, as a parent, after about the 50th time, you want to toss this dinosaur as far away as possible.DURABILITYHe is very durable.
+He's already made a couple of trips down the stairs onto the tile floor and is no worse for wear.
+I think a little kid would have to try hard to damage this dinosaur.OVERALL LOOKCompared to the other Imaginext dinosaurs, I didn't really like the look of this one.
+Even the T-Rex looks ""nicer"".
+This guy just kind of looks mean.
+That was my very first thought when we opened the box.
+But, my son doesn't seem to care one way or another.Overall, it seems like a good toy and the kids love it.
+As a parent, it is just another annoying noise maker."
+The Apatosaurus actually walks and the little guy riding him rises up and shoots darts!
+It really works!
+Not only that, but the darned thing makes noises as well - Apatosaurus noises apparently.This is a large toy - about a foot tall!The issue I have with it is that being from Imaginext I expect it to be a toy requiring the kids' imagination, but that's not really the case since it moves on it own and makes it's own noises and shoots darts on its own.Watch those darts, by the way - if you've got little ones, they'll love this, but those darts are probably a choking hazard.
+Just don't let the kids have the darts, they'll still have fun with the action the dinosaur does.I would love to have had this toy as a kid and my nephew, though a bit younger than the target age, was nervous about it at first and then alllll over it after about five minutes.this is a lot of fun and seems to be fairly sturdy.
+"Imaginext offers a wide range of toys, but this is the first my son's played with in the Mega dinosaur series.
+This line features dinosaurs tricked out with guns and various robot parts along with a rider action figure.
+Different toys in the line offer different features; apatosaurus has a motorized walk and pretty fun noise maker (other reviewers found the noise a bit annoying but it didn't bother me).As a rule, I prefer toys that are ""wide open"" rather than directing a particular storyline for kids to play through.
+These mega-dinos (at least as far as I am aware), don't have a thick ""back story"" and so my son isn't insisting on modeling this or that cartoon.
+Instead, he's enjoyed creating various scenarios.
+Sometimes he strips off the various accoutrements (all the gun parts just snap off in a snap) and played dinosaur.
+Other times he's put the guns all back in place and played robo-dino vs this or that.
+For the most part he seems to really have a blast with it and is already asking for another toy in the set.I'm generally impressed with this toy's obvious durability.
+The molded plastic isn't flimsy or light and the moving parts are solidly assembled.
+Overall, this seems a toy built to last, which is a nice change from a lot of the junkier stuff I see.
+For imaginary dino-battle play, I suspect this is the best purchase you can make."
+My 4 year old son, 6 year old daughter and myself love playing with the Imaginext dinosaur line.
+For the price it packs in a lot of wow factor being a tall 15 inches, lots of automated motion, and interactive parts.
+Like theFisher-Price Imaginext Mega T-Rexit's controlled by a simple toggle switch which will activate the walking motion, sounds, and/or a pop-up seat with dart firing.
+And while it took my kids awhile to warm up the T-Rex, they immediately took to this one (I think it's a little less intimidating while still being cool).
+I know some reviewers complained that it doesn't walk or stand... and they are partially correct.
+It's easy for the legs to be snapped out of alignment with the internal mechanisms, this happened taking it out of the box for me.
+This can be good since it can take a beating and it still works once you pop them into place, but it does take a little bit of force.
+Also the walking motion is more ceremonial than real locomotion.
+It does creep forward a little bit (more so on hard surfaces), but I wouldn't call it walking.
+There are a lot of things that move from pull out fins, targeting and shooting elements, as well as the dino's jaw.
+I would have liked for the jaw to trigger a sound effect, but that's a small concession considering it's price.
+Overall it should be a big hit with any 3-7 year old dinosaur or Imaginext fan.
+"My 3 year old grandson loves dinosaurs and is crazy about this toy.
+He will play with it by himself for an hour at a time.
+At about 15"" tall x 15"" long it's a perfect size for such a tyke, and it is very solid and seems quite sturdy (but when he wants to play with it in the basement ""kid's room"" we prefer to carry it down there for him, because it would probably not do well tumbling down the stairs).
+He is able to operate it himself - making it walk, fire its cannons and roar.
+This apatosaurus toy is the least realistic looking dinosaur toy he owns, given that it has a cartoonish look, but this in no way detracts from its educational value, i.e., as a dinosaur toy that can be used to explain things about dinosaurs to young children."
+My boys love dinosaurs and Imaginext, so they were super excited to receive this toy.
+The dinosaur is rather large.
+Right off the bat, they were both impressed.
+It also walks and makes noises too.
+The seat for the Imaginext character pops up and shoots plastic missiles too.
+Like most of this brands items, the product seems well built and sturdy.
+The price isn't too bad considering how big it is.
+It is much more reasonable than some of the castle and bigfoot products.
+Overall, my boys and I are happy.
+A walking dinosaur that shoots missiles and makes noise, it's obvious why the kids love this toy!
+At the press of a button the dino takes a few step, raises the characters platform and shoots two missiles across the room all while roaring.
+Our's has been on many adventures with the Imaginext airplanes and city characters and most of the accessories are interchangeable.
+It seems to be indestructible as it's been down steps and off decks without a scratch.
+He does fall down if he tries to walk on carpet or furniture.
+The saddle also comes off so the dino can walk around on this own without the character riding.
+Another good toy from Imaginext!
+Imaginext Mega Apatosaurus.
+My 5 year old grandson is in love with dinosaurs right now and this was the perfect toy.
+It was easy to remove from the box.
+He did manage to scare me when he turned it on and it started to roar and walk, that made his day.
+The action figure rises up in his chair and can shoot two missiles.
+The dinosaur walks well on hard floors and carpeting too, a very sturdy toy.
+The command chair removes and reattaches easily.
+The figure comes with removable armor.
+He really loves to pretend he and the dinosaur are doing battle, he even put other super hero figures on the dinosaur to ride.
+Great toy.
+I  have a  few other of these toys  and my 4  year old really likes them.
+This is by far his favorite.
+It's  very big,  walks on its own &  fires  rockets.
+My son is a fan of Imaginext characters -- he has several of the knights, castles, and monsters -- so this Apatosaurus seemed like a good fit.
+But don't be fooled.
+He's big, but he's not nearly as cool as the other figures in the set.This is basically an articulated Apatosaurus (a plant-eater, but the fangs on his mouth imply he's tough enough to bit someone).
+His mouth opens, his legs move, and he can swivel his head.
+So far, so good.But what makes this big guy more than a dinosaur is the apparatus on his back.
+It's a weird Barcalounger that winches upward to bring the rider to the same height as the Apatosaurus's head.
+And it has two brightly-colored (but not glow-in-the-dark) projectile launchers.
+It also has a flip-up sight that's for the kid, not the rider.This big blocky thing clicks into the back of the Apatosaurus, and it's saying something that the harness can be removed completely.
+My son of course took it off in about five minutes, and then had trouble getting it back on.
+The dinosaur doesn't need this harness, although the rider does as there's no other way to sit on it.Without the harness, the dinosaur has two modes: roaring, and walking.
+These are manipulated through a swivel button on the top of his tail, and beneath it is the off switch.
+The problem is the roaring mode, which does something more with the harness when it's connected.
+It lifts up the seat, fires the guns, and spins a rotor with a lot of PEW!
+PEW!
+sounds.
+This sequence goes on for far too long, it fires in random directions (the child can't really aim the figure, because he first winches up into the air then fires, so you have no idea where he's going to shoot), and it has an annoying clicking sound as it attempts over and over to lift the seat.
+What a cool toy.
+First off it's big, which kids love.
+The mold is cute and menacing at the same time, so I wouldn't worry too much about it being too scary.
+When you hit the button one way it roars and walks, when you hit it the other way the human dinorider rises up off his saddle with fun noises and then you can hit the rocket launcher!
+Hello!
+This is little kid heaven here!This toy is solidly built with no sharp edges and can survive a fall down a flight of steps, don't ask me how I know this...I can't even survive a minor toe stubbing!
+Hooray for Imaginext!!
+!
+I love Imaginext.
+They have great quality.
+Out of all our products (which is probably near 100), we have only ever had 2 break.
+This is no exception.
+The dinosaur walks, however it won't walk well on shag carpet.
+He is tall enough that he tips over.
+I love that he has shooters.
+They do a great job with the shooters.
+I have never had any of those pieces break.
+We do lose them a lot.
+If your kid likes dinosaurs, stick with the imaginext.
+If they like something else, explore the other sets.
+We have a castle, batman lare, ships, dragons, airplanes, jungle.
+They make something for everyone.
+Imagine a world where humans and dinosaurs co-exist...
+The time for this is in the future, and apparently humans will be riding them.
+:)  This is a huge, cool looking dinosaur, and it is built to last.
+Several parts of it can move including the jaw, neck, head, and tail.
+I also like that you can remove the armored 'saddle' if you prefer only playing with the dinosaur minus the human.
+The missiles don't shoot out with much power, but this is probably to prevent eye injuries to children.
+Mega Apatosaurus comes with batteries which help him walk, shoot missiles, and make sound effects.
+This toy is a no-brainer for any dinosaur lover and should allow a lot of creativity in your child inventing adventures for this dinosaur and his rider.
+I believe this toy is priced reasonably for the quality and features you get.
+I received this imaginext dinosaur through the Amazon Vine program and my son loves it, as he does every imaginext piece that we get him.
+Its solid and durable, he plays rough, and actually large enough to tower over his other toys, as it should since its supposed to be a mega dinosaur.There is no real educational value, but there isnt supposed to be.
+It really is just a fun piece to add to his imaginext collection.
+The Imaginext Mega Apatosaurus is a huge hit in my house.
+My 3 year old nephew has not put it down since we got it 3 days ago.
+It walks and moves its mouth with the push of a button.
+The little person on the back pops up and shoots little arrows.
+It is a large toy that seems very sturdy.
+Overall I rate this toy as a 5 star because it is sturdy, and loads of fun.

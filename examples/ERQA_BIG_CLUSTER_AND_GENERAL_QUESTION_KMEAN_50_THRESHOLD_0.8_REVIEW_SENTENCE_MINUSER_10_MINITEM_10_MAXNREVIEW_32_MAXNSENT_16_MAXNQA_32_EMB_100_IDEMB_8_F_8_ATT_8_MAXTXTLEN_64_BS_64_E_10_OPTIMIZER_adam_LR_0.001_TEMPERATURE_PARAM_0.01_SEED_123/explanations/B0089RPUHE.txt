@@ -1,0 +1,263 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+"""LeapFrog Explorer Learning Game: Disney Phineas and Ferb"""" offers a load of features to deliver hours of fun, excitement and learning for ages 4-9.To take advantage of Phineas and Feb you will, of course, need a LeapPad Tablet.
+My son also had the Leap Pad and loved it over the iPad.
+And in Angent P's Plattyball kids get to experiment with weights and physics.
+"My 5 year old LOVES Phineas and Ferb, and I love that the cartoon teaches kids to think outside the box, to be creative, and to explore their world, so when I got to play this game with my son, I was glad to see they kept a lot of the fun-ness about Phineas and Ferb and integrated math, science, engineering and technology into the ""game"", thus making it a learning game.I actually really had fun talking with my son about what a circuit was and how the basics of electricity work.
+One thing that I like about all Leapster games is that if they are really stumped for an answer, you can press the hint button and it gives you a clue of what to do.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.0017444301629438996,0.0039312029257416725,0.0038406485691666603,0.0032630995847284794,0.003787018358707428,0.00402566185221076,0.0050501953810453415,0.0026606889441609383,0.004572282545268536,0.0048421588726341724,0.004657270852476358,0.0034057004377245903,0.003632834879681468,0.003770767478272319,0.004106076899915934,0.003107197815552354,0.003829201217740774,0.00333652482368052,0.003037991002202034,0.0029682419262826443,0.003954092971980572,0.003728842828422785,0.0021486131008714437,0.005216328427195549,0.0050384956412017345,0.0025582273956388235,0.004101255442947149,0.0026664293836802244,0.005725961644202471,0.004038519226014614,0.0038905031979084015,0.0037904120981693268,0.005027334205806255,0.0033009492326527834,0.002693323651328683,0.0033966877963393927,0.004114173352718353,0.005431803874671459,0.004467683844268322,0.004595678299665451,0.004015045706182718,0.0039954399690032005,0.004992866422981024,0.004241731483489275,0.003120499663054943,0.004476588685065508,0.004072309471666813,0.004899961873888969,0.00616697920486331,0.0040990146808326244,0.004573632963001728,0.004845799412578344,0.004032379947602749,0.004147743806242943,0.005018856376409531,0.003593967529013753,0.0024414656218141317,0.005294828675687313,0.003683308372274041,0.002318349201232195,0.004900808911770582,0.004880698397755623,0.003761226311326027,0.0035257190465927124,0.004147621802985668,0.004134999588131905,0.005044682417064905,0.0033723395317792892,0.003573840018361807,0.003924514167010784,0.003194038989022374,0.0027624820359051228,0.004327654372900724,0.004889264237135649,0.009239927865564823,0.005123129580169916,0.004668345674872398,0.003545160638168454,0.002902059582993388,0.0029811388812959194,0.003942536655813456,0.004826544318348169,0.004970957525074482,0.0036881333217024803,0.003406452713534236,0.0049993679858744144,0.004085407592356205,0.004558748099952936,0.001765335793606937,0.002427532570436597,0.004909795708954334,0.003906573634594679,0.005997722502797842,0.002396640134975314,0.004262239672243595,0.005832269322127104,0.00377253838814795,0.004328753333538771,0.004006965551525354,0.005408987402915955,0.004178737290203571,0.0061417194083333015,0.004513940308243036,0.004141988232731819,0.004058897495269775,0.0035951680038124323,0.0026973322965204716,0.0031966082751750946,0.00462874211370945,0.003181160194799304,0.003782990388572216,0.004724421072751284,0.004851550795137882,0.005587511230260134,0.004136094823479652,0.005090906750410795,0.005573786795139313,0.006693030241876841,0.0036435145884752274,0.0032543246634304523,0.004064485430717468,0.003894370747730136,0.0033635019790381193,0.001970411976799369,0.004064485430717468,0.0041986568830907345,0.003935810178518295,0.004947800654917955,0.003632960142567754,0.004749801475554705,0.004528587684035301,0.0040171025320887566,0.0035037025809288025,0.004138212651014328,0.003299054689705372,0.0038293402176350355,0.004134408663958311,0.004101679660379887,0.0040550194680690765,0.0034057635348290205,0.0019657867960631847,0.0030130401719361544,0.0024459559936076403,0.0050130849704146385,0.00411970866844058,0.001780388061888516,0.006003475282341242,0.004188950639218092,0.004686969332396984,0.005421707406640053,0.004215974360704422,0.00403312174603343,0.0083767119795084,0.0029634523671120405,0.0032045126426965,0.00388521421700716,0.00404322100803256,0.0034800469875335693,0.00368503644131124,0.0025153737515211105,0.006997103337198496,0.0035106432624161243,0.004769929219037294,0.004658280406147242,0.002509859623387456,0.004271621350198984,0.004251869861036539,0.004923970438539982,0.0032902387902140617,0.004609875846654177,0.00511142797768116,0.0041603809222579,0.003710601944476366,0.0039952402003109455,0.00353023293428123,0.004200343508273363,0.0033793230541050434,0.0046427007764577866,0.004950187634676695,0.0034479633904993534,0.003146854229271412,0.0032281139865517616,0.00198180484585464,0.005259644705802202,0.0036883861757814884,0.004229323007166386,0.005055388901382685,0.0048909601755440235,0.0035509185399860144,0.005369492806494236,0.004139203578233719,0.004079757258296013,0.003570273518562317,0.0016946452669799328,0.004439301323145628,0.0031092758290469646,0.0029316148720681667,0.0032962816767394543,0.002077483106404543,0.0038873229641467333,0.003974122926592827,0.004386334214359522,0.005771930329501629,0.0045698885805904865,0.004082277417182922,0.0039788177236914635,0.0033129032235592604,0.0033930938225239515,0.003096513682976365,0.004611555486917496,0.0036986786872148514,0.004255675710737705,0.002944018691778183,0.003566032275557518,0.004865075461566448,0.004650644958019257,0.003437682520598173,0.004019400104880333,0.0019958317279815674,0.004297701176255941,0.004515243228524923,0.003246605396270752,0.003279726020991802,0.004079787526279688,0.003443335648626089,0.0032885693944990635,0.005438674706965685,0.004299404099583626,0.0036315382458269596,0.0038248084019869566,0.003371509723365307,0.004278663080185652,0.00411119544878602,0.00401083892211318,0.00401083892211318,0.0035558913368731737,0.002310170792043209,0.004201488569378853,0.0037340503185987473,0.00420369952917099,0.0038558223750442266,0.004110286943614483,0.0053087943233549595,0.007310920860618353,0.003699124325066805,0.008020360954105854,0.0029748156666755676
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+Our seven year old daughter and five year old son really like the Phineas and Ferb game.
+We like that the focus on science/math.
+we definitely recommend this game as a great science and math primer.
+It is fun for them.My daughter in particular likes a game where you fill in blocks/wood so a character does not fall while rolling.
+Its beocme the house fave.
+"My 5 year old son absolutely loves this game.
+We gave it to him a few days ago and he has played with it almost non-stop.
+We've had to actually hide his player so he'll take a break!So, here's the scoop on this game...Phineas and Ferb are making a balloon launcher to take on Dr. Doofenschmirtz.
+There are two ways to play, game mode and free play on Platyball Run.
+In the game mode, you'll use the D-pad to move the launcher around the neighborhood, the mall and other places while shooting balloons at robots and avoiding what they shoot at you (fries, meatballs, pizzas...) then you take on Dr. Doof at the end of each level.
+During each level, there are power ups which require basic math skills and completing circuits with either a conductor or insulator.
+At first, I played through level one (as a guest) and showed him how to do it.
+Within an hour, he was running to me to tell me he'd defeated Dr. Doof on his own.Just an aside, before this game came my son was terrified of electricity and lightening.
+Since learning a little more about it (through home study and this game) he's doing better.
+He understands more about how insulators work and why.
+So...for that I'm grateful to the game.Another aspect of the game is using simple machines (incline plane, wedge, weighted block) to move a ball down a ramp into the container at the end.
+He didn't understand it at first, so I had him start the ball without anything on the ramps to see where the ball was going to go and decide what he could use to make it go where he wanted.
+That worked like a charm!
+He beat all 12 levels of free play the first day!There are ""blueprints"" to put together at the end of each level, to upgrade the launcher.
+This is good for shape recognition.There are hints in the game which are available by pushing the ?
+button during play.
+Most of the Leapster games we have focus on reading and language skills, which is awesome, but this was a very welcome change.
+My son LOVES Phineas and Ferb, and I'm so glad Leap Frog made a science game involving their concepts.
+My son is five, and it really challenges him to think through addition, subtraction, shapes, material properties and even basic engineering.There are several different games to play.
+In one, Phineas and Ferb drive around one of their creations while battling food-throwing robots that hurl meatballs and cheese sauce.
+To improve your craft, you do math problems.
+While my son has been reluctant and a bit grouchy about homework these days, he's all for figuring out addition, subtraction and multiplication if it means his robot car will have an inflatable bumper or a better water balloon launcher.There is also a section on electricity - what conducts, what does not, what appliances around the house draw more power.Our favorite section of the game is the machine builder.
+You are given different materials and an incomplete invention, and you have to create a path to roll a marble from the top into a can using different objects, like an incline plane, lever or pulley.
+It's just plain neat.And of course, as Perry the Platypus, you can battle the evil Dr. Doofenshmirtz in his inator!I would highly recommend this game to sneak in development of math and science skills.
+My son absolutely loves it.
+At five years old, it provides him enough of a challenge while still being fun, and I can see him still finding fun in it in the years to come.
+My almost 6-year old daughter has 5 or 6 games for her LeapPad, and really likes Phineas & Ferb, her newest game.
+It's currently her 2nd favorite (after Dora the Explorer, which never seems to fall out of favor) and I'd have to say that is definitely one of my favorites too, as I love the math, physical science, and logic concepts that it features.In the main story part of the game, Phineas and Ferb are driving around town, shooting bad guys with water balloons and gathering new parts for their balloon-launching vehicle.
+This was actually the least fun part of the game for my daughter, as she had a lot of trouble using the D-pad button on her LeapPad to turn the vehicle the right way to aim and shoot at the bad guys.
+I think this might have been a lot easier using the control buttons on the Leapster Explorer, but as we don't have one, eventually she just gave up and drove quickly past all of the bad guys to get to the next part of the game.Though we weren't overly thrilled with the main game, there were also various mini-games and learning challenges throughout the game, and those we LOVED.
+One of the mini-games requires the player to complete electrical circuits by adding conductors or insulators as needed, and I was really impressed by how well the whole concept was shown and explained.
+Another challenge featured basic addition and subtraction problems, and one had my daughter dragging and dropping missing shapes onto a blueprint to complete a picture.
+Our very favorite mini-game was one that used various simple machines - levers, pulleys, planes, and the like - to clear the way for Agent P to get into Dr. Doofensmirz's secret hideout.
+This particular mini-game, Platyball Run, can be played directly from the main menu, and I think my daughter has spent as much time playing it as the main game!If you can get past the difficulty of driving and shooting the water-balloon launcher, this is definitely one of the better Leapster Explorer games out there.
+Not perfect, but overall, recommended by mom and child alike!
+"I got this game for my 5-year-old daughter, who loves to watch Phineas and Ferb.
+Since she enjoys the show so much, I hoped that she would like the game as well, and the science and math topics included were just bonus material.After she got the game, she played it for about an hour, then lost interest.
+However, she has only played it a couple of times since then.
+I had a go at the game so I could properly review it, and this is what I have found:1.
+In the first few levels, it covered: shape matching, circuits, incline planes and math.
+All in fairly easy to understand ways, with good instruction and explanation.2.
+The controls to play the games are a little wonky.
+The pad is used to control most things, with a small ""button"" on the screen for firing the water balloons.
+The pad does not control the car as easily as it should and it can be hard to get into position for firing balloons at the robots.3.
+The incline plane screen is nice - there are no explanations about how it works or about what all the pieces do.
+However, the game does allow retries without redoing everything, making it much easier to figure out what to do next.4.
+The screen where Agent P steals the keys to battle Doofenshmertz (I think?)
+is the same, at least through the first few levels.
+Exactly the same.
+Kinda boring.5.
+The math seems pretty on target for the age range, though it varies greatly.
+My seven-year-old daughter really enjoyed this Phineas and Ferb game.
+As a parent, I've noticed most games are geared towards reading and phonics.
+That isn't an area my daughter struggles with, so I especially like that this game focuses on science and math.
+She is reluctant to practice math facts, but while fighting off food throwing robots she was more than eager to solve the needed math problems.
+We played together in story mode and had a great time!
+I definitely recommend this for children who enjoy math and science, as well as those who don't.
+My 5-year-old daughter has been playing this game for about a month now and she's having a blast.
+Not only does this game provide fun time for her, but it challenges her with math and logic questions.
+I sometimes have to help her, but most of the time she can solve the problems on her own.
+I think it's a great ideal to combine fun and education into a game.
+I think the developer did a good job keeping the educational challenges fun and engaging.
+Anyways, good game.
+I rather my daughter play games like this than just pure fun non-educational games.
+I have 5 and 7 year old boys who love Phineas and Ferb and so they love this game.
+We wanted to get the LeapFrog Explorer for them instead of a traditional game system.
+It satisfies the video game want in them and yet the games have a redeeming quality of learning.They really like the Phineas and Ferb game, it teaches logic and reasoning skills but still packs a fun amount of video gaming so they are happy and entertained and I feel better about it too.Their other favorite game isLeapFrog Explorer Learning Game: SpongeBob SquarePants: The Clam Prix (works with LeapPad & Leapster Explorer).
+They can play for hours with that if I let them.
+These are definitely their two favorites.Highly recommend this and the whole LeapFrog Explorer system.
+"""LeapFrog Explorer Learning Game: Disney Phineas and Ferb"""" offers a load of features to deliver hours of fun, excitement and learning for ages 4-9.To take advantage of Phineas and Feb you will, of course, need a LeapPad Tablet.
+A LeapPad Tablet can be acquired for only $35 that includes the LeapPad Explorer Learning Tablet with 2GB storage, a built-in camera and video recorder, pet writing app, story studio app, art studio app, a free app download plus USB cable, a LeapFrog Connect CD, and an extra stylus.Explorer's storyline finds Phineas and Ferb deciding to build the ultimate water balloon launcher but Dr. Doofensmirtz gets in the way.
+(The Phineas and Ferb"" learning game for ages 5-8 is sold separately from the LeapPad).The game allows young users to experiment with electricity, rebuilt engineering blueprints, thwart evil with simple machines, and to use addition, subtraction and multiplication skills to power up and balloon launcher.
+Kids also learn about forces and motion and logic and reasoning.Explorer, like all of LeapFrog's products, combines education, technology and storytelling, to empower kids to learn through play by engaging their natural curiosity and desire to explore.Phineas and Ferb  specifically offers an introduction to STEM subjects, including physical science, engineering, problem solving, logic and reasoning skills, and mathematics.
+Early exposure to these STEM subjects is likely to lead to later success in school because children are able to practice problem-solving skills while having fun.
+Many LeapFrog games focus on phonics and reading but parents wanting their children to improve science knowledge and math skills will want to turn to Phineas and Ferb.A lot of colleges offer laptops to incoming freshmen.
+I wonder if it's time for pre-schools to offer LeapFrog LearningPads to its incoming crop of toddlers."
+My kids liked to play with it, Phineas and Furb is their favorite characters, so they are very excited to play.
+The game works very well for both Leappad and leappad2, so they can share and switch easily.
+Highly recommended.
+I liked how the problem's levels adjusted with play, e g if a child gets all the answers right, then later he gets more complex tasks.
+"Phineas and Ferb is a great high interest game.
+It makes funny sounds and has the evil genius plotting against the world.
+It has really clear directions - use the launch button to launch water balloons at robots and collect six parts to build whatever.
+I liked how the player could `kill' the robots with one shot but robots had to hit the player a bunch of times and there were lots of heals available.Sometimes you need to solve math problems to continue in the game.
+It was very funny when our 3-year-old granddaughter had to ask her brothers what the math problems were, and then they told her what they meant, then she asked them for the answer and they made her work it out on her own.
+She was not a happy camper.
+But she was willing to do the math problems so she could continue on the game.
+She got every adult in the house at least once, because they didn't know why she was asking them, ""How much is 3 plus 4?""
+There was no real punishment for getting the wrong answer, but she wanted the right answer every time.In order to make progress you have to occasionally figure out solutions and learn fun facts like copper is a conductor that lets electricity pass (for those who had not yet experimented by sticking pennies in electric outlets).One of the things I especially like about this game is that it can be played on multiple levels.
+Even I can manage it a little bit.
+(I reached the rank of robot polisher!)
+We have 4 grandchildren between the ages of 3-7 and they all played it according to their level.
+While they were all here, we had to put the timer on it, fifteen minutes each, then outside to play.
+They came running into the house to get this game.
+The second one in line ended up with Super Mario Brothers, at least for now.
+That makes it great in my book!"
+My boys who are 6,6 and 5 really love the leapfrog games for the leapster and Leappad.
+I love how this one has to do with science and math.
+They love playing the games and are learning some educational things as they play.
+My boys love the part of the game where you have to insert ramps and pulleys to get the ball to move down the track(they love to build chain reaction stuff in real life) so this was really lots of fun to them.
+Recommended age is 5 to 8 and I think that fits very well with the stly of game and the level of the educational problems.
+Over all I think this is one of there favorite games for the leappad so far.
+My 5 year old daughter just started watching Phineas and Ferb.
+She likes it, but I wouldn't say it's one of her favorites.
+She absolutely loves the Leapfrog game though.
+She plays the game with minor difficulty, seems like she's having a lot of fun and best of all, she's learning math, science and more.
+I was concerned the game would be too advanced for her given she has just turned 5 and started kindergarten, but she's only needed my help on the very rare occasion.
+"My seven-year-old daughter loves everything Phineas and Ferb.
+They really appeal to her creativity.
+She also loves games.
+So, as you might imagine, she was over the moon to receive the LEAPFROG EXPLORER LEARNING GAME: DISNEY PHINEAS AND FERB.
+This is a math and science focused game, which she loves, so she tore right into it.
+The LEAPFROG EXPLORER LEARNING GAME: DISNEY PHINEAS AND FERB teaches physical science, circuitry and engineering concepts, problem solving, logic and reasoning skills, and mathematics.
+According to my wee one ""the games are fun, and I like doing the math.""
+That sends ME over the moon.
+Woo Hoo!
+She LIKES doing math.
+The games have different levels, so she can move up once she masters a level.
+Like most LeapFrog products, the LEAPFROG EXPLORER LEARNING GAME: DISNEY PHINEAS AND FERB is a quality game, one that I am glad to have my child play.
+Mom and kid are both very happy.
+What more could you ask for?"
+"My son was already obsessed with Phineas and Ferb back when we discovered it on netflix a year ago.
+And thanks to them he became obsessed with becoming an inventor and loves books about Thomas Edison and Benjamin Franklin.
+He now loves shows like Nova and ""Inventions That Shook The World"".
+So when he got this game for his 5th birthday, I knew it would be an instant success.
+He LOVES it.
+And that is an understatement.
+On a recent four hour road trip he spent (no joke) 100% of the drive playing this game.
+I played it a little just to get an idea of what he was spending all his time doing and I was SO impressed.
+It feels a bit like an interactive episode of the show, with tons of math and engineering games as well as plenty of traditional game play to keep it exciting.
+It is just challenging enough for him to keep him learning (he is in Kindergarten), but not so hard that he gets discouraged.
+My favorite part of the game is when you get to create track for Perry (who is in a hamster ball) and have to figure out the trajectory of the ball and what sort of shapes will get him to his destination.Over all an excellent game."
+My son would play this game all the time.
+He is 5.5 years old and absolutely loves it.
+He had no difficulty playing the game or solving the problems.
+He has always been ahead of the curve academically so this may not be accurate for a typically developing 5 year old (he is easily reading and doing math on a 2nd grade level).
+I do love that it's a science game, those are so few.
+My only complaint is that he was able to beat the game after a couple of hours of play (on the 3rd level).
+He is happy to play it over and over again but I don't know if the educational content changes or repeats (hoping it's the later but really don't want to play the game twice to find out).
+Absolutely would buy this game for any Phineas and Ferb fan!
+My niece loves the Leap Frog Leap Pad and the Phineas and Ferb game.
+She is so excited to play the games and use the camera and video features of the Leap Pad.
+She actually prefers playing with it over my smart phone.
+Phineas and Ferb is a fun game that she really enjoys playing on the Leap Pad.
+(Phineas and Ferb are some of her favorite Nick Jr.
+characters.)
+I am sure that your child will enjoy this great educational game and system too.
+My son also had the Leap Pad and loved it over the iPad.
+"I have bought many Leap Frog products in the past because they are educational and high quality.
+The Phineas and Ferb Leapster Explorer game did not disappoint!
+My five year old has many leapster games and this one has become his favorite!
+Perhaps that is because it is new, but I think it is because the game is fun to play and it is educational too.
+It focuses on Science and Math.
+One day my 5 year old son came up to me and said, ""Mom, rubber is an insulator, it blocks the flow of electricity!""
+I asked him where he learned that and not surprisingly, he told me from his new Phineas and Ferb game.
+One thing that I like about all Leapster games is that if they are really stumped for an answer, you can press the hint button and it gives you a clue of what to do.
+The only negative I see with this game is that the math problems give you only one reasonable answer.
+For example: 29 + 6 = 14, 35, 11?
+Well, even my 5 year old knows that if you start with 29 of something and add a few more, you won't end up with less than you started with.
+I think they should put at least two reasonable answers to help kids work on mental math skills.
+Overall, this game is fun and educational and my son is really benefiting from the Science lessons taught in the game."
+"There are two main game plays.
+The main one where you have to help Phineas and Ferb collect the spare parts for their machine while avoiding the food that the robots fling at them.
+There are several levels on this mode but their are fairly similar in the way they played.
+The other play mode is a ""Rube Goldberg""-like machine where you have to help Perry get into the hatch opening.
+There a several of these levels to play but they are fairly repetitive as well and there isn't a diversity of objects that can be used.
+All-in-all it's a reasonably fun game for the little ones but probably not for long lasting play."
+I received it and my daughter put it to the test.
+She is 6 years old.
+Since it is for ages 5 to 8, there are of course areas that she is able to do, while there is areas that where more difficult.
+This is to be expected since she is at the bottom end of the age group and she will learn more and become more easy as she gets older.
+Although there she has trouble with those more difficult areas, it doesn't take away from her enjoying attempting to figure it out.
+My daughter LOVES Phineas and Ferb, so she has really been enjoying playing with it.
+I would recommend this for any kid that loves Phineas and Ferb.
+I love the fact that it is something that my daughter loves and it gives her a chance to figure things out without it feeling like learning.Update: It is almost a year since I received this game and my daughter is still playing it and considers it one of her favorite games.
+"My daughters are pretty big Phineas and Ferb fans, so they immediately took to this game.
+It's fun for them to interact with their favorite characters, and even my 3 year old took to a puzzle game involving the beloved characters.
+She also sampled several of the other mini-games like an overhead shooter where the gang floats around shooting bad guys and collecting springs while occasionally ""learning"" some rudimentary things about electricity and circuits.The thing with the games, however, is that they're more fun than educational.
+Kids learn problem solving and have the occasional 10-second lesson on electricity in the middle of their game, but the appeal is entertainment for the most part.
+One of the more ""educational"" mini-games ""teaches"" addition, but it's little more than ""5 + 9 = ?
+"", where kids choose from one of three possible numbers with the stylus.
+There's no helping kids understand the concept of the math, it's more like a bunch of flash cards which end up doing little to hold my little ones' interests.Nevertheless, fun isn't necessarily bad, and this game passes my ultimate test: my daughters enjoy it!
+They pick up a little knowledge on the way, and it keeps them entertained."
+"YAY for Phineas and Ferb helping kids with their math & science and making it FUN!
+I am a math geek, and hope to instill the love of math & science in my daughter.
+So far, it's working!
+This game is so much fun!
+Who wouldn't want to build a robot that hurls meatballs??
+My daughter loves solving math problems to earn a ""really cool water balloon launcher.""
+Kudos to LeapFrog!"
+Our kids love Phineas and Ferb, and they love playing the Phineas and Ferb LeapFrog game.
+The game has two basic play modes: Story and Platyball.In Story mode, you play Phineas and Ferb in a contraption they've built that throws water ballons.
+If you're kids are young and haven't played video games much, this part of the game takes a bit of practice.
+You move the up/down/over button to move Phineas and Ferb around the back yard, and then touch the screen or tap with the stylus to launch water balloons.
+It's fun, but takes a bit to get used to.The game has powerups where you answer math questions (5 +2 or 3+1 for the easy level).
+Answering them right gives a power up.
+After each stage, there's a puzzle to put together or it leads you to platyball.The kids have more fun with the Platyball because it's a little easier.
+You can play the Platyball separate from story mode.
+Platyball involves Perry the Platypus who needs to roll down a Donky Kong kind of maze.
+Parts are missing in the structure, and you place them there so Perry can get to his destination.Not much more to it than that other than advancing each level, but that's the basic structure.
+The kids love it.
+"This LeapFrog Disney Learning Game is great!
+Although the graphics are obviously basic and retro compared with today's console systems, Phineas and Ferb's ""tricked out"" ride and adventures in acquiring the ultimate water balloon launcher make this video game a winner.
+I don't think my son really understands the science, reasoning or engineering components of the game, but he was good at the basic math throughout the game and was good at matching geometric patterns.
+Although he does not understand anything about conductivity and insulation, he does remember which objects go where in order to generate power and progress through the game (therefore, I think this game can sharpen your child's short term memory skills).
+This LeapFrog offering has good educational value yet is also fun to play."
+Disney's Phineas and Ferb is a great cartoon for kids and now it's also a great educational game for your LeapPad or Leapster Explorer.
+The Phineas and Ferb game is recommended for ages 5-8 or more specifically grades K-2nd.
+I would definitely go by the grade rating as this game even at it's most easiest level requires an advanced 5 year old.
+The Phineas and Ferb game includes 4 different games which teach your child about Logic and Reason, Forces of Motion, Math & Physical Science.
+My daughter loves the Platyball puzzle game and plays that one the most.
+This is a great game for any child who enjoys a challenge, and even if they haven't watched the cartoon they will soon get into the game.
+10 out of 10, way to go LeapFrog!
+My five-year-old daughter doesn't have a lot of experience with actual games (i.e.
+not just art or matching games, but ones that involve action and movement), so perhaps this game would work well for a child her age with more experience gaming, but it was a reach for her.
+She's actually five years and seven months old, so it's not like she just aged into the category for this.
+If your considering the game for an older child or a more tech-savvy one, then go for it!To be honest, *I* kind of liked it - shooting robots on their hovercraft in one game, experimenting with circuits and levers, completing blueprint puzzles.
+It was all a little fun, and I know my daughter will love it once she's ready to play with it.
+For now, though, it's put away to try again in a few months or a year.
+If you don't have a leapster or leappad, I highly recommend you fork out the money for one.
+This game is super fun and challenging and very educational.Instead of having your child playing on your Ipad, have them do something fun and educational.
+Our soon to be 5 yr old nephew and his 6yr old sister both LOVED this game.
+While the almost 5 yr old didn't get a lot of it, he still enjoyed it, asking and trying to figure things out and he didn't lose interest after an hour of it.
+** See my customer images above for screen shots!
+***  My toy tester is 5 years old and in kindergarten.
+She loves her LeapPad and this was a great new game for her.
+Phineas and Ferb are her favorite characters on Disney and seeing them come to life on her LeapPad was a bonus!
+There are various levels to go through, but at just 5, she had a hard time with advancing.
+For a long term game, this will be great.
+If you are looking for a game for the 5 year old to play now, this may not be the best answer.
+Personally, I love games that continue to challenge the child and keep them alert and learning.
+It's a five star review in our house!
+I have a 5 year old girl and a 7 year old boy, and they both love this game.
+Truly an excellent Leap Frog product.
+My kids tend to like science games so this is perfect for both of them.
+There is a lot of science and math in this game.I am thankful that I have two cartridges.
+Otherwise they would be fighting over it for sure!
+Other than the standard games in the leap pad, they really don't play any others!
+"My 5 year old LOVES Phineas and Ferb, and I love that the cartoon teaches kids to think outside the box, to be creative, and to explore their world, so when I got to play this game with my son, I was glad to see they kept a lot of the fun-ness about Phineas and Ferb and integrated math, science, engineering and technology into the ""game"", thus making it a learning game.I actually really had fun talking with my son about what a circuit was and how the basics of electricity work.
+I will say that for a 5 year old who is not great at math, he can cheat the game by guessing at the answers until he gets the correct one, so we are working on that now... ;)I also like the blueprint games as they help teach the completion of a pattern or picture.
+And in Angent P's Plattyball kids get to experiment with weights and physics.
+By placing the weights in different places they can open up the screen.I will also note that our 2 1/2 year old loves the game as well, although he has almost no clue what he is doing.Suggested Ages: 5-8, my 5 year old loves the game, but does not fully understand all aspects of the learning points (math), and my 2 year old enjoys playing even though he has no real idea what he is doing."

@@ -1,0 +1,93 @@
+Top question(s):
+I was wondering if this kit is only K'Nex classic pieces or if it also includes K'Nex mini pieces.  Thank you.
+does this set have 4 wheels?
+Top sentence(s):
+K'nex have been around for as long as I can remember but I have never owned a bucket like this before, there is so much versatility to these little buggers.
+I didn't think my two boys, ages 10 and 13, would enjoy this simple, basic building set, but I was so very wrong!
+My son - currently about 9 - will grow up one day and become an engineer and pay for me to retire early.
+We got this for our boys who are 7 and almost 9.
+It comes with several things to make, but the projects seem almost endless if the mind desires it.
+
+Question attention weights:
+0.26794639229774475,0.11867618560791016,0.18610475957393646,0.12039237469434738,0.17962634563446045,0.1272539496421814
+Sentence attention weights:
+0.010111981071531773,0.009454539977014065,0.01457709539681673,0.015974825248122215,0.0188680961728096,0.014450162649154663,0.013994068838655949,0.021930083632469177,0.013347158208489418,0.02097257599234581,0.014461391605436802,0.018301667645573616,0.013012631796300411,0.015980251133441925,0.01593071036040783,0.016614820808172226,0.013992957770824432,0.011322141624987125,0.014034904539585114,0.011993004009127617,0.014599110931158066,0.012386811897158623,0.015395956113934517,0.017067791894078255,0.013156169094145298,0.015800246968865395,0.016022080555558205,0.012461433187127113,0.015036625787615776,0.01544193271547556,0.010272122919559479,0.015677915886044502,0.015740420669317245,0.017535632476210594,0.0161038339138031,0.015861624851822853,0.015145214274525642,0.012412521056830883,0.015961550176143646,0.016484281048178673,0.021667227149009705,0.01177014596760273,0.015904758125543594,0.015343775972723961,0.017396805807948112,0.009026535786688328,0.019148478284478188,0.015759969130158424,0.015904758125543594,0.02206820622086525,0.013441283255815506,0.01317712850868702,0.01728936843574047,0.01698111556470394,0.011346331797540188,0.0130169577896595,0.01489828061312437,0.015206020325422287,0.012033195234835148,0.021999424323439598,0.014784771017730236,0.009846854023635387,0.01828058809041977,0.013595838099718094,0.015179897658526897,0.017043927684426308
+0.01067729014903307,0.010803709737956524,0.0156482495367527,0.016697857528924942,0.021120717748999596,0.012948083691298962,0.015382771380245686,0.020830020308494568,0.01585501991212368,0.021729784086346626,0.013206376694142818,0.017411908134818077,0.014698135666549206,0.01485568005591631,0.014849405735731125,0.015527755953371525,0.013792505487799644,0.009287957102060318,0.013471285812556744,0.013383504934608936,0.019279126077890396,0.012116845697164536,0.01524230558425188,0.018833838403224945,0.01473887450993061,0.014800727367401123,0.015106172300875187,0.013579180464148521,0.013836848549544811,0.015097115188837051,0.01055828109383583,0.014436314813792706,0.014475289732217789,0.016224289312958717,0.01571156457066536,0.01534934900701046,0.013841562904417515,0.01473245769739151,0.014790407381951809,0.014726062305271626,0.023069079965353012,0.013440157286822796,0.014819128438830376,0.016776476055383682,0.01703072339296341,0.008451050147414207,0.019534718245267868,0.014677037484943867,0.014819128438830376,0.023304319009184837,0.015134112909436226,0.012027185410261154,0.019920293241739273,0.017323412001132965,0.013282776810228825,0.014358025044202805,0.013957698829472065,0.013661078177392483,0.011202543042600155,0.01954471319913864,0.013455991633236408,0.00965710449963808,0.01681334897875786,0.014157967641949654,0.013893386349081993,0.016033895313739777
+0.010026484727859497,0.010761570185422897,0.016046946868300438,0.016302552074193954,0.02098313346505165,0.011633772403001785,0.015515631064772606,0.01948390156030655,0.015687111765146255,0.0221245177090168,0.01307482086122036,0.017410898581147194,0.014494807459414005,0.015010535717010498,0.015010595321655273,0.01521331537514925,0.013836989179253578,0.009213333018124104,0.01280017290264368,0.014036647044122219,0.02018277533352375,0.01233292743563652,0.015463349409401417,0.018975280225276947,0.014270064420998096,0.014647641219198704,0.01541237160563469,0.013154500164091587,0.014065708965063095,0.015772925689816475,0.01107967458665371,0.014572006650269032,0.014724567532539368,0.01627977564930916,0.01494902279227972,0.015703829005360603,0.014076577499508858,0.015035088174045086,0.014855149202048779,0.014744258485734463,0.022598126903176308,0.01346507016569376,0.014956272207200527,0.016244884580373764,0.01703093945980072,0.008038599975407124,0.019016845151782036,0.014830850064754486,0.014956272207200527,0.023022687062621117,0.015004899352788925,0.012131256982684135,0.020703431218862534,0.017424942925572395,0.013578507117927074,0.014679443091154099,0.013721823692321777,0.013055347837507725,0.01155612152069807,0.019749866798520088,0.013696503825485706,0.00974582601338625,0.01672941818833351,0.0148693872615695,0.014107092283666134,0.01612039841711521
+0.010451296344399452,0.010930782184004784,0.015799609944224358,0.016522105783224106,0.021639661863446236,0.012542765587568283,0.015451982617378235,0.020218754187226295,0.016026392579078674,0.021759668365120888,0.01316411979496479,0.017297416925430298,0.01464389730244875,0.014825575985014439,0.014827189967036247,0.015226867981255054,0.013855609111487865,0.009077617898583412,0.01331627368927002,0.013682294636964798,0.019747396931052208,0.012192431837320328,0.015356631949543953,0.018902776762843132,0.01476192381232977,0.014696055091917515,0.015178382396697998,0.013565643690526485,0.013858114369213581,0.015201673842966557,0.010876220650970936,0.014402493834495544,0.014428040012717247,0.016093570739030838,0.015557888895273209,0.015347511507570744,0.013851173222064972,0.014936895109713078,0.014712166972458363,0.01462416909635067,0.023006964474916458,0.013706200756132603,0.014784850180149078,0.016656847670674324,0.016992932185530663,0.00839923694729805,0.019189709797501564,0.014648538082838058,0.014784850180149078,0.022927578538656235,0.015341087244451046,0.012056016363203526,0.02022705413401127,0.017465148121118546,0.013686406426131725,0.014477833174169064,0.013963880948722363,0.013272845186293125,0.011367293074727058,0.019296376034617424,0.013456175103783607,0.00983152911067009,0.01651613786816597,0.014538195915520191,0.013896822929382324,0.015958493575453758
+0.009856115095317364,0.010855326429009438,0.015931235626339912,0.016222601756453514,0.02065606229007244,0.012358658947050571,0.015316021628677845,0.019129997119307518,0.015319320373237133,0.02161647193133831,0.013421842828392982,0.017300240695476532,0.014270738698542118,0.015109795145690441,0.015100980177521706,0.015430097468197346,0.013834260404109955,0.009602074511349201,0.013389847241342068,0.013760187663137913,0.01926480233669281,0.012300937436521053,0.01557127945125103,0.018678229302167892,0.014044474810361862,0.014878439716994762,0.015415196307003498,0.013354015536606312,0.014213073067367077,0.01589653640985489,0.01120136771351099,0.014747128821909428,0.014910237863659859,0.016398852691054344,0.015363424085080624,0.01577289029955864,0.01421133428812027,0.014784499071538448,0.014949927106499672,0.014911545440554619,0.021941058337688446,0.013390874490141869,0.015051278285682201,0.016071844846010208,0.016991665586829185,0.008228636346757412,0.018903126940131187,0.0149269700050354,0.015051278285682201,0.02304469794034958,0.014714691787958145,0.012390145100653172,0.020207609981298447,0.017523085698485374,0.013169372454285622,0.014527743682265282,0.014047698117792606,0.013197218999266624,0.011800889857113361,0.0198928564786911,0.01387517899274826,0.00984121672809124,0.016943756490945816,0.014526152983307838,0.014238836243748665,0.016152014955878258
+0.010294530540704727,0.01056002639234066,0.015616970136761665,0.016792338341474533,0.02175866812467575,0.012533561326563358,0.015388510189950466,0.021124839782714844,0.015604929067194462,0.02215508371591568,0.013125259429216385,0.017472244799137115,0.014562306925654411,0.01483862940222025,0.014834241941571236,0.015478184446692467,0.013759604655206203,0.008996700868010521,0.013487119227647781,0.013301197439432144,0.019388092681765556,0.01197869423776865,0.015247681178152561,0.01887114718556404,0.014667877927422523,0.014750614762306213,0.015151659026741982,0.013519907370209694,0.013789251446723938,0.01514847856014967,0.01044497825205326,0.014408385381102562,0.014474465511739254,0.016276465728878975,0.015731051564216614,0.015337391756474972,0.01378870103508234,0.014732247218489647,0.014763683080673218,0.014696859754621983,0.02350582182407379,0.013392928056418896,0.014815665781497955,0.016771407797932625,0.01718844845890999,0.008167190477252007,0.019628794863820076,0.014669220894575119,0.014815665781497955,0.023556509986519814,0.015168527141213417,0.011911052279174328,0.020277032628655434,0.017495427280664444,0.013155157677829266,0.014313004910945892,0.013911315239965916,0.013605775311589241,0.011129552498459816,0.01982901431620121,0.013399607501924038,0.009482664987444878,0.01680789515376091,0.014211428351700306,0.013845495879650116,0.016092779114842415
+Questions:
+I was wondering if this kit is only K'Nex classic pieces or if it also includes K'Nex mini pieces.  Thank you.
+are they micro knex?
+does this set have 4 wheels?
+does this set have motors?
+Does this kit really have 375 pieces
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+If you are looking for a great toy for boys and girls alike, consider the K'nex 375 Piece Deluxe Building Set.The set comes with 375 pieces that can be assembled into 30 different models, like cars, boats, planes, ferris wheels, motorcycles, and several more fun things to make.
+The instructions that come with the tub shows you how to build up to 30 different models.The tub offers an easy, convenient, and sturdy container to easily store the 375 pieces after each play session.
+There also is plenty of unused room in the tub so you can buy and store extra pieces.The set is recommended for ages 7 and older but I think would work fine for 5- and 6-year-old children.
+Younger than 5 would not be good because of the danger of swallowing the small parts.This K'nex building set will provide hours of fun play with an educational experience as well as the chance to exercise use of fine motor skills.
+This is my first experience with K'Nex as I've always been more in the Lego camp.
+Aside from the brand recognition that Lego enjoys, K'Nex are on par with them when it comes to quality, durability and ability to build fun things.
+My kids are below the recommended age for this so they're a little frustrating for them but I can keep my inner child happy building with these all day long.
+My son - currently about 9 - will grow up one day and become an engineer and pay for me to retire early.
+Or, at least that is what I tell myself when I see him constantly building with his lego and k'nex toys.K'nex is highly educational - believe it not.
+It comes with several things to make, but the projects seem almost endless if the mind desires it.
+The 375 piece set is a great introduction - and you can't beat the price - because it includes so many different pieces.
+Warning, some are small, so pay attention to the ages on the box.
+Otherwise, this is not just the spikey wheel and plastic sticks I previously associated with K'NEX, but now includes all sorts of things.Yes, Legos are fun and all, but K'Nex is pretty darn awesome on a whole 'nother level.
+How?
+Glad you asked.
+Because it creates a sense of building something, with gadgets and working parts rather than the usual brick system.A great gift for any occasion.
+Overall, I think this is a great building set.
+It has a good sampling of parts, and like most building sets, builders are only limited by their imagination and the number of blocks as to what they can construct.
+Perfect for those times when the children need to be inside and you want them to do ANYTHING other than play more video games.I like that the set comes with building ideas, and that they aren't all car/truck related.
+My six-year-old daughter took to the turtle design right away and was able to complete it with little assistance.
+Both she and her older (eight-year-old) brother enjoyed playing with the set and surprised us with their creativity.That said, I think for more than one child to build simultaneously, you would be better served to buy a bigger set than this one.
+Each design in the included build instructions makes use of a fair amount of the larger pieces (particularly, the green pieces) so it is unlikely that two children working at the same time could both build from the instructions.Still, this is a really fun set.
+I recommend it.
+This was the first time that I've ever played with K'NEX because they weren't around when I was a kid so it was interesting to give them a try.
+So I rounded up my test kidlets (ages 5 and 8) and we set out to build.The plastic box the pieces come in is large and sturdy, so if you buy more K'NEX sets, they can easily be stored within that box.
+The instructions are a large, full-color foldout, which actually ripped a little too easily.
+My only quibble really is with the instructions.
+It gives step-by-step instructions for smaller, simpler creations, but the larger, involved creations - like the one pictured on this product page - are just single images that you have to figure out yourself.
+And of course, those are the creations the kidlets wanted to build.But other than that, the set was great.
+The pieces were easy to snap together and both kids were able to build whatever their imaginations desired (as did I).
+It kept them entertained and involved, and using their brains - always good.The K'NEX system is a nice building system for kids to have.
+I recommend it.
+First off, let me say I got this for my four year old.
+He is, admittedly, under the age recommendations for the toy.
+However, I planned on this being a joint toy--mainly me building something for him to play with.For those purposes, it was a good set.
+There are plenty of pieces to build a variety of cars/planes/etc that he played with for an afternoon.
+If you put a little bit of time into assembling something, it will actually stay together even after some serious playing/throwing.
+I was really impressed.As for durability, this set has a zillion tiny tiny pieces.
+Each piece is durable but, as a set, it is easy to lose them.
+If you have more careful kids who put everything away after they play, consider this a 5.
+We got this for our boys who are 7 and almost 9.
+They really like legos, Lincoln Logs, and just about any building toys.
+These were a bit different than those sets, and they seemed more intent to make different things with them.
+I liked that the K'nex seemed to provoke different ideas and thoughts about what to make instead of just cars and space cruisers.
+I will say that it seems we need another set...  Maybe my kids just have big imaginations, but they get frustrated a lot when they don't have *just the piece* they need to complete their masterpieces.
+I think that's probably a common factor for building toys, though, so I don't fault this set or K'nex in general for that.
+There are some pieces that seem particularly flimsy, and that's the only thing that keeps this from being a 5-star product.
+There were a few pieces that were designed to put other pieces together that didn't seem to hold up well after a few additions and subtractions.
+Other than that, it's a set we're really enjoying!
+K'nex have been around for as long as I can remember but I have never owned a bucket like this before, there is so much versatility to these little buggers.
+When you get this kit it comes with 375 pieces, some rope, and a booklet that shows you how to make different things with the included pieces.
+My husband and I sat down and built a car according to the instructions and then managed to use the remaining pieces to build another car of our own design.
+These can easily be used for lessons for teachers or homeschool families, build different types of bridges, buildings and explore things like levers and other simple tools.
+I love the many applications of this super fun toy.
+"My pre-teen daughter enjoys the K'Nex products, but said the manual for this set needs to be improved.
+It's a big fold-out sheet which makes it unwieldy to use.
+It has only one picture of the item fully made, instead of smaller, step-by-step pictures of how it goes together.
+She said the KRE-O and Lego manuals are much better.
+She said that the K'NEX individual sets (not the ""multi"" building sets like this one) are better, because the manuals focus on the specific set and is more step-by-step and detailed."
+I didn't think my two boys, ages 10 and 13, would enjoy this simple, basic building set, but I was so very wrong!
+They love creating things with this set, with or without the instructions/recommendations on what to build.
+They've each spent hours building multiple things, and then building something else.
+Looks very durable, good assortment of pieces and wheels.
+I thought my boys were beyond building sets but I was wrong.
+They both love this set.
+I might have to add to it.

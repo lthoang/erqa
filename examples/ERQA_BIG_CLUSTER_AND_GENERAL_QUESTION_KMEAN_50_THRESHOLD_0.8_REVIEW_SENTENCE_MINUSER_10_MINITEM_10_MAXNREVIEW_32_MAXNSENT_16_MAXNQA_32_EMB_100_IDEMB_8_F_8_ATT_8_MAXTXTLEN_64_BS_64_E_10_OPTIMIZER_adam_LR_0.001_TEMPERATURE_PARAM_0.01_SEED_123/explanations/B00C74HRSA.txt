@@ -1,0 +1,197 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+It has become a ritual to have a tea party and then put the dolls to sleep before she will go to bed.
+Barbie's Mariposa Castle is a cute play set.
+I hope my niece has the kind of memories I do of playing with Barbies.
+It's typical of most of the castles we've had, kind of flimsy, comes with lots of teeny tiny pieces and doesn't always stay together very well.
+Would make a fantastic gift on a birthday or Christmas that would undoubtedly bring a huge smile to the little princess you give it to!
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.005919669754803181,0.00531624723225832,0.0059062219224870205,0.00506614102050662,0.0057393331080675125,0.004959949292242527,0.005760206375271082,0.004554464016109705,0.003847307525575161,0.005136027466505766,0.004123092629015446,0.005151322577148676,0.00449787825345993,0.004171086009591818,0.0053461953066289425,0.006262218113988638,0.0031224845442920923,0.007467503193765879,0.005151539575308561,0.004067972768098116,0.005151539575308561,0.007304407190531492,0.006219497881829739,0.00516687985509634,0.006132869049906731,0.002848524833098054,0.00433634128421545,0.006452587433159351,0.006768728606402874,0.005247227381914854,0.004823721945285797,0.006027772556990385,0.00612723408266902,0.005136529915034771,0.004751208238303661,0.005912812892347574,0.004204132128506899,0.005136529915034771,0.005136310122907162,0.005816151387989521,0.006999251898378134,0.00610056659206748,0.004436113405972719,0.005175765138119459,0.013647611252963543,0.005224395077675581,0.005992840975522995,0.004752481356263161,0.0038134201895445585,0.005530756898224354,0.004031177144497633,0.004085842054337263,0.003477007383480668,0.007313864771276712,0.004267698619514704,0.007467341143637896,0.004846788477152586,0.005383643321692944,0.003728935495018959,0.005415319465100765,0.004598106257617474,0.004763706587255001,0.00446981331333518,0.005314399488270283,0.0054886434227228165,0.004068686161190271,0.0053164167329669,0.004872120451182127,0.005257089156657457,0.00629986310377717,0.005209160503000021,0.0044650910422205925,0.005472968798130751,0.006988778710365295,0.007570724003016949,0.0054004983976483345,0.005633275955915451,0.006292304489761591,0.006326422560960054,0.005269907880574465,0.007473996840417385,0.0044403537176549435,0.0047055636532604694,0.006578043568879366,0.006305190268903971,0.004791037645190954,0.004282900132238865,0.0055262623354792595,0.0054376982152462006,0.005408063530921936,0.006859111599624157,0.006448815111070871,0.008569248020648956,0.00569563964381814,0.011681320145726204,0.008808784186840057,0.006903347559273243,0.008437435142695904,0.005495288409292698,0.006111460737884045,0.003853216301649809,0.004350566770881414,0.004265588242560625,0.005283782724291086,0.00557410204783082,0.005630184896290302,0.005136461928486824,0.005296365823596716,0.005319557152688503,0.005325871054083109,0.006050771102309227,0.004863175097852945,0.007809331640601158,0.005416851490736008,0.0052782343700528145,0.00574462627992034,0.005170491058379412,0.005385246127843857,0.008085621520876884,0.0057016233913600445,0.006067646201699972,0.005519747268408537,0.004289253149181604,0.004973636474460363,0.005265092942863703,0.005270356312394142,0.005398859269917011,0.005781838204711676,0.005953300278633833,0.0059435549192130566,0.005931103602051735,0.0025843081530183554,0.005532299634069204,0.005921287927776575,0.005273417569696903,0.0051973438821733,0.005148974247276783,0.0033758440986275673,0.0062041678465902805,0.003010866930708289,0.007358361966907978,0.005430116318166256,0.004609057679772377,0.0053654382936656475,0.004925692453980446,0.0049161287024617195,0.006165283732116222,0.0025364055763930082,0.00606417004019022,0.0053950040601193905,0.004708138294517994,0.007040602155029774,0.0046957070007920265,0.005229180213063955,0.005240510683506727,0.006344979163259268,0.005304060876369476,0.006275739520788193,0.006498349830508232,0.0045743780210614204,0.005219519138336182,0.004703379701822996,0.005253786686807871,0.005152019672095776,0.008054208941757679,0.005164305213838816,0.005099969916045666,0.0050504994578659534,0.005901838652789593,0.005182744935154915,0.005069542210549116,0.005130492150783539,0.004891488701105118,0.005827637389302254,0.005760206840932369,0.004886943381279707,0.005124256946146488,0.005396094173192978,0.005378845147788525,0.006285598035901785,0.00960854347795248
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+I have two little girls who love fairies, castles, and dolls, so this toy seemed like a definite have for them.
+And they do like it!
+They've played with it often since we got it.
+The two little fairy dolls pleased them immensely.In terms of build, this is basically plastic.
+It seems fairly sturdy, in that nothing's snapped or bent yet.
+Some parts are more flexible plastic -- like the doors -- so that when they come off -- and they will!
+-- snapping them back in place doesn't risk breaking a tab.
+There are LOTS of little pieces to contend with, however, including these annoying blue legs on one of the beds that keep coming off.
+It took my daughters about a half hour to lose one, meaning we had to take off the other three to get the bed to stand right.Really, it's a Barbie fairy castle.
+It's exactly what you'd expect.
+My almost 3-year-old daughter has been having fun with this castle.
+It's good for pretend play.
+She loves to put the Barbies to sleep before she goes to bed at night and she brings other small dolls into the castle to play as well.
+If you are looking for a smaller and less expensive dollhouse, this might be an okay choice.My three-star overall review has to do with two things.
+First, the construction of the whole toy is pretty flimsy.
+It snaps together fine and was reasonably easy to put together, but all of the pieces are very thin and seem like they could break very easily.
+For instance, normal play causes the chair legs to come off on a regular basis.
+The pieces that are like stands for the fairies to attach to and rotate around don't even snap in, so they come out constantly.More importantly though, some of the pieces are extremely small - we're talking microscopic.
+We decided just to not even put out some of the smaller stuff like the little cups and hairbrush.
+It would be a problem for a kid to swallow those (and they definitely could), but even if you're not worried about swallowing or choking hazards, the sheer hassle of having teeny tiny pieces that will inevitably get lost, embedded in the carpet, etc.
+makes this really unappealing.
+This beautiful castle includes in two dolls.
+The dolls I would say are about 4 inches so they are not full sized Barbie dolls.
+However, I think they are a great value and the size does not take away from their cuteness.
+The castle itself is pretty big and open so not too practical if you are gifting this to a child who shares a room or has a small room.
+My daughter is a big fan of Polly Pockets and the smaller Barbie dolls, so she loved this castle playset.
+She put it together herself with a little help from me, and grabbed her dolls so they could join in the fun with the two included Mariposa dolls.
+It has some nice features like the flying rig on the top and the dance floor, both which rotate.
+I like toys like this that set the scene but allow kids to use their imaginations to make up the stories they want within that scene.
+Lot's of creative play time.
+All in all this is a nice set and very reasonably priced.
+Would make a great gift.
+Wow!
+As an adult, the toy was easy to put together.
+The stickers were also already applied.
+My daughter, five, had her attention fixed for a few days and it will be that way for a while.
+The dolls can dance and fly as part of the action.
+Fun, fun, and fun!
+She even got me to play with her!
+A few comments about this product regarding its pros and cons:Pros1) The assembly required is pretty simple.
+Many of the larger pieces are already affixed, so it's not a time-consuming project.2) The size and weight make it easily portable.3) The lack of bells and whistles encourage imaginative play.Cons1) Small pieces are easy to lose, and could be dangerous for those who like to put them in their mouth.2) The dolls are of rather low quality, although that doesn't seem to discourage play.3) It's not the sturdiest of construction, so I have song concerns about long-term durability.Even with those cons, I'd still recommend this product.
+It's priced very fairly, especially when compared with some other Barbie-related items, and most importantly I think most kids will enjoy playing with it.
+We tend to evaluate these products too often from a parental perspective, but the kids' view should also get some credence.
+My 5 year old daughter loves this doll house.
+It has become a ritual to have a tea party and then put the dolls to sleep before she will go to bed.
+Fun for her but sometimes not so fun for tired parents...lol.
+It took only about 15 minutes to put together and is small enough that we can sit it on a book shelf.
+Good toy for the price.
+If your children like Mariposa and fairy princesses they will like this castle play set.
+It comes with two small fairy dolls and some furniture.
+It is probably best for the older child since there are a lot of little pieces that need to be &#34;managed.&#34; My granddaughters are five and seven and they gave it two thumbs up.
+They enjoyed the dolls especially and were making clothes out of construction paper and glitter for them to match the majesty of the castle.
+The castle isn't very substantial, but does provide the kids with a lot to do with the little fairy princess Barbies.
+As a general rule I am not fond of toys that do all of the playing for a child.
+Some might classify Barbie as one of those toys, but as I have listened to my children play with Barbies over the years I have to strongly disagree.
+My children create elaborate, imaginative scenarios with Barbie, her friends, her cars, her horses and some assorted, random furniture and I encourage that.
+The product description for this toy touts that children can re-create scenes from the latest Barbie Mariposa DVD.
+Instead, my children create their own stories and become quite involved with them.This set does not work with full-sized Barbies.
+Instead, it includes two small Barbies that are roughly the size of Polly Pockets, which is great for my daughters since they have a lot of Polly Pockets.
+There are a lot of small pieces, which is also typical of Polly Pockets.
+This would be a great toy to use as a starter kit for Polly Pockets if your daughter is interested in collecting them.It is an easy-to-assemble but not a particularly sturdy-feeling set, although sturdy is a relative thing, depending on the child.
+"The whole set popped together in less than five minutes, super quick and easy to set up!
+Very cute and includes two fairy Barbie doll miniatures that can ""fly"" by attaching to the top and spinning, or ""dance"" by attaching to stands on the bottom and spinning, both which are very easy for my seven year old to maneuver and pop on and off without them coming unattached during play.
+Also included were two beds for the dolls, a dining table and two chairs for the to sit upon, and little cups and plates and food, all which attach to the table, and a chandelier which hangs from a loop above, attached to the castle playset.
+Very cute, easy to move around, some littler pieces but again, they attach to the table, which I thought was a great and innovative idea.
+Ella just loves the little fairies and has been playing with this two days straight since it arrived.
+The dolls even have real, flowing clothes and decorated wings, don't look cheap at all.
+Highly recommended.
+Very nice set!"
+My 4 year old loves to play with this toy.
+Along with the 2 Barbie dolls it comes with, she also likes to use other small dolls in the house too.
+It was not too difficult to assemble, although the instructions were not totally clear.
+There are several tiny parts/accessories that are meant to sit on the tables.
+I ended up super gluing them to the table because our 1 year old likes to play with big sisters toys, and the little pieces are a choking hazard.
+(And since they are so small they could easily get lost too.)
+While the toy is fun, it is not totally sturdy.
+It seems to be cheaply made.
+The legs of the bed often fall off during play, and the stands that hold the dolls to spin them around fall out during play too.
+Overall, it's a fun toy that my daughter enjoys playing with.
+Looking for that gift for the little princess of your life.
+At least with my princess, I find I can rarely go wrong with Barbie and Fairy Princesses - particularly when based on Barbie DVD, as this one is.Here are the ups:- All in all, this delivers true to Barbie princess form: Pinks, purple, interactivity and imagination all come into play.- My 7 year-old princess loves to play with it with her friends.Here's the minor considerations:- I wouldn't give this to a child younger than 5 due to the nature of the pieces.- I also gave her the DVD it is based upon - which I think made her want to play with it more and to unleash her imagination around it.- The quality of Barbie doll houses isn't as good as the dolls themselves.
+Fairly flimsy - you are paying more for the overall way Barbie attracts and delivers what little princesses like.BOTTOM LINE: Particularly when combined with the DVD - a great gift (albeit without the quality of some doll houses) for your barbie fairy princess fan.
+This castle is so fairytale pretty.
+Beautiful colors, cute decor, all so girly.
+The dolls are beautiful too with pretty outfits and butterfly wings.
+I love the cute accessories too.
+My only complaints are that the set feels just a tad flimsy (not enough so that I think it would break real easily - hopefully!
+), and I wish the set was just a little bigger.
+Calling it a castle is kind of a stretch.
+:) I mean for what it is, it's a beautiful playset and I definitely recommend it for little girls as I know they would love it.
+But just don't expect a real castle here, it's more like just a portion of one.
+It has a very reasonable price though especially since it includes 2 adorable dolls!
+Would make a fantastic gift on a birthday or Christmas that would undoubtedly bring a huge smile to the little princess you give it to!
+:)
+Barbie's Mariposa Castle is a cute play set.
+It's typical of most of the castles we've had, kind of flimsy, comes with lots of teeny tiny pieces and doesn't always stay together very well.
+My niece loves it though.
+She doesn't mind when a piece falls over, she likes the fairies that fly around on the top.
+I will say this set is a little better than some and not quite as expensive.
+I paid quite a bit more for a similiar castle that fell apart in about 10 minutes.
+All in all for the price this is a better castle than most and the fairies that fly around the top are really cute.
+Barbie Mariposa and The Fairy Princess Castle Playset.
+The box was easy to open, the instructions almost need a magnifing glass to see them.
+Several parts were already put together which was very nice , only 15 minutes to set it up.
+I think the parts are to small for a three year old to play with and it is not sturdy enough for a three year old.
+My older grand daughter and son loved it, age 7 & 5 It is great for the imagination, the boys would like one made for their super heroes!
+First, this is much smaller than I realized.
+The mariposa dolls are tiny - not Barbie sized.
+Still, I like the dolls a lot.
+They are pretty well-made and very pretty.
+You can't change their clothes, though, which is a negative.
+All they have is a skirt, and the rest is part of the doll's body.
+Really cute wings, though.The house is another story.
+It's much smaller than I imagined, even given the small size of the dolls.
+It has some furniture, like a bed and small chairs, but they are made out of a very thin plastic.
+Not even as sturdy as the real Barbie furniture.
+The little place where you can stand the dolls and twirl them around isn't that great - you have to set the dolls on these fairly obvious plastic stands, and spinning them around with the plastic knob really isn't very entertaining.On the other hand, the spinning thing at the top of the house, which makes it look they are flying, was more popular with the kids.On the plus side, the house is not hard to put together.
+A 7 year old can do most of it with just a little help.I'm not sure I'd recommend the house given that it's a bit expensive for such cheap plastic, but I would definitely recommend the dolls themselves.
+I think they are best for girls about 6 or 7 years old, and maybe a bit too young for the older crowd that is more into the real Barbies.
+My daughter got this for her 6th birthday.
+It's her first doll house and she's been enjoying it a lot.
+Her 9 year old brother put it together for her... took him about 10 minutes.
+It comes with two dolls, that can fly on top of one of the towers as well.
+It comes with beds, a table and chair, and other small accessories.
+Of course, everything is plastic.
+It's small enough that my daughter can cart it around.. but the negative of the small size is that pieces can be lost.
+All in all, though, a fun first doll house.
+"I'm not really a fan of fairy princesses, fairies, and the like.
+In a ""moment of weakness"" I bought this for my daughter (at her request), thinking that it would be a good example for her to learn that toys are often not as fun or cool in real life as they appear to be in advertising.
+Boy, was I wrong.
+(Probably not the last time, either, but worth mentioning in case she comes across this review when she's a teenager)My wife and I try to encourage imaginative play.
+For five days in a row, she has played with the Mariposa on her own for anywhere between 15 and 45 minutes, then grabbed one (or both) by the hand to explain the new world and series of imaginative challenges she's created.
+Then, after anywhere from 5 to 25 minutes, we are dismissed so that she can ""do it by herself.""
+We watch from the corner's of our eyes and see her completely engaged with this set.My guess is that this set has just right the balance of guidance without being constrictive to her imagination.She loves playing with it.
+We are happy with the type of play we're seeing."
+Hark!
+The latest and greatest Barbie movie is upon us, this time: Mariposa and the Fairy Princess.
+Here they give us a simple 4 room castle, 2 characters, Mariposa and Catania, and a couple of neat gadgets to allow them to dance and fly.It features a bare bone structure, but cute and colorful, leaving the rest up to the imagination.
+The figures are the smaller versions of Barbie(a little bigger but skinnier than Polly Pockets) and their arms, legs and waists move but not their heads.
+They attach to the flying apparatus above the castle steeple and rotate with the dancing circles on the first floor.They provide a couple beds, lamp, comb, bottle, table and 2 chairs with tea cups/candles/pot/dessert that push into the holes on the tables.
+And don't forget the tiny little kitty.The girls have cute outfits and wings; there are simple touchs, e.g., chandelier, mirror, basic doors, flower decals already placed.
+Our girls, ages 6 & 9, asked for help on the set-up, but it's pretty simple(10 minutes).
+It's listed, of course, for ages 3+.Overall, simple but with a lot of imagination- our girls give it a strong thumbs up.
+Barbie never ceases to amaze.
+This is a very cute toy but it is also very fragile.
+It falls apart easily and for a 3 year old can be very devastating.
+The first time it broke her heart because a piece kept falling off as she was playing with it so we had to fix it to keep her happy :) She still loves it tho :)
+"The Barbie Mariposa and The Fairy Princess Castle Playset is easy to assemble.
+In fact it may have taken about 10 or so minutes to put together the pieces.
+No tools required to put this together.
+The pieces were easy to remove from the box and did not require that I have scissors.
+There are a few small pieces so I would think this item would be for a child 4+.
+There are 2 dolls included with the playset.
+The playset gives the kids the ability to move the dolls as if they were dancing or flying.
+My daughter did have some trouble getting the dolls to sit at the table because the legs of the dolls are not able to bend.
+This toy does not require batteries so kids can play and play without worrying about that.
+It is small enough in size that is does not take up much room.
+My daughter is 8 years old and she said this item is ""Awesome"".
+I would recommend this playset to parents of children 4+."
+This isn't the most durable toy, but it still was a hit with my daughter, who loves Barbies and doll houses.
+It was a little tricky to put together because the instructions weren't very clear, but it comes with lots of accessories plus two mini dolls (Barbie and a fairy, both with wings) which is better for having fun with a playset than getting just one doll or worse, none at all.
+The mini size has a nice compact footprint for small bedrooms.
+My daughter is much too young for this toy, sort of.
+She is pretty good about keeping things out of her mouth but I do understand why it is rated for older kids.
+A lot of tiny pieces that you need to keep an eye on.When playing with her, she loves the two little dolls that she can play with and overall she seems to really get into playing with this castle.Side bonus: my one cat thinks the girl flying on top is amazingly entertaining as well.
+I remember when I got my first Barbie doll house.
+I am going to age myself but it was the first one they ever made.
+It was made of cardboard and all the furniture was folded cardboard.
+I loved it and thought it was magical.
+In fact, I still have it.
+It's worn but still magical.
+I hope my 5 year old niece gets as much fun out of this one as I did from mine.
+Now made from plastic, it is still spare so it gives a child room for imagination.This was simple to put together.
+The Barbie dolls are small but they have wings.
+They can spin around the tower.
+There are cute accessories.
+The most important thing is that is simply fun to play with.
+So many games don't let a child use their imagination but this one does.
+Barbie has created magic since the 1950's and continues to do so.
+They have evolved with the times but never lost their way.
+I hope my niece has the kind of memories I do of playing with Barbies.

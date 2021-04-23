@@ -1,0 +1,72 @@
+Top question(s):
+The app works with iPhone 6 but the cradle is to small. Does anyone know if a cradle for the iPhone 6 exists?
+Does it work with two player battle system that comes with 2 phoenix LTX taggers?
+Top sentence(s):
+It will be money WELL SPENT!I hope this helped you!"
+Assembly is easy and not very complicated at all.
+The best part of this toy is that you can play with friends or without!
+It's amazing what toys are available for kids now.
+Just get a pair and start enjoying them or watching your children enjoy them.
+
+Question attention weights:
+0.12606412172317505,0.18554505705833435,0.19198931753635406,0.10606510937213898,0.12056653201580048,0.06915315240621567,0.1202135905623436,0.08040313422679901
+Sentence attention weights:
+0.01292411144822836,0.01943609118461609,0.010815435089170933,0.011699236929416656,0.026648933067917824,0.025438647717237473,0.017463885247707367,0.017474545165896416,0.020339151844382286,0.03654606267809868,0.03272026404738426,0.017802774906158447,0.03627091646194458,0.022678328678011894,0.030759258195757866,0.027819272130727768,0.03254329785704613,0.029519097879529,0.010689998045563698,0.02068169414997101,0.013739576563239098,0.031236283481121063,0.021494168788194656,0.023630233481526375,0.031162841245532036,0.03227292373776436,0.031352702528238297,0.03584737703204155,0.01519746333360672,0.019440125674009323,0.013613689690828323,0.03375751152634621,0.010111376643180847,0.03089006245136261,0.024032313376665115,0.023379279300570488,0.02636552043259144,0.033784881234169006,0.015236860141158104,0.033686380833387375,0.03949744626879692
+0.011254205368459225,0.020133771002292633,0.009290441870689392,0.01333367358893156,0.02515658549964428,0.02718978188931942,0.0171648021787405,0.01768874004483223,0.018362434580922127,0.0365029014647007,0.032634392380714417,0.019292855635285378,0.03749050945043564,0.0239834226667881,0.030883530154824257,0.028983894735574722,0.032729312777519226,0.029467862099409103,0.011578292585909367,0.021081900224089622,0.012612472288310528,0.029602324590086937,0.02054639719426632,0.024594027549028397,0.03135872632265091,0.03260618820786476,0.03140461817383766,0.03594297543168068,0.01389546599239111,0.020944975316524506,0.013466870412230492,0.03363833576440811,0.010454448871314526,0.028841407969594002,0.023970553651452065,0.023523012176156044,0.026532625779509544,0.033026598393917084,0.014867153018712997,0.033677246421575546,0.040290288627147675
+0.011022042483091354,0.020675696432590485,0.008817223832011223,0.013945543207228184,0.02496521547436714,0.02757244184613228,0.017054760828614235,0.017665622755885124,0.017328163608908653,0.03625825047492981,0.03236677870154381,0.019507568329572678,0.038130417466163635,0.02458837814629078,0.031000230461359024,0.029415272176265717,0.03267983719706535,0.02935241162776947,0.012281101197004318,0.02090398781001568,0.012561392970383167,0.028772525489330292,0.02007608488202095,0.02566010318696499,0.03147051855921745,0.03253890946507454,0.03142768517136574,0.036185916513204575,0.013368244282901287,0.021583113819360733,0.01348752062767744,0.03339429944753647,0.010933252051472664,0.028001001104712486,0.023999961093068123,0.023497039452195168,0.02645632065832615,0.03267049044370651,0.014658290892839432,0.033461105078458786,0.04026531055569649
+0.013376937247812748,0.01969890668988228,0.011331159621477127,0.011945772916078568,0.026512552052736282,0.02545042522251606,0.017774898558855057,0.01796177588403225,0.021109366789460182,0.03593282029032707,0.03235001489520073,0.018135705962777138,0.03566901385784149,0.02299397997558117,0.030004139989614487,0.02755599468946457,0.032155416905879974,0.02933538146317005,0.010964469984173775,0.02165793813765049,0.01411454938352108,0.03143998607993126,0.021976783871650696,0.023220041766762733,0.03067019209265709,0.03195831552147865,0.031023558229207993,0.034732017666101456,0.01608194224536419,0.019901618361473083,0.013995570130646229,0.033229682594537735,0.010317602194845676,0.03023916855454445,0.02352306991815567,0.023564621806144714,0.026381123811006546,0.03340673819184303,0.016206655651330948,0.03320690244436264,0.038893260061740875
+0.012992183677852154,0.019988788291811943,0.01073809526860714,0.012568195350468159,0.026688378304243088,0.026059376075863838,0.017863212153315544,0.017608212307095528,0.0195538979023695,0.03575257211923599,0.032142557203769684,0.018248865380883217,0.036650530993938446,0.023169998079538345,0.03064071387052536,0.02801777794957161,0.03220919147133827,0.02935665287077427,0.011402366682887077,0.020978689193725586,0.013998986221849918,0.030417822301387787,0.02135680802166462,0.024110320955514908,0.031009163707494736,0.031775910407304764,0.031083254143595695,0.03554978966712952,0.01524367369711399,0.020376283675432205,0.014040748588740826,0.033167071640491486,0.010628259740769863,0.03002758137881756,0.023946968838572502,0.02367696724832058,0.02635006420314312,0.03302134573459625,0.01568090356886387,0.0331043004989624,0.03880355879664421
+0.013825597241520882,0.023415418341755867,0.011184104718267918,0.015947451815009117,0.024373317137360573,0.02637271024286747,0.018191879615187645,0.01993681862950325,0.01977195404469967,0.033421777188777924,0.029955167323350906,0.020930994302034378,0.03329542651772499,0.026108695194125175,0.028369607403874397,0.02751661092042923,0.030328253284096718,0.028826607391238213,0.016410764306783676,0.0210250336676836,0.014982934109866619,0.028840135782957077,0.020711293444037437,0.0293512511998415,0.02886047214269638,0.031166628003120422,0.02995731309056282,0.032983675599098206,0.01547625008970499,0.023198731243610382,0.015397083014249802,0.030644696205854416,0.014435025863349438,0.02757064253091812,0.02408151514828205,0.023336315527558327,0.025969630107283592,0.031141990795731544,0.015230938792228699,0.030874531716108322,0.036580782383680344
+0.012779881246387959,0.019222425296902657,0.010682725347578526,0.011556013487279415,0.026648372411727905,0.025621594861149788,0.01741788722574711,0.01760357804596424,0.020809028297662735,0.03649885579943657,0.0327739343047142,0.01793598011136055,0.03683220222592354,0.02287381887435913,0.030292419716715813,0.02770913578569889,0.03252895921468735,0.02978866919875145,0.010290666483342648,0.02166515216231346,0.013488837517797947,0.031797152012586594,0.021769549697637558,0.022986754775047302,0.03107493184506893,0.032223377376794815,0.031318195164203644,0.03539293631911278,0.01568104326725006,0.01966550573706627,0.013729065656661987,0.033727046102285385,0.009648951701819897,0.030097750946879387,0.02311641164124012,0.023169640451669693,0.026464080438017845,0.033635880798101425,0.016030265018343925,0.03366193547844887,0.03978931903839111
+0.01482382696121931,0.020556615665555,0.012338143773376942,0.01422536838799715,0.02807796560227871,0.026413409039378166,0.01962384022772312,0.017811443656682968,0.019094455987215042,0.033348824828863144,0.030605241656303406,0.018652746453881264,0.03625081852078438,0.022966938093304634,0.03059227578341961,0.027645811438560486,0.030958659946918488,0.028928706422448158,0.012633593752980232,0.021061304956674576,0.015858503058552742,0.029114503413438797,0.021788137033581734,0.024228239431977272,0.03049732744693756,0.029857516288757324,0.030048631131649017,0.03471248969435692,0.016443856060504913,0.021392831578850746,0.015879616141319275,0.03167201578617096,0.011984544806182384,0.029710965231060982,0.024293962866067886,0.024224724620580673,0.02618798427283764,0.031151212751865387,0.017240887507796288,0.0314599834382534,0.035642024129629135
+Questions:
+does this work with other models?
+Does it work with two player battle system that comes with 2 phoenix LTX taggers?
+The app works with iPhone 6 but the cradle is to small. Does anyone know if a cradle for the iPhone 6 exists?
+Can the guns be split into teams or is it every man for himself?  Planning to buy 8 for use without iphones.
+what is the maximum number of players?can 8 players play together?
+will these work with the new iphone6?
+Do you need internet access or wifi for this to work?  As in, using an old iphone which no longer is on a phone network?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+I really like the concept behind this toy--turning your iPhone into an alien shooting gallery (in solo mode) or incorporating it into a full-on game of laser tag with similarly armed opponents.The first thing you need to do is download the free App onto your phone (it must have an OS of at least 5.0).
+Then, once you figure out how to mount your iPhone onto the blaster's cradle--a challenge all by itself--you're ready for action.
+Since we only had the one blaster, we opted for the solo campaign, which, by using your phone's camera mode, turns it into a portable video arcade, assisting in blasting away an army of aliens superimposed onto your walls and ceilings (there's an outdoor mode as well).It makes for a novel approach to video-gaming, but it has some issues, including the fact that the alien invaders are just too tiny to make out much detail.
+Also there was a lot of static interference on our phone that gets in the way of the music and sound effects.We suspect that the multi-player battle option would have been more enjoyable, although that would require your kids' friends to have a Lazer Tag Blaster of their own.
+My 11 year old thinks he's dreaming when he plays with this.
+How realistic is it to see the laser aiming for the target?However, before he could play we had to get him an iPod so he could see the laser, and it's not as much fun (I would guess) without someone else having the same gun to play the same way.
+Otherwise the enjoyment is limited to the person using the gun.It's a great idea but if your child isn't blessed with an iPhone or iPod, you have an added expense to the gun.
+Nerf toys are always awesome!
+Lazer Tag Blaster is no exception.
+The best part of this toy is that you can play with friends or without!
+You can play inside or out.
+You can play with friends or you can play with a cell phone device, although you need to download an app first.
+Assembly is easy and not very complicated at all.
+You will need to purchase batteries, 12 AA batteries although they seem to last quite a long time!
+Kids can get a litle wild playing this, so move the breakable before you let them play inside!
+The next generation of laser tag is amazing!
+This game is best played when you have at least two people with them.
+The single player is a bit awkward with the leaning of the device and the limited opponents in the game.
+As for multiplayer, this COULD be the best invention for laser tage in quite a while.I easiy hooked up my old 3GS and newer 4S phone in the docking station.
+The game, which you download from the app store, easily runs on the older phone so don;t worry if you are not sporting one of Apple's latest and greatest.
+I doubt the Iphone 5 will fit unless they come out with a way to adjust the docking station.
+The fit is very tight and secure so no worries that the phone will come out.
+This Lazer Tag gun is ok, but you really need TWO guns and/or an iPhone to have fun with this gun.
+If your child does not have an iPhone or you are not going to lend your iPhone to your child, then pass on this product.
+My boys have had theLazertag System 2PKset for over two years and still really enjoy playing with them.
+I actually recommend theLazertag System 2PKset over this one.
+That set does NOT require an iPhone.
+It's amazing what toys are available for kids now.
+I thought my Atari was cool...This is a cool platform for laser tag or even solo blasting.
+You download the free app, put in your iPhone 4/4s or 3gs and off you go.
+The camera shows whatever background environment it sees and it superimposes alien attack craft onto the screen so you can blast away at them.I am going to get additional ones so we can get the other kids into it.
+But in groups or alone, this toy will keep them happy!
+"So first, you MUST have recent iPhone or iTouch with iOS 5 or newer for EACH gun to have the most fun.
+If you have 2 or more of the Apple devices, get a couple guns and don't give it another thought.As a parent you look for two things in new toys--how much fun is it and how much actual usage will you get out of the item.FUN:Honestly, this couldn't be much more fun.
+Yes, it is still version 1.0 and you have to deal with quirks because of that but the fact of the matter is that they enjoyment FAR exceeds the issues.
+It uses like video and then creates an overlay on it to shoot and interact with.USAGE:It is fun with someone or solo and because it is different depending on your actual suroundings, it doesn't get boring as quickly as normal laser tag does.Alright, I have left the best for last.
+Whether you are a parent or just a kid at heart, this is a fun video game that GETS YOU and YOUR CHILDREN off the couch.
+That is right, they get exersize while playing but have no idea they are doing it.
+This rarely happens in ""new"" toys these days and this is cool enough to even get the hard core video gamer out playing.So as I said, do not wait for them to get cheaper or improve the minor issues that others have pointed out already.
+Just get a pair and start enjoying them or watching your children enjoy them.
+It will be money WELL SPENT!I hope this helped you!"

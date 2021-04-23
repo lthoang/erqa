@@ -1,0 +1,206 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+When she opened the box she thought it was Christmas.
+I was fairly excited when this came in the mail since I was telling my niece all about way in advance.
+Once we had everything out, my job was done and my girls age 9 and 7 happily did all the work .
+She loves the Littlest Petshop.
+The quality is good but there are some very small pieces so those of you with toddlers need to be careful.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.003442242741584778,0.0036340164951980114,0.007161323446780443,0.0038582314737141132,0.005541652906686068,0.005261416081339121,0.007102631032466888,0.0074361469596624374,0.006487182807177305,0.00492391362786293,0.00343322497792542,0.0074361469596624374,0.0051815384067595005,0.007066957652568817,0.005210398230701685,0.006314098834991455,0.007286665495485067,0.003741904627531767,0.005020885728299618,0.003687528660520911,0.005216493271291256,0.007329690735787153,0.0033922705333679914,0.006870010867714882,0.00419568968936801,0.0044926488772034645,0.00534404581412673,0.006104925647377968,0.005026104860007763,0.002683748723939061,0.0033863272983580828,0.0037460129242390394,0.006736924406141043,0.005900710821151733,0.004860192537307739,0.005657364148646593,0.004254742059856653,0.007268392015248537,0.0055242921225726604,0.0062474883161485195,0.004361762665212154,0.0043854727409780025,0.004303131252527237,0.0056425766088068485,0.003358274232596159,0.005431733094155788,0.0034729300532490015,0.004367527086287737,0.003022718708962202,0.008620212785899639,0.0034657022915780544,0.003942311275750399,0.006300793029367924,0.0053595793433487415,0.006143623031675816,0.0060499282553792,0.004827698227018118,0.002817032393068075,0.004285936709493399,0.00611157389357686,0.006438886281102896,0.003712892532348633,0.006425510626286268,0.005342877469956875,0.0049656531773507595,0.006579253822565079,0.0047680772840976715,0.006569407414644957,0.0037531598936766386,0.0038813557475805283,0.0025967189576476812,0.0023551161866635084,0.007479660212993622,0.004883249290287495,0.00369090074673295,0.00446294667199254,0.00639322679489851,0.007042029872536659,0.005713265389204025,0.004029474686831236,0.0055960179306566715,0.007197556085884571,0.004406403284519911,0.0031081002671271563,0.008050263859331608,0.007017224095761776,0.00777081586420536,0.006545167416334152,0.006872666068375111,0.005149457603693008,0.006648745853453875,0.006158564705401659,0.007310259155929089,0.005900293122977018,0.0039734262973070145,0.0020793282892555,0.005779977422207594,0.0037279764655977488,0.005401601083576679,0.00715508870780468,0.007195038255304098,0.006692863535135984,0.005153212696313858,0.0076026590541005135,0.010451567359268665,0.005308728199452162,0.007069003768265247,0.00782073475420475,0.007407448720186949,0.007042501587420702,0.007578996010124683,0.006536530796438456,0.006264176219701767,0.0059458231553435326,0.003088367637246847,0.007389759179204702,0.00538857514038682,0.00439055822789669,0.007077934220433235,0.004577876999974251,0.004792835097759962,0.0036094295792281628,0.006477204617112875,0.003617129987105727,0.00599096342921257,0.006684814114123583,0.004441195633262396,0.003267803927883506,0.004731291905045509,0.007400330156087875,0.004651786759495735,0.0019973618909716606,0.0053739785216748714,0.003408801509067416,0.0064142062328755856,0.007269968744367361,0.005251418799161911,0.004935113247483969,0.007597074843943119,0.0057793790474534035,0.006095915101468563,0.0071032410487532616,0.00659849913790822,0.006320538930594921,0.005657421424984932,0.005053629633039236,0.0051328688859939575,0.0026593354996293783,0.002107237931340933,0.0034316193778067827,0.005420880392193794,0.00509820319712162,0.0038935942575335503,0.004126240033656359,0.00424640579149127,0.005768935661762953,0.007331690285354853,0.005487020127475262,0.005903385113924742,0.003997528459876776,0.0035862980876117945,0.004532794002443552,0.0037502117920666933,0.003392197657376528,0.002163621596992016,0.0036377417854964733,0.006611884571611881,0.006018849089741707,0.0064666359685361385,0.0032460943330079317,0.005843537859618664,0.0030116988345980644,0.007611430250108242,0.006628105416893959,0.005052993074059486,0.0026668382342904806,0.007178569678217173,0.004752637352794409,0.0074011096730828285,0.0030664801597595215,0.004303826484829187,0.002960394136607647,0.0041129374876618385,0.006341413129121065,0.0030402352567762136,0.0027406392619013786,0.0033228357788175344,0.004430343396961689,0.0030685586389154196,0.007281166967004538
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+This jet arrived in the mail yesterday and my kids were very excited to start playing with it.
+I went upstairs to cook dinner after I had taken it out of the packaging (you do need adult scissors to disconnect all the parts from the cardboard and plastic).
+Every once in a while, I'd hear a frustrated sound from my kids who are 3,5, and 7, but not too often.
+They love the idea of the plane, but they didn't take it up in the air.
+They've also never been on a plane themselves, so they had no idea what the inside would look like.
+But, they simply loved it as a playset.
+Blythe and the little dog that comes with it are very cute.
+I loved all the little accessories as did they.
+The door on the beverage comes off easily, but it also goes right back on easily.
+In general, the parts that came off of the plane easily also went back on easily--which is a huge plus to me with young children who tend to have that happen a lot.
+The other thing I'd mention is that the plane doesn't stand independently on carpet very well.
+It isn't well balanced that way.
+So, I leaned it up against our toy box for more stability.
+There are two small wings on the side of the plane which help a tiny bit if they are down as opposed to out to the side.
+I liked the attention to detail of this toy--even in the cockpit of the airplane.All in all, my children and I like this toy.
+They are enjoying it and it's a nice size that also works with their strawberry shortcake small dolls.
+When this box arrived at our house, my seven year old brought it to me.
+He groaned when I opened it because he knew his sisters wouldn't let him play with it even though he enjoys LPS.
+My ten year old shrieked because of the LPS.
+She's not in to Blythe dolls, but really enjoys creating all kinds of worlds with her LPS and this is the perfect way to transport them around.
+My three year old quickly claimed the set as hers and the Blythe doll will fit in with her Strawberry Shortcakes.
+A lot came with this set, but beware that many of the pieces are quite small.
+My 3 yo doesn't stick things in her mouth, but if you have a young child who does, then hold off on buying this.
+My 10 y.o.
+also commented that it was cool that the TV set actually has a way to change the picture showing on it.
+I can tell this toy will be much loved in our home.
+"If you have kids who like the Littlest Pet Shop series, then they will love this toy!
+My granddaughters frequently fly in to see me and they just loved the pet jet and all of the accessories.
+We have a lot of Littlest Pet ""stuff"" and all of it came out to take turns flying in the Pet Jet!As with many toys made for older toddlers/kids, the Pet Jet has a lot of little pieces.
+Fun and imaginative for play, but if you have a baby in the house you will have to make sure the older kids put the smaller pieces away pronto as they are choking hazards.
+However, that said, the Pet Jet and all of its accessories are sure to provide your kids with hours of play.
+It is a great addition to the Littlest Pet Shop line.My one complaint, which others have mentioned, are the ties in the packaging.
+I've got to believe with how high tech things are these days that there is a simpler way to ""cement"" the pieces in the packaging.
+It seems like you untie the twisties forever.
+I don't understand why the company can't make a molded clam shell for the toy...where you can just take the top off and then voila--the toys.
+Instead everything seems to be tied down.
+Get your scissors ready--ones that will cut the twist ties.
+This will make things go much smoother.
+And taking the packaging apart will go even smoother if you can convince the kids to leave the room!"
+If you have a child that loves the Littlest Pet Shop figures than this is a great addition.
+We already have more of these ultra-cute little bobble-heads than I can count and my six year old did her best to jam this plane completely full with with those creepy sad-eyed little varmints and flew them around the house for quite a while.
+When they disembarked in unwelcome places (like the kitchen table) I was shocked at how many she was able to cram into this plane.
+Soon enough, they were re-loaded and they flew off to the strange, wild territory of the family room and began some new adventure there that seems to involve living in the plane and claiming large portions of the fireplace for some sort of new Littlest Pet Shop colony.
+This is a great littlest Pet Shop toy.
+It comes with a lot of fun toys to play jet with your little one, including a beverage cart that has drinks and snacks for your little pet shop toys.
+It also includes a luggage cart and outfits for your toys.
+I love how it all packs up in the jet for easy storage.
+My 6 year old love to play Littlest Pet Shop and this is a nice addition to her toys.
+"This is our first experience with a Littlest Pet Shop toy and getting a comprehensive and in-depth review would come no less from the reaction it would get from the ""authority"" this toy was meant for: pre-school little girls.
+I was fairly excited when this came in the mail since I was telling my niece all about way in advance.
+It came pretty much in an attractive and sturdy box/package where the toy can be fully viewed in its entirety even before you open it.
+As a collector of action figures, I'd say the packaging was very fulfilling since even before you open it, the toys were arranged neatly in its own place and you get the plain satisfaction of just viewing it in the box.
+But since this is a toy, it was never meant to be inside the box.
+Upon opening it, my niece's eyes just glowed with excitement.
+I helped her take the toys out and laid it one by one on the floor.
+There are several small pieces of the toy that can all be put inside an airplane/suitcase.
+It is all plastic which I would say durable enough to withstand a 3-year old's inquisitive handling.
+Be forewarned that since this toy set contains small pieces, NEVER have it near a toddler under 2 years of age since this can be a choking hazard.
+Nevertheless, I felt it safe enough for my 3-year old niece despite the 4 and over age recommendation for this toy.In a nutshell, my niece enjoyed playing the Littlest Pet Shop Littlest Pet Shop Blythe Loves Lps Pet Jet.
+She arranges the little characters in their own place inside the airplane and she lugs it around wherever she goes.
+This toy gives her a lot of hours of fun even when she's all by herself playing it.
+The little doll Blythe and the dog are very cute characters that compliment the playability of this toy.
+It was a totally hit as far as my niece was concerned.
+Highly recommended!"
+A purple airplane, a pretty little girl, and a puppy with lots of accessories made this a hit with my six-year old princess.
+It's a good size and she has spent a lot of time imagining Blythe and her pet friend are taking exotic journeys.
+Sometimes she has Blythe be the pilot and sometimes she's the passenger, either way this is a toy that has delivered a lot of good, simple imaginative play.The plane opens up in much the same way as a doll house and provides that type of experience, but with a more exciting travel theme.
+Since the princess's father is a pilot this may have had a bit more appeal than to some.
+But, overall I think if you have a 4-7 year old that has ever been on a plane or dreamed of traveling to far off places - this is a great, good quality gift.
+It'd also make a great birthday gift if you're looking for one for a girl this age.
+"My wee one adores all things Littlest Pet Shop, so I jumped at the chance to acquire BLYTHE AND THE LITTLEST PET SHOP PET JET.
+This is a monster-sized set, containing Blythe, her pet bulldog, a ""perfect purple pet and princess plane"" (to quote my little one) with a side that flips up to give your LPS enthusiast full access to the inside, and a plethora of in flight accessories to help young imaginations soar!
+Whew!
+BLYTHE AND THE LITTLEST PET SHOP PET JET certainly pack quite a bang for your buck!Needless to say, my six year old was beyond thrilled when she opened the box, and she has really loved flying Blythe, her bulldog, and a veritable zoo of her other LPS pets to various and sundry destinations around her imaginary globe.
+One of the best features of the BLYTHE AND THE LITTLEST PET SHOP PET JET play set is the nearly infinite number of adventures that an imaginative child can create.
+As an added bonus, this play set also encourages quiet, independent play, giving mom a very nice and needed break.BLYTHE AND THE LITTLEST PET SHOP PET JET is the perfect gift for any little LPS fan.
+It is sturdy and well crafted, enabling endless hours of fun.
+Simply stated, my daughter loves it."
+The Toy was great.. My daughter hasn't stopped playing with it.
+Much more came in the package than I expected and it seems to be well built.
+I would recomend this to anyone who has a Littlest Pet Shop lover in the family....
+"This toy literally means hours of fun for your kids.
+My girls have always enjoyed Littlest Pet Shop so imagine their delight when they received this toy!
+The only frustration I faced with this toy was while taking it out of it's packaging when I promised never to take ""Frustration Free"" packaging for granted again!
+Once we had everything out, my job was done and my girls age 9 and 7 happily did all the work .
+They got it all assembled other than a door which kept coming out and have since enjoyed playing with this everyday.
+The quality is good but there are some very small pieces so those of you with toddlers need to be careful.
+It's a lovely toy for girls with very attractive colors, and I highly recommend this."
+"Let me start off by saying that I don't think I EVER downgraded something because of the packaging....until now.
+I cannot explain to you the level of frustration I had in trying to untangle, untie, unravel and cut almost every little piece.
+Since this is the way it came from the manufacturer I am taking off half a star.
+Not only for the waste of time and the frustration, but more importantly because if a child is trying to do it they will likely break things.
+Even using a scissor, it took much more time than I would think necessary to get everything liberated.
+Once everything was taken apart, it was simple work for my 6 year old daughter to put everything together.....and she LOVES it!
+Once my frustration died down, and after I put the door on the plane, I noticed a minor design flaw.
+The door to the plane has a little door within it and if the plane is at just the right angle, the little ""doggy"" door opens into the plane and doesn't allow the regular door to open....of course, my daughter could careless and she has been very happy playing with it.
+There are enough pieces to occupy a child for quite some time, as witnessed by my daughters quiet playing.
+The plane opens completely, allowing for storage of all the pieces.
+The regular plane door comes off relatively easily....not a complaint, just noting that it will be less likely to break because too much pressure will just pop it off.
+It doesn't come off so easily as to make this a bad point, just easy enough to make it a good one.
+If your child likes Little Pet Shop, but it, they will love it.
+I get plenty of hugs from my daughter, and that, to me, is priceless!
+Be aware that there are items that are definately choking hazards/dangers, so I would not recommend this for really young kids."
+My daughter was so glad when this arrived.
+When she opened the box she thought it was Christmas.
+We opened the box, yes it takes forever to open it, all the wires that it is tied to.
+That did not stop my daughter from wanting to play with this.
+She loves the Littlest Petshop.
+She will be pretending to play this for hours.
+This is a great toy for the imagination.
+Not too many small parts and great to be a pilot.
+The Littlest Pet Shop Jet is a great concept.
+It features a ton of fun, creative pieces.
+The bathroom for the jet is comical (a fire hydrant for the dogs).
+It also has cool flat screen TV's, drinks for the flight, a pet carrier - anything you can think of.
+It is highly immaginative and is great for play.
+My daughter and son argue over the jet all the time.
+My biggest complaint it is that it is not very durable.
+Plastic pieces are constantly falling off of the jet and I find little pieces everywhere.
+It is a great toy but just beware of what you're getting youself into (tons of pieces everywhere).
+Purple is my daughter's favorite color.
+She is 5 and loves the Littlest Pet Shops,  she even have the game on her DS.
+All these just make it a no-brainer that she was so excited when it arrived.
+It came in a huge box, unfortunately in a not frustration-free packaging.She already have several of the Pet Shop characters, so she just play with them on the plane.
+My wife used to work on the airplane and both of them had some good bonding time explaining what's going on inside the plane.
+She had been on the plane several times so she can completely grasp what my wife was saying.
+It came with only the dog and Blythe, the cute blond doll with a pilot's hat.
+But everything on the plane is a delight for her, the floral deco, the pet door, rolling serving tray with pet food, kennel and it's own buggy, in-flight TVs, etc.Overall, great quality.
+There are tons of accessories.
+Details are great.
+The thing that I don't like about it is the background of the inside of the plane, it is made of paper sticky.
+Some parts have air bubbles on it that I have to press it with my fingers to remove it.Not for littlest kids - choke hazards.
+"This is definitely one of the toys that kids will love, but just might be a parents worst nightmare.My daughter love her new toy, didn't want to stop playing it.
+Normally she loves taking to Grandma and Grandpa on the computer, when she got her special toy, she wouldn't stop to even talk to grandma or grandpa, and when it was time to say ""Goodbye"" to grandma and grandpa, she said ""Goodbye"" over her shoulder while she continued to play.
+My daughter didn't even want to go to bed, she wanted to continue playing.
+First thing the next morning, she wanted to continue playing, didn't even want to eat breakfast.But for parents be warned.1.
+Everything is secured to the box or each other.
+It took me an half hour to take everything out.2.
+There are a lot of small pieces, although enjoyable for the kids to play with, they could be easy to lose.3.
+There is a door that comes off (the one with the doggie door) and a door on the service cart comes off to.
+Although they are easy to put back on, it can be a pain if it keeps coming off (My daughter kept wanting me to fix it).It is definitely a toy that your kid would enjoy playing with.
+Just have a plan for the small pieces and remember to schedule the time that it is going to take to get it out of the package."
+"Let me get the elephant in the room out of the way right off the bat: Yes, the packaging is overkill and yes, it will be a pain to get everything out and ready to go for your child.
+That said, I'm used to it these days.
+Toy manufacturers have continued to trend toward more and more unneeded packaging and restraints.
+As long as you have a good, heavy duty set of scissors and some patience, you'll get through it.Now on to the good stuff.
+My girls absolutely love the jet, and they have no problem using it with all of their littlest pets.
+There are six seats in total in the jet: One pilot seat meant for Blythe (but pets can pilot, too!
+), one round ""vanity"" spinning seat meant to be used when the jet door is open, two cabin seats with studs meant for pets which have a hole on their underside for sturdy sitting, and two seats with no stud which can be used with any littlest pets or with Blythe.The jet itself is sturdy and has held up to our kids playing with it almost every day for a month.
+The setup comes with a food carrier, a suitcase, and a cage, along with one cargo cart to carry it all on board.
+Along with these come one Blythe figure, and her littlest pet bulldog.
+My kids particularly enjoy how they can change the TV channel for their pets, although it can be a pain to get the images to change with the small switch on the set.
+They also enjoy the vanity chair that can be manually spun around with your pet comfortably seated inside.
+The chair seems to easily come off its attachment, but this is easily fixed by sliding it back in.Overall, if your kids are into the Littlest Pet Shop craze, they'll love this LPS jet and everything that comes with it.
+Our kids still enjoy playing with it regularly over a month after we received it, and that says a lot in this day and age.
+Highly recommended!"
+"This is such a cute set!
+The Pet Jet set is really like getting two sets in one that can be played with together or apart.Blythe and Her AccessoriesFor those who are vintage 1972 Blythe aficionados or fans of the high-end re-releases (although adult Blythe fans are also collecting these cute Littlest Pet Shop ones!
+), you might be interested in how the Littlest Pet Shop version compares to the more expensive varieties.
+While the overall look is captured well, this miniature  Blythe doll is different from the larger original/vintage Blythe in several respects, most notably that her eye color cannot be changed.
+She can rotate her arms and legs, and her head is the ball-jointed style that can be posed in many ways.
+Though the hair is rooted, I really like the hairdo on this Blythe--the bangs hide the plug look of rooted hair--it's my favorite of all the Littlest Pet Shop Blythes.
+Kudos to Hasbro for making Blythe more affordable and accessible for both children and even adult collectors.
+I would have liked for Blythe's Barbie-esque fashion figure to have been tweaked for the younger market, but that might have upset her older fans.In this set, Blythe is given plenty of little extras.
+She has a stand (a necessary accessory since her large head makes her topple over easily), comb, and removable headband, as well as earphones, a pilot's cap, food cart, beverages, and trays of food.
+Additionally, she has a little suitcase that really opens, and can store some of her things.Compared to those on other Blythes in the series, the clothes aren't all that great on this specific one, and don't have the sweet vintage flair or matching pet-tie-in as many of the others have.
+Her skirt and shirt are really one piece.
+Moms and Grandmas: You can find patterns for ""petite Blythe"" clothing online--crocheting, knitting, and sewing.
+Because she's so small, I was able to make two complete ensembles in only a couple days!
+(If you click on the comments section, I've shared my sock/boots knitting pattern.
+)Pet and JetThe unique LPS bulldog included has a ""realistic"" under-bite, and the typical bobble-type head.
+With her extra-large head and eyes, she and Blythe make a fitting pair.The plane and accessories provide a lot of play possibilities.
+There's nothing wrong with this toy, but I gave it three stars because it didn't interest my kids for long.
+They played with it the first two days we had it, and have hardly looked at it since.
+I've tried sitting down with them, ages three and five, and encouraged them to play with it some more, but they only last a few minutes.
+When I buy toys for my kids, I don't expect them to be used every day or for hours at a time, but I think once a week or even a few times in a month would make me feel like it was money well spent.I'll admit it could just be my kids that don't care for this LPS toy as much as the other LPS, Polly Pockets, Zhu Zhus, Zoobles and Barbie toys we have.
+This jet does have a lot of great features and many pieces.
+For anyone that collects LPS animals, this jet has all the accommodations they would need: beverage service, TV, even a fire hydrant for dogs to do their business.
+And Blythe is there to assist them the whole trip.
+We have about a dozen LPS figures and they all fit in the jet just fine.The packaging is brutal though, one of the worst I have had to deal with.
+It took about twenty minutes to get everything out of the box and free of any rubber bands or ties.
+A couple of the ties were knotted so tightly around small things, that I had to get a ball point pen with a long tip to dig in and loosen the knot.
+If this is to be a gift for a family member, I'd suggest undoing about half the packaging before giving the gift to the recipient.
+That way, there won't be as much time wasted while the child hovers over the jet waiting for it to be free for play.This is probably a great toy for some kids; mine just have little interest.
+My first grader is an ardent fan of LPS toys and we have several of the playsets.
+This LPS jet is very cute, has tons of potential for creative play, and is quite big.
+It does contain small parts so I would not recommend it for children under 4.The jet comes with a doll named Blythe who is pet-sitting a cute bulldog.
+The doll, dog, and little accessories all fit into the jet, though the door comes off easily, but not to the point of breaking, and it is quite easy to snap in back in.
+There are seats etc for the pet/pets to sit in, and for those who own several of the other LPS toys, this makes a nice playset.
+My daughter pretended that all her little pets were going on a trip and had great fun with it.

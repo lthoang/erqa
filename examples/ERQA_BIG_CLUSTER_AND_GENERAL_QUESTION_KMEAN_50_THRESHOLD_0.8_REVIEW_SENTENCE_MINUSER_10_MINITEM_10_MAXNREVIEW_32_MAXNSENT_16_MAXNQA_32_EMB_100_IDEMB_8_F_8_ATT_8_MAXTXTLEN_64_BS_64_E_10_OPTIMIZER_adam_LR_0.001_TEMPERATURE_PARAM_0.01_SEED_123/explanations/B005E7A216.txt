@@ -1,0 +1,236 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+The yellow handle is strong and flexible.The lantern has 3 different light/sound effects lighting the child's room/tent: short or continuous light and sound, and continuous light only.
+My two yer old grandson loves lights and flashlights.
+There is no way to adjust the volume (it's either on or off) or the brightness of the lantern.
+One cool hidden feature is that there is a nature scene etched on the plastic light cover that can be projected on the walls for more amusement.
+The green plastic is relatively soft, sturdy, can amortize multiple falls, and protects the transparent plastic tube glued to the base and screwed to the top with 4 screws.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.004253307823091745,0.004230870865285397,0.006631248630583286,0.0053434851579368114,0.004476046189665794,0.004856217186897993,0.004542841576039791,0.00443955697119236,0.0031582023948431015,0.0037740699481219053,0.00503153633326292,0.0040543884970247746,0.0032270499505102634,0.00798287708312273,0.00416451133787632,0.004368464462459087,0.00438165757805109,0.005662526004016399,0.00473787821829319,0.0046471040695905685,0.0035297474823892117,0.0035608401522040367,0.004332531709223986,0.004298169165849686,0.005882432218641043,0.005331933498382568,0.004360385239124298,0.004366391804069281,0.006282835733145475,0.003178706858307123,0.004652352537959814,0.004562956281006336,0.005183779168874025,0.0039027149323374033,0.004559231922030449,0.0045220693573355675,0.005296147428452969,0.004955890588462353,0.003222318133339286,0.003538125427439809,0.0036356751807034016,0.004792265594005585,0.0051275743171572685,0.004402991384267807,0.004450688138604164,0.004754436202347279,0.005559246987104416,0.006975003983825445,0.004297148436307907,0.004657945595681667,0.004913394805043936,0.0031653987243771553,0.0037630232982337475,0.004345446825027466,0.004336589016020298,0.005636068060994148,0.0058562252670526505,0.0034031544346362352,0.004335254896432161,0.004169319290667772,0.003731783712282777,0.004377708770334721,0.005627279635518789,0.004314795136451721,0.003985264338552952,0.003322059754282236,0.004479031544178724,0.004899097606539726,0.003052551532164216,0.004445943515747786,0.004068925976753235,0.005407465156167746,0.004218734800815582,0.003999026026576757,0.004403103608638048,0.0026461523957550526,0.004006918985396624,0.00589581485837698,0.004126884508877993,0.0038704685866832733,0.0024975247215479612,0.004356393590569496,0.0038899527862668037,0.004895159974694252,0.00442060362547636,0.003319978015497327,0.0049851639196276665,0.006652145646512508,0.0033920605201274157,0.00522063672542572,0.0031247923616319895,0.004649296402931213,0.005041136872023344,0.004919105209410191,0.006702912040054798,0.0053359512239694595,0.004440984223037958,0.004412851296365261,0.004564375150948763,0.006074140314012766,0.002422948367893696,0.004535202402621508,0.0053776586428284645,0.00554274395108223,0.004990520887076855,0.006046579219400883,0.006079706363379955,0.0035480607766658068,0.0027023018337786198,0.0035851076245307922,0.00498870387673378,0.0049095372669398785,0.0044717444106936455,0.0048570698127150536,0.003540502628311515,0.003507455810904503,0.005280225072056055,0.004948200657963753,0.00437178323045373,0.005183368921279907,0.007002965547144413,0.010497696697711945,0.0033061739522963762,0.004141916520893574,0.004848177544772625,0.006163256708532572,0.004524948075413704,0.003255175892263651,0.005630007479339838,0.00322256563231349,0.004124233033508062,0.005099454429000616,0.0045600468292832375,0.004552030935883522,0.001976549858227372,0.003832531161606312,0.004806654527783394,0.005967321805655956,0.005114448256790638,0.003284171689301729,0.004394652787595987,0.003755721962079406,0.003425676142796874,0.005499036982655525,0.003906675614416599,0.0044883135706186295,0.0035193818621337414,0.00682381447404623,0.006274611689150333,0.007087501231580973,0.005474482197314501,0.0038909970317035913,0.005550975911319256,0.004586474969983101,0.0038493734318763018,0.005099506117403507,0.007711801212280989,0.0030894451774656773,0.0024050017818808556,0.004516463726758957,0.006221822462975979,0.002816965337842703,0.004065250977873802,0.005314188543707132,0.004652205388993025,0.004583592060953379,0.003981594927608967,0.005279389675706625,0.004790620878338814,0.004220713395625353,0.004494125489145517,0.0038545909337699413,0.005113490391522646,0.004543914459645748,0.0035527637228369713,0.004587145987898111,0.004321411717683077,0.005239092279225588,0.005538019817322493,0.003787491237744689,0.005208692513406277,0.004477485548704863,0.005620469804853201,0.003519821912050247,0.004532052669674158,0.003538543824106455,0.004615955054759979,0.003809957765042782,0.004352831281721592,0.005231253337115049,0.0033244688529521227,0.004370818380266428,0.00467986986041069,0.005230293609201908,0.004574390593916178,0.004467387683689594,0.0036098207347095013,0.0048358626663684845,0.003135765204206109,0.005326360464096069,0.004468466620892286,0.002950257621705532,0.002138578798621893,0.00551499193534255,0.0035080837551504374,0.004234739579260349,0.005003811325877905,0.004464992322027683,0.004726219456642866,0.003969829063862562,0.004013827536255121,0.003501770319417119,0.00532678235322237,0.0034593036398291588,0.004266843199729919,0.0049852244555950165,0.0030202644411474466,0.005223365034908056,0.004013426136225462,0.005804615095257759
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+This lantern is basically perfect for pretend campouts especially when you add the other gear like the tent or the campfire log.
+It's very bright.
+And also brings the campfire atmnosphere with crickets chirping, wolves howling, etc...
+The only caveat is my three year old was very uncomfortable with the wolf sound, so he's probably a little young.
+It really all comes down to how much pretend camping your little one does.
+I got this for my 2-year-old girl to practice camping, and she loves it for that.
+She sits in her play tent in her bedroom with the lantern going as she reads books to Snoopy and listens to the wolves howl.
+She uses it when she wants to walk to a dim/dark part of the house.
+She uses it to just have fun carrying around a noisy light.Unfortunately, this lantern will have only limited use when we go camping for real - because there is no way to completely turn off the sound.
+The lantern has three settings: A) no light or sound; push the button to get both; B) the light stays lit; push the button to hear the sounds; C) both the light and the sounds stay on.
+To really use this in our tent in the wilderness, I would appreciate a setting that has the light and never allows the sound to come on - you know, something that isn't going to attract other wild animals with all the crickets/frogs/wolves emanating from the tent.As for durability, this is doing well.
+It has withstood her swinging it around, banging it against a wall, dropping it to the floor a couple times, etc.
+I'm sure it won't last forever, but I'm impressed it's held up so well after all all that.Overall, I'm happy with this as a practice lantern, but we'll need to get her a different lantern to use when we go camping for real.
+My two yer old grandson loves lights and flashlights.
+I can entertain him for hours with a simple small led light.
+So I thought of him when I saw this.
+It is a simple yet clever toy.
+The grandkids have not been camping, but they love the lantern.
+Maybe they will get to go camping some day.
+The toy seems sturdy enough so far.
+You can have the light with or without the sound.
+the sound gets old after a while (for the adults) but the light is a never ending source of fun for a little one.
+Big brother who is 6 wanted to play with it too.
+"yep.
+a simple lantern for kids during pretend-play or playing in the dark.
+i initially thought it'd be gimicky.
+um, well, it sort of is, but oh what fun for the kids!!!
+they love carrying this thing around.
+there are two ""on"" settings: one for the light portion only, and another with the light accompanied by wildlife sounds.
+in all settings including ""off,"" pressing the white button will make the lantern create wildlife sounds.
+the lantern has been carried for a couple of weeks, and it still works fine.a nice thoughtful touch is when it's lit in a completely dark room, the clear plastic portion casts a shadow of ourdoor scenery.
+also, kids will stop bugging me about wanting to play with flashlights because they love their own lightsource.
+it certainly exceeded my expectations."
+"My younger children all love this lantern, but I wasn't as impressed with it as I hoped to be.
+My first thought when I held it was that it felt a little flimsy.
+I am sure my kids will break off the handle in a matter of weeks.
+My second thought, was to LOVE the fact that it casts  the shadow of trees, the moon, a moose and a wolf on the walls around the lantern.The lantern has three settings: on without sound, off, and on with sound.
+Even when it is off or in ""no sound"" mode, you can push the yellow button on the front to hear the sound tape play once.
+The sound tape includes crickets, a wolf howling, bullfrogs and an owl.
+When it is in ""on with sound"" mode it repeats that tape over and over.
+When it is not, it only plays it once when you push the yellow button.I am glad it has an ""on without sound"" mode, because that allows it to be used as a nightlight occasionally.
+It would not work as a night light with the sound on.This is a fun little toy for allowing children to pretend they're camping out.
+It can double as a night light, and it's light-weight so even my 1 year old can tote it around.
+It doesn't really have much educational value, and I'm sure it won't be long until it breaks, but it's definitely worth the $8 price tag."
+We use this mainly as a nightlight.
+My older child is easily frightened and often has nightmares.
+She often visits us in the middle of the night.
+Although wasteful, we would tell her to turn on the bathroom light and go back to bed.Since getting this lantern, we still get nighttime visits, but they are fewer (I told her to turn on the lantern whenever she wanted extra light) and she does not turn on her bathroom light as often.
+I would rate the lantern as moderately successful for this application.One of the first things I did after I tried this was cut the wires to the speaker.
+While they may be OK for camping, they are not nightlight sounds and are definitely not for easily scared children.
+It would have been much better to have the switch enable the speaker.
+The power switch attempts to do that, but pressing the button activates the sounds even if the switch is in the light only side.
+If I could, I would also remove the shadow images.
+I think my daughter is OK with them, but she would prefer to have no shadows.
+Otherwise, this does what it should and my children like it.
+This Campfire Kids play lantern gives off a nice bright light, perfect for backyard campouts or reading in bed.
+The silhouettes of trees and other outdoor scenery (including a howling wolf) project a neat shadow onto the wall when the lantern is aglow.
+The outdoor sounds (crickets, howling wolf, other forest creatures) are pretty realistic and create an authentic atmosphere for those close to home campouts.
+The howling wolf may be a bit scary for the younger kids, so I am glad that you can have the light on without the sound as well.Overall this is a great toy!
+"This little lantern really works.
+The light is quite bright considering it is just a child's toy, but it certainly wouldn't suffice for a real lantern.
+It seems pretty sturdy so far and the kids love carrying it around.
+The downfall...every time they press that button, in addition to lighting up, it makes ""outdoor"" noises.
+Crickets, hooting, and even a coyote howl.
+If I would improve two things about this lantern, I would make a separate on/off switch for the light, and a separate button for the sound effects.
+I would also make the light stay on longer than the approximately 30 seconds that it does currently.
+It does have a switch between the modes, but I think it could be improved upon.It also says it is for 8 year olds, but I really think the 4-6 year old range is where this product would be best received.Overall, the kids are pleased and so am I."
+This is a really fun lantern.
+The minute my daughter laid eyes on it she had to have it.
+It is lightweight but sturdy, and the handle is easy use.
+You simply push the single yellow button on the front and it lights up and makes a realistic outdoor sounds like crickets and owls.
+The sound is not shrill or too loud, however it would be nice to have a silent option.
+It goes off automatically in about 20 seconds.
+There is a pattern all the way around the plastic lens of trees and wolf sihlouettes that make a fun cast on the wall.We have had this toy for several weeks now and she still has not tired of it.
+This is a really cute kid's lantern that is nicely sized and the light isn't really bright.
+It has an etching on the plastic around the light of wilderness scene with trees and a moose.
+It also make sounds of crickets,frogs, and a howling wolf that can be turned off by a switch on the back or if you want you can switch to where the light and sounds come on only when the yellow button in front is depressed.
+When you use it that way it goes off automatically (thank goodness).
+So, i gave this to my five-year-old daugther.
+She turned off the light in our house and carried it around the house.
+If you push a buttom, it makes a wolf howling sound.
+She pushed a couple times and thought it was funny.
+The fun factor is temporary.
+The material is plastic and seems like it would be easy to break.
+But then again, it's a toy.
+Although my daughter doesn't use it everyday, she keeps it next to her bed for some reason.
+I guess she's preparing just in case the house lights don't turn on.
+This is a nice little lantern.
+I was initially surprised at how cheap the plastic looked when I opened the box, but then I realized it is probably the trade off you have to make in order for it to be durable and kid friendly (if the plastic was more heavy duty, it would be easy to hurt another child with it!
+)While the lantern does have an off switch for the light and noises, anytime you press the yellow button, regardless of where the on off switch is, it will make noise and turn the light on.
+I wish there was a true off switch, especially to the noises.I appreciated that the toy came with the necessary batteries included and I also like how easily the yellow handle moves.
+This has kept four and five year old children happy for days and days.I have two groups of sixteen students, and this really takes them off my hands.We got some new equipment, chairs or something, and kept the big cardboard box and put the chairs in the closet, and now they love to take this fakeColeman Two-Mantle Propane style Lanterninto the box with best buddies and listen to the howl, and the chirping and the croakingno end to the fun and fascinationhypnotizes kids better than a television, because they are still able to get past the electronic wizardry and interact with it out here in the real world, and talk about it.IT's really cool anyway to see one walking around with it like Linus with a security blanket.Kids love it.WHat more do you really want anyway?They's happydon't break the spellanyway, where's the wolf .
+.
+.
+I have two nephews that love to walk around in the basement in the dark with flashlights on while pretending they are searching for ghosts so I thought this lantern would be a good alternative to the flashlights (and helpful for me to be able to actually be able to find my flashlights when I really need them).
+They loved this lantern.
+It comes with AA batteries already so it was ready to play right out of the box.
+The light is quite bright, I was kind of expecting a duller, not very bright light.
+But the light shines pretty far.
+The sound of nightlife in the woods aspect really isn't needed to make this lantern fun.
+The boys weren't overly wowed by that part and they didn't push the button for the sound much.I would definitely recommend this lantern for any camping trips or little kids who love to pretend that they are exploring a dark and mysterious place.
+This is a not terribly functional, but certainly fun, toy lanterns.
+It's definitely not the kind of thing you want to be stuck in a dark forest with, as the light isn't exactly going to be helping you out much, but if you want to get together with your youngster and pretend to go camping in a bedroom, you'll have a good time with it.
+The noises are cute and not too annoying, and the little ones seem to be having a good time with the lantern.
+I really hate to review this toy and rate it down because I feel it does exactly what it advertises.
+There just isn't much to it.
+It is essentially a little flashlight with cricket sounds.
+I gave it to my four year old son and he played with it for about 30 seconds and tossed it aside.
+Now, I will say he has gone back to it now and then, but each time, he's interested 30 seconds or less.
+He more or less pushes the button to turn the light on and walks off.
+It has taken a beating though and is still in perfect shape so it is very durable.
+This is shaped just like the real deal.
+It is cute and very easy to use.
+The output of the light is pretty good, I was able to read using it.
+You have the option of using it as just a light, or a light with sound.
+The sound is that of crickets, a wolf howl, and a frog.
+After a few moments the sound becomes irritating (at least for me) but the kids didn't seem to mind, it was just a part of the whole experience for them.
+I would purchase this for a child anywhere from 3 - 9 years of age.
+The Campfire Kids Lantern is ready out of the box as required 3 AA batteries are included.
+It is well made, ergonomic, in classic colors, and can be used/played with both indoors and outdoors on a dry day (not rainproof) by 3+ year old children as nothing is to be swallow.
+The green plastic is relatively soft, sturdy, can amortize multiple falls, and protects the transparent plastic tube glued to the base and screwed to the top with 4 screws.
+The yellow handle is strong and flexible.The lantern has 3 different light/sound effects lighting the child's room/tent: short or continuous light and sound, and continuous light only.
+The yellow button starting the short light/sound effect is large, visible, soft, and easy to press.
+The back switch between effects - on the other hand - is more difficult to flip that may prevent very small children from over-switching.
+Once the front button is pressed, the short light lasts long enough to allow flipping the back switch to continuous light.The light is bright enough, and the LED bulb draws very little power preserving batteries for a very long time.
+The mat forest scene of different heights engraved around the transparent plastic tube makes it only translucent protecting the eyes against the glare.
+Very clever.
+A child can keep the lantern next to the bed, have it close, and use as needed also when is afraid of darkness or has nightmares.
+Overall, this lantern was not a big hit for my kids.
+The entertainment value was limited and the light is so dim that it is not possible to use for reading.My three year old son did enjoy the shadow and the animal noises for a little while but quickly lost interest.
+The noises are very repetitive and can drive the parents insane rather quickly.My daughter got excited at first because she though she could use it to read books at night but the light turn out to be too dim.The lantern now sit in a corner forgotten
+"This is a kid's campfire lantern.
+The package itself says that it can be used for 'indoor' camping.
+The lantern looks very nice and seems durable (good quality plastic).
+It needs 3 AAA batteries (included).The lantern has a light switch with three positions (off, on with automatically repeating night sounds, on with switch initiated night sounds).
+The push button switch in the front activates night sounds in all three modes.
+The sounds are fun to listen to - there is a wolf howl, frog call and cricket chirp.
+The lantern ""glass"" is engraved with some trees, howling wolf, deer and a crescent moon.
+If placed a couple of feet away, these images nicely project on to the wall as well.However, there is just a single LED bulb (white light) and it is very dim.
+Not even enough light to read a book for example.
+If the lantern was a little brighter, it would be a really useful toy.
+For example, the kids can sit/lay around reading some scary books while pressing the button to get night sounds as needed.
+With such a dim light, one cannot use it for real camping either."
+Lately my 4 year old has been getting into lights, flash lights to be specific.
+He loves going into the dark rooms and explore.
+But when Daddy needs his flashlight, it's nowhere to be found.
+Well, the Campfire Kids Lantern is so much cooler than daddy's flashlight, so everyone won here.
+The lantern uses an LED light which isn't too harsh on the eyes and lights up a dark room.
+You can activate nature sounds or leave them off.
+One cool hidden feature is that there is a nature scene etched on the plastic light cover that can be projected on the walls for more amusement.
+My children, ages 2-10, enjoy using in their playroom after dark.
+They can switch on the light by itself, or also turn on the sounds of crickets, frogs, etc.
+They turn out all the lights and pretend to be camping out, or to be living as a pioneer with only a lantern for light in the evenings.
+This is the sort of thing this toy is designed for.
+It's not intended for use outdoors.
+It's not very bright, certainly not enough to read by.
+There is no way to adjust the volume (it's either on or off) or the brightness of the lantern.
+But, if available at a low enough price, it's a good way for your children to have fun camping out indoors.
+"I've seen some camping party ideas on blogs, and I have to admit that this lantern would make an adorable prop for a camping party or a slumber party.
+Other than that, I would rate this toy as ""just okay"".
+My 3-year-old daughter has shown only very mild interest in this toy, it is definitely one she could live without.The quality is not impressive, and the switch only allows the sound effects with a temporary light, or sound effects with a long lasting light.
+I really wish there was an option for just the light--that improvement would definitely bump this review up a star.
+The sound effect are, in my opinion, sort of cheesy.I wouldn't tell someone not to purchase this toy, if they are in the market for a toy camping lantern I think this one would hit the mark just fine.
+I would definitely consider buying it if I were hosting a camping themed birthday party or a slumber party for my girls.
+But other than that, I think this toy is so-so.
+Not BAD, but not special, either."
+We have a unit on nocturnal animals and pretend to camp out in the woods.
+This lantern with the sound effects was beyond perfect.
+You can turn it on with or without the sound which is good for the adults in the world but honestly it is fun to listen to.
+One night my breakers blew and I was outside with the lantern turning them back on.
+So useful and fun toy.
+"This little lantern is a great kid's toy.
+Cool to the touch, so it is safe it's also lightweight plastic and has a fun outdoor scene on the window area and looks much like a real coleman lantern.The fun comes in because you can use it either like a real lantern or you can use it with the optional ""nature sounds"" with chirping crickets, frogs and the howling wolf/coyote in the background.
+There is the further option on that for it to go off after a few seconds, but the lantern only part can be switched to stay on all the time if you want.
+This I felt was a nice touch!It is bright enough even with the one little LED in the center you can use it for camping, or a nightlight or for a kid's sleepover - whatever.
+It is a very cute toy idea.
+Good wholesome fun."
+I gifted this to my just turned two-year old for his birthday.It's been a hit ever since.All his little friends love it too.The light is cool on its own, but the animal sounds are the real clincher.I have an empty cupboard in my bathroom that my little guy loves to sneak into with this lantern and his toys.It's a pretty cute scene.I consider it 'durable' in that it's survived several tug-o-war matches between two year olds and is no worse for the wear.Fun toy to be sure.
+My daughter was so happy when she got this, that she repeatedly said how much she loved it.
+She loves turning the lights off in her bedroom and walking around with it, and turning it on in her play tent.There are etchings on the side; the etchings show trees and animals on the walls around it when it's turned on.
+The button on the front is a push button that turns the lamp on for a short period of time before it shuts off again.
+There is a switch in the back to keep it on, but the button has gotten the most use.
+My 2 year old loves having to push the button every time it turns off.
+She feels that it's her important job when room goes dark again.Pro: Light weightPro: Button to turn it on automatically turns it off after a short period of time, but there is an optional stay on switch.Pro: Cricket noises are not too loudPro: LED light bulb should last a long time before needing a change of batteriesPro: Etchings on the side project trees and forest life onto surrounding walls
+My kids love to camp, so this is a hit.
+realistic lantern, it is fun that it has the sounds to go with it too.
+Great for at home during the winter when they want to pretend to camp.
+Goes well with other camp accessories.
+Great fun, kids enjoy it.
+My grandson loved it the instant he saw it.
+He loves carrying it around the house and outside.
+He loves turning the light on and off and listening to the sounds it makes.
+Its very easy to use and very lightweight.
+Looking forward for him taking it on a camping trip.
+To be honest, my 2 year old and my 11 month old are both huge fans of this toy.
+The 2 year old loves the idea of having her own flashlight and loves the fact that the light makes pictures of animals on the wall.
+She is the sole member of our house that likes the noises the toy makes.Pros:-Durable-Provides educational value - you can take it outside at night or you can practice identifying the shadows it makes-Long battery lifeCons:-Sound cannot be disabled.
+The switch on the lantern simply allows you to have the sound on all the time or when the button is pushed (and believe me the button constantly gets pushed).Overall I would recommend this toy simply because it has lasted as a favorite in our house over the last couple of months.
+It has successfully taken quite a beating with no signs of ill damage.
+The sound issue has forced us to keep it put away separately to ensure it doesn't get played with during nap or quiet times, but other than that it's been fun for both girls.
+We recently set up a tent in a spare bedroom so our son (age 6) could have something of a camping adventure indoors, so I was happy to be able to try out this Campfire Kids Lantern to light things up a bit.
+It's a relatively small plastic lantern toy that requires (and includes 3 AA batteries) to produce a muted LED light and a range of wilderness sounds (crickets, a wolf, etc.
+).The good - While it could never be used as an actual camping lantern, the Campfire Kids Lantern has the perfect amount of light for an indoor situation.
+It's bright enough to offer some reassurance to kids who might be scared of the dark, but not so bright that they can't fall asleep.
+There are also some designs on the plastic so that if you set the Lantern next to a wall you can see animal silhouettes.
+That doesn't quite work in the tent though.
+It also has a decent battery life.The not so good - My main gripe is that while it's possible to have the light without the sounds, it's not easy to figure out how that works.
+The main buttons, including the one kids are going to go for 99% of the time, trigger the sounds, which get really annoying, really quickly.
+The Lantern also seems a bit flimsy.
+I don't see it surviving long around kids who play rough.I probably wouldn't recommend the Campfire Kids Lantern at full retail, but if you catch it on sale it is well worth picking up as a fun alternative to the standard wall night light or for indoor camping setups.PS - If your kid is at all into superheroes, don't be surprised if this gets repurposed as a Green Lantern power ring battery almost immediately!
+"This lantern is so much fun.
+My granddaughter has a tent attachment for her bed so this just adds to her play camping experience.
+The lantern looks like a ""real"" lantern but is safe for kids to use in their room.
+The LED light makes it so the lantern does not get hot.
+This lantern makes fun sounds: wolves and owls and frogs, oh my!
+You can choose to turn the sounds off or on.
+There are animal pictures etched in the ""glass"" light cover.
+I am sure that on the next real camping trip the family takes this toy will also go along.
+Also available is a play tent and a play campfire.
+If I were to go shopping for a play lantern I would pick this one over others just for all the fun qualities it possesses."

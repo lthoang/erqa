@@ -1,0 +1,119 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+is it compatable with I pad mini
+Top sentence(s):
+All in all very fun but the ipad integration could have been thought out more.
+Thankfully the next time we played he chose college, because he wanted to earn more money.
+The little peg people graphics are bright and appealing, and it's fun to see what type of options the game will allow you to choose from.
+However, since we had to adjust game play when the wrong selection was made, it kind of all evened out in the end.
+Everyone enjoyed this from our 7 year old up to the adults.
+
+Question attention weights:
+0.2728738486766815,0.7271261811256409
+Sentence attention weights:
+0.011655023321509361,0.010252530686557293,0.010125470347702503,0.01087712962180376,0.01158182229846716,0.010000924579799175,0.007964998483657837,0.01078251376748085,0.006809405982494354,0.008851438760757446,0.008667727932333946,0.008175654336810112,0.011655023321509361,0.010704640299081802,0.010578008368611336,0.011187897995114326,0.011345533654093742,0.008450960740447044,0.006175684276968241,0.009915574453771114,0.011862650513648987,0.012213040143251419,0.007232439238578081,0.005122995004057884,0.010116489604115486,0.011851772665977478,0.011036730371415615,0.01206502690911293,0.00963993277400732,0.01206502690911293,0.012045158073306084,0.00801089871674776,0.007186160422861576,0.009683199226856232,0.009150320664048195,0.011483753100037575,0.008372676558792591,0.007249848917126656,0.00729322200641036,0.00585361709818244,0.01262254174798727,0.0075185527093708515,0.00508621521294117,0.01277211494743824,0.01191527396440506,0.009759093634784222,0.011986684054136276,0.012128885835409164,0.01003490574657917,0.011043415404856205,0.011900991201400757,0.0083234254270792,0.011883482336997986,0.00954176764935255,0.011833060532808304,0.011194456368684769,0.011013144627213478,0.009090571664273739,0.011921459808945656,0.011169691570103168,0.0077785649336874485,0.0072210729122161865,0.010960209183394909,0.011015290394425392,0.00947569590061903,0.011733745224773884,0.014614112675189972,0.012051788158714771,0.011011076159775257,0.011695628054440022,0.010161359794437885,0.011899895966053009,0.011330396868288517,0.012051788158714771,0.006489936728030443,0.007842544466257095,0.00911977980285883,0.007400020025670528,0.011732356622815132,0.00921716634184122,0.010216686874628067,0.01007533073425293,0.008414817042648792,0.005797524005174637,0.012113976292312145,0.006564436014741659,0.011953519657254219,0.008446899242699146,0.01394689455628395,0.011302541941404343,0.013021362945437431,0.009181415662169456,0.01103022787719965,0.0058962455950677395,0.011211789213120937,0.006200682837516069,0.009266066364943981,0.009679804556071758,0.011843323707580566,0.011001374572515488
+0.012476093135774136,0.010944914072751999,0.010076049715280533,0.011311489157378674,0.01233756635338068,0.010268906131386757,0.007019660901278257,0.01161634735763073,0.006259980611503124,0.008758924901485443,0.007759513333439827,0.008797219023108482,0.012476093135774136,0.011299874633550644,0.011305616237223148,0.011432360857725143,0.011528789065778255,0.006716051604598761,0.005145066883414984,0.009316710755228996,0.012270755134522915,0.01316194236278534,0.007032541558146477,0.004238936118781567,0.011337939649820328,0.012687663547694683,0.00886497087776661,0.01299604494124651,0.00947467889636755,0.01299604494124651,0.012979835271835327,0.007680607959628105,0.005990974605083466,0.010076052509248257,0.009818946942687035,0.010523597709834576,0.007161101326346397,0.006212943233549595,0.006088474299758673,0.005134765524417162,0.013689983636140823,0.0060693323612213135,0.004733595531433821,0.013672608882188797,0.012110480107367039,0.0077333333902060986,0.012288943864405155,0.012958434410393238,0.009085648693144321,0.01185320969671011,0.012715855613350868,0.00647205812856555,0.012415612116456032,0.008746669627726078,0.01272842288017273,0.011178619228303432,0.009946370497345924,0.007504244800657034,0.012755731120705605,0.01184826623648405,0.007889176718890667,0.006025193724781275,0.010821772739291191,0.011785782873630524,0.009080997668206692,0.01263193879276514,0.014621729031205177,0.0130005469545722,0.011087385937571526,0.012265228666365147,0.010260342620313168,0.011695806868374348,0.012287589721381664,0.0130005469545722,0.00501837395131588,0.007131444290280342,0.009988161735236645,0.0067309304140508175,0.011295723728835583,0.008757145144045353,0.009978148154914379,0.010227379389107227,0.00720773171633482,0.0048952605575323105,0.012759283185005188,0.005725167691707611,0.012824405916035175,0.009807264432311058,0.015217834152281284,0.011737163178622723,0.013179821893572807,0.009754467755556107,0.010867384262382984,0.005195579957216978,0.011883723549544811,0.005080145783722401,0.009461581707000732,0.01072554849088192,0.012643531896173954,0.011369244195520878
+Questions:
+is it compatable with I pad mini
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+"This just came in today and I couldn't wait to play it!
+The app was easy to download and easy to use.
+I played against my 5 year old son.
+He didn't have any problems with how to play.
+He even caught me making a few mistakes!
+He understood the choices at each STOP space.
+He picked up really quickly how to look at the space to see if you're supposed to touch something on the app for video content.
+I'm not at all ashamed to say he soundly beat me.I like that there are videos from AFV, but was a bit concerned that two we watched had words bleeped out.
+I was also concerned that you are allowed to have same gender partners at the ""Get Married"" space.
+(This is not personal politics, just something about which my son isn't aware and we're not really ready to explain it yet.)
+I thought it was interesting that a boy with a brother chose to have two daughters when given the choice!I really like that the app doesn't allow wimpy spins.
+My son tried to make it spin a 10 once and it didn't allow it!All in all, we had a lot of fun and I've already told my husband we're playing when the boys go to bed!As I was putting my son to bed, I asked him if he had fun and he said, ""yes, momma.
+Can we play again tomorrow?""
+I think we will.After the boys went to bed, I played with my husband.
+It only took us 20 minutes to play, but we laughed through it all.
+The AFV clips were all different and were pretty funny actually.
+The Game of Life is one of my favorite board games.
+I love how amazing technology has made my favorite games - first there was the actual board game, then the Nintendo Wii version, and now the iPad incorporated version.
+This version is super easy to get started, you use the same cars, pegs, and money but instead of a spinner in the middle you use the iPad.
+You set up each player by choosing a name, sex, hair and accessory.
+Then you start spinning on the iPad and it walks you through the game.
+It is amazing how it knows certain things about where you are in the game, like how it remembered I choose college and displayed a graduation ceremony.
+There are little video excerts througout the game featuring America's Funniest Home videos, which are a funny twist on the game.In the game, you go through college, choose a career, get married, have kids and so forth but you get to see clips on the screen.
+My favorite feature, other than the cool spinner, is that with the touch of a button you can flip the screen so the person (or people) on the other side of the board can see the iPad comfortably without moving around the iPad.
+I was even able to keep out case on as it wasn't in the way.
+So far I have just played this with my husband as my kids are too young but I think it could be really fun with four players!
+The screen graphics is amazing with bright colors and fun characters, although the videos are television quality.Overall, if you are looking for a way to spice up your family game night and you own an iPad, The Game of Life: zAPPed Edition for iPad is perfect!
+We absolutely love playing Life this way.
+You play with your iPad and there are a few simple ways to identify your peg, like a hairstyle or accessory.
+You can name your peg.
+The kids love this part.
+You earn virtual life tokens through out the game by landing on some of the application spots.
+There are squares that you need to stop on in order to choose your paths in life and watch short videos or animation of getting married or welcoming children.
+There are bonus games and lawsuits and funniest home videos.
+The kids absolute favorite part of the game is that at the end you get to see the life you created during the game, your family on the sofa with pictures of their life together on the wall behind them and tokens of their life achievements around them.
+We can save their 'family' portraits to the iPad and later post them on facebook or msn, or cloud to show family and friends.We have played this version of life so much since we got it we are just dying to get more iPad games.
+This past Sunday we had rain all day and we played The Game of Life: zAPPed Edition for iPad all day and I mean all day.
+The game was easy to set up, and we had no problem downloading the app to the Ipad.
+It had been years since I had played the original board game, but for the most part this game was very simple, albeit more controlled than the traditional version.
+You can make the standard choices, college vs. career, family or not, etc...
+The little peg people graphics are bright and appealing, and it's fun to see what type of options the game will allow you to choose from.
+The game was fairly simple, although I wish there had a been an 'oops' option if someone selected the wrong color tab on the Ipad; the kids seem real eager to make the selection and aren't always as careful as an adult might be.
+The Ipad also doesn't keep track of the money, which I find odd.
+However, since we had to adjust game play when the wrong selection was made, it kind of all evened out in the end.
+I think it's a neat modern twist on an old game and it'll definitely appeal to kids who love technology.
+Each of our games seemed to last about an hour, so it's not the quickest game out there, but there's a wide variety of options so you won't be bored if you play it again and again.
+Overall, my spouse and I agreed that we preferred the older version, but our 9 year loved the fact that the Ipad was incorporated into the game play and has asked to play it repeatedly.
+I thought this would be fun to re-engage the preteens in the household who spend so much time on screens, but I was wrong.
+It took a fun game that was people interacting with people and replaced it with people interacting with an iPad.
+So perhaps it is fun, but it is just another iPad game and not a family game.
+My kids spend enough time watching videos and they don't need another excuse.
+This is a pretty fun concept - combining the fun of a board game (to be enjoyed by a group of people) with the technology of an iPad.You basically play the board game while interacting with the iPad, using it to select your career, honeymoon, which path to go on (family or other), etc.
+When you land on a certain type of space, you tap that button on the iPad and it tells you what to do.
+It also includes video clips from America's Funniest Home Videos that go along with what's happening in the game.I enjoyed playing this game.
+I think I would have given it more stars if I actually LOVE the Game of Life.
+I love board games, but this one does not rank super high on my list of favorites (too much chance, not enough strategy).
+But, my young son loves it and it was a fun game to play as a family.A couple of things bugged me about this game - if the iPad is involved anyway, I thought it would be a lot neater if the iPad actually kept track of the money along with you - but it doesn't.
+Also, it bothered me that when you get married, a screen pops up on the iPad to select who you want to marry - male or female.
+As a reviewer, I think that is something you should be aware of before purchasing this game for your family.Overall, this is a fun concept.
+I hope they make similar versions of other (more fun) games in the future.
+"My family and i have played this game several times now, and overall we really like it, especially my 7 year old son.
+For those of you who have played the original Game of Life, the only difference is that the spinner is now the ipad, which you actually use your finger to flick and there are no cards for life tokens, careers, and i believe that's it(haven't played the original in several years) It is much easier to manage since the only thing you have to worry about are moving your cars and handling money.
+I remember in the original my cousin ended up having 10 kids and needed two cars to hold them all, unfortunately that sort of hilarity is impossible here, the game knows how many kids you have, and therefore keeps in controlled so that you can only have what fits in your car, which some may or may not like.
+In other ways you can tell that this version is much more controlled than playing the original board game.
+My son was surprising all of us with some of his ""life choices"", he chose to have a career instead of go to college, he wanted to have kids right away, and he would get excited each time he got a new baby!
+it unsettled me a little bit and i didn't know if i could handle playing with him again.
+Thankfully the next time we played he chose college, because he wanted to earn more money.
+All of his choices were thought about deeply, it freaked me out.
+Who knows, but i think this game can give you some insight into what goes on in your little ones head!
+This game was too much for my 4 year old though.
+She couldn't handle not being able to control most of what happened and i think she should wait another year or two.
+The only downside i see to this game is it takes FOREVER.
+A typical game usually takes us an hour to get through.
+So be prepared for the long haul."
+The iPad add helps make gameplay a bit easier in terms of the turns after getting used to it, especially with younger children (5 year old) but the videos get a bit tiring as they cannot be skipped.
+Good implementation of physical to digital bridging.
+The App is free, but is a large file (probably due to the America's Funniest Videos)
+I'll start by saying I've tried, on multiple occasions, to get my kids (ages 7,8 and 10) to play the old fashioned Life board game.
+They like the idea and enjoy it - but only for about 20-30 minutes before it really starts to drag.
+It's tough to even start a game you know will require their focus and an hour to play.Enter the zAPPed version of the game!
+The iPad interface engages the kids, navigates you through the play and makes the overall experience much more interactive.
+The videos are a minimal addition that don't add much, but the kids liked them and they keep them focused on the game so I guess it's worth it!
+The guidance the app provides really streamlines things.
+The options to choose wedding type, baby gender and other silly graphics that get added to your avatar were very entertaining to the kids.Overall they loved it and I enjoyed it and avoided the headache usually involved in forcing my kids to play something I used to play!
+"This was a very fun game, the ipad integration could be more ""integrated"" though.
+You play the gam with the board and pieces as usual, you just use the ipad for certain stops in the game (where it says ""app"").
+And then you get a video treat, etc.
+It features video's from the TV show.
+All in all very fun but the ipad integration could have been thought out more.
+You can actually play it entirely without the ipad if that gives you a better idea."
+Everyone enjoyed this from our 7 year old up to the adults.
+The app was seamless and it's easy to use.
+While not the greatest game on the planet, it's a nice way to get everyone into the same activity - especially if the kids are more technologically inclined.
+"This is a pretty cool idea to MASH up a board game with the techy side of games and using an ap to enhance the game play.You will still need to hand out your money and move your game piece on the boards, but you can earn some extra $ by doing some memory games if you land on a pay day.
+You get virtual life tile throughout the game that you may be asked to give to another player instead of keep.
+They have changed the ""milestone"" stops a little to make it fresh and not just regurgitated the old classic board.I do wish there was at least a divided money holder to use during the game, and though the game board itself was a bit cheap looking-  no nice edging so you can see the cardboard center.I played this with my 11 and 4 year old and they both LOVED the game, and  AFV videos.
+I thought the AFV videos were cute but nothing super special.
+I enjoyed the cutsie animations for our peg families a bit more!
+The money counter at the end with the iPad was pretty genius for a kid friendly family game!
+!The 4 year old is begging to play again, and picked up very easily what he was supposed to do.Edited to add- my 4 year old can not get enough of this game, and can always find someone willing to play!"

@@ -1,0 +1,205 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+May I know item box dimensions?
+Top sentence(s):
+Win win situation for me!
+I love the little basket holder too!
+I think this is great deal for the money.
+You'll need a screw driver to put this together, but it doesn't take long.
+It is a 5-star ride on toy and I am excited to see in the future if it does the scooter thing just as well.SUPER CUTE AND WELL MADE!
+
+Question attention weights:
+0.23520568013191223,0.11963514983654022,0.17237058281898499,0.1869518905878067,0.2858366370201111
+Sentence attention weights:
+0.0029820622876286507,0.007169545162469149,0.007094281259924173,0.006021331995725632,0.007169545162469149,0.003080070484429598,0.005974530708044767,0.006118727847933769,0.008013438433408737,0.005141801666468382,0.004348672926425934,0.007142874412238598,0.004466499201953411,0.007465303875505924,0.0041462332010269165,0.0045370361767709255,0.008207835257053375,0.007991536520421505,0.006089702248573303,0.007425201591104269,0.0017376673640683293,0.004491511732339859,0.005579792428761721,0.0032625060994178057,0.0067960177548229694,0.0030738150235265493,0.003470582654699683,0.006940660998225212,0.0028041305486112833,0.0038165347650647163,0.007402598392218351,0.0054196566343307495,0.004499504342675209,0.005786577705293894,0.007734791375696659,0.0033034426160156727,0.007161405403167009,0.004493917804211378,0.0059273382648825645,0.0073727755807340145,0.005746553186327219,0.006865981034934521,0.005995539948344231,0.006220783106982708,0.004638669081032276,0.0035691370721906424,0.005704800598323345,0.0038408851251006126,0.006691645365208387,0.0070227268151938915,0.0017425420228391886,0.005643708631396294,0.006241063121706247,0.004126847721636295,0.006160286720842123,0.006826701108366251,0.0066827465780079365,0.004685203544795513,0.0068233017809689045,0.0061020501889288425,0.0033072810620069504,0.005949606187641621,0.007036916445940733,0.0043246690183877945,0.005787324160337448,0.005762198939919472,0.0071461014449596405,0.0032972972840070724,0.0030852830968797207,0.00318486662581563,0.007312514819204807,0.006486841011792421,0.004485936835408211,0.004951006267219782,0.006818029098212719,0.004515456035733223,0.0050035277381539345,0.003806130262091756,0.004679275210946798,0.003387118224054575,0.005332143045961857,0.0025443718768656254,0.006883285008370876,0.00755590433254838,0.003907485399395227,0.007324405945837498,0.005190640687942505,0.004493223037570715,0.006392782554030418,0.0020464013796299696,0.0037251077592372894,0.008270763792097569,0.00612553209066391,0.003968667704612017,0.003250853857025504,0.0065273744985461235,0.009233128279447556,0.0027542365714907646,0.006984976585954428,0.0075420234352350235,0.006033205892890692,0.005496112164109945,0.007209141738712788,0.005770488176494837,0.006783307529985905,0.003177063539624214,0.007019630167633295,0.005251198075711727,0.005128831136971712,0.006749941501766443,0.006442008540034294,0.0056509836576879025,0.008096440695226192,0.00663976464420557,0.0039438530802726746,0.00418049143627286,0.007245954126119614,0.0060652694664895535,0.006162334233522415,0.007381822913885117,0.006495568435639143,0.0073542166501283646,0.006101549137383699,0.005952363833785057,0.003072989173233509,0.007702977396547794,0.0038609348703175783,0.0021641086786985397,0.007588029373437166,0.008099372498691082,0.0019836961291730404,0.007587490603327751,0.004977580159902573,0.007300924975425005,0.006793810985982418,0.0049609411507844925,0.0051169628277421,0.006506672129034996,0.005878624506294727,0.00840633176267147,0.005343779921531677,0.007049081847071648,0.00715224863961339,0.005241071805357933,0.0026777477469295263,0.0066216434352099895,0.007453592028468847,0.0038018543273210526,0.005618698429316282,0.0075685568153858185,0.005949771031737328,0.005592417437583208,0.0032754428684711456,0.004806626122444868,0.007357349153608084,0.0027394096832722425,0.0070150368846952915,0.0055758170783519745,0.004627964925020933,0.0032200426794588566,0.008868216536939144,0.0042295209132134914,0.00505391601473093,0.002678982447832823,0.0019895739387720823,0.007115338928997517,0.006620936095714569,0.0038347397930920124,0.00844249501824379,0.006662536412477493,0.008294166065752506,0.00447599682956934,0.004950344562530518,0.003685790579766035,0.00528974924236536,0.0051160166040062904,0.005531691946089268,0.006746410857886076,0.0029096058569848537,0.007109517697244883
+0.003441765671595931,0.006801112089306116,0.006796678062528372,0.005688612814992666,0.006801112089306116,0.00289601250551641,0.006179950200021267,0.005686801392585039,0.007050030864775181,0.005298707168549299,0.005621535703539848,0.00601849053055048,0.005029658786952496,0.006868745665997267,0.004626104608178139,0.0051633319817483425,0.007114858832210302,0.0069413254968822,0.006126826163381338,0.0068257576785981655,0.0024876531679183245,0.005779386498034,0.005737615283578634,0.004040658939629793,0.006684469990432262,0.003829489229246974,0.004042142536491156,0.0066359275951981544,0.0030976219568401575,0.003918677102774382,0.006716425064951181,0.006190787069499493,0.0045817336067557335,0.006080816499888897,0.007527645211666822,0.003448845585808158,0.006698391400277615,0.004844863899052143,0.006184047088027,0.0070495400577783585,0.005430425051599741,0.006626672577112913,0.005500770639628172,0.005774874705821276,0.004800273571163416,0.004180761054158211,0.005893842317163944,0.004463451448827982,0.006466100458055735,0.006888343952596188,0.002301991917192936,0.00613588560372591,0.006641113664954901,0.004314257297664881,0.005930796265602112,0.006766663398593664,0.0066691008396446705,0.004747476428747177,0.007073644548654556,0.005956287030130625,0.003371833125129342,0.005779774393886328,0.00667819008231163,0.004322492051869631,0.005895306821912527,0.006198713555932045,0.007271848618984222,0.003535218769684434,0.0035087589640170336,0.002950874390080571,0.00641298945993185,0.006288125645369291,0.004432314541190863,0.005111654754728079,0.006780844647437334,0.00512439850717783,0.005548143293708563,0.0033669935073703527,0.005195626989006996,0.0029688391368836164,0.005197641905397177,0.0040468014776706696,0.007139238994568586,0.006574847735464573,0.003760196268558502,0.006792847998440266,0.004720556084066629,0.004578534979373217,0.006616734433919191,0.0023159824777394533,0.004784948658198118,0.007662076503038406,0.006176140625029802,0.004331252072006464,0.003354640444740653,0.005546496715396643,0.006640788167715073,0.0030781093519181013,0.006447784136980772,0.006879938300698996,0.006146893836557865,0.005573625676333904,0.0067377472296357155,0.0060577248223125935,0.006628635339438915,0.003651990322396159,0.006661227438598871,0.005871279165148735,0.005212257616221905,0.006414630450308323,0.0061601814813911915,0.005900741089135408,0.0073649282567203045,0.0072820596396923065,0.0035116879735141993,0.005714383441954851,0.0067964885383844376,0.006129952613264322,0.0058296965435147285,0.007319142576307058,0.005806399043649435,0.006590934935957193,0.0062139336951076984,0.006049895193427801,0.003526561427861452,0.006691106129437685,0.0045734248124063015,0.002996866824105382,0.006905112415552139,0.007086977828294039,0.0021779495291411877,0.007293056230992079,0.005853564944118261,0.006994003430008888,0.0074321795254945755,0.005318706389516592,0.004602682776749134,0.0063498904928565025,0.006978319026529789,0.007300971541553736,0.00582038564607501,0.00672333175316453,0.006766059901565313,0.004314674995839596,0.0036159034352749586,0.006898048333823681,0.0075100259855389595,0.00387783395126462,0.0060196686536073685,0.007425886578857899,0.006210578605532646,0.005925420671701431,0.0030691747087985277,0.004875911399722099,0.009108723141252995,0.002734583104029298,0.0068411557003855705,0.00605001300573349,0.004639806691557169,0.004266749136149883,0.006823530420660973,0.004930572118610144,0.004687247797846794,0.0028404216282069683,0.0021549477241933346,0.006762837991118431,0.007049630396068096,0.0035939477384090424,0.007643749006092548,0.00685014808550477,0.007499441038817167,0.005673462990671396,0.004280037246644497,0.004050668329000473,0.0048653134144842625,0.005231887102127075,0.005770181305706501,0.005695617292076349,0.004332736600190401,0.006356471683830023
+0.0035465180408209562,0.006931984331458807,0.006717650685459375,0.005689163226634264,0.006931984331458807,0.003380142617970705,0.005868335720151663,0.005956903100013733,0.007274537812918425,0.005198544356971979,0.004424192942678928,0.006881904322654009,0.004671336151659489,0.007133845705538988,0.0046632373705506325,0.004652160685509443,0.0070446147583425045,0.007343433331698179,0.00615803012624383,0.0070751435123384,0.0025551929138600826,0.005207335576415062,0.005574084352701902,0.003429694101214409,0.006600615568459034,0.003340089460834861,0.003925700671970844,0.006873493082821369,0.0030116832349449396,0.0040772464126348495,0.006830847822129726,0.005634360481053591,0.005261214915663004,0.005875003524124622,0.007353525608778,0.0036649121902883053,0.006886743009090424,0.004707359708845615,0.005929787177592516,0.007236539851874113,0.005581715609878302,0.006711389869451523,0.005944510456174612,0.006207800470292568,0.0046775187365710735,0.004251868464052677,0.005871118512004614,0.003833031514659524,0.006611414719372988,0.006891443859785795,0.0023973535280674696,0.005709975957870483,0.006176732014864683,0.00439629377797246,0.006035908125340939,0.007108415476977825,0.006776534952223301,0.004744335543364286,0.006671414244920015,0.006419164594262838,0.003971396014094353,0.006085211411118507,0.0068510654382407665,0.004249461926519871,0.005717806983739138,0.005909693893045187,0.006599689833819866,0.0037927492521703243,0.0037209459114819765,0.0033689618576318026,0.00678688008338213,0.006281116046011448,0.004165307618677616,0.005429074168205261,0.006778393406420946,0.004656094592064619,0.005045964382588863,0.0038257918786257505,0.005044391844421625,0.003683381946757436,0.0056036897003650665,0.003232409246265888,0.006698654033243656,0.0071258544921875,0.0039911456406116486,0.006994498427957296,0.005211572628468275,0.004931498318910599,0.00667528947815299,0.0023899602238088846,0.003659935435280204,0.007645837031304836,0.006264354567974806,0.004188778344541788,0.0037598691415041685,0.0064576175063848495,0.007946985773742199,0.0034788085613399744,0.006725973915308714,0.0072152079083025455,0.006004101596772671,0.005607775878161192,0.006941634695976973,0.00574229983612895,0.005817960482090712,0.003618439892306924,0.006631792522966862,0.005344027653336525,0.005170609336346388,0.006462209392338991,0.0063119553960859776,0.005919621791690588,0.007591365836560726,0.006710732355713844,0.003825192339718342,0.004470850341022015,0.006969422567635775,0.006211474537849426,0.006227803882211447,0.007007746957242489,0.006386911030858755,0.006798299495130777,0.0064456346444785595,0.005931819323450327,0.0036341643426567316,0.007369517348706722,0.004228724166750908,0.0027973917312920094,0.00732269836589694,0.007617018185555935,0.002741848351433873,0.007327056955546141,0.004706424195319414,0.007063297089189291,0.0063776071183383465,0.004749634303152561,0.005211725365370512,0.006288015283644199,0.005328755360096693,0.007888487540185452,0.005364966578781605,0.006857521831989288,0.006929791532456875,0.0049581704661250114,0.0033076393883675337,0.006230405066162348,0.006762497127056122,0.0038759582675993443,0.005836893804371357,0.006733707617968321,0.00595128582790494,0.005699073430150747,0.003283753525465727,0.0050379992462694645,0.00694238068535924,0.003278911579400301,0.006813041865825653,0.005854680668562651,0.0047029186971485615,0.003929675091058016,0.008200797252357006,0.004201734438538551,0.004826855380088091,0.003159703454002738,0.0028548657428473234,0.006885457318276167,0.006704792380332947,0.0040010809898376465,0.007807801011949778,0.006271471735090017,0.0077725970186293125,0.0046948036178946495,0.0055907233618199825,0.0038814679719507694,0.005271511618047953,0.00508007500320673,0.005861448124051094,0.006587643176317215,0.003631532657891512,0.006861973088234663
+0.002400526311248541,0.006701314821839333,0.007776489481329918,0.00680970773100853,0.006701314821839333,0.003228337038308382,0.00666080741211772,0.0062858168967068195,0.008806454949080944,0.005565367639064789,0.005128368269652128,0.006218233145773411,0.004611647222191095,0.007139671128243208,0.0033787433058023453,0.006380094215273857,0.010747946798801422,0.009390659630298615,0.00578643474727869,0.007196095306426287,0.0008972820942290127,0.0030792374163866043,0.005935000721365213,0.004675820469856262,0.006683912593871355,0.003621743293479085,0.0025399327278137207,0.005954724736511707,0.003142073517665267,0.0035734877455979586,0.008021804504096508,0.004713728558272123,0.0033891024067997932,0.005779386963695288,0.007138280663639307,0.0027210877742618322,0.006821579299867153,0.004505034536123276,0.005924683064222336,0.006229900289326906,0.006217662710696459,0.006359255872666836,0.005560190416872501,0.006182248238474131,0.005693894810974598,0.002503639319911599,0.005038395058363676,0.00569571927189827,0.006107503082603216,0.006672941148281097,0.0011368341511115432,0.0052277687937021255,0.005894521716982126,0.004216636531054974,0.00608720863237977,0.004963242448866367,0.005647071171551943,0.004794416017830372,0.006497812923043966,0.005153504200279713,0.002083820989355445,0.004937187302857637,0.006470412481576204,0.00544288195669651,0.006015692371875048,0.005412348546087742,0.009045579470694065,0.0026177812833338976,0.0022846306674182415,0.003557276213541627,0.007196757942438126,0.006733453832566738,0.0072026983834803104,0.003935641143471003,0.006040941923856735,0.004633103962987661,0.005760060623288155,0.005116719286888838,0.004226423799991608,0.0032473760657012463,0.004254847299307585,0.0015936334384605289,0.00615618284791708,0.006606853101402521,0.005602013785392046,0.006885101553052664,0.005640730727463961,0.0035294725093990564,0.005468396004289389,0.00246877851895988,0.005977432709187269,0.008264395408332348,0.005313325673341751,0.00401099631562829,0.0022881540935486555,0.005311946384608746,0.011582530103623867,0.0018791134934872389,0.006841418333351612,0.007219010032713413,0.005567621905356646,0.005293599795550108,0.006844908930361271,0.006164677906781435,0.01194014959037304,0.002750611864030361,0.007212689612060785,0.005143884103745222,0.004608535673469305,0.00671566603705287,0.005983717739582062,0.004747849423438311,0.008371816948056221,0.005177525337785482,0.005163030233234167,0.004914307966828346,0.006912785582244396,0.005365002900362015,0.005431074649095535,0.007514482829719782,0.0057680606842041016,0.009840491227805614,0.0047378395684063435,0.005162102170288563,0.0021991052199155092,0.006540100090205669,0.0034793103113770485,0.0012532055843621492,0.006719707977026701,0.008726872503757477,0.0011051807086914778,0.007288552355021238,0.007211681455373764,0.006790053099393845,0.008521607145667076,0.005987365264445543,0.0053270780481398106,0.00616758456453681,0.008875912986695766,0.008149046450853348,0.006056077312678099,0.006506019271910191,0.006644912529736757,0.006067459471523762,0.0017168126069009304,0.008658992126584053,0.009226716123521328,0.004506751894950867,0.005250811111181974,0.008804372511804104,0.005933638196438551,0.004923139698803425,0.004554525017738342,0.004372032359242439,0.009197555482387543,0.002201999770477414,0.006766240578144789,0.004918018355965614,0.004833433777093887,0.002043729415163398,0.009617303498089314,0.006051474250853062,0.005673243664205074,0.002014936413615942,0.0009500642772763968,0.006754334084689617,0.005059056915342808,0.004113755654543638,0.008553733117878437,0.006965732667595148,0.008520015515387058,0.0045747398398816586,0.0040203542448580265,0.004001579713076353,0.0057275923900306225,0.005202421918511391,0.004964664578437805,0.006446850951761007,0.0025589019060134888,0.006603841204196215
+0.0031536498572677374,0.0073529938235878944,0.00686017656698823,0.005835179705172777,0.0073529938235878944,0.0029514434281736612,0.005761284381151199,0.006064855959266424,0.007655210793018341,0.004977831616997719,0.004006652161478996,0.007461982779204845,0.0042516873218119144,0.007599614094942808,0.004309663083404303,0.0039411308243870735,0.007521259598433971,0.007491295225918293,0.006116483360528946,0.007517756428569555,0.002042795531451702,0.004876420367509127,0.005506802815943956,0.0028684502467513084,0.006821677088737488,0.002873257966712117,0.0038094588089734316,0.00707409018650651,0.002748749451711774,0.00375448283739388,0.0071715074591338634,0.005636883433908224,0.004767596255987883,0.005757736973464489,0.007955802604556084,0.0034866270143538713,0.007314804010093212,0.004465832374989986,0.005922704003751278,0.007802462670952082,0.005620282143354416,0.007064420264214277,0.006140698678791523,0.006231646053493023,0.004374595824629068,0.003909044899046421,0.005956115201115608,0.0032922050449997187,0.006908457726240158,0.007162424270063639,0.0019027367234230042,0.0056742471642792225,0.006323449779301882,0.004035315476357937,0.006228516809642315,0.00749932648614049,0.007037444971501827,0.004677191376686096,0.00695935171097517,0.006347779184579849,0.0038025903049856424,0.006324490066617727,0.007262664847075939,0.004048852249979973,0.005694032646715641,0.005847330670803785,0.006555733270943165,0.003576997434720397,0.003296493785455823,0.0031223883852362633,0.007389416452497244,0.0063332016579806805,0.0037648272700607777,0.005353419575840235,0.007079333532601595,0.004458247683942318,0.004799790680408478,0.0033352705650031567,0.004766831174492836,0.0033243251964449883,0.005672764498740435,0.002888802206143737,0.007103280629962683,0.00785314105451107,0.003393014892935753,0.007484130095690489,0.004830061923712492,0.0047876848839223385,0.006707801483571529,0.0018101384630426764,0.0031841446179896593,0.008303852751851082,0.006468143314123154,0.003915705252438784,0.003592085326090455,0.006953809410333633,0.008422466926276684,0.0031212784815579653,0.007058612536638975,0.007665627636015415,0.006238932255655527,0.005538224708288908,0.007358551491051912,0.005648591089993715,0.005521609913557768,0.0032024269457906485,0.006924574729055166,0.005233366973698139,0.0052693127654492855,0.006816415581852198,0.006553784944117069,0.005853830371052027,0.007960036396980286,0.007173623889684677,0.0036415380891412497,0.003854949725791812,0.0073891798965632915,0.00628908583894372,0.006439100485295057,0.00730688963085413,0.006712882313877344,0.006603703834116459,0.006589146330952644,0.006231735460460186,0.003389587625861168,0.008124493062496185,0.003938289359211922,0.002495944732800126,0.007884956896305084,0.007789454888552427,0.0023496185895055532,0.007696730550378561,0.0043049827218055725,0.00740572577342391,0.006167375482618809,0.004600237589329481,0.005056739319115877,0.0067080482840538025,0.005094556603580713,0.008425675332546234,0.005087644327431917,0.007268236950039864,0.007352991960942745,0.0049994452856481075,0.0030302691739052534,0.005769313778728247,0.006858561187982559,0.0035807702224701643,0.005693287588655949,0.007019514683634043,0.0059515489265322685,0.005922399926930666,0.002934529446065426,0.005065907724201679,0.006625707261264324,0.002958141267299652,0.007056151516735554,0.005723476409912109,0.004547831602394581,0.0035989226307719946,0.00843969639390707,0.0037870313972234726,0.004955987446010113,0.002853916259482503,0.0023922498803585768,0.007273342926055193,0.006929885130375624,0.003700962755829096,0.008511743508279324,0.006626846734434366,0.008144634775817394,0.004470118787139654,0.005104421637952328,0.003508906112983823,0.005049532745033503,0.005181042943149805,0.0056873587891459465,0.006781245116144419,0.0029040162917226553,0.0073291766457259655
+Questions:
+May I know item box dimensions?
+What is this made out of? Is it plastic?
+Is the height of the handle bars adjustable when using as a scooter?
+has anyone had a problem with the steering of this scooter? I just got one for my 2 yr old and it just doesn't rotate.did I get a defected one?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+You can't go wrong with Radio Flyer products.
+They are all well made and provide years of fun.
+This toy is two toys in one and it is the best scooter I have seen for toddlers.
+I love that it is red, a great color for boys & girls.
+It takes a bit of time to assemble and is best done without the help of your little ones.
+We have several radio flyer toys and we really enjoy them.
+With limited space in our home and garage, I appreciate this toy for its versatility as it can appeal to multiple aged kids/ it can grow with a child.
+I especially love the basket as my kids are always wanting to bring something with them or collect things along the way.
+This is a pretty good ride-on toy for toddler.
+It's stable, easy for them to get on and off of, and it's got a little basket up front for their toys.
+I have twin two year old daughters and they've had a pretty good time riding around on this indoors.
+Because the wheels are plastic, I hesitate to take this outdoors.
+That's one of the main reasons I don't rate this well as a scooter, where you need more space than most people have in their house.The assembly takes about 30 minutes: if you've ever put one of their wagons together you have a pretty good idea about how it goes.
+Have a rubber mallet at hand.
+Converting from ride-on to scooter can be done without tools, but will need to be done by an adult or older kid.
+Overall a pretty good toy, just don't buy this for anyone 5 years or older and expect it to be the scooter they take to the park.
+The balance isn't that great, it can't corner well, and the wheels won't last.
+As a &#34;first scooter&#34; for someone 4 and under?
+Used mostly indoors or on a fairly smooth surface?
+Okay yeah, that would work.
+The &#34;Radio Flyer Ride 2 Glide Ride On&#34; I gifted to my son for his 3rd birthday.
+Recognizing the name Radio Flyer from a wagon I had as a child that held up well over time, I was convinced that this toy would probably be of good quality.
+Though I will say I had my doubts because of the fact this toy can convert two different ways (assuming that would wear it out fast) and it's not made out of metal like my wagon but of plastic.
+But after many days of gentle as well as rough play by my son, I'm pleased to announce that the Ride 2 Glide most certainly is holding up extremely well!The tools needed which aren't included to put this toy together are a hammer, wrench, and screwdriver.
+The illustrated instructions to completely construct the Ride 2 Glide were very simple to follow.
+Assembly was easy and took about 15-20 minutes total from start to finish to put the toy together.The only problem with construction was that there was a little excess metal on the end of the handlebar pipe that hindered putting it flush with the top with the handlebars.
+You can simply remedy this issue with a few whacks of a hammer, which you will need anyways, to flatten it.To convert the toy from a ride-on to a glide on, you simply raise the handlebar by twisting the bottom gray base and pull up.
+You move the seat to the front by easily pushing the back tab, lifting up, and snapping it into place on the front of the toy.
+The basket and the handlebar height can be moved up or down depending on you preference.
+It's all super simple to do in no less than 2-3 minutes.My son loves the Radio Flyer Ride 2 Glide Ride On.
+We've let him play with it indoors as well as outdoors.
+There hasn't been a day since the toy arrived and was gifted that he hasn't played with it!
+He often rides around with his toy hammer and trains in his basket off on some fantastical imaginative adventure.
+He's had no issues of maneuvering the toy and zero frustrations with use.This toy is fantastic because of it's two-in-one feature allows it to grow with your child.
+Your child can either ride on the toy or they can use it like a scooter from ages 1-4 years old.
+It's nice the toy has three wheels so no worries of balance issues.
+Be prepared to get out your tools!
+This items is not just a snap and go type of toy.
+It requires several tools to put together and some effort.
+However, once put together, it is really nice because it can be a ride-on toy or a glider.
+My son is two, so he uses it as a ride-on, and it is very smooth.
+The basket on the front is nice too because he can put his small toy cars in there while he rides.
+This is exactly the type of toy we like to invest in for our kids.
+I'm so sick of these cheap little play sets with a million pieces and parts that get lost and played with for a day or two and never enjoyed again.
+Then there are the classics, the toys that really count for something--building blocks, books, musical instruments.
+This Radio Flyer Glide Ride is a great idea that I think will last a while around here.This is a toddler toy, it's great for when your 1 or 2 year old first starts using those push/scoot toys.
+Very fun to ride on, small enough to use even around the house.
+but it also transforms into a steady scooter as your child grows.
+Thus, you get more use out of this toy, it lasts through a few different stages for little ones.
+That's great!I like the little basket addition on the front too.
+It comes in the classic Radio Flyer red.
+We have owned a few different Radio Flyer products with our three kids now, and we've enjoyed them all.
+There is some simple assembly with this one, but it took me no longer than 10 minutes to get going.
+The steering is a little tight, but the scooter is very sturdy too.
+It's a light weight enough item for my 2 year old to manage.
+The price point seems a *tad* high for me, but I do think this is a great toy that will make any toddler happy.
+This is such a fantastic investment.
+The versatility of this Ride 2 Glide is the key selling point really.
+My 3 year old likes to ride it as a &#34;motorcycle&#34; and then with a 30 second adjustment he can scoot away on it.
+The little basket is a great feature because kids love to load up baskets and having one on the handlebar allows them to take treasures along with them.
+The product is very durable and has been used daily at our house without any issues.
+It was really easy to put together and adjusts between the two types of toys in less than a minute.
+The wheels are solid and never require airing up.
+Cement won't damage or pull chunks out of the wheels either.
+We really like that the double wheels are in front.
+It makes the entire product more stable for little riders and also prevents them for trying to make dangerous turns.
+I think this is a great price for an excellent, long lasting, quality product.
+Radio flyer is one of those companies that restores faith that competence and attention to detail never goes out of style.
+Designed to serve both as a seated rider and a scooter, this economical toy can last a kid for years.
+The basket is certainly my favorite design feature, but I also like the double front wheel design, which helps kids develop the balance they'll need for &#34;adult&#34; scootering.
+What's not to love?
+My daughter loved this it is a as pictured well constructed and should work for a boy or girl.
+She prefers to use it in scooter mode she doesn't even look at her Disney Princess scooter any more it maybe sleeker looking, but this one is more fun.
+It's a little wide easier to stay on but not cumbersome she moves it with ease and the little basket is a big win.
+She puts toys in it, snacks, drinks whatever will fit.
+She is a slightly tall 4 and the manufacturer recommends ages 1-4, but I think even up to a 5 year old could appreciate this versatile fun toy.
+This is a clever riding toy that could easily provide a child with 3-4 years of use because of its adaptability.
+A very young toddler can do well sitting and scooting, and then a preschooler will be delighted to feel like a big kid with it configured as a scooter.
+It's a great size for my child but I do wonder if it might be a bit small for an average-to-tall 4-year-old.It took a bit of time to put together (perhaps 30 minutes at a slower pace with a 4-year-old &#34;assistant&#34;) but wasn't too hard.
+Transitioning from sit down to scooter configuration or vice-versa is fairly easy and doesn't disrupt playtime too much.It seems high quality and durable, and is plenty light enough for a petite mom to carry around the neighborhood if need be.
+I do wonder how the hard plastic &#34;tires&#34; will hold up after road use, but so far so good.
+We've purchased several Radio Flyer products over the years and have never been disappointed.
+This is another very very nice product that will be used for several years at least with our 20 mth old.Out of the box there a quite a few pieces, but the instructions are easy to understand and we had it put together in about 35 minute.
+(You will need a screwdriver, hammer and a small wrench).
+However, to convert it from a sit down-ride on to scooter is a cinch - no tools needed.Our little one loves this and can maneuver around very well.
+She loves the basket for small toys (and cheerios) - it's super handy and fun.
+Plan to convert to a scooter when we can go outdoors in Spring.So fun and well priced as well - Recommended.
+My son is 22 months and LOVES ride on toys he can propel with his feet.
+This is right up his alley.
+I think the styling is adorable and I am a sucker for nostalgia; my brother and I both had Radio Flyer wagons growing up.
+The lil basket on the front is great to tote around a toy or water bottle.We have not switched it to the scooter yet, but will update this post when we do.
+It is a 5-star ride on toy and I am excited to see in the future if it does the scooter thing just as well.SUPER CUTE AND WELL MADE!
+I got this for my 2 year old son.
+First, I'm always impressed with the quality of Radio Flyer products.
+We own theRadio Flyer Ziggle Ride Onand that thing is amazing!
+So like the Ziggle the parts are just as solid with metal and plastic.
+You'll need a screw driver to put this together, but it doesn't take long.
+Converting the Flyer from Ride to Glide takes little time, about a minute.
+The little basket is a great touch for kids who like to collect and carry things.
+My older son is 4 and he likes this just as much, more for the Glide ability, which I think is a great introduction for young kids.
+It's also very stable with lots of foot room.
+Overall this is a great addition to our kids outdoor adventure toys.
+Kids love baskets!
+They can carry around stuffed animals, dolls, and other toys everywhere they go!
+This is awesome because it's usable from beginning walker in the sit & glide stage and more experienced walker in the scooter stage.
+I was scared of scooters for my 17 month old daughter, and had NO plans to get her one ... ever ...  Because the idea of a scooter really scared me.I got this radio flyer and thought &#34;Ok, she'll have it as a bike, and maybe some day ... &#34;Well, my daughter has seen other kids on scooters, and somehow she figured that this toy could also be a scooter.
+I found her a few times standing on the seat, trying to scoot on this by shifting her weight.
+So I really had no choice but to take the seat off and convert it.
+At least that would be safer.I have to admit that although I still will always watch her when she's on this, using this scooter is far more intuitive to my toddler than I imagined.
+And it really seems far less dangerous.
+This is a solid and stable toy and my daughter loves it.
+She doesn't speed around on it ... it's more just cautious one-foot pushing at this point, but she's so happy as she does it.We didn't really get to use the rider version of this, but as a scooter it's just great.
+The basket is wonderful.
+She puts her favorite little doll in there.Really, just wonderful.Assembly wasn't too bad either.
+Slightly more annoying than super simple toys because you need a ratchet, but really mostly no-hassle.
+I have purchased several Radio Flyer items since my grandson arrived 6 1/2 years ago.
+Their products are well made and hold up well.
+My favorites have been the ones that arrive fully assembled.
+This one does need assembly.My son put this one together and it took him about an hour.
+His 2 1/2 year old daughter and 10 month old daughter were here at the time.
+When it was finished, they both had to try it out.
+The 2 1/2 year old tried it out as a scooter, but didn't seem to get the hang of it, but I think she will given more time.
+Both had fun with it in the ride-on position.
+The 10 month old also used it as a walker.Converting it between the two positions is pretty easy.
+When in the ride-on position, the seat pops off and goes in the front, after swiveling the basket around.
+You also have to pull the handle bar up to the higher position.
+There is a ring to turn near the base to do that.
+To put it back, pop the seat off the front and put it back in the seat location, swivel the basket around and lower the handle bar.
+This isn't something the younger kids could do.
+I have 7 grandkids all together, so I think this will get quite a workout as they come over and discover it.
+The Radio Flyer Ride to Glide is a great two for one product.
+I think the price is fair because you will a lot of use out of it for several years.I first assembled this as a ride-on toy.
+I originally thought I was missing three parts, but they were hidden in the seat compartment.
+It took me about 20 minutes to assemble.
+It rolls nicely on our laminate floors.
+It seems pretty sturdy as a ride on toy.I then converted it to the scooter which was surprisingly easy.
+Remove the seat, adjust the handlebars, and install on the front.
+The three wheels give toddlers the extra support they need.
+It didn't wobble, but the steering on the handlebars wasn't great.Overall I am satisfied and my toddler is too.
+I think this is great deal for the money.
+Overall, this is a cute 3-in-1 vehicle for young toddlers.
+The assembly is fairly simple, as long as you have a few basic tools to hand.
+I found the instructions to be less helpful than I would have liked.
+Rather than text to explain the diagrams, the visuals were pretty much provided without a lot of explanation and left for the assembler to interpret.
+Add to that fact that the pieces weren't given a designated &#34;a&#34; &#34;b&#34; &#34;c&#34; label and so forth and it made it a bit more guesswork.
+Still, it's not going to be difficult to put this together.My daughter is nearly three and so we're currently trying it out mostly in the ride around mode rather than the scooter mode.
+(Given the weather this winter, we have no out door space to try it.)
+My daughter likes the ride and push mode but she's clearly a little big for it already and manages to tip over the ride on about half the time.
+She mostly like the front basket for putting all her little toys into and taking them out again.
+This ride on mode isn't bad, but it would probably work best for a 1-2 year old just learning to walk rather than someone my daughter's age.
+My five year old son also likes to ride on it, and despite it being too small for him, he uses it more than my daughter does.
+It holds up well to both kids riding it and dragging it around the house.
+I'll update this in Spring when we get to take it out to the sidewalk.I'ts fairly simply to switch mode to scooter, all that needs doing is lifting off the seat piece and snapping it onto the front of the toy.
+My kids have had limited ability to try this mode since it's not really appropriate for in the house riding.
+It is helping my daughter work on her balance for the Spring, when she'll be able to really put the scooter aspect to the test.
+The adjustable handle bar means we can raise or lower it to work for my daughter as she grows, though it's firmly too short for my son to properly use, even at its tallest setting.
+This is the best 1-4 year of age ride on I have seen.
+Most sit and scoot riders have a pretty short useable life span.
+When most toddlers get mobile on their feet they tend to choose their feet rather than sit and scoot.
+The transition of this toy from sitting scooter to standing push scooter is brilliant!
+I love the little basket holder too!
+The dual front wheels help to make it more stable and safe to ride.
+This is still a toy for young small toddlers, but with it's dual purpose you'll get twice the use and enjoyment out of it!
+Over the years, you have always been able to count on a product by Radio Flyer!
+The Radio Flyer Ride 2 Glide Ride On is an excellent scoot toy which transforms 1-2-3 into a scooter!
+We love it!
+The almost 2 year old uses it as a ride on toy, the 4 year old who is still afraid to ride a Razor scooter loves this!
+It gives him balance, stability and confidence!
+Win win situation for me!
+A solid 5 star review - great gift!
+1. at first it seems like it is going to take some serious effort to put together, but after dedicating some time to put it together it was not that hard.2.
+It seems flimsy, but the good thing is, the parts that really matter are made of metal, the other parts are made of plastic.3.
+It is very easy to turn it from the Rider to a Scooter.
+The rider is small enough to have in the house as a riding toy on our tile.4.
+Cute basket to put her belongings in.5.
+The handle bar is very easy to adjust for different heights.We like it a lot and think it'll be fun for years to come.
+Let me tell you, this scooter was just tested by a bunch of 1-2 year olds at my son's birthday party, and they all loved it.
+They used it at a lower setting, (they all are beginning walkers) and they all enjoyed pushing it and being pushed around on it.
+The little basket at the front was very popular as well, to store all kinds of toys.It took quite a bit of effort to put this scooter together (a hammer had to be used), but what came out is a verey sturdy vehicle/toy.This scooter is our second Radio Flyer acquisition, and we love them both.
+It probably won't be the last.Highly recommended.

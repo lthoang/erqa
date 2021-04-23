@@ -1,0 +1,166 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+This beautiful Princess Barbie comes dressed in a sparkly elegant pink, blue and lavender gown.
+The hair clips she didn't care for as they kept falling off - so she told me they were garbage.All in all she likes the doll the most and has gotten plenty of play out of it and it is one of her favorite dressed dolls as she does have a variety to choose from!
+She can clip in the barrettes (with a little help), and she can pretend to &#34;cut&#34; Barbie's hair.The Rapunzel doll from Disney is a little more fun on the hair styling side (crazy thick long blonde hair), but this one has the added fun of the attachments.
+These hair extensions clip into Barbie's hair, which have the attaching clips, and to remove the hair extensions, you simply use the special scissors and cut the clip- releasing the extension.
+It would make a cute gift for a birthday party for a classmate and/or friend.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.004652262199670076,0.006655658129602671,0.005140813533216715,0.003651958890259266,0.008843171410262585,0.0049990094266831875,0.005195559002459049,0.006800221279263496,0.00639357278123498,0.0062821670435369015,0.007505522109568119,0.006939203478395939,0.005746431183069944,0.006616243626922369,0.004253519233316183,0.005975179839879274,0.007635942194610834,0.005964550655335188,0.006869613658636808,0.0059149363078176975,0.0044340831227600574,0.004482984077185392,0.006297292187809944,0.007431774400174618,0.006533998064696789,0.0064855339005589485,0.007178666535764933,0.007234879769384861,0.006722262594848871,0.009798966348171234,0.010588937439024448,0.005045271944254637,0.006156120914965868,0.004985019098967314,0.007618981879204512,0.006103394087404013,0.006599417421966791,0.005422284826636314,0.006345090921968222,0.006651062052696943,0.010086650028824806,0.007139450404793024,0.006694722454994917,0.0059572127647697926,0.0036498212721198797,0.004720590077340603,0.004723727237433195,0.006244798190891743,0.005187472328543663,0.008370897732675076,0.0060901278629899025,0.007606178522109985,0.004994897171854973,0.006118684075772762,0.005670071579515934,0.009753454476594925,0.007780116982758045,0.006343497429043055,0.004752917680889368,0.00780037697404623,0.006099761463701725,0.005135804880410433,0.007418342400342226,0.0055569838732481,0.005975586362183094,0.005508985370397568,0.0068055009469389915,0.0061484407633543015,0.0038116045761853456,0.005513574928045273,0.013560718856751919,0.0061266496777534485,0.006362862419337034,0.006906549911946058,0.008175015449523926,0.005991970654577017,0.006615458056330681,0.0039795334450900555,0.010144374333322048,0.007067432161420584,0.005995185114443302,0.00562188820913434,0.006485299672931433,0.004551245365291834,0.007240778766572475,0.005401647184044123,0.007662559859454632,0.004458863753825426,0.0033296793699264526,0.008434380404651165,0.006133734248578548,0.005952589679509401,0.006247030571103096,0.01023587305098772,0.010566827841103077,0.006577474530786276,0.004965926054865122,0.006490562576800585,0.006696659605950117,0.006812716834247112,0.005842253100126982,0.006114840041846037,0.007651329971849918,0.006610550917685032,0.007492104545235634,0.004471626132726669,0.005941694136708975,0.010430286638438702,0.006348751485347748,0.008579778485000134,0.004807987250387669,0.00616462342441082,0.008725559338927269,0.007456415332853794,0.008220043033361435,0.006235145498067141,0.004946972243487835,0.005722658708691597,0.011067536659538746,0.007985753007233143,0.005353832151740789,0.008184187114238739,0.005819483194500208,0.005571424961090088,0.014996988698840141,0.005187287461012602,0.004698756150901318,0.01069785375148058,0.006193847395479679,0.006922416854649782,0.006857800297439098,0.006266712211072445,0.008639351464807987,0.006314304191619158,0.005873645190149546,0.004743230529129505,0.006113426759839058,0.006429900415241718,0.005521307233721018,0.008861303329467773,0.006601872853934765,0.0075364308431744576,0.009623207151889801,0.009782339446246624,0.004015164449810982,0.00946361105889082,0.006024565547704697,0.006988593842834234,0.00453887740150094,0.00875902734696865
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+Barbie is glamorous with smoky eyes, pink tiara, sparkly rose gown, pink sandals and silver necklace.
+She comes with 3 extensions, 2 barrettes and a brush.How does it work?
+Barbie has three pop beads in her hair which you can snap extensions into.
+The extensions may be 'cut' off by using the scissors to cut where the beads join together, it 'pops' the pieces apart.
+Extension seem durable and work with the barrettes for endless styling possibilities.We would have given Barbie 5 stars, but only gave 4 stars because our doll has a defect.
+The seam of leg in the hip area is slightly cracked, which compromises its durability and flexibility.
+Barbies legs are firm and do not bend.
+We also were slightly disappointed with the design of her sandals.
+The sandals are difficult to take off and on, leaving me to question whether they are supposed to be removed at all.
+The shoes also are held on only by a plastic strap and the sandals do not conform to her feet, the heel of the sandals are loose like flip-flops.Regardless, what little girl wouldn't love this doll?
+She really is very pretty, she enables imaginative and creative play, plus the doll is great for a wide range of ages.
+The doll would make a great gift.
+My daughter is five and is a connoisseur of all things pink, brushable and that come with a dress.
+The Cut N Style princess is a favorite in her toy box.
+Barbie comes in a princess dress with a tiara and some jewels.
+A few sections of her hair are twined into a clip system that interlocks with the three provided hair extensions.
+To make her hair longer, you clip an extension into one of these sections of hair.
+Time for a new style?
+Break out the provided 'scissors' and use them to snap the connection between the interlocking beads, and voila!I like that the scissors are not sharp and don't actually cut anything, Barbie hair or otherwise.
+The doll provides plenty of fun and entertainment, and my daughter has tried all sorts of styles.
+It also comes with some hair clips for either Barbie or your kiddo, and the little colored hair extensions can be clipped to those as well.My only issue is that the hair gets frizzy pretty easily.
+It's a Style Barbie, kids are going to brush the hair.
+I wish it held up a little better.
+All in all though, my daughter is thrilled with it.
+Can you ever have enough Barbie's?
+Apparently Mattel doesn't think so.
+This one is very pretty and comes with hair extensions which are fun for the girls to style with.
+Barettes are included for the owner's hair, but they will not hold thick hair.
+This doll can provide hours of fun for the girl who likes to style hair.At $12.99 the price can't be beat.
+I saw this in a local store for $19.99.
+It would make a cute gift for a birthday party for a classmate and/or friend.
+My daughter likes this Barbie.
+The extensions are easy to put in and easy to take out.
+Of course, the hair really cannot be cut as it would not grow back.
+The scissors are pretend.
+The comb does work well with changing the hair style.
+The dress is also very nice for a Barbie and does not appear as &#34;cheap&#34;.
+It looks like it is durable.
+Okay so first off you don't really cut Barbie's hair but rather you use scissor looking things to snap off her extensions, perfect for young kids.
+Its kinda like snapping in a barrette but in this case its a hair extension.
+I got this for my 3 year old and she loves it, and honestly I had a similar doll when I was about 10 and loved it, so this is a doll for all ages.
+She is easy to use, comes with enough pieces for over and over fun and she's affordable at just $13.
+I'd recommend her for any child.
+Standard size Barbie so of course her clothes are easily changed.
+The hair barrettes, extensions, & brush will provide playtime for a while, but I suspect they'll soon be misplaced!
+What remains is a nice Barbie doll that could be accessorized with a few ribbons or some yarn for her long hair...
+I would keep real scissors absolutely separate from this doll, or some little fingers may use some non-magical scissors on that long hair!
+I gave this to my going-on-eight-year-old daughter to play with.
+I told her &#34;the only thing you need to do for me is tell me, in at least twenty words, if you like it.&#34;She said &#34;I like it a whole^15 lot.&#34;So it's up to me, a middle aged dad, to fill in some details.
+Unpacking this was a chore, and when Barbie finally emerges from the packaging, well, let's just say she'll need some time to freshen up.
+Really, she looked like she just came out of the dryer.
+But once taken care of (she seems to clean up well) my daughter started doing the styling thing.
+There are extensions included to give Barbie some flair, which seem to attach easily.
+There are also some hair barette (sp?)
+things that my daughter was able to wear, so that was nice.It's a regular Barbie, so all the clothes and accessories fit.
+Really, aside from the hair styling thing it's a standard Barbie doll.
+The hair styling bit gives your kid something new and different to play with, and I think there's value there.
+Good toy.
+My 3 1/2 year old loves it when she gets to help review my items from vine.
+She tells me everything she likes and dislikes about the item - which is from a kids point of view!
+This Barbie Cut N Style Princess Doll looks great.
+It comes with hair extensions and magical scissors to cut her hair and try new styles.
+She also includes a brush, tiara and two hair clips.My daughter has had a month to &#34;try her out&#34;  She has really enjoyed her Barbie doll.
+She loves the doll itself and plays with it the most over the hair and extension products.
+She says the magic scissors aren't magic as when you clip the hair extensions on, she can use her &#34;magic&#34; fingers and just pull them off - which in fact you can.
+The scissors do the same thing just by &#34;snapping&#34; them off.
+At the moment she prefers to just &#34;pull them off herself&#34; with her magic fingers.
+So for her the hair extensions at her age may not be the highlight of the doll.
+But she enjoys changing the colors of her hair, one day she has purple hair and another may be pink pending what party she is going to.
+She enjoys brushing the dolls hair.
+The hair clips she didn't care for as they kept falling off - so she told me they were garbage.All in all she likes the doll the most and has gotten plenty of play out of it and it is one of her favorite dressed dolls as she does have a variety to choose from!
+I got her two barbies from Amazon vine.She liked both.This one is very pretty with hair clips and hair extensions.
+It provided hours of fun.
+There was one happy little girl who received this.It's a clever doll because you can endlessly change her hairstyle, which is the point of this particular Barbie.As always, the quality of this Barbie is very good and will last a long time.Highly recommended.
+This has small parts and shouldn't be given to children under the age of three.
+Package says three and over.Barbie has emerged over the years into the classic little girl toy.
+This one is no different.
+She comes with three extensions for her hair (blonde, pink, purple) that clip on and can then be &#34;cut&#34; off with the &#34;magical scissors&#34;.
+What little girl wouldn't love magical scissors?
+This is a great idea--I know my own little one played hairdresser on herself too often.
+Everything about this doll radiates glamor.
+She has a tiara, a sparkly necklace, pink and sparkly flowered dress.
+And she is still as pretty as ever.
+The safe &#34;scissors&#34; are my favorite part.
+Letting the kids run with creativity without butchering the doll's hair is a brilliant idea!
+The addition of the two pink barrettes was a good idea too, your child can do her own hair with the barrettes while playing with Barbie's hair.
+This will provide fun for little girls of all ages.
+My five year old adores this toy because she loves to &#34;cut&#34; its hair.
+Of course, the scissors are not sharp, they are designed to break the connection where the hair extensions connect.
+My daughter also loves that she can clip the extensions into her own hair.
+The Barbie doll is pretty standard.
+Overall, this is a fun toy that allows my daughter to cut hair without doing any real damage.
+I have a household with six girls, so we've had our fair share of Barbie dolls.
+If there's one thing our little ones have been fascinated with, it's cutting and styling hair.
+If your little ones are interested in cutting hair, perhaps you can encourage them to cut and style Barbie's hair, rather than their little sister's.
+;-) This set includes:*Princess Barbie doll*4 hair extensions*1 magical scissors*1 brush*1 tiara*2 wear-and-share hair clipsMy little girls have had hours of fun playing with their Barbie Cut N Style Princess Doll.
+At the time of this review, this set sold for $12.99, which I feel is a good value for this type of set.
+My overall rating is 4 stars.
+"My almost 4 year old daughter has recently became very interested in Barbie dolls.
+She especially likes that she can ""cut"" this dolls hair, add the extensions, and accessorize with the tiara.
+It also includes hair plastic hair barrettes for the child.
+This Barbie is dressed like a princess, and my daughter calls her Cinderella.This has a lot of small pieces that my vacuum cleaner would love to suck up, so I try to encourage her to play with it at the kitchen table and then place it back in a clear plastic shoe box that I bought especially for her Barbie dolls.
+This is a nice addition to our small family of Barbie dolls."
+I mean she is probably not the most glamorous one, but  I just really like the color of her gown.
+Six year old likes it too, but as other reviewers noted hair is the main attraction.
+She loves putting the extensions in her hair, even try to do the updo.
+She does like cutting them, although I have a feeling she would not mind trying to cut her real hair too:)
+My two and a half year old daughter has shown an interest in Barbies and she was delighted to receive this one as her first Barbie.
+I think this is a great starter Barbie as it is easy to dress and undress.
+The hair extensions are cute and relatively easy to fasten and the &#34;scissors&#34; (not sharp and quite safe for young children) work well to &#34;cut&#34; the extensions off.
+My daughter loves that thisBarbie comes with a brush as she loves to brush her hair.
+The addition of child-size barrettes with this doll is also a cute touch.
+Overall this is not a complicated Barbie but I think a great first Barbie for younger girls.
+My daughter asks all girls with long hair if she can &#34;make them pretty&#34;.
+She will stand behind our seated babysitter and play with her hair for 20 minutes.
+So this Barbie is perfect for her.
+She has long, thick hair that can be brushed (though carefully, since some of the hair is in locks that end in a heart attachment).
+She can add the purple, pink, and blonde extenions.
+She can clip in the barrettes (with a little help), and she can pretend to &#34;cut&#34; Barbie's hair.The Rapunzel doll from Disney is a little more fun on the hair styling side (crazy thick long blonde hair), but this one has the added fun of the attachments.
+As with all dolls that end up in bed and on the floor and everywhere else, her hair does get very messy.
+However, my daughter and I together can tame her hair.
+My daughter also loves the tiara.
+When ever Mattel makes a Barbie doll with extra fun hair to style, that's a doll that gets the most play time in our family.
+This Barbie Cut 'N Style Princess doll is exactly that.
+This beautiful Princess Barbie comes dressed in a sparkly elegant pink, blue and lavender gown.
+She wears a lovely silver necklace, shoes and a delicate pink crown.
+Her gorgeous long hip length blonde hair is just ready for styling.The beautiful hair extensions to add to Barbie's already gorgeous hair are blonde, pink and purple.
+These hair extensions clip into Barbie's hair, which have the attaching clips, and to remove the hair extensions, you simply use the special scissors and cut the clip- releasing the extension.
+There is no actual cutting involved- it just appears that way.
+A styling hair brush and 2 extra barrette clips are included for more styling fun.Our girls never get tired of styling Barbie's hair and adding the right outfit to fit her hair styles, but they quickly find out that playing with the hair extensions is just as much fun when they add them to their own hair!
+Putting the blonde, pink and purple extensions in their own hair makes for double the fun with this Cut 'N Style Princess Barbie.
+Adding the barrette clips is even more fun.
+Since there is no actual cutting involved, this doll is great for girls of all ages.
+You'll find you're getting your money's worth with a doll whose fun hair extensions  can be used for not only Barbie but for the girl whose styling her hair as well!
+This 4 1/2 Star Barbie is endless fun!
+This is a sweet Barbie, with long blonde hair, and comes with three hair pieces to add length, or style to your doll.
+Comes with brush and scissors, and hair pins for added fun.
+This will keeps us busy for a while!
+The last thing we needed was yet another Barbie doll, but this one held the allure of the hair styling.
+My daughter loved braiding, styling, &#34;cutting&#34;, and brushing the hair.
+It's a fairly inexpensive doll for the kid who loves to play with hair.
+The doll itself was still a quality Barbie and seems to be holding up well under extensive play.
+The Barbie Cut 'n Style Princess doll combines two things that most girls love - Barbie and hair styling.
+With this innovative doll, girls can create new, fun, and creative hairstyles for their Barbie.
+This blonde Barbie includes three hair extensions of blonde, pink, and purple to make Barbie's hair longer.
+The &#34;magic&#34; scissors can then be used to &#34;clip&#34; the extensions, allowing your daughter to be a pretend hair stylist/barber.
+The doll also comes with two additional hairclips and a brush for styling this Barbie's extra long blonde locks.
+The clips can also be used by the Barbie owner for their own hair, so she can match her doll.This Barbie comes with a pink dress/skirt adorned with sparkles and flowers.
+She also comes with matching shoes, a pink tiara, and a silver necklace to complete the ensemble.
+Any girl who likes hair styling and Barbie will fall in love with this new addition to the Barbie line.

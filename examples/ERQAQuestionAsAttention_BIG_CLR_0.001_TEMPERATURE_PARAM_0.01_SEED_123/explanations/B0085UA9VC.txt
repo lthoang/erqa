@@ -1,0 +1,231 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+"This is a fun toy for a girl or boy aged 3 or under, I think much more than that and they might get bored.
+Many kids kitchens are just too big, this one maximizes the fun by letting you feed Elmo, and Abby, comes with great accessories (Grover on the spatula is cool) and is practically portable.
+"I got this toy for my youngest son's 2nd birthday.
+The sing songs and my daughters were ecstatic about that.
+This could be bad for a number of reasons.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.0031765892636030912,0.002045251429080963,0.0029851829167455435,0.005952442530542612,0.0023286070208996534,0.0024467306211590767,0.0022918854374438524,0.0057640764862298965,0.005096918903291225,0.005245472304522991,0.0024617884773761034,0.006587181240320206,0.003862543497234583,0.004938134923577309,0.006629277486354113,0.004896090365946293,0.0042534382082521915,0.0030888370238244534,0.0024465383030474186,0.0069557372480630875,0.0039901128038764,0.006506107281893492,0.003963038790971041,0.003414381993934512,0.0037905797362327576,0.006434351671487093,0.005748885218054056,0.004003636538982391,0.004492567386478186,0.006377391517162323,0.005328460596501827,0.006435025483369827,0.0043756403028965,0.003555003786459565,0.00337605900131166,0.00408041849732399,0.007251720875501633,0.006761898752301931,0.006434351671487093,0.004665283486247063,0.0064654662273824215,0.006614211946725845,0.0032156736124306917,0.0025621631648391485,0.003998586442321539,0.005892486311495304,0.00558824697509408,0.0055122412741184235,0.00683947280049324,0.006427811924368143,0.006438030395656824,0.006134716793894768,0.004570341669023037,0.003166564740240574,0.00521531468257308,0.006347425282001495,0.0061753420159220695,0.00657996628433466,0.005329986102879047,0.005965283140540123,0.007017734460532665,0.004545588046312332,0.004953894764184952,0.004020822234451771,0.004047749098390341,0.004810338839888573,0.003386847674846649,0.004785540979355574,0.002564610680565238,0.0061862887814641,0.004493269138038158,0.001966055715456605,0.002954167081043124,0.005351903382688761,0.006114618387073278,0.0037144427187740803,0.002457328839227557,0.00407422985881567,0.006195665802806616,0.003976048901677132,0.003455940168350935,0.005988419055938721,0.006195665802806616,0.0050305589102208614,0.004748855717480183,0.007315326482057571,0.00465204194188118,0.0051823947578668594,0.002367541892454028,0.0024029251653701067,0.006704673636704683,0.0036309901624917984,0.0049646650440990925,0.006368702277541161,0.0038583322893828154,0.0053959134966135025,0.004338595550507307,0.001946902135387063,0.0054589854553341866,0.003911416046321392,0.003472019685432315,0.0027350743766874075,0.0017214594408869743,0.007664305157959461,0.0018936465494334698,0.0029276562854647636,0.0043803309090435505,0.006289209239184856,0.006155746523290873,0.00608759094029665,0.0058269440196454525,0.0023882912937551737,0.0039696283638477325,0.005312116350978613,0.0033133903052657843,0.004370228853076696,0.005246973596513271,0.007044519297778606,0.003106187330558896,0.003246722975745797,0.006203221622854471,0.0033318428322672844,0.006228904705494642,0.007084750570356846,0.004629848524928093,0.006069963797926903,0.0025424021296203136,0.005312579683959484,0.006912436801940203,0.004095898009836674,0.004230663646012545,0.0035301323514431715,0.00489825289696455,0.006160765886306763,0.005974747706204653,0.001974588492885232,0.0027176353614777327,0.004685198422521353,0.0032078081276267767,0.005015435162931681,0.0028534624725580215,0.005167266819626093,0.006678549572825432,0.0035615931265056133,0.0025824755430221558,0.004839341621845961,0.003209523856639862,0.006160765886306763,0.005701139569282532,0.006662264931946993,0.003652044339105487,0.0028294255025684834,0.006330010946840048,0.0030599143356084824,0.005540914833545685,0.005833897739648819,0.006014814134687185,0.00622486462816596,0.0055307662114501,0.0029572518542408943,0.0022751023061573505,0.001812337781302631,0.0038555325008928776,0.005973768420517445,0.0028702702838927507,0.0058334278874099255,0.00373772787861526,0.003546937368810177,0.004408275708556175,0.006327176000922918,0.0020042445976287127,0.0049070813693106174,0.00251971953548491,0.0036761504597961903,0.0037341287825256586,0.007486782968044281,0.007017676718533039,0.005079052876681089,0.003295076312497258,0.0051823826506733894,0.0031193115282803774,0.006652741692960262,0.006843303795903921,0.002252752659842372,0.0054852040484547615,0.006440204102545977,0.0030966380145400763,0.003101905807852745,0.003177081933245063,0.005014542490243912,0.003990879748016596,0.006790554150938988,0.0023368399124592543,0.005952054169028997,0.0032633573282510042,0.003937931265681982,0.004695109091699123,0.006075183395296335,0.005112483631819487,0.004369646310806274,0.006354533601552248,0.00262358202598989,0.005166121758520603,0.005950173828750849,0.004182886332273483,0.004700377117842436,0.004820777103304863,0.006210364401340485,0.0024114332627505064,0.004291049670428038,0.006264076568186283,0.0033783395774662495,0.0030240467749536037,0.005439327098429203,0.005569929722696543
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+"My 1 year old daughter has not stopped playing with this cafe since she received it 6 days ago.
+She dances every time that Elmo, Abbie and Cookie Monster sing the catchy (but not annoying) songs.
+My four year old son also plays with her and this keeps them both entertained for long periods of time.
+This toy is designed for younger children and because of the smaller size, would be a great choice for a first kitchen.
+This cafe comes with a toy frying pan, spatula, a salmon filet, a slice of veggie pizza, a cheese & tomato slice, a fried egg and an oatmeal cookie.
+The monsters request to be fed certain snacks and the kids are able to ""feed"" them by  putting the toy food in their mouths and then it slides down into the oven.
+This toy is cute, fun and has great sound effects such as a sizzling stove top and a bell ring indicating the order is up.
+This is a huge hit in our household!"
+"My daughter will be 22 months next week and has been playing with this toy for a week now.
+It is geared for ages 18 months to 4 years; I would not recommend using it at an earlier age than 18 months due to the small parts that come with the toy.
+I think if your child can walk and is passed a bigger pacifier, this might be suitable.
+I mention walking because even though it is light, if not walking yet the child could grab onto it and knock it over.
+The small parts that come with it might be swallowed if not the correct age.With that said, assembling this was a breeze!
+It snaps together and all the parts are numbered.
+There were no stickers to apply or batteries to install.
+It comes with a demo battery set which has lasted so far.
+I put it together one night and my daughter, who again will be 22 months in a week, played with it the next day for hours!
+I was watchful of the food parts but she never tried to chew them or put them in her mouth.
+Plus, they are bigger than her pacifier so I knew it would be OK. What I noticed she used the most was the two areas you can slide back and forth to place the food in their mouths.
+She kept placing them in there and it will say, ""Thank you"" or other phrases.
+I feared it might be scary with Cookie Monster but she is not afraid of any of the sounds.I have noticed a few reviewers mentioned the stove door was either too tight for them or that it would fall open.
+Mine is the same.
+It does not latch properly and have found that it even falls off the unit.
+It is no biggie, I just place it back on but it seems they are either too tight or too loose.My only concern was the back part, the two black pieces you side as the mouth area, my daughter keeps removing them.
+My youngest daughter is obsessed with Elmo, and so despite already having a play kitchen I opted to getting her this Sesame Street Cookie Monster Caf&eacute; because I knew she'd adore it.
+She does.
+My eldest daughter, obviously jealous of any new toy my youngest gets, wants to play with this all the time too but she is much too big for it despite only being four years old.
+I am pleasantly surprised with how much I actually like this little kitchen, but it certainly isn't without detractors.The plusses:The kitchen was VERY easy to put together.
+I don't have a clue as to what Gadgester was talking about.
+The packaging is very easy to undo and the steps are really simple.
+This kitchen merely snaps together.
+There are no tools needed, no screws or anything of the sort.
+Each piece simply lines up and snaps together and I was done putting it together in under five minutes.
+The directions were also ridiculously easy to follow, considering that it is illustrated and each piece has a number and there are only like eight pieces to snap together before you're done.
+Another plus is the interactive nature of the kitchen.
+You can feed Cookie Monster and Elmo and that other character (the girl of which I can't remember the name) and they respond when you put food in their mouths.
+The sing songs and my daughters were ecstatic about that.
+I was also really happy that the batteries were included.
+Just remember to switch it to ON on the back.
+It comes switched on `TRY ME' (or at least ours was) and not all the features work in that mode and I actually thought that it was broken before I realized I had to change the setting.THE CONS:Because it snaps together, it isn't the sturdiest toy.
+"I just got this in the mail today.
+You have to assemble it yourself, but it is very easy and quick to put together.
+You don't need any tools - it just snaps and slides into place with easy directions.It comes with a toy spatula that fits in Cookie Monster's hand, and a toy frying pan and food.
+You can put the food in Elmo's mouth, or Abby's (where you see Elmo in the picture, that slides over to reveal Abby), and the food goes down a shoot and ends up in the oven, so that is a nice way to keep track of the pieces.
+Also, when the food goes down, Elmo or Abby says a thank you or comment.
+There is also a little song that will play.
+There is a switch on the back to turn it on or off which should help save battery life.
+And it comes with batteries already in it, for instant fun.
+Gotta love that.A little boy that I take care of a few times a week came over today, and he had a lot of fun with this.
+He usually doesn't like to play with anything by himself.
+He always wants me right there with him, playing along.
+But with this he just went right to it and played for quite a while all on his own, and he checked out every feature it had.
+He really enjoyed it.It seems pretty sturdy and decent quality.
+This is something I would guess I'd pack up and keep in the attic once I don't have any young kids around anymore, waiting for possible grandchildren or what not because it seems like it will last well.
+Being plastic, it will be very easy to wipe down and keep clean.
+My 12 year old daughter was checking it out and said she would have loved something like this when she was younger.
+This is a fun, educational, and will keep your kids occupied for some time.
+It is incredibly easy to assemble.
+However, it is very flimsy.I am familiar with three other kitchens: Step 2, Little Tykes, and a local woodworker who makes them out of reclaimed wood.I would pass on this one, unless you know it will get light use.
+We're taking it to grandma's house to keep the kids entertained.
+"This is one of my daughter's favorite toys to play with at the moment.
+The height is perfect, there are many different phrases (and we're always finding new ones), and there is so much to do.
+I love the colors, they aren't boring like a lot of gender neutral toys but bright and cheery.
+The assembly was easy enough, although I had to take it apart when we traveled over Christmas and then put it back together from memory because I lost the manual.
+You can ""feed"" the Cookie Monter, although the plastic food only touches the black plastic that is his mouth and doesn't actually go in.
+There is a healthy food menu with all of the plastic foods included on it.
+The stove can turn from hot to cold, each setting with a comment from Cookie Monster.
+You can ""cook"" in the oven or stove top.
+Elmo and Abby Caddaby can be fed (the plastic food goes into their mouths and lands in the oven) and have a few phrases apiece.
+There are songs and a bell and basically it's a lot of fun!
+LOL.
+My daughter's favorite things to do are: feed Elmo and Abby, retrieve the ""fed"" food from the oven, and turn the menu back and forth.
+I was surprised to see that she recognized Abby Caddaby (she has and Abby toy and pj's) and tries to talk to her sometimes (so cuuute).
+You won't be disappointed with this one!"
+While this kitchen says it is up to 4 years old, I think it is definitely for younger kids maybe 2-3 years old at the most.
+My daughter (14 months) thinks this toy is the silliest and fun-filled toy ever.
+She loves to push and pull things which activates the noises and music.Installation is pretty simple and it took maybe 15 minutes to get it out of the box and set-up (and that was with my little one's help of course.)
+It is a bright and kid-friendly toy in its colors and design, but I think the company forgot that little kids like to pull themselves up on things as this can be tipped easily.
+This kitchen is also really only for one child at a time.
+I would say unless your child is a huge Sesame Street fan I would probably pass on this kitchen and buy a bigger one.
+The bigger kitchens are built to grow up with your child and have so many options available.
+I'd say for $30-$40 this is worth it and perfect for young kids.
+It does come with some food and accessories which is nice.
+Even though my kids are not Sesame Street fans they laughed and laughed over the songs and still had fun.
+I only knocked off a star because of the price being a little more expensive than I think its worth.
+"I got this toy for my youngest son's 2nd birthday.
+Little did I imagine that my two boys would fight tooth and nail over this thing.
+They think it is the greatest thing on earth.
+It gets hours and hours of play and they really enjoy all the different voices and phrases (and the sizzling sounds of the stove burner).Here's the deal in a nutshell: It's easy to put together and pretty durable.
+My kids have managed to rip the oven door off and Cookie Monster's hand (which is also a holder for the spatula), but they snap right back on with ease.
+It allows them to play ""grown up"" and they think it is cool to ""cook lunch.""
+My major complaint is the price.
+This product is simply not worth $60.
+It's all plastic snap together pieces.
+I think $35 (tops) would be a fair price for this.
+The food pieces are very cheaply constructed as well and would benefit from a little heft in my opinion.
+That said, my kids love it so much that it is hard to complain...and guess what, they don't even like Sesame Street very much!It can handle two boys beating on it all day, but it's overpriced."
+The packaging of this toy from Hasbro is filled with frustration-inducing materials and steps.
+It's a pain to unpack.
+Adult assembly is required to put the kitchen toy together, and some of the parts are a royal pain to install, even though no tools are needed.
+The recipe book, in particular, was impossible to assemble correctly in my case, probably due to manufacturing defects.The toy is fun to play for a few minutes; my kids found Cookie Monster's antics especially entertaining, but the fun factor didn't last very long.
+Some of the parts such as the oven door also have a tendency to break loose.
+While it hasn't proven to be a danger yet, my kids find this tendency annoying.The toy is rated 18M-4 and it's definitely more geared toward the 18M-30M age range.
+"This is a fun toy for a girl or boy aged 3 or under, I think much more than that and they might get bored.
+The features include:Cookie monster that talks when you push his mouthElmo or Abby will talk when you feed them food or ""ring"" the bell and you can go 'between' the two on the slide panelWhen you turn on or off the burner Cookie Monster tells you if it is on or offOven door opens and closesKnobs on oven turn and make soundsThe recipe book has pages that turnComes with food and cooking accessoriesAssembly is SO EASY!
+The plastic is heavy duty but once assembled it feels like it could break apart if someone falls on it.The song cookie monster sings is the ONLY song on there, after time it gets ANNOYING.
+But after inactivity the device will shut off so at least it won't go off randomly.
+They could have included more songs.
+That was the one thing they did wrong I think."
+"I added this to the playroom I have for my grandchildren, and they love it.
+They have a wood and plastic toy kitchen set/cafe at home, which my 4 year old granddaughter is in charge of whenever she and her 2 year old brother play with it.
+The Cooking Monster Kitchen Cafe is better suited for the 2 year old, in part because it is more colorful, it makes various sounds and it is anthropomorphic (it has faces and eyes and it talks), so he is more at home with it then with the wood and plastic set.
+It seems that my granddaughter's interest in the Cooking Monster Kitchen Cafe is contingent on both she and her brother playing with it together, for she hasn't shown interest in it when he's napping.
+He often sees her helping mommy do real cooking in their real kitchen, and this seems inspires him to want to play cook with the Cookie Monster set.
+I give it a high ranking on educational value because I think Hasbro does not exaggerate when saying on the Hasbro page for this product, ""This toy also helps encourage development of Fine Motor Skills, Imagination, Cognitive Learning and Social & Emotional Development.""
+Would make a great first toy kitchen set for toddlers."
+"My two year old daughter has hours of fun with this toy.
+She is learning the various pieces of ""food"" and even includes ""food"" from other toy sets as part of the activity.
+There are numerous aspects of this toy to keep youngsters amused including, knobs to turn, buttons to press, and three different characters with speaking parts.
+The toy seems a little clumsy to a certain degree.
+If a child leans on it the wrong way, it could easily fall forward or backward.
+I would recommend leaning it against the wall.
+If you have an adventurous child, he/she may try to climb on it.
+This could be bad for a number of reasons.
+The set could tip easily and of course, hollow plastic is never the strongest material to holding children.
+It would seem tough to break this toy on purpose so I would suggest it to be durable.
+I would have some concern about foreign foods being jammed in Elmo or Abby's mouth, but his problem is easily remedied.
+Overall, I would purchase this toy again if I needed a second one."
+Pros:Very easy to put together.ColorfulSupports imaginative playSmall, does not take up much space.
+Perfect size for a 2 year old (My daughters age)Offers several play options.My daughter loved it immediately.
+Now for the cons:My daughter has all but stopped playing with it unless I point it out to her.
+She rarely initiates play with it herself.The manufacturer duplicated one of the play food items so we got 2 pieces of cheese instead of another item of food.All in all, I thought this was a cool toy.
+Maybe if I cut the TV off more, my daughter would get more use of it.
+"First off, my son (just turned 3) has enjoyed this even more than I thought he might.
+One thing I love is that this is a very gender-neutral play kitchen.
+It's also considerably slanted towards healthy food (salmon, tomato slice, cheese slice, egg, veggie pizza and a cookie.)
+You can ""feed"" the food pieces to either Elmo or Abby and they appear below in the oven.
+You can press them against Cookie's solid mouth and he'll ""yum, yum, yum.""
+The stove eye can be turned on or off.It does need to be assembled, but the process was fairly quick and easy and did not require tools.
+Construction seems fairly light and cheap, but the pieces went together pretty solidly; I'm neither disappointed nor impressed.While it's recommended for up to age 4, this is going to seem small for an average or tall 3-year-old.
+The size is about right for my child... but his height (33"") would be average for a 20 month old.
+Cookie Monster's typical bad grammar (mostly using ""me"" for ""I"") does drive me crazy, and isn't the example I'd prefer.
+My ideal play kitchen would ""do"" less and provide more opportunity for open imagination.
+While the interaction from characters keeps a young child interested, it means the play is centered around following (or ignoring) suggestions from them, like ""I'd like a piece of salmon.""
+I'd rather choose something geared toward open-ended play, perhaps with a sink, dishes, fridge or storage spaces, etc.In my opinion, a good deal of what you're paying for is the characters and talking.
+For quality, size, included pieces and imagination value, I'd personally choose something else at this price range.
+However, any die-hard Sesame Street is really going to enjoy it, so it definitely depends on what you're looking for.
+It's cute, it's fun, and it works."
+"My 17 month old son loves the kitchen, but I'm not sure how long will it last.
+The construction is flimsy, i.e.
+sometimes oven opens by itself.
+Also the counter top is 16"" tall and kids can outgrown that fast (friend's 3 year old had to kneel down to play, she is tall though and looks older).Younger kids that trying to pull themselves up to standing position must be supervised all the time, because the toy is light and easy to fall.So that was my main complaint, and I took 1 star away.The pluses:- very easy assemble; instructions has drawing which part is next and the plastic parts have numbers on them, you don't have to speak English to do it and older kids can help handing out the pieces,- bright colors,- funny noises, songs and sayings that makes my son laugh,- several sound options (sizzle, bell ring, clicking nobs),- comes with kitchen accessories and play food,- demo batteries are included,- off switch of course;)I think this kitchen makes a great intro in a ""kids kitchen"" world.
+Although if I would have to purchase just one I would go straight to Step 2 Lifestyle Dream Kitchen.
+Step 2 makes several kitchens from 99 to 215 dollars.
+They look like real kitchens, lots of great details, faucet, drawers, cabinets, microwave that makes real bips etc.
+and they are bigger and more sturdy and are good for up to at least 6 years old.
+Older kids can really pretend they cook and there is more space than just for only 2 kids to play."
+"I asked my kids what they think.
+They said, ""it needs a sink.""
+Oh if dishes are only their favorite task when they're teens!My kids like it and have fun with it, but it's just too flimsy to give it a great rating.
+I really struggled with a 3 or a 4 star, but I don't expect to buy a kids kitchen more than once--and I don't think this will last years.pros:-fun enough that they don't care it talks.
+I think they like it better when it's not making noise!-They really do have fun cooking in the kitchen and using the window.-the food that it comes with is high quality.-Some things work well--the heat on the stove works well, the oven knobs work well, and the oven door works well.-The window doesn't slide as easy as it should, but my kids love it.
+It's kinda hard for them to slide out the second face, so they only ever use elmo's face.neutral:-the whole feed food to elmo and that pink fairy girl was interesting for two seconds.
+They never use that feature.
+I wish they would have invested in sturdier legs and dropped the feeding aspect.cons:-cookie monster's hand won't stay on.-the legs come off pretty easy--really should have come with a couple screws or something to keep them on tight.
+They just snap in and not that tight.
+This won't stand up to kids climbing on it, and the legs fall off when they drag the kitchen to where they want to play.-while it stands pretty sturdy, it can be pushed over easily.
+And my kids won't let it stay against a wall because they love using the window.-the bell's button never worked consistently.
+This doesn't really matter to us because we keep the sound off.-For the amount of area on the counter, there should be two burners or a little sink or something else.So my kids really like it, but I think partially that they don't know any better...
+So in other words: we use it because we have it, but we wouldn't suggest it."
+This Sesame Street themed kitchen is just the right size for toddlers and is very easily put together for the adult.The unit comes with batteries which power the voices (Elmo, Cookie, Abby) and six pieces of food to feed them.
+While cookie can't have food in his mouth, he does talk when you push it in.
+There is a timer and a sizzling hot plate that teaches kids to be careful of heat.
+My only complaint about this toy is the spelling of Xtra on the menu.
+My daughter and I played with this for hours when it arrived and still find ourselves staging tea parties around it daily.
+Many kids kitchens are just too big, this one maximizes the fun by letting you feed Elmo, and Abby, comes with great accessories (Grover on the spatula is cool) and is practically portable.
+"My three year old son and one year old daughter both really enjoy this toy.
+I think it's pretty cute too (I have always been partial to Cookie Monster.)
+My kids really like pretending to cook with the frying pan and making Cookie Monster say ""Num num num.""
+It was extremely easy to assemble--the parts just snap together and no screwdriver is needed.
+Only one portion of the toy is tied into the box, so you don't have to rip and untie all the pieces out of the packaging like you do with most toys.
+The only problem I have with this toy is that is not really sturdy--because it is not screwed together, it seems like it can come apart easily.
+It also seems like it could fall over pretty easily.
+Another thing is that it comes on the ""Try me"" power setting which causes the bell on the stove not to work.
+I thought it was broken until I thought to check to see if there was a demo setting.
+Other than that, this is a really cute toy.
+My kids enjoy it and I think it is a great toy for infants and toddlers who enjoy play-kitchens and Sesame Street."
+"I decided to try the Cookie Monster Kitchen Cafe for my 3 year old grandson who visits every few weeks.
+One of his favorite games is baking a play pizza and delivering it to us.
+I thought it might be fun for him to have an oven and kitchen set-up to enhance his game.
+He's always been a fan of Elmo and the whole gang, so I thought this play set would appeal to him.
+Wrong!
+There is nothing really wrong with the Kitchen Cafe and there are many good things about it, but I think the advertising and packaging should be changed to reflect a different age group for this toy.
+In my opinion this is a toddler toy, for little ones who can stand up to maybe age two.
+My grandson thought the Cookie Monster Kitchen Cafe was ""silly,"" and he noted that ""ovens don't sing.""
+He was also way too tall for this particular kitchen.That being said, I plan to store the Cookie Monster Kitchen Cafe for a few months and bring it out again when grandson # 2 (now 5 months) is a bit older and can stand on his own.
+I've found that toddlers love the Sesame Street characters and are enchanted by ""talking objects.""
+The little ones also seem to absolutely LOVE the repetative songs that drive adults crazy!
+With adult supervision, I think the Cookie Monster Kitche Cafe will make a great toy for one and two year olds.
+It was amazingly easy to put together and I usually have trouble with the simplest toys.
+Adding more ""play food"" would nicely complete this little kitchen.
+I don't think the Kitchen Cafe is sturdy enough for a child to use for pulling himself up, or for an older child to play roughly with it, but I've found very few toys that would withstand either.I believe that the ""Cookie Monster Kitchen Cafe"" would be great fun for very young children and I think that it is as durable as most toys.
+I'm not sure how ""educational"" it is, but I think it will definitely spark young imaginations.
+"First of all, I think this must be the most annoying toy ever produced.
+I love Sesame Street and I love Cookie Monster, but there's nothing like a constant mumbling monster to really get in your head.
+The sound effects are just so hard on the adult ears in the house.
+I ended up taking the batteries out after a little while and just let my niece and nephew play with the toy.Easy to put together and it's not huge, so the floor space you need is minimal, which is nice.
+Some play kitchens are just huge.
+It's not the most visually appealing toy...definitely huge Cookie Monster and Elmo heads staring out all day, but it was attractive to my niece, who's 1.
+My nephew (3) played with the toy for all of 10 minutes total before he abandoned it.
+It was just too simple for him, I think.Parents of young children (like 10 months-2 years) would probably get a lot of use out of this.
+Again, it's not the most attractive thing, but the talking characters, especially for Sesame Street fans are definitely fun.
+The kids can still play with the kitchen items and food, even without batteries in.I don't know that the target age group would really understand the idea of a ""cafe,"" but kitchen they do understand and it's fun to play with.
+I don't think the price point is correction, however.
+I would think $29.95 would be a good place for this smaller version of a popular toy."

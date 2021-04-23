@@ -1,0 +1,130 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Can a 4 yr. old boy operate this super soaker?
+Top sentence(s):
+But how else was I supposed to test it?Great little gun, though they could remove that false trigger.
+They kind of just shoot out and blend into one big stream.
+It's funny that the box warns against shooting in the face...yeah right.
+I didn't go out and measure how far I could shoot this but I'd say 25 to 30 feet is possible for an adult with no wind.
+My 5 year old Grandson played with this for over an hour the second it arrived at our house.
+
+Question attention weights:
+0.013401574455201626,0.27432379126548767,0.7122746109962463
+Sentence attention weights:
+0.011286954395473003,0.011173383332788944,0.009877058677375317,0.00785157922655344,0.011236811056733131,0.006853722035884857,0.015030685812234879,0.008270845748484135,0.009486228227615356,0.006565379444509745,0.005885054357349873,0.004851347766816616,0.01000801008194685,0.012120731174945831,0.009592554531991482,0.012440432794392109,0.011007523164153099,0.011379120871424675,0.007417770102620125,0.010950466617941856,0.010119875892996788,0.01083226129412651,0.010674438439309597,0.011312996968626976,0.004525649826973677,0.01136042270809412,0.011381665244698524,0.007008459884673357,0.004983054008334875,0.010254955850541592,0.0067390138283371925,0.007209187373518944,0.013170997612178326,0.0064680324867367744,0.008287723176181316,0.009671167470514774,0.007355132140219212,0.0062815044075250626,0.006641916465014219,0.009505136869847775,0.00703755859285593,0.0078642088919878,0.0062040407210588455,0.005466558039188385,0.007106643170118332,0.009651819244027138,0.01099060196429491,0.010674601420760155,0.010528749786317348,0.006504063028842211,0.010438530705869198,0.006768807303160429,0.010196967050433159,0.009021230973303318,0.0052770450711250305,0.006887989118695259,0.00964607298374176,0.010438530705869198,0.01092899963259697,0.00904152076691389,0.006964366417378187,0.010661168023943901,0.01025870256125927,0.012649020180106163,0.011365649290382862,0.007717775646597147,0.010235105641186237,0.011287087574601173,0.01092899963259697,0.011930961161851883,0.014183003455400467,0.006612194236367941,0.00792382936924696,0.01077976357191801,0.007215158082544804,0.013686642982065678,0.0077805425971746445,0.011862660758197308,0.00944901816546917,0.009902328252792358,0.006216997280716896,0.008594312705099583,0.010292674414813519,0.008620304986834526,0.007060560863465071,0.0139238890260458,0.012542029842734337,0.010584967210888863,0.006939803250133991,0.010403445921838284,0.007697721011936665,0.0068810549564659595,0.006291166413575411,0.010288797318935394,0.009885856881737709,0.0069732326082885265,0.011662034317851067,0.014838814735412598,0.006886668037623167,0.012068800628185272,0.008349678479135036,0.010569448582828045,0.007260474376380444,0.006883394438773394,0.008697358891367912,0.00509876711294055,0.005903108511120081,0.008621035143733025,0.008825812488794327
+0.012835169211030006,0.01216983888298273,0.010757328011095524,0.006484591402113438,0.01280434150248766,0.004821510054171085,0.012773479335010052,0.009341532364487648,0.008395632728934288,0.004810640588402748,0.004408041015267372,0.005097678396850824,0.011375021189451218,0.012406541965901852,0.008250200189650059,0.011164471507072449,0.012476345524191856,0.011500010266900063,0.007651639170944691,0.011562323197722435,0.011630099266767502,0.011550996452569962,0.011170528829097748,0.011917774565517902,0.004488592501729727,0.012750698253512383,0.012837430462241173,0.005385224241763353,0.0036871586926281452,0.009768571704626083,0.005990762263536453,0.005937506444752216,0.013445844873785973,0.006070796865969896,0.007522754371166229,0.007979338057339191,0.007707324810326099,0.0065115513280034065,0.00836087018251419,0.006140455603599548,0.004382484592497349,0.0073145292699337006,0.003685872070491314,0.0037006260827183723,0.007939129136502743,0.010518518276512623,0.0119240777567029,0.011818771250545979,0.011690327897667885,0.007814921438694,0.011963597498834133,0.005340388976037502,0.011672332882881165,0.010643932968378067,0.00668291887268424,0.0042736586183309555,0.009913603775203228,0.011963597498834133,0.012636723928153515,0.010243396274745464,0.005392248742282391,0.010972042568027973,0.011142206378281116,0.013727976009249687,0.012970894575119019,0.006749884691089392,0.011040942743420601,0.012044107541441917,0.012636723928153515,0.009922306053340435,0.012106839567422867,0.006734530441462994,0.00749758817255497,0.009963341057300568,0.006716055795550346,0.011533675715327263,0.009188047610223293,0.013005265966057777,0.011331962421536446,0.010057354345917702,0.007639260496944189,0.008463960140943527,0.01013596449047327,0.009982937015593052,0.004801413044333458,0.01367393508553505,0.011645167134702206,0.011848999187350273,0.007204072549939156,0.01066715270280838,0.005571724381297827,0.007664627395570278,0.0047917147167027,0.010904531925916672,0.010861731134355068,0.0055296276696026325,0.01287792157381773,0.01475728303194046,0.006556432694196701,0.01168030221015215,0.007978948764503002,0.012590470723807812,0.006130383349955082,0.00634169252589345,0.009286454878747463,0.0063476720824837685,0.00461925333365798,0.009524563327431679,0.0071238684467971325
+0.013117496855556965,0.012026390992105007,0.010647072456777096,0.006177107337862253,0.013021992519497871,0.004631108604371548,0.012010912410914898,0.009469677694141865,0.008498216979205608,0.004218030720949173,0.003928151912987232,0.004921683110296726,0.011517953127622604,0.01205280888825655,0.007562392391264439,0.010696792975068092,0.012734382413327694,0.0115495091304183,0.007461667526513338,0.011890322901308537,0.011788243427872658,0.011865757405757904,0.01140194945037365,0.011866389773786068,0.004348667338490486,0.01332081202417612,0.013103739358484745,0.005438805557787418,0.0035925558768212795,0.009333416819572449,0.00597580149769783,0.0057264650240540504,0.014381497167050838,0.005865397863090038,0.007541976403445005,0.007316125091165304,0.007720733992755413,0.006335548125207424,0.0082146180793643,0.00571548892185092,0.003510127542540431,0.007880963385105133,0.0030525322072207928,0.003426922718062997,0.008062687702476978,0.010898247361183167,0.012163416482508183,0.012235797941684723,0.011921797879040241,0.008104057982563972,0.012260832823812962,0.004658341407775879,0.011873353272676468,0.011193135753273964,0.007187235169112682,0.0036254136357456446,0.009482537396252155,0.012260832823812962,0.01293619442731142,0.01011563464999199,0.004976004362106323,0.011621486395597458,0.011345399543642998,0.014495511539280415,0.013284947723150253,0.006650741212069988,0.011359116062521935,0.011889076791703701,0.01293619442731142,0.009566704742610455,0.01130771916359663,0.006645211484283209,0.007275724317878485,0.010610140860080719,0.007035546470433474,0.011752435006201267,0.009475884959101677,0.013297420926392078,0.011717977933585644,0.010452457703649998,0.007764081470668316,0.009456983767449856,0.009853397496044636,0.009719985537230968,0.004285373259335756,0.012801292352378368,0.011473734863102436,0.01216141041368246,0.007190663833171129,0.010421005077660084,0.005087930243462324,0.007536160759627819,0.0045346422120928764,0.011672161519527435,0.011191927827894688,0.005136304069310427,0.013229526579380035,0.01595994085073471,0.006382704246789217,0.011545022949576378,0.007769501302391291,0.01286221295595169,0.005608312785625458,0.006363252643495798,0.009266974404454231,0.006480760406702757,0.004393002949655056,0.009354430250823498,0.00696390587836504
+Questions:
+Do these require batteries?
+Can a 4 yr. old boy operate this super soaker?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+My 9 year old is enjoying this.
+He actually plays with it, mostly, while in the pool.
+Probably because it makes it easier to reload.
+It shoots pretty far and since it's a Nerf, you know it's not just another hunk of junk.
+We're liking it over here!
+Can't speak for non-pool usage, but for that purpose, it's great, and so far has withstood some pretty extreme temperatures and physical abuse by tons of kids.
+Dropping on concrete, leaving out in elements, and leaving in pool for days at a time.Still works great, and i like the fact that the stream is not so direct in case someone gets nailed in the eye.
+The more diffuse stream has probably save some tears.Highly recommended
+"This toy is perfect--cool enough that my son thinks it's great, but mellow enough not to make everyone in the vicinity hate us.
+You unscrew the cap and either dunk it in the pool or use a hose to fill it up (my 6-year-old figured this out independently before I looked at it, so it's easy), then each time you ""pump"" the bottom orange piece it shoots out 5 streams of water--which are more like a shower, or a hose with a nozzle set on ""spray"" rather than something that will DOUSE you.
+It shoots about 20 feet (mayyyybe 25 if you angle it just right), so it's fun and you get quite wet, but the water doesn't push hard (like some guns where you have to turn your head to avoid eye damage).
+Bonus: even when it's full it will still float in a pool, so you don't have to worry about hunting for it at the bottom of the pool if someone drops it."
+This is a fabulous water gun.
+You get strong streams coming out with pretty good range.
+You have to use this outdoors, as playing in a small, confined space (e.g., bathroom) can get very messy.
+The one essential thing is a nearby source to refill the water as you need frequent reloads.
+Right out of the box, this is a fun toy.
+It's easy to fill up and get running around the yard with this in no time flat.
+The back unscrews just fine, dunk it into the pool and go.Here's where it gets a little dicey.
+To get the pump action to work on this, you need some decent hand strength.
+As an adult, I had no problem.
+My five year old, that's a problem.
+It's just too hard to rack the slide for the little guy.
+Maybe in a few years.
+But right now, he gets a pitiful stream a few feet.The gun is advertised as shooting 34 feet.
+I didn't go out and measure how far I could shoot this but I'd say 25 to 30 feet is possible for an adult with no wind.
+But heck, it's still fun.
+We received this super soaker, along with another model, and we've been making good use of them with fights in our yard and around the pool.
+Here are some general comments on the Blast:Pros- decent water capacity- pump is easy to pull- very accurate on non-moving targets- high water volume with each shotCons- lack of a trigger means &#34;pump to squirt,&#34; since no pressure can be built up in the chamber- accuracy suffers while moving due to lack of a trigger- advertised range of 25 feet seems quite optimisticWe've been very happy with this product, but it's tough not to think how much better it would have been if a chamber for building pressure was included along with a trigger.
+Still, this is a toy that should prove popular with a huge number of kids over the coming summer months.
+This is handy and truly a super soaker.
+It shoots water in five streams that actually look more like three but do the job well, as they spread out to cover the target.
+It's funny that the box warns against shooting in the face...yeah right.
+I'm sure that is exactly where the kids are going to aim...it also covers the dog with just a few shots.It shoots water by pumping the orange handle frontward and then backward.
+It does not have a trigger mechanism.
+It is easy to hold and will be a nice addition to our Nerf watergun arsenal.
+I would say it holds about 8 or so shots per fill up.
+"Summer is finally on its way, so we need to restock our arsenal of water guns.
+Ordered four of them, including this one.
+The other 3:Super Soaker Point BreakMizumi Shubi WatergunSuper Soaker Nerf - Shotwave BlasterThe first two I could consider to be about the same ""class"" of water guns.
+This Scatter Blast and Shotwave Blaster are roughly the same - so I'll mostly be comparing these two.Overall, this was the favorite gun for everyone because it holds a LOT of water, it has very good range, and if you get a couple direct hits, whoever you're hitting will be completely soaked.
+The size and weight is great for kids and adults.The biggest downfall of this one was the fact that the water comes out with such force, that if you're getting blasted at point blank range - close your eyes, otherwise it feels like your retinas are being sandblasted.
+It would be an immediate fun-stopper for smaller kids, but most kids would get over it.Compared to the Shotwave Blaster, everyone liked this one a big more for 2 reasons:  First, we don't have any extra clips for the shotwave blaster, so there's a lot less water to be had.
+Second, this sucker shoots so much water compared with everything else, that taking your chances of dealing a couple direct hits is worth it...Overall, I'd recommend this one without hesitation to anyone except if its for kids under 7 or 8 years old to play by themselves...the retina blasting can really hurt.
+(It goes away quickly, but it's probably not a good long-term use of water guns...)"
+As an adult the toy worked great.
+However, my 4 year olds were unable to use it, and my 10 year old had some difficulty.
+Other than that, it was easy to use and had a great distance on it.
+Got this primarily for my 4 year old.
+He needed a gun with that he could carry, operate and fill himself yet has the range of the larger guns.
+This is perfect.
+I like that the streams are spread out, yes it soaks/wets a larger area but more importantly in my home, it is not a forceful jet that hits full face (read eye).
+Body shots only!
+Body shots only!
+is the rule for close shots in our house, but of course in a house of boys as soon as they're not being closely monitored then it's full head shots.
+The older kids loved the gun as well, it's definitely not a 'toddler/preschool' toy, it's the Nerf regular super soaker water gun just with a scatter blast.
+It's lightweight, easy to prime and works well for smaller kids too.
+A+
+I got this to shoot my kids with.
+They got some new water guns and I thought I needed one also.
+This is a fun gun as it shoots five streams of water.
+IT does shoot about 20 to 25 feet as well.
+The five streams of water shoot straight out and don't really scatter like the name implies.
+They kind of just shoot out and blend into one big stream.
+The gun however is fun.
+It is just a pump and shoots when you pull the pump back.
+The gun does not have a trigger at all.
+Lots of fun and my kids liked to shoot with it as well.
+Easy to use.
+This is a fantastic super soaker.
+It's small enough for a child to carry but big enough for it to pack a blast.
+The handle is nice and comfortable to hold for a long water fight.
+On the front of the gun it has a sight but it doesn't work that well considering it is a scatter blast water gun.The water gun itself works really well.
+It doesn't go as far as it says (34 ft.) but it does have decent range.
+It's got 5 streams of water and it soaks your opponent pretty well.
+The pump is easy to use and the gun holds a somewhat decent amount of water but you have to refill often.
+Overall it's a pretty good water gun that can soak people well.
+My 5 year old Grandson played with this for over an hour the second it arrived at our house.
+It is easy to unscrew and fill up and operate.
+Some water guns are hard for little kids to use, but this one was perfect for him.
+He loved how many streams of water came out when he shot it.
+I don't think it goes as far as it says, maybe only 15 ft, but it is perfect for him.
+This water gun has proved to be plenty of fun in out backyard.
+I thought the pump action was to build pressure before you pull the trigger; on the contrary there's no functioning &#34;trigger&#34; and the pump action fires the gun.
+This means that each blast doesn't last very long, but you can keep pumping to keep firing off blast after blast.
+Five streams at once means it's plenty of water, but of course you'll have to refill often.
+Even my 4-yr-old can work this gun easily, though he needs help refilling.I had no trouble shooting at the advertised distance.The site was cracked from the first time I tried to use it; though it's still intact it won't last long if it's moved much.
+I have no idea whether that's a common weakness or a fluke.
+My seven year old son had a great time playing with this water gun.
+He liked that he could shoot close up or far away and it was fun being able to hit someone with five streams of water instead of just one.
+He did say that he wished the water tank was bigger because he had to refill the gun too often.
+The weather hasn't been very fair to us this summer here in Chicago, but when it does go above 80 my family and like to go out for walks.
+We bring sidewalk chalk usually, but the last two trips I brought my Scatter Blast.You really can't tell how much of a punch this packs just by opening it.
+You have to, of course, fill it with water and blast it at someone you love.
+So I made sure to try it on my wife before trying it on anyone else.I won't be trying it on my daughter after I saw what it does to my wife.For such a little gun with such little reservoir this thing packs a hit.
+I was surprised to see how little I had to press the pump to get a steady stream going.Now, I haven't owned a water gun since I was a kid, so I didn't know how far water-gun technology had advanced.
+My wife knew I brought it along, yet she didn't think I'd dare use it on her.
+But how else was I supposed to test it?Great little gun, though they could remove that false trigger.
+For some reason I keep wanting to press it whenever I pump the gun.
+My 4 year old only recently started using this and she loves it already.
+It's very easy to use and she loves that it shoots water out of 5 streams.
+The pump is simple enough to use even for her but it does require you to load more water because it really doesn't last that long.
+For the price it's a nice soaker and very durable.
+I'm hoping to get another for when my son gets a bit bigger.
+In the meantime she's enjoying squirting him with water out of this one.
+It's a great toy that keeps you cool and keeps you entertained for a long time!
+Unlike other super-soakers where you build up pressure in a chamber then fire with the trigger, this has NO TRIGGER - you spray by pumping the orange handle at the front bottom.
+While there's a lot of water coming out the front, this means you have no accuracy.
+In your water fights, this is strictly a close-range spray and pray weapon, as opposed to some of the longer distance sniper weapons you can use if you've got some elevation or distance on your side

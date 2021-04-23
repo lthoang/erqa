@@ -1,0 +1,69 @@
+Top question(s):
+How many different dolls does this all-in-one set include?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+My 6 year old got this for Christmas and absolutely loves it.
+That said, this is a great playset for girls but be prepared to invest in some ""wall estate"" if you do get it.
+Whats nice about it is that she can use her imagination to create characters and personalities then she gets to get them to move from one shop to another.
+At first I was skeptical of putting this on my wall as I don't want anything leaving a mark but these toys come with a special adhesive strip that when you remove it does not leave marks.
+Since these toys can be attached to the wall, I don't have to worry so much about stepping on the pieces or vacuuming them up.Assembly was a bit tricky as there were not a lot of written instructions.
+
+Question attention weights:
+0.11756372451782227,0.2126869112253189,0.40018731355667114,0.26956209540367126
+Sentence attention weights:
+0.014013370499014854,0.03449707105755806,0.028893787413835526,0.020644953474402428,0.01973099447786808,0.02724890597164631,0.019647937268018723,0.015288046561181545,0.022763671353459358,0.0190101470798254,0.022227486595511436,0.02378768101334572,0.019857440143823624,0.020811092108488083,0.028553128242492676,0.021289179101586342,0.012830655090510845,0.025765275582671165,0.019939256832003593,0.03552766516804695,0.018915530294179916,0.01317254826426506,0.02835114113986492,0.015329143032431602,0.02592579834163189,0.031825028359889984,0.02064606547355652,0.02361021749675274,0.025026926770806313,0.01249296311289072,0.023410646244883537,0.021556438878178596,0.020062251016497612,0.021716322749853134,0.011130119673907757,0.03300609439611435,0.016369830816984177,0.018261119723320007,0.01888304017484188,0.019160021096467972,0.019083505496382713,0.023523448035120964,0.025706203654408455,0.020227110013365746,0.020431064069271088,0.01984964683651924
+0.017575619742274284,0.028984330594539642,0.025621576234698296,0.021730678156018257,0.021318288519978523,0.023843085393309593,0.02140616811811924,0.016629310324788094,0.023292526602745056,0.02108549326658249,0.01861383579671383,0.024300573393702507,0.02122415602207184,0.02188003621995449,0.02630678005516529,0.021643467247486115,0.016325123608112335,0.024836542084813118,0.02087859809398651,0.02842630073428154,0.01959698274731636,0.015145388431847095,0.027081875130534172,0.018386371433734894,0.025385672226548195,0.02711375057697296,0.02161918580532074,0.024176711216568947,0.02380155399441719,0.014764613471925259,0.023788779973983765,0.022699471563100815,0.02152070961892605,0.022654131054878235,0.014230423606932163,0.026662135496735573,0.017870431765913963,0.020954297855496407,0.019969874992966652,0.021436769515275955,0.01823568530380726,0.023523418232798576,0.02310950681567192,0.021617025136947632,0.017946306616067886,0.020786453038454056
+0.015973679721355438,0.028550073504447937,0.025034422054886818,0.022631075233221054,0.021446626633405685,0.024234110489487648,0.022364480420947075,0.015417082235217094,0.024095531553030014,0.0218903049826622,0.015197009779512882,0.02552778087556362,0.022264620289206505,0.023086819797754288,0.02404678985476494,0.022037824615836143,0.01461781281977892,0.025722863152623177,0.021563058719038963,0.027508782222867012,0.01951233670115471,0.013502850197255611,0.029025984928011894,0.01894865557551384,0.02754341810941696,0.026392990723252296,0.022267794236540794,0.026038307696580887,0.024147991091012955,0.012975572608411312,0.025356793776154518,0.023326413705945015,0.022698914632201195,0.02441340871155262,0.012228979729115963,0.027203889563679695,0.017819471657276154,0.022490594536066055,0.017724543809890747,0.022260775789618492,0.015533104538917542,0.02418685331940651,0.02105516381561756,0.02271214872598648,0.01671122945845127,0.020711032673716545
+0.015102392993867397,0.030919091776013374,0.027005551382899284,0.021907180547714233,0.02070373110473156,0.025711197406053543,0.021283771842718124,0.015240492299199104,0.02377580851316452,0.020406674593687057,0.017562776803970337,0.02508978731930256,0.021343717351555824,0.02228669449687004,0.02608756721019745,0.021848497912287712,0.013736345805227757,0.026045380160212517,0.020963730290532112,0.030535321682691574,0.019265171140432358,0.012980753555893898,0.029131891205906868,0.017384182661771774,0.027154913172125816,0.02885342761874199,0.021688660606741905,0.025156211107969284,0.024653367698192596,0.012330335564911366,0.024655483663082123,0.022421585395932198,0.021709948778152466,0.02356499806046486,0.011372956447303295,0.029658392071723938,0.017184315249323845,0.02073904685676098,0.0180521123111248,0.02097225748002529,0.016759375110268593,0.024055980145931244,0.022705746814608574,0.021778805181384087,0.017703454941511154,0.020510923117399216
+Questions:
+How do you unsnap a piece that you snapped in incorrectly?
+How much wall space is needed to hang the entire set?
+How many different dolls does this all-in-one set include?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+"let me start by saying I always thought Legos was for everyone, but I have found that maybe some girls aren't attracted to the square shapes of most of the Lego or block toys.
+That said, this is a great playset for girls but be prepared to invest in some ""wall estate"" if you do get it.
+Have to somewhat commit for this toy ;)"
+This is the best Polly Pocket toy I have ever seen.
+It has eight different platforms.
+The dolls slide between the parts!
+It also has lots of storage space for the dolls and the utensils.It take a little time to put together, but it was easy.
+The platforms fit on a wall space of about three feet.
+This is not a floor toy, but a wall toy.
+It sticks there by removable strips.
+It will not damage a painted wall, caution may be necessary with a wall paper space.I would highly recommend this toy.
+My five year old loves it.
+This is a great set.
+My 5 year old daughter loves it.
+Once assembled and on the wall I thought it was really cool how the plastic rods connecting each play scene has a harnes that you attach a polly pockets figure to and slide down to the next scene.
+Very cool.
+There are many items too that come with suction cups so they don't fall off.
+They even have suction cup shoes for the dolls.
+Again, very cool.
+At first I was skeptical of putting this on my wall as I don't want anything leaving a mark but these toys come with a special adhesive strip that when you remove it does not leave marks.
+They give you a few extra so I tried it twice and they work.
+One thing I will caution though, it took me over 1 hour to get all of the scenes together and mounted on the wall so block some time for setting this toy up.
+My 6 year old got this for Christmas and absolutely loves it.
+She plays with it at least once a day and if the weather is bad, she will stay in her room and play with it most of the day.
+Whats nice about it is that she can use her imagination to create characters and personalities then she gets to get them to move from one shop to another.
+All the while, it is mounted on the wall so her room stays relatively clean.
+We love it!!
+!
+This was even fun to put up on the wall with the child giving opinions on what should go where and each section coming in its own little bag.
+There are so many activities with a tree house, a balloon ride, a campsite, a cafe, etc.The play can be solo or with a parent for a lot of vocabulary learning.
+If your little girl likes Polly, then she will love this set.
+And it can make a wall into a major play center.
+It has seen hours of play here already and many more coming.
+This would make a great birthday gift or special present for a 4-9 year old.
+This Polly Pocket Wall Party is an innovative way for my daughter to play with her Polly Pocket toys and it gets the clutter off of the floor.
+Since these toys can be attached to the wall, I don't have to worry so much about stepping on the pieces or vacuuming them up.Assembly was a bit tricky as there were not a lot of written instructions.
+The pieces for each item were sorted into individual bags and some of them had instructions in color.
+Those were easier to assemble than the ones in grayscale.
+One of the pieces holding the adhesive was put on upside down in the factory and that threw me for a loop, but once I figured that out, I took it apart and put it back together the right way and popped it into place with no problem.Most of the pieces don't have a level bottom, so you can't easily play with them on the floor.
+They really are designed for the wall only.
+We'd considered putting the Wall Party on the marble surrounding our fireplace because we thought the adhesive strips would stick better, but after looking at it we thought there wouldn't be enough space to fit everything.
+We ended up putting it all on textured walls.
+We pressed the strips on really hard and they've been sticking fine.My daughter has a lot of fun playing with this set.
+She has some other Polly Pocket items she can incorporate too.
+She seems to be pleased about how novel this toy is compared to other floor or table toys and she really likes the slides and zip lines that connect different areas.
+I'd recommend this as something that's a change from the usual doll sets.

@@ -1,0 +1,117 @@
+Top question(s):
+Just bought this doll for my daughter and it is not pooing nor peeing. it still has in the demo batteries.  Please advise
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+I think it would definitely be best for ages 3 and up.
+This can be annoying if my granddaughter is playing with the doll while the rest of us are watching tv.My granddaughter loves to feed the doll and the first couple of times she enjoyed changing the diaper, but that novelty wore off.
+Aside from that, I have to say that Baby Alive is tremendous success!"
+She was so excited!
+There's a very simple button on the belly.Some standouts that make this doll especially nice:1.
+
+Question attention weights:
+0.24855110049247742,0.3122285306453705,0.15371622145175934,0.2855041027069092
+Sentence attention weights:
+0.012401488609611988,0.011620903387665749,0.005680376198142767,0.004647006746381521,0.013297732919454575,0.009165032766759396,0.012556840665638447,0.00650525139644742,0.007883144542574883,0.007732554338872433,0.008934198878705502,0.006072376389056444,0.006275975611060858,0.0036247491370886564,0.0057521709240973,0.012709488160908222,0.012710467912256718,0.0037936323788017035,0.01541153434664011,0.012138457968831062,0.008916628547012806,0.011524247005581856,0.01239099446684122,0.013539854437112808,0.009934443049132824,0.008343572728335857,0.008579326793551445,0.012270617298781872,0.010817338712513447,0.00922164786607027,0.012354712933301926,0.012083688750863075,0.01142210140824318,0.01265630591660738,0.005868527106940746,0.012710019946098328,0.005761893466114998,0.01348301861435175,0.01029987819492817,0.011071649380028248,0.005530106369405985,0.012559967115521431,0.010713647119700909,0.003676806576550007,0.016528703272342682,0.012036668136715889,0.013283754698932171,0.011286680586636066,0.012855013832449913,0.012951333075761795,0.011581284925341606,0.014506208710372448,0.00918651558458805,0.0128208352252841,0.005654823966324329,0.008139916695654392,0.018236862495541573,0.01195478904992342,0.012743087485432625,0.01029473077505827,0.009958858601748943,0.009790541604161263,0.012819305993616581,0.0090020801872015,0.01502263080328703,0.008160079829394817,0.010286638513207436,0.012771249748766422,0.011768982745707035,0.011599700897932053,0.005800729151815176,0.012446021661162376,0.013386452570557594,0.011386591009795666,0.009943914599716663,0.01543289516121149,0.0123737258836627,0.012673553079366684,0.00867469608783722,0.01131607498973608,0.005482291337102652,0.00788840465247631,0.010090675204992294,0.008985007181763649,0.01020080503076315,0.010505200363695621,0.01780729554593563,0.012327760457992554,0.013491184450685978,0.009727475233376026,0.014613336883485317,0.012218516319990158,0.012776309624314308,0.010565465316176414
+0.01261939201503992,0.011243906803429127,0.005561478901654482,0.0042033749632537365,0.013668022118508816,0.00892589520663023,0.012828963808715343,0.006722434423863888,0.007837382145226002,0.00786823034286499,0.009193331003189087,0.006176161114126444,0.0061465902253985405,0.00359567953273654,0.005404561758041382,0.012937239371240139,0.013040638528764248,0.0034491880796849728,0.014910767786204815,0.011107182130217552,0.008999665267765522,0.011575334705412388,0.012688737362623215,0.013622414320707321,0.009026641957461834,0.008829299360513687,0.008456643670797348,0.012261558324098587,0.011001868173480034,0.00910144578665495,0.012672940269112587,0.012284721247851849,0.01153507735580206,0.01300380565226078,0.005624908953905106,0.013065101578831673,0.00519130565226078,0.013593542389571667,0.010329530574381351,0.01124359667301178,0.005417723674327135,0.012761680409312248,0.011112933978438377,0.003975618630647659,0.016619786620140076,0.012299519032239914,0.013575132004916668,0.011385077610611916,0.012983517721295357,0.013309177942574024,0.011787784285843372,0.014661610126495361,0.009365887381136417,0.013083958066999912,0.005603818688541651,0.007817590609192848,0.01852988265454769,0.012045996263623238,0.01307697594165802,0.010680031031370163,0.009165247902274132,0.00979552697390318,0.013069028966128826,0.008910988457500935,0.015415333211421967,0.00814408715814352,0.009607464075088501,0.012605678290128708,0.011405982077121735,0.011473110876977444,0.005819247104227543,0.012488904409110546,0.013537411577999592,0.010547769255936146,0.01012894231826067,0.015330552123486996,0.012648528441786766,0.012130682356655598,0.00850177463144064,0.011327177286148071,0.005210288800299168,0.0074973152950406075,0.010092223063111305,0.008771843276917934,0.010683191940188408,0.01075012143701315,0.01712210476398468,0.01253487914800644,0.013088998384773731,0.00974362250417471,0.014574551954865456,0.012546862475574017,0.013153770007193089,0.010534561239182949
+0.011378258466720581,0.010501454584300518,0.005505222361534834,0.003924477379769087,0.012621673755347729,0.009095310233533382,0.012206129729747772,0.0075882431119680405,0.008969170972704887,0.006798293441534042,0.009177664294838905,0.006729514803737402,0.007643020711839199,0.004650866147130728,0.006906830705702305,0.012460251338779926,0.012499881908297539,0.00509043550118804,0.0156552754342556,0.013678014278411865,0.007628483232110739,0.010997889563441277,0.012181262485682964,0.013828360475599766,0.010685626417398453,0.00934561900794506,0.009358817711472511,0.012812767177820206,0.011212434619665146,0.008392967283725739,0.012231213971972466,0.011819751933217049,0.011167219839990139,0.012489876709878445,0.006745556835085154,0.01257422473281622,0.005213168449699879,0.012397044338285923,0.009532231837511063,0.010105794295668602,0.006676120217889547,0.012599952518939972,0.009954874403774738,0.0033324463292956352,0.01688307896256447,0.01170123741030693,0.013666904531419277,0.01146114245057106,0.01402971614152193,0.012869616970419884,0.011507183313369751,0.01356230117380619,0.008894354104995728,0.012398647144436836,0.005705517251044512,0.0061362991109490395,0.017980726435780525,0.011859982274472713,0.012577279470860958,0.010673070326447487,0.009935177862644196,0.009331144392490387,0.012479678727686405,0.009768580086529255,0.014329646714031696,0.007839705795049667,0.011547458358108997,0.012037593871355057,0.011915590614080429,0.010354864411056042,0.0056510865688323975,0.011144074611365795,0.013474121689796448,0.011635980568826199,0.010088430717587471,0.01577102206647396,0.01221215259283781,0.013033979572355747,0.009119669906795025,0.011611458845436573,0.005876882933080196,0.008528651669621468,0.008752410300076008,0.009248428978025913,0.00923177506774664,0.010514447465538979,0.02093786746263504,0.012391842901706696,0.012984695844352245,0.010808853432536125,0.013702877797186375,0.012377368286252022,0.01282088179141283,0.010270820930600166
+0.012506570667028427,0.010890604928135872,0.005790760740637779,0.004227578639984131,0.01355829183012247,0.009300057776272297,0.012764853425323963,0.007083558011800051,0.00800839439034462,0.008027094416320324,0.009506591595709324,0.006559877190738916,0.006199488416314125,0.004036226309835911,0.005598688963800669,0.012874878011643887,0.012969808652997017,0.003628053469583392,0.014659435488283634,0.011058254167437553,0.0092075290158391,0.011540648527443409,0.012611358426511288,0.013429002836346626,0.008924515917897224,0.009122449904680252,0.008497035130858421,0.012098371982574463,0.011023503728210926,0.00913405604660511,0.012667063623666763,0.012478537857532501,0.01152044627815485,0.012945934198796749,0.005691708996891975,0.013003882952034473,0.005321434233337641,0.013374502770602703,0.010308429598808289,0.011333626694977283,0.0056290458887815475,0.01267312839627266,0.01132830698043108,0.004304345231503248,0.016043832525610924,0.012309853918850422,0.013394548557698727,0.01136782206594944,0.012874909676611423,0.013251707889139652,0.011801067739725113,0.014424684457480907,0.009514596313238144,0.013027207925915718,0.005805106833577156,0.007849297486245632,0.017971187829971313,0.012020341120660305,0.013049377128481865,0.0108756422996521,0.00918614398688078,0.009939772076904774,0.01297454908490181,0.009048180654644966,0.015128852799534798,0.008310259319841862,0.009368360042572021,0.012051313184201717,0.011436509899795055,0.011596504598855972,0.006018620450049639,0.012410524301230907,0.013389536179602146,0.010211903601884842,0.010276802815496922,0.01475160289555788,0.012617082335054874,0.011716022156178951,0.008630628697574139,0.011298330500721931,0.005318895913660526,0.007602810859680176,0.0101616894826293,0.00883338414132595,0.011165156029164791,0.010893362574279308,0.016746412962675095,0.012468545697629452,0.012720624916255474,0.010265582241117954,0.01418888196349144,0.012567439116537571,0.013090173713862896,0.010616405867040157
+Questions:
+I want to buy this doll, but I need to speak in Spanish, if I buy online, I'll have the security that I receive come you speak Spanish?
+Just bought this doll for my daughter and it is not pooing nor peeing. it still has in the demo batteries.  Please advise
+Could a dish rag/wash rag  be used as a liner for a diaper and make the diapers reusable?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+My 5 yr old daughter has wanted a doll that did `everything' and I think this one is as close as it can get.
+This doll does what the typical doll does by saying various cutesy phrases, sucking on bottles/pacis, laughing, etc.,  but what sets this doll apart from others is that this doll takes it a step farther...she really can be `fed' and `soil' diapers.
+The doll does everything; I think the only thing I have yet to hear it do is cry - which is a sound I could forego.The doll does not come with volume control, but it is not overly loud or annoying.
+It encourages nurturing and parenting and it's not just for girls, even my nearly 7yr old son joined in on the feeding fun but when it came to the diaper change, he wasn't having it (*grin).The only thing I would change would be the dolls size.
+I think the doll seems bulky and not baby-like.
+The dolls eyes are too big and it doesn't make for a great cuddle companion.
+However, with that said, my daughter really seems to like this doll above her others.
+She gives it plenty of kisses and it makes her laugh, so for that I give it two thumbs up and would recommend it.
+Just be prepared to buy more food and diapers.
+*As an Amazon Vine Member i review this item just as I would if I had purchased it.
+"From the Manufacturer:Baby Alive Real Surprises Baby Caucasian Your little girl will love feeling like a real mommy when caring for her Baby Alive doll.
+She'll fall in love with the adorable look of her sweet new baby doll, and the nurturing play will engage her.
+The Real Surprises Baby doll's playful personality mixed with your little girl's imagination will allow for feeding, diaper-changing, tickling and giggling fun.
+All she has to do is press baby's tummy to begin playing.
+Real Surprises Baby doll shakes her head from side to side to tell your little girl what she wants and what she doesn't.View larger Now that she has a full tummy, Real Surprises Baby doll really wets and messes her diaper.
+She'll say, ""Pee-U!
+Did I make a stinky?
+""When your daughter presses baby's tummy repeatedly, she giggles.
+When she tickles her, baby will react to her touch with even more laughter.Time to change her diaper (3 Baby Alive diapers included).
+""Tickle my tummy.
+""""I'm sooo hungry.
+""Features: Baby Shakes Her Head from Side to Side.
+Baby Really Eats.
+Baby wets and messes.
+Tickle baby's tummy to hear her laugh.
+Baby's eyes really close.
+"First things first: The ""real surprises"" in the name refer to the doll's ability to simulate eating and then pooping.
+I have no idea why a kid would want this extra work, but my little niece loves it.
+It helps that the doll looks just like her.The doll is a little bigger than I thought she would be, but that's a good thing.
+Also, as mentioned in other reviews, she's kind of loud.
+But she has a good repertoire of sayings and such and everyone who has seen it thinks the doll is ""very cute.
+""The refill pack for diapers and food is available here at Amazon.
+It contains 10 diapers, 10 food packs and 10 juices.
+It currently runs around $20, which seems like a lot to me.
+If you're a parent who wants to avoid having to buy the pack, know that the doll is great without using the feed/poop features -- but given the doll talks about feeding and such, your little one might insist on experiencing the doll's gastrointestinal wonders.
+And that might get expensive fast.
+Also, you'll be the one cleaning the toy after feedings, so that's another thing to consider.All in all, if your child wants a cute doll with good animatronics and realistic feeding behaviors, this is a great choice.
+But make sure you know what you're getting into."
+"Baby Alive is cute, cute, cute!!
+Right out of the box, she was a tremendous hit with our little one.
+There was quite a bit of play time devoted to this doll, exploring all the things she does and enjoying all the sounds Baby Alive produces.
+(Just be aware this is not a very quiet toy.)
+Of course, the question is always how long the ""anamatronic"" details will remain a fascination -- but the doll is sweet-looking enough on its own to be a loveable addition to a doll collection.
+One minor complaint: I wish the dress was made of a better fabric with a softer feel like a real baby's dress.
+Aside from that, I have to say that Baby Alive is tremendous success!"
+"This Baby Alive Real Surprises Baby Doll was a hit with my little one.
+First it's way better than anything I had at her age.
+It needs care, it goes number 1 and 2 so you change it, love its size good weight to it great for little hands.
+Of course you dress and feed her as well.
+She has food,paci,bib ect.
+It's on the loud side kids will love that parents not so much.
+It's a fun doll and a fairly ""realistic"" experience."
+"I had a doll in the 70's that ""ate"" some kind of concoction and wet, and I remember it was quite exciting.
+This doll has so many of the accessories little girls will love.
+Beware, the doll is fairly expensive to begin with and you'll have to buy more diapers and food.
+The doll is really like a little robot, with its head movements and interactive ""talking"".
+I think it would definitely be best for ages 3 and up.
+Others have said their younger kids enjoy her, but to really benefit from all that the doll can do, I think your child will need to be a little older, and even then, she'll need some supervision.I think the doll's face is adorable!
+Some have called it creepy, but I don't think so.
+I love her big, blue eyes and pig tails.
+She's not soft, so she's not a doll to cuddle with at bedtime, but your girl could put her down in her own ""crib"" like a real baby.As others have said, the doll is quite loud and the volume is not adjustable.
+That's probably the biggest downfall I can think of, along with the expense of replacing the accessories."
+"I got this for my 4 year old niece and she loves it!
+She's been wanting a Baby Alive for a long time but we were reluctant to spend the money because it is a continual expense having to buy the food and diapers for it.
+She was so excited!
+I love that the doll is larger than most baby dolls and that it's so interactive.
+Baby Alive talks when you push her tummy and says things like ""No More"" about the food, ""I made a stinky"" and sniffs, and says ""Where are you Mommy?""
+I also love that it teaches the child to be responsible in taking care of the baby doll in having to feed it, change it when it pees or poops, and lay it down for a nap just like a real baby (its eyes close when its laid flat).
+Another great thing about the doll is that it comes with quite a few accessories like a pacifier, bib, bowl, spoon, food packets, bottle, and diapers.
+At $40 it's a good value.The only thing I see as a down side is that the doll is a little creepy looking and that she's pretty loud and you can't turn her voice down.But Baby Alive is an awesome, realistic doll that's a big hit in our house!
+I'd definitely recommend this doll over a traditional baby doll for the interaction benefits."
+"Even though this doll is rated for 3+, I gave it to my 15 month old daughter.
+She loves it!
+This doll is very durable and tolerates being tossed around, grabbed by the hair, etc.She has a couple of other ""alive"" like dolls ... little mommy, corolle, etc.
+This one is the easiest to get to talk.
+There's a very simple button on the belly.Some standouts that make this doll especially nice:1.
+The voice is very clear.
+I have found some other talking dolls a bit hard to understand2.
+Easy to use - the button on the belly is great3.
+Size - this doll is big and my daughter can use some of her own things with this doll (i.e.
+her cups, bowls, spoon, stroller, etc)4.
+Motion - the head neck twisting (to look for mommy or sniff for a stinky) is a nice surpriseOverall this is a cute little doll that is durable.
+It would certainly be good for kids older than my daughter, but if it can withstand the abuse of a 15 month old, it will probably do well with a 3 year old too!"
+The Baby Alive doll is cute and a great size for a little girl.
+She speaks clearly and it doesn't sound like it's coming from a tiny little speaker (like the talking dolls did back in my day).
+In fact, the voice is really quite loud and there is no way to turn the volume down.
+This can be annoying if my granddaughter is playing with the doll while the rest of us are watching tv.My granddaughter loves to feed the doll and the first couple of times she enjoyed changing the diaper, but that novelty wore off.
+Now, she still feeds the doll, but her mom & dad do the clean up.
+Mom and Dad also have to clean the doll's mouth after each feeding.I gave her the doll recently and she is not yet out of diapers and food.
+I showed the doll to my mother and she is making some little cloth diapers with Velcro closures that can be washed and reused.
+That will solve the problem of buying new diapers which are kind of expensive.
+The food is another story.
+I don't think you can feed the doll anything other than the food that comes with it and it is expensive to buy more.
+I will be purchasing more food and probably some diapers for my granddaughter for Christmas, but if she runs out of food in the meantime, I think Baby Alive will have to go hungry.

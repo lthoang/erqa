@@ -1,0 +1,267 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+She didn't care that she drew the same images over and over, or that she had to use her own crayons.
+This product just didn't hit the mark.
+I'm going to buy another one for her best friends birthday in June!
+She's an animal lover and this is perfect for her!
+She didn't worry about the number of sheets that came with it.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.004694629460573196,0.004380934871733189,0.004826628137379885,0.004813611041754484,0.0026291185058653355,0.0032826100941747427,0.001972146099433303,0.001577525632455945,0.0057055167853832245,0.0028086008969694376,0.004369820933789015,0.0038864363450556993,0.004533683881163597,0.004353941883891821,0.002751973457634449,0.004438759759068489,0.0036749623250216246,0.002739862771704793,0.002916862489655614,0.0032280466984957457,0.004367430228739977,0.004709033761173487,0.0040140300989151,0.005831568967550993,0.004937272984534502,0.004273409489542246,0.0032618234399706125,0.003947645891457796,0.004585347604006529,0.002310511190444231,0.0032186168245971203,0.0018625069642439485,0.004865201190114021,0.001396505394950509,0.0038809918332844973,0.002655194140970707,0.0033378442749381065,0.00443224934861064,0.002513384446501732,0.0034829634241759777,0.004268787335604429,0.002086552092805505,0.005019071977585554,0.003706171177327633,0.00236541498452425,0.004982547834515572,0.0028415839187800884,0.002533511957153678,0.004556200001388788,0.002078308491036296,0.0028995044995099306,0.0027918219566345215,0.003443031804636121,0.00315679213963449,0.0047427997924387455,0.001862553064711392,0.002403752878308296,0.0021075967233628035,0.004721860866993666,0.003906349651515484,0.0020994392689317465,0.003463720204308629,0.0035751790273934603,0.0037939471658319235,0.004360557068139315,0.00537063367664814,0.0056295860558748245,0.005323907360434532,0.00502293324097991,0.005782551597803831,0.004551175981760025,0.005332317668944597,0.005175227299332619,0.005332317668944597,0.0022200762759894133,0.005332317668944597,0.005210702307522297,0.005298767704516649,0.003956099506467581,0.00459734071046114,0.005323673598468304,0.004853673279285431,0.003423703834414482,0.0023820316419005394,0.003383927047252655,0.003508311929181218,0.004511114209890366,0.00458231195807457,0.004560983274132013,0.0014427078422158957,0.004874199628829956,0.004470396786928177,0.004098830744624138,0.004594387020915747,0.002854629186913371,0.0036411788314580917,0.003543879371136427,0.003889015642926097,0.005493777338415384,0.0020592024084180593,0.0053464872762560844,0.0032500294037163258,0.0026311189867556095,0.005353026557713747,0.00442718667909503,0.0033771279267966747,0.0037139502819627523,0.0041131735779345036,0.002183035248890519,0.006621832959353924,0.004146351478993893,0.005411495454609394,0.006182874087244272,0.005343453027307987,0.0047718253917992115,0.005018868483603001,0.0035971137695014477,0.005420026369392872,0.006418887060135603,0.005397914443165064,0.003924751654267311,0.004791931714862585,0.004302856046706438,0.002168219070881605,0.00339515320956707,0.0025971666909754276,0.002258055843412876,0.00384284439496696,0.0034172709565609694,0.002675801981240511,0.003668164601549506,0.007553404197096825,0.006072678603231907,0.004590591415762901,0.004939893260598183,0.0018206000095233321,0.004318725783377886,0.004317966755479574,0.004832903388887644,0.001970923040062189,0.0054997834376990795,0.002359897829592228,0.004785181954503059,0.005915360059589148,0.00480267871171236,0.00543962512165308,0.0024692334700375795,0.0046137599274516106,0.004844458773732185,0.00425982940942049,0.005768199451267719,0.002757951384410262,0.0057295626029372215,0.005113734398037195,0.0057402197271585464,0.004073568619787693,0.00543962512165308,0.002469268860295415,0.003447937313467264,0.004240467678755522,0.0029034041799604893,0.005159348249435425,0.0052043781615793705,0.002079287078231573,0.004586135037243366,0.004108923953026533,0.005021306220442057,0.0037251028697937727,0.0037649471778422594,0.0018557831645011902,0.002609164919704199,0.004472186788916588,0.006028742995113134,0.003248376538977027,0.0029282004106789827,0.004991127643734217,0.005123757757246494,0.005082369316369295,0.003468778682872653,0.004678870551288128,0.0035033009480684996,0.0027480479329824448,0.004412571433931589,0.0046357885003089905,0.0033559647854417562,0.0050324141047894955,0.0051439665257930756,0.005531409289687872,0.005070052109658718,0.0036290695425122976,0.005194088909775019,0.005192322190850973,0.005350705236196518,0.0017786845564842224,0.0021827088203281164,0.005473573226481676,0.005452835001051426,0.0024588285014033318,0.004735572263598442,0.002018931321799755,0.005091743543744087,0.004896579310297966,0.0034018380101770163,0.005390799604356289,0.004164432175457478,0.005294531583786011,0.001996259670704603,0.0018936791457235813,0.0037537782918661833,0.004138379357755184,0.002874031662940979,0.0031096157617866993,0.005991202779114246,0.0031338706612586975,0.003101640148088336,0.001412654877640307,0.0034839732106775045,0.0036302562803030014,0.004191587679088116,0.004886183887720108,0.005322825163602829,0.005399454850703478,0.002676230389624834,0.004309629090130329,0.0025563042145222425,0.0023499696981161833,0.0051927268505096436,0.004590765573084354,0.0021856604143977165,0.0051927268505096436,0.0051637981086969376,0.003347855992615223,0.001996149541810155,0.0052675907500088215,0.003495028242468834,0.0016340160509571433,0.0054951999336481094,0.0037134282756596804,0.002257963875308633,0.0035443585366010666,0.0038992261979728937,0.0047300453297793865,0.003968297503888607,0.003549697110429406,0.003097930457442999,0.005966992117464542,0.004354322329163551,0.002016270300373435,0.003136945189908147,0.0028122887015342712,0.004178074188530445
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+"This is basically a small light box for drawing.
+There's a small clear part where light shines from underneath - the template sits on top of the shadowbox inside.
+If the child can trace, this is a fun activity.
+The box says from age 7, but it's also fun and doable for younger kids, probably from age 4.
+Perfect for distracting/occupying a child at the doctor's office or at a restaurant.To use it, you need to provide your own 4 AA batteries for the shadowbox.
+Inside, you can store 20 plastic templates, square papers and a small felt-tip pen.
+There are little notches on the templates to provide greater stability, but it can pop off if the template is warped.
+The square paper slides into the slot on top and remains there rather securely.Yes, you can adjust the zoom, but it's very inconvenient because you have to open the green outer box to get to the shadowbox.
+Also, I wouldn't say it ""zooms"" because the default setting fills the 4 1/8"" by 4 1/8"" square paper, and the only change in size is to go smaller.You will run out of paper quickly, so have some extra already cut to fit."
+My 7 year old has recently discovered drawing so this was a perfect choice for him.
+The set is fairly compact so that it doesn't take up my entire table and it has a convenient case for all of the pieces.
+I find that this is much better than the big art tables that are back lit that we looked at.
+I also find that it has taught my son some of the basics of animal drawing and he is now starting to move on to free handing some of them.
+The set comes with 20 disks that can be arranged differently to produce different drawings.
+Now that he has drawn a lot of the combinations his free hand is getting much better.The negatives that go with this set is that the light isn't very bright so the room you are drawing in needs to be very low lit.
+Also, the cardboard shade gave out (after a fair amount of use as he has been playing with this for two weeks straight).
+However, we simply cut another piece to put in and use.
+Last there is a finite number of combinations so there are only so many drawings that your child can produce.Overall, we are very happy with this toy and my son has gotten a lot of play out of it.
+It is also a great tool for teaching the beginnings of drawings as they start trying to free hand some of the animals after awhile.
+The 5 year old and 8 year old were excited for a day or two, then the papers ran out.
+Not a big problem since we can cut regular pages to fit the size required for this toy.
+The plastic box feels cheap, but does the trick.
+It would be great if the producers of this machine would sell individual transparent design sets, so one does not have to buy a whole new machine with a different set of patterns.
+The images are relatively small - a bigger screen would have been a lot easier to handle.
+"My 6 year old son really enjoyed the Xoomy.
+He played with it quietly for about 40 minutes and then opted to bring it to the restaurant with him instead of his Nintendo DS, which really surprised me.
+He is quite creative and loves art, so maybe that's why he's interested in it.
+He did say he wished it came with more paper and other assorted transparencies.
+He wanted to bring it with him on an errand this morning, but was already out of paper.
+It is kind of a bummer to sit and cut 4 inch squares of paper.The Xoomy comes with 20 transparencies, 10 sheets of starting paper, and a fine tip felt pen.
+Basically, the toy projects the transparency image onto the paper, you trace the image, and then color it in when you are finished with your final masterpiece.
+(This toy reminds me of my childhood art toy, ""Fashion Plates.""
+Where you design an outfit and then can color it in.)
+The only inferior part of the toy that I can find is the flimsy card-stock glare shield.
+There is no way that is going to last, but so far we haven't had a need for it.
+The light isn't too bright where it would hurt your child's eyes, but it is definitely bright enough to work well.
+I would recommend this if your child likes art and enjoys drawing."
+My eight-year-old daughter absolutely loves to do crafts and mess around with markers and paper, so I knew this product would be right up her alley.
+The minute the package arrived at our door, she raced off to give it a try.In order for the toy to function, you'll need 4 AA batteries, which were not included.
+I swear, my kids must eat them because we had to scour the house looking for some rechargeables that weren't already being used in some other toy or video game controller.
+I wish I'd had the forethought to make sure I had enough before the toy arrived, because my daughter was pretty distraught when we had trouble finding batteries.
+I guess Amazon's happy, though, as it meant I ended up ordering some more batteries.That aside, the toy itself is encased in a pretty sturdy green plastic shell.
+I don't think it would take a lot of beating, though, so some careful treatment is required.
+The transparent plastic window on the top of the device, along with the round piece that covers the bulb are both pretty sturdy.
+The toy comes with a small, black felt-tip pen, 10 sheets of paper, and 20 disks, along with a cardboard piece that can be used as a sort of screen to make the projected image easier to see.
+The screen was a disappointment as it goes without saying that the cardboard can very easily and quickly be trashed.
+I wish this piece had been plastic instead.To draw, you simply place one of the twenty animal disks over the bulb, close the toy, lay a sheet of paper over the transparent window, and trace the image.
+My daughter had tons of fun trying out various wheels and then coloring the pictures in.
+The toy was very easy for her to use, and she was proud to show us her results.
+She really likes the felt-tip pen, but it can be easily swapped for a pencil or a magic marker if the pen runs out of ink.When your child is finished playing, they simply put the disks in the little compartment reserved for them, and then put the remaining pieces in the unit before closing the lid and clasping it shut.
+It's about the size of a small purse and it's not very heavy, so it's definitely easily portable.
+I can imagine taking it someplace like a restaurant or the airport, and it would keep your child entertained for a good stretch of time.However, the paper is an odd size for the U.S.
+If you're really particular, you can trim regular paper to the proper size, but that would frankly be a pain.
+Ravensburger Xoomy Animals is a simple tool to help kids practice and create their own small drawings.
+It consists of a base with a light, pieces of paper made to fit easily into the cover, round transparencies with different designs, and a black pen for tracing.The way this artistic tool works is simple enough.
+You select one of the transparencies, each containing animals, place it on the flat surface over the light, then snap the cover shut.
+Next, you slide a piece of paper into the top and then, with the black pen, start tracing the design.
+Once the design is traced, the small piece of paper can be displayed as- is, or colored for added fun and creativity.I like that the Xoomy Animals encourages artistic creativity, but it is easy to see some of the shortfalls of this toy.
+For one, the light isn't very bright.
+It is needed to project the image from the transparency to the paper above, for tracing purposes, but it isn't very bright so you may need to close blinds and eliminate other light sources in order to best see the image.
+The other thing I wish was different is the paper itself- it isn't standard in size, so you will have to measure and cut your own paper once your kiddos have used up all ten sheets, and this could easily happen the first day they use the toy.On the good side, this toy does encourage kids to draw and then make their own creations by adding their own color.
+Some may argue that, since kids are only tracing lines, that the creativity isn't good enough, but I disagree because kids can still add their own lines and shapes as they trace, and then color later on.
+No one says they have to trace every line precisely as presented and stop at that, so there is some creative value.My kids love art and I have found that they do, indeed, like Ravensburger Xoomy Animals.
+More transparencies would be nice and I would like if the paper holder used more standard size sheets, but this is still a good enough artistic toy to recommend.
+This toy is rated for 7 years old, but my little girl is about 5 years and is able to do it.
+She enjoys picking which picture to draw!
+There a lot of choices.
+How does the toy work?
+You turn on a bulb and then put the chosen picture over the bulb.
+It is then projected onto a screen in which it is blown up to a bigger size making it easier to draw.
+All you have to do is use the provided fine point pen and the paper.
+If you run out of paper in the long run, it would be easy to make more yourself.
+It is turning my little girl into an artist.
+This is a fun toy.
+If one change could be made to the product, for me it would be the paper being more secured on the screen.
+It does move some.
+When we first received the Xoomy Animals both my younger kids were pretty psyched about trying it out.
+It's pretty self-explanatory and we were able to set it up for use quickly.
+Of course, the papers it comes with goes quickly and you will need to get paper that size to slide underneath the ridges for the child to trace the picture.
+IDK about you but I don't plan on cutting out little squares.
+Overall, the girls liked it very much but like I said...with two of them using it they went through the papers quite quickly.
+We gave this to a 7 year old who really enjoyed it.
+Like other reviews have said, you have to cut paper down to fit in the machine and it could have been made more sturdy.
+But it is a fun tool for kids to gain confidence in drawing and to practice tracing.
+"My four and six year old grandchildren love to draw and they loved the Ravensburger Xoomy Animals.
+They played with it for days.Only ten sheets of 4"" square paper is provided so you'll have to be prepared with paper and scissors to make more squares.
+We went through a lot of paper!
+The recommended age for this was 7 plus.
+The kids weren't as careful with the animal image patterns as they should have been and many were bent or walked on as they fell on the ground and were not picked up.
+Unless your four to six year olds want to eat the discs, you shouldn't have a problem with safety--the problem you may have is that their little hands don't always carefully put them on the zoom lamp carefully and they get bent or they fall on the ground and at four the excitement of a new toy sometimes superseded the need to pick up the discs which were then stepped on.The device is easy to use and the kids played with it for a couple of weeks before most of the discs were bent or lost.
+I think if the kids had been older the appeal would have faded long before a couple of weeks.The device and discs don't really foster a lot of creativity, but it did provide many hours of fun during the time the kids were enamored with the unit.We ended up replacing the batteries twice in two weeks as the kids would forget to turn the unit off."
+This is a fantastic drawing toy for any child that loves tracing and loves animals.
+The case itself is very durable and a nice carrying case.
+The discs, on the other hand, are a little cheap and flimsy.
+However, they do work.I have no problem with the light quality or strength and tested it with three sheets of photo copy paper and could still see the projected image through the paper.I really like how the bulb can be raised and lowered for differ sized tracings.
+I also like the ability to line up and merge parts of drawings together to allow for some creativity.Yes, the paper is an odd size and you get very little of it.
+A heavy weight template would be nice for cutting more.The drawing surface is pretty strong.
+I put pressure down on it and it did not move.The other nice use of this toy is as a little light table.
+You can easily put a small image on the surface under a piece of paper and trace it like a professional light table.I really like this and definitely recommend it.
+With Aspergers we have gross motor skill problems and praticing writting and holding pencils and such gets boring.
+This little tracing machine has helped make it more fun to draw.
+It allow you to trace the animals in the kit and then be creative in the rest of your design.
+Having the disc to trace has helped with pratice holding and controling his pencil.
+Great toy.
+Drawing kits like this have been around forever.
+Ravensburger has a good, solid idea on their hands, but the execution of the product makes this a less than exciting product.Pros:-Good idea, been around for ages.-In terms of portability, it is travel friendly in size.Cons:-Because of it's travel friendly size, you can't just use any kind of paper.
+You need to cut your own once you run out of the paper provided.-The plastic stencils are a bit sharp.
+Be careful with them.-The 'fun' factor died down pretty quick here.
+It was cool for a few hours, then just sat untouched.-The entire product is a bit flimsy.Overall, stick with Ravensburger for puzzles.
+This product just didn't hit the mark.
+This is a great toy!
+My ten year old daughter loves it!
+She's an animal lover and this is perfect for her!
+She spent hours playing with it.
+The case is great as well, because she can take it with her to her friends' houses.
+It's also great to be able to gather it all up in the case when it's time to clean up.
+I was thinking this would also be a great toy to take on vacation as well.
+This is a wonderful toy for any child who likes to draw or color and enjoys animals!
+I'm going to buy another one for her best friends birthday in June!
+This is a clever idea that, because kids can vary the pictures, will stand up to repeat play.
+Perhaps the next step would be to encourage them to try drawing on their own, or using a photo as a model.It's a very nice,high quality art toy, probably best suited for up to 10 years old, depending on skill level.
+Simple to use and enough variety to hold a child's interest for quite awhile.
+"I was a little iffy when I got this for my 5 year old daughter.
+Because as an adult I kept thinking of the limitations... only 20 patterns, a few sheets of paper, and the colored pencils that are shown in the photo are not even included.
+But I gave it a shot anyways and after showing her how I traced the projected image, she colored it.
+And I thought ""okay, so now I'm making her coloring pages, this is less than ideal.""
+Then we used the segmented disc that let you mix up the body parts of different animals and she loved the Bear-a-roo we made, okay it's a cool trick, but I'm getting tired of drawing (although I must say the included felt pen is very nice).
+So, I tell her she'll have to do it on her own.
+She was hesitant at first, but once she saw an image appear that she had made, she was hooked.
+By the end of the day every family member had their own colored image that she had traced herself.
+With the following days, the interest didn't wane, she wanted to keep using it.
+She didn't care that she drew the same images over and over, or that she had to use her own crayons.
+She didn't worry about the number of sheets that came with it.
+She just kept drawing and told me how much she loved it.
+For me that's a win.
+So if you have a young child in your home and you want to encourage drawing, tracing, coloring, or penmanship it well worth the try."
+My young daughters enjoyed using this device to trace pictures onto small sheets of paper.
+The designs are interesting, with over 20 different options to choose from.
+It was fun, but the creative opportunities are quite limited.
+The toy would be more useful if there were also a few blank stencils that kids could draw on and project.
+My kids also thought that there would be colored pencils included.
+as they are shown in the advertisement, but there was only the fine tip tracing pen included.
+"As someone with an artist daughter (she is 7) I was eager to see what she thought of this.
+We loved the projection idea.
+You can take these disks and place them on the ""light table"" to create adorable pictures.
+I really thought my daughter would use this every day but she only used it the one time.
+I believe it is because there aren't many disks.
+Don't get me wrong, there are a ton of them (20 to be exact).
+She wants to create pictures on paper that are large by free hand.
+She thought this was cute when we pulled it out but after 30 minutes of playing got bored and walked.My son on the other hand (he is 9) loves it.
+He isn't a great drawer and he is amazed by it.
+""Look what I drew"" is heard a few times a day as he brings something over to show me.He has OT issues with his hands and doesn't do well in the ""art department"".
+He always feels very inferior to his friends.
+When I go to school, he never wants me to see his work on the wall because his friends are much better.
+He feels that it is ""very hard"" to draw.
+Xoomy Animals changed that.
+I wish there were more discs.Pros:Portable - this is perfect for kids to take with them anywhere.
+Everything closes up inside a nice, small, carry case.You can mix and match the pictures to create different scenes, animals or whatever.You can change the size of your photo based on the height you set the projector to.Cons:After you use the 20 discs what now?The projector is limited in movement, basically two sizes only.I believe that if the child is less than creative, like my son this is a great gift.
+I have a 9 yr old and a 5.5 yr old.
+Both were enthralled with this toy out of the box.It consists of one plastic box with a light and clear window, a small stack (10 sheets) of perfectly square paper, 20 clear plastic designs to trace and a thin tipped felt pen.
+It was super easy to set up, batteries were installed (requires 4 AA) and it was good to go.My 9 year old was excited to draw and trace the patterns and probably did 5 right off the bat.
+Her younger brother came home and did another 4.
+BAM!
+paper gone, which wouldn't be a big deal except it fit perfect into the little space made for the paper, so it doesn't slide around.
+We cut some more but not without it being a pain in the butt.The felt tip pen was small and perfect for little hands.
+Even my 5 yr old picked up it quickly and was able to trace perfectly with no problem.
+They made exact copies and then did some silly, mixed - up animals, too.
+Then, they walked away.Its been 3 weeks and no one has used it again.
+I finally put everything back in the box and put it on a shelf.
+It will come out again when we go on vacation or maybe take it to grandma's so they can pull it out as a novelty.All in all, its a great concept and wonderful, but it lacks the ability to hold my children's interests.
+We have other tracer boxes for our young ones, this plastic one uses small circular patterns and light to project to the small drawing area, and was easy for them to start up and fun for them to use immediately.There are rings of animals that become larger with the tracing.
+A few sheets of paper that are used up quickly, but it's easy to cut your own.
+Our 5 year old set it up, traced it, colored it and moved on to the next animal.
+They're basic line drawings, but nice for kiddoes to learn angles and see results.The fun lasted for a hour, and they came back to it on later days then on to new things, but it provides entertainment mixed with some skill practice.
+We encourage tracing, copying, like from a book, drawing what you see, and drawing what you don't see.
+The kids constantly amaze me.
+I gave this toy my daughter to play with.
+She she said she does like it and it is easy to use.
+The only downside to her was the images do not get very big.What I observed is the construction of the toy is good, I do beileve it should hold up over time if used properly.
+One concern would be the number of batteries one may go through if the kids forget to turn off the light.
+The toy requires 4 batteries.
+(not included)Additionally, this toy has suffered the same fate as many of their other toys.
+Great fun for a couple of weeks and then it collects dust.This toy does help kids learn to draw via tracing.I would recommend the toy to friends and family with kids that have an interest in drawing.
+My 12 year old daughter tested out this toy.
+she really liked it but hated the fact that she had to cut up paper to keep on drawing.
+she was happy with th fact that all the pieces for it can be stored in its own little case.
+nice little shadowbox but it is very limited.
+They do sell more sets but you have to repurchase an entirely new shadowbox each time.
+why can't you just sell templates?
+the light is not that strong yet requires 4 AA batteries.
+not sure about battery life just yet.
+Makes for a nice little portable distraction for car trips or office visits.
+This is a fun toy, and is easy to use.
+It did, however, crack the first time it fell from the table onto a chair.
+I don't expect toys to withstand huge falls or extreme roughness, but falling 2 feet onto a padded chair shouldn't crack it.
+"My 4 and 6 year old daughters were both extremely happy with this device.
+It's already had hours of use from each of them.
+Yes, a 4 year old CAN use it, if they have a good attention span.What we loved:Mix-n-match discs (they are designed with similar dimensions so kids can create new ""animals""Very portableAll contents are carried inside the box, including discs and pensThe light box is deep, so kids don't have to ""crouch"" over the deviceCONS:The hinges are poorly made and I don't expect this toy to last long before the plastic/bendy hinge wears outAlthough it includes an assortment of discs, the kids already wanted ""more"" by day 2.
+Buying add-on packs would be a nice option.
+At this time, you have to purchase an entire xoomy device to get more discs.The batteries don't last long (only a few hours - you'll be changing them alot)The batteries are DIFFICULT to change.
+There are several steps involved in changing them.
+You will need a screwdriver.You cannot use it in the car because the box itself is just too small to sit on a lap.
+I guess when I saw ""portable"" I thought this would be a good travel toy, like the leapfrog tag units, but it is not.Overall, I would still recommend this for a child who is artistically inclined.
+It is very good hand/eye practice.
+Just don't assume they'll have it for years to come.
+I seriously doubt it will last all that long."
+This is a portable light-table that uses small image discs (foils) to cast an outline on a small piece of drawing paper.
+The set is powered by 4 AA batteries (not included) and comes with one black pen, 20 discs, ten sheets of paper, and a cardboard shade.
+The discs can be mixed and matched in various ways so that children can produce more than just 20 drawings, and the light can be focused to produce larger or smaller images.
+All of the supplies can fit inside the case for easy transport.My kids are enjoying this product, and they are proud of the drawings they've produced with it.
+I am less enamored with it.Pros:-Easy to use.-Everything is included except the batteries.-Design discs can be mixed and matched in creative ways.Cons:-A bit cheaper than I had hoped.
+It is two plastic shells with a cheap (but focusable) incandescent bulb.
+The shade is a piece of folded cardboard which slots into the top of the unit.
+The cardboard is already showing damage and will not be around for much longer.-The light is very weak.
+To really see the outline that you are drawing, you need low ambient light levels.
+It can be used in a car during the day (if you were thinking that it might be good for travel) but even with the shade and fresh batteries, the outline is faint.-The paper size is based on a cut up piece of A4 which is not used (except in unusual circumstances) in the U.S. Sure, I don't expect the rest of the world to tailor their products precisely for the U.S. market, but it does mean that one of the product's selling points doesn't apply to the U.S. market.-Likewise, it is a bit of a pain to make new paper for this UNLESS you own a paper cutter.
+That's not a bad idea, however, if you have kids.-Even with the mix and match possibilities of the 20 discs, the device is ultimately limited.Cheers
+This art and drawing kit does produce great stencils that can be colored in.
+I believe the age designation started at 7 years, but, unless your child is precocious, or an art wizard, I would say 9 or 10 year old children would do better with this tool, especially without adult assistance.
+It was just too complicated and too small (for uncoordinated young hands) for my year old grandchild to use on her own.
+Durability and quality of materials and workmanship is between a 2 and 3 out of 5 stars.
+Another good reason to keep it out of the hands of those too young to appreciate it!
+"When I was growing up I remember playing with a Barbie tracing toy.
+I spent hours ""designing"" dresses and drawing the patterns provided.
+When I saw the Ravensburger Xoomy Animals toy I knew that it would provide my own kids with a fun opportunity to draw, trace, and color on their own.
+The Xoomy comes with enough discs to create a wide variety of animals simply by tracing the image projected on the screen.Honestly, I probably thought it was just as much fun as my kids did.
+No real skill required.
+If you can trace a picture you can impress your friends with your own works of ""art.""
+I like that the discs are conveniently stored inside the unit, making it convenient to take with you on car trips or plane rides.It was a hit in our house.
+It's something that my kids can enjoy for years to come."
+My 7 year old granddaughter is fascinated by anything that lights up, as most kids are.
+She thought the Xoomy animals drawing kit was a lot of fun, but she didn't think it was perfect and I agree.The kit contains a lot of small plastic image patterns that are placed over a light piece, which is then reflected onto the paper for easy tracing.
+The light piece can move up or down, which causes the design size to increase or decrease.
+Kids will enjoy this.
+However, the image patterns do not lock into place and can easily slip if the child moves the case.
+This can cause a little bit of frustration if they cannot move it back into the exact position to complete tracing the design.The kit allows you to store the paper, pen, and templates inside so you don't lose any pieces.
+The case seems fairly durable, and probably won't break easily.
+The light uses 4 AA batteries, which seems excessive for the amount of light it creates.
+The paper must be cut exactly 4 1/8 inches square to fit the tray, which is easy enough if you have a paper cutter.Overall, she said she would give this 4 stars.
+She is enjoying the wide range of designs available, and it's especially fun at night.
+This is a great toy and fun for children 6 years and older--so they don't have to wait until they are 7 years old, as advertised, to use it.
+There are cardboard pieces with pictures that are put over a light box that can be traced by children.
+The light on the light box is light enough for the intended use, and allows the toy to function as a very small light box.
+I wish, though, that the toy was designed for standard, rather than A4 paper.
+However, standard paper can be cut down to size so that it is functional and I actually appreciate that it gives kids something else to do.
+I highly recommend this toy because kids have a fun time learning how to draw.
+My boys LOVE this portable tracing station.
+It enables them to trace the animals onto paper and then color or embellish the pictures however they want.It is EASY to set up and use, and allows kids to make the picture smaller or larger by adjusting the lit base closer or farther from the drawing surface.The green case has a handy section to hold all of your animal templates, and allows you to store paper and pens inside.
+The battery compartment is secure but easy for parents to access.
+The light that is included works great and gives off plenty of light to allow tracing.My only wish is that the Xoomy came with one or two blank discs that kids or parents could use a dry-erase pen with to make their own templates.
+I am going to see if wax paper or clear plastic will work to make our own templates.

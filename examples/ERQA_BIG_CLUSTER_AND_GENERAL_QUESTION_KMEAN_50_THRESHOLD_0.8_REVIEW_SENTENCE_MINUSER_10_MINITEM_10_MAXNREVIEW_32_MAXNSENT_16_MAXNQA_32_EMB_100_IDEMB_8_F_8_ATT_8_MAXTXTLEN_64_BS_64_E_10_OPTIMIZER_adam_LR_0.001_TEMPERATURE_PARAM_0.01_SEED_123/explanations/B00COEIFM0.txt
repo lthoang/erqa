@@ -1,0 +1,185 @@
+Top question(s):
+Does she skate on carpet?
+what age group
+Top sentence(s):
+My youngest daughter loved this Skate and Spin Dora and Boots.
+While there are no loose small pieces, there are small pieces that could form a choking hazard if they were to come loose.
+But after several days, I find my daughter really enjoying it and being creative with the doll in Free Play mode (where she controls the movements).
+In our case, Dora ended up getting a special ""clear tape"" treatment over her shirt where most of the noise came from.
+On the other hand, with a family of seven, we are somewhat more accustomed to loud noises than others are.In conclusion, after the initial &#34;fight over it because they both want to play RIGHT NOW&#34; stage, my twins have been very happy with Dora, and she gets some play time every day.
+
+Question attention weights:
+0.29884177446365356,0.3386876583099365,0.09946589171886444,0.15253856778144836,0.11046607047319412
+Sentence attention weights:
+0.01110093668103218,0.00476527214050293,0.006096824072301388,0.008373616263270378,0.004465471021831036,0.00533716194331646,0.0072989691980183125,0.003761138068512082,0.008326122537255287,0.010380306281149387,0.006015962455421686,0.004975941497832537,0.00685442890971899,0.006617290433496237,0.00593346543610096,0.007777586579322815,0.007745248265564442,0.007087660022079945,0.00834210216999054,0.006203326862305403,0.005545301362872124,0.00723758852109313,0.006091008894145489,0.005746854469180107,0.006069265305995941,0.005814910866320133,0.00607255706563592,0.0069850473664700985,0.005818394478410482,0.006453554145991802,0.005256591364741325,0.009066259488463402,0.0050660683773458,0.005820975173264742,0.00454324297606945,0.007793739903718233,0.004602015949785709,0.006150754634290934,0.003393257735297084,0.004912073723971844,0.005640750750899315,0.005780860316008329,0.004683184903115034,0.006530874874442816,0.0054029254242777824,0.00573178892955184,0.0050676073879003525,0.009224550798535347,0.006328454706817865,0.006496675778180361,0.007031041197478771,0.0061691743321716785,0.008149716071784496,0.005433894228190184,0.006171224173158407,0.00563658494502306,0.005476747173815966,0.006254660896956921,0.006813965272158384,0.003831086680293083,0.0052691674791276455,0.006069486029446125,0.00817947555333376,0.00732041522860527,0.005613093730062246,0.00757511705160141,0.00581641960889101,0.006580487359315157,0.0053649540059268475,0.00598478876054287,0.005961823742836714,0.009167191572487354,0.009098324924707413,0.006187929306179285,0.0048181419260799885,0.0065498314797878265,0.003525832900777459,0.0046193948946893215,0.005210171453654766,0.006369329988956451,0.0060682459734380245,0.005263019818812609,0.005159363150596619,0.00549167487770319,0.007148549426347017,0.006494251545518637,0.006641293875873089,0.006110281217843294,0.005685227923095226,0.004922913387417793,0.006836271379143,0.006070771720260382,0.006971174851059914,0.006079377606511116,0.00602424843236804,0.006812763400375843,0.006362237501889467,0.006206186022609472,0.0059651341289281845,0.008139336481690407,0.007325698155909777,0.003501834347844124,0.007128317840397358,0.004877413623034954,0.008356387726962566,0.005651864223182201,0.007426248863339424,0.006612629629671574,0.0062413145788013935,0.006363603286445141,0.007072636857628822,0.0077795907855033875,0.004795639310032129,0.0043711233884096146,0.005603840574622154,0.006402176339179277,0.006837277207523584,0.007389061152935028,0.006022315938025713,0.005935599561780691,0.00740619795396924,0.006222808267921209,0.005799703299999237,0.005708357319235802,0.005566146690398455,0.00999429076910019,0.005743124522268772,0.0059617371298372746,0.006657061167061329,0.006612968631088734,0.007395835593342781,0.005389602389186621,0.00465018767863512,0.006824893411248922,0.006213773973286152,0.006470737978816032,0.00798045564442873,0.005769468378275633,0.006656743120402098,0.006502537056803703,0.007020844146609306,0.0071142250671982765,0.005774844437837601,0.005607958417385817,0.006196832749992609,0.008286288939416409,0.003665016731247306,0.005501825362443924,0.005046992562711239,0.007284075953066349,0.004030025564134121,0.006430257111787796,0.004989827051758766,0.007841391488909721,0.005611419677734375,0.005515067372471094,0.00592646561563015,0.004143881611526012,0.005200729705393314,0.006103156600147486
+0.011842301115393639,0.005161060020327568,0.0058959126472473145,0.008295455016195774,0.005171945784240961,0.004646594170480967,0.005869769025593996,0.004190218634903431,0.00845103058964014,0.009876452386379242,0.00625408673658967,0.005433930084109306,0.006655835546553135,0.007169827353209257,0.006370359566062689,0.0075596109963953495,0.008057032711803913,0.007193069439381361,0.00842776708304882,0.006135184783488512,0.006117586046457291,0.007306584622710943,0.006357837002724409,0.005989037919789553,0.00523364869877696,0.0063220905140042305,0.005728487856686115,0.006785817444324493,0.006295101251453161,0.007314179092645645,0.005837451666593552,0.010411398485302925,0.004994797520339489,0.004894306883215904,0.004663849249482155,0.006451931782066822,0.00452846335247159,0.006648067384958267,0.0035641228314489126,0.004302883055061102,0.00642851646989584,0.006269173230975866,0.0030643369536846876,0.007157927844673395,0.006189184729009867,0.005066968500614166,0.005387942772358656,0.007914167828857899,0.006780229974538088,0.006165947765111923,0.007845071144402027,0.005584812257438898,0.008427727967500687,0.005534119438380003,0.005616156384348869,0.006076010409742594,0.005776559002697468,0.006923604756593704,0.0054462323896586895,0.005187199916690588,0.006123519502580166,0.006621492560952902,0.007213196251541376,0.006891119759529829,0.006076015532016754,0.006328853778541088,0.005248744506388903,0.005725640803575516,0.005070382263511419,0.006366490852087736,0.006115181837230921,0.008853595703840256,0.007388448342680931,0.005819378886371851,0.00492893997579813,0.006228968966752291,0.0034471279941499233,0.0035670078359544277,0.005426696967333555,0.006165873724967241,0.00711030000820756,0.006178050301969051,0.005032521206885576,0.006573704071342945,0.005690739024430513,0.0056824940256774426,0.006963669788092375,0.0064764185808598995,0.006107196677476168,0.005810892675071955,0.007774708326905966,0.0065999082289636135,0.007100794930011034,0.006589195691049099,0.0066202981397509575,0.006886260583996773,0.00601558294147253,0.0064200181514024734,0.006622302811592817,0.007104784715920687,0.0068710665218532085,0.00387065252289176,0.005173786077648401,0.005539444740861654,0.00879552960395813,0.005449668038636446,0.007280566263943911,0.006418203469365835,0.005897895898669958,0.0059319729916751385,0.007349484600126743,0.007046440150588751,0.004114214796572924,0.005204383749514818,0.005940093193203211,0.005584505386650562,0.007937776856124401,0.007699703332036734,0.00599715718999505,0.006539254914969206,0.007646474987268448,0.007212869357317686,0.005604491103440523,0.0059593175537884235,0.006407992914319038,0.007709672208875418,0.006017980165779591,0.006293009966611862,0.005988330580294132,0.006923486012965441,0.008367099799215794,0.005104732234030962,0.00535180140286684,0.006505756173282862,0.004160274285823107,0.005579386837780476,0.006920889485627413,0.006624631118029356,0.0062027364037930965,0.005669126752763987,0.007601254153996706,0.008293232880532742,0.0063514672219753265,0.005598782561719418,0.006933308206498623,0.006543319672346115,0.0036212203558534384,0.005988059565424919,0.005173622164875269,0.00573427090421319,0.004406167194247246,0.0063484786078333855,0.005575929302722216,0.006277529057115316,0.00490670558065176,0.005957507062703371,0.006425919476896524,0.0046315607614815235,0.005777936428785324,0.006748335901647806
+0.015737120062112808,0.006206555292010307,0.006117607932537794,0.007659533992409706,0.006051519885659218,0.004082649480551481,0.005754891317337751,0.004007910378277302,0.009641820564866066,0.008994996547698975,0.005879838019609451,0.0057762255892157555,0.006520863622426987,0.00679674930870533,0.005981923080980778,0.007743137422949076,0.007434749510139227,0.006937106139957905,0.007885420694947243,0.00590354623273015,0.0058082095347344875,0.007796499412506819,0.0067228516563773155,0.00579608790576458,0.005088657606393099,0.00589708099141717,0.0055455537512898445,0.006600540596991777,0.005862850230187178,0.0067908973433077335,0.005573978181928396,0.011762533336877823,0.005207429174333811,0.004840115085244179,0.004655108321458101,0.005529701244086027,0.004371610935777426,0.005901356693357229,0.003624491859227419,0.0033529172651469707,0.006297455634921789,0.005848803091794252,0.002870981115847826,0.006906603462994099,0.006298629101365805,0.005265063140541315,0.005014373920857906,0.007579346653074026,0.006034276448190212,0.0068891323171556,0.010385516099631786,0.005934549495577812,0.010949869640171528,0.006076035555452108,0.005307440180331469,0.005646030884236097,0.0054536014795303345,0.009612821973860264,0.004058605059981346,0.006607796531170607,0.006959784775972366,0.005954777356237173,0.006416985299438238,0.00704049039632082,0.005706854164600372,0.005532240495085716,0.0055206515826284885,0.0050400057807564735,0.005769912153482437,0.006055733188986778,0.005724899936467409,0.008709466084837914,0.007436883170157671,0.005693601444363594,0.005552955903112888,0.005973088089376688,0.0036178792361170053,0.0035605065058916807,0.005295711103826761,0.006172352936118841,0.006978082470595837,0.0061409734189510345,0.005856918636709452,0.007632379420101643,0.005153763107955456,0.005690739955753088,0.005758078768849373,0.008265426382422447,0.006243320181965828,0.0064318482764065266,0.008226288482546806,0.00624134112149477,0.0070964558981359005,0.006220166105777025,0.006348643451929092,0.006366554647684097,0.0054194629192352295,0.005765415728092194,0.0067369090393185616,0.006405347492545843,0.008253177627921104,0.004921483341604471,0.004085571970790625,0.0068685151636600494,0.008308123797178268,0.0046079885214567184,0.007783731445670128,0.00667619751766324,0.0057097384706139565,0.005089950747787952,0.007224015425890684,0.005935801193118095,0.004243182018399239,0.004732470493763685,0.005656824447214603,0.005875114817172289,0.007591445930302143,0.007204689551144838,0.005389695521444082,0.006143203936517239,0.00854779127985239,0.008990288712084293,0.0062609086744487286,0.006446121726185083,0.005949844606220722,0.00554850697517395,0.005500270985066891,0.005876785144209862,0.006007218733429909,0.006594975013285875,0.007553303148597479,0.005659446585923433,0.006679906975477934,0.006092472933232784,0.003630820196121931,0.004664011299610138,0.005813008174300194,0.0065722535364329815,0.006209001876413822,0.005034558940678835,0.008078742772340775,0.00927489623427391,0.006727767642587423,0.005817796569317579,0.006649070885032415,0.005568920634686947,0.003955914173275232,0.0061213066801428795,0.00498982286080718,0.005484802182763815,0.004591577220708132,0.00620226887986064,0.006669098511338234,0.006403922103345394,0.004090416245162487,0.007182835601270199,0.005975028499960899,0.0045746201649308205,0.005383270792663097,0.00673306081444025
+0.013865595683455467,0.005715660750865936,0.00603444455191493,0.008265345357358456,0.005611069966107607,0.0042682671919465065,0.006130780093371868,0.004018684383481741,0.009291786700487137,0.009362783282995224,0.006016785744577646,0.005492092575877905,0.00662556616589427,0.006862437352538109,0.0060781375505030155,0.007739809341728687,0.007675079628825188,0.006935338024049997,0.008217772468924522,0.005952151492238045,0.005885519552975893,0.007790204603224993,0.006674825679510832,0.005806594155728817,0.005140741355717182,0.006008110009133816,0.00569041445851326,0.006793492008000612,0.0059726848267018795,0.006933707743883133,0.005596766714006662,0.01148319710046053,0.0050473264418542385,0.004953279625624418,0.004666910972446203,0.005818404722958803,0.004344793502241373,0.006156632211059332,0.0034811149816960096,0.0036435204092413187,0.006271697580814362,0.0059557692147791386,0.002917355624958873,0.006948515307158232,0.006141523830592632,0.005270220804959536,0.00511536980047822,0.008126950822770596,0.006300377193838358,0.006792061496526003,0.009429608471691608,0.005816615652292967,0.009984681382775307,0.005915561690926552,0.00552362622693181,0.005763678345829248,0.005558100529015064,0.008475926704704762,0.004550568759441376,0.005977453198283911,0.006635323632508516,0.006169018801301718,0.006772578228265047,0.007213015109300613,0.005783811677247286,0.005826947279274464,0.005496948957443237,0.0053970348089933395,0.005530727561563253,0.006177438888698816,0.005867577623575926,0.00904304999858141,0.007311643101274967,0.005880966316908598,0.005222536623477936,0.0060769375413656235,0.0033786664716899395,0.003723257454112172,0.005319326184689999,0.005995075684040785,0.0070046246983110905,0.006061292253434658,0.005606865044683218,0.0070726764388382435,0.005414784420281649,0.0056894514709711075,0.006149043329060078,0.007451734039932489,0.006133419461548328,0.006031376775354147,0.00806776899844408,0.0063222860917449,0.007059356663376093,0.00631385063752532,0.006386555265635252,0.006513638887554407,0.005575424525886774,0.0059275696985423565,0.006728480104357004,0.006721142213791609,0.00764447683468461,0.00441335141658783,0.004591754637658596,0.006446954794228077,0.008661776781082153,0.004874081816524267,0.007587267551571131,0.006614919751882553,0.005805138498544693,0.005338756367564201,0.0072867474518716335,0.006426793523132801,0.004039191175252199,0.004856673069298267,0.005704596638679504,0.0059539698995649815,0.007682884112000465,0.007394358050078154,0.00560438958927989,0.006216166075319052,0.00814857892692089,0.008067001588642597,0.005920198280364275,0.00627157324925065,0.006122826598584652,0.006619519554078579,0.005637291818857193,0.006019629538059235,0.005997426342219114,0.0067350431345403194,0.007879066281020641,0.005630191881209612,0.006071091629564762,0.006300138775259256,0.0040035429410636425,0.005088442470878363,0.006378139369189739,0.006502385251224041,0.006286546587944031,0.005254412069916725,0.007982752285897732,0.008940823376178741,0.006587487179785967,0.005740621127188206,0.006680314429104328,0.006047292612493038,0.003763428423553705,0.006039484404027462,0.005041761323809624,0.0056032040156424046,0.004452564753592014,0.00633483100682497,0.006333060096949339,0.006508772261440754,0.004489831160753965,0.006613499950617552,0.006115267518907785,0.004507922567427158,0.0054968674667179585,0.006706197280436754
+0.01375759020447731,0.005714127793908119,0.0059360614977777,0.008652405813336372,0.005626526661217213,0.004344712011516094,0.006278982385993004,0.0038446984253823757,0.009790661744773388,0.0095289945602417,0.0059243422001600266,0.0052839103154838085,0.006672122050076723,0.006661293096840382,0.0059305038303136826,0.0078103505074977875,0.007452001329511404,0.006651765666902065,0.008277695626020432,0.005907493643462658,0.005804961081594229,0.007695076987147331,0.006852113641798496,0.005647157318890095,0.005181002896279097,0.005839514546096325,0.00571836344897747,0.0068589746952056885,0.005807560868561268,0.006818994414061308,0.0054346658289432526,0.011765350587666035,0.005168465431779623,0.0050826845690608025,0.004668444860726595,0.0057526398450136185,0.004233156330883503,0.006126861087977886,0.0035258326679468155,0.00364561565220356,0.006115557625889778,0.005810004658997059,0.002839196240529418,0.00677125621587038,0.006102957762777805,0.0054206158965826035,0.0050675347447395325,0.008654942736029625,0.006271198857575655,0.006990127731114626,0.009505494497716427,0.005901767872273922,0.010022494941949844,0.006023722235113382,0.005629934836179018,0.005612128414213657,0.005473531316965818,0.008508404716849327,0.004630709998309612,0.006049370858818293,0.006570261903107166,0.006141842342913151,0.006628461182117462,0.007555564399808645,0.005629824940115213,0.0059441858902573586,0.005620186682790518,0.0054828813299536705,0.005829023662954569,0.006064633838832378,0.0056733316741883755,0.009502405300736427,0.007065982557833195,0.005988705437630415,0.0053414395079016685,0.005762837361544371,0.0032038369681686163,0.0037844222970306873,0.005293481517583132,0.005874998867511749,0.007007956504821777,0.005948386155068874,0.005768866278231144,0.007088841404765844,0.005722275469452143,0.005320772994309664,0.005824057385325432,0.007598623167723417,0.006068219430744648,0.0059093027375638485,0.007930285297334194,0.006140289828181267,0.006719745695590973,0.006160081829875708,0.006190326530486345,0.006257211323827505,0.0055347322486341,0.005907293874770403,0.006675222422927618,0.006638154853135347,0.007872721180319786,0.0044835032895207405,0.004874685313552618,0.006512101739645004,0.008764799684286118,0.004840294364839792,0.007575296331197023,0.007027333602309227,0.005674407351762056,0.005102802067995071,0.007373484782874584,0.006401143968105316,0.003935164771974087,0.00494037102907896,0.005575419869273901,0.006163493264466524,0.007632826454937458,0.007219195365905762,0.005432023201137781,0.006036045961081982,0.008623371832072735,0.008218096569180489,0.005857293959707022,0.006267124786973,0.006196723319590092,0.0071904887445271015,0.005530188325792551,0.005906018428504467,0.006279726512730122,0.0068185096606612206,0.00776459788903594,0.005839708726853132,0.006133133079856634,0.0060825045220553875,0.004108785185962915,0.0049247173592448235,0.006455971393734217,0.006301413755863905,0.0061599682085216045,0.005189546383917332,0.007986809127032757,0.009057626128196716,0.006509990897029638,0.005880655255168676,0.006445611361414194,0.005970573052763939,0.0037764504086226225,0.005977226886898279,0.004934626631438732,0.005919982213526964,0.0045401593670248985,0.006228109356015921,0.006673031952232122,0.0066631571389734745,0.004562962334603071,0.006755491718649864,0.0060386648401618,0.004394778981804848,0.0053469655103981495,0.006608567666262388
+Questions:
+what age group
+Does she skate on carpet?
+can dora skate by herself
+how many batteries and what type does this require
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+My youngest daughter loved this Skate and Spin Dora and Boots.
+As other reviewers have pointed out, this is a loud toy so parents will probably want to stand back or retreat into another room.
+But for my daughter, she is enchanted right now with anything that moves, plays music, or talks, and this toy does all three.
+I should add, though, that my daughter is not really familiar with Dora the Explorer from television.
+Her older sister has a Dora play hut, so the character might be visually recognizable, but that's it.
+By that I mean that my daughter clearly enjoys this toy for what it offers, not because it's a tie-in to her favorite television program.The doll is pretty simple to figure out.
+You can activate Dora in Free Play mode where she talks, plus music.
+Or the active setting has her going all over the place, spinning and moving forward (and stopping if she runs into anything).
+The Boots figure can either be attached to Dora or the two figures can just hold hands.I can easily see this being an extremely annoying toy for parents, particularly if your child activates it early on a Sunday morning.
+But after several days, I find my daughter really enjoying it and being creative with the doll in Free Play mode (where she controls the movements).
+While it's not a huggable doll that she can take to bed with her, it's a fun, loud bundle of activity (just like her).
+I don't mind the noise so long as she's having a good time.
+We gave this to our granddaughter for her third birthday and the look on her face when she opened it was priceless!
+Her older sister and her immediately left the other toys on the table and started playing with this.
+This is a well made toy that I think will last for a long time and provide lots of fun.
+It is indeed very loud as several other reviews have mentioned, and that makes it a great toy to give as a gift that will leave your house.
+This is the kind of toy that's probably a lot more fun for the little ones than the adults.
+It will entertain the kids for a while, during which time the grown ups will probably get annoyed by all the noise.
+So if you buy it, you probably want to have a basement or something to duck into.
+Or like me buy it for the nieces who live over a hundred miles away.
+I had this toy sitting in the box for about three weeks before I opened it.
+It says for 3 and up, and my daughter is 1 .
+Even though she has never watched the Dora cartoon, she would walk by it and touch it every now and then.
+She had a rough day and I wanted to cheer her up, so I decided we would open the toy.
+When we set it down and started it up, my daughter squealed with glee as Dora and Boots started to skate around the room.
+I have to admit, it was really cute.
+Only the Dora doll actually moves, Boots gets dragged along.
+He can be attached in front or behind Dora, like a Conga line, or they can hold hands.
+This is where the toy really works best.
+It really looks like they are dancing together!
+!There are two reasons for the 3+ age range on this toy.
+While there are no loose small pieces, there are small pieces that could form a choking hazard if they were to come loose.
+Also, while she can push the button to make Dora go, my daughter does not yet have the dexterity to attached the dolls in the conga line or make them hold hands.This toy would be an easy 5 stars but for one thing - She needs a ridiculous amount of space to do her routine.
+Even if an empty 10x10 space, we have trouble figuring out where to start her so that she will not run into a wall.
+Part of the cuteness of this toy is the whirling around and how much she moves, but it's annoying because we are constantly having to turn her around from running into a wall.
+My niece was the one who tested out Skate & Spin Dora & Boots and she loves it.
+I wanted to play with it and keep it as did my 7yo son!
+It is such a cute toy.
+Now, much like Dora on her television show (she only uses her outside voice and is very loud in general), this toy is REALLY LOUD!!!!
+Otherwise, it is a ton of fun to play with and my 4-year-old niece loved the different ways that Dora & Boots could skate together.
+I personally loved the Conga.
+She liked when they held hands.
+A fun toy that I would recommend for Dora and/or Boots fans!
+!
+As soon as this came to our door we knew it would be a hit!
+The two year old who gets this Dora and Boots absolutely loves Dora.
+I believe she thought it took us forever to open the toy, but it was only a few minutes.
+She couldn't wait to get it in her hands.We have a hardwood floor in the kitchen area which isn't too big, but it got completely taken over by the skaters.
+We had to move dinner to the dining room and ate without our young one as she was busy with her new favorite toy.
+The phrases spoken are cute and so is the music, and I can't describe the joy on the face of the young girl who received it!It works much better on the hardwood flooring, of course, than it does on the carpet, but it still does go on our low pile carpet.Highly recommended for young ones!
+Skate and Spin Dora and Boots is a great toy for any Dora fan.
+My Daughter is 3 and she loves to watch Dora skate.
+Boots attaches to Dora as she skates around.
+Unfortunately the music is loud and the toy does get annoying for any adults  in the room (this is not good for quiet play time!!).
+There really should be a volume control on this one.
+Overall the kids love it so you cannot go wrong.
+Dora and Boots come together with skates for lots of play fun.
+Speaking several English and Spanish phrases, these two skate around in routines that are preprogrammed along with one's you can program yourself.
+All in all, Dora and Boots Skate and Spin is adorable.
+They skate on their own (actually Boots just kind of hangs on) and also do some skating that your child will control manually.
+Be prepared to move the furniture back against the wall so there is room for these guys to move around, and also be prepared to endure some loud stuff.
+This is not a quiet toy.
+So, if you are hoping for something to keep your special someone busy on her/his own while you read or watch TV -- this isn't it.
+However, the pure entertainment value is worth it for as long as it lasts.
+Just be aware that entertainment can last a young child for a looooong time.
+My kids are obsessed with roller skating Dora and Boots.
+They love the skating, the singing, the Spanish - everything.They love it completely, until it doesn't work on the carpet.
+Until one of them gets stuck with Boots - who does nothing except be dragged around by Dora.
+Until Dora can't even manage to keep hold of Boots when they're holding hands.
+"Let it be know first - this thing is LOUD.
+Almost any parent can tell you, if it's loud, the toy quite possibly will ""not work"" anymore after a day or two.
+In our case, Dora ended up getting a special ""clear tape"" treatment over her shirt where most of the noise came from.
+This did not help much.Noise aside, the Skate and Spin Dora and Boot is a very cute toy.
+Dora stands about 11"" tall, while Boots is about 7"" tall.
+Dora can skate solo or with Boots.
+Unfortunately, Boots cannot skate by himself, but that's okay because the two look adorable skating together.
+In order for the two to skate effectively, you'll need a good size clear space on your smooth floors.
+We tried this on tiled floor and the pair moved around okay, but the pair rolled much more smoothly on a hardwood floor.
+As another reviewer mentioned, the more room you have, the better this toy will work as well.
+This toy isn't very intuitive and for some reason really loves bumping into the wall...couches...tables...feet - for some reason ours doesn't seem to like open space and loves running into hard objects.
+The kids really enjoyed running around and singing with this toy for about a day or two, but unfortunately (or fortunately as my ears thought) after that, the two went back to more interesting/interactive toys.
+This is one of those toys that is fun to watch for a while, but gets old fairly quickly.
+If you have a Dora fan in the house, your kids may like to play with it longer - lucky you!Overall, this is an adorable toy - it would've been nice to have some volume control, but hey, it's cute, right?"
+OK so this is a bit loud that's really the only negative and of course a battery change every now and then is expected.
+This is a well made toy it moves around allot so have an open space for Dora and Boots to get their dance/skate on.
+It wont work well on our carpet areas but they still get around and we have other surfaces on the floor/patio for her to play with it there.
+Its durable, entertaining,Dora fans will love this fun toy the price is fair as well.
+My daughter loves anything Dora.
+When Dora arrived she was so happy to see her.
+She said dad look Boots is with Dora.She already saw the try me button and pushed to hear her voice.
+She loved the songs and loved playing with them by themselves as well.
+They make a great team together as well.
+I like that the dance as duet.
+Not made of flimsy plastic but sturdy.
+Will last a long time.
+The music is not to loud.
+I really like that she can also skate by herself as well.
+Only downside is I wish the skates would come off so she can be played with as a regular doll instead of always keeping the skates on.
+My (soon to be 3 years old) twins love Dora, and especially Boots, so I was happy to have this toy for them to play with.
+Dora and Boots love to skate - (if you don't believe me, check out the add on DVD, &#34;Dora's Great Roller Skate&#34;) which is also available.
+I wish Boots could skate on his own, but he doesn't - he has to be attached to Dora, either by the skate or holding her hand.
+Dora has three modes, &#34;Stop&#34;, &#34;Dance,&#34; and &#34;Free Play.&#34;  Free play is where Dora can be manually pushed around on her skates, and is (surprising to me) the favorite mode of my son.
+On the other hand, my daughter prefers the Dance mode where Dora skates around to music.
+Some people have reported that the music is annoying and loud, but I don't really think it is.
+On the other hand, with a family of seven, we are somewhat more accustomed to loud noises than others are.In conclusion, after the initial &#34;fight over it because they both want to play RIGHT NOW&#34; stage, my twins have been very happy with Dora, and she gets some play time every day.
+My one year old likes to play with Dora also, although she can't make her skate on her own just yet.
+I'm happy with this toy, and although it's versatility is limited (Dora just skates) it is still a winner at our house.
+This is a very cute toy that will entertain your young ones as they watch the skating antics of Dora and Boots.
+They toy has music and phrases.
+Both are good sized and constructed well.
+They hold hands and move around needing a smooth hard surface on the floor to do so.
+I would suggest a hardwood or linoleum surface for this, and in a room where it will not disturb others (as in watching TV, let's say) because it is rather noisy.
+As far as interaction with your child, there is very little manual manipulation, it is mostly visual entertainment.
+The product seems sturdy, not fragile, and after a month of almost-daily use, is holding up well.
+Dora fans will love it.
+"This product caught and kept my 6 year old daughter's attention, which is hard to do and she is not even a great fan of Dora.
+It's been about 8 days and she still plays with the toy.Dora comes packaged in such a way it is frustrating to get out.
+As another reviewer noted, simply cut the wires on the bottom and everything will come out easily.
+The toy comes with batteries, so you can expect instant gratification.
+The build quality of the toy was surprisingly good and I believe it will hold up to serious use.
+I found the music volume acceptable (not unbearable) as it plays both music and Dora phrases by pressing a heart button on Dora.The instructions say Dora should be used on a flat surface.
+The toy worked great on hardwood and not bad on low pile carpeting like an area rug.
+It was a little slower on low pile carpeting compared to wood of course.
+The instructions make sense to an adult, but do not easaily translate to a 6 year old in controlling the toy features.
+Though you can ""make your own routines,"" the toy haas no memory and you cannot therefore play them back.
+Boots is not powered and relies upon Dora's power for movement and Dora can be used without Boots.
+Dora's helmet comes off.
+However, her skates do not- therefore, you cannot use Dora just as a doll.
+Not a deal breaker of course.I would caution that this toy does need a lot of room (open space).
+A smaller room or a room with a lot of furniture may just end in frustration for your child.
+Other than that, it is an enjoyable toy."
+This is a simple but cool skating Dora.
+It is mildly entertaining, but I can see kids growing bored with it quickly due to it having a simple set of sayings as well as simple skate moves.
+Make sure you put this on a hard, flat surface -- it will struggle on carpet and tile floors that have deep grout lines.
+I'm giving this four stars because the price is fair for what you get.PROS=====+ Clear audio (speaks English and some Spanish)+ Durable+ Nice colors and authentic (looks and sounds like Dora)+ Fair price+ Comes with four AA batteries+ Can move the monkey into three different positionsCONS=====+ Simple skate moves+ Small vocabulary+ Dora doesn't detach from large skates (which would be nice because Dora could then be like a doll)
+Dora and Boots can skate around on hard surfaces.
+Unfortunately, when they bump into a wall or other obstacle, they just stop.
+It would be nice if bumping into something made them turn around so they could keep going.
+There doesn't seem to much potential for imaginative play with this toy.
+It's fun to watch Dora and Boots skate around and listen to them talking and singing but that's about all that can be done with this toy.
+I agree with the other reviewers who said that it would be nice if Dora came off her skates so you could play with her as a doll as well.
+The last con for this toy is that it was hard for my three year old to attach Boots in front of Dora by herself.
+This is a toy that is fun for a couple of days but loses appeal quickly.
+Who doesn't love Dora and her partner Boots.
+They are a great skating team.
+Press the heart shaped button on Dora's skate and off she goes.
+You have to make Dora and Boots hold hands, or put him in front of Dora, otherwise Boots will not skate on his own.
+Simply slide the switch on the bottom of Dora's skate to start free play mode.
+This will allow them to roll freely, allowing kids to move and skate them around on brand new adventures.
+Your child will clap and sing along as they chase Dora all over the room.
+WARNING - you need solid surface floors- not carpet - and LOTS of room.
+My 3 1/2 year old daughter has been having a blast with this toy.
+She's a big fan of the Dora cartoon, and thinks it's a hoot that Dora and Boots are rollerskating.The toy seems made well, and it's been dropped on our oak floors a couple of times without any negative effects.
+It doesn't work very well on carpeting, so if you're purchasing this, you should ensure that the child receiving it has a large enough area of hard flooring.The only real negative is that this toy is loud!
+Our cats are terrified of it, and go to hide under a bed every time my daughter plays with it.
+This toy is pretty neat, according to how you make Dora and Boots hold hands is how is does different spins and skate routines.
+They actually stay together pretty well.
+You need a fairly large area of smooth flooring though.
+I didn't really have a big enough area in the house and they kept running into cabinets etc.
+My 4 year old granddaughter loved it.

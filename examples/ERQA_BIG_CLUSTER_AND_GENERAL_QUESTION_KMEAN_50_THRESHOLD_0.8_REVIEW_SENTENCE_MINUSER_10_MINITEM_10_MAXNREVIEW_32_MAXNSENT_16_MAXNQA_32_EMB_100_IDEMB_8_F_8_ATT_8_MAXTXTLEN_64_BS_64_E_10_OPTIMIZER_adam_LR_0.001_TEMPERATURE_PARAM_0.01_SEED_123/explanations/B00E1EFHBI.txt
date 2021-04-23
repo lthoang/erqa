@@ -1,0 +1,308 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+The car *is* fast and it is solid so there's some durability there.I'm sick though, of toys that require an endless supply of batteries and this thing will chew through them.
+It would be nice if the car came with a spare battery or could take [rechargeable] AAA batteries so you could keep playing longer than 8-10 minutes at a time, but it's an action packed 8-10 minutes.
+My biggest complaint about the toy&#8217;s design is the car&#8217;s tires.
+Yes, it charges from the other batteries.
+The bad thing about it is about every ten minutes of playing with it you have to take the battery out and recharge it.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.003594543319195509,0.0020895868074148893,0.0018843610305339098,0.003966374322772026,0.0036473581567406654,0.004232438281178474,0.002376117277890444,0.0038130981847643852,0.0036721613723784685,0.002896504011005163,0.0034627236891537905,0.004054233431816101,0.002995507325977087,0.0014503441052511334,0.004110170993953943,0.0035758609883487225,0.001918459078297019,0.0036272990982979536,0.004418277181684971,0.0018328576115891337,0.0028090921696275473,0.0021346285939216614,0.004271263722330332,0.0030300505459308624,0.0033319543581455946,0.0030867287423461676,0.0038598685059696436,0.0019086562097072601,0.003245904576033354,0.005081739742308855,0.004052205942571163,0.0036177935544401407,0.003260743571445346,0.004110099747776985,0.004397095646709204,0.001960429362952709,0.00399923836812377,0.003086300566792488,0.0019103027880191803,0.0024380849208682775,0.0045167249627411366,0.0024347698781639338,0.003237748285755515,0.004273646976798773,0.0036896090023219585,0.0033257382456213236,0.0034044035710394382,0.003685251111164689,0.00374505203217268,0.0037115111481398344,0.0038747433573007584,0.004147122614085674,0.003463110886514187,0.003498053876683116,0.004396041389554739,0.0037682498805224895,0.00340878963470459,0.0036924881860613823,0.003547574393451214,0.003547574393451214,0.0025944686494767666,0.0037375937681645155,0.0033948831260204315,0.003795807482674718,0.003495871787890792,0.004194528330117464,0.0018859433475881815,0.0030406250152736902,0.005013152025640011,0.00383995333686471,0.0034134010784327984,0.003506108419969678,0.0017682616598904133,0.003544954815879464,0.002908014925196767,0.00435781292617321,0.007116310298442841,0.004219601862132549,0.003695770399644971,0.0031969042029231787,0.003737999824807048,0.003443575231358409,0.002455080160871148,0.0036134475376456976,0.0028734521474689245,0.0030540896113961935,0.002969923662021756,0.003211981849744916,0.0011382967932149768,0.0025355047546327114,0.0032348509412258863,0.004510232247412205,0.0034865071065723896,0.003165085334330797,0.004338214173913002,0.004329847637563944,0.0036679108161479235,0.0017858234932646155,0.004366628360003233,0.003918949980288744,0.0020197390113025904,0.003989685792475939,0.004583674483001232,0.0034274582285434008,0.003387581557035446,0.003701451700180769,0.0036850993055850267,0.0039747427217662334,0.0021228340920060873,0.00356640899553895,0.003592677414417267,0.003592677414417267,0.00343811372295022,0.004313895013183355,0.0034876344725489616,0.0047452375292778015,0.004071797709912062,0.0036119960714131594,0.0038053030148148537,0.004133580718189478,0.004402336198836565,0.002865983173251152,0.004005752503871918,0.003004796104505658,0.001845940831117332,0.004115501418709755,0.0027639500331133604,0.0015043281018733978,0.003915414679795504,0.0028608953580260277,0.00227694702334702,0.003452237928286195,0.0035641018766909838,0.005802491679787636,0.004255350679159164,0.0040497854351997375,0.0036477420944720507,0.00346011552028358,0.0035058080684393644,0.0034683377016335726,0.003438901389017701,0.003675807500258088,0.0025525379460304976,0.0017075109062716365,0.0029308609664440155,0.001840204349718988,0.0017741600750014186,0.0022249368485063314,0.003229613183066249,0.002931473311036825,0.006241218652576208,0.003524067346006632,0.004459335934370756,0.0023586030583828688,0.0021264364477247,0.004092646297067404,0.0028532540891319513,0.0034777368418872356,0.002581534441560507,0.004706123843789101,0.0026264393236488104,0.002026075031608343,0.003770375857129693,0.0032086109276860952,0.004142409190535545,0.0036745702382177114,0.003321957541629672,0.0034889974631369114,0.0027685174718499184,0.003717868123203516,0.003493394935503602,0.003587204497307539,0.0022562318481504917,0.0025048658717423677,0.005281807854771614,0.0025583594106137753,0.004172175191342831,0.0031332795042544603,0.0041494593024253845,0.0023023905232548714,0.0035376749001443386,0.003964496310800314,0.004190532024949789,0.003623377298936248,0.004086618311703205,0.003284200094640255,0.003980911336839199,0.002455719280987978,0.00389881432056427,0.004598901607096195,0.003626081394031644,0.0037870188243687153,0.003932717721909285,0.003011164953932166,0.002357341581955552,0.0030012214556336403,0.0034382985904812813,0.003162537468597293,0.0018108070362359285,0.003285735147073865,0.0042888266034424305,0.0027537373825907707,0.004349393770098686,0.003528025234118104,0.003373216139152646,0.002355217467993498,0.0035256114788353443,0.002014717785641551,0.003110249526798725,0.004120759200304747,0.0031022781040519476,0.0035870936699211597,0.004139890894293785,0.0035684588365256786,0.0021617452148348093,0.0035683291498571634,0.0030569194350391626,0.0028301009442657232,0.0029181609861552715,0.0028342490550130606,0.0035684588365256786,0.003414633683860302,0.003963272552937269,0.003303468693047762,0.0036704421509057283,0.002761119045317173,0.002999780001118779,0.004241223447024822,0.0031093056313693523,0.0036725031677633524,0.0037319990806281567,0.004637458361685276,0.0031598869245499372,0.003617664100602269,0.003994989674538374,0.0038756118156015873,0.0027083586901426315,0.003203176660463214,0.004006030037999153,0.003617664100602269,0.002773043466731906,0.002760350238531828,0.0035961156245321035,0.005196704063564539,0.003472356591373682,0.003288209205493331,0.0025395213160663843,0.0036999674048274755,0.003528038039803505,0.0038743179757148027,0.0037172127049416304,0.002352137118577957,0.003907871898263693,0.005114267114549875,0.00205072108656168,0.0026916502974927425,0.006101453676819801,0.003533224808052182,0.003536168485879898,0.004004345275461674,0.003129582153633237,0.0035610643681138754,0.0039017093367874622,0.002368068089708686,0.004282485228031874,0.003727829549461603,0.0019304376328364015,0.003917662892490625,0.0033755635377019644,0.0036134852562099695,0.0034689668100327253,0.0031356068793684244,0.0041068852879107,0.0028386220801621675,0.003585600759834051,0.003065091324970126,0.003501494647935033,0.0039075263775885105,0.0036386763677001,0.0037972903810441494,0.004124274477362633,0.00345454178750515,0.00205632415600121,0.004321436397731304,0.0038241222500801086,0.0035276897251605988,0.0032345408108085394,0.003593875328078866,0.0036543477326631546,0.0026582491118460894,0.004423941485583782,0.0029897144995629787
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+This is actually more fun than I was expecting it to be -- you know how Hexbugs don't really do much but they're kind of fascinating anyway?
+It reminded me of that.This is essentially a 1-car slot track with no slot.
+The car is kept on the track by the fence, assuming you control the speed properly -- like a slot car.
+That's where the fun mainly is; getting the car to go fast and make jumps without flying out of the arena.
+Again, it's more fun than it sounds.
+The arena is sturdy plastic, except for the central area, which is thick laminated cardboard, but seems to be of decent quality.
+It was easy to put together and take apart.The car has a little removable battery that recharges by plugging into the controller, which holds the AA batteries.
+It's a similar setup to R/C helicopters.
+Clearly regular batteries in the car would be a weight problem, and I suppose that an AC plug-in charger would have jacked up the already high price.
+Also, the charge doesn't last all that long -- a higher capacity battery would probably be too heavy.
+It's a hassle, but really it's not that huge of an issue.
+This is a toy to play with for a few minutes at a time, not a few hours.Although the car only goes straight forward and backward, we figured out a few fun tricks that it can do.
+You can get it to flip over by switching from reverse to forward *just* right.
+More interestingly, and strangely, by waving the controller back and forth (imagine your hand moving like shaking your head &#34;no&#34;), you can make the car spin in place.
+I have no idea why that works, but it does!So, my son and I both enjoy this.
+But I have to consider the fact that it's almost as expensive as a basic slot car set (and more expensive than a cheap off-brand one).
+This is fun at first, but it gets boring after a while.Movement of the car is very fast and totally chaotic - you are not steering the car, but it will change direction after bumping into an obstacle (e.g.
+the outer fence of the course).
+It also will flip out of the course occasionally, which can get kind of frustrating if that happens a few times in a row.
+The stunts that the car performs are spectacular, but are really limited to flipping over in midair - once you have seen it a few times, it looses its novelty quickly.The whole toy is made of plastic and especially the fence has a flimsy feeling to it.
+This was obviously not designed with durability as one of the top goals.But what really infuriates me is the power supply - the car has a rechargeable battery, which you clip into the pistol-grip trigger device, which then loads the rechargeable battery of the car using its own AA batteries in the grip.
+Since one charge only holds for a few minutes, you are draining the AA batteries in the grip at a very fast rate - replacing them will be expensive after a while.
+And if you use rechargeables for the grip, too, you have to have at least a couple of sets available,  because it takes some time to recharge the rechargeables ...All in all, this playset is fun for a short while and leads to frustration in the long run.
+"Rather than have my guys wreck a radio/remote control car by smashing it into the walls, I was delighted to learn there is something that works on a pseudo track format.
+It's great and the kids are entertained.But, your child may not be that excited if he/she is above age 5.
+He/she would rather be racing with the car ""loose.
+""Also, the track comes apart too easily."
+The Kaotiks Psycho-Plex Playset comes with a stunt track stadium that is fenced in with two double sided ramps and an insanely fast remote controlled car.
+It took me about ten minutes to initially put the track together.
+It would have been quicker but the middle section of the track can be a pain to snap together correctly.
+However once you get it put together it doesn't come apart for the most part.
+The only exception is that fence that keeps the car inside the stadium gets hit a lot by the car and will sometimes pop out of place.
+It's no big deal to snap it back where it belongs occasionally.
+The remote controlled care has a rechargeable lithium ion battery that pops out of the middle of the car and slides into place on the remote control and that is how it charges.
+There is no additional power or charging cords required.
+The remote control is powered off of 4 AA batteries and it will charge the battery for the car in about 15 minutes.
+There is a light that flashes green on the remote control when it is charging and will turn solid green when it's fully charged.
+When fully charged the car will operate for almost 10 minutes straight which is pretty amazing considering the speed of this thing.
+The remote control goes forward or reverse only so there is no ability to turn the car.
+However with the way that the track is designed you still have a lot of control over the car.
+The speed at which you drive can make it do different things like jump ramps or do doughnuts.
+This car is extremely fast and if it were a real car it would drive 600 MPH and could jump 90 feet high which is crazy!
+This car is like a little lightning bolt zipping around the track.
+This is an absolute blast.
+If you have kids, or if you were ever a kid, you will love this.
+The problem is, it&#8217;s pretty small by itself, and you will start looking at the other sets to build it up into something bigger.
+That&#8217;s not cheap, and while it solves the &#8220;small&#8221; problem it creates a new &#8220;too big&#8221; problem.
+What I like is that while my kids are a little  young for a real Slot-car set, this is a lot more forgiving.
+Small kids can have fun without having much skill and older kids still seem to enjoy it, though perhaps not as much (especially as a stand-alone set).
+So if this is for younger kids, you can probably just get away with this set.
+But for older kids be prepared to make a bigger investment if you decide to go with this set.
+For us we used this as the &#8220;first piece&#8221; and added on at birthdays.
+If that&#8217;s not something you&#8217;ll want to do, then you might not want to start down this road.
+Fun race set.
+This is a fun racing set that doesn't take up much room.
+The car will take off with a push of the trigger.
+It jumps and races on the track.
+Fun for a short amount of time.
+Mediocre.
+We were really excited about playing with this, and at first it was pretty fun.
+But within about 10 minutes the car needed charged again, and after a couple hours of alternating the playing/charging/playing cycle, it got a bit boring.
+There's only so much you can do with this playset.
+I'm thinking that getting another set to tie into it might make it fun again, but then again I hate to put more money into it if it's not that fun.
+The kids got bored pretty quickly.
+Our kids ranged from 7-12, so maybe younger kids would do better with this set.
+The Kaotiks playset is an interesting take on the RC car.
+The idea is that you control the car on a stunt track and watch as speed makes the car do &#8220;chaotic&#8221; things.
+The track itself is about 3 feet long but the car's speed makes it seem a lot smaller.
+Unfortunately the car can only be controlled to move forward and reverse, there is no steering control which makes it useless off the track.
+The playset would have been more fun if the car was actually fully controllable  so kids could create their own obstacle or stunt tracks to race with friends.
+Another big disappointment was that the car only runs for about 8-10 minutes before needing to be recharged from the controller (which takes roughly 15-20 minutes).
+Overall kids do find it to be fun for a while but it is sure to be another toy stored under the bed once the initial fascination wears off.
+*** Positive Points: ***- Car has a decent speed which allows it to do fun tricks on the track- Control is easy to use even for younger kids*** Negative Points: ***- No steering control on the car (only forward and reverse)- Track is not user configurable- Car must be charged from the control and each charge lasts for only 8-10 minutes- It is too easy to make the car fly off the track
+"This is a crazy, out-of-control toy.
+And for a four-year-old, that's very cool, but it starts there and rapidly goes downhill.
+Putting this thing together took me about 30 minutes for some reason and it'll pretty much have to stay where you build it, it's not easily portable; it'll quickly break up unless you're careful.
+The car *is* fast and it is solid so there's some durability there.I'm sick though, of toys that require an endless supply of batteries and this thing will chew through them.
+With a fun run time of about 10 minutes or less, it requires longer to recharge.
+And the ""kaotik"" thing?
+It recharges from AA batteries.
+Why not provide a charging station for what this costs?My son was initially excited about this, but after the stop-starts of playing then having to recharge, then when the car careens off the track (and this happens A LOT) having to go get it, he moved on.
+Three stars because it's too much hassle for the limited fun factor, considering the price."
+This is the latest example I've seen of a certain type of tiny, infra-red (NOT radio) controlled, short duration rechargeable battery equipped toy car, and it shares the pluses and minuses of its class.
+Since it uses four (not included) AA batteries both to charge the car's internal battery AND to control it, it is something of a battery hog.
+It will chew through your AA batteries fairly quickly.
+It will take longer to charge the car than it will run, but that won't be as noticeable as you might expect because chances are you won't be running it for 8 minutes in a single burst.The lack of any steering control makes it a track-only toy (and arguably a single car on the track at a time toy, too), using the outside walls of the track curves to steer.
+Reverse is only useful for backing out of trouble because the open, powered rear wheels rub against the outside walls of the track curves when they are leading.
+Interestingly, forward and reverse work the same no matter which side of the car is up so you won't have to flip it back if it turns over.
+Because the control is IF not RC you will need to maintain line-of-sight between the front of the controller and the car at all times, which means you will want to be on the OPPOSITE side from the taller jump tower.
+In addition the car will stay on the track more if you aim the back flip part of the taller tower towards the straight piece rather than towards the nearest curve.The plastic parts of the track assemble (and disassemble) quite easily, as do the cardboard pieces, but the cardboard and plastic pieces don't fit together quite as well.
+Fortunately, that isn't as critical because the cardboard isn't the main driving surface.Two different Kaotiks track and single vehicle play sets are available:Kaotiks Thunderwave Challenge Playset with VehicleandKaotiks Skybender Stadium Playset with Vehiclethat can be combined with this one into a huge track, along with a larger track and two vehicle set:Kaotiks Mega-Plexxus Remote Control Stunt Tricks Jumps (90' scale) and Spin-Outs, but whether the single frequency vehicles are designed not to conflict with each other is only assumed, not known.Note: The car suddenly stopped working the second time we got it out, and replacing the batteries did no good.
+However, the manufacturer sent out a replacement remote that got us running again.
+I give this product four stars because, while it has a lot of what I call &#34;fun factor&#34;, the &#34;fun factor&#34; only lasts for a little while.
+You control the car's forward and backward motion, not left or right - but this is ok because the round track causes the car to spin, flip, and turn.
+The little car is quite fast and often jumps the included fence on the track so be careful.
+My 7year old son enjoyed this toy for about an hour but it soon lost its flare and he basically got bored.
+So, bottom line: this is a really fun toy but only for a little while.
+In minutes we had the Psycho-Plex up and running with my boys- 4, 11, 11- fighting to operate the remote.
+The vehicle flips in the air, does spins on it's side and moves super fast often flipping out of the Playset area.
+Overall rating from 11 year old, 'pretty cool toy'.Kaotiks The Psycho-Plex Playset was easy to assemble.
+The remote needs four AA batteries and has a built in side charging station to charge the slim vehicle battery--which came out of the box charged.
+The Playset can be expanded to double the size if you have two, and really this would be the way to go in order to get the most out of the vehicle- it would be awesome with a larger space to run the vehicle.
+However, the Kaotiks The Psycho-Plex Playset as is has not stopped my kids from loving it.The only con is that the center three pieces are made of heavy duty cardboard not plastic.Overall very pleased with this toy.
+A+
+"First let me say I was impressed with this little racecar set.
+Very cool charging system with the remote charging the car battery easily removable battery.
+The foam covered tires on the car give it a nice bounce and it jumps around like a jumping bean on the track!
+It's hilarious!
+The car hasn't a set ""top"", it will flip/bounce onto both sides with ease.
+You don't need the track necessarily..... this car w/remote is awesome on a hard surfaced floor!
+Our Cats and dogs were quite baffled by this speeding streak!
+Pretty funny stuff!
+The assembly of the track is a bit daunting at first with more pieces than I had expected, but really, it goes together very easily and breaks down to store even easier.
+What is another great possibility is to purchase or get together with a friend that has the other ""Blue"" Kaotiks set and merge them together to get to have two cars doing stunts on a larger track.
+Great well thought out design on this set!"
+"That's what my son said when he realized that the burnout marks on the display box were in fact pre-printed on set's cardboard pieces.
+He will become jaded before long: the Photoshopping on toy boxes is a growing concern.
+Not sure either about the advertised ""scale"" 900 MPH, but it's pretty darned fast, no doubt about it.The Psychoplex is one of several playsets from KAOTIKS, all of which can be combined into one giant set.
+This one took 40 minutes to assemble.
+Mostly straightforward, although plastic and cardboard are not ideal jigsaw mates.
+Couple hints: only at Step 4 does it mention to assemble on a smooth surface, but I recommend a very hard surface from the very start, the better to snap pieces together.
+Another tip: the green fencing goes flat(ter) side in.
+Unfortunately, pieces are not numbered in accordance with the instructions.
+The long green fencing, for example, is called out as part ""L"" in the instructions but the actual pieces are stamped ""S12.""
+Also, pieces ""M"" and ""N"" are ""P2"" and ""P1,"" respectively.
+Finally, the instructions do not mention the included stickers, the placement of only some of which are indicated on the box.The stated run time is 8 minutes, but thankfully our real-world experience is better.
+The car runs for 20 minutes, but takes almost as long to recharge.
+Battery installation/replacement is not intuitive, both for the controller (which uses 4 AA batteries, not included) and the car (which uses a LI-ON battery, included).
+The battery compartment in the controller uses sliding plastic tabs to separate each pair of batteries.
+Most devices require no such contraption, so I don't see the point.
+The car battery is tricky to install and remove, especially so for the stated age range (4+).
+This is a pretty fun toy.
+The car is FAST.
+Yes, it charges from the other batteries.
+Yes, you have to recharge it every few minutes.
+But it really doesn't take that long to recharge.
+My six-year-old has not had a problem with it.
+No, you can't control direction with this car, but it is super fast!
+Yes the playset is made out of semi-cheap plastic.
+But it is sturdy enough.
+I appreciate that it all comes apart for easier storing, and if you had one of the other sets it would be so fun to put them together in different configurations.
+I do think that this is probably a bit overpriced for what it is.
+The Kaotiks Psycho-Plex track and car is a pretty neat RC car playset with a few minor issues that spoil the fun.This is a pretty entry-level rechargeable RC car with only forward and reverse controls (the car turns on the track only because the walls prevent the car from moving in a straight line).
+As a result, the car isn't much fun without the track since you can't turn it and move it around the environment.That said, when you're using the Kaotics car inside the Psycho-Plex track it's pretty cool because the walls keep the car moving around the track and the ramps let you do some cool jumps/tricks ... until the battery runs out.This brings me to my biggest complaint about the car: The capacity of the rechargeable battery is too low.
+My son and daughter run down a fully charged battery in less than 10 minutes ... meaning they have to stop playing after 7-8 minutes and recharge the car for at least a half hour!The lack of steering makes the car a little annoying since you can't turn it outside the track but the weak battery spoils the fun since the car usually stops working right when my kids really get into playing with it.
+As it is now, I'd say my kids spend more time waiting for the car to recharge than they spend playing with it.I also think the walls on the track need to be twice as tall so that the car doesn't fly off (and out of) the track so frequently during jumps off the ramp.Bottom line, this is an affordable RC car track with a fast little car that does cool tricks on the track ramps, but the play experience is hurt by the lack of steering control and the weak battery.
+The Kaotiks kit is about the most fun you can have with a non-steerable IR remote control car.
+The car is very zippy and takes off around the course in unpredictable ways doing spins and flips while never getting stuck.
+Occasionally it will fly out of the course to the glee of my 4 and 6 year old.
+The charging process is easy enough, pop out the center battery from the car and charge it in the controller (which uses AA batteries).
+It would be nice if the car came with a spare battery or could take [rechargeable] AAA batteries so you could keep playing longer than 8-10 minutes at a time, but it's an action packed 8-10 minutes.
+The track is what makes such a simple, yet very speedy, car so much fun.
+It takes no particular skill to watch it do crazy stunts.
+But the fact that this isn't radio controlled (it needs line of sight) and it doesn't have steering... there is no growing with this toy and older kids will probably lose interest quickly.
+But until then your younger kids will have a blast.PROS:+ Assembly of the track is intuitive enough.+ Very fast and high jumping+ Easy Forward and Reverse controlsCONS:- No Steering- Can fly out of track- Needs semi-line-of-sight (not radio controlled)- Only one battery (it would increase the fun a lot if you could charge a spare while playing with it)
+Kaotiks The Psycho-Plex Playset pretty nifty, but it does have some drawbacks.
+The car goes VERY fast, and does some spectacular jumps off of the ramps on the track.
+The car is powerful enough to do &#34;burn outs&#34; on the provided track too.
+However, the power and speed quickly run down the battery in the car.
+The battery is rechargeable, but it recharges from other batteries.
+This is not good news, unless you enjoy buying batteries, or have a set of rechargeable batteries that you can swap out in the car's remote.Kids, especially boys, will like the Kaotiks The Psycho-Plex Playset because of the high speed and high jumps, but they may become frustrated because the car does not turn and so the jumps performed are fairly random unless they position the car by hand.
+The car also has enough speed that it frequently jumps off the track.Kaotiks The Psycho-Plex Playset can connect with other sets to provide a bigger track, so the problem of jumping off the track may be minimized with a larger play area.Despite the drawbacks, kids seem to really enjoy the Kaotiks The Psycho-Plex Playset with Vehicle.
+Conceptually this should have been really fun, but in reality it is a little bit annoying.
+The car is extremely fast making it challenging to control.
+There is no steering, the track is supposed to do that by banging along the walls into the jumps.
+There are two jumps, one is a forward only jump (smaller one) and one is a flipping jump (the larger one) with center cardboard piece that promotes burn outs.
+I would have given it a higher rating if it was possible to steer the car as I felt it would have made playing with it more fun, but it is way to difficult for my three and a half year old and may just have to go into the closet until he's older.
+Remote controlled cars are always fun for me.
+I love this Kaotics car and track.
+This car and track is really easy to assemble and charge with the instructions.
+It's not too complicated for an eight year old to put together.
+It's really fun to play with.
+Charging the cars battery can be a good thing or a bad thing.
+A good thing about this is that it adds less bulk to the car so it can go faster and jump higher.
+The bad thing about it is about every ten minutes of playing with it you have to take the battery out and recharge it.
+Recharging it takes only about 15 minutes but it seems like a long time when you're waiting for it.The track is really easy to set up and is fun to play with but I wish that they included two extensions of the ramps instead of just one.
+I would have also preferred that instead of the middle part being cardboard it was plastic though the cardboard is pretty sturdy.It's has a modular design so like that you can attach the track to different ones of its kind so you can make a giant track.
+Though the track is still very big, I wouldn't mind if they made the track a little bigger because even when I do a jump with the car, it still sometimes falls off.The Kaotiks car is also really nice.
+It's very thin and light which allows it to go faster and jump higher.
+It goes really fast, faster than most remote controlled cars I've played with.
+Be careful that when it goes off the track, it can wedge itself under couches because of its thinness.
+When you pull the trigger all the way and don't let go the car goes into a crazy mode and spins and jumps and does whatever it wants.
+Sometimes I pull back too far and it crashes into the track wall.
+Amazon shipped fast, arrived on time.
+I had many TYCO small slot track racers when I was growing up and was excited to check this little product out.
+We used to put together some massive tracks when we were younger and then modify the cars a bit to make them sleeker and run faster with better grip.
+Those were the good ol days.
+I can still smell that scent of the track and cars.
+Kaotiks tries to take that idea and put it in a free for all kinda rc mode with jumps and flips.
+It is basically a crazy back and forth bump fest.
+Yes, it will do the jumps and yes it is pretty cool for a bit, but overall I wasn't really impressed.
+Putting it together was also a bit of a pain for me for some reason, but no biggie.
+I can see this being a hit for the 7-12 year old kids out there though, so I am giving it three stars for that.
+If I were you, find some slot racers here on amazon and go the tyco route.
+Very fast little RC carhowever the battery life is crazy lowwe have many many RC vehicles and toysmost of them will at least give out 15 min before a chargethis one we are lucky to get 8 minthat is crazy all that wait and work for a mere 8 min of play timewhich is really too bad because it is a fast fun little carbut after a few times playing it my kids just push it aside nownot really worth the effort to have to wait for it to charge only to play for a few minthen they have to walk away while they wait for it to charge and most times they simplly do not come back to ityes it is fast yes it is fun when it it runningdurable..not sure how well it will stand up to lots of use seems a little on the flimsy sidethe car does come out of the track part often and since we have mostly carpeti do not like them to run it on that because the wheels will jam up with lintmaybe if we had a tile surface for them to play on this might be a fun thing for themafter awhile it gets frustrating that they have to keep putting it back on the playset to run itwould be great if it could be safe to run it not just on the set it came withhowever just would wreck it if too much running off trackoverall i gave it a three star because for the right child maybe younger than 10this might be a fun toy that would last longer for themfor my kids not so much they are already bored with it because of such short playtime
+3+ StarsThis is a cool concept and with a few adjustments from the manufacturer would have been a 5 star+.toy.My 15 year old and all his buddies played with it for a while, but after a half an hour or so it became very frustrating as the car constantly jumps off the track.
+The main problem is the fact that the front tires don't turn so it is very hard to control it.
+It double jumps and does spin outs too, but that is hard to achieve.
+I believe this would probably be frustrating for any child under the age of 10.It is made well, assembly required (took my husband about 20 min,) and comes with a rechargeable battery.
+I believe if the track was slightly bigger, and the front wheels turned it would be much easier to control and be much more fun.
+With that said, the boys still pull it out and play with it a few times a week..
+For the six year old that plays with this, the speed and jumps make up for some of the downsides.
+The playset is sturdy and not too hard to put together, although he needed help the first time from an adult.
+The car can fly off the track, so be sure there's no glass nearby to break.
+The AA batteries that this set uses also charge the car, so be sure to have rechargeables ready or you will pay a fortune to use this thing.
+The car ran for about 10 minutes when charged, and then needed a recharge, so we called that a pit stop and checked out out the car, checked the track and got a snack before coming back to do it all again.
+This is not a toy that will provide hours of play time, but my grandson has asked to play with it several times since getting it.
+"The main body of the track is 39"" x 19"" & 4"" high except for which-ever side has the taller ramp and is 7 1/4"" tall.Ten durable gray plastic, and 3 thick card-boards pieces make up the track base.Ten very flexible green plastic sides, and 27 decals finish the track.This needs put together on a hard surface to snap the puzzle like pieces together.After installing 4 batteries (not included) in the remote control, the car battery is placed in the remote ~turn remote on and it charges the 3.7 volt car battery which took 10 to 12 minutes.
+(NO - AC adapter included)Snap the green car battery back in the car & it will run for approximately 8 minutes ~then the car battery needs charged again, and since the play-set includes only one battery ~you'll need to remove it from the car ~ place it in the remote to charge ~ and wait for it.There's an on / off switch on the control & on the bottom of the car.The remote trigger moves the car both forward & reverse.
+Pull - forward.
+Push - reverse.If the car is turned on, as soon as the remote is on, the car wheels go fast, it has one fast speed.so it's hard to keep the car on the track, it often jumps the rail, which then goes several feet away, 10 to 15 ft on carpet.But the remote signal stops at approximately 6 1/2 feet so pushing the reverse won't bring it back.When it stops at a wall, for some reason even with the remote close,it's stuck and won't reverse until moved from the wall.Conclusion ~ It would be nice if this toy was more controllable and came with two batteries and an AC charger.Update Jan 18, 2014: While shopping at Costco Dec 2013, I happened to see this same toy ~except it came with 2 cars and 2 remotes ~ cost $65.99."
+What's green, gray and really fun?
+Not the Kaotiks The Psycho-Plex Playset with Vehicle!
+Hahahaha!Ok.
+So, if you want to drop $50 on a RC car track, don't buy this.
+On paper, the idea seems fun and great and there is even a minutia of fun to be had here but things get annoying really quick when you play with this.
+First off, you have to take the battery pack out and charge it with the remote control handle thingey.
+As the remote control thingey drains your AA batteries charging your battery pack you insert the pack back into the housing in the car.
+Press button and watch as the car careens into the side of the track repeatedly and get stuck as it pins itself going 90 degrees into the walls of the track.
+You back up and the car flies into the side of the ramp.You press button again and the car goes around the track and jumps off of the ramp and maybe stays in the track but mostly just goes flying off into the ether.
+Or the side of your room.
+Maybe I'm doing it wrong but my son quickly got bored trying to make the car work and walked off after 3 minutes of play.It's such a &#34;meh&#34; toy.
+Not recommended.
+There are some aspects of this toy that I love; the containment stadium, for one, and the fact that there are two other stadiums that can be joined together to create a Kaotic Megaplex.
+Those are things that I, being a big kid, love, and know that my 4 1/2 year old son loves, too.
+It's a cool-looking game set with rad colors and a zippy name.I like the car, I like the set, I don't mind -- much -- that the racer lasts only about ten minutes before needing to be recharged on the remote controller.
+The thing that really ruins the potential for this is that you can only control the car forward and reverse.
+You can't steer it at all.
+It might not seem like much at those crazy speeds in a short track, but having that control would have at least given a hint of ability to manipulate the car.
+At about fifty bucks, I think that makes a huge difference to kids of any age.
+The Kaotiks playset could be great fun if it stayed on the track.As it is, it goes off frequently.
+The description states the manufacturers recommended age to be from 4 months to 15 years.
+I don't get it.
+Small children should not be using, and certainly not infants.
+If it is a typo, hopefully they will correct it.
+I think the real age range for this should be 6-7 age, as it is initially fun.
+The problem is that after less than ten minutes it needs to recharge, which wouldn't be bad if you didn't have to constantly go after the car and put it back on the track.
+It is very hard to modulate the speed, very much like the old slot cars.
+The car goes forwards and backwards.
+You cannot turn it.
+There is no real feeling that you are controlling it, or that you can improve.
+For the price, you can buy a decent slot car track with two cars and slots and play with a friend.
+This is used by one person (unless you have someone else getting the car when it goes off the track....that was my job).
+I like the concept, but it just doesn't seem like it is worthwhile.
+My son and daughter both grew tired of it very quickly.
+In fairness, I have a very large slot car track that we love to play with, and we also have a bunch of r/c cars that we race in the yard (many of which were about the same price...and MORE fun).
+My seven-year old child loves RC vehicle sets.
+He owns several, so when he played this set, he was beyond excited.
+From a child&#8217;s perspective, the toy is attractive; the set includes one car (which a child can reserve if he wishes), a remote control for the car, an easy to assemble (and disassemble) track, flexible rails, two jumps, and stickers for the child to decorate as he desires.
+The presentation of the set is certainly appealing, and overall, this set makes an excellent toy, but as any other toy, flaws certainly exist, and this set is no exception.
+My review will include a plus (+) or (-) or (+/-) per point I discuss for consumer convenience.
+(+) Assembling is a breeze.
+The instructions for the set are easy to follow and also display clear images of each piece&#8217;s placement.
+My seven-year old assembled this toy as the batteries&#8212;not included&#8212;charged, which took about 10 minutes.
+My child placed a few pieces incorrectly before looking at the instructions and detaching the pieces and reattaching to their partners were no issue.
+(+/-) The car, the tracks, walls, and jumps are rather durable, which is a plus for design.
+My biggest complaint about the toy&#8217;s design is the car&#8217;s tires.
+After my son played with the toy for a few days, I noticed the track was rather dirty.
+At first I thought the track had collected dust where we had set it, but as I inspected the track carefully, I found black rubber pieces (resembling tiny specks) around the track, along with smeared black stains.
+When I looked carefully at the car, I noticed that the tires were slightly worn.
+Although my son played with the toy nonstop for a block of time throughout a 4-5 day period, I was disappointed that the car&#8217;s tires were poorly constructed.
+Had the wheels been plastic or of a different material, I think I would feel differently.
+This racing set is a great idea.
+I just think that as big as it is it should have at least one more car.
+We had fun for awhile and we had to keep stopping to recharge the car.
+After awhile the kids did not like charging and recharging the car.
+we did get it to do a few few flips and had at times smiling faces.
+Takes up a lot of room.
+stores under bed easily .
+I just wish it had a bit more juice to it.
+Sturdy car can take bumps and falls pretty well made.
+This was a very cool toy and I think any little boy would absolutely love this race track!
+It was very easy to assemble but make sure its on a flat sturdy surface because this race car moves really fast...so fast that it sometimes come off the track, which you may find a bit frustrating at times because a toy so cool and fast like this one, you want to see consistency.
+It comes with a remote control to control the car but have only limited options.
+The set itself is not very portable so in order to move it you will have to most likely take it apart.
+Overall this was a fun set and my kids enjoyed it.
+OK, I should probably preface this review by stating that I really didn't have very high expectations for this car and racetrack.
+My first impression upon looking at it was that this would be a cheap toy with very limited replayability.
+After trying it out, I can safely say that my assumptions were accurate.
+This IS NOT a great toy.
+This IS NOT a terrible toy.
+It is somewhere in the middle and you need to be aware of what you are buying before you plunk down the cash for it.
+Here's my summary of the pros and cons of this product:PROS:1.
+This product looks cool and really isn't all that hard to put together.2.
+This product is expandable.
+It can be combined with other similar products to create a larger racing field/track.3.
+This is a pretty safe toy.
+I don't see it as being dangerous to kids, furniture, toys, or pets.4.
+Although it is made from cheap plastics, this toy is as durable as it needs to be.
+As long as your kids aren't throwing it around or stepping on it, I don't think breakage will be an issue.
+If your kids are demolition experts and routinely break toys, this one won't last more than a day or two.5.
+While it is not completely idiot proof, this isn't a hard toy to use and it is a pretty contained entry into the world of RC cars for a kid to try out.CONS:1.

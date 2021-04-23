@@ -1,0 +1,230 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+The options of accessorizing the bunny came into play, literally, and extended the play time.
+All in all, when our neighbor tested the set-up, after seeing everything that the bunny did on the set, she was more interested in playing with the bunny than in putting everything into action over and over.
+The rabbit thingy is very good at going around the paths.
+The Zhu pets have a tendency to climb off the fence, so you have to constantly redirect them.
+The FurReal Friends City Center Play Set was a big hit when my kids first saw the package.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.002523604081943631,0.0023605122696608305,0.008872990496456623,0.009671525098383427,0.005634744185954332,0.0034187452401965857,0.0017692135879769921,0.005749990232288837,0.006579382810741663,0.002202701987698674,0.002328135073184967,0.006276306696236134,0.005813185591250658,0.002775878179818392,0.004335151053965092,0.004820855334401131,0.005210304632782936,0.004305596463382244,0.0030266321264207363,0.004753018729388714,0.005405816715210676,0.005541980732232332,0.00814234558492899,0.004946945700794458,0.006375400349497795,0.007683473639190197,0.006229043006896973,0.0063260579481720924,0.005160047672688961,0.0024878247641026974,0.0056588370352983475,0.0048193298280239105,0.005841687321662903,0.004384201485663652,0.0038837259635329247,0.0016027319943532348,0.007339179515838623,0.00267658825032413,0.0019154412439092994,0.0028199295047670603,0.0024453725200146437,0.006404411047697067,0.0022077097091823816,0.0026483049150556326,0.002187421079725027,0.0037363539449870586,0.0036379611119627953,0.0062127625569701195,0.004787110257893801,0.002152154454961419,0.004263471346348524,0.0024832473136484623,0.0068750325590372086,0.005365672055631876,0.0036444116849452257,0.004436158575117588,0.004723337944597006,0.006370095070451498,0.007011727429926395,0.006386432331055403,0.005610344465821981,0.007766613271087408,0.0037389264907687902,0.004702294245362282,0.005978575441986322,0.0021606027148663998,0.005119891371577978,0.006585916504263878,0.0017870903247967362,0.002142998855561018,0.0047600301913917065,0.0039051417261362076,0.003587840124964714,0.0041478355415165424,0.0029139092657715082,0.006217279937118292,0.005386923905462027,0.00563183194026351,0.003817083314061165,0.0040666633285582066,0.005114699713885784,0.0038345144130289555,0.0035466323606669903,0.0035609076730906963,0.005629200953990221,0.0021477530244737864,0.005450601689517498,0.004310036543756723,0.003145391819998622,0.0064664576202631,0.006082076113671064,0.006325354799628258,0.0030909033957868814,0.0033497840631753206,0.006817356683313847,0.004589912481606007,0.0052566020749509335,0.004344408866018057,0.0063774180598556995,0.0054352255538105965,0.0063774180598556995,0.0032775006256997585,0.006408824119716883,0.004787710960954428,0.006565461866557598,0.005838016048073769,0.004967451095581055,0.004304014146327972,0.0023953418713063,0.0051943399012088776,0.004773239605128765,0.006201978772878647,0.004157010465860367,0.004224987700581551,0.006297494284808636,0.005625236313790083,0.006293033249676228,0.004416941665112972,0.006033475510776043,0.006763805169612169,0.007630596868693829,0.006242259405553341,0.005745806731283665,0.0034939616452902555,0.0017950641922652721,0.0057292659766972065,0.0020808817353099585,0.004300147760659456,0.003863666905090213,0.006370963994413614,0.003779484424740076,0.006370963994413614,0.006122251506894827,0.006028543226420879,0.0032738931477069855,0.0063361721113324165,0.0038555508945137262,0.005689993966370821,0.004994048736989498,0.0050309645012021065,0.005899921990931034,0.0080568203702569,0.005726904142647982,0.006085543427616358,0.004907534923404455,0.004541488364338875,0.004197819624096155,0.004921781364828348,0.0026140145491808653,0.005117411259561777,0.002740101655945182,0.002949734916910529,0.003987242467701435,0.00514207873493433,0.0025758894626051188,0.00530396169051528,0.002074919641017914,0.0028601360972970724,0.005383555311709642,0.006920084357261658,0.00477493554353714,0.004732247442007065,0.00589267211034894,0.0025658023077994585,0.002463433425873518,0.005658318754285574,0.004611945245414972,0.0034295497462153435,0.0036843272391706705,0.004335072357207537,0.00636641588062048,0.007183769252151251,0.004108697175979614,0.0019188964506611228,0.005510650109499693,0.006402806378901005,0.006540176924318075,0.0033104531466960907,0.002671522554010153,0.0046822689473629,0.005058526061475277,0.0022052342537790537,0.003696553409099579,0.0026403393130749464,0.006547312717884779,0.0034477878361940384,0.006086783017963171,0.007071762345731258,0.004159810021519661,0.006415897980332375,0.002435608534142375,0.00433745700865984,0.006758388131856918,0.002653285162523389,0.002146420069038868,0.002470309380441904,0.0027407363522797823,0.002525199670344591,0.003448733827099204,0.003762909909710288,0.0033832669723778963,0.007043545134365559,0.001882159966044128,0.006097566336393356,0.003670693375170231,0.005230092443525791,0.006617167964577675,0.0050103007815778255,0.005247374530881643,0.005180884152650833,0.003805612912401557,0.0062337955459952354,0.0032453788444399834,0.0057031637988984585
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+The Fur Real Furry Frenzies Scoot and Scurry City featuring Tizzy Tumbles is a cute set with a gray bunny (that looks more like a mouse with big ears) that moves down slides and makes other actions happen, like buckets flipping over, signs spinning, and gates opening.
+The bunny itself is very cute, but not very cuddly since it is wheeled and hard, but covered with fake fur that makes it look soft.
+All in all, when our neighbor tested the set-up, after seeing everything that the bunny did on the set, she was more interested in playing with the bunny than in putting everything into action over and over.
+The options of accessorizing the bunny came into play, literally, and extended the play time.
+I think younger children would like to watch the actions and older ones would prefer to choose to dress up the bunny - making the toy more appealing to various ages.
+I dislike sounding gender-biased, but this set seems more appealing to young girls than boys.The only significant con to this set-up was the time it took to piece it all together.
+There were eight plastic bags of parts, plus the top green segment and a separate sheet of stickers to use.
+I can see where it might be fun for an older child to help put it together, but the age on the box says 4+ so adults will have to do all the work for younger children.
+Allow plenty of time to do that.
+Batteries are not included (2 AAA or LR03) and a Phillips head screwdriver is needed.
+This toy is delightful and entertaining, and a great take on an amusement park toy theme.My 6-year-old niece and 4-year-old nephew loved playing with the soft mouse and making it go down the rollercoaster.
+I got to say, It took me longer than I expected to put this track together.
+There are lots of track pieces, gates and little obstacles to set up.The box contains one fur real bunny, small items to dress up your pet, and an elevated circle track.
+There is a circular extension that isn't much worth mentioning.
+Your pet zips around bashing through gates and knocking over barrels.
+We were pleased to discover that the KungZhus we already owned held their own on this track which doesn't really accommodate more than 3 pets.
+The track is a little flimsy, and requires constant track tightening and readjustments.
+After about an hour my daughter lost interest, and I was forced to pick up dozens of pieces.
+The box isn't a viable long term storage solution, so be prepared to purchase a container of some kind.
+Overall, this is one of the better more entertaining track sets we've used.
+I'd recommend it as a great gift for little girls with Christmas around the corner.
+Ok. My daughter loves this toy.
+The rabbit thingy is very good at going around the paths.
+My daughter has fun watching and playing with the rabbit and the environment.
+The only bad thing is putting this monster together, lots and lots of parts.
+"This just happened to arrive on a day that my little girl was home sick from Pre-K.  She was so thrilled when she saw it and recognized the product immediately.
+It took us a little over half hour to put it all together, but the instructions were fairly easy to follow.
+The stickers are what really takes a while.
+She's four, and she wanted to help, so some are not straight or in the correct spot, but she's happy.
+If giving this as a Christmas gift, I would suggest setting it up the night before, because it does take a while.The set comes with a ""Tizzy Tumbles"" bunny and accessories for it, things like sunglasses, hair bows, headbands and the like, so she enjoyed dressing it up in the little ""beauty parlor"" section.
+She's had it now a couple of weeks and still enjoys playing with it.
+The little rabbit runs through an obstacle course and you can change it up a little by sending him in the opposite direction or opening and closing gates that close off pare of the track.
+The only negative thing is that you have to take it completely apart to get it back in the box, and then it takes forever to set up again.
+It would be much easier to store in a rubbermaid tote or something of that nature so you wouldn't have to take it all the way down each time you want to put it away."
+"Assembly - 20 minutes, one screw to add a battery to the rabbitWill a Zhu Zhu fit?
+- Yes, mostlyHasbro Quality - think LPSPlay Value - better than competing track setsWhen I first saw the Furry Frenzies City Center play set I refused to let my daughters get it.
+Last year they spent their holiday money onZhu Zhu Pets - Funhouse Set with Hamsterand we absolutely hated it.
+Before a month was out, we'd discarded all the track, but kept their pets.
+However, the City Center is much more compact than the Zhu Zhu track and far easier to assemble.
+It took me about 20 minutes from opening the box to finishing the last sticker (I disagree with the instructions - put the stickers on FIRST because there are a lot of them) and setting the kids loose.
+Oddly, there was no battery in the pet, although Furry Frenzies sold by themselves have the battery installed.
+The girls prefer this play set to their old track because it is more imagination friendly.
+The mechanical pets don't do much but run around the track, but the track is themed brightly and has been divided into sections 'store' or 'park' or 'alley' instead of being set up as rooms.
+It looks like a Littlest Pet Shop play set if LPS were the the size of your fist.The Furry Frenzies, in the words of my 6 year old ""Are just SO CUTE"" and run about the track following the path the child sets with the gates.
+When the Furry Frenzies  reaches a closed gate, it stops, lifts it's face up, and assumes a sort of begging position.
+The child can then turn it around or open the gate for the pet.
+When a Zhu Zhu Pets Hamster reaches the gate or one of the twists on the tunnel it also half elevates, but it doesn't stop moving.
+It rubs against the obstacle.
+My kids were perfectly happy to redirect the Zhu Zhu and keep playing.
+They are using this playset with two Furry Frenzies (bunny & cat) and a bucket full of Zhu Zhu pets.
+This took 20-30 minutes to setup for my daughter.
+It also has lots of very small pieces that don't like to stay attached to the unit, this means it's probably not appropriate for younger children, and not for you if you can't handle a messy play set that will probably be missing half of it's pieces in short order.That said, after it's all clicked together and stickers applied, the rabbit faithfully makes his way around the track, moving the gates around re-routes him.
+My daughter loved playing with the gates and different pieces, but most of all loved playing with the rabbit itself.
+After a few weeks she's less interested in the playlet, but still plays with the rabbit.Not a huge fan of all the little pieces, and that it can't easily be moved without falling apart.
+Kids will still love playing with it, watching the rabbit go around if they have a long enough attention span.
+Be aware that the additional animals you can buy cost nearly as much as this does on it's own!
+My six year old daughter received this for her birthday, it is a great toy.
+It did take us about an hour to put it all together with three people working on it.
+It works with her zhu zhu pets and with the fur real pet that came with it.
+My daughter has played with it a couple of time since she received it about a month ago.
+It does take up a huge amout of space, I have it stored in a bin that is rather large.
+The FurReal Friends City Center Play Set was a big hit when my kids first saw the package.
+Even though it looked a bit girly my son was very eager to get the package open.
+Unfortunately the construction for this set is strictly for adults and requires patience.
+It looks overwhelming at first but is actually quite easy.
+Once built, my son and daughter really enjoyed watching the little bunny run around the track while making silly sounds.
+Unfortunately subsequent play time became less and less until the kids were finally bored and had moved on.
+This set definitely is attractive to kids but they get bored quickly.
+*** Positive Points Include: ***-  Cute bunny figure that makes silly sounds-  The city has plenty of activities for the bunny to run around in-  Kids are initially wowed by the set and are very excited to be able to play with it.
+*** Negative Points Include: ***- Building the set seems overwhelming when you first try to put it together- Clean up requires patience and adult supervision- Does not offer much in terms of repeat playability- Easy to lose the pieces
+If you have young daughters you are no doubt aware of the Zhu-Zhu Pet craze that emerged around the holidays in 2009.
+My daughter was swept up in that craze and now has dozens of little furry mobile creatures in her collection.
+Her collection includes many Zhu-Zhu Pets, but she also has animals from other manufacturers who have sought to cash in on the popularity of the Zhu-Zhu craze.
+The one thing that seemed to be missing from her collection was a place for these mobile little fuzzies to play.
+The Furry Frenzies City Center Play Set fit that bill nicely.
+She was initially very excited for the new toy (as kids always are).
+But I kept an eye to see how quickly she would tire of it.
+To my surprise she's still playing with it after a week.
+Granted, all her little furry toys don't work with the set up but you know how kids are.
+They mix and match toys without a care.
+They don't really mind if this doesn't go with that.
+Overall, a good toy and not horribly priced at around $27.
+"As I sit down and began to assemble the set, I was reminded of playing with the electric race car sets from the 1980s.
+The concept was about the same, just modernizedThe FurReal Friends set is a step up from the ZhuZhu junk that was put out last Christmas, but I was still far from impressed.
+My wife and I assembled the set and let our three children (7, 4, and 3) have at it.
+Repairs to gates that fell off, tracks that separated, or the columns that raise the track were pretty constant.
+There are a few small pieces that were lost within 24 hours.
+The playset did provide some excellent entertainment for the kids for a few days.
+As happens with most new toys, after a few days the playset got moved to the corner and there it sets.The kids loved ""Tizzy Tumbles"", the gray rabbit looking motorized toys.
+Tizzy coos, purrs, and makes all kinds of fun noises as it zips around the track.
+Personally, I found the thing kind of creepy.
+The sound of the thing kind of reminded me of a possessed Gizmo from the Gremlins.
+The kids loved it though so that was the important thing.As I mentioned previously, the playset is a step up from the ZhuZhu line of toys.
+Assembly was not difficult, but putting 40+ tiny stickers on various parts of the playset was a bit tedious.
+The various gates give kids the option to direct the Furry Friend around.
+The set did provide a number of hours of entertainment for the kids.I was not impressed with the design and durability of the set.
+It seems there could have been a better locking mechanism for the tracks.
+The columns that elevate the track did not hold up well to the kids playing with the set.
+I like this set quite a bit.
+Yes, it takes a while to put all the pieces and stickers together, but big deal.
+You do it once and it's done.
+The FurReal Frenzies animals interact cutely in the set-up, and the only problem I had with them is that sometimes the doors/gates wouldn't open fully and the animals would get stuck and need to be guided through.However, I'm surprised that many people mentioned that the set works OK with Zhu Zhus as well.
+That is not my experience.
+I put a Zhu Zhu in there, and it was like watching a drunken rhino try to roller skate.
+Totally inept.
+The Zhu Zhu continually fell over, went upside down, got stuck, etc.
+Not every few minutes, but every few seconds.
+It was pointless, so I took it out and stuck to the FurReal Frenzies in there instead.I think they're cuter anyway, with cuter sounds.
+Appears Momma may be exchanging some unopened Zhu Zhus this year for more FurReal Frenzies animals instead.I assembled this while my daughter was sleeping, and I couldn't resist playing with it for 10 minutes or so myself.
+A very sweet set, and seems well-made and durable.
+"From an adult perspective, this toy is a bit of a pain.
+You have to spend a good hour putting it together, and even then occassionally a kid will approach you to repair a bit that snapped off and needs reattaching.
+When you put batteries in the little critter, it jabbers and races around in an extremely frenetic way.
+The whole thing seems like it was designed by someone who had spent the night watching ""Caddyshack"" over and over while throwing back most of a case of Red Bull.
+Which means, of course, your kids will LOVE it.
+My 4 year old sends the little guy through the maze again and again, cheering him on gleefully, while meanwhile the 2 year old giggles hysterically.
+So it's lots of fun for them, if a bit annoying for the grown ups."
+My nieces loved this furry little critters.
+They have been trying to expand on to the little family of friends.
+Only problem is you can only put a few friends at a yime on here.
+but it is still fun for them to watch and race, and pretend
+This toy is fun fun fun.
+My daughter was around 2 years old she got it,  and now she's 2 and a half, but still she and even her older friends visiting, enjoy it a lot.Now when you take it out first time, there's a bunch of customization you can do.
+There's lots of stickers, and accessories, which you can use to decorate the toy and the various fur pets.
+I helped my daughter with it, else she would just going to stick up all the stickers on the walls of the house!Assembling the toy is not a easy task to do for a very small child, but a 3-4 year old should be able to do it,  and a younger one, would need help with it from a older sibling or a parent.Once done, it's zoom zoom zoom!
+the pet, we got a mouse, zooms around automatically.
+it senses the blocked way, and flips around, makes noises, opens up the plastic gates, knocks around the small obstacles.Children can decorate the pet as well as various items in the toy with various supplied customizations and accessories, as well as you can buy accessories and more furreal pets.The toy could be a bit cheaper, around 20 dollars, but as much as my child has enjoyed it, I am ok with 30 bucks for it now.
+This play set was on sale last holiday season for a huge markdown.
+I grabbed one for my 4 year-old daughter as she was already introduced to Zhu pets.
+She already have 3 of those.
+My first thought was that it will be some shoddy knock off after the Zhu pets sellout explosion.
+I was wrong.
+This set is wonderful.
+The construction is great with quality built in the details.
+Ours came with a bunny pet.It has tons of pieces for the playground and even accessories for your pets.
+Although it has so many parts, the instruction is well written and very easy to follow.
+It has a number for every piece and stickers that goes with each piece.
+I have completed it in about 20 minutes.
+As I grew up with Legos, I even enjoyed putting this thing together.
+My daughter loves it very much.Of course we wanted to find out if our existing pets will work in this play ground.
+The answer is, not exactly, unless you are constantly watching them.
+The Zhu pets have a tendency to climb off the fence, so you have to constantly redirect them.
+But they do play together, just not built for them.Great idea for a gift.
+Our kids love Zhu Zhu pets and were delighted to unwrap this on Christmas morning.
+Setup took approximately one hour, but the most time consuming part of it was applying all of the stickers.
+Honestly, if you have kids and have put toys like this together before, you shouldn't have any issues constructing this one.The bunny that it comes with is adorable.
+One of the best things about this set is their Zhu Zhu pets can play on it as well!
+They get stuck on the mountain overpass, where there's a button specifically designed for use with the FurReal Friends, but one little nudge and they're free to scurry around the track together again.
+It's a fun little environment that both of our children, ages 6 and 10, enjoy playing with together.The setup does take up approximately 2 feet by 3 feet of floor/table space, which is a decent chunk.
+We've found it easier to just have a dedicated spot for it so that we're not taking it apart and putting it back together every day.
+However, if you don't have the space to have it constantly laying around, I would say you could put it back together again within about 5 minutes.
+As I said, the most time consuming part is applying the stickers, and (ideally) you wouldn't have to do that more than once.Overall, our kids love it so I can definitely give the Furry Frenzies City Center Play Set a high recommendation!
+Like others have said, make sure you open the plastic bags in order as you go through the assembly steps, because some parts (the gates in particular) look almost alike but not quite, and aren't interchangeable.
+But it was easy enough to snap together (no tools required) that kids with reading ability could do it, and get a lesson in following directions.
+Then they have the fun of sticking stickers all over it.My daughters had fun playing with the one Furry Frenzy rabbit included with the set, and it climbs all over the track, makes animal noises and goes into reverse like it's supposed to.
+If it gets stuck or runs into a wall, it just goes back and forth until it ends up...getting unstuck.
+Warn your kids about keeping it away from their hair (there's a big warning label on the rabbit about that) and if there's carpet on the floor, you'll probably have to clean hair and lint out of the wheels to keep it running smoothly.The animal takes 2 AAA batteries (not included) and the track is battery-free.
+There's a small grinding noise when it's running, but it's not too loud, and the animal goes into sleep mode after a minute or two; the batteries are still working after about a month.
+Unfortunately, a lot of my kids' initial interest is now drained, and they haven't played with it in a few days.
+Perhaps it's because they don't have any other Furry Frenzies or Zhu Zhu pets, and there's only so much that one critter can do.
+The set is clearly made for multiples - there's a platform that one pet can sit on while another spins it around from below - so you'll probably find that this is a gateway drug, a way to get even more critters.
+Luckily they're a lot cheaper and easier to get than they were last December.
+"The Zhu Zhu craze was something, wasn't it?
+Oh - wait - it's still going on, now that they've created theKung Zhu Battle Arena.
+Now, though, you can head to your local Family Dollar and can find knock-offs for much less price, although we've tested the knock-offs and they don't work nearly as well as the original.
+So what's next in the craze?Who says hamsters need to have all the fun, what about other creatures?
+One of the favorite kids companies, FurReal Friends, has come to the rescue with funny friends, and play sets, that are much more entertaining than kung-fu fighting hamsters!My 6 year old absolutely loves this set.
+I'll be the first to admit that putting it together was a bit of a pain, and if you want to stay married you may want to elect one person to do the setup, but if your child is a bit older, as mine is, leave the sticker assembly to them, as it really personalizes the toy for each child.
+Who cares if the sticker isn't exactly perfect?The character that comes with this set, Tizzy Tumbles, is adorable, especially when my daughter started dressing him up with the little accessories that come with the kit.
+We both thought that it was fun that Tizzy had plenty of things to do in his little play area, including going through the gates and pushing the ball around.And there are lots of little critters and other play sets to help children to build up their own little creature world, which is ideal for families who are unable to have real ""live"" pets.
+But the test of time: does your child play with it longer than a few hours?
+In my case, yes, my daughter has played with this set every day since we got it, and was extremely excited to show visiting friends Tizzy and all the things that he could do.
+I can foresee us getting many more of these fun FurReal mini-creatures in the future!"
+"I was having flashbacks to Christmas eves years ago when I was trying to put toys together so ""Santa"" would have the toys under the tree before my kids woke up.Putting the stickers on was not easy, of course I was voted most likely to get stuck to something with super glue in High School, so my experience might not be typical.It is a cute toy, but our household tends to be a bit cluttered and it was hard trying to keep track of all those tiny sunglasses, etc.
+We misplace larger items on a regular basis, so the small parts was a negative for me."
+Cons:Very difficult to put together.
+Instructions were confusing.
+It was easier to look at the box and use it as a visual aid than to read the instructions.I had planned on allowing 30 minutes for set up, but it took me over an hour.
+I've been putting toys together for 5 years now and this was the most annoying so far.Long haired children beware: hair WILL get stuck in the little wheels on the bottom of the FurReal Friends.Pros:Very cute.
+The track has a lot of fun features such as spinning signs, a barrel that tips over, hills, tunnels and a rest stop.
+It will hold a child's attention longer than the Zhu Zhu Pet track.
+"Wow... what a huge price drop on the FurReal Friends Furry Frenzies City Center Play Set.From $34.99 two months ago, to $9.99 on 12/15/10.I bet alot of folks are gonna be P.O.
+'d for getting this set a bit earlier; and those folks who waited are loving the price now.My kids wanted the Zhu Zhu pets last year, but I was extremely hesitant to get them.
+I remember the furbie craze and how that went over like a lead balloon with the oldest daughter, so that's how strongly I felt about this set-up too.I'm really not a huge fan of battery operated toys, and to be honest, I almost didn't get this item.
+But one of my friends at work told me about this set-up and how much her children like the FurReal pets.
+So I went for it and I'm very glad that I did.Holy Moly there are alot of parts and allot of little stickers to this toy.
+But after the initial half-hour long assembly time, this was a toy my daughters were able to enjoy.
+Now that it's all set up, I can definitely see where the ""Cute"" appeal and ""Charm"" comes in.
+[*****Note: Save yourself some stress and ad the stickers as you assemble this unit.
+Stickers are small and are not easy once assembled.
+*****]If you are looking for a toy for your youngsters, this is it and at this price you can afford to get one for each of your secret Santa's, neighbors kid, and all the other children on your holiday gift list.------------------------------------------------------[Update] I noticed that the price on this toy bounces around like the stock market.
+It is now more than the retail price of $34.99.
+It is currently $39.10 as of 12/23/2010."
+The FurReal Friends Furry Frenzies City Center Play Set received a warm welcome at our house.The gray bunny (who seems to be having identity problems as she strongly resembles a big-eared mouse) can be dressed in hat, sunglasses, and collar.
+She's not especially cuddly but her soft fake fur seems to give her enough tactile appeal for a four-year-old.Bunny's purpose in life is to zoom around the track, much to the joy of small children.
+And the track seems to have an  open admissions policy, as creatures from other manufacturers can sometimes sneak in too.Warning:  if you're buying this for Christmas, assemble before the big day unless you have a really patient child.
+As they say on TV:  some assemble required and stock up on batteries.The bottom line:  Four stars.
+The FurReal Playset is a one trick pony (...err bunny) that will please small children at a reasonable price, but it's continued appeal seems to depend more on the imaginations of the users than the versatility of the toy.
+"The Furry Frenzies City Center is loads of fun for my four and six year old kids.
+The set comes with the elaborate track and one Furry Frenzie - a bunny named Tizzy Tumbles.
+Tizzy has buttons on her nose and back that start her making cute noises and running around forwards or back.
+The set even has some accessories for her such as a hat, sunglasses and barrettes.
+The city center has a roundabout where Tizzy pushes a ball, and there are hills, tunnels, signs that spin, barrels that Tizzy tips over, and a little beauty parlor/rest stop.
+It has gates that move like switches so Tizzy can go either way around the track.
+Some gates are escape gates and when you open them, Tizzy can move around well on any hard surface.
+She has some trouble with carpet and she can stop moving altogether if too much hair gets stuck and wrapped up in her wheels.Assembly can be a little trying.
+My first mistake was opening all the clear plastic bags to free all the pieces.
+Since the bags weren't labeled, I did not realize that they were packed together by the assembly step.
+Things would have gone smoother for me had I opened up one bag at a time and did the Step for it.
+Another thing to note is that the pieces don't snap into place like similar sets I've assembled.
+Most of them silently slide together like Hot Wheels tracks do.
+I was often not sure if I had correctly put pieces together.
+Perhaps this is why the bases that hold up the hill fall off when the unit is moved and the barrels easily come off the track.
+Lastly, the stickers!

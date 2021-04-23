@@ -1,0 +1,140 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Can these parts also be used with lego parts?
+Top sentence(s):
+A little pricey, but it's something, at least for me, my son and I can look back on as a great accomplishment.
+I'm really impressed.
+But have a bucket handy for when playtime is over!"
+So when you open the box, you get this daunting project of either putting the Optimus Prime robot or the truck together.
+542 pieces to play with, lose and then find when your parents step on them, stick in your ears, whatever you want to do.
+
+Question attention weights:
+0.1948324739933014,0.17537909746170044,0.1475325971841812,0.2359209507703781,0.24633479118347168
+Sentence attention weights:
+0.005983910523355007,0.00850624404847622,0.009508752264082432,0.005186439026147127,0.012585685588419437,0.005109630990773439,0.012109707109630108,0.011223790235817432,0.009425027295947075,0.00906910840421915,0.010386751033365726,0.005934216547757387,0.009376252070069313,0.009964815340936184,0.006626962684094906,0.011652949266135693,0.00771905854344368,0.007542850449681282,0.011104193516075611,0.009613912552595139,0.008730483241379261,0.004006554838269949,0.0050911144353449345,0.011970690451562405,0.004366590641438961,0.004209659527987242,0.008393744938075542,0.00515044154599309,0.00967448577284813,0.009487034752964973,0.005502435378730297,0.0071681286208331585,0.006325013469904661,0.007484695874154568,0.011336419731378555,0.010379379615187645,0.011432671919465065,0.010279159992933273,0.010809927247464657,0.009988625533878803,0.004528466146439314,0.005495860707014799,0.009402614086866379,0.008518458344042301,0.010367541573941708,0.0077591813169419765,0.010166882537305355,0.010572338476777077,0.00805534515529871,0.009887523017823696,0.005553685128688812,0.008175024762749672,0.010619989596307278,0.007804541382938623,0.004239816218614578,0.014386976137757301,0.010258291848003864,0.010813549160957336,0.012174783274531364,0.008361704647541046,0.005877495277673006,0.009764674119651318,0.005575921386480331,0.00900419894605875,0.011364061385393143,0.008619035594165325,0.01000213623046875,0.004932568874210119,0.010596047155559063,0.012885610572993755,0.010428071953356266,0.010377978906035423,0.008824847638607025,0.009923243895173073,0.010377978906035423,0.006660483777523041,0.01393840555101633,0.010470008477568626,0.005854330956935883,0.013611353933811188,0.010333883576095104,0.009901913814246655,0.00931334588676691,0.007219074293971062,0.005219144280999899,0.008749211207032204,0.008050072006881237,0.010413140058517456,0.010333883576095104,0.010333883576095104,0.011680836789309978,0.008715776726603508,0.008656610734760761,0.00802596751600504,0.006110738962888718,0.008929956704378128,0.006172494031488895,0.004723282065242529,0.004324700217694044,0.009725931100547314,0.008643836714327335,0.010320198722183704,0.009163426235318184,0.00811953004449606,0.009945881552994251,0.010882998816668987,0.011047366075217724,0.010376273654401302,0.0035560191608965397,0.006356160156428814,0.008178387768566608,0.006728519219905138,0.010334660299122334,0.00887821801006794,0.0038861529901623726
+0.006031689699739218,0.008595150895416737,0.009743756614625454,0.005066064186394215,0.012558178044855595,0.005244574975222349,0.0112382173538208,0.011302773840725422,0.009436671622097492,0.009184660390019417,0.010699797421693802,0.006146985571831465,0.009445912204682827,0.009997711516916752,0.006505371071398258,0.011597182601690292,0.007738289888948202,0.0074354736134409904,0.010727143846452236,0.009632155299186707,0.008686035871505737,0.0041020894423127174,0.0052763307467103004,0.011908560059964657,0.004095692187547684,0.004330764524638653,0.008391497656702995,0.005088465288281441,0.009516138583421707,0.009523305110633373,0.005338696297258139,0.007294351700693369,0.0062302034348249435,0.0074712494388222694,0.011091455817222595,0.010465200990438461,0.011210176162421703,0.010221168398857117,0.010916431434452534,0.009935191832482815,0.0047643850557506084,0.005528469104319811,0.009134970605373383,0.00863594375550747,0.01032362412661314,0.007545772008597851,0.010254714637994766,0.010621055029332638,0.008070210926234722,0.010036394000053406,0.005455382633954287,0.008212368935346603,0.010905765928328037,0.0076288338750600815,0.0044127875007689,0.014361996203660965,0.010322794318199158,0.01072975154966116,0.012060331180691719,0.008365376852452755,0.0060898014344275,0.009926529601216316,0.005556287243962288,0.009015328250825405,0.011693195439875126,0.008648701012134552,0.010003708302974701,0.004992024507373571,0.010547113604843616,0.012500980868935585,0.010380430147051811,0.010339286178350449,0.008812480606138706,0.00971350260078907,0.010339286178350449,0.006901937071233988,0.01339917816221714,0.010443930514156818,0.0057142348960042,0.013371196575462818,0.01031248364597559,0.009897871874272823,0.00935208797454834,0.007094528526067734,0.005203993525356054,0.00875901896506548,0.008238452486693859,0.010343899019062519,0.01031248364597559,0.01031248364597559,0.011436646804213524,0.008795897476375103,0.008502200245857239,0.008080991916358471,0.005944796837866306,0.009237347170710564,0.006318091414868832,0.004861717578023672,0.00450310530140996,0.009750454686582088,0.008665669709444046,0.010721429251134396,0.009045261889696121,0.008311418816447258,0.009802058339118958,0.010869896039366722,0.011654212139546871,0.010302579030394554,0.003471745876595378,0.006482087541371584,0.008172126486897469,0.006854342762380838,0.010293150320649147,0.008974423632025719,0.003940240945667028
+0.006164474878460169,0.00855189934372902,0.010125866159796715,0.0051674130372703075,0.012481298297643661,0.005225961562246084,0.011585170403122902,0.01116943359375,0.009349989704787731,0.009181264787912369,0.010572035796940327,0.006014611106365919,0.009320900775492191,0.009916827082633972,0.006450960412621498,0.011500533670186996,0.007795168086886406,0.007427013944834471,0.010910608805716038,0.009666753001511097,0.008522773161530495,0.004101674538105726,0.005194601137191057,0.011972798965871334,0.0042504738084971905,0.004329117015004158,0.008163610473275185,0.005219773389399052,0.009499721229076385,0.009963378310203552,0.005368482321500778,0.007227858062833548,0.006332433316856623,0.007480619940906763,0.011058137752115726,0.010411536321043968,0.011360641568899155,0.010125278495252132,0.011071210727095604,0.009841660968959332,0.004835824016481638,0.005483292508870363,0.009292555041611195,0.008552310988307,0.010230937972664833,0.00794307328760624,0.010109469294548035,0.010507221333682537,0.007900958880782127,0.009951877407729626,0.005568791646510363,0.008342755027115345,0.01068692747503519,0.007928338833153248,0.004385534208267927,0.014531165361404419,0.01017864141613245,0.010628807358443737,0.012021646834909916,0.008516447618603706,0.006231173872947693,0.009888931177556515,0.0056734406389296055,0.009049787186086178,0.011525314301252365,0.00874435342848301,0.009913402609527111,0.004934445023536682,0.010467550717294216,0.012578235939145088,0.010297500528395176,0.010216223075985909,0.008736732415854931,0.009709108620882034,0.010216223075985909,0.006781281437724829,0.013467519544064999,0.010303975082933903,0.005795835051685572,0.013982987031340599,0.010181988589465618,0.009810096584260464,0.00916630681604147,0.006952271331101656,0.005134533159434795,0.008632480166852474,0.00825231708586216,0.01027417741715908,0.010181988589465618,0.010181988589465618,0.011453237384557724,0.008751901797950268,0.008724028244614601,0.008000824600458145,0.005968782119452953,0.009452649392187595,0.006388005800545216,0.0049168881960213184,0.0045394133776426315,0.009724283590912819,0.008534119464457035,0.010545619763433933,0.009137915447354317,0.008177823387086391,0.009763800539076328,0.010746454820036888,0.012025010772049427,0.010207442566752434,0.0034768551122397184,0.0064046564511954784,0.008304049260914326,0.006705242209136486,0.0101867550984025,0.008943218737840652,0.0039683799259364605
+0.005880028009414673,0.008528401143848896,0.008788475766777992,0.005054362118244171,0.012683887965977192,0.005159005057066679,0.011516408994793892,0.011311041191220284,0.00951109454035759,0.009065990336239338,0.010459559969604015,0.006044883280992508,0.009463689289987087,0.010031463578343391,0.006614816840738058,0.01172429509460926,0.007687069941312075,0.0074602169916033745,0.011143474839627743,0.009683089330792427,0.008920105174183846,0.003994201775640249,0.005060157738626003,0.011816620826721191,0.004265685100108385,0.00422213040292263,0.00847690925002098,0.0048517934046685696,0.009767946787178516,0.009099259972572327,0.00536287622526288,0.007170671597123146,0.006107558496296406,0.007297887932509184,0.01136147789657116,0.010422580875456333,0.011278360150754452,0.010368694551289082,0.010957954451441765,0.010061855427920818,0.00449615390971303,0.005508745089173317,0.009464316070079803,0.00860876590013504,0.010444383136928082,0.007273524533957243,0.010331430472433567,0.01065377239137888,0.008170672692358494,0.009919388219714165,0.00538559490814805,0.008310629054903984,0.010905550792813301,0.007556571159511805,0.004223780240863562,0.01455007866024971,0.010344982147216797,0.010914227925240993,0.012148585170507431,0.007913217879831791,0.005651745013892651,0.009921330958604813,0.005469209980219603,0.009058895520865917,0.011553138494491577,0.008642389439046383,0.010136254131793976,0.004938669037073851,0.010670630261301994,0.012646781280636787,0.010509935207664967,0.01049974374473095,0.00887258443981409,0.009857097640633583,0.01049974374473095,0.00681782653555274,0.013892695307731628,0.0106236282736063,0.005743411835283041,0.012860575690865517,0.01046967227011919,0.01000442635267973,0.009459505788981915,0.007318433374166489,0.005265682935714722,0.00887802243232727,0.008168963715434074,0.010504274629056454,0.01046967227011919,0.01046967227011919,0.011514702811837196,0.00879188347607851,0.008609862066805363,0.008085282519459724,0.006004319526255131,0.008923400193452835,0.006204365286976099,0.004670262802392244,0.004297803621739149,0.009749297983944416,0.008775454014539719,0.0104740671813488,0.008998195640742779,0.00832128431648016,0.009991645812988281,0.010988992638885975,0.011107796803116798,0.010476583614945412,0.0035331223625689745,0.006460587028414011,0.008155524730682373,0.0068756695836782455,0.010453158989548683,0.009019119665026665,0.003842717269435525
+0.005873287096619606,0.008453591726720333,0.008818856440484524,0.00519541185349226,0.012562964111566544,0.005366042256355286,0.011806386522948742,0.011269384063780308,0.009485622867941856,0.008925101719796658,0.010378165170550346,0.005990719422698021,0.00946116168051958,0.009991295635700226,0.0065529788844287395,0.011718989349901676,0.007756037171930075,0.00755820469930768,0.011301115155220032,0.00961508508771658,0.00900700967758894,0.004029508214443922,0.005120368208736181,0.011698668822646141,0.004495607223361731,0.004152265843003988,0.008537285029888153,0.0050402977503836155,0.009962975978851318,0.008775790221989155,0.0056385137140750885,0.007139688357710838,0.00603783642873168,0.0073196543380618095,0.011468923650681973,0.010296883061528206,0.011272349394857883,0.010336562991142273,0.010920331813395023,0.0100348936393857,0.004376262426376343,0.005453895311802626,0.00938964169472456,0.008504417724907398,0.010410094633698463,0.007379444316029549,0.010243997909128666,0.01060621440410614,0.008520844392478466,0.009892872534692287,0.005573654547333717,0.00831909105181694,0.010701303370296955,0.007541400380432606,0.004264990799129009,0.014459327794611454,0.010315364226698875,0.010907640680670738,0.01219950057566166,0.008037522435188293,0.005662926938384771,0.009793166071176529,0.005506507121026516,0.008990522474050522,0.011597619391977787,0.008732845075428486,0.01007007621228695,0.005166400223970413,0.010636460967361927,0.01284736581146717,0.010486841201782227,0.010460303165018559,0.00883107166737318,0.009901699610054493,0.010460303165018559,0.006695595569908619,0.014167770743370056,0.010589721612632275,0.0059952447190880775,0.012775748036801815,0.010437805205583572,0.009966026991605759,0.009459327906370163,0.007357034832239151,0.005245811305940151,0.008853323757648468,0.007951431907713413,0.010467036627233028,0.010437805205583572,0.010437805205583572,0.011664490215480328,0.008709637448191643,0.00855640135705471,0.008028227835893631,0.006097599398344755,0.008719679899513721,0.0062544578686356544,0.00467345304787159,0.004097168333828449,0.009643670171499252,0.008786370977759361,0.010521491058170795,0.009048131294548512,0.00818684697151184,0.01001979224383831,0.010969514958560467,0.010827325284481049,0.010509875603020191,0.003491871990263462,0.006521454080939293,0.008215314708650112,0.006883361842483282,0.01041528582572937,0.008845764212310314,0.00386788765899837
+Questions:
+Does this comes with a carrying case or just comes with a plastic bag?
+Does this comes in original packaging factory sealed
+Does the thingy he hauls come off?
+Can these parts also be used with lego parts?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+"I grew up with Legos,and Transformers.
+I had never heard of KRE-O until I saw this particular toy, Its like Legos and it will fit with Legos to build onto it.
+I think thats rather cool.With the resurgence of the Transformers in popular culture you really cannot go wrong with THE most popular one OPTIMUS PRIME.
+A Semi-truck that turns into a giant AUTOBOT, And...and while its in ""vehicle mode"" it has five little figures you can put inside....adding to that two motorcycles!!!
+542 pieces to play with, lose and then find when your parents step on them, stick in your ears, whatever you want to do.
+I love toys like this that arent one solid piece, you can use your imagination and motor skills, and use other toys you already have to make new ones.Obviously this isnt for kids who will still eat their toys and try to swallow everything in sight, It might look all shiny and colorful and safe but its a choking hazard for sure.Next one will have to be a DECEPTICON."
+I have 4 boys aged 21, 11, 10 & 6.
+I gave them this toy to play with and they had a great time putting this together.
+It gave them literally hours of enjoyment and working together over a couple of days.
+I think this would be a bit much for 6-8 year olds-more frustrating because of the time it takes.
+My 10 & 11 yr olds seemed to do okay with this, but it helped to have their (adult) brother's help.
+My 21yr old said that the instructions are easy to understand for older kids and it will take 1-3 hours to build each toy.
+They are fully functional and compatible with Lego pieces.
+The 6 yr old got bored and would come and go as his older brothers were working on the set.
+Overall, we will be purchasing more of these KRE-O sets.
+The boys loved them!
+I will warn you - if you have a Lego afficionado in your house, these Kre-o sets will not compare, hands down.
+That said, order with caution but this is a pretty cute set.
+It takes a long time to build, at least 2 hours, and the worst part is if you want to convert old Opti to his truck, well, there's another two hours at least.
+It's a pretty pricey set and compared to Legos, it's really not that worth it, or so I'm told by my master builder.
+It was fun at first, but he hasn't looked at it since he built it two weeks ago.
+Actually, he's had more fun with the Ferris Wheel he received that was Lego.
+The Kre-o sets are made in Korea, and one of the notches on each brick is flattened so that you can tell they're not Lego blocks.
+This is a pretty difficult set to build, even by an experienced builder, but the pieces seem to adhere quite well.
+Optimus has issues standing and if you compare this to Lego's Technics Star Wars dudes, they always stand without any issues.
+One of those toys that have tried to reinvent the Lego wheel and came up a bit short.
+I can recommend it but again, it is with a bit of a caution if you already are Lego Central in your house.
+...it takes a bit of time to see the coolness of the put together Optimus Prime.
+I was a little shock on how many pieces there was to this: 542!
+It took me a few hours, with a couple breaks, to put Optimus together.
+Honestly, as an adult, I had some moments of frustration.
+I can't imagine being a kid and putting this together, especially a kid like me where I always had my sister put my Legos together for me.
+For that reason, and also the reason that there is a lot of chance of loosing any number of pieces, I wouldn't recommend this to younger kids.That said, the directions were easy to read and understand.
+Once Optimus was done (and with a sigh of relief and pat on the back), I have to say that it looks pretty cool.
+I'm not sure that it's something you can play with.
+Especially with a kid who plays hard.
+But I can see more as something to display, for adult and kid Transformer fans alike.
+What a great toy.
+I gave one to my nephew for his birthday (the bumblebee version) and he loved it.
+However, there is one other market for toys like this besides kids.
+Figures like these are often highly collectible after they are discontinued, so if you are into the Transformers collectibles, this is also highly recommended.If you buy this for a kid though, be sure they are old enough because there are tons of pieces to this.
+I picked up this toy in an efforts to have something fun father and son time with my 5 1/2 year old son.
+Even though the age recommendations are beyond his age, I expected with my help we'd be able to put this together fairly easily, and then would have a great toy to display as our accomplishment.
+Boy was I in for a surprise.
+After opening the box, both my son and I were pretty overwhelmed with the pieces.
+We took the time to sort them by color, and then started the task of building Optimus.
+Pretty quickly, my son got rather frustrated.
+I primarily had him just looking for the pieces we needed, but he had hard time doing so.
+I realize he's not the ideal child for this toy, but I thought he'd have fun considering I was there helping.
+After nearly an hour, we found ourselves only halfway through the process.
+We stopped, took a break, and then several days later ended up spending another hour to put together Optimus.
+We didn't put him together in his robot form, but as the semi truck (my son loves cars and trucks).That being said, despite the time it took, I'd consider it well worth the time.
+We both got frustrated (me primarily with him being frustrated), but he's too young for this.
+He did great considering, and he absolutely loves having an Optimus truck.
+If you're got a kit that loves legos and transformers, I don't think you can get a better toy.
+A little pricey, but it's something, at least for me, my son and I can look back on as a great accomplishment.
+"Let me start by saying that I don't know much about Lego or Lego-esque products.
+I have 2 girls who were never very much interested in them.
+But our neighbor's son loves them, and I wanted to have something around the house for him to play with when he came over.
+This was it.The KRE-O (Hasbro) TRANSFORMERS series is composed of 7 separate models.
+I got the OPTIMUS PRIME model, but there are also Megatron, Starscream, Bumblebee, Sideswipe, Autobot Ratchet, and Prowl.
+As you might guess, they are all based on characters from the Transformers.Once I opened the box, I knew I was going to need a bucket.
+OPTIMUS PRIME has 542 pieces sequestered within 14 sealed bags.
+There are also 2 big, full-color instruction books.
+If that fact doesn't scare you, then you are a connect-the-blocks veteran.
+The 2 books show in great detail how to create a big rig truck and a Transformer base.
+Just flipping through the pages is daunting.
+Even though the manuals say, ""For ages 8-14,"" I would have a very hard time putting those things together.Having said that, I am clearly not a 6 year old boy, and I'm sure that kids who love connecting blocks and Transformers will love this kit.
+Even without the instructions, you can make a heck of a lot of cool things with 542 pieces.
+But have a bucket handy for when playtime is over!"
+I have to admit I got this toy for my son who is 2 and not able to play with it yet, but I figured that daddy better make sure that it's fun!
+heh heh heh.
+Wow what a cool toy, I really was impressed with this right off the bat.
+I admit, I 'm not the hugest fan of the movies right now, we'll see how part 3 goes...but they still are the coolest toys.
+Fan of the movies and of the toys will definitely want this in their collection.
+Testing articulation, enjoying the quality of the toy molds, and playing with the extras.
+I'm really impressed.
+This toy really brings out the kid in this 42 year old.
+I'm sure my son will love this thing when he's older, that's if I haven't broken it why playing with it first!
+So when you open the box, you get this daunting project of either putting the Optimus Prime robot or the truck together.
+It took us hours.
+So what does KRE-O do to make your child instantly happy?
+They throw in FIVE tiny 5+ piece robots that kids can assemble and play with right away.
+So while the adult is grappling with the directions, your child is contentedly playing with these super cool mini-robots.
+The mini-robots were about the size of the LEGO people, and very creative looking, some with capes, etc.Putting the truck together was something my husband and son worked on.
+It literally took hours.
+My son loved spending that much time with his dad building such a cool truck.
+The final product was this amazing looking truck that was great for my 5-year-old to play with.
+He was so impressed by it's majesty.
+However, it DOES come apart after some play.
+(To the dismay of the person who worked so hard to assemble it!
+)The overall product is pretty impressive, but getting there takes lots of work.
+KRE-O needs to mimic LEGO a little more with coordinated numbered bags & building instructions; my husband said the bags of pieces weren't separated with any rhyme or reason.
+I know from experience with building some large LEGO structures that the numbered bags were a very good thing, so I understand the added frustration for users.Comparing them directly with LEGO pieces, they seem to hold together a little better (tighter) than LEGO.
+The pieces are compatable with LEGO pieces, so it will enhance any existing sets.
+My husband grew up with Transformers as a child, so he was excited to see this product.
+However, he was disappointed that it was made up of legos and NOT the plastic transformers toy of yore.
+Nevertheless, he spent over three hours putting the KRE-O Transformer and truck together!
+What he likes about this toy is that the lego pieces can be used to build things besides the action figure and a tractor trailer truck.
+It's up to your imagination.
+My only concern is that this set is far too complex for an eight year old (as many have said).
+In my experience (i.e., my young cousins), younger kids don't have the patience, esp.
+with video games and texting these days.
+Other than that, it's great fun and older kids will enjoy the challenge of creating these cool figures.
+This 3-in-1 Optimus Prime set has been so much fun.
+My son first wanted to make the truck.
+After that was complete, he made the Optimus Prime robot.
+He enjoyed them both a lot.
+He made the battle station so that we could access all three of the options, but he wasn't very impressed with it.
+He did like the motorcycle though.KRE-Os seem to come in the same shapes as Legos, although they seem to be lighter and of poorer quality than Lego.
+We were missing two pieces when we made the truck (it's entirely possible we lost them in our house) and we were able to substitute similarly colored Lego pieces with no problem whatsoever.
+Another thing the two types of building sets have in common is their complexity.
+Gone are the days of the 30-piece truck you could make.
+KRE-Os, like Legos, have a hundred or more small pieces to create intricately designed trucks and robots.
+It took a couple of hours total that we spread over a few days to build each item.If you or your child like Transformers and building sets such as Lego, this is a wonderful set with many possibilities.

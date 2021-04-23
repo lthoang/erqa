@@ -1,0 +1,284 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+Also, I'm not sure why 4 batteries are needed here.
+"My six and eight year old daughters really like the Ravensburger Runway Fashion Designer.
+which annoyed me to no end.
+Instead it is a little bit smaller than that.
+The case is small, lightweight and great for travel.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.0019719849806278944,0.005631647072732449,0.0033798380754888058,0.0026551561895757914,0.004575806669890881,0.0021016967948526144,0.005175009369850159,0.004401284269988537,0.005656065884977579,0.005065016448497772,0.004691615700721741,0.005240420810878277,0.00299675646238029,0.0022728743497282267,0.004037782084196806,0.0035000641364604235,0.00594257703050971,0.005379668902605772,0.003597246715798974,0.003954516723752022,0.002107806270942092,0.004377088043838739,0.0037454788107424974,0.0029893796890974045,0.001950607169419527,0.003813666058704257,0.002223724965006113,0.0019133331952616572,0.0035778090823441744,0.00467058178037405,0.003041400806978345,0.002225447678938508,0.0019133365713059902,0.0030796993523836136,0.0038534505292773247,0.001797787961550057,0.004255080595612526,0.0015287450514733791,0.0029154818039387465,0.003561172168701887,0.003298648400232196,0.0023872307501733303,0.003916557412594557,0.0017801399808377028,0.0013403587508946657,0.0031123212538659573,0.0029500345699489117,0.0048732575960457325,0.0024453590158373117,0.005529505200684071,0.004672810900956392,0.004875250160694122,0.004950556438416243,0.004515019245445728,0.004058419726788998,0.004195036366581917,0.003937306813895702,0.0036600660532712936,0.003466067835688591,0.004616609308868647,0.0033660177141427994,0.004915569443255663,0.0038179541006684303,0.0036629659589380026,0.001652975450269878,0.0014353300211951137,0.0035047929268330336,0.001826402498409152,0.003803674131631851,0.004274381790310144,0.005385606084018946,0.0017992076463997364,0.004530020523816347,0.003793212352320552,0.0020756516605615616,0.001911430386826396,0.0028004220221191645,0.0019185187993571162,0.0017451108433306217,0.003395550884306431,0.004780441988259554,0.003850705921649933,0.004211243707686663,0.0051440587267279625,0.0025183875113725662,0.004499656148254871,0.004790422972291708,0.00407438725233078,0.00502235721796751,0.0036535868421196938,0.0022525950334966183,0.003496880643069744,0.004848293028771877,0.0063311867415905,0.004911168944090605,0.0034621385857462883,0.006329418160021305,0.0021953561808913946,0.0032804589718580246,0.0013732429360970855,0.004836338106542826,0.004854358732700348,0.0048826951533555984,0.0019142571836709976,0.002960002049803734,0.00393864419311285,0.0041079106740653515,0.0049386401660740376,0.001912140753120184,0.005003256257623434,0.0043115997686982155,0.002348138950765133,0.004864173475652933,0.00384005275554955,0.005144661292433739,0.0034355444367974997,0.004583203233778477,0.004508437123149633,0.0036251514684408903,0.0037104105576872826,0.002823813119903207,0.003833864349871874,0.002562209265306592,0.0034597706981003284,0.0029384843073785305,0.004518122877925634,0.004743483848869801,0.0034740185365080833,0.002521637361496687,0.004400680772960186,0.0021890730131417513,0.0034251490142196417,0.003413981292396784,0.0029624246526509523,0.004542747046798468,0.003393418388441205,0.003811890259385109,0.003631980624049902,0.0032051687594503164,0.0020217527635395527,0.0018565328791737556,0.0024449198972433805,0.0028427718207240105,0.0030380014795809984,0.0015213342849165201,0.00437468197196722,0.004948996473103762,0.004366985522210598,0.00571439741179347,0.0026929625310003757,0.0036633422132581472,0.0024230252020061016,0.0029162103310227394,0.004061815328896046,0.004432580899447203,0.00469402689486742,0.0042092944495379925,0.003926525358110666,0.003243067767471075,0.0041542332619428635,0.004842009861022234,0.0015892668161541224,0.003977967891842127,0.004962174221873283,0.005534532479941845,0.00390982162207365,0.004538356326520443,0.0027078900020569563,0.003858048701658845,0.004294309299439192,0.002421837765723467,0.0037820162251591682,0.004968211054801941,0.0030034100636839867,0.00325102754868567,0.0042402478866279125,0.004801813513040543,0.0014323571231216192,0.004853819962590933,0.00446883961558342,0.005093402229249477,0.004379219375550747,0.0034137347247451544,0.005766342859715223,0.004426995757967234,0.004027051851153374,0.00565705681219697,0.004985261708498001,0.0036494226660579443,0.004565863404422998,0.002612045034766197,0.002536657266318798,0.0031287306919693947,0.002840520581230521,0.005133992526680231,0.003913540858775377,0.004857505671679974,0.0054960404522717,0.004037140402942896,0.005017385818064213,0.004252973478287458,0.0035522046964615583,0.0030824318528175354,0.0025662737898528576,0.004955395124852657,0.004073285963386297,0.001985319657251239,0.0051829819567501545,0.004051302559673786,0.0035006804391741753,0.004658068530261517,0.0013817987637594342,0.004555779509246349,0.0028667603619396687,0.0027921840082854033,0.004672044422477484,0.004116586875170469,0.004270581994205713,0.004357721656560898,0.0040124161168932915,0.0026424326933920383,0.005852814298123121,0.004568953532725573,0.0031363379675894976,0.005474116187542677,0.005257732700556517,0.0021504319738596678,0.003474490251392126,0.004926731344312429,0.002816882450133562,0.0018851789645850658,0.0023038804065436125,0.004432925023138523,0.00420607253909111,0.0015858327969908714,0.0043664732947945595,0.00364569085650146,0.0042014336213469505,0.005776995327323675,0.0013693615328520536,0.0035710406955331564,0.0025368526112288237,0.001763327163644135,0.005094243213534355,0.003979534842073917,0.004014992620795965,0.004106295760720968,0.0037395174149423838,0.003676463384181261,0.0037617492489516735,0.0019826998468488455,0.00356408697552979,0.005194778088480234,0.00357971154153347,0.004675367381423712,0.005061052273958921,0.005208109505474567,0.003961143549531698,0.003324903780594468,0.005334232933819294,0.00619475869461894,0.004043435212224722,0.004590647295117378,0.005673672538250685,0.0015389975160360336,0.0021170948166400194,0.003237122669816017,0.004428287036716938
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+This product is essentially a light table with interchangeable discs that kids can swap in and out to trace different outfits.
+Our ten-year old has no trouble at all tracing the designs, and her younger sister has fun trying.
+They have taken to improvising their tracings -- there is value here beyond the discs that are included for patterns -- and they both have loads of fun coloring them in.This is not the most sophisticated toy in the world, but sometimes simplicity has its virtues.
+There isn't a tremendous amount of paper included, but it doesn't take a genius to be able to trim some more paper to the dimensions that the light table requires.In all, this is an engaging toy that will give young women with creative spirits plenty to do.
+"This reminded me of Fashion Plates from when I was a kid and I thought my daughter might like it.
+It comes with clear plastic template discs of which some have a hair style and shirt, some have skirts or shorts, and lastly some have different shoe styles.
+These templates are divided into  A's  and B's.
+You have to pair up A's with each other or B's with each other to create a complete fashion.
+A's and B's don't mix.
+I don't know why they made it that way.
+It doesn't give you as many style options as the old Fashion Plates did.
+But for young kids it might be enough to amuse them for a while.
+The plus side that is much better than the old Fashion plates is that you get to trace the outfit with a fine tip marker that comes with it.
+This works so much nicer than having to rub black crayon over the old Fashion Plate templates.
+It is much neater and nicer to color in after.It comes with some paper to use, but when it runs out you need to cup paper the right size to fit.
+I don't know why they didn't create it so you could just cut computer paper in half.
+Instead it is a little bit smaller than that.
+It always bugs me when things are not as user-friendly as they easily could be.
+But what might be a good idea is to cut some more paper (or have your child cut some) ahead of time to keep ready for when you need it.My daughter said tracing the face is the hardest, but I am sure it gets easier with practice.
+You could always advice kids to use a sharp pencil for the faces, if they might feel the need to erase and re-try if they make a mistake.
+"The Runway Fashions set lets kids customize and trace designs onto sheets of paper, then they can color them in.
+Each fashion model is created from three sections - the head, torso and legs.
+There's various fashion options for each section, so you mix and match to create unique designs.There's two types of models in this set - ""A"" and ""B"" are labelled on each ""foil"" transparency.
+So you have to mix and match within a single letter set, otherwise the pose of the model doesn't match.
+There's a few combinations even within a letter set don't exactly match, so some lines shouldn't be traced.The set includes a black felt tip pen, which has a fine, hard felt tip rather than a broad soft tip like most markers.
+This is a good thing as it lets you draw a tight line.
+For each section, you have to un-snap the lid, change out the plastic transparency foil then re-position your paper.
+There's dashed lines to help you line up the existing tracing to the new section.
+The clear table is fairly thin plastic, but you shouldn't need a whole lot of pressure - just enough to keep the paper flat.
+Both my 10-year old and 4-year old were able to use this without any problems.
+The younger one didn't get the fine details of the tracing exactly right, but some of the facial features were tough.
+Either way, they had fun and didn't see it as anything negative.The light is a single bright LED, which is easy on batteries and provides a good amount of light through the paper.
+They've also included a cardboard piece that fits onto the set which is supposed to reduce glare from the sun or room lights.
+We didn't really have any problems seeing the outline in normal lighting.Another neat feature is that you can ""zoom"" the projection to 4 different levels in order to create larger or smaller people.
+At the largest setting, a person fits nicely onto a 1/2 sheet of paper.Everything will fit inside the box, if you bend your sheets of paper around the lens, then place the cardboard glare shield in last.
+There's enough room leftover to fit extra markers or pencils as well.The instructions also point out that to make extra sheets, you'll need to cut about 1/2"" off of a regular sheet of paper, then fold it in half and cut it.
+"Ravensburger, the famous puzzle makers, have now created a fashion creator set for girls.
+The set comes with a plastic case to keep all the pieces together, a small projector (which requires 4 AA batteries, not included), a tracing pen, paper, glare shield, 20 plastic template pieces (which are stored in a plastic slot in the case), and an instruction book.This is not the old fashioned toy where you mix and match plates, and then use a crayon to rub over the paper on the plates.
+This set has the child place a plastic circle template (called a ""foil"") on top of the projector light.
+The image can be expanded or shrunk using the lens on the projector, and then traced on to a piece of paper.
+A guide holds the paper in place.
+The one point of frustration for my child was that the plastic foils are tops, middles, and bottoms.
+There is no guide on where to start and end them, so it can be difficult for younger children to align the different pieces correctly.
+If the child has changed the zoom on the lens, that will also cause some frustration as it needs to be consistent to get a matching finished product.Once the complete design has been traced, the child can remove the paper and then color or decorate the model as desired.
+We purchased colored pencils, markers, and glitter glue for this fun part.While the toy is recommended for ages 8+, my 7 year old daughter had no problem using the toy.If you run out of paper, the instruction booklet has the dimensions on how to cut additional paper for use with the toy.This is a fun, higher-quality fashion designer toy for girls.
+It has the quality and durability that I would expect from Ravensburger."
+Gave this to my 6-year-old daugther and this kept her and he friend busy for a good hour.
+My dauther likes to draw and she likes to barbie stuff.
+This kind of looks like barbie and involves drawing, so it was a treat to her.
+Since my daughter can't draw that well at her age, thet tracing drawing was very good for her.
+The materials does'nt feel to sturdy though.
+I got this for my little cuz for her play with during the times I watch her.
+So when it came in she was all over it just like I thought she would.
+She started playing and designing all her out fits.
+She had a great time with this and that is all that matters.
+So I guess this is a recommended item, she liked it.
+"The Runway fashions is basically a small light table that can be used as is, or with included clear plastic discs (they call them ""foils"") with designs printed.
+You can use the foils to draw a girl and design clothes for her.
+There are two sets A and B, each has a few different heads and upper bodies, lower bodies, and legs.
+You can mix and match pieces within a set.
+First, you put the first foil into the holder inside, turn the light on, close the lid, slide narrow piece of paper on top, and draw around the image.
+Then open the case, remove the foil, put in the next one, close the lid, move the paper up and draw again, then repeat those steps again with the third foil.
+Then remove your drawing and color.Everything looks fine, until you start actually drawing - then you realize that the plastic cover of the light table is so thin and flexible, that it bends under pressure, and the design moves/becomes smaller since it is at some distance from the top.
+he foils also quite tricky to remove.
+When you ran out of paper enclosed, you will need to cut your own from lightweight paper stock, not heavier then 20lb.
+The toy is made by German company, so it uses metric standard paper A4, not the American letter size paper, which is about quarter inch wider then A4 paper.
+If you just cut a letter sized paper in half lengthwise, it will be just a tiny bit wider then needed, which is quite frustrating."
+"Runway Fashions is a toy designed for girls ages 8+.The toy is easy enough to use: place clear plastic template over light box (notches hold it in place), adjust ""zoom"" (light has 3 height levels), close lid and trace.
+Repeat process with all three body segments: head and torso, bottoms, and legs/shoes.
+There are 20 templates(""foils"") total broken down into two incompatible body poses (A and B).
+Within each pose, there are 4 heads, 3 bottoms, and 3 legs.
+That means there are 2 x 4 x 3 x 3 = 72 combinations (36 in each pose).Included are 10 sheets of drawing paper, cut to fit in the notches of the case.
+The instructions have dimensions to cut more.
+Or you can just hold a standard size piece of paper on top and trace.
+There is one fine felt tip black marker included.
+It wouldn't have cost them much more to include a few more colors but unfortunately you have to supply your own color pencils or markers.
+There is room inside the case for additional pencils or markers - if this toy is going to be used while traveling.
+There is also a glare shield (cardstock) if needed.My youngest daughter was trying to remember at what age she would have enjoyed this toy.
+I provided numerous tracing books, and a light table and an infinite supply of paper and coloring implements when she was a child.
+She remembers tracing a lot around 3rd to 5th grade (age 8-11), so this toy is age appropriate in that regard.
+However, she wasn't interested in fashion until middle school and high school- by which time she was sketching without tracing.Overall, this toy may not be for just any young child - but clearly it is for those who are artistic and like fashion and tracing.
+A light table and a set of tracing books is more versatile but less portable than this product.
+Overall, I think it is a good value and a great starting point for young fashion conscious artists."
+My daughter (8) loves this toy/game.
+She loves to draw and color and really has enjoyed designing clothes with this toy.
+Hours of entertainment.
+She loves creating and coloring her creations.
+At first she found it hard to line up the three sections, but it took no time for her to get the hang of it.
+She has really enjoyed this product.
+I'll start off by echoing some of the other opinions on the correct age for this toy: 6-10 is probably the sweet spot for this.
+My older daughter (10) had little interest in what seemed like a simple tracing tool when other fashion books like The Fashion Sketchpad: 420 Figure Templates for Designing Looks and Building Your Portfolio already have figures waiting to be decked out in designs.
+I guess this gives the younger children a chance to trace and create and THEN color and get creative.
+It just seems pretty basic.
+Also, I'm not sure why 4 batteries are needed here.
+Seems like overkill!
+This is a fine toy that encourages creativity and keeps the interest of my younger daughter (8), so I'd say it's a good choice for the younger side of the suggested ages.
+"My six and eight year old daughters really like the Ravensburger Runway Fashion Designer.
+Both of them like to draw, and though this is more tracing than designing, it is a way to hone art skills and fun for a rainy day.
+I appreciate how lightweight and compact the set is, and that they both can use it independently.
+I'd love to see an ""expansion pack"" with more foil options, but my girls seem satisfied with the options they have for now!The set includes a black marker, my girls like to use that for tracing and then color the designs with colored pencils, which are not included, but would make a good addition to this kit.
+Make sure you have batteries and a screwdriver on hand to set it up if you give it as a gift."
+I picked this toy up for my 7.5 year old and almost 6 year old.
+They love art toys, clothing, and coloring, so I thought that they would enjoy it.
+The toy is a portable purple container with a light bulb and stencils.
+The drawing surface is fairly small - about half the size of a normal sheet of paper.
+The stencils do not join.
+Thus, they can choose a top half to trace and then they need to choose a bottom half and align it correctly.
+This can be complicated for little hands.
+The toy would be better if the stencil could be lined up so that the child can trace the whole outfit/model at once, even if the entire design is smaller.
+My 8 year old was thrilled to try out this toy.
+I sat there with her while she read the directions herself and figured out how to use it.
+All I did was put in 4 AA batteries and observe her reaction to the toy.
+She had it up and going in a matter of minutes and was actively tracing the figures.
+She started tracing figures before dinner, then afterwards, and then I saw her still tracing before time for bed.
+She loved being able to pick and choose how each creation would look.
+But every now and then I would hear the sound of frustration.
+When I asked her what was wrong, she said that the plastic disks kept slipping and her final trace was a little bit crooked (misaligned).
+She really was into tracing and was having a great time, but for some reason the round disks or something in the mechanism holding the disks would not always line up exactly with what she had chosen to draw for a top or bottom, and they were a bit askew from each other.I think it's  still a good toy if for nothing else but to help develop fine motor skills for children.
+My daughter's first traces were a bit jagged but she was getting better and better at it the more she drew.
+It's very girlie, and perfect for my daughter plus it closes up nicely into a smallish plastic carrying case so she can easily take it with her on trips or just to another location at home to trace.
+It would have been nice if more selections (disks) were included and maybe more can be purchased, but right now I don't know.It only comes with one pen (which stopped working shortly after beginning to trace) and a very small amount of paper.
+Both are easy to replace so that really isn't a legitimate complaint.
+The only thing that would make this a perfect toy would be if it took less batteries (not included), more disks, and it would lock in place as far as lining up the disks so they would stay in line with where the previous disk left off.
+But even though the disks were sometimes slightly off, my daughter took a handful of her drawings to school this morning to show to her friends.
+I'm sure she will be tracing again the moment she finishes her homework.I'm thinking this would be a great toy to purchase for girls' birthday parties.
+My girls are 9 and 11 and, unlike me, are girly-girls who love anything to do with fashion.
+They, like most girls their ages, like to draw.
+I chose this item on a whim hoping it would be a nice, quiet activity that would travel well and personally, we're happy with it because they love it.
+It's small (about the size of the average hardcover book) but not too small to use.
+The batteries are AAA and it requires 4.
+We've had this almost a month and it's been used A LOT and we've not had to change the batteries.It comes with some paper, a marker and the little plastic tracing disks.
+But, being the creative family we are, we've just cut any paper to fit and used other things that are relatively transparent to trace.
+What I like the most is that you can change the size of the item you are tracing by moving the lens closer or further away.
+Any marker, pen, etc.
+will work, whatever you want to use to make interesting designs.
+They've even used it (carefully) to trace a design onto old tshirt with sharpies and they turned out really cute.This is a fun item for people who can think outside the box.
+I've even used it when I've wanted to enlarge my own artwork for tracing onto a canvas and it worked out OK.
+My test subject for this one was my almost-7 year old niece, who is totally into fashion, dolls, and drawing.
+Should have been a natural fit, but this really didn't capture her attention once the initial novelty of it was over.The toy itself is nicely designed with a locking case to contain the plastic disks used to project light through to get the design image.
+It was also nice that the light beam can be adjusted to three positions to resize the outline to be drawn.
+Basically, you put a piece of white paper on a light source, which projects a line drawing of one of three segments of a female's clothed body: upper torso, lower torso, and legs/feet.
+Each plastic disk contains one portion of the body and you combine them in various manners to create a finished fashion style.
+Since you can only do one segment at a time, you have to insert the plastic disks three times to complete an outfit.The things that didn't endear me to this toy:1) Four AA batteries are need to power the light source - none are included.2) A very small supply of the correctly-sized rectangular sheets of paper are included.3) Only a single black pen is included to draw the outline.
+No colored pens or crayons are included to actually color in the styles.4) If you don't line up the paper perfectly straight when using the first disk, the whole drawing winds up being crooked.
+This is especially true when you run out of the provided paper and have to cut-your-own.5) There aren't any clearly marked line-up guides on the transparency disks that would aid younger children.This isn't a bad toy, and might interest some budding fashion-designers, but the company skimped on those little things like batteries and colored pens/pencils/crayons that would have made the toy immediately playable right out of the box, so that is an annoyance if you are going to give this toy as a gift.
+There are other design toys out there that my niece already has that are easier to use and that have engaged her interest longer.
+Runway Fashions is great fun, and is easy to use!
+My 8 year old played with it for hours at a time, and brought it to school to show her friends as well.
+It is much easier to use than some other toys I've seen like this one, and the fact that it's smaller, lightweight and portable was another great plus.
+Everything fits inside the case, except the paper, and it was great as a toy for trips in the car.My only problem with it was that once the inside piece was removed to put batteries in, it was very difficult for me to get it back in place.
+I ended up having to ask my husband to do it.All in all, a great little gift for any girl age 6-10 on your shopping list!
+Runway Fashions is a tracing toy that comes in a compact kit which stores all the little pieces.
+The light is bright enough to work in broad daylight (we have a similar toy that could only be used in dim conditions).
+It comes with one black marker.
+You must supply your own colored markers/pens/crayons to add pizzazz to the drawings.
+Ten sheets of white paper were supposed to be included with the set, but we found none.
+Not that it matters.
+Most households have white paper.
+We managed to find some sheets and started drawing.The figures' bodies are divided into top, middle, and bottom sections.
+Children choose a top, a skirt or shorts, and legwear/footwear from either set A or set B.
+There is enough variety within each set to mix it up, but the two sets can not be interchanged.
+Then, they lay the acetate sheet onto the light source, close the case, place the paper on top, and trace the figure onto the paper.I have to say, these girls we drew are cute!
+They remind me of the drawings on Ben 10 or Pokemon, a sort of anime feel.
+I'm embarrassed to say how proud I am of my creation.
+Runway Fashions is my eight year-old daughter's fashion maven's dream.
+I'm sure it's going to be a hit at the next playdate.
+She gives it five stars.
+"I chose this for my 10-year-old daughter to review.
+She said she enjoyed how she ""could make different designs by putting the different pieces together (tops and bottoms).""
+She felt like she ""could really design my own fashions.""
+The toy has a light that reflects the outline of different pieces of outfits onto paper, then she could trace the outfit and fill it in with colored pencils.
+As her mom, I can vouch for how much she enjoyed it when she first got it a month or two ago, but I also noticed it's not something she plays with often."
+Okay you need batteries to use this.
+It makes sense because you have to have light and shadow to trace.
+But Jebus on a Cracker, I am so tired of everything needing batteries and I REALLY wish more toy companies would send starter batteries with a toy.
+Let me know that is the case in the description and I'll be happy to pay a bit more to cover the cost.
+trace the This has a bunch of different This might sound a bit whiny, but what the heck.It worked all right.
+I wish the flat radius to trace on was wider and longer.
+You know, there was more space.
+Not a bad toy.
+But I would not buy it as a gift for another kid.
+"My 7 year old toy tester loved this one!
+She was able to create her own fashions with ease with the templates.
+It sure kept her quiet for awhile!
+We were pleased with the quality and the results of her ""creations""!
+It's a great toy for ""on the go"" or a rainy day!
+I would buy this as a gift for sure."
+"I had to talk my 8 year old daughter into trying this toy.
+She prefers animals to fashion dolls but she does enjoy art and we watch ""Project Runway"" together.She wanted to try ""a new game"" and I had this and suggested it as such.
+I showed her how to use the device and she had no problems at all.
+She liked it so much that she showed her 6 year old brother what it is and how to use it the next day.It's simple to use and reminds me not only of the Fashion Plates I used at her age but also of a light-up ""drawing desk"" that I enjoyed.
+I also like how compactly the unit stores.
+The only suggestion I would make would be to include a set of colored pencils in the kit.
+If you buy it as a gift, colored pencils would be a good ""add-on"" for this fashion set."
+"There's fun to be had with this fashion set, but it didn't last very long for my 9-year-old niece.
+She loved it at first, but quickly grew bored.
+Her thoughts:""I really like that you can mix and match the fashion designs and that there are a lot of them.
+I wish I could have used a color besides black though.
+Black is boring when you're making clothes!
+The projector was kinda hard to figure out at first, but once I got the hang of it, it was ok.
+I liked the set, but can only use it for a short time before I get bored.
+""As an adult, I was annoyed that batteries don't come with it, though I suppose that's to be expected.
+I was also disappointed in the lack of colors available.
+One black tracing pen?
+Boring!
+If we're supposed to be inspiring creativity here, that was definitely a missed mark.
+We both understood that the traced picture could then be colored in, but for the price, I would have expected other markers to have come with the set, rather than she having to use her own.The quality of the plastic is fine and the set-up was easy enough.
+Overall, we're pleased with it, but for a 9-year-old the appeal is short-lived."
+My 9 year old loves the color in fashion books that are so popular now.
+This product seemed like a great for trips and Summer vacation so she had something new and interesting to keep her busy.Everything comes in a plastic carry case with a molded handle.
+Unfortunately, a few extra items are really needed.
+Colored pencils and markers so the designs can be colored and especially a battery for the indoor lamp (it's surprising this comes with neither since they are very inexpensive additions).The drawings are done in stages - first the legs, then the torso, then the bust/head.
+Foils are used and have to be alisgned carefully as you 'build your model'.
+Unfortunately, there aren't that many designs and they aren't all interchangeable.
+The fashions themselves are more JCPenney than high end glamour couture (kind of tarty, honestly).My 9 year old made two drawings but it ended up being way too much work when she could just get a flip book and color in the 100s of designs in those books (or just draw her own dresses).
+So this didn't get a lot of use after the first time.
+It really needs much more to be a good value for the price.
+My daughter LOVES fashion and she's only 7 years old!
+Though the age on the box says 8, a 7 (or 6?)
+year old could easily play and enjoy this fun toy.
+The hardest part about this toy is simply installing the 4 AA batteries that it requires; you need a screwdriver to do this.
+The case is small, lightweight and great for travel.
+You'll need more paper but you can easily cut your own for size.
+I also added some markers and colored pencils.My daughter played with this for hours.
+Really fun toy.
+This unit comes with several different templates to mix and match different outfits.
+You place the transparency template over the lamp within the unit, close the lid, place your tracing paper over the window and simply trace your outfit.
+You can change the size of the image by sliding the lamp up or down.
+After you create your figure you can color it in.
+It comes with a number of precut sheets of paper.
+After which you'll need to cut your own.The unit doesn't come with batteries and it does not plug into the wall.
+Which is good, because my daughter can take it anywhere she wants and besides, depending on the age of the child, you may not want them plugging things into the wall outlet anyway.Overall this unit is made well.
+Durable.
+Good light output.
+May not work well in sunny areas, but it does come with a shield that you place over the front of the unit to reduce glare while using it where other light sources are around.So, I recommend this product for children that love to draw and design fashion.
+Sure you are limited only by the actual transparency templates themselves, but you mix and match, and can color them differently.
+So, there is a bit of creativity that can be experienced with this.
+"I've been a big fan of harumika dolls for girls (ages 5-10).
+I had the opportunity to try Runway Fashions and I have to say its a great gift idea.
+The box says its for ages 8+ but my six year old had no problem with it.You simply put in batteries, slide in a section of your outfit design (ex-top), closed the lid and trace the pattern.
+You then repeat the steps, sliding up the paper to complete the outfit.
+After it is all traced you can color it in.We've used the plastic versions of this were your rub crayons over the designs but you can really create patterns on the ""material"".
+This product is much more flexible.We already ran out of paper but Using regular copy paper cut to size has worked out perfectly.I highly recommend this.
+It's a great creative ""game."""
+My seven year old has been enjoying this toy.
+She got tired of waiting for mom to put it together for her, so she got a screwdriver and some batteries herself and assembled the toy and started playing with it while I was putting down her little sister for a nap.
+She says she likes it because it's fun and you can be creative with it.
+Also, she says it's good for road trips.I wish it didn't take batteries, because depending on how much she likes it in the long run, it's an added expense.
+I also with it had come with more paper, but my daughter hasn't used all the paper that comes with it yet and she feels that it comes with enough paper.
+It only comes with a black marker, but this hasn't been an issue for us.
+My daughter likes to trace the fashion girls in black and color them in with her colored pencils.I certainly feel that this toy can appeal to girls younger than eight.
+Any girl who has the dexterity for tracing, the willingness to sit still for a little while and an interest in fashion will probably enjoy this toy.
+"Yep... you read that title right!
+My girl is being is currently being proudly displayed on the fridge.
+Unfortunately, that is the only girl that I 'created'.
+True...
+I am 31 years old, but I am a girl!
+And this is what I believe the downfall of this product is: going back to replay!
+After painstakingly choosing a head, midsection and shoes, there isn't much left to do.
+I had to dig out my OWN coloring pencils (WHAT??!)
+which annoyed me to no end.
+Why not include a cheap little set of 5 basic colors?
+Why not include another felt tip marker?
+Do they believe that 7-9 year old girls are not going to damage the one included felt tip marker?!
+I usually sing praises of any Ravensburger product, but they missed the bus by a couple of seconds on this one.Included in the box is a purple carrying case which also houses the lighting mechanism, 8 sheets of tracing paper, a black felt tip marker and different body assemblies.
+Not included: Batteries, more paper, originality and coloring pencils.
+You might be wondering what I am referring to when I state ""originality"".
+Well, this product loses a star because the little plastic hairstyles/heads, midsections and shoes/legs are labeled to match one another.

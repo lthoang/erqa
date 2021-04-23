@@ -1,0 +1,176 @@
+Top question(s):
+Has anyone tried this with a Google Nexus tablet?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+So the tractor makes tractor tracks, the rake shows it raking, the watering can shows water.The only reason that I didn't give it 5 stars is it is extremely hard to lock the case around the iPad.
+The real challenge is to keep from flinching every time they slam a pig into the puddle.
+)If you have a child who is either tech-savvy or at least interested in your smartphone or tablet, this is a great, seemingly safe way of making an iPad part of their playtime.
+I don't know if that's acutally scientifically true, but it does seem like she is more engaged while playing with this toy with the iPad than when she plays with the normal iPad apps.The plastic pieces are sturdy and large enough for small hands.
+There are clear instructions about downloading the app you need for your ipad that coordinates with toy.
+
+Question attention weights:
+0.6632017493247986,0.33679822087287903
+Sentence attention weights:
+0.0075538866221904755,0.006741550751030445,0.008414685726165771,0.007285372819751501,0.005803413223475218,0.00609248410910368,0.0068383547477424145,0.006598120555281639,0.008450612425804138,0.0034647448919713497,0.007739223539829254,0.0044146194122731686,0.0062291622161865234,0.007564795669168234,0.004816665779799223,0.0071548279374837875,0.0037085674703121185,0.00646046781912446,0.007293568458408117,0.006684449501335621,0.0063230679370462894,0.0054278988391160965,0.0052749947644770145,0.008516988717019558,0.009132008999586105,0.006792789325118065,0.00500930892303586,0.00534164858981967,0.006353945937007666,0.0062515707686543465,0.006327278912067413,0.006844914052635431,0.005294421687722206,0.0063088927417993546,0.006066331174224615,0.006556997075676918,0.004945281893014908,0.005835769698023796,0.00627719983458519,0.006583990063518286,0.006032919976860285,0.006456354632973671,0.005509478505700827,0.004604373127222061,0.006493735127151012,0.005760365165770054,0.006330653093755245,0.00784189160913229,0.00666884845122695,0.005422982387244701,0.006012522615492344,0.0060328771360218525,0.011802398599684238,0.006507827900350094,0.005966010969132185,0.005956078413873911,0.004675706848502159,0.005768924951553345,0.00463024852797389,0.004839690867811441,0.007399911060929298,0.006997378077358007,0.006891869008541107,0.005933993961662054,0.007681422401219606,0.007667818572372198,0.008577300235629082,0.006919832434505224,0.007425421848893166,0.007706949487328529,0.007068410981446505,0.006291503552347422,0.006364824250340462,0.008651484735310078,0.005854295566678047,0.006049347575753927,0.006450671702623367,0.004847221542149782,0.0053352052345871925,0.008489794097840786,0.005004115868359804,0.004328188020735979,0.007428597193211317,0.006100525613874197,0.006224758457392454,0.007033304311335087,0.00647526141256094,0.006916449870914221,0.007476171012967825,0.006432158872485161,0.006422728765755892,0.0058800168335437775,0.006223464850336313,0.005839320831000805,0.0058935717679560184,0.005725204478949308,0.00603845901787281,0.0038226100150495768,0.007818409241735935,0.0075985766015946865,0.0051383147947490215,0.0035283048637211323,0.007078226655721664,0.0060840873047709465,0.00683118449524045,0.007057759910821915,0.006841551512479782,0.004883962217718363,0.005997399799525738,0.004101530648767948,0.006541083566844463,0.006951860152184963,0.004913706332445145,0.00568122835829854,0.005037729628384113,0.006526832468807697,0.006541675888001919,0.006639616098254919,0.007314817514270544,0.006367634050548077,0.005696367472410202,0.006724156439304352,0.006748005747795105,0.006008939351886511,0.006398914847522974,0.007037931587547064,0.00763414241373539,0.00561368465423584,0.0054222168400883675,0.005613549612462521,0.0055943699553608894,0.007278560195118189,0.005933388601988554,0.0066628106869757175,0.006578353233635426,0.006878544110804796,0.006425825878977776,0.005017370451241732,0.005042610224336386,0.006435684859752655,0.006406694650650024,0.005866205785423517,0.006823180243372917,0.006115730386227369,0.005779023747891188,0.006881455425173044,0.008276550099253654,0.00450883200392127,0.006336853373795748,0.007805205415934324,0.00774536794051528,0.00687383534386754,0.006780111230909824,0.00562957301735878,0.006429016124457121,0.006194553803652525,0.009368575178086758
+0.007920339703559875,0.006686281878501177,0.009137805551290512,0.007246427703648806,0.005811251234263182,0.005769101437181234,0.006778523325920105,0.0064871408976614475,0.009481167420744896,0.0028615694027394056,0.007834436371922493,0.0037211626768112183,0.006341082975268364,0.008927960880100727,0.004172125365585089,0.007416532374918461,0.0032705161720514297,0.006399177014827728,0.006743949372321367,0.0067390380427241325,0.006412538234144449,0.005259838420897722,0.004926670342683792,0.009017384611070156,0.00892204325646162,0.0068023186177015305,0.0047163162380456924,0.005564554128795862,0.006225942634046078,0.006027488503605127,0.0064917742274701595,0.006771689280867577,0.005132090300321579,0.005985024850815535,0.0056853280402719975,0.006401303224265575,0.0044985138811171055,0.005753699224442244,0.0060536814853549,0.006454874761402607,0.005797168239951134,0.006357225589454174,0.005296905525028706,0.00421019596979022,0.006328409072011709,0.005238366778939962,0.006441740319132805,0.008516642265021801,0.007046612445265055,0.005126454401761293,0.0058672926388680935,0.005915702786296606,0.013722371309995651,0.0063753267750144005,0.005822825711220503,0.0057879346422851086,0.004333335440605879,0.005773215088993311,0.004134408198297024,0.004370449110865593,0.00759884063154459,0.006937881000339985,0.007007563952356577,0.005554658360779285,0.0075058662332594395,0.008522073738276958,0.009043661877512932,0.006881601642817259,0.007689874619245529,0.008448520675301552,0.006905336864292622,0.006215054541826248,0.006593134719878435,0.009942877106368542,0.005805309396237135,0.005745654460042715,0.006268791854381561,0.004466239828616381,0.005280569661408663,0.008776692673563957,0.004527967423200607,0.003698692424222827,0.0069110761396586895,0.005954483989626169,0.005981744732707739,0.007268456742167473,0.0063908761367201805,0.006694195792078972,0.008101691491901875,0.006389616057276726,0.006538439076393843,0.00563345942646265,0.00666412990540266,0.005497235804796219,0.005458764731884003,0.0056502074003219604,0.005741378292441368,0.0034582153894007206,0.008664345368742943,0.008191943168640137,0.004865607246756554,0.0028442011680454016,0.007269665598869324,0.005492568481713533,0.006901738699525595,0.008136913180351257,0.0071288286708295345,0.004960367456078529,0.0060719638131558895,0.003358822548761964,0.006337985396385193,0.00730780977755785,0.004896174184978008,0.005721570923924446,0.004729894455522299,0.006222897209227085,0.006483328994363546,0.006562812719494104,0.007300952449440956,0.0064677526243031025,0.005657474510371685,0.00770478043705225,0.006946778856217861,0.0059307343326509,0.006292429286986589,0.006945072673261166,0.007651041727513075,0.0059719630517065525,0.004944375716149807,0.005417771637439728,0.005733906757086515,0.007514175493270159,0.005537338089197874,0.0066099101677536964,0.006562965922057629,0.007461577653884888,0.00643537612631917,0.004602031782269478,0.004915109369903803,0.006272244732826948,0.0063608610071241856,0.005559575743973255,0.006751672830432653,0.006338831037282944,0.005665067117661238,0.00690076220780611,0.009206059388816357,0.0040463777258992195,0.006434482056647539,0.00761486915871501,0.008865730836987495,0.006816042121499777,0.006837484892457724,0.005898755043745041,0.006221286952495575,0.006391522474586964,0.01000333484262228
+Questions:
+Has anyone tried this with a Google Nexus tablet?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+My 2 1/2 year old likes to play with this Barnyard, but I feel like I can't leave his side for even a minute.
+I need to watch and remind him to be soft.
+After all he is playing directly on the iPad, driving the tractor, stomping the cow!
+He can maneuver many things on his own, but still needs a little help and guidance as he plays.
+My son finds joy in figuring out new things like turning out the lights and putting the animals to sleep.The app is fun and creative.
+You can choose to move to different parts of the farm--barn, garden, field, barnyard.
+You can plant seeds, water, and pick fruit.
+You can take care of the animals in the barn.
+You can drive the tractor around the field.The barnyard comes with a tractor, cow, pig, rake, girl, and watering can.
+The app shows horses, sheep, and other animals, so my son kept asking me, &#34;Where's the horse?&#34;  He wanted a horse figurine to play with.So the app is fun, but my hesitation is with the iPad becoming the play board for driving and stomping toys.
+I thought the plastic barrier would be stronger, but it is extremely thin and flimsy.This will be an occasional toy for us, because I prefer to encourage creative play when using something like a farm, then limit screen time.Also note you have to turn off multi-tasking gestures on your iPad for this to work, so don't forget to turn it back on.
+"When I initially saw this barnyard set, I was immediately reminded of a similar set from Fisher-Price that I played with as a kid.
+Of course, my play set did not include any iPad interactivity.
+Unlike other reviewers who are torn about exposing toddlers to screens, I don't really have a problem with this type of usage.
+In my opinion, this is the future of toddler toys - a successful integration of classic, physical toys working within a virtual framework.
+After all, my five-year-old has been begging for her own iPad or iPhone for well over a year, and my sixteen-month-old already understands how to swipe and type (or at least touch the screen with decent accuracy).
+It's inevitable that kids are going to emulate their parents, just as I learned at a very early age how to work a VCR and operate my parents' stereo system.As for this specific toy, the Fisher-Price Little People Apptivity Barnyard, I'm pleased to say that while the interactivity with an iPad is fun and engaging, it's not necessary to enjoy what is a nice little barn playset with a tractor, kids, tools, and animals to move about.
+For the purposes of this review, we got it all set up with the free app and watched my youngest daughter enjoy herself.
+No doubt as she grows older, the interactions will the app will make the playset more fun.
+Yet I honestly think, at least at this young age, that she'll probably just want to play with the figurines on their own.
+It's a bit of a chore to get the iPad all set up and secured inside the unit, and even though it looks safe and secure in there, in the end we are still talking about a one-year-old child playing with an expensive piece of tech... so I am going to want to remain close by at all times, just in case.
+Thus, I suspect that a full set up with an iPad will only be an occasional occurrence.
+(And this, too, should alleviate the concerns of those fearful of too much screen exposure.
+Rest assured, this little playset is still fun for kids even without the use of an app.
+)If you have a child who is either tech-savvy or at least interested in your smartphone or tablet, this is a great, seemingly safe way of making an iPad part of their playtime.
+But even when the device is not available, it still offers some ""old school"" fun."
+This is  a nice toy for your little one but it doesn't offer much protection to my iPad.
+Sure my toddler loves using the little people to help around the barn, but I'm always worried that my iPad which cost considerably more than this toy, will get broken in the process especially since I have to remove the protective case in order to use it.
+As long as you carefully monitor your little one though you should be ok.
+There are so many toys now that require the use of iPads etc, I wish that they could be used independently.
+Overall it's a great toy.
+this is a very cute product idea.
+i like how it blends real, tactile toys with the iPad.
+its good to retain a connection with the real world, which is easy to lose when the iPad is so full of great kids games/educational apps.my only issue is that the product has limited value.
+once you place the toy on the iPad, there is little screen left to drive interaction.
+the iPad is not that big to begin with, and the toys themselves are large, so play on the iPad is limited.
+again, great idea, but they should either make the toy pieces much smaller (admittedly hard for small fingers), or find another way to create a large play screen (also hard).the design, however, is good.
+it fits entirely over the iPad, protecting it against damage.
+We have a number of the iPad accessories for kids.
+Those ones all feel quite a bit more sturdy/safe than this one.
+This is the kind of toy that requires REAL supervision if the kids have the iPad in it.
+Still, they (a 4 and 1.5 yr old), LOVE this game/toy.
+It's like a less mature version of farmville.
+Teaches basic problem solving and responses.
+Cute, fun, and distracting!
+I have experienced a lot of misses when it comes to turning the iPad into an activity of this type.
+This one is a hit.
+The barnyard app itself is wonderful app.
+I love that it introduces gardening concepts to my daughter.
+Seeds, preparing the dirt, watering.It also some of the best matching and other educational games I have seen.
+And my daughter loves using the figures.
+They have magnets on their ends and the app recognizes each individual figure.
+So the tractor makes tractor tracks, the rake shows it raking, the watering can shows water.The only reason that I didn't give it 5 stars is it is extremely hard to lock the case around the iPad.
+Very hard.
+It was taking me 10 minutes or more.
+So I gave up and then you have to leave the iPad in one place or it will fall out.
+I wish they had taken a little more effort with the lock mechanism.
+But even with that recommended, and I definitely recommend downloading the app wheter or not you get the barn and figures.
+You know those kids...the ones that one to play with your iPad constantly and you dont want those grubby little hands on it, BUT you want them to be able to learn from it.
+This is the toy for you, and any kid 2 years to 4 years.Just slide that iPad into the slot in the back, a protective screen keeps all those soggy cheerios and drool off your technology.
+download the free app for this, and instant barnyard awesomeness.It not only gets your child to interact with technology, but its a hands on toy with a barn and animals!
+They can plant and harvest crops, draw in mud, play with baby animals.
+It has a feature to teach them counting, and recognizing vegetables and animals.
+And many many more, and the best part is...that as an adult playing with them..you wont be completely blotto from coming up with ideas...and you will have fun!
+I thought this was a cute and interactive product.
+It was easy to assemble right out of the box-- just pop the barn into the base and rooster into the barn.
+There are clear instructions about downloading the app you need for your ipad that coordinates with toy.
+My only complaint is that the thin plastic covering for the ipad is pretty thin.
+The biggest issue with this is if you are using the barn without the ipad, be careful your child doesn't lean hard or try to stand on that part because it could break.
+Although this isn't a big deal, I was also disappointed that the rake tool doesn't actually connect to either character (their hands).
+My three-year-old daughter loves her iPad and its apps.
+We let her play with it only for a few minutes a day while my husband and I are getting ready for work, but I do worry about how much cumulative screen time she is getting over the course of each week.
+This iPad toy set seems to be more imaginative and interactive than simply playing with apps alone, and that makes me feel like the screen time is a bit more productive and less harmful for our daughter.
+I don't know if that's acutally scientifically true, but it does seem like she is more engaged while playing with this toy with the iPad than when she plays with the normal iPad apps.The plastic pieces are sturdy and large enough for small hands.
+Because the pieces are so large, however, they take up a lot of space on the screen, so that it a little bit limiting.
+All in all, this is a small complaint, and I would recommend this toy for young children who are already familiar with playing on an iPad.
+My daughter is 3, so maybe she is a little too old for this.
+While she does love it (especially the caring for the animals part), she hasn't shown too much interest in the &#34;physical&#34; component (as opposed to the app).
+As it's a little bit of a pain to remove my iPad from its protective case and then insert it in this case (which does seem pretty sturdy), I expect we'll play with this without the barn setup once that novelty wears off (which it pretty much has after one day).
+The app itself is cute but nothing special.
+It is slow when shifting between elements but the graphics are cute.
+My daughter gets frustrated with the tractor driving segment as it isn't very responsive to the tractor.
+I paid thirteen bucks but wish I hadn't and had jut paid the the bucks for the in app add-on (or that I had bought this when my daughter had been 2).
+If your toddler loves little people, this is a great addition to their set.
+I wish the barn had a little more activity to it, but the other falws were modest.
+The characters are diverse and the toys sparks imagination.
+[Good]The quality of the physical toys themselves are great.
+On the surface they look just like any other Fisher Price toy.The free iOS app that works with this toy is great.
+There's lots of interaction and sounds.Education Value: This is much better than the VTech toys because it's running on more powerful hardware.
+There's a lot of stuff that the apps can do that provide a lot of learning exercises and creativity.
+The best part is that Fisher Price can update the software and offer even more stuff later on.
+[Bad]I'm not sure why Fisher Price didn't make this clear in the toy's name, but this only works with Apple iPads.
+Yes the toys are still toys with or without an iPad, but they are way better with the iPad.The barn only fits certain iPads and not the new ones, specifically only 2nd, 3rd, and 4th gen fit nicely.
+The new iPad Air (5th gen) and the iPad mini are too small.
+Yes the iOS app will still work on different iPads.
+It just won't work as intended within the barn case as shown in the picture.No Android Support: This actually makes sense.
+There are so many different sized and shaped Android tablets, that there's no way they can make a case that supports most or even a quarter of them.
+Moreover both the Google Play store and the Amazon Kindle Fire store are just barren when it comes to good apps and interactive books for children.
+Maybe this will change in the future, but right now all the good kids apps and accessories for tablets are only on Apple iPad.If it's not already happening, your kid will try to monopolize your iPad with this toy.
+[Misc]While it's not meant to fit the newer and smaller iPad Air, I've manage to make it fit using Surgru:Sugru SMLT8 Hardware Sealer, Multi Color, 8-Pack.
+It's basically a rubber that dries after you mold it into something.
+In this case I used it to create a mold for the iPad Air within the barn case.
+This is a cute little Fisher-Price barnyard that would be ideal paired with an iPad, for which it is designed.
+I love that the iPad placement is Otter Box protected.
+I know from experience with my iPod touch that the Otter Box has saved it more than once.
+I&#8217;m not sure I&#8217;d want to use this toy barnyard as it&#8217;s intended without Otter Box protection; iPads don&#8217;t come cheap.The toy itself has pieces and a little barn with which the child can play regardless of whether or not there is an iPad.
+With an iPad and the free downloadable app, the toy becomes interactive and will respond to the child&#8217;s play with counting and sorting games, growing crops, etc.
+This toy would be a great addition to center time in a pre-K or kindergarten classroom.
+The figures are sturdy and fun.I had my 11-yr old down load and set up the iPad part for my 5-yr old.
+It took a LOOONG time to set up.But after that, they seem to have a lot of fun with it moving figures around.You can also turn the bottom portion around so that you don't need an iPad to play.
+We have enjoyed this product for our 1 and 4 year old boys.
+They use it even when the iPad isn't hooked up to it just as a farm set to play with.
+This product holds the iPad securely in and there isn't a concern about it slipping out.
+The pieces are sturdy enough for two busy boys and the app keeps their attention.
+The only down side is that it can take time to put the iPad in and take it out so that can be a hassle if you want to use it outside of the Barnyard.
+Baby apps for ipad are great tools for distracting a toddler and learning basic concepts such as color and shape recognition--but they typically don't allow for much in the way of creative play.
+Fisher-Price toys have always been wonderful toys for toddlers because they are very durable and allow for unstructured play so that toddlers make up their own stories to go along with the set.
+Well, this toy provides the best of both: the app has fun instructional modules such as identifying things found on a farm while the play set itself allows for the toddler to create his or her own stories.
+Plus older children enjoy the novelty of it as well.
+A well-designed toy.
+"We've been in love with the interactive apps ever since we tried the Disney Cars AppMates.The Little People Apptivity Barnyard is the most advanced (and fun) such app we've seen.
+You activate it by placing the tractor on the free app at the prompted time, then almost every accessory that comes with the playset does something special inside of the app.The water pump and hay bail on the ""barn"" part dump water/hay on the screen, there are activities where you use the included rake to prepare a field, the included animals make a sound in the app and you can drive the tractor around a course.It's LOADED with fun things to do.The only bummer is that it is basically its own iPad case, so if you already have a case (as we do, given our young kids), then you have to take it off to use this toy.Awesome, nevertheless!"
+My 3 year old soon to be 4 year old son loves to play with the ipad so this is a fun toy for him.
+The problem is the rest of us can not use the ipad while he is playing.
+It is a really cute toy and he is enjoying it!!
+!
+This is a great idea, but it didn't intrigue my toddler as much as I thought it would.
+It's a little cluttered (due to the limited size of the iPad screen), and she seemed to enjoy it more without the Little People, rake, etc., (with the exception of the water pump - that held her attention longer than the other things).
+The app worked very well (smooth, no glitches), and we felt the screen was protected well.
+We have an original iPad and an iPad 4 and tested this on both.
+It doesn't work well on the original iPad, but works great on the iPad 4.
+Overall, I think this is a great idea, but it's the free app that makes it fun.
+I didn't notice that it was an ipad toy before we got it in the mail.
+Luckily, I happen to have an ipad.
+My 19 month old son loved playing with the little people toys at once and putting them in the barn.
+It took him a while to get the hang of the interaction of the toys with the ipad in the case.
+I think he actually prefers playing with them separately.The app has an option to use it with the toys or by itself, which is nice.
+My son prefers playing with the app by itself and with the toys by themselves, although he does like both.When the ipad is in the toy there is a film cover to protect it from scratches, but for some reason he seems to want to stand on it when it's in the toy case and I'm pretty sure it's not designed to protect from that much weight on it; therefore play still needs to be supervised to make sure he doesn't break the ipad by standing on it in the case.
+Another boy, 18 months old, visited and also immediately wanted to stand on it.In the app they like touching the animals and hearing them make the animal noises and touching the food trough to dispense hay and seeing the animals walk over and eat it, but the two boys who tried it out at my house were a little too young to understand how to play the games of tilling, then planting seed, then watering to see the plants grow or the one where you drag the missing letter to the space it matches up in.
+I think for someone with maybe a 2 and a half or 3 year old this would be much better.
+I had a little bit of trouble getting this set up.
+The instructions could have clearer and I had to do the initial setup (putting the tractor on the screen so it can register it) more than once to get it to work.
+However, once I got it put together and set up, my two year old and four year old had a ball with it!
+The figures and tools are very cute and you plant seeds and then water and rake using the tools.
+I found it to be a fun and unique app and my kids even enjoy using it without the barnyard attached.
+As with almost every child's toy, it comes with pieces that can be easily lost.
+You can try to keep them in the barn but it is not the best holder.Overall this is a very neat app and playset and my children are still enjoying it.
+I marked it down one star because of the issues I had with setting it up.
+For play value, it is a five though.
+I highly recommend this for toddlers and young children!
+I'm feeling nostalgia about Fisher-price toys from the olden days when they were so colorful, well made and the standard you compared all other toys to.
+Does anyone remember the barn with the door that &#34;mooed&#34; when you opened the door?
+My daughter would play with it for hours.I suppose Fisher-Price had to go part hi-tech to compete with all the plastic from China.
+Kids expect everything to beep or flash nowadays.
+Nevertheless, the toy is still cute and very well made.
+Your ipad docks in the bottom of the toy and the screen is protected from drool  and whacks by a clear cover.This toys is lots of fun and will keep the kids busy for hours.
+The real challenge is to keep from flinching every time they slam a pig into the puddle.

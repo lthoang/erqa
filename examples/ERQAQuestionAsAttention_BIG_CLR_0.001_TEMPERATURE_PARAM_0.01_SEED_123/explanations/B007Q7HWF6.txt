@@ -1,0 +1,120 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Can I add new apps for my children to play? I would like to download apps from the marketplace and add them to the kids screen.
+Top sentence(s):
+It's a far cry from playing games on a smartphone or an adult tablet.
+The battery only last 2-3hrs while playing on the tablet.
+Now that Kindles etc have come down so much in price, why spend all this money for a toy this limited and specialized?
+My son was continually getting frustrated with how long he had to wait to start up.The last disappointing thing is the charging.
+I wouldn't buy it again.
+
+Question attention weights:
+0.3971678614616394,0.004866634029895067,0.5979654788970947
+Sentence attention weights:
+0.00818473007529974,0.008765365928411484,0.014055619947612286,0.015380478464066982,0.008420218713581562,0.007614096626639366,0.010697681456804276,0.010199028998613358,0.013219437561929226,0.01144704781472683,0.008987516164779663,0.014318352565169334,0.013801448978483677,0.011614571325480938,0.011640697717666626,0.006752322427928448,0.0061593810096383095,0.014478587545454502,0.01308520045131445,0.013540470041334629,0.005180835258215666,0.014515405520796776,0.011151966638863087,0.011481131426990032,0.014478587545454502,0.013896489515900612,0.009889064356684685,0.014037733897566795,0.009127996861934662,0.008798538707196712,0.008720018900930882,0.011548511683940887,0.013596178963780403,0.009918797761201859,0.00606238329783082,0.006327459588646889,0.009344072081148624,0.012794671580195427,0.006619712337851524,0.007707849610596895,0.006445646286010742,0.006314558442682028,0.01254765223711729,0.009762083180248737,0.007050313055515289,0.01425621286034584,0.008393457159399986,0.010746916756033897,0.009029108099639416,0.009195538237690926,0.014277962036430836,0.005102765746414661,0.013367229141294956,0.010077854618430138,0.016079144552350044,0.006467362865805626,0.015260514803230762,0.007062423974275589,0.004739384166896343,0.006369179114699364,0.0057679577730596066,0.006529174279421568,0.007551292423158884,0.008769393898546696,0.014621430076658726,0.006535591557621956,0.004728206433355808,0.015696408227086067,0.005667960736900568,0.004769707564264536,0.004915503319352865,0.006055810954421759,0.004340986255556345,0.011122187599539757,0.010236114263534546,0.00509284483268857,0.006659745704382658,0.013904009014368057,0.005260662641376257,0.013954832218587399,0.014209114015102386,0.010141989216208458,0.012010818347334862,0.01903889887034893,0.015027136541903019,0.017366470769047737,0.010061387903988361,0.009619914926588535,0.0048325019888579845,0.008071859367191792,0.01253573875874281,0.011873174458742142,0.007889216765761375,0.009562438353896141,0.010949919931590557,0.010129555128514767,0.006027969066053629,0.013884252868592739,0.014482886530458927
+0.011653058230876923,0.011130974628031254,0.012973596341907978,0.011734096333384514,0.008332918398082256,0.010438327677547932,0.009796340018510818,0.007374478038400412,0.017589358612895012,0.01678832247853279,0.008198953233659267,0.015415094792842865,0.010710631497204304,0.009344846941530704,0.015906011685729027,0.007914154790341854,0.006039537955075502,0.011797284707427025,0.012025234289467335,0.01203220710158348,0.006669166032224894,0.011405343189835548,0.00990271009504795,0.012304621748626232,0.011797284707427025,0.011372383683919907,0.008590353652834892,0.014448903501033783,0.007347229868173599,0.009043204598128796,0.007247521076351404,0.01062571257352829,0.013590721413493156,0.014415028505027294,0.006757816299796104,0.00662614218890667,0.006267855409532785,0.010209929198026657,0.008884744718670845,0.009149394929409027,0.0065361615270376205,0.0037224458064883947,0.011277340352535248,0.008428692817687988,0.0072589050978422165,0.01172693446278572,0.008397558704018593,0.014950079843401909,0.006803602445870638,0.008882557973265648,0.011555427685379982,0.008067320100963116,0.011586379259824753,0.008450469002127647,0.011648036539554596,0.007300948724150658,0.011608477681875229,0.006859845947474241,0.00859710481017828,0.0095528494566679,0.007687607314437628,0.008368555456399918,0.010544497519731522,0.005921453703194857,0.011323901824653149,0.005242003593593836,0.0076001835986971855,0.01346990279853344,0.01213910523802042,0.00634401198476553,0.005254468880593777,0.0050994716584682465,0.00398208387196064,0.014583022333681583,0.010158046148717403,0.008796410635113716,0.006587230134755373,0.01167927123606205,0.007405479904264212,0.011461758054792881,0.015647919848561287,0.007922504097223282,0.012710396200418472,0.019981801509857178,0.01637396775186062,0.015455643646419048,0.011319492943584919,0.011868976056575775,0.004658604506403208,0.00554047804325819,0.011078938841819763,0.012367312796413898,0.008465965278446674,0.014687938615679741,0.007970331236720085,0.011498053558170795,0.008153676055371761,0.011029871180653572,0.01255707535892725
+0.007112231105566025,0.007753635291010141,0.015243600122630596,0.016168048605322838,0.007403298746794462,0.006947676185518503,0.011807731352746487,0.008533334359526634,0.012483017519116402,0.01250565517693758,0.008306932635605335,0.015865003690123558,0.014030871912837029,0.011813883669674397,0.010251774452626705,0.006051722448319197,0.006023933179676533,0.015198901295661926,0.013852320611476898,0.014171382412314415,0.0039530531503260136,0.014614932239055634,0.010822487063705921,0.01272063609212637,0.015198901295661926,0.014540983363986015,0.009318596683442593,0.01598045788705349,0.00842080544680357,0.008011888712644577,0.008300126530230045,0.011590932495892048,0.014267243444919586,0.009816267527639866,0.005419731140136719,0.006370019167661667,0.008127872832119465,0.013645537197589874,0.006083942484110594,0.007456125225871801,0.006113652605563402,0.0052182930521667,0.013119039125740528,0.00932291429489851,0.007111338898539543,0.014761003665626049,0.008806039579212666,0.010879673063755035,0.008923768065869808,0.009574691765010357,0.014967318624258041,0.00525730662047863,0.013178360648453236,0.009967598132789135,0.016761571168899536,0.005464805290102959,0.01711161807179451,0.006592175457626581,0.0033071767538785934,0.005417939275503159,0.004834981635212898,0.007163499016314745,0.00643320893868804,0.008253204636275768,0.013418043032288551,0.005761868320405483,0.00423049833625555,0.016486873850226402,0.005610067863017321,0.004619065672159195,0.0038427948020398617,0.00622337032109499,0.003805059241130948,0.012128063477575779,0.010617478750646114,0.004175999667495489,0.0068010021932423115,0.014606648124754429,0.0042643495835363865,0.01387137733399868,0.015070169232785702,0.010509849525988102,0.012666996568441391,0.02357659861445427,0.01683618314564228,0.019370386376976967,0.008993574418127537,0.009826800785958767,0.0046925414353609085,0.007499100640416145,0.013277229852974415,0.012826944701373577,0.00671048928052187,0.01072958018630743,0.009432881139218807,0.008981463499367237,0.005269470624625683,0.013227660208940506,0.015312938019633293
+Questions:
+Can I add new apps for my children to play? I would like to download apps from the marketplace and add them to the kids screen.
+how do i find out password
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+Parents looking for a fun tablet might want to consider that this one is designed to be used with Vinci curriculum, that grows with your child.
+So you would purchase curriculum based on age and then again when they moved to the next age group.
+For parents, that's nice because you know that the apps, games, and stories are age appropriate.My impressions - it's a little bulky (weighing about 1-1/2 pounds).
+However, it has grips that make it easy for a young child to grip and carry.
+They are cushioned and are meant to help protect your screen should it be dropped.
+I feel that parents with young toddlers are best for this product as investing heavily in to the curriculum for an older child may not make as much financial sense.
+The cheapest curriculum is about $90 online and the most expensive one (for older toddlers) is close to $180 (nearly as much as the tablet).
+Therefore, it makes the most sense to have it grow with your child rather than have your child grow out of it quickly.There wasn't a whole lot pre-loaded on it, so you'd definitely want to bear the need to purchase curriculum in mind.
+The graphics were OK, and I liked that the stories were interactive, meaning that you could choose Little Red Riding Hood's clothing, what she wanted to take to Grandma's, which pet accompanied her, etc.
+That makes the story a little more fun and different each time.There is a camera (rear facing), but I didn't think it took clear pictures, but a kid would probably be happy with it.
+The Vinci tab II is  an engaging product to use with many cool features.
+There are some great features that I will lay out.
+But even with those features I just think the product is average at best primarily because of other options and the cost of the curriculum.
+I do think it is worth checking out if you are in the market for a 'toddler tablet' but there are better options.
+The technology feels somewhat dated and the curriculum is very expensive.The tablet itself is a functional android tablet running 2.3.5.
+There is no screen rotate and no pinch zoom either.
+Clearly compared to a non-toddler app the specs and performance as a computer are not anywhere near the competition.
+The screen itself is better than I expected from the specs.
+Photos display nicely.
+Apps are bright and colorful.
+Not the best screen resolution, but the Vinci apps make very good use of it.
+The unit is also on the slow side.
+But you do get the cushioned red handle around the device.
+It turns out this is very functional.
+Our 25 month old is able to carry it around and it does provide some cushioning.
+It does really help make it so a toddler can carry it around.
+I wasn't quite sure if I really wanted to give this product a try because I limit the amount of screen time I allow my kids, but I watched some of the videos and was intrigued by what I saw.
+It looked like a toy that could potentially be beneficial to my three-year-old son.
+I saw some complaints about the cost of the software suites, but I figured I'd try the product and see if I thought it might be a good thing to invest in.
+After testing it for the last month, I am not at all impressed with this product and wouldn't recommend it.
+In no particular order, here are the main reasons why I think this product is a waste of money.Unacceptable battery life--For the first couple of days, the battery life seemed okay.
+It didn't last as long as I might have expected, but I didn't think much of it.
+However, over time, the battery has deteriorated to the point that the tablet is almost unusable.
+After charging until the indicator shows the battery is at 100%, I'll remove it from the charger and the battery is immediately at only  life.
+At most, the tablet lasts for about an hour before the supposedly full battery drains and the tablet has to be recharged.
+Charging it and then putting it away for future use is pointless, as the battery drains while the unit sits idle.Lack of parent lock--This is such a no-brainer to me.
+When creating a tablet that's expressly for the use of a toddler, doesn't it make sense to include features that allow parents to control things like whether the child can change the names of folders or delete apps?
+At this point, I have no idea how much content my son may have deleted.
+I also would have liked settings that would allow me to lock the tablet after allowing my son a certain amount of time to play.App not working properly--Monkey and Banana Lite has not worked since the day I received the tablet.
+I've tried rebooting the unit (something I've had to do repeatedly) to no avail.
+Since the tablet comes pre-loaded with so few apps, this is a big deal.
+If Vinci is trying to convince me to spend upwards of $100 on a suite of apps, it seems to me that the sample apps they provide as an enticement ought to work.Quality of apps--The apps that do work properly are interesting.
+Like others' reviews, the first thing I noticed was the sturdy built of this tablet.
+The soft red handle around the screen makes this easy to hold.
+Why don't all tablets have this feature?But soon my impression went down a notch after I plugged it into an AC outlet to charge it and then use it.
+Both took a while.
+The plug fits right near the red handle; it would have made more sense to have the plug slightly away from the handle so that the adapter cable would have free access to the charge.
+Because of the AC location the tablet must be on a flat surface to recharge.Turning this on reminded me of my Kindle Fire.
+This is a very slow device (and the reason I don't use my K-Fire anymore).Owners must register this product online.
+From the company's website one can get both free apps and additional learning software for young children.
+The apps are simple games that will keep young children entertained on a long roadtrip as they are easy to play.
+Just make sure the device is near a charging unit as the juice only lasts a few hours.
+I love the idea for this a tablet that works for young children that they can throw on the floor and it won't break.
+I love the camera, but you have to buy software and it was expensive.
+I wouldn't buy it again.
+The other reviewers have done a great job listing the pro's and con's of this tablet... con's being expensive software, bugs in the software, slow WI-FI speed, and the biggest one of all for me is the price/value ratio.
+Now that Kindles etc have come down so much in price, why spend all this money for a toy this limited and specialized?
+If you're just looking for something to give a toddler to chew on and keep him/her away from your ipad, this is a good candidate if the price comes down, but really this is an expensive failed experiment.Sorry, can't recommend at this price.
+"The VINCI Tab II tablet is a piece of hardware that must be used with one or more of the following software/application programs for it to be the learning tablet for which it is intended to be used:VINCI Curriculum Level 1: The CuriousVINCI Curriculum Level 2: The ConfidentVINCI Curriculum Level 3: The CapableThese are the three fundamental developmental phase oriented apps that VINCI offers for use with the tablet and without at least one of these apps the tablet is little more than an expensive toy/basic Android tablet.
+Therefore you must factor in the cost of whichever app or apps you anticipate using with this tablet when considering whether or not to invest in this system (i.e., the system = the tablet plus apps which must be purchased separately).
+(The VINCI Tab II comes loaded with some rudimentary apps that hardly seem worth the $90 value stated on the box).Buying the VINCI Tab II plus one or more of the apps necessary to use it for its intended purpose is an investment on top of which one must be willing and able to invest time and energy into seeing that it gets used as intended.
+For otherwise, it will be like an expensive piece of exercise equipment that one buys with high hopes and the best of intentions but rarely uses.You can get a sense of what actually using the VINCI system as a learning tool entails by visiting the VINCI site.
+The basic idea behind the VINCI system is that children plus mobile devices with educational apps are a good combination that can really help a child's development.
+Keep in mind that this can be accomplished with devices and apps other than those marketed and produced by VINCI.
+The VINCI Tab II is unique in that it is physically designed to be used by children, but I can tell you that my 4 year old granddaughter has been using her parents' iPad regularly for a couple of years now and has never mistreated or dropped it (though her toddler brother managed to chip the screen but is now also learning to use and handle it correctly) and is able to use educational and entertainment apps geared toward her age group skillfully and without adult supervision.
+(The VINCI Tab II has a parent mode so adults can use it as an Android tablet and iPad has parental controls so children can use it without accessing whatever their parents don't want them to access on it.
+At their site, VINCI asks, ""Why Choose VINCI Over Other Children's Tablets?""
+and naturally suggests that VINCI is the best possible choice.
+But of course one doesn't have to only choose between VINCI and other ""Children's Tablets"" given that tablets designed for use by adults usually have parental controls and many educational apps for children are available for them.
+)Unless and until one can find Consumer Reports type independent research on the VINCI system (the hardware plus the software), research that has studied actual end-users over time, those who buy it are essentially experimental subjects.
+And here's something else to consider: If a VINCI system doesn't work out for your child or children, you'll end up with expensive software you cannot use and a very simple, basic Android tablet/piece of hardware designed for use by toddlers and young children, whereas if you instead try a tablet designed for adults in parental mode with age-appropriate educational software and that doesn't work out for your child or children, you will still have a fully-functioning tablet that you can use and you won't have spent nearly as much on apps as you will have spent on apps for the VINCI."
+I got the VINCI tab through the Amazon Vine program to review.
+The main user of this has been my 5 year old son, but I've been the one doing all of the App installs on it.First of all I'll just do a quick list of pro and cons:Pros:- Red Rubber bumper makes it easy to hold and durable.- Android operation system, so you can put a Google account on here and access Play Store Apps- Very nice big screen- Includes some nice games/apps- You can get free apps, books, and games from Vinci's learning library online- WiFi connection works well and is easy to set up- Very nice looking, just like mom and dad's tablets!Cons:- Runs very slow; this definitely isn't even close to an iPad or Android Tablet speed- Many games don't work on here (for example Angry Birds)- Many apps don't run while in Parent Mode- Short battery life; you can get maybe 2-3 hours out of this.- Difficult to charge; the charger doesn't stay in well and it charges intermittently- Formal curriculum from Vinci is very expensive- Free Vinci apps are mediocre in qualityThe biggest plus to this tablet is that it runs the Android operating system.
+This allows you to download numerous education, or just for fun, apps from the Google Play store.
+That being said a number of the apps we downloaded from the Google Play store didn't run on this tablet.
+So, none of the Angry Birds will work on here but Where's My Water worked fine.The red bumper is a nice feature, this is rubberized so it prevents the tablet from falling off of things and protects it if it is dropped.The formal curriculum from Vinci is very expensive, $100+ for each program.
+But Vinci does offer a number of free e-books and apps in their learning library.
+I downloaded a number of these apps and found them to be variable in quality.
+Some of them were great, for example a Pirate E-book that lets you interact with the story.
+Some wouldn't even run.
+Additionally many of the apps would not run if you are logged in in parent mode, but ran fine once I excited parent mode.The parent mode allows you full access to the Android platform; it lets you access the internet and install apps.
+When out of parent mode you cannot install applications or access the full menu.The other disappointing thing is how slow this runs.
+Load times on games/books are incredibly long (up to a minute or more) and things just run slow on here.
+It's a far cry from playing games on a smartphone or an adult tablet.
+My son was continually getting frustrated with how long he had to wait to start up.The last disappointing thing is the charging.
+The battery only last 2-3hrs while playing on the tablet.
+It uses a std micro-USB charger.
+The Vinci tablet is a great device for kids 2-5.
+The size is more manageable for little people than an ipad or other tablet and the rubber border grips provide both protection and a place for little hands to hold the tablet.
+The tablet comes pre-loaded with a few curriculum selections that include some fun games for young kids, some music videos and other educational content that help kids match colors, emotions, and animals using songs and fun interactive scenarios.
+With big icons on the screen it's easy for the kids to navigate around and get into different nodes for a varied experience every time.
+Plus you can load your own movies, music and photos onto the device.
+The downfall of this android compatible tablet is that for an ipad user it's not as intuitive to navigate around the menus changing the time, loading movies and music.
+I tried to move some of my kid's favorite movies onto the desktop but it was pretty cumbersome and confusing.One more challenge to this tablet is that the tablet doesn't automatically shut off.
+Often my kids will finish using it and lay it aside as it slowly drains the battery.
+To make matters worse the charger provided doesn't work very well.
+We were able to use an android cell phone charger which worked much Bette at charging the tablet back up.The best thing about this device is that you can load it up with learning curriculum to match your kids needs and skills.
+The curriculum is a little expensive which is the only drawback.
+Even so, the pre-loaded games and capabilities of this make this a good buy at just under $200.

@@ -1,0 +1,249 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+I'm going to have to get the shovel and put it all in a -- I guess a garbage bag!!
+I stirred, I waited ten minutes.... the crystals were smaller but definitely still scary.
+"I was a little hesitant about this product, but figured I'd go ahead and give it a try.
+This product is absolutely horrible!!!
+But, aside from the fact that it is extremely messy, it isn't even that fun.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.0027862167917191982,0.0025681571569293737,0.004851341247558594,0.0025816515553742647,0.0031489459797739983,0.002159826224669814,0.0023325306829065084,0.005256027914583683,0.005100036971271038,0.004871631506830454,0.0028664497658610344,0.005586068611592054,0.005605457816272974,0.0029395564924925566,0.0033714589662849903,0.003774173790588975,0.007482909131795168,0.0023783573415130377,0.0040743667632341385,0.0016822885954752564,0.0021985548082739115,0.006240599323064089,0.005574887152761221,0.005734917242079973,0.0016628006706014276,0.001901970594190061,0.0042755091562867165,0.006508416496217251,0.0058486582711339,0.006710046902298927,0.005226064473390579,0.004725633189082146,0.006043340545147657,0.005738008767366409,0.002933901036158204,0.00322867464274168,0.004903975874185562,0.0021380968391895294,0.002265400718897581,0.0015491036465391517,0.004498806316405535,0.0018738940125331283,0.005167545285075903,0.002020815620198846,0.00290231266990304,0.005191105883568525,0.005596499424427748,0.002161049749702215,0.0038577807135879993,0.002785142045468092,0.0020876904018223286,0.0044918661005795,0.004871864803135395,0.003427371848374605,0.005401144735515118,0.0023397442419081926,0.004270174074918032,0.004259850829839706,0.00518278032541275,0.003344358643516898,0.004646411165595055,0.002793464343994856,0.005393058527261019,0.00555565906688571,0.005058481357991695,0.004904968198388815,0.005018330179154873,0.0053881630301475525,0.005199367646127939,0.006150553934276104,0.003609054023399949,0.0019663532730191946,0.0018869073828682303,0.00552718248218298,0.001562460558488965,0.005388975143432617,0.001734645222313702,0.0016487558605149388,0.001385366078466177,0.006055779755115509,0.006957512814551592,0.005644507706165314,0.0038318317383527756,0.0021085324697196484,0.003316310001537204,0.004379743244498968,0.005600047297775745,0.004876346327364445,0.005782469641417265,0.0016920581692829728,0.0023970382753759623,0.005564791616052389,0.005382331553846598,0.0038729526568204165,0.0017559939296916127,0.005680113565176725,0.002821770729497075,0.005682562477886677,0.0037258046213537455,0.004345856141299009,0.0036699878983199596,0.004403850995004177,0.004444345366209745,0.004628595896065235,0.0051026297733187675,0.004124336410313845,0.00332399713806808,0.00544349430128932,0.003386554541066289,0.0055089667439460754,0.0032037904020398855,0.005472040735185146,0.005074016284197569,0.004046233370900154,0.0033111239317804575,0.003566374070942402,0.0040897405706346035,0.005904046352952719,0.0022823966573923826,0.005504385102540255,0.006008164491504431,0.005660295952111483,0.005011682398617268,0.004632988944649696,0.004070324823260307,0.004240294452756643,0.0033690764103084803,0.0032145902514457703,0.00360239390283823,0.005238780286163092,0.006001998204737902,0.0025134398601949215,0.004564784467220306,0.0032821157947182655,0.005294065922498703,0.005482492037117481,0.004588269628584385,0.0026730154640972614,0.005221936851739883,0.003092758124694228,0.006014594342559576,0.002897208323702216,0.003630139632150531,0.005572263151407242,0.004402965307235718,0.005664811935275793,0.004649844020605087,0.005670697893947363,0.005532251670956612,0.005167721770703793,0.0026739926543086767,0.004828623495995998,0.004598148632794619,0.006274711340665817,0.0038235981483012438,0.004972669295966625,0.004496108274906874,0.0033385916613042355,0.005556747782975435,0.005646590609103441,0.004111514426767826,0.005193962249904871,0.0028840359300374985,0.0034657814539968967,0.004857276100665331,0.006158818490803242,0.0047189220786094666,0.004875204060226679,0.004818861372768879,0.004741152282804251,0.004161761607974768,0.0028369224164634943,0.005995847750455141,0.006806246470659971,0.004425014369189739,0.006134809460490942,0.0021657326724380255,0.0056135887280106544,0.005028667859733105,0.0035618094261735678,0.005388292483985424,0.008482905104756355,0.00475571071729064,0.005632942542433739,0.006406525615602732,0.0035539339296519756,0.0036462186835706234,0.0037516294978559017,0.004957904573529959,0.004733695648610592,0.005699645262211561,0.0027225182857364416,0.004488310776650906,0.0024691512808203697,0.0056406245566904545,0.005611883942037821,0.004422767087817192,0.004503211006522179,0.0017521685222163796,0.003093879437074065,0.005592025350779295,0.005348416976630688,0.0036970467772334814,0.003041676478460431,0.002295750193297863,0.005800824146717787,0.006694081239402294,0.00668703718110919,0.002532675862312317,0.0042371321469545364,0.0036192871630191803,0.005693146958947182,0.005305221304297447,0.005592025350779295,0.003293373389169574,0.0053320638835430145,0.005847960710525513,0.0028828266076743603,0.002871086588129401,0.004781135357916355,0.003825145773589611,0.004627069924026728,0.0023614249657839537,0.005431066267192364,0.003021662589162588,0.003972165286540985,0.005614156369119883,0.003563088132068515,0.0061754100024700165,0.0034144152887165546,0.0039641596376895905,0.003310395171865821,0.0027882542926818132
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+If it seems like a good idea to play with squishy goo then you must have kids!
+No one in their right mind would otherwise knowingly pay to bring in a product into the house that is sticky and leaves a mess.However, kids love this stuff and play with it for bath time.
+There seems to be no end in sight of the kind of disaster this leaves.
+It doesn't stain per se, but you must be quick about removing all the residue in the bathtub and cleaning it up immediately to avoid staining of the tiles and/or tubs.A little bit of entertainment goes a long way, so even with the mess this is a fun kit.
+I wouldn't suggest buying it every time for bath time, but as a fun diversion once or twice, it's worth the clean-up time.
+It started with squeals, giggling, riotous laughter and a big blue tub.
+As soon as the crystals hit, the dye colors the water a really cool sea blue.
+The crystals start out pretty small, and as they soak up water they expand.
+I used about four inches of water and one packet, which resulted in definite squishiness, but the consistency was more water with bits of gooey crystal mixed in.
+Not quite the goo the ads lead you to believe.
+And boy have my children fallen for those ads - they have been begging for this for literally months.Ten minutes in, one child was still squealing.
+The other had decided it was creepy and wanted out.
+We now have a blue footprint on our tub-side mat.
+From the package it looks like the dye is like food coloring, so fingers crossed it washes out.Ten more minutes, and both kids are done.
+The instructions say to wash thoroughly after, so into the shower they went.
+In went the dissolving goo.
+I stirred, I waited ten minutes.... the crystals were smaller but definitely still scary.
+At this point I flashed back to reading reviews on this product a few months ago, and why I had not previously bought it for my beloved kiddos.
+I dumped in a cup of salt, stirred, waited another ten minutes... no change.
+In an attempt not to bucket it all out of the house or ruin the septic and the drain, I put some cheesecloth in the bottom of the tub, locked the kids out and waited with more fingers crossed.
+About 90 minutes later, I have three cups of nasty crystals and a slightly blue tub.So, bottom line, kids LOVED it for the most part, and that is why I gave it two stars.
+"The thing is that I knew this was a bad idea.
+I saw the commercial and I just knew that anyone who actually purchased this must be out of their minds.
+I refused.
+I was going to stand my ground despite my daughter begging me to buy her that thing that would turn her bathtub into a swamp or outer space or whatever.
+Then, Vine offered this to me and for a split second I went brain-dead and then I wound up with this box of goo on my doorstep a few days later.
+My children were both ecstatic, but my wife gave me this look that said ""you make a mess in my house and I'll cut you"".This was a disaster.Balk all you want and say ""follow directions"" but honestly, I think the five star reviews are coming from people who have yet to try this messy gunk and just assume that the directions will make a difference.
+They don't.
+I followed them.
+But, aside from the fact that it is extremely messy, it isn't even that fun.
+It feels rather disgusting and my kids lost interest relatively quickly.
+Sure, they had fun for a few minutes pretending to be in all these strange places, but honestly they could have done the same thing in plain water.
+Getting them clean afterwards was ridiculous.
+The granules stick to the skin and are almost impossible to scrub clean.
+The dissolving salt (which is all it is) does a shoddy job of working and so I wound up having to actually scoop this gunk out of my tub and into a trash bag, which only led to a complete mess in the bathroom.
+It took me close to an hour to get it cleaned out.
+In other words; I'm lucky my wife didn't shank me when I got to bed.I would never, ever, ever use this again, and I would never recommend this to friends.
+Squishy Baff Bath Kit Blue is a supposed means for aquatic fun.
+Kids usually love anything that lets them splash around and a product that adds goo and color to water is likely to be a hit with most youngsters.
+This powered product seemed like a great way to add fun to the bathtub or wading pool, so I went ahead and accepted a chance to try it.My girls love the water as much as any young kids do, but after one experience with Squishy Baff Bath Kit Blue, I don't think we will be using it again.
+The first problem we had with this product is the goo.
+There was no gooey texture, as promised, and even after adding the remaining powder, there was still no goo.
+We followed the instructions, but it didn't work.
+Our tub is not that large, so I can only conclude that the product's labeling is misleading.
+I am not sure what ratio of water to powder is necessary to make this work, but it is obviously something unrealistic.Absent the goo, we were left with nothing more than blue colored water in the tub.
+This might seem fun all by itself and certainly better than nothing, but my girls felt differently.
+The goo was really the main reason they wanted to try this product, but it didn't exist.
+Absent any goo, a regular bath with ordinary clear water would have been preferable.At this point, there was nothing left to do but add the dissolving powder and wash eveything down the drain but once again, there was a problem.
+We didn't really need for the dissolving powder to dissolve the goo because we didn't have any goo, but we went ahead and added it anyway, hoping that it would help with washing the mess down the drain.
+In fact, it did nothing to help and the blue coloring would not remove itself from the walls of the bathtub.
+We were forced to scrub it by hand and, as one might guess, we also had to scrub the blue color from the kid's bodies.So, in summary, Squishy Baff Bath Kit Blue is a product to avoid.
+It doesn't work as promised and it ended up taking more time to clean up than expected.
+It sounded like a product with some promise, but it turned out to be a dud and a product experience I am happy to put behind me.
+My kids love bath time, especially because they get to play around a lot.
+After seeing the Squishy Baff, I figured this might be a fun way to increase the fun level.
+On paper, it seems like it's pretty easy to do and it's pretty mind blowing for a kid to see their tub change from water to goo.
+You need to follow the directions carefully so that you don't end up with a huge mess.
+That's where the price of the fun starts to outweigh the fun you get with the product.
+The pack came with enough for two times but my kids lost interest pretty quickly after the first one.
+I think we'll be sticking to water in the tub from now on.
+Oh my gosh, this is just so cool!
+I'm willing to overlook the fact that we ended up with slippery chunks of blue goo all down the hallway; I'm willing to look the other way and not even consider that Sodium Polyacrylate (the stuff inside disposable diapers) is a synthetic, as is FD&C; Blue 1.
+Because this stuff just makes kids so happy!I could see a big vat of this used in a preschool for the sensory table.
+I suppose you could lure a kid who hates taking baths into having a bath, but you've got to understand that Squishy Baff is not going to get your kid clean; it's going to get your kid slimy, blue and salty (when you add the Sodium Chloride to liquify the gel), and there will be an awkward moment or two when the kid waits unhappily for the bath to drain so you can shower her off.Nonetheless, if you've ever thought it would be fun to wallow in a vat of Jell-O, now you understand.
+If you want to treat your kids to a fun sensory experience, here's one way.
+This would make a great passive-aggressive birthday gift for any kid you know whose mom is uptight about neatness.
+It would just expand the boundaries a bit.
+Love this!
+You have been warned.
+This stuff is a disaster you have to do on purpose!
+It can stop up your tub and god only knows what it does to your plumbing further down the line!
+"My 4 year old daughter had a solid 15 minutes worth of fun in the tub with this blue goo.
+My five-year old son would not go near the stuff - he found it ""disgusting"".I followed the directions and put approximately 2 inches of water in the tub, added the blue goo powder, and mixed.
+My daughter helped mix by wiggling all over the place - she really had fun with the stuff.
+As far as cleanup goes, it was a snap - I just dumped the enclosed salt packet into the blue slurry, mixed, waited until it had thinned out, and washed it down the drain.
+There was no staining and no clogged drains.
+I would not, however, use this product in a tub that drains slowly - the goo will potentially clog a partially obstructed drain pipe.I did, however, have a little trouble getting the goo out of her hair, albeit not too much trouble.
+Evidently, the blue goo is composed of the same material found in diapers, so getting the individual particles out posed a brief inconvenience.
+My solution was to just have her stand under the shower head for a bit until everything was washed outThe only drawback that I can see is that while the entertainment value of the blue goo is high, it is short-lived.
+This is a novelty item, pure and simple."
+"I was a little hesitant about this product, but figured I'd go ahead and give it a try.
+It wasn't quite as bad as I thought it was going to be, and actually turned out to be quite fun for my almost-5-year-old.
+I wouldn't quite call it ""goo"" per se, but more like those jelly-like crystals that you sometimes see in flower arrangements....and they also make a kitty litter with this type of wet crystal.
+You dump an envelope into the bath water and it slowly turns into this blue goo, then dump another packet into the blue goo to turn it back into water.
+We started to get impatient waiting for the goo to turn back into water, so we just washed the goo down the drain and refilled the tub.
+We didn't have any problems with the plumbing after doing this, either.Overall, this product is a lot of fun.
+And in case anyone is interested, as I was, this product is made in England.
+No unknown and potentially toxic Chinese chemicals here!
+:-)"
+Squishy Baff is basically a diaper in a pouch; the primary chemical, sodium polyacrylate, is the same one that soaks up the wet stuff in diapers.
+If you've ever dipped your wee one in a pool and saw the diaper swell up and then burst, this has the same consistency as the stuff you found inside the diaper.
+That's because it IS the same stuff, of course.
+And yes, it can be messy to clean up, hence some tips.
+I had a successful bathtub experience by doing the following:- Make sure to read the instructions carefully before starting, especially with respect to how much water to put.
+That way the consistency comes out just right.- Keep your kids from getting the Squishy Baff out of the bathtub (or kiddie pool, if that's what you're using) since it's hard to pick up.- If the consistency is right, the Squishy Baff will absorb almost all the water.
+That means that when it comes time to dissolve it using the dissolver (sodium chloride a.k.a.
+table salt), the salt won't go into solution.
+It's like sprinkling salt on marbles; it won't soak in.
+So, even though the instructions don't say it, just add water first.
+The excess water will dissolve the salt and let it get all around the granules.
+After about five minutes, maybe less, of stirring the bathtub a bit and then waiting, about 95% to 99% of the granules had dissolved.
+And like the instructions say, the rest go right down the drain along with the rest of the mixture; which by this time looks like tinted water.My boys, 2 and 4, had a great time with Squishy Baff and I would use the product again.
+This stuff is cool!
+It basically makes blue slime.
+It's a ton of fun to play with and it doesn't leave you or your kids looking like a smurf.
+We put it in a small kids pool in the backyard and they played in it like a sand box (slime box) all afternoon.However the clean up was a nightmare.
+We dropped the second solution in but all it did was change the color of the slime back to clear...
+The slime never really went away.
+So we ended up with tons of clear slime all over our backyard.
+Did I mention that slime is slippery?
+We were slipping all over the backyard until we finally got tired of it and removed the slime via several plastic bags.Glad I didn't try it in the kids tub, though I'm sure it would have slid down the drain, I have a hard time imagining that it wouldn't have slowed things down for a while.
+It's a lot of fun, but it's also a lot of clean up.
+I think we will use it again for outside play and add a slip-n-slide to the process.
+Overall the Squishy Baff Bath kit was an interesting concept, but in execution it freaked both of my daughters out a little bit.
+The idea is simple, put a packet into the bath and have it turn into a squishy mixture.
+Put another packet in after that and have it return to normal bath water.
+The first packet worked great, the water turned into a blue squishy mixture.
+My oldest daughter (2.5 yrs old) did get used to it eventually and actually enjoyed it.
+The biggest issue that I had was that the second packet did not dissolve the mixture... so we were stuck draining all the water out of the tub and starting all over again.If you have older kids, they'll probably get a kick out of it.
+It's a fun little science lesson and all the ingredients appear to be safe.
+Essentially in agreement with all other 1 star reviewers and their experiences, I will not repeat all the negative factors.
+This product is not as much and easy to use.
+You can follow directions from the box and still won't get the squishy gel.
+More than that, such products should be easy to use and a bit more intuitive by design.
+Squishy Baff is a neat and creative way to get kids to want to take a bath and have some fun.
+My niece loved playing with the little blue bath balls in the tub.
+She thought it was so cool that her bath water turned into squishy little balls just like that.
+She was having so much fun that we had to force her out of the tub.
+With that being said the clean-up is not as fun as the squishy baff itself.
+As others have said even if you follow directions step by step this stuff does NOT dissolve all the way.
+I got most of it to dissolve and then I scooped the rest into a trash bag instead of letting it go down the drain.
+After all of the fun I made my niece get a normal bath and get cleaned up from the squishy baff because you can't call that a bath with all those little blue balls.
+My niece had a lot of fun so I didn't have an issue with the clean up process.If you are looking for a new fun thing for the tub then I do recommend squishy baff.
+The reason I gave this product 3 stars is because the product did not dissolve all the way as advertised and I had to give my niece another bath after she was finished playing with it.
+For the price it is a fun way for kids to enjoy their bath.
+My little granddaughters had a wonderful time playing with this gooey stuff, which mixes up easily.
+The solution that's provided to dissolve it also works well.
+But the girls did spread the blue ooze all over the tub, so it took more than a quick swish to remove all the traces.
+I'm not sure whether the chemicals in this product are harmful to the environment or not, but no harm has been done to our plumbing.
+Squishy Baff Bath Kit - Blue.
+This was so much fun for our grand kids and the adults too.
+I was a little afraid to use it in our bath tub so we put it in a small kidde pool.
+It was so much fun watching it get thicker.
+The kids climbed in and played for a long time and did not want to get out.
+They were so amazed to watch it get thicker and even more amazed when we poured in the step 2 and watched it dissolve.
+It did not stain the kids or their swimsuits at all.
+We saved some in a bucket for them to play with for several days later.
+I would recommend trying this with your kids.
+It's weird and goopy and my 6 and 11 year old loved it.
+If we had put it in a kiddie pool or bucket outside, I would have loved it, too.
+As it is, we're left scooping the undissolved mess out of our tub and hoping the drain won't be clogged.
+We also had to take goopy kids through the house to the other bathroom to rinse them off.
+Again, if we'd done it outside, we could have just used the hose.
+My kids were so freakin excited to use this.
+I only filled tub a 1/4 full, just in case.
+So, the kids had a ball in blue goo.
+I washed and rinsed them in the shower after.
+Was hard to wash away, cause it left a film.
+Did not stain skin.
+However, the deactivator did NOT work.
+It turned the stuff from goo to a thin Jell-o.
+Did drain--very slowly.
+Had to clean the tub to get the blue residue off.
+Honestly, I wouldn't even use this in a pool.
+The remainder went right in the garbage.
+I can't wait to hear of all the people who may sue cause a plumber had to be called.
+Since this kit came with enough for 2 baths, I thought I would try it first in the real bath tub-HUGE MISTAKE!
+I followed the directions exactly (putting the correct amount of water, etc.)
+and when I put the deactivating agent in, it didn't work, so I ended up having to water it down and wait it out.
+I decided to use the second batch in a baby pool outside-that was a MUCH better choice!
+The jelly still worked as well and the clean up was SOOOO much easier (I just dumped it in the grass and hosed it down and it didn't kill the grass!
+)My kids (1 and 3) REALLY enjoyed playing in it-it creates a jell-o like so it's fun to play with sand toys (sieve, bucket, shovel, etc.)
+Overall, it was OK once, but I don't know that I would get it to use again, it was a lot of mess and work for something that fun.
+This product is absolutely horrible!!!
+I followed the instructions to a T and all I got was a bath tub full of blue water and clear squishy goo.It was nothing like I expected and the deactivator did not work at all.My kids were left with clear gel all over them and had to shower just to get it off.
+Everything was just one big mess and I would never recommend this to anybody.
+I am giving and update to this review because now I'm just grossed out ---For one -- the Squishy Baff was just watery and the kidlet played in it and then it stuck to her so we had to go take a shower.
+That is fine -- but then I tried to dissolve it.
+They said just sprinkle the white package on it and it will dissolve.The STUFF is still there 24 hours later.
+I tried to drain the baby pool and it got EVERYWHERE.
+I've been hosing off my patio for hours and the stuff will not go away.
+I'm going to have to get the shovel and put it all in a -- I guess a garbage bag!!
+I am SO GLAD I didn't use this in the tub and had the sense to just use it in a baby pool.
+But, still the stuff that got on the patio has made it all slick.
+Ridiculous product.
+You might as well just let your kid play in a mud puddle, they'll have more fun and it will be easier to clean.--Earlier Review---We used the Squishy Baff in a baby pool, hardly filled and the consistency is not exactly what was shown on the infomercial.
+The product while blue looking was just a gritty clear substance when handled.
+This product might have been more effective with about four or five packets, but by just using two packets it was still watery even though we did follow the directions as far as water too goo ratio.
+One packet is supposed to make about 8 good goo gallons.
+I probably put about twenty gallons of water in the kiddie pool, so I expected it to be a bit watery, but it was really watery.
+Then on top of that it didn't dissolve like it said it was supposed to.
+It dissolved slightly, but nothing significant -- the whole poof back to regular water, like is shown in the commercial.
+"I wouldn't recommend Squishy Baff to anyone.
+We added one package to a bathtub 1/3 full of water.
+The water didn't completely set into ""Squishy Baff"" it was half set at best.
+I'm not sure if the bath needed two packages because my son didn't like the goo and wanted out of the tub.
+After I pulled him out and cleaned him off.
+I tried to dissolve the Squishy Baff with the provided packets.
+One package didn't completely dissolve the goo so I added a second and even that didn't completely dissolve the goo in the tub.
+The two packets did dissolved the goo enough to get it down the drain and we haven't seen any problems draining the tub since."
+"Yuck!
+This stuff makes an unimaginable mess.
+First of all to achieve the level of goo as described in the instructions by gradually adding water is does not take into consideration the users of the product - children.
+My grandkids, 10-year old girl and 3-year old boy, dumped both pouches in the tub and kept adding water, lots of and lots of water.
+The result was a bathtub full of gelatin marbles, which stuck to everything and I do mean everything - kids, floors, fixtures, pets, walls, towels, rugs, carpet.
+The 10-year old was grossed out.
+The 3-year old said it felt like a wet diaper - and he would know.If this slime is ""environmentally safe"" I'm a monkey's uncle.
+The dissolve solution doesn't work.
+The bathtub drain clogged.
+I used 2 pounds of dead sea salt and still had to scoop out about 2 quarts of goo and use drain cleaner.I notice that some people recommend using this stuff outside.
+But why would you even want this crap on your kids' skin?
+Or risk your pets getting into it.
+Or getting it on your grass.
+I can't imagine how you would dispose of it.
+And I can't possibly recommend this stuff - unless your idea of fun is making a huge mess and spending the rest of the day cleaning it up.
+I think they should take this stuff off the market."
+"TWO THINGS -First - read all directions and follow them to the ""T'.
+This eliminates ALL problems that any purchaser would have with this fun and cool product.Second - Pour it in and HAVE LOADS OF FUN!My granddaughter was very nervous to use this product.
+For one, she has SUPER SENSITIVE skin.
+This product turned out to be a great time with no after effects!
+It's made from the same product that is used in disposable diapers, only colored.
+There was absolutely no messy clean up as the dissolver worked like a charm after I was able to pry my granddaughter out of the bath after 2 HOURS of playtime!
+Rinsed right down the drain with nary a bathtub ring!There are two squishy baffs to a box.
+This is a fun, safe and easy product to use!Happy Bathing!"
+"No, I didn't mean for that to rhyme.After reading all the reviews, we decided to do this outside in a little wading pool we bought.
+I didn't want to risk it mucking up my baths.My husband set the pool up and our kids-ages 4 and 8-along with our niece set about waiting for the water to 'gellify.
+'""How long does this take?""
+Our 8 year old asked.The directions say 5-10 minutes, but it seems to go a bit quicker if you mix it up with your hands.
+By the time the gel was where it was supposed to be, it looked like a diaper had exploded and the kids thought it was awesome!
+They scooped up handfuls of the stuff and squished them between their fingers and toes.
+It looked like blue jell-o that didn't quite set up.It didn't hold their attention for long, they preferred the slip and slide, so we set about dissolving the stuff.
+Again, it seemed to work better if you manually mixed it in.
+It didn't completely 'turn it back to water,' but it dissolved it enough that it doesn't look like a pack of Pampers exploded in my yard.This is definitely an 'outdoor' toy, while I think the dissolving salts did the job well enough that most of it would drain, you will still be left with little granules in your tub, and that isn't my thing.On the other hand, at this price point, this isn't necessarily something I would buy my kids, especially when they had more fun running through our sprinkler and spraying each other with the hose."

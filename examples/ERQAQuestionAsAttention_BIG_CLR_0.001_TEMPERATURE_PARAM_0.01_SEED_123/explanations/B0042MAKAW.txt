@@ -1,0 +1,179 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+The frames per second are so low that any movement at all results in blurring.
+If you don't then I feel it's reason enough to buy one."
+They get a real kick out of it and the worse the picture, the more they laugh.
+The box also mentions being able to print photos.
+I have pictures of the ceiling with graphics on it.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.0037363397423177958,0.008342287503182888,0.00576118566095829,0.0025151611771434546,0.008192271925508976,0.00792695116251707,0.003414268372580409,0.00829336978495121,0.005685730837285519,0.006512188818305731,0.00517575116828084,0.0076174247078597546,0.004339649807661772,0.006986766122281551,0.008395095355808735,0.00901756715029478,0.00824034120887518,0.006355431862175465,0.008634737692773342,0.004665119107812643,0.0036579498555511236,0.007959446869790554,0.009046153165400028,0.005042477510869503,0.008882411755621433,0.0039003530982881784,0.003328094258904457,0.005167272407561541,0.004437151364982128,0.00451271329075098,0.005733983125537634,0.0061203050427138805,0.007772137876600027,0.009139996021986008,0.008750335313379765,0.004746160935610533,0.008984412997961044,0.008457235060632229,0.008643546141684055,0.007971387356519699,0.007213381584733725,0.004008360207080841,0.006911160424351692,0.006381864193826914,0.006223529577255249,0.003596236929297447,0.010045021772384644,0.004117093980312347,0.003739279694855213,0.004376598633825779,0.00364878517575562,0.004712711088359356,0.004435683134943247,0.004769716877490282,0.004175106529146433,0.003049887251108885,0.0036058160476386547,0.007981492206454277,0.004273626487702131,0.002778841881081462,0.006370659917593002,0.005018995143473148,0.00479374174028635,0.006219664588570595,0.009377893060445786,0.006726090330630541,0.006905116140842438,0.0035005337558686733,0.008292905054986477,0.005910066422075033,0.008392047137022018,0.009657741524279118,0.006497357971966267,0.007243752479553223,0.009957234375178814,0.004850899800658226,0.003378038527444005,0.008311988785862923,0.0059439800679683685,0.006981920450925827,0.007277908269315958,0.003067870857194066,0.007828383706510067,0.0029306234791874886,0.007229175418615341,0.004113418515771627,0.0076119862496852875,0.0027932042721658945,0.007420556154102087,0.002982702571898699,0.0031948047690093517,0.006692202296108007,0.006167665123939514,0.0059989322908222675,0.004636245314031839,0.006636477075517178,0.006834860425442457,0.0030674850568175316,0.007151976227760315,0.007777126505970955,0.0031469783280044794,0.0022928216494619846,0.00628564553335309,0.0033067602198570967,0.006951524410396814,0.0023203957825899124,0.007102127652615309,0.008603408001363277,0.002777915680781007,0.008441802114248276,0.007892689667642117,0.003996189683675766,0.002494014799594879,0.006332850083708763,0.004796294029802084,0.003612011903896928,0.003117844695225358,0.007804862689226866,0.006221877411007881,0.004239031579345465,0.00801130197942257,0.0070470473729074,0.005477073136717081,0.0050966073758900166,0.003465816145762801,0.008246746845543385,0.006879526190459728,0.009139359928667545,0.006736446171998978,0.008704070001840591,0.0046418034471571445,0.006446614395827055,0.008821613155305386,0.005275865085422993,0.00496822502464056,0.007687015924602747,0.007802160922437906,0.007717825938016176,0.009114615619182587,0.004907432943582535,0.004192480817437172,0.008044421672821045,0.00466350931674242,0.005767081864178181,0.006213880609720945,0.005121082998812199,0.005095087923109531,0.004998927935957909,0.008765206672251225,0.008154008537530899,0.004753754008561373,0.008563388139009476,0.007697314955294132,0.006200830917805433,0.006987219676375389,0.00735432468354702,0.0030619376339018345,0.005841952282935381,0.009731532074511051,0.004136852920055389,0.008978135883808136,0.011181015521287918,0.008722326718270779
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+Let me start by saying my 5 1/2 year old daughter LOVES her Leapster Explorer... She wants to play it all the time (as does her 3 1/2 year old brother).
+We have a hard time getting her to put it down.
+That said, this review is SPECIFICALLY for the camera and video recorder attachment, which isn't quite as delightful.
+(note that many of the posted reviews are NOT providing separate feedback for the camera/video attachment, which you purchase separately).The camera video attachment is a bit cumbersome.
+You must unscrew a panel on the bottom and plug it in.
+Make sure you do not lose the screw and plate (in this day and age, isn't there a more elegant solution than two separate pieces you can lose?).
+you plug in the attachment which becomes a protrusion on the device..Pros:  Photos can be edited and manipulated, she's intersted in using the camera attachmentCons:  must unscrew a panel to connect the camera (and you might lose the panel/screw), no flash, only 680 x 480 resolution (terrible), video is choppy, very little memory (a short video and 17 pictures filled it up), not that easy to use (the menu navigation on the Leapster, in general, is not completely intuitive compared to, say, an iPhone.
+My daughter has a much easier time on an iPhone or iPad).All in all, I wish they had integrated the camera and charged us $20 more (and possibly thrown in a flash?).
+In the meanwhile, I'd suggest that you let your child enjoy their Leapster Explorer and get them a separate, durable camera, like the VTech KidZoom Digital Camera.
+You'll spend $20 more, but will avoid a lot of inconvenience.
+"First, I would like to say that the add on camera set up was very user friendly.
+My kids were just shooting pictures right away.
+One thing I found AMAZING is that it has a section called ""FEELINGS"".
+So my son shot pictures of himself according to what the camera asked, for ex Angry, Sad, Happy, even Disgusted!
+which I thought was too funny.
+I am grateful that I was able to test it.
+I usually don't purchase add on for games but I promise you will not be disappointed.
+I'm even bringing this to my office (I'm a child therapist) as the ""feelings"" section is excellent for nonverbal or painfully shy children and as a great way to establish rapport in play therapy.
+It has only one drawback (Nothing is perfect!)
+No flash?
+Considering the price and creativity they could have added a flash.
+Even photos taken in dim light will not show up."
+"This was a gift for our almost-four-year-old daughter for Christmas.
+The Explorer and the camera were all part of the gift, so she has spent this time getting used to it and checking out some of the different features.
+By far, her favorite feature is the camera.
+She primarily uses the camera for photos, rather than videos.
+It's very easy to use - both getting to the camera, using it, and exploring the photos taken.
+After one explanation, she's a pro.
+She was particularly thrilled when she realized that the photos could be uploaded from the explorer to the computer when attached by the USB cable.Of course, the photos are not the best quality - but I wasn't expecting a lot from a game system for young children.
+There is a fair amount of delay after the button is pressed before the photo is taken, so the biggest challenge for our daughter has been learning to stand still for those extra seconds in order to get a photo that she actually recognizes.
+She has turned into quite the critic, deciding which ones are ""terrible"" and which ones are ""really good"".For what it is, and for the age group, it's a great add-on.
+It's sturdy, stays in the system with no problems, and is incredibly easy to use.
+Well worth the price!"
+"This is so much more than just a camera.
+There are games that are both interesting, challenging, and educational.
+(Yea, I know...) There are several ""aret"" programs, there's a story creator that stresses imagination and reading.
+It took me almost an hour just to ""touch"" each option.
+A youngster will be kept entertained for hours at a time.
+Also, the more familar a child becomes with the games, tools, and features, the more there is for them to do.
+The cartridge even provides assignments to increase the interest.
+By the time your youngster is ready for a real camera they'll have had experience in taking photos, editing them, and integrating them into stories, cards, and other projects.As a camera it isn't all that bad.
+It works well enought in low light and very will in well lit rooms and outside.
+The two things I wold like to see are a reflective surface on the camera side to help with self portraits and a convenient way to prop up the camera for taking ""self videos"".
+(Since the camera is on the bottom the best way to stand the unit up is upside down which means the vidoe will be upside down as well.
+)Durability of the camera is commensurate with the Leapster; it's very good.
+Once inserted the camera is fimrly attached and not likely to accidently fall out.If you already have a Leapster Explorer then this addition is an excellent value.
+If you don't then I feel it's reason enough to buy one."
+The camera is an interesting addition to the Leapster Explorer.
+My kid loves to play with my cellphone or digital camera to take random pictures, so this seemed like a good substitute for him.As a practical matter, this accessory is not that big and fits snugly at the bottom of the Leapster Explorer.
+The quality of the pictures and videos are decent, and for purposes of your kid taking pictures or videos this seems to be sufficient.
+The other thing I liked about this accessory is that taking pictures or videos is fairly straight-forward.
+There is a brief tutorial when you first use the camera/video recorder which is very helpful.
+My 3 year old is comfortable in using a mouse and surfing the NickJr website -- she's young for this toy but loves the controller interface.
+We downloaded an ebook, which has pictures, and reads text while highlighting it - a good way to teach her what the sound of the word and what it looks like.. in a way that she will enjoy it.
+This video and camera attchement takes real pictures (up to 1000) and about 5 minutes of video.
+The interface is simple and intuitive and something that will give my daughter hours of fun and will grow with her.This toy thankfully connects to our computer with a Mini USB to USB cable, soemthing that is easily replaced for $2 on amazon with any standard cable.
+With that connection, you can update the software, add more, etc.the device is built to survive, but I'd keep it away from her little brother... the touch screen isnt indestructible and the camera attachment isn't permanently attached.
+Great concept..
+I look forward to her fun and education and creativity of her use of the camera and its editing and framing tools.
+I ordered this camera and video recorder to go with my sons'LeapFrog Leapster Explorer Learning Game System (Green)so my sons could play taking pictures.
+I have been pleasantly surprised at how nice it is.Let me say that the picture quality is not that great but the extras that come with it are fantastic so not only are you getting an accessory that takes pictures and video but it has activities that are as good as the Explorer games that are sold.It has a Fun Lab where you can do an assortment of activities.
+You can make greeting cards featuring the photos they take, makes stories with their own voices and pictures inserted, stamp, write and add effects to the pictures.
+They can create puzzles with their pictures and play Zapped, a video game where the Hero and the Bad guy can be your child's picture.They absolutely love it and so do I!The photos can be transferred to your computer too.
+My 2 1/2 year old daughter looooves the camera.
+She had been playing with ours for quite some time until it broke.
+Now that she has her own, our new camera is off limits!
+:)  The quality of the camera is good and she can operate it without our help though it took a week of showing her how to use it.
+Great fun and if you already have the leapster explorer, this attachment is a bargan!
+My 5 year old son and 2 year old daughter fight over this item every day.
+They are always trying to outdo the last picture taken and my wife and I have to be the judges.
+I never could have imagined the thought that they have when they take a picture.
+I have pictures of the ceiling with graphics on it.
+I have pictures of the back side of our dog with glasses and a beard.
+I even have a picture of my shoe filled with what could only look like garbage.
+They get a real kick out of it and the worse the picture, the more they laugh.
+If nothing else, this is good to keep them busy rather than begging to watch TV.
+My 5 year old son is glued to his Leapster Explorer as often as he can be.
+It's a great device.
+He's learned a lot with the games and other features it offers.
+Adding a camera/video capture option to the Explorer is a great idea.
+It certainly can be educational, but the educational factor is probably a little above my 5 year old.
+He definitely knows how to use it and fills up the memory constantly with pictures and videos of his stuffed animals.
+It's just not as exciting to him as the rest of the Explorer.That being said, the quality is decent and it seems to be able to store a decent amount of data before it fills up.
+Don't expect a high-quality HD video coming out of the camera, but it's probably on-par with some of the current cell phones that don't tout an HD video camera.All in all, a great additional accessory for the Leapster.
+If you have a child and they love taking photos, this is a great way to add to the ability of the Explorer.
+LeapFrog Leapster Explorer Camera and Video Recorder is an awesome toy for kids who love anything to do with a camera.
+Kids can take photos  (and videos!)
+of themselves and their family, their home, their pets, etc and then edit them in fun kid-friendly ways.There is a bit of setup  needed for the adults in the family, but the fun the kids have with the LeapFrog Leapster Explorer Camera and Video Recorder is well worth that effort.The toy is very durable, takes good photographs and videos, and has an almost unlimited fun-factor.
+For the price, this is a good value.
+the Leapster Explorer Camera and Video Recorder is an ADD ON to the Leapster Explorer (sold separately).
+The attachment screws in to the bottom panel of the Leapster Explorer and turns it into a video camera/recorder that even has with photo editing/enhancement capabilities (can draw on your pictures, stretch and manipulate them and play a few basic games with the images).
+Because you need a screwdriver to attach/detach, this will require parental superversion.
+You will need to detach the accessory each time you put it away as it will not fit into the leapster carry case with the camera attached to the base.
+So, not super user friendly, but it's not a huge deal.The accessory is easy to screw in and once attached, you're basically ready to start snapping pictures.
+My only criticism of this product is that the camera pictures are not great quality - there is no flash, photos aren't super great for printing and saving... but then, it is designed more as a toy and not so much as a camera.
+My son did enjoy turning his shots into silly pictures and games.My son first got his Leapster when he was 3.
+The Leapster Explorer is a great game for kids to grow with.
+There are different game cartridges for different age and skill levels and like most Leap Frog games and toys, this game can really grow with your child and hold his/her interest over time.
+This latest add on is no different.
+Would recommend for maybe 5-7 age range.Overall, we liked this camera feature in the Leapter.
+As a video gaming/software product, Leapster in general does seem more suited for younger kids; especially now that the Ninteondo DS has a camera included as well -- older kids will likely gravitate towards a DS like system over the Leapster.
+But overall this is a fun add on, and if you already have a Leapter Explorer, it is a nice accessory without spending too much money.If you don't have a Leapster yet, and are choosing between Leapster vs something like the Nintendo DS, consider the age of your child and the kinds of games he/she is going to want to play as well as the camera features of each product.
+Leapster just feels more educational and kid friendly to me... but the DS system has more games, better camera, online capabilities, etc.
+The CAMERA AND VIDEO RECORDER ATTACHMENT for the LeapFrog Leapster Explorer system was the perfect Christmas gift for my 5 year old daughter.
+She has been asking and asking for a camera of her own.
+And this neat little gizmo really fits the bill.The Leapster CAMERA AND VIDEO RECORDER ATTACHMENT is extremely simple to use:  just unscrew the cover-plate on the Leapster, attach the camera, and go.
+My husband did the unscrewing and attaching, and my wee one took it from there.
+The next thing I knew, my child was taking videos and photos, replaying her videos, editing and drawing on her photos, and much more.
+The camera software was preloaded on the Leapster, and my five year old had no problems at all figuring out how to activate it and use.
+I did absolutely nothing to assist her; she figured it all out by herself.
+In about three minutes.
+I have no idea how the thing works, and she is directing her own films and photo shoots.
+Such a smarty-pants!The quality of the photos and videos taken with the Leapster CAMERA AND VIDEO RECORDER ATTACHMENT is very good in bright light, degrading (as expected) in dimly lit rooms.
+There is no zoom or flash, so bright light (indoors or out) works best.
+The CAMERA AND VIDEO RECORDER ATTACHMENT does have a microphone, and it has been capturing my daughter's tiny voice quite well.
+The camera attachment itself is sturdy and well protected, and should last quite awhile, in spite of potential repeated droppings.My little one is over the moon about this gift and is having a blast with it.
+Clearly, Leapster CAMERA AND VIDEO RECORDER ATTACHMENT is super easy to use (at least for a child!)
+and requires very little adult assistance.
+She is so proud of taking own her photos and videos, and loves showing them off.
+This little cartridge fits the LeapFrog Explorer game system, and turns it into a camera with video capability.
+I would recommend this to anyone whose child has this system, it is inexpensive, yet takes nice images and is very easy for a young child to use.
+I suggest you try to use it outdoors or in room with good lighting to get the best images.
+The sound is quite decent too, and my little grandson, who is three, enjoys playing back his creations and can operate it on his own, after we installed the camera for him.
+There is some editing and drawing features too, which make it a toy that will continue to interest him as he gets older.
+I am still pleasantly surprised at the quality and sturdy construction of this system and camera, and admit to playing with it myself!
+My nephew totally loved this item and can't stop playing it!
+I love it simply because of its educational value!
+Much better than the DS he wanted!
+My 7 year old has been begging for the same handheld game system that her older brothers have.
+Since THAT'S not going to happen, I was super excited to give her this and she loves it.
+It's pretty sturdy (so far), has a nice responsive touch screen that can be activated with both a stylus (which is included and attached by a small, thick string so it won't get lost) or your finger.
+The buttons are easy to figure out, you can choose to have the instructions spoken or turn off the narration, depending on the age of your child.
+The games we were able to try were fun and it looks like there are a lot of different types of games out there for different age groups so it can grow with your child.Other things I liked were that you have a start screen with your child's name on it, but you can include 3 other names if you have more than one child using this system.
+Each child can have all of the setting personalized for them so if you have a 1st grader and 4th grader like I do, they don't have to slog through the others stuff to get to the things they want to play.
+The best part is, when you connect this system to your computer, you can see everything your child has been doing, the games, the scores etc.Now for the camera, it's perfect for a first camera.
+It takes very low-res photos and videos but my girls didn't mind at all.
+Obviously, they quality is better in bright light.
+The camera was super easy to use and they had a blast with it.
+There are a lot of extra settings for funny/creative effects for the photos and videos.
+This is definitely a toy that will get a lot of use and will expand well with downloadable games and books :)
+"The Camera and Video Recorder makes this toy into one the kids can't get enough of.
+The three year old, who was the one I was intending it for, basically takes pictures and totally enjoys doing so.
+She carries it around and asks people to pose for her.Then the seven and nine year old kids tried it and they were enjoying writing the stories and illustrating them with pictures and then drawing or morphing the pictures into some really weird ones.
+The alphabet game was good for two since one was posing in the shape of the letter while the other shot the pic.
+And the storybooks were fun as they ""wrote"" their story and then discussed what pic to take to illustrate it.There are so many possibilities for creativity.
+The Leapster Explorer is a great product as are the ones before it but the addition of the camera/recorder just makes this a must-have item for ages 3-10."
+My kids have iPods so this toy while fun just felt complicatedIt needs to connect to a computer even to get startsThere are special points to buy to download content and the cameraAttachment is not greatOverall my son has more fun with my older generation iphone
+"As a photographer with 30 years experience I'm a bit torn about recommending this camera.
+On one hand, it _is_ a toy.
+On the other hand, it's not that great a camera.If you already own Leapster this is a bargain.
+At about $25 retail (ignore the higher pre-Christmas high prices) this little cam does a lot.
+Picture puzzles, story telling, drawing/artwork over the photos are just a few things you can do with this.
+Once it's installed it's also pretty easy to use by child.With that said, be aware of the drawbacks.
+As others have noted, there's no flash.
+Back in the day you could buy a cheap 110 camera and they all came with a flash.
+It's just about mandatory so this is a major flaw.
+I was also a bit put off by the deceiving outside box illustrations which show a brightly lit child singing for a music video shot.
+This makes it appear the camera comes with a flash when in fact the only way that shot was taken was with existing high wattage lights.
+The box also mentions being able to print photos.
+At such a low resolutions this would be a waste of money.
+And lastly, the video function might as well not even be there.
+The frames per second are so low that any movement at all results in blurring.
+And kids move fast.I think this device is going to be better for younger kids up to about age 7.

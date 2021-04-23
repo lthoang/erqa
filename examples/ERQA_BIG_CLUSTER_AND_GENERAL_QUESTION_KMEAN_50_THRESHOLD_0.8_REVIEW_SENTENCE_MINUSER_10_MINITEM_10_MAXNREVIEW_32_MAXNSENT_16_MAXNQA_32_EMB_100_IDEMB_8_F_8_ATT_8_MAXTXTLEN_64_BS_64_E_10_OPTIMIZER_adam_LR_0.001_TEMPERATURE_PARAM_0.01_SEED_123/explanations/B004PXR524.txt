@@ -1,0 +1,133 @@
+Top question(s):
+what's the measurement when it gets fully assembly?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+My nephew is exceedingly organized when making a lego kit, so I know he didn't lose them.
+I wasn't really interested in the car anyways, so this wasn't a big deal to me.
+However, I would always recommend someone to build with LEGO.
+:-) My son was irked, to say the least when he realized it wouldn't transform, and that he would have to destroy his hard work if he want to rebuild the second option.
+"This review comes from my adult friend who is a longtime building block and Transformer fanatic, and he is raising his children to be the same.
+
+Question attention weights:
+0.7148319482803345,0.0550418347120285,0.11107713729143143,0.11904910206794739
+Sentence attention weights:
+0.01260350365191698,0.004016212187707424,0.005298588890582323,0.0033808231819421053,0.009278788231313229,0.016132956370711327,0.010395380668342113,0.00843590684235096,0.008506983518600464,0.010407148860394955,0.009762214496731758,0.006731231696903706,0.007946000434458256,0.00928582064807415,0.00785528589040041,0.010304901748895645,0.00828560907393694,0.0055348374880850315,0.007879002019762993,0.009519973769783974,0.008987878449261189,0.008754019625484943,0.009269315749406815,0.00905346218496561,0.013580788858234882,0.005314163863658905,0.006938178092241287,0.005142551381140947,0.008008820004761219,0.010351906530559063,0.007040458731353283,0.009519973769783974,0.008785510435700417,0.010503274388611317,0.010118684731423855,0.0023813042789697647,0.009888076223433018,0.01040126197040081,0.009057027287781239,0.009144570678472519,0.011741423048079014,0.005401265807449818,0.009609865956008434,0.00413277093321085,0.008102716878056526,0.009581970050930977,0.01677693799138069,0.009590404108166695,0.008112427778542042,0.005389619152992964,0.009374670684337616,0.0103807607665658,0.014762036502361298,0.008619680069386959,0.010463332757353783,0.0097874840721488,0.009571952745318413,0.009961911477148533,0.007942982017993927,0.007554296404123306,0.00731298141181469,0.009129662066698074,0.01236126758158207,0.010064342990517616,0.008634541183710098,0.023077648133039474,0.008150069043040276,0.013001092709600925,0.009854181669652462,0.01037141215056181,0.005956744309514761,0.006218490656465292,0.009929394349455833,0.008660951629281044,0.00883856788277626,0.009737063199281693,0.01278560422360897,0.007135049439966679,0.011186311021447182,0.009887844324111938,0.010408821515738964,0.009759519249200821,0.009380664676427841,0.007142697460949421,0.009628341533243656,0.008328188210725784,0.009315626695752144,0.006565348245203495,0.009855726733803749,0.00951305404305458,0.009427595883607864,0.006495792418718338,0.008281050249934196,0.01562776230275631,0.014977646060287952,0.005784731358289719,0.009075729176402092,0.008191301487386227,0.01176975667476654,0.005949182901531458,0.010996473021805286,0.007269218098372221,0.010543769225478172,0.0036340602673590183,0.007658475078642368,0.010659471154212952,0.004806308075785637,0.009579436853528023,0.007618684321641922,0.008801420219242573
+0.012464681640267372,0.003171711228787899,0.006784958299249411,0.005873953923583031,0.010655591264367104,0.013284435495734215,0.008634733967483044,0.009941430762410164,0.008163975551724434,0.0066224923357367516,0.008570699952542782,0.0057222056202590466,0.009210344403982162,0.008497252129018307,0.010264694690704346,0.01258923765271902,0.007511901203542948,0.005665482487529516,0.007105943746864796,0.00863510463386774,0.008662138134241104,0.008706835098564625,0.008537796325981617,0.008160373196005821,0.015474938787519932,0.003744823392480612,0.012829191982746124,0.003835647366940975,0.009812998585402966,0.010172490030527115,0.012496599927544594,0.00863510463386774,0.00821808259934187,0.008871704339981079,0.008835543878376484,0.00568888196721673,0.008717117831110954,0.008740047924220562,0.008030795492231846,0.012090232223272324,0.0125596784055233,0.005117055028676987,0.00877314805984497,0.004999273456633091,0.014124578796327114,0.008740199729800224,0.014149144291877747,0.008003299124538898,0.011174981482326984,0.0064367386512458324,0.010799597948789597,0.009554417803883553,0.010977388359606266,0.005541391670703888,0.012886778451502323,0.008553599007427692,0.008569836616516113,0.010441841557621956,0.010496018454432487,0.007660865783691406,0.007715417072176933,0.008299354463815689,0.013183459639549255,0.010725854896008968,0.007119417190551758,0.01870688609778881,0.0074820201843976974,0.011972152628004551,0.008290434256196022,0.01271831151098013,0.006531360559165478,0.0064225951209664345,0.007730426732450724,0.012289868667721748,0.008287638425827026,0.009729107841849327,0.01111795473843813,0.005584307014942169,0.010260853916406631,0.008919318206608295,0.009875094518065453,0.008519208058714867,0.00824664905667305,0.011345287784934044,0.008641775697469711,0.008213942870497704,0.008702676743268967,0.005737298168241978,0.008844006806612015,0.008681719191372395,0.008724340237677097,0.006485681980848312,0.008200081996619701,0.014268909581005573,0.021335486322641373,0.006659905891865492,0.006890027318149805,0.007335533853620291,0.012905152514576912,0.006330662872642279,0.011865620501339436,0.009593802504241467,0.010909128934144974,0.004077645484358072,0.007523263804614544,0.009356806054711342,0.0036028167232871056,0.00880817323923111,0.008307410404086113,0.007733223959803581
+0.011518832296133041,0.004505093675106764,0.00747518427670002,0.006047599017620087,0.011365372687578201,0.012174866162240505,0.009700534865260124,0.009857251308858395,0.008154247887432575,0.008390066213905811,0.00895488541573286,0.00690000643953681,0.00850799772888422,0.008677440695464611,0.010483662597835064,0.01070627011358738,0.008686849847435951,0.006694599986076355,0.007704503834247589,0.008744456805288792,0.00865582749247551,0.008828284218907356,0.00876224972307682,0.00835451390594244,0.014296125620603561,0.004839564207941294,0.01062692515552044,0.004819908645004034,0.008914383128285408,0.009930606000125408,0.009128931909799576,0.008744456805288792,0.008850651793181896,0.01003527082502842,0.009106360375881195,0.00495887640863657,0.00888926349580288,0.009067751467227936,0.008392036892473698,0.00966617837548256,0.011267824098467827,0.005965578369796276,0.008954891934990883,0.005010379012674093,0.010850922204554081,0.008833581581711769,0.013913030736148357,0.008570169098675251,0.010670077987015247,0.006963625084608793,0.011117690242826939,0.009348494932055473,0.012022586539387703,0.007840760983526707,0.012651998549699783,0.008846914395689964,0.009861583821475506,0.010456632822751999,0.009386016987264156,0.008449038490653038,0.008483273908495903,0.00852440856397152,0.012783831916749477,0.009780986234545708,0.00815456360578537,0.016326669603586197,0.0077690305188298225,0.011894671246409416,0.0089541831985116,0.012595292180776596,0.006647964008152485,0.00683886744081974,0.009017042815685272,0.010194282047450542,0.008139110170304775,0.009761368855834007,0.012348734773695469,0.006533690728247166,0.010066254064440727,0.009056353941559792,0.009713535197079182,0.009063486941158772,0.008841998875141144,0.009020165540277958,0.008838786743581295,0.008183110505342484,0.008670464158058167,0.006493970286101103,0.009137984365224838,0.008802637457847595,0.008703896775841713,0.007019207812845707,0.008294225670397282,0.013889554888010025,0.01601853035390377,0.006624425295740366,0.007780489046126604,0.007799967657774687,0.012169258669018745,0.006507977843284607,0.011230750940740108,0.00933944433927536,0.010337630286812782,0.004938355181366205,0.007945128716528416,0.00951974093914032,0.005181122571229935,0.008853000588715076,0.007908809930086136,0.008202040567994118
+0.011552555486559868,0.004484227858483791,0.007365338504314423,0.005898419767618179,0.011296591721475124,0.01229148730635643,0.00970984622836113,0.009778343141078949,0.008206848055124283,0.008459148928523064,0.008977914229035378,0.006912804674357176,0.008436349220573902,0.008688640780746937,0.010383035987615585,0.010744313709437847,0.008669172413647175,0.006611365359276533,0.007706609088927507,0.008765238337218761,0.008681630715727806,0.008797465823590755,0.008775172755122185,0.008368905633687973,0.014279335737228394,0.0048663560301065445,0.010447661392390728,0.0048450808972120285,0.008860396221280098,0.009935703128576279,0.009071636945009232,0.008765238337218761,0.008824522607028484,0.010021630674600601,0.009124175645411015,0.004849709570407867,0.008908472023904324,0.00910377036780119,0.008401364088058472,0.00961119495332241,0.011283171363174915,0.0059396433643996716,0.00896536000072956,0.0049835070967674255,0.0107726464048028,0.008849074132740498,0.01402196940034628,0.008584455586969852,0.01055675745010376,0.006907351315021515,0.011064311489462852,0.009377256967127323,0.012155959382653236,0.007900569587945938,0.012526505626738071,0.008847231976687908,0.009812327101826668,0.010388657450675964,0.009369361214339733,0.00841134786605835,0.008399167098104954,0.008544079959392548,0.0128337312489748,0.009885065257549286,0.008162352256476879,0.01657542958855629,0.007783318869769573,0.011939388699829578,0.008995890617370605,0.012526700273156166,0.006629944313317537,0.006805111188441515,0.009085162542760372,0.01013093814253807,0.008172747679054737,0.009794085286557674,0.012316735461354256,0.006564280018210411,0.010108268819749355,0.009064885787665844,0.009738353081047535,0.00907598715275526,0.008855090476572514,0.00900231022387743,0.008857356384396553,0.008176813833415508,0.008692540228366852,0.0065063778311014175,0.009161175228655338,0.008816559799015522,0.008721072226762772,0.007028872612863779,0.008280807174742222,0.013960655778646469,0.0161006897687912,0.0066019692458212376,0.007852261886000633,0.007816717959940434,0.012213666923344135,0.006507316138595343,0.01124687772244215,0.009294440969824791,0.01033689547330141,0.00491063529625535,0.007933465763926506,0.009566945023834705,0.00519132474437356,0.008884353563189507,0.007924996316432953,0.008231065236032009
+Questions:
+what's the measurement when it gets fully assembly?
+Will KRE-O brand blocks also fit with LEGO brand blocks? My son already has LEGOs and I don't want to get him blocks that won't be compatible.
+Where is it made?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+I was very excited when this line was introduced because my son is such a huge fan of Transformers and I was too when I was a kid.
+However, I was pretty disappointed once we opened the box to start building.KRE-Os fall short of being comparable to LEGO quality.
+The pieces look and feel like Mega Blocks.
+Do not be tricked into thinking you get a lot more pieces in this set compared to a LEGO set because 80%+ of these pieces were plates and not bricks so the pieces are much smaller.Also, the box says this could be used for 7-14 year olds but the difficulty of this build would definitely mean a child should be 9-10 before trying to build this set.I would only recommend KRE-O if your child does not have a line of LEGO sets they would be interested in but they do love Transformers.
+If you only care about saving money and do not care about quality, then I would advise MEGA Blocks as they are a little cheaper.
+However, I would always recommend someone to build with LEGO.
+They are far and away the best building bricks.
+Make your own transformers come to life by building them yourself, it's just too bad that they don't transform.
+This was a lot of fun to build and it took an adult and a child about 2 hours to put it all together, just be warned that this very difficult for a 7 year old boy with an adult helping.
+I feel that the age range should be moved up to 10 years of age for my patience was running thin towards the end but we were very thrilled with the results.
+The directions were easy to follow but be aware of all the tiny pieces!
+At one point I felt like we had lost part of an arm, so it would be a good idea to keep everything in plastic bags until you are ready to build.
+If you have a child who loves to take everything out of the packaging and box, you might need to set some rules about the parts ahead of time or you will be spending  an hour looking for that tiny piece of arm.
+^_^Finale Bumblebee came out just like the picture on the box!
+High quality toy and ready to be played with over and over again, pieces did not come loose even after getting thrown up into the air to crash back down into a barricade of Lego Men who were protecting the castle from the Evil Dino.
+(Kid wanted to play with it immediately after assembly)Please see my Pros & Cons below:Pros:* They are fully compatible with your LEGO!
+Plus they are cheaper in price than LEGO's* Not a cheap looking robot or vehicle but very solid and good quality* Instructions were very easy to follow* Build some family time: We personally found that it created some family bounding time while trying to put it together* Fun to build & fun to play with* Can Build over and over again* Has 2 different forms to choose fromCons:* Could not imagine a 7 year old building this, I would change the age range up to 10-15 years of age* Does not transform except with your imagination* Be very aware of the tiny pieces, especially if you have small children, with 355 pieces it would be a good idea to keep extras in bag for future use
+"These bricks really are the same quality as LEGO, and are completely compatible.
+And they cost less.
+Yay!
+I have learned not to buy Megablocks brand blocks for my kids, but will happily look for more KRE-O sets.This set builds two alternate models -- a robot or a vehicle.
+It does not build a transforming toy.
+It says this clearly on the box, but it would be easy for a kid to assume otherwise.
+My son was a little disappointed when he figured that out, but quickly got over it.
+After all, the two models that you can build are quite cool.The recommended age on this set matches up pretty well with what we've experienced from LEGO.
+The instruction booklet is very similar to the excellent instructions found in LEGO -- there were just a couple of places where it wasn't 100% clear due to lack of contrast between similiarly-colored pieced.
+My 9-year-old son (who plays with LEGO off and on, but isn't a fanatic) assembled the vehicle model in about an hour and half.
+He made a few mistakes that he was able to self-correct in later steps.My son has been enjoying playing with the completed vehicle.
+He's been incorporating it into scenes built with bricks he's already had, adding mini-figs and ""aliens"" and all kinds of stuff.
+So there's good play value here.
+I assume he'll eventually want to disassemble it, and then he's still got the robot to build.
+I like that this one set will give him so many hours of fun."
+This toy is definitely appropriate for the 7-13 age group.
+There were 335 pieces and it took about 1-2 hours to assemble, which is a lot of the fun if your child enjoys building things like mine does.
+What's really cool is that the set comes with 3 characters.
+One major bummer about the set was that the Transformer doesn't actually transform smoothly into the car.
+You have to decide which way to assemble it, then if you want to make it into the car you have to take it apart and start all over again.
+With so many little pieces you have to make sure to keep track of them all, it seems like if you lose one then you are out of luck.
+It looks just like legos, in fact you can't really tell a difference.
+My son really liked how big the assembled robot was, about 8-10 inches tall.
+I was a little apprehensive when I ordered this item.
+Being a longtime Lego fan, it was hard for me to order a product that is a knockoff of my beloved blocks.
+Here are my impressions:The blocks look ALMOST like Legos, but not exactly.
+Each block has a dimple that I'm assuming was placed to avoid some kind of copyright.
+Of course this dimple doesn't effect the quality of the blocks, but they will stand out if you eventually dump them into your Lego collection.The blocks also appear to be made of a different plastic (just slightly shinier) and some piece combinations don't seem to always have the nice 'snap' fit that Lego's do.This being said, from a distance the blocks look indistinguishable from Legos so most likely children won't really notice the difference (or care).The instruction sheet that came with the blocks was huge, colorful, and had plenty of steps which made building the robot a breeze.The Bumblebee, in it's robot form, looks REALLY good.
+I was impressed with the detail on him, but the car was really kind of ugly.
+I wasn't really interested in the car anyways, so this wasn't a big deal to me.
+Note: the robot DOES NOT transform to the car, which the cover picture sort of eludes too.
+You can only make one or the other at a time.As afar as durability goes, the Bumblebee robot has survived the night with my 4 year old, so that means it passes the test with flying colors.
+It's really not as brittle as you would expect such an elaborate creation to be.In conclusion,this set is well built, durable, and fun.
+I recommend it to everyone but the most fanatical Lego enthusiasts who most likely would be put off by the slight differences between the blocks.
+Feels like Cheap Legos.
+Basically, the Kre-O Transformers Bumblebee set is a lego-like toy designed to be built from blocks and then played with.
+The problem is that the blocks while looking like Legos are apparently missing Legos' precision.
+Legos stick together well once stuck together; however, the Kre-O blocks fall apart constantly while being built adding a great deal of frustration to the process of building the toy.
+I would not recommend you purchase this toy.
+I gave this to my nephew for his birthday and it was a hit.
+He has seen the movies and is all about Transformers.
+The character is a bit of a challenge to assemble, but it didn't seem to matter to my nephew.
+He and his friends played with it for several hours after cake and ice cream.
+Any boy would love you for getting him this highly detailed and accurate assembly model.
+There are a lot of pieces though so you'll want to take care to keep track of them.
+I have a nephew who absolutely adores anything lego-ish.
+He dove right into this thing, and had no problem putting it together on his own (he's 6).
+But, this kit was missing a few pieces, and I double-checked to make sure we had them all.
+My nephew is exceedingly organized when making a lego kit, so I know he didn't lose them.
+He enjoyed making both the robot and the car, but didn't really PLAY with either one.
+To him, it's the making of it that is fun, and if it's missing pieces, well, that's just frustrating to him.
+My son and I put this together last night.
+There are not as many pieces as you would expect in a build a toy like Lego, Transformer, etc.
+The age group should probably read 7-10 years age max.
+My son is 12 and he had it organized and almost finished before I even got a look at it.
+The pieces should be labeled so you know where to start, however the manual was extremely easy to understand and really didnt let you make many mistakes.
+The pieces are not as solid as Lego's or Transformers but for a beginner this would be a great product.
+My son liked the fact that after you built it you can unassemble and change what it looks like.This would also be a great product for a younger child with guidance as they can build it over and over.
+The box comes with a handle which makes it easier to carry it around.Overall the other competing products are more sophisticated but this is a good product at this price point.
+We gave this transformer to my seven-year old nephew and he loves it!
+His father did have to assist in putting this together but they had great fun working on it together and he now plays with it constantly
+"My 7.5 year old LOVES BUMBLEBEE.
+When he saw this he was thrilled.
+He loves to build with legos, etc., and I thought, since the base age starts at 7, and he builds so many other things, this would be a no brainer.....turns out it's kind of a super brainer.
+By that I mean, you need to be somewhat intuitive when reading the directions.
+He gave up after half an hour, finally asking for help.
+Together we sat down (remember, 335 pieces of fun building) at our breakfast nook table (find a place where pieces will not get lost, and be careful because there are MANY small pieces that could be choking hazards for little ones) and started building.
+Every couple of minutes he would say, ""See what I mean!!!""
+in response to my inability to guess the directions.
+The problem really comes from not being clear on how many pieces one might need, and some pieces looking similar to others.
+So much so that we would count the rows and columns to be sure we had the correct piece.
+It was a challenge to build....I like that.
+I love it!
+I try to teach my kids to focus and try to figure things out.
+So, 4 stars for educational value for helping them think outside the box, to figure out the directions, and challenging my son (and me).
+Of course, I don't think they did this on purpose, but it works for me.
+:-) My son was irked, to say the least when he realized it wouldn't transform, and that he would have to destroy his hard work if he want to rebuild the second option.
+"This review comes from my adult friend who is a longtime building block and Transformer fanatic, and he is raising his children to be the same.
+Understand that some of the review, such as build time lengths listed, may need to be adjusted for younger ages, especially 7-year olds.Packaging=========The box shows the product in both build modes on the front and back, but the images seem to be computer generated.
+LEGO boxes show actual photos of the product.
+Also the included KREONS (figures) are shown clearly both the front and back.
+The box does clearly state that the kit is a ""2in1"" build which means that even though it is a Transformer it does not unfortunately transform.
+The box, which can serve as a storage container, does have a cardboard carrying handle.
+Neither the handle nor the box, however, seem like they can take much abuse.
+Opening the box is very easy, cut two pieces of tape and it opens right up.
+I was presented with four bags of blocks, three bags of figures, two decal sheets (only one is used), and a hefty instruction book.
+Oddly enough, the manual was bent (but not creased) because it wasn't placed lengthwise in the box where it would have clearly had enough room.Assembly========Figures are in four pieces head, helmet, body, and legs.
+Very easy to assemble.I built the robot first and it took about an hour.
+Fairly straight forward using the instructions.
+Only a few minor gripes: several small pieces were stuck in other pieces and hard to get out, the shading on some the images made it difficult to see the orientation, and there were a few steps that would have been a lot easier working if the manual showed the bottom of the pieces for these cases.In order to build the car I had to disassemble robot which took about 10 minutes.
+The car took also took about hour to build.
+The car was also a straight forward build using the instructions.Quality=======For the figures, the limbs are on a ball like MEGABLOCKS figures so the limbs have a good range of motions.
+The hands turn in circles and the hips turn.

@@ -1,0 +1,221 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+The biggest down-side is that once you've assembled the large transformer, it does not convert - and really isn't that the whole point and appeal of 'Transformers?
+My son (he's 5) put together a few pieces on his own, including one of the vehicles.
+And the kids were sad, too.
+I didn't like it much.My view:- There are 560 pieces in this toy/game, some of them extremely small.
+!It says ages 8-14 but ....yea....I played."
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.005707666743546724,0.002812048653140664,0.0018547896761447191,0.005700014531612396,0.0023497070651501417,0.006334893871098757,0.005757528822869062,0.004967070650309324,0.005788854788988829,0.002051602117717266,0.006334893871098757,0.0071986461989581585,0.00609453022480011,0.005579669494181871,0.005945124663412571,0.002317938022315502,0.003897988237440586,0.00392856216058135,0.0027641793712973595,0.006143138278275728,0.0033708836417645216,0.004463254474103451,0.0037033006083220243,0.00663658045232296,0.005894589237868786,0.0055367182940244675,0.003973927348852158,0.0071408445946872234,0.003907857928425074,0.005300778429955244,0.0034790292847901583,0.005801551975309849,0.0076554398983716965,0.0064329346641898155,0.006424689665436745,0.004124258644878864,0.0028715503867715597,0.004794549196958542,0.004590258002281189,0.005773178301751614,0.0027756288181990385,0.0030683951918035746,0.006030741613358259,0.0037060179747641087,0.0060792891308665276,0.002981480909511447,0.007222599349915981,0.007205554749816656,0.006361718289554119,0.0032469509169459343,0.005398549605160952,0.006207319907844067,0.004340475425124168,0.005085841286927462,0.0054400768131017685,0.005670774262398481,0.003158912528306246,0.006789591163396835,0.006762310396879911,0.005038157105445862,0.007048407569527626,0.004951382055878639,0.0033820425160229206,0.006061061751097441,0.0046115959994494915,0.004911443218588829,0.00405743345618248,0.006393419578671455,0.004160721320658922,0.003439016407355666,0.0061469958163797855,0.00622813543304801,0.005427968688309193,0.006518854759633541,0.006430672947317362,0.004623729269951582,0.0050636520609259605,0.006840238813310862,0.004237066023051739,0.006707984488457441,0.004329145420342684,0.004162603057920933,0.004621175117790699,0.005283708684146404,0.002040145918726921,0.0019597874488681555,0.003783784108236432,0.0059943292289972305,0.0037426829803735018,0.0025120428763329983,0.003243115497753024,0.006296935025602579,0.0067961812019348145,0.004788982216268778,0.006199336145073175,0.005333927925676107,0.006223049946129322,0.003955438267439604,0.005878989584743977,0.0048410226590931416,0.006320365704596043,0.006209628656506538,0.0037220208905637264,0.007695348467677832,0.005088525824248791,0.0026897010393440723,0.0026214744430035353,0.004884821828454733,0.0064821187406778336,0.006450428161770105,0.0056790197268128395,0.005837233737111092,0.0023054322227835655,0.006762601900845766,0.004822699818760157,0.0019111832370981574,0.005741884931921959,0.005784524139016867,0.003975384868681431,0.005455309990793467,0.0029617755208164454,0.005534719210118055,0.0019622109830379486,0.0036561761517077684,0.005943922325968742,0.0035802125930786133,0.0028291691560298204,0.0030292291194200516,0.006317729130387306,0.004647316411137581,0.004815478343516588,0.0034653199836611748,0.007937771268188953,0.002574422862380743,0.0029799079056829214,0.00546828331425786,0.00666583189740777,0.004883885849267244,0.006035362370312214,0.0022017997689545155,0.006555465050041676,0.006555465050041676,0.006254953797906637,0.005443700589239597,0.005977181252092123,0.005855516064912081,0.004401823040097952,0.003991637844592333,0.0036315377801656723,0.00429080706089735,0.0058555444702506065,0.0029889121651649475,0.004056030418723822,0.005552892107516527,0.003573310561478138,0.006215129513293505,0.005695330444723368,0.005369521677494049,0.006036397069692612,0.002903483109548688,0.005624210927635431,0.006380903534591198,0.0034824914764612913,0.003396077314391732,0.002971143228933215,0.006211966276168823,0.006746061146259308,0.004908525850623846,0.002423257566988468,0.006327347829937935,0.0060972291976213455,0.007360491901636124,0.005271576810628176,0.007193497847765684,0.0035253227688372135,0.005714518018066883,0.005656059831380844,0.006629193667322397,0.003462111111730337,0.0018109327647835016,0.006146444473415613,0.003354227403178811,0.0019745081663131714,0.003824790008366108,0.004392057191580534,0.006087117828428745,0.004332514014095068,0.0021032257936894894,0.004763954319059849,0.005666204262524843,0.004703868646174669,0.0053300755098462105,0.0038513867184519768,0.0060468255542218685,0.0065258946269750595,0.005944583564996719,0.003968121018260717,0.0031170251313596964,0.006229495629668236,0.004765493329614401,0.004174419213086367,0.0026829896960407495,0.0024949207436293364,0.005467922426760197,0.004520574118942022
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+"I have to admit I'm nto a big ""block building"" person, but lately my mind has been changing.
+I've enjoyed some of the Transformer and Battleship Kre-Os, as well as the Monster Hunter line from Lego.
+Devestator is my favorite of the Transformer Kre-O sets so far, but I do have a few minor problems with himI do like that this is a huge homage to the G1 gestalt of the same name and it even slightly looks like him.
+However that Devestator was made up of six robots and this is only made up of four.
+As well, Devestator was either lime green or lemon yellow depending on which version (G1 or G2) that your purchased.
+Here it's four very garish colours.
+It makes sense as that way your blocks for each figure won't get mixed up, but I still would have preferred a single colour.
+Not the actual figure of Devestator that comes with this set looks more like the real thing than the Kre-O homage.With the set you can either build Devestator, four Decepticons or four vehicles in addition to the assorted playset pieces it comes with.
+More than likely you will end up forming one of the three and then leaving it that way.
+""Transforming"" from robot to vehicle (or vice versa) takes FOREVER and so you really can't play with this set in the same way you would actual Transformers, but then, that's not the point.
+Going to and from Devestator takes even longer.
+My advice is to just leave the set in the impressive Devestator form and let it be a conversation piece.
+After all, the Combiner is the whole reason you're interested in this set, right?
+Might as well disp;ay ti as such.Overall, this is a lot of fun to put together, but there's a big part of me that would have liked to see Scrapper, Long Haul, Hook, Scavenger, ixmaster and Bonecrusher, instead of the four replacements they have here.
+What IS here is fine for what it is, but if you're going to do a Generation One homage, you might as well go all the way."
+My fourteen year old son assembled this Transformers Destruction Site Devastator Set and he said he thought it was really cool how you can make different construction vehicles but it would have been a lot better if it would have actually transformed into a different vehicle instead of having to disassemble and reassemble to make the new item.
+You can build one giant robot, four different vehicles, or four different robots using the 560 piece set.
+The joints are a little loose compared to other brands but unless you've been playing with these types of toys for several years, you probably wouldn't notice.
+The recommended age is 8 and up and he agrees with that recommendation.
+As for myself, as with other toys like this, be aware of all the small pieces.
+It does come in a sturdy box but you'll probably want to store the pieces in a zip closure bag so they don't get lost.
+"Let's travel back in time to Christmas 2011.
+Santa gifts?
+Yes.
+Gifts from Mommy and Daddy?
+Yes.Which ones do you think the entire line of KRE-O Transformers was?
+Yes, you guessed it, they were from Mommy and Daddy, who thought that since Transformers and Lego bricks are the favorite toys in the house, these ""kinda-like-Lego"" building bricks that build Transformers would be a huge hit.
+OK, when they were opened up, yes, very exciting.
+When they were beginning to build them, still very exciting.Here's where things fell apart, literally.These bricks don't stay together.
+They just are not Lego bricks, so don't expect them to act like Lego bricks.
+It is very frustrating to build something and have the bricks come apart, starting a kind of Domino-effect on the build because you're trying to hold sections of it together while you finish building the rest.
+If you are overexcited about Christmas and the toys you've dreamed about all year are falling apart as you play with them, you can get quite upset.
+And the kids were sad, too.
+(bahdump-bum-bum.
+Yes, here all week, tip your waitresses.)
+Sorry, adding a little levity because it was a very sad day in our house when the ""Stars of the Show,"" our KRE-O Transformers, brought everyone to anger, tears, disappointment, all of the above.That was, as I said, Christmas 2011.The toys could not be returned because in the excitement of opening them, ALL the boxes were opened in order to get together all of the mini-figures into a mini-figure army of sorts.
+We put them in the basement, where our toys go ""on vacation"" (on rotation, or they move on to greener pasture with younger children to enjoy).Towards the end of summer, some of the bricks were brought back up, to include with some Lego bricks in a big build the family was working on.
+"Im a 38 year old woman, and I love to play with toys.
+I grew up with a mom that understood my love of Barbies, as well as Hot Wheels.
+I personally played with the Generation One Transformers, my favorite being the ""pretender"" line.
+Transformers that turned into monsters or animals (Decepticons) or Humans (autobots).I am not a fan of the new movies, I think they bastardize the original series and take away the magic of the series and make it all about CGI, explosions, and Shia Labeouf.This Set is the Destruction Site Devastator Set.
+Build 1 giant robot, 4 vehicles, or 4 robots.
+Scrapper, Drill Bit, Scavenger, and Hightower.
+It also comes with 6 Kreon Figures; construction Devestator, Construction foreman (who has a bull horn and a hot dog!
+), construction worker (with a pick axe), another worker with a hammer, another worker with a wrench, and Ironhide with his weapon.
+The set includes a tool shed, caution cones, a cement mixer, construction site scaffolds, and many other pieces...560 in all!!!
+!It says ages 8-14 but ....yea....I played."
+This is the third set from Kre-O.
+And I'm just going to write my random feedback:My boys 7, 12 & 22 are big transformers & lego fans and I knew this would be a good product for them.
+I like Kre-O and the pieces work well with other Lego brand blocks (and don't seem to be quite as expensive).
+They make a sturdy toy, but I will say we were all disappointed in that the finished transformers actually do NOT TRANSFORM.
+I was a little surprised by this.
+Who make transformers that don't transform, just sayin?
+:)  Anyway... With the help of my 22yr.
+old it took about 3-4 hours to put this together.
+And I've been told you need patience when working with the instructions as the block color coding is not exactly perfect(colors don't seem to match block color).
+If your kids have other legos, make sure you get a picture of the finished project, because pieces will inevitably get mixed up.
+Some of the pieces are very small (great for small hands, but not so much for adult ones) The box says 8-14, but I'd say my older boys enjoyed this more than my 7yr.
+old.
+Overall, I feel it's worth the money as it's inline with similar type sets for 560 pcs.
+But I would surely consider older kids for this as it takes a while and can prove to a bit difficult for the younger end kids.
+My almost 7 y.o.
+son is a huge Lego/Kreo fan and also a huge fan of the Transformers so he was over the moon that our family received this kit.
+He and his almost 10 y.o.
+sister spent the better part of a morning trying to assemble the giant Devastator robot together but after about 3 hours they gave up and decided to use the pieces to create their own Transformers.
+The label on the box says 8+, but I'd say that really it's better for older 'tweens and teens.
+The instruction booklet for the Devastator is 55 pages long and there are two additional instruction booklets for the various other configurations.
+Users will need quite a bit of patience in order to build the Devastator, more than my children have at their current ages.
+However, even though they did not wind up building the Transformer on the box, my kids still love this set.
+With a whopping 560 pieces included, they have been able to design and build their own Transformers.
+I foresee that particularly my son will get many hours of fun out of this particular Kreo set.
+"I enjoyed this Kre-O set.
+I have been collecting Transformers for years, but I don't play with them.
+I just like to put them on the shelf for display.
+This set had a ton of pieces, and took hours to build.
+Some parts didn't fit together so well, and some parts tend to fall off.
+However, once finished.
+it looks fantastic on my shelf.
+You have to individually build the characters, and they do not ""merge"" like they normally would with TF toys.
+After all, this is a building set, so you will have to assemble Devastator.
+You also get one piece of the Dark Energon piece to help build ""The Ultimate Weapon"".
+Make sure you open the box properly as it also doubles as a container case for the pieces.
+It has a lot of small parts, so beware if you are thinking of getting this for a child.I think it's a great set, and I highly recommend it to any TF or Lego fan.
+Now all I need are Kre-O Dinobots to fight Devastator."
+My 8 year old nephew was enthusiastic when he tried out this Transformers Destruction Site Devastator building block kit by Kre-O (Hasbro).
+He has seen all the newest Transformers movies and cartoons and has even watched most of the original cartoon TV series from the '80s.Likes:>Bold, colorful packaging that promises lots of fun!>Can be built into Devastator (DV) giant robot, 4 Decepticon Constructicon small robots, or 4 Constructicon vehicles.>Includes two worksite structures and 6 mini Kreon characters; mini Constructicon Devastator, Ironhide, construction foreman, and three workers.>Looks impressive when finished.>Some educational value in teaching children patience and perseverance to finish assembling this block kit.Dislikes:>My 8 year old nephew is familiar with Lego and generic building blocks but it took him about 4 hours (with some help from dad) to assemble the 560 pieces giant DV robot because most of the blocks don't fit and stay locked together properly.>The assembled DV robot is more suitable for static display because every time my nephew tried to play or pose the robot, pieces would fall off.>His dad (bro) and I agree: Why have children build static display kits using blocks when there are many excellent poseable and playableTransformers 2 Revenge of the Fallen Movie Exclusive Action Figure Constructicon Devastator 7 Robots Combineavailable that transform from vehicles to robots then combine to form DV (although a much smaller version)!>The whole purpose of building blocks is to allow children to use their imaginations to build different robots, vehicles, animals, monsters, etc.
+from generically shaped blocks...rather than building block kits limited to building a pre-determined character or vehicle.>Built up robots CAN'T TRANSFORM; the main allurement of the Transformers!
+There's a lot of assembling and disassembling to build each mode: vehicles, small robots, or one giant DV robot.>My older nephew enjoyed the puzzle type challenge of assembling the giant DV robot in several hours but his 4 year old brother took delight in smashing DV into pieces with the mini Kreon figures and accessories within minutes.
+Definitely NOT for younger children.>Many small parts are potential choking hazards for younger siblings.Overall:A challenging kit to build for kids older than 8 even with adult assistance.
+A pre-determined block kit doesn't help children develop their imaginations and creativity compared to something like LEGO Bricks Set.
+Why buy a Transformer toy that can't transform, is time-consuming to build, and falls apart when kids try to pose or play with it?
+This is a big set with a lot of pieces with a Transformers construction vehicle theme.
+It has 560 pieces and 6 figures.
+It can be used to make four vehicles or four robots.
+The other cool thing is that all the pieces can be used together to build one giant robot.
+The large number of pieces and figures offers a lot of playability.
+Not quite as good quality as you would get from LEGOS, but not bad for the much lower price.
+Overall, the Amazon price was very reasonable compared to our local stores.
+We purchased this set for our 10 year old nephew who loves Transformers and he was thrilled to receive it for his birthday.
+He couldn't wait to open it up.
+"What a great KRE-O set.
+This has everything a kid can ask for.
+My son and I just finished putting together the work vehicles and structures (admittedly, we have yet to ""transform"" them into the Transformer guys), and I will say that the instructions were much easier and less complicated to follow than a Lego set for the same age.
+My son (he's 5) put together a few pieces on his own, including one of the vehicles.
+For his age, you'd expect him to be frustrated when putting the pieces together, but he was fine.
+After we built them, he and his dad had a fun play session with the men figures in the set and the vehicles.I know I'm writing this review a bit prematurely since we didn't actually build the transformers or the giant combined robot, but I felt we used it enough to have a good sense of how well the set worked.It makes for a fantastic gift for boys who love Transformers and building with blocks."
+When you are buying this or any of their other sets.We have every single other Transformer KreO set that first came outSo first off i will say that they do not stay together welland can be very frustrating once you make the intended item in the boxand many times will fall apart making even an 11 year old boy very frustratedyet having said that he still LOVES his KreO sets and this one did not disappoint himSince he has so many other sets he knew up front what this one would be like putting it togetherPieces do not fit together well at times and other times one bump as you are building and bam have to do that part over againThe colors are bright and you get so many different kinds of neat pieces in this setHe put it together to see what the biggest robot would look like and then knew he could not really play with it like thatbut loves this set for how many other things he can make himself out of it and for the mini figs that come with itAs i have said he does have at least ten other sets so this one has been a great additionhowever as a single set i am not so sure it seems would be more frustrating than fun to a true transformer fani do give 5 stars for educational value as i think all brick sets are because of the creative play it brings out in a childso much better than sitting in front of a screen to be hands on and finding ways to createbut durability once again i am disappointed in KreO was so hoping with new line of toys this yearwould have been an improvement on how they stay together but same issues of hard to fit pieces and falling apart when trying to acutally play withyour creation once you are done so that makes me rate them a 3 star
+This is my second toy from this company for review on the VINE program and I have to say that I am still impressed.
+The detail, the articulation, and just good ol' plain fun of the characters has won me over.
+The quality is rock-solid and this is definitely collectable.
+Just don't leave some of these pieces on the floor, they hurt when walked over in my socks!Love it, keep up the great franchise work, gang!
+I am not new to the Kre-o building blocks set.
+My son earned his first set,Sentinel Prime, about 1.5 years ago.As I said in my previous review, Kre-o's building blocks are better than otherimitation Lego blocks, but these blocks are still not as 'authentic' asLego's.
+Overall, the blocks do come together nicely, but they still breakapart easily.
+After having built the fire truck from the Sentinel Primecollection, my son became frustrated with how easily the pieces came apart.Do not get me wrong, perhaps this toy is not meant to be played with afterbuilding, but he has built many Lego trucks before and the blocks rarelycome apart unless he intends to break them apart.
+I do not want to spend toomuch time discussing why Kre-o building blocks are inferior to Lego blocks,but if your child, or you, are used to building with Lego blocks, he/she, oryou, will notice almost immediately how deficient these blocks are.On with my review of the Destruction Site Devastator Set, the toy isperfect for any child who enjoys creating with blocks.
+Any fan ofTransformers, would appreciate this set.
+There are so many building optionswith this particular set.
+One can build a large transformer or build severalconstructions vehicles.
+The set also allows one to build 2 minitransformers, along with 4 construction workers.
+My son was able to buildthis set in about 4 hours [with some help], but as I have already mentionedin a previous review, I found him rather flustered when some of the blocksdid not stay firmly on a particular spot (he skipped building thetransformer and built the vehicles instead).
+With some patience, however,this set would make a very nice gift.
+Personally, I find the price to behigh, considering the quality of the blocks; however, for all that the setincludes and allows one to build, I might consider paying the suggestedprice if it keeps my child happy, which it does.
+I strongly recommend thatif your child tends to play with what he/she builds, you must warn him/herthat the blocks break easily.
+Imagine how tempting it is for any child towant to play with this neat set of building blocks rather than just prop iton a shelf for show and tell!
+Overall, it is a nice set, but do not expectLego quality (I have stated this in my previous review).
+This Transformers Destruction Site Devastator Set is pretty impressive looking, even right out of the box before anything is assembled - there are a LOT of pieces.
+I think this might be a bit much for some 8 year olds (the youngest age of the recommended age group), but with some guidance and help from and adult is certainly doable.The directions are clear and preciese, but this does require patience.
+Once assembled it does inspire quite a bit of satisfaction, but this figure is not made for rough and tumble play that most action figures are capable of.
+If handled too roughly this thing will fall apart (and after spending so much time assembling who wants to put it together again??).
+Ideally I think it's best suited for display once assembled.Overall it's a nice set - a great little project for a rainy day, or a day spent sick in bed.
+The thing I really like about the Kreon blocks is that they are compatible with Legos, so you are not limited to what this set can build, you're imagination is the limit.
+The biggest down-side is that once you've assembled the large transformer, it does not convert - and really isn't that the whole point and appeal of 'Transformers?
+'Another downside is that this set only includes 1 piece of the Dark Energon weapon - other sets sold seperately include the other pieces.
+I don't know any parent that is going to spend the money on every single set so their kid can get every piece of the weapon, that's just crazy.
+The Kreo Devastator set is just a great set to have for Transformers fans.
+Not only can you build the individual Decepticons that make up Devastator, but you can also rebuild them into Devastator.
+It's very cool looking too.The Kreo bricks are light yet well made.
+They connect together buttery smooth.
+The visual instructions are not as clear, at least according to my buddy who help put this set together.Unless you're a Lego snob, nearly anyone who appreciate building bricks and enjoys Transformers will likely truly enjoy the Devastator set.
+It's fun and nostalgic.
+Devastator is great to have.
+My 10-year-old daughter has spent many hours with this set, building the vehicles and other figures, but not the devastator yet.
+She's had so much fun building the smaller pieces that she's saving the big one for last.
+This set has entertained her for days, with no end in sight.
+She followed the directions and constructed each vehicle and figure herself (so far).
+She loves building them as much as playing with the finished product.
+I haven't seen her enjoy a toy this much in a long time, so it gets two thumbs up from me!
+"I'm a mom of four boys and we have a house filled with Ninjago sets, Bionicles, Trio blocks, and Legos.
+I honestly thought there wasn't much that Kreo could possibly provide that my kids hadn't already seen, but I was sent a free set in exchange for an honest review, so we were happy to test it out.
+When the box arrived my older two (ages 8 and 10) were excited but had some reservations, saying, ""Oh, it's KREO... its probably not as good, but we'll try it.
+""Then they disappeared for 48 hours.Seriously, my two boys went into the bedroom with this set of Kreo blocks and I barely heard from them until they had built every variation, torn them all apart, and rebuilt them in new and better ways.What a fantastic set!It comes with 400+ pieces, which in a lego set would only keep my 10-year-old busy for maybe a few hours.
+The fun of legos is all in the building and once you get a lego set put together, there's not much left to do.
+With Kreo, however, there were so many different instructions included that my sons were happy to share the pieces.
+There was enough that they each built two or three transformers (for a total of five) and had a grand time having a big battle with them.
+Then they took them all apart and made the really big guy using all the pieces.
+Then they took it apart again and spent another couple days making up their own constructions.
+I was amazed at the variety they were able to build with the pieces included in this set.The pieces are similar to Legos, but with a lot of ball-and-socket joints that reminded me of Bionicles, so you get the best of both worlds.
+I will not spend money on any more expensive Ninjago sets when I can get so much more bang for my buck with Kreo.
+I will say that I wouldn't recommend them for children under about seven, unless they are fairly adept at following instructions and have built other Lego-type sets.
+My littlest sons (ages 3 and 5) still do better with Bionicles."
+"But after they took all week assembling it during free activity time they were expecting more.
+It didn't really do anything, and everytime one of them tried to move it or ""transform"" it parts would fall off.
+We ended up setting it up in the front of our classroom to just admire.In addition, it took the help of the teacher in the room next door to help assemble, because all the pieces didn't fit precisely and when they tried to add a piece, others would fall off.
+I should note here that I teach a high school special education class, so a wide variety of students took part in this activity.
+Students with autism were particularly interested in this, so that fact alone makes this Transformers set worth every penny.
+I am constantly searching for activities to engage them.This set is very brightly colored and immediately drew the children in.
+I also appreciated how several students worked together to build it, and there was active communication going on while doing so.
+The finished product was impressive, and my students wanted to show the principal when it was completed.I will continue to search for Transformers sets as I think it is a great community building project for my students which leads to a sense of satisfaction and pride upon completion.
+A very good product."
+"My 10-year old son loves it.
+I didn't like it much.My view:- There are 560 pieces in this toy/game, some of them extremely small.
+Smaller pieces are so small that they can be easily lost when playing (assembling) on a carpeted surface depending on the color and type of carpet.- As you can see from the picture on the box, you will assemble multiple objects out of the pieces.
+I wish they had packaged the pieces separately that way.
+You will spend a lot of time looking for the pieces.- Assembly instruction booklets are detailed and well composed.- What is the purpose of these Kre-o toys?
+There is very little educational value in them.
+They definitely teach how to follow instructions and assemble things.
+When played with others, the time spent helps in bonding; really quality time.
+However, these toys don't promote creativity.
+In my opinion, a bucket of random blocks can provide much more creative fun for much less cost.- After assembling everything, child will play with them for a few days or weeks.
+Then an adult should intervene, pack them all back along with booklets, and store for later use.
+Otherwise, some pieces begin to get lost.- I think it is too expensive for the entertainment and educational value.- The word ""Transformers"" is misleading in this toy.
+They don't really transform into something else (like typical transformers toys do)My child's view:- Supplied action figures have more details (than Lego brand figures) and fun to play with.- Some joints have more axes of freedom (than Lego joints).- Pieces are in various shapes and sizes.
+The variety makes the toy lot more fun.- It takes a lot more time to assemble everything; meaning longer fun with the person he is playing with.Bottom line:I am unable to decide whether to recommend this toy or not.
+You will have to make your own decision based on your philosophy and the child's interests."
+"According to my son, the best building/construction sets are those with the most ""people"".
+With this set you get 6 individuals; one ""good guy"", one ""bad"" guy, 3 regular construction workers and their foreman.
+Whoever came up with the foreman had a great sense of humor as he's carrying a blow horn and a hot dog and has food stains down his shirt.It's handy to have three instruction manuals; one for the large robot, and two separate smaller ones that give directions each for either two smaller vehicles or two smaller transformer robots.
+As a grandmother, I appreciate that this set can be used by multiple children and still keep them all happy and entertained.
+Easily assembled by a ten year old or a precocious eight.
+Great fun for the whole family.I appreciate that these sets come packaged in a carrying case.
+With careful care our cases have lasted years- which is unusual."
+for mom that is!My 8 and 4 year old LOVE Lego's, Mega Blocks and Kre-O.
+We have the smaller Bumble Bee from Kre-o, so when we saw this we had to have it to add to our collection.And it's a doozy!
+We opened the box and knew it would be time consuming.
+We have a number of larger sets, and the boys often ask me or my husband for help building the bigger pieces, and that's fine.
+We opted to do the 'traditional' mock up of this set: The large transformer (Devastator) and the tower, with the small electical shed (I'm assuming that's what it is).
+My 8 year old built the cement truck and helped with the electrical shed.
+He and my 4 year old put together all the little people-six in all.One thing that has always bugged me about these types of sets is the color depiction in the directions.
+I spent 10 minutes searching for grey pieces, and just when I was convinced we had either lost them or not received them, I realized they were a clear color.
+Makes it very difficult to put these things together, especially for kids with little patience as it is.I did not have any issues with the pieces not fitting together properly.
+Once we found the right pieces, they went together just fine.The transformers do not transform, so if that is what your child is hoping for, this is not the set for him/her.
+You can take apart the Devastator and make 4 smaller vehicles/robots, but it actually requires you to take apart the larger robot and rebuild them separately; not a big deal for mom or dad, but for a younger child it creates an issue as it interrupts play.The price is about right for this type of large set.
+I personally, think they are rather expensive, but I have purchased sets like this for birthday or Christmas.For us, this was about building as opposed to playing.
+It was fun to put together, but my boys prefer playing with the actual toys that can transform.

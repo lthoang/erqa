@@ -1,0 +1,187 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Can the hoop be mounted on a wall or does it have to be a door?
+Top sentence(s):
+This Cyber Hoop is so much fun.
+We then played two 2 minute halves of ball.
+Everyone gets to be LeBron, dunking the ball without even jumping.
+Maybe we're not the target audience, but overall, no one in my family was impressed.
+Kids aren't deaf.
+
+Question attention weights:
+0.22600260376930237,0.0017794875893741846,0.1152833104133606,0.22046543657779694,0.4364691376686096
+Sentence attention weights:
+0.004118122160434723,0.005788490176200867,0.007353044580668211,0.006043747067451477,0.006711901631206274,0.006168472580611706,0.007246630731970072,0.00457281619310379,0.008322859182953835,0.005193174816668034,0.007634513080120087,0.00477480236440897,0.008084725588560104,0.007486503571271896,0.007560961414128542,0.006518103182315826,0.006213875953108072,0.00952023733407259,0.0049679214134812355,0.0027801499236375093,0.006332590710371733,0.007952883839607239,0.007105840835720301,0.002320120809599757,0.006262302398681641,0.008661140687763691,0.0034746746532619,0.008110602386295795,0.008827049285173416,0.004949488677084446,0.006140484940260649,0.008625605143606663,0.0043337224051356316,0.00243458803743124,0.004142228048294783,0.005669452715665102,0.006146266590803862,0.00346789020113647,0.010033546015620232,0.005060489755123854,0.005850161425769329,0.007801842875778675,0.005711441859602928,0.0064904699102044106,0.004893806297332048,0.009026831947267056,0.006970280781388283,0.00503101060166955,0.00646206783130765,0.0035313295666128397,0.008217629976570606,0.009154955856502056,0.008417526260018349,0.007869133725762367,0.007874658331274986,0.006827990524470806,0.007942629046738148,0.0043821753934025764,0.008064912632107735,0.008239680901169777,0.006829412188380957,0.003989215474575758,0.006538133602589369,0.009011143818497658,0.007555882912129164,0.007913511246442795,0.003558744676411152,0.0024924715980887413,0.007638224400579929,0.0032537204679101706,0.005364199168980122,0.003950272686779499,0.006820601411163807,0.0038091351743787527,0.00880166981369257,0.006366281770169735,0.003269895678386092,0.0056951045989990234,0.005241665989160538,0.003626876277849078,0.0036156068090349436,0.005132866557687521,0.005186501890420914,0.008237226866185665,0.009930756874382496,0.004854280035942793,0.0035223595332354307,0.006635756231844425,0.00640289019793272,0.006346105132251978,0.00714873755350709,0.007363330572843552,0.00694095017388463,0.004575846716761589,0.00838514231145382,0.0035270890220999718,0.008260784670710564,0.005124256014823914,0.004242805764079094,0.00588185852393508,0.003732247743755579,0.005536461714655161,0.0038164013531059027,0.004852087702602148,0.006217477843165398,0.007849622517824173,0.008986500091850758,0.005004076287150383,0.008145266212522984,0.004853672347962856,0.0035204479936510324,0.0039789327420294285,0.007309493608772755,0.004024038091301918,0.004552814643830061,0.002697783289477229,0.0046434542164206505,0.008100162260234356,0.008006364107131958,0.006046171300113201,0.00825890526175499,0.005845719948410988,0.008979963138699532,0.010293674655258656,0.007838649675250053,0.004200559575110674,0.006146498490124941,0.00771922804415226,0.007920852862298489,0.006283361930400133,0.0072470782324671745,0.0037795293610543013,0.011455497704446316,0.006448069121688604,0.006556058768182993,0.004479613620787859,0.008115827105939388,0.0057815383188426495,0.007711669430136681,0.00800158642232418,0.005321030039340258,0.005369380582123995,0.009103921242058277,0.007592196110635996,0.006210584193468094,0.00511149549856782,0.002968737157061696,0.0036364819388836622,0.0069429948925971985,0.004344324581325054,0.002742284443229437,0.005319631192833185,0.004643838852643967,0.005323989782482386,0.007282940670847893,0.006676545832306147,0.0072300550527870655,0.004016974940896034,0.008099950850009918,0.005627208389341831,0.007926376536488533,0.0046578506007790565
+0.005508024245500565,0.005874561611562967,0.01009481493383646,0.005107725504785776,0.005414887331426144,0.004914863966405392,0.006290462799370289,0.00610872358083725,0.006299682427197695,0.006644963286817074,0.006219884380698204,0.004934973083436489,0.006274125073105097,0.006346631795167923,0.006391094531863928,0.00768346106633544,0.005729534663259983,0.008220836520195007,0.007432176265865564,0.005853771232068539,0.006263850722461939,0.0063245403580367565,0.006731204688549042,0.003304410958662629,0.005699249915778637,0.008127006702125072,0.006070293951779604,0.006003166548907757,0.006485506892204285,0.005177375860512257,0.00749233877286315,0.005703830160200596,0.009534651413559914,0.003982581198215485,0.00520988879725337,0.004497342277318239,0.006614699028432369,0.0062363906763494015,0.0078280633315444,0.007026005070656538,0.00809334497898817,0.009887803345918655,0.004549597389996052,0.005332841072231531,0.006956340745091438,0.006848578806966543,0.005393504165112972,0.005546495318412781,0.005035170819610357,0.004595073871314526,0.0045389458537101746,0.0062665557488799095,0.006934826262295246,0.0061330306343734264,0.005829357076436281,0.005177695769816637,0.006016263272613287,0.0044425660744309425,0.006006913259625435,0.00552144180983305,0.00711584510281682,0.005284319166094065,0.007717834319919348,0.0071413395926356316,0.006099917460232973,0.005855115596204996,0.004387510009109974,0.005967439152300358,0.006070986855775118,0.0031141715589910746,0.00577487563714385,0.00609466340392828,0.007709922734647989,0.0069275423884391785,0.012428106740117073,0.005769547075033188,0.0069466084241867065,0.005324150435626507,0.005249554291367531,0.0044400934129953384,0.0035374131985008717,0.004448472987860441,0.005529273301362991,0.006230884697288275,0.008585086092352867,0.0037929927930235863,0.006532324478030205,0.005003519356250763,0.0059339748695492744,0.005868295207619667,0.006834877654910088,0.00545579195022583,0.0061836205422878265,0.00519909942522645,0.007303966674953699,0.0035372807178646326,0.006736470852047205,0.007278337609022856,0.004888174589723349,0.005333330947905779,0.005217417608946562,0.008754859678447247,0.007805312052369118,0.0069082933478057384,0.005738575477153063,0.00613072793930769,0.0067602647468447685,0.005418739747256041,0.006442458834499121,0.006695238873362541,0.005631521809846163,0.005902155768126249,0.005690942518413067,0.005178479477763176,0.007102489937096834,0.004151887726038694,0.006295366678386927,0.006030144635587931,0.006393702235072851,0.007029294036328793,0.006134704686701298,0.005102498922497034,0.0078021567314863205,0.008113536983728409,0.0059160105884075165,0.005265583284199238,0.004303877241909504,0.006270877551287413,0.005947293248027563,0.005084988661110401,0.005343917291611433,0.004337724763900042,0.009436916559934616,0.006493999157100916,0.007796271238476038,0.004736615344882011,0.006009425036609173,0.007832090370357037,0.005524949170649052,0.0081113800406456,0.005287214182317257,0.005492708180099726,0.006201234646141529,0.006022279150784016,0.007521847262978554,0.006506502628326416,0.004274121485650539,0.00563051225617528,0.009565547108650208,0.005370700731873512,0.004479225724935532,0.006868817377835512,0.006400428246706724,0.005485784728080034,0.005741577595472336,0.007807634770870209,0.00878599751740694,0.006159150041639805,0.007134340703487396,0.005801054649055004,0.007140301167964935,0.005083688534796238
+0.004333473276346922,0.005807235836982727,0.007969009689986706,0.005623411852866411,0.006416982971131802,0.005977770779281855,0.007145508658140898,0.004857797175645828,0.007946526631712914,0.005455066449940205,0.007427104748785496,0.004774021916091442,0.0076287840493023396,0.007355727721005678,0.007440550252795219,0.006908340845257044,0.00615314207971096,0.009449959732592106,0.005319714080542326,0.0030997316353023052,0.0062526254914700985,0.007709464058279991,0.007190593983978033,0.002397241536527872,0.006155482027679682,0.008756031282246113,0.003806093707680702,0.007745429407805204,0.008483270183205605,0.005042778793722391,0.006405028514564037,0.008077857084572315,0.005097390152513981,0.002667203778401017,0.004365980159491301,0.005356012377887964,0.006184946745634079,0.003890054998919368,0.00987012218683958,0.005523801315575838,0.006179372314363718,0.008543894626200199,0.005172346718609333,0.006191615480929613,0.00525050750002265,0.008668424561619759,0.0065656849183142185,0.005221318919211626,0.006179469637572765,0.0037246912252157927,0.007304866332560778,0.008542998693883419,0.008247573859989643,0.007587613072246313,0.007533477619290352,0.006539332214742899,0.007617695722728968,0.004380899015814066,0.0077109914273023605,0.007636559661477804,0.006935781333595514,0.004147481173276901,0.007013245020061731,0.008742841891944408,0.007311638444662094,0.007521301507949829,0.0034711079206317663,0.0029855959583073854,0.007455406244844198,0.0030717425979673862,0.005430544726550579,0.004279503133147955,0.006921304389834404,0.004302638582885265,0.009764392860233784,0.006250900682061911,0.0037376713007688522,0.005583808291703463,0.005237904842942953,0.0038276060950011015,0.003590916283428669,0.004912189673632383,0.005266593769192696,0.00791037455201149,0.010100694373250008,0.004475246649235487,0.004019412212073803,0.006291303783655167,0.006326196249574423,0.006247636396437883,0.006981701590120792,0.0069045256823301315,0.00671820342540741,0.004661067854613066,0.008307979442179203,0.0034155938774347305,0.007964798249304295,0.005532220005989075,0.004348909482359886,0.005723458714783192,0.004016407299786806,0.00618342449888587,0.00423134071752429,0.005151126533746719,0.006110669579356909,0.007588075008243322,0.008665205910801888,0.004854460712522268,0.007844656705856323,0.005117303226143122,0.0038199282716959715,0.004224051721394062,0.007004094310104847,0.004150644410401583,0.0050557260401546955,0.0030742655508220196,0.004945185035467148,0.007721826899796724,0.007756415754556656,0.006362832151353359,0.007900343276560307,0.005647255573421717,0.008982122875750065,0.00986291654407978,0.007492350414395332,0.004391455091536045,0.005853150971233845,0.007532251533120871,0.0073745399713516235,0.0061507937498390675,0.006842797622084618,0.0038086981512606144,0.01127841230481863,0.00650334358215332,0.007004047278314829,0.0046035125851631165,0.007749350741505623,0.006225442048162222,0.007220257073640823,0.008412020280957222,0.0052901366725564,0.00542331812903285,0.008580753579735756,0.0073505849577486515,0.006358606740832329,0.005326360929757357,0.003195591736584902,0.003984139300882816,0.007455358747392893,0.004715110175311565,0.0029788133688271046,0.0057165431790053844,0.005067025311291218,0.005231027491390705,0.007026142440736294,0.007023264188319445,0.007681619841605425,0.004377834964543581,0.007772160694003105,0.005706434603780508,0.007772895507514477,0.004695534240454435
+0.004239562898874283,0.006044368725270033,0.007428542710840702,0.005958212539553642,0.006692099384963512,0.00604640319943428,0.007071529049426317,0.0045516034588217735,0.00829993188381195,0.004982983227819204,0.007421005517244339,0.004941196646541357,0.00829299632459879,0.007285911124199629,0.0072975377552211285,0.006624037865549326,0.006963580381125212,0.009788300842046738,0.004639238119125366,0.0026271985843777657,0.006315013859421015,0.007816169410943985,0.007411515340209007,0.002466298406943679,0.0061600422486662865,0.00857645832002163,0.0035761098843067884,0.007888354361057281,0.008563583716750145,0.004997847136110067,0.006151755340397358,0.00844667386263609,0.004294770769774914,0.002775634406134486,0.004317838232964277,0.005600751843303442,0.0060097696259617805,0.003806350054219365,0.009615504182875156,0.005042290780693293,0.005933880340307951,0.007764887530356646,0.005664084572345018,0.006403452716767788,0.005061063915491104,0.009094427339732647,0.007140248082578182,0.005213023629039526,0.006405230145901442,0.003933260682970285,0.00823819637298584,0.008876726031303406,0.008294089697301388,0.007668000645935535,0.007709800265729427,0.007031731307506561,0.007754786871373653,0.004185878671705723,0.00787406787276268,0.008102170191705227,0.006866674404591322,0.0038555471692234278,0.007239263504743576,0.009168584831058979,0.007368625607341528,0.007687156554311514,0.0035002983640879393,0.0026434720493853092,0.00759010948240757,0.003421674482524395,0.005605916026979685,0.004087082110345364,0.007097970228642225,0.003839252982288599,0.008501424454152584,0.006141821853816509,0.0032173648942261934,0.005717024207115173,0.005335437133908272,0.0039871130138635635,0.003663150127977133,0.005108315963298082,0.005135867744684219,0.008012725040316582,0.009834562428295612,0.004800685681402683,0.0037635366898030043,0.0067111533135175705,0.006250214762985706,0.006460655480623245,0.006886172574013472,0.007171595003455877,0.006870558951050043,0.004557353910058737,0.008217663504183292,0.0038127514999359846,0.00802108645439148,0.005339751020073891,0.004263384733349085,0.0057130008935928345,0.003695249790325761,0.005843015853315592,0.003748276736587286,0.004970366135239601,0.006053526420146227,0.00770708778873086,0.008713331073522568,0.004479433875530958,0.00788168516010046,0.004789286758750677,0.0035515129566192627,0.00394607987254858,0.007074796594679356,0.004009668715298176,0.005065372679382563,0.00303027150221169,0.004871326498687267,0.00787531677633524,0.007906431332230568,0.005976157262921333,0.008043029345571995,0.005675703287124634,0.009263934567570686,0.009800649248063564,0.007672271225601435,0.00417312839999795,0.0061959815211594105,0.007534338161349297,0.00777836749330163,0.006377269979566336,0.006956719793379307,0.003797990269958973,0.01136439573019743,0.0064604636281728745,0.006768785882741213,0.004700011573731899,0.00791587121784687,0.006093945819884539,0.007707679644227028,0.008307679556310177,0.005110473837703466,0.005405903328210115,0.009249825030565262,0.0073798056691884995,0.00618761358782649,0.004930927883833647,0.003148358780890703,0.0037183084059506655,0.00702392915263772,0.004599768668413162,0.0029660596046596766,0.005648366641253233,0.004774649161845446,0.0054662032052874565,0.007199414540082216,0.006316116079688072,0.007187266368418932,0.0038324985653162003,0.008343495428562164,0.005534324329346418,0.008468357846140862,0.00488790450617671
+0.0038651854265481234,0.005712771322578192,0.006715934257954359,0.006081848405301571,0.006872708443552256,0.00638577900826931,0.007278031203895807,0.004429968539625406,0.008569641970098019,0.004823234397917986,0.007681258954107761,0.004594033118337393,0.008243494667112827,0.007536936551332474,0.007612634915858507,0.0063848416320979595,0.006715796422213316,0.009908629581332207,0.004596166778355837,0.002393219852820039,0.00640658475458622,0.008028494194149971,0.007333335932344198,0.0022039194591343403,0.006350863724946976,0.008901374414563179,0.0031862445175647736,0.008327541872859001,0.009076111018657684,0.004987676162272692,0.0058564599603414536,0.008976117707788944,0.0037629627622663975,0.0024280950892716646,0.004040632862597704,0.005772778298705816,0.005872649606317282,0.0033333459869027138,0.01010324526578188,0.004953613504767418,0.0054991114884614944,0.008153049275279045,0.005726941861212254,0.006737256422638893,0.0046707820147275925,0.009264800697565079,0.007172733079642057,0.005221456754952669,0.006567836739122868,0.0035215069074183702,0.008575036190450191,0.00937469769269228,0.008576160296797752,0.008047636598348618,0.0080870371311903,0.007095813751220703,0.008128373883664608,0.004376247059553862,0.008278757333755493,0.008488336578011513,0.006682374514639378,0.0037936700973659754,0.006658500991761684,0.009364896453917027,0.007628114428371191,0.008103273808956146,0.0032718537840992212,0.00231923907995224,0.007865010760724545,0.0034244677517563105,0.005288132932037115,0.0037234725896269083,0.006668854970484972,0.0034962999634444714,0.008340309374034405,0.006288336589932442,0.0029368125833570957,0.005765600595623255,0.005224172491580248,0.003621501149609685,0.0036759055219590664,0.005096379201859236,0.004991808906197548,0.008452750742435455,0.010250799357891083,0.0050553516484797,0.00326350680552423,0.006862362381070852,0.006440712139010429,0.006298764143139124,0.007131816353648901,0.007595275994390249,0.007046480197459459,0.004426283296197653,0.008307281881570816,0.0035689393989741802,0.008180273696780205,0.005022596567869186,0.004158858675509691,0.00606168620288372,0.0034722487907856703,0.005065760109573603,0.0033216241281479597,0.00445582577958703,0.006263284478336573,0.008033892139792442,0.009205185808241367,0.004654118325561285,0.008272598497569561,0.004422707483172417,0.003356888424605131,0.003730279626324773,0.0074042691849172115,0.003802258986979723,0.004466049838811159,0.00263767852447927,0.004563618917018175,0.008280683308839798,0.008214789442718029,0.005998031701892614,0.008479714393615723,0.005775212310254574,0.009387891739606857,0.010279891081154346,0.008044550195336342,0.004018576815724373,0.006408648565411568,0.007837852463126183,0.00812996830791235,0.006483594421297312,0.007396850269287825,0.003682709066197276,0.011914165690541267,0.006326414179056883,0.006422531791031361,0.004580770153552294,0.008336820639669895,0.005686547141522169,0.008030218072235584,0.008136780932545662,0.005274945870041847,0.005346601828932762,0.009564707987010479,0.007715716492384672,0.005980347748845816,0.0048262858763337135,0.002935245865955949,0.0033946409821510315,0.0064754365012049675,0.004422740079462528,0.0026358843315392733,0.005251543130725622,0.0044953119941055775,0.0052755107171833515,0.007479481399059296,0.006492540705949068,0.006926068104803562,0.0037775617092847824,0.008098996244370937,0.005415697582066059,0.008392996154725552,0.004619708750396967
+Questions:
+Can the hoop be mounted on a wall or does it have to be a door?
+what is the backboard made of? thx
+Can this be mounted over a door?
+does it work with android
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+For the price, this is a decent nerf basketball hoop.Likes:- Price.- Three modes.
+Standalone mode is noisy, but makes playing shoot-off scoring games very easy.
+Off (silent) mode.. just shoot, like a non-electric hoop.
+And App mode, which gives you cool features like video replays.- Fun.
+Great for livening up boring offices.Dislikes:- Construction quality.
+Pretty flimsy, but for the price, expected.- Volume in standalone mode.
+Pretty loud.
+This is best for loud parties, but would be nice to be able to set volume on low.- No android app yet.
+iPad mini is a good match if you can get your hands on one.Overall, I recommend this.
+So far it has stood up to our testing and gets regular use.
+.....after about 10 minutes of set up.
+I sent this out to my toy testing lab...okay, my friends boys ages 7 and 10...and they have had a lot of fun playing with it!
+It helps to own (or have access to) an iPhone or iPad, but it is not necessary if you are just using it for shots and sounds.
+My daughter has played this a few times.
+She likes it.
+But her compaints are that it's too loud.
+And also she said the thing that is suppose to help the ball return straight to you doesn't work that well and often the ball comes rolling out to the side, so she thinks it'd be better without even having that piece there.I have to agree that often times toys with sound come way too loud.
+Kids aren't deaf.
+I wish toy companies would get the idea to either put volume control or just make them a little less noisey.But it's nice having a nerf ball, knowing she isn't go to go breaking things in her room.
+Nerf goes virtual with the Nerf N-Sports Cyber Hoop Set and the results are mixed.At first glance it certainly looks promising--an indoor basketball hoop set with wireless connectivity and score-tracking sensor paddle which, when you downlaod the free app on your iPhone, iPad or iPod touch, records your progress and allows you to compete with friends and share video highlights and stats with them.Of course, the catch is, your buddies are also going to need a Cyber Hoop set and iPhone/iPad or iPod touch of their own in order to virtually compete with you.
+You can also play on your own and those highlight reels (complete with commentary and f/x like slo-mo) are admittedly novel--that, is, until the novelty soon wears off.Like too many &#34;hybrid&#34; games these days, the Nerf N-Sports Hoop Set (aimed at ages 8 and up), the gimmick has a very limited window of interest where younger attention spans are concerned.
+So- this is what we thought it would be for our 10 and 12 year old.
+A gadget that lasts 20 minutes and them becomes a traditional hoop and ball for your bedroom door.
+The initial coolness factor of the app wears off pretty fast when they realise the two aren't as WiFi connected as they appear in the commercial and packaging.
+He could make a video of himself with the phone.
+Unless you can find this as a $12 or less item, it isn't worth the money.
+It's a huge box, standard hoop and ball with an electronic box attached that makes REALLY loud cheering noises.
+This was a lot of fun to play with.
+It actually does a decent job of keeping track of the baskets made.
+It can be hung from anywhere relatively easily (we hung it on a closet door).
+It was a bit flimsy (no dunking), but to keep away the winter blues it is a good purchase.
+I can recommend as a good distraction, but not recommended for hard core use.
+"We just received the Nerf Cyberhoop and put it into action right away.The set requires 3 ""AAA"" batteries (not included) and assembly.
+There is also an app that you can download from the app store for iPhones, iPads and iPod touches.You can hang the backboard and hoop from over a door or there is a 3M sticky included to attach it to the wall if you need to.
+We hung ours from the boy's bedroom door which made for the perfect height.At first, we thought, why does it need batteries, it's just a basketball hoop, why do they try and make everything electronic?
+But I have to say that the added electronic sounds makes the game exciting and adds an arcade feel to it.You don't need to have an iPhone, iPad or iPod touch to use this.
+The app just adds additional games that you can play and it will video the kids playing but this can be played just all by itself for loads of fun.
+The electronic backboard keeps score and counts down for play time.Really like it and nice, unexpected upgrade to the classic Nerf basketball hoop.~ I'm a BzzAgent and received a free product to review."
+Maybe we're not the target audience, but overall, no one in my family was impressed.
+There were many negative including shoddy construction (backboard and ipad stand made of cardboard), the over the door hook didn't work well, and vague instructions.
+Also, the score counter would pop the ball back out of the hoop, which could be frustrating, especially to a younger audience.
+Using the app was cool, but honestly only held my 11 year old's attention once or twice, she usually didn't want to bother with it.
+At least the ball was a real nerf ball, but I can see us replacing this with something much sturdier sooner rather than later.
+The first thing right off the bat I noticed is the construction is pretty cheap.
+Cardboard back-board is what supports the plastic hooks and hoop.
+For the price that this is going for currently, I think I'd want all plastic construction.
+I feel that this toy should be priced around the $19 range.
+The whole contraption isn't very large though, so if the kids are not too rough with it it might last for awhile, but I'm not optimistic.
+If someone decides to &#34;dunk&#34; and gets a little over zealous I can see this thing just coming apart.
+The plastic pieces are fitted through slots in the cardboard and once those get ripped out or the cardboard gets misshapen this toy is toast.Construction is pretty easy, so there were no problems there.
+Requires 3 AAA batteries.
+And the thing is LOUD.
+I mean really LOUD.
+At least it has an on off switch.
+Make sure you put it far away from you if you don't like a lot of noise.This toy is FUN for kids.
+And it gets them active.
+That is the SOLE reason this product got 4 stars instead of the 3 I would have given it.
+My boys just went bonkers for this, and being wintertime now I appreciate they can work off some steam in the basement while having fun.Came with a cardboard smart phone stand, a over the door hanger and a double sided sticky tape... presumably you can directly stick it to the wall I guess?
+I didn't use that part.
+I find that digitizing something old and familiar doesn't typically improve the experience, just makes it different.
+And for some people different is better.Nerf hasn't changed much about it's classic door-hoop setup except for the ability to connect wirelessly and share AND interact with friends.
+I will give Nerf props for being adaptive without doing much.
+This new configuration certainly appealed to the teen set in my family, granted they were trying to remotely play using the same hoop.Overall, at the price point of under $20 it seems like a fair deal for the return.
+Though having a slightly more durable backboard would have been handy.
+Then again, maybe they're trying to be eco friendly by using recyclable materials.
+My 6-year-old daughter and I are having fun competing against each other (and sometimes she lets me win).
+We don't see any real need for the app aside from taking score, so we're using it on regular mode, where it just times you, gives a few sound effects and a warning when you're getting close to the end of the timer, and tells you your score at the end.It's not entirely accurate at scoring, but it's close.
+If you smack the ball into the lever or bounce it close enough, the lever may record a basket when there wasn't one.One star removed because it really does feel cheaply made-- the backboard is cardboard, and the hoop is thin plastic-- and I don't think the added app is worthy of the price here.
+But it's still fun and we haven't managed to break it yet.
+Let's face it - if you went to college in the last few decades, you probably had a nerf hoop on your door at some point.
+I remember mine - the packaging itself became the backstop and you attached the net and hoop to it.
+In some respects, this modern Cyber Hoop is an improvement.
+The back is a thicker cardboard, the hanger seems higher quality, and the net and hoop are well made.
+To be honest, I just loved how the nerf hoop itself was executed.But this is a Cyber Hoop, which means there is a paddle inside the hoop.
+In one mode, it plays fun music and makes a cool sound whenever you score a hoop.
+That's the mode if you don't have an iDevice.
+But if you have anything with the latest Bluetooth (iPhone 4S or later), you can install a Nerf cyberhoop app.
+The app connects to the net easily - I didn't even have to think about it.
+It prompts the game, times it, scores it, and even uses the camera to record when you make a basket.
+My kids loved the tv style &#34;highlights&#34; reel at the end.The price is so low and the fun is so high, this toy is almost a no-brainer.
+Only 2 issues I had - first, there is no auto power-off, so if you forget to push that tiny power off button, you will kill the batteries.
+Second, the app had some stability issues and crashed a bit.But seriously - this thing is fun and I recommend it heartily.
+If you've been around for more than twenty years, you've probably played a Nerf basketball game.
+This is not really different.
+Everyone gets to be LeBron, dunking the ball without even jumping.
+The twist here is that the goal includes an arm that moves when the ball passes through to keep score.
+Add to that some sound effects and a linkup with your iPhone or iPad, and you get something extra.
+The hoop is a bit hard to keep together, and holding it just the wrong way will cause it to fall apart in your hands.
+The rig also comes with an iPhone/iPad stand, but be careful, as it is made of cardboard and looks just like the rest of the packing materials.
+We threw it out at first and had to dig it back out of the trash.
+Once assembled, you download a free app, and aim the phone/pad (front camera only) at the action.
+This itself is hit or miss, since there is no aiming method.
+Just trial and error.
+Nevertheless, when you score, the camera captures the video, and at the end it puts together and ESPN like highlight reel with commentary and graphics.
+You can play against other people online, but I didn't know anyone else who has this, so I was unable to try that out.If you have an iPhone/iPad, this is probably worth trying out.
+This is the second type of a Nerf hoop set we own.
+This one is so much more fun.The assembly is easy.
+Although the box says no tools required, you do need a screwdriver to open the battery case.
+It takes 3 AAA batteries.
+It comes with the backing and the door attachment.
+The battery compartment has two parts, it includes a backing to attached through the cardboard back to keep it in place.
+It says it should snap in, but there's no snap, it has fallen off when the rim was hit the wrong way, but after two days of play that only happened once.
+The hoop snaps into the battery case as well as the tongue that makes the swoosh noises as the ball drops in.
+The net you do have to careful connect to the little lips, but the directions are straightforward and the whole assembly is relatively simple for an adult.The app is downloadable from the iPhone, which is what we did.
+The box also contains a little cardboard stand which holds the phone to take snapshots and videos of play.
+This is adorable.
+My son has been playing with this since we assemble it.
+Big thumbs up for this Nerf Hoop Set!
+I figured my 5-year old would have some fun with this when we first got it, but had no idea she would want to play it so much.
+Almost every day she'll spend at least 20 minutes or so playing and I have noticed definite improvement in her aim (considering she's 5 and couldn't really play at all to begin with).
+We live on the second floor of an apartment building so having something that is a 'quiet' physical activity is a big hit with us as we clearly could never use a regular ball in the house and can't have a regular hoop outdoors.While the app that is available to down-load and use while you play is clever and easy enough to use if you want to compete with your friends, it's just a gimmick and really doesn't add anything to your enjoyment of just shooting some hoops.
+We usually don't even bother turning the little sound-box on or use the app - both daughter and husband have just as much fun playing without the extra sound effects.Assembly was fairly easy and (so far) this is very sturdy hanging on the back of our door - it's taken quite a bit of abuse and has not fallen apart once.Another great product from Nerf that is providing fun for old and young alike, I definitely recommend.
+I like the use of smartphones to make this a more interactive game.
+It is a good idea and works well; though it would be best if they can increase the range of devices supported; specifically to include android devices.Besides that, my main concern is how long this thing will last.
+The board is made from cardboard, and i already damaged it alittle as i was plugging the hoop and such on to it.
+If you're not worried about durability its a nice hoop set to get but otherwise i wouldnt recommend it.
+This is the basic nerf hoop that has been around forever upgraded to work with an IOS app over the internet.
+My 9 year old daughter loves it.
+She plays without the app on and has fun.
+We also played using the app on my iPod touch.The app has a bunch of options.
+We played one on one.
+The app records video through the front facing camera.
+We use the cardboard stand and had the iPod face the hoop.
+We then played two 2 minute halves of ball.
+After each basket we had to tap the screen to tell it who scored.
+Would be nice to have a 3rd person, or indicators on the backboard you could touch, or maybe voice recognition so you could yell out your name.
+Things got intense as the score was tied as time ran out.
+I lost in a major upset.
+I thought the app added a lot to the fun.
+The sound effects were fun.
+When the game was done, you can go to the app and watch the video highlights.
+The app must use motion detection and it picks out 4 or 5 highlights.
+This Cyber Hoop is so much fun.
+My family of 4 which includes mom, dad, 12-year-old daughter and 10-year-old son have had so much fun playing with it.
+During the warmer months we play Basketball at the kid's school a few times a week with other family members.
+During the cooler months we miss the competition quite a bit.
+This has gave us something new and fun to do every now and then.
+We didn't think it'd be as fun as it is but we actually work up quite a sweat which I think is due to the fact that there's a timer and it's actually keeping score for you.The set up was fast and easy.
+I wish the backboard was a bit firmer and heavier than it is and would somehow tighten into place.
+The slam dunk aspect isn't something we really do because every time the hoop is touched, it's moves out of place.
+I also noticed the next isn't the best quality because it likes to get caught up and snag on the plastic tabs that hold it in place.
+It's a silky type of net.
+I think everything will hold up well enough for a long time to come but the only reason I give it 4 star rather than 5 is due to these reasons.
+I do love the ball that comes with this set though.
+We've had some other indoor hoops and the rubber balls that come with them are really hard making them really loud and annoying after a while.
+This ball is foam and it's nice and soft.It took me a few minutes to find the app to install it.
+The instruction booklet just called it Cyber Hoop and when I typed that in nothing popped up.
+The actual app is called Nerf Cyberhoop.
+This is an okay over the door hoop with electronic features.
+It hangs on my son's bedroom door and he can throw the little foam ball through the hoop while he is doing homework or on his computer.
+It attaches fairly snugly to our standard thickness six panel interior doors.
+The door opens and closes with it attached.The ball is a nice weight and the backboard is attractive and cool for an early teenage boy.
+The electronic features are nice.If the app is the deciding factor for this hoop set, I skip it.
+My son thought the app was novel for about five minutes and hasn't used it since.
+My kids and I are enjoying this b-ball game.
+They thought the music that's played by the hoop in stand alone mode added to the fun.
+They also thought the highlights videos made on our iPad were fun and they were excited to share the videos with Grandma.
+We saved the videos to camera roll where we could then email or message to friends and family.My dislikes about this toy are that while the hoop is hanging on the door, it's difficult to read which mode the game is in.
+After playing the game for a while, you'll memorize these though, so no big deal.
+Also, the board is just cardboard like a board in a board game.
+It's not terribly sturdy and with use, the pieces that attach to the holes in the cardboard may just not stay in anymore.
+I have two girls, so we will probably be okay until daddy plays the game!So overall this is fun, but it doesn't seem that it will have great durability over time, depending on how rough you are with it.

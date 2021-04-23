@@ -1,0 +1,251 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+I didn't like it because in order to see it, we had to dim/turn out the lights.
+So I love the idea of glow in the dark utensils.Although I haven't fired these up yet, I have bought all the components separately in the past.
+We used this over Halloween.
+Everything for a little kids party is in there and almost everything is designed to glow when used as directed.You get little plates, maybe a bit on the 'too small' size, forks that can be attached to glow handles, napkins, cups (not glowing) and a large number of glow sticks that can be turned into bracelets or whatnot.
+My patio looks like a red-neck disco with Christmas lights up year round.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.0073382072150707245,0.004097443539649248,0.0027305549010634422,0.006097575183957815,0.005505104549229145,0.004013463854789734,0.0034839932341128588,0.004048726987093687,0.005130905192345381,0.006666913628578186,0.0037930968683212996,0.004048726987093687,0.004642467480152845,0.002857243875041604,0.004018586594611406,0.003789423732087016,0.0038585178554058075,0.003778744488954544,0.004732842091470957,0.00558313587680459,0.0033959676511585712,0.0051552914083004,0.0070380414836108685,0.007675494533032179,0.005504011642187834,0.004101586062461138,0.004004957620054483,0.005454636178910732,0.003585615660995245,0.0042698681354522705,0.0032127313315868378,0.004487995989620686,0.005233397241681814,0.004003934096544981,0.0027079181745648384,0.003363375086337328,0.0038401405327022076,0.0052727144211530685,0.0029647734481841326,0.002728769090026617,0.006061974912881851,0.003981312736868858,0.0034388231579214334,0.0043599591590464115,0.004220152273774147,0.00407186895608902,0.003728533163666725,0.003324660239741206,0.0045053171925246716,0.0065120309591293335,0.0037852395325899124,0.004529700614511967,0.0038840582128614187,0.00432775542140007,0.0047953142784535885,0.004381767474114895,0.003375824075192213,0.0032334320712834597,0.0040913843549788,0.0034953670110553503,0.004275134298950434,0.002169844461604953,0.005373715423047543,0.004102120641618967,0.0056687090545892715,0.004624460823833942,0.003409766126424074,0.0036041534040123224,0.005607923027127981,0.003759489394724369,0.005342238117009401,0.0035829830449074507,0.003757613943889737,0.004233583342283964,0.00474351504817605,0.005211057607084513,0.0038142725825309753,0.003650119761005044,0.0032396772876381874,0.006804458796977997,0.0029536993242800236,0.00629750732332468,0.0033164897467941046,0.0034411780070513487,0.003437676001340151,0.0026497365906834602,0.005748022813349962,0.0036314460448920727,0.003525165840983391,0.0040492950938642025,0.005267480853945017,0.004582460969686508,0.004535733722150326,0.004055779427289963,0.004211516119539738,0.0031189676374197006,0.004015845246613026,0.004076176322996616,0.006180310621857643,0.00539567181840539,0.00374026270583272,0.003672325052320957,0.0024017977993935347,0.0026830537244677544,0.0026692580431699753,0.003407638054341078,0.0025658397935330868,0.003770979819819331,0.0031632462050765753,0.003850474487990141,0.003938213922083378,0.0031601078808307648,0.004337908234447241,0.004023219924420118,0.003585813334211707,0.0036091075744479895,0.004868042189627886,0.004849568475037813,0.0036896958481520414,0.0032677582930773497,0.003935838583856821,0.0045286971144378185,0.003965009469538927,0.00376744382083416,0.004473898094147444,0.0042178393341600895,0.003231677459552884,0.003789190435782075,0.004209776874631643,0.004159560892730951,0.008281229063868523,0.0041427006945014,0.004106271080672741,0.0036059939302504063,0.006342052482068539,0.004250339698046446,0.0040535046719014645,0.003766370238736272,0.0038005884271115065,0.0033259892370551825,0.007497136015444994,0.004575187340378761,0.0043401094153523445,0.004911075346171856,0.0042041693814098835,0.0045472378842532635,0.0032229828648269176,0.0032603114377707243,0.0037523682694882154,0.0044084335677325726,0.0042041693814098835,0.006610829383134842,0.004116244148463011,0.004116244148463011,0.00396385183557868,0.004340341780334711,0.005007382947951555,0.0060113114304840565,0.00454309768974781,0.003386208089068532,0.0031657766085118055,0.005483428947627544,0.0035066832788288593,0.004150902386754751,0.004116244148463011,0.005342473275959492,0.005417641717940569,0.004088739864528179,0.00615106662735343,0.003213677555322647,0.004538347478955984,0.003386694472283125,0.003489435650408268,0.005697500426322222,0.0035457329358905554,0.004443526733666658,0.0036105818580836058,0.004150195512920618,0.0038745501078665257,0.0038651111535727978,0.005100004840642214,0.006332045886665583,0.004995239898562431,0.003828998189419508,0.004226640798151493,0.005423323251307011,0.003829161636531353,0.004008544143289328,0.003812219714745879,0.003939726855605841,0.004115208517760038,0.004052731208503246,0.003657762659713626,0.004202644806355238,0.004056284204125404,0.003992886282503605,0.004039013292640448,0.004122190177440643,0.005686523858457804,0.003475373378023505,0.005535738077014685,0.005156666040420532,0.004155970644205809,0.0030427181627601385,0.004312440287321806,0.0029528827872127295,0.003206520574167371,0.005503791384398937,0.004102436359971762,0.0038744877092540264,0.004636999219655991,0.003813641145825386,0.0036496820393949747,0.00378156709484756,0.002483995398506522,0.003981702961027622,0.0025124787352979183,0.004137963522225618,0.003882472636178136,0.003915245644748211,0.006178346462547779,0.003745562396943569,0.006197846960276365,0.0035904564429074526,0.004470080137252808,0.004407020285725594,0.005004291422665119,0.0047210995107889175,0.004612795077264309,0.004673659801483154,0.004524684976786375,0.0035580501426011324,0.005050293169915676,0.0031561516225337982,0.0033221212215721607
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+Everything for a little kids party is in there and almost everything is designed to glow when used as directed.You get little plates, maybe a bit on the 'too small' size, forks that can be attached to glow handles, napkins, cups (not glowing) and a large number of glow sticks that can be turned into bracelets or whatnot.
+Likely to make for a fun party for as long as it's set to take place 'after dark'.
+Probably best used during the holiday season when the Sun sets early.Everything in the kit is disposable, one-use.
+I feel like this product offers a great deal of convenience for the family looking to throw together the place settings and some entertainment for a small party --- particularly when working from scratch.The glow sticks are really vivid and fun, and the utensils with the plug-ins for the other included glow sticks are a unique touch I've never bumped into elsewhere.
+Those coupled with the plates, cups, napkins, and tableclothes make this kit a really super all-in-solution which gives it a value that I feel is pretty well expressed in the price.
+Very handy.
+This party kit is for 8 people.
+I used it for a kids party and they loved it.
+The plates, cups and napkins provided are bright and colorful.
+The forks are attached to glow stick handles.
+That was really cool.
+The kids loved that.
+The sticks fit very securely into the openings making the forks sturdy.The kit comes with 50 thin glow sticks and 50 connectors.
+The kids had a blast connecting them and making all sorts of shapes.Overall, this kit is great fun for kids parties.
+This review is from: WeGlow International Salad Fork 8 Person Party Kit, Clear (Toy)Vine Customer Review of Free ProductMy preschool twin girls were completely taken with this set.
+Unless one has girls that age, it will be difficult to imagine how fun and interesting this is for them.The first thing they went for was the glow sticks.
+The excitement was at peak levels for over two hours.
+The glow sticks work like bubbles in that they immediately captivate little kids.Later they were crazy happy about the table settings.
+This gave them the opportunity to assign colors to people and match their place settings with them: cups, plates and so on.
+I think the control they felt was exhilarating.In my opinion, the toy makers knew what they were doing with this set that is directed at girls around the age of mine.
+It's difficult to find a toy that provides such satisfaction as this did.
+"I'm really big on kid parties and stuff that glows in the dark.
+My patio looks like a red-neck disco with Christmas lights up year round.
+So I love the idea of glow in the dark utensils.Although I haven't fired these up yet, I have bought all the components separately in the past.
+I buy 8"" glow sticks in packs of 100 for $10.
+My disposable table wear comes from the Dollar Store.
+I reckon you can create this entire kit from scratch for about $10 with more and better components.But I will admit it never occurred to me to actually hold the party in the dark.
+The twins' birthday is next month (October) so we'll use this set then and we will start off in the dark.
+I'll see if any of the photos are clear enough to upload."
+We took this set to a picnic and movie in the park where other glowsticks and necklaces were passed out, and these outshined all of them by far.
+They were twice as bright and we were able to use them the next night too because we put them in the freezer when we got home.The kit includes regular glow sticks that fit into fork adapters, paper cups and plates for eight, a glowstick centerpiece, a rather thin plastic tablecloth, and a canister of 50 thin, eight inch long glow sticks and adapters that can be made into bracelets, necklaces, or whatever.I could probably put together a similar kit (without the fork adapters) with items from the dollar store, but their glowsticks and bracelets don't shine as brightly as these do.
+So, because the kids enjoyed them so much, and they were good-quality glowsticks, I would recommend the kit.
+Imagine how fun a night time party whether celebrating a birthday, getting together for a sleepover,  or throwing a Halloween bash would be if things were glowing!
+Thanks to the WeGlow Party Kit  that offers enough pieces to throw an eight people party you can!This kit comes with well over 100 pieces.
+What's in the box are paper plates, cups, napkins, a table cloth, and number of glowing sticks and cutlery heads (forks) & handles.
+The instructions found within the box offers great suggestions and information from how to create your party to how to assemble the wares such as the glow necklaces, bracelets, and even a WeGlow Lantern Centerpiece.I'll have to admit I was very surprised on how bright the glow ware glows!
+I compared it to the glow sticks I've bought at the Dollar Store and was completely blown away.
+The glow sticks in this kit are very bright and lasted far longer than I anticipated.
+I found construction of the centerpiece to linking the necklaces, bracelets, and the cutlery together easy to do.This party ware was a total hit with the kids.
+They played and constructed their own creations for hours!
+I certainly appreciated the uniqueness and the kids all loved they were able to keep their glow sticks as party favors.The all-in-one kit really won me over.
+It's convenient and I love that because parties  can sometimes be a little hectic trying to make sure you don't forget something and have to run out last minute to get it.
+So, with this set you can decorate, dine,  play games, create unique things,  and use the glow pieces as favors!
+I think the kit would be a hit for those of all ages!
+And note that everything in my kit was intact, absolutely no duds when it came to the glow sticks as well!
+Totally worth the money.
+"The children had a great time playing with the WeGlow party set.
+They love glowsticks and necklaces.
+It was fun.For the most part though, this was a 30 minute toy.
+There is one centerpiece light that was a little more complicated to set up and there were plastic throwaway silverware that were glowed up by having glo sticks go in the end of them.
+However, most of this kit is made up of glo-lights and throwaway plates, cups, and one paper tablecloth.
+While the colors were bright, the set is of 8, so you would need more than one for the average birthday party.
+At this price, I would just buy:8"" Glow Stick Bracelets Mixed Colors (Tube of 100)or this pack:100 8"" Premium Glow Stick Bracelets Party Pack."
+My kids just love glo-sticks and in the past I've just gone to Target or similar stores and gotten a pouch or two of them.
+So, I was happy to take delivery of this package.
+And true to form, my children and their friends were soon running through the house having light saber battles and my crafty daughter was making ornaments for her Teddy Bear and an Iron Man ARC reactor for me.
+You might want to download some Star Wars music beforehand.The question is whether buying a kit like this is better than buying items separately.
+You could certainly buy better cups, plates or table cloth although they are pretty standard issue kids party quality.The distinctive items here are the forks with glowing handles, which my kids liked well enough and are fine for non-frozen cakes, and the mounting bracket for the table centerpiece.
+My daughter had fun with the brackets making a glowing harness for her bear and a glowing orb to throw around, and everyone enjoyed the novelty of the forks.So, a qualified recommend from me for a fun product whose value is up to the consumer.
+When my seven year old saw this package in the mail, I literally had to pry the two apart.
+I mean, what kid doesn't love GloSticks?
+When she understood the concept, she immediately started party planning  a sleepover and deciding what friends got to have fun with this kit with her.The hardest part was convincing kids to wait until dark to break open the glowies so they'd work at their best for their longest, but they loved it.
+Connecting them to the plates and cups wasn't too hard, but they popped off a few times and after that the girls were just playing with them anyways, which was fine by me.A cute idea and a fun kit, something new and different, recommended!
+"My WeGlow International Salad Fork 8 Person Party Kit, Clear, arrived just in time for my girlfriend's birthday party.
+I had already celebrated her birthday twice, once with her family and once with our church friends.
+I wanted a special birthday celebration for just the two of us.
+The WeGlow International Party Kit helped accomplish this.
+Tammy and I had a great deal of fun with the tube of WeGlow 8"" Glow Bracelets, Assorted Colors.
+We made necklaces with them using three sticks and three connectors.
+They were simple to put together and we wore them while eating a dinner that I had fixed and while watching a movie.
+They glowed brightly when the lights were extinguished.
+The WeGlow forks were also cool, but we only used them while eating.
+They were very flimsy and the entire time I was using them I was afraid that the tines would break.The tablecloth, cups and napkins were ordinary ones that could be easily purchased at a discount store.
+The plates were small and extremely flimsy.
+We used ours for eating carrot cake.
+Even then, I had to be careful and prevent them from bending and spilling their contents.
+We decided to forego putting together the WeGlow centerpiece and save it for Halloween when we go to our church for Trunk or Treat.
+After putting it together, we'll lay it inside the trunk of my Hyundai Elantra.
+I think the children who are running from car to car, getting candy, will enjoy seeing the glow-in-the dark centerpiece.
+"I love this idea, but almost entirely for the glowing utensils (in this kit, just forks, though spoons are pictured).
+You can obviously get glow sticks at any dollar store or discount store for less money, and the paper products are cheapy and also the kind of thing you can find anywhere, so the main draw is just the glowing utensils, which I've never seen before and ARE cool.You can find other WeGlow sets here: there's a ""Pretty in Pink"" set, sets that include spoons instead of forks, and sets with different colored fork or spoon heads.
+You can also buy just the forks or just the spoons for about half the price (they're sold in sets of 4 or 10, but at the moment, at nearly the same price).It's a really cute idea for a kid's birthday or graduation party, just not quite the value I'd hope for."
+"I went to a Dollar Tree today to check out their glow sticks and those included in theWeGlow International Salad Fork 8 Person Party Kit, Clearare far superior.
+I've never seen the fork system which is very cool and usable if you're not consuming ""solid"" foods.
+The paper plates, napkins and cups are junk and needed to be replaced, and the small tablecloth is a pretty purple but like those available at at the DT.
+I first watched the video on Amazon's website produced by WeGlow and wasn't impressed by the children's fake enjoyment, but thought this might be fun for an adult birthday party.
+The glow sticks are worth the price of admission for this set of 150 pieces, but I strongly recommend purchasing other paper products at the Dollar Tree.
+Those included in this set can be used as backup if you have more people show up than you'd invited.
+If you have the right food and company, your party will be a ball."
+This is essentially a party in a box for 8 kids.
+You've got all the ingredients for a meal: forks, plates, cups and plastic table covering, and a big bunch of glow items, such as glow sticks, hoops and more.
+I say 8 kids because the items for eating are small and not very substantial, in fact, you might want to replace them with stronger items.
+But I see no reason that teenagers and adults can't have a glow party either!
+I think the best thing about this set is that everything you need is there already.
+No need to go an buy individual items.
+If you want to have a glow stick party, this is it!
+Highly recommended!
+This is basically a party for eight younger in a box.
+We actually used it for two sleep overs of four or fewer eight year olds, and it was a hit both times.It comes with 8 paper plates, 8 paper cups, a plastic tablecloth, a cannister of 50 glowsticks, 8 glowing fork handles, 8 fork heads, an a centerpiece frame that you can use to make a glow-globe.
+Add an iPod full of dance tunes and some s'mores and you've got a backyard party that will keep toddlers and grade schoolers rocking until the crack of ten.This was a lot of fun.
+You can definitely get most of it more economically if you shop around, but the glow sticks are super bright, and it's convenient to have a party for eight packaged up.
+Recommended.
+The glow sticks are truly the stars of this one-hundred and fifty piece set, and there are plenty of them!WeGlow Party's service for eight is as cheap as it gets with its flimsy paper cups and cake plates; however, the glowing, multi-colored centerpiece, the fifty glow sticks in a variety of colors, the fork-ends that connect to the glowing utensil stems with loops that can be made into necklaces, and the stick connectors which make this kit a win by offering so many creative possibilities, this kit just can't be beat.
+The kit also includes a package of eight napkins in four different colors, as well as a plastic purple table cover, like those found at the one-dollar stores.I got about five hours of bright, colorful glow before any noticeable dimming within sections of the sticks, but they still have a few hours of glow left afterward, and can be made consistent along the length if shaken up a bit more.
+The glow is easy to activate by simply bending the plastic tubes until the thin, glass activation tubes crack inside.If there are more than eight kids attending the party, it is easy enough to ditch the paper dining ware, or improvise with separate extras, and there are still enough glow sticks to go around.
+This kit not only has everything to make for a fantastic party, but its glow theme also makes the party just that much more fun.
+This kit is a great bargain, and an all-in-one party solution that kids are almost certain to enjoy.
+If there's one thing that I've come to accept since the invention of the glow stick, it is that EVERYONE loves a glow stick!
+When I initially saw this We Glow Party set, I thought it was a terrific idea.
+It claims to contain everything necessary to have an eight person party with 150 pieces included in the kit.
+Problem is, so much of it is throw-away cheapies.
+After inspecting the contents, I'm convinced that you could create a similar experience by visiting your local Dollar Shop and it would cost considerably less money.The two things that are pretty neat and are easily the most interesting things in the set are plastic cutlery handles that can be made to glow and a fun little glow ball centerpiece construction.
+Other than these two additions, everything else can be readily procured for little to no cost elsewhere (and maybe these can too, I just hadn't seen them before).
+What this box is selling comes down to convenience.
+The contents themselves are not particularly distinctive.Included:8 Forks (assembled with 8 heads and 8 glow handles and 8 glow handle connectors)8 Paper Plates8 Paper Cups8 Napkins1 Table Cover1 Glow Ball Centerpiece50 Glow Sticks50 Glow Stick ConnectorsThe proclamation that boast 150 pieces loses some of its value when you consider that 24 of those fabulous pieces are just to construct 8 plastic forks!
+And the paper goods (napkins, plates, cups, table cover) are so inexpensive and they look and feel it.I still think that this is a good idea, I just think this is executed poorly, the advertising overpromises, and the price point doesn't match up with what you get.
+Go to the Dollar Store.
+Go to a party store.
+Take 10 minutes of shopping, you can pull together the same stuff for a fraction of the cost AND probably get better stuff.
+I'm all for convenience, but this just doesn't offer a commensurate value for the added expense.
+KGHarris, 10/13.
+The glow sticks in this kit are quite bright; even the red ones.
+But the paper products were cheap and several of the paper cups had loose bottoms so they were unuseable.
+I would still recommend this because for $20 you couldn't get the glow sticks and fork inserts but just beware to purchase your own paper products.
+The table cloth is a cheap plastic one from the dollar store.
+Not entertaining for over 8-9 years old.
+this kit makes a party of 8 light up.
+the forks light up, which is pretty cool, plates and cups as well.
+it uses glow sticks.
+kids liked it because it glowed.
+I didn't like it because in order to see it, we had to dim/turn out the lights.
+Which then was a pain because the kids were messier.
+If it were an adult party ect, and outside in the dark, its better for that
+"The WeGlow International Party Kit is perfect for serving cake/dessert for a party of eight.
+The kit comes with enough glow sticks to make a glow ball centerpiece, eight glow forks, and 24 8"" glow sticks to make necklaces with.
+Also included is cups, cake plates, and napkins.
+It would have been nice to have eight more plates for pizza, but that is not included.
+For plastic, the forks feel quite durable.
+With the necklaces, 2 - 3 pieces are suggested to be used for the necklaces.
+This could potentially lead to extra pieces for bracelets.If a glow party is what you want, this kit is worthy for that purpose."
+We used this over Halloween.
+My daughter had some friends come over .
+They had a great time with it glowing.
+Where live its really dark.
+So that made it even more fun.
+They enjoyed eating cake and chips on the plates.
+Thats all the plate can hold.
+The plate is not heavy duty, but for a backyard movie this was a great treat.
+All the kids liked it and loved the center piece.
+we decided to play a game of hot potatoe with it.
+Overall great fun for kids.
+Or a dark night at the beach with wine cheese and crackers.
+The WeGlow set is fun.
+A little pricey, but fun!
+We used it one night for a late night cookout and fire pit.
+The kids had some friends over, so I figured it would be a great time to try it out.
+The kids had a blast with it.
+They ranged in ages from 14-17.
+Kids of all ages love glow sticks, glow necklaces, etc, so this is a kit that can be used for the younger crowd as well as teens.
+The quality of the paper plates and cups wasn't anything remarkable, but you can't really expect too much from party supplies to begin with.
+They are the same quality as you would buy in any party store, Dollar Tree, WalMart, etc.
+What you're really paying for here, is the glow items and the convenience of having it all in one kit.
+You can attach the glow pieces to the forks, plates and of course makes glow necklaces, bracelets and a fun ball to toss around - which is what our group did after eating.
+You can get creative and hook the pieces together however you want, really.
+It actually made for a night of fun.
+Sometimes you don't realize how the littlest things can turn into such fun.
+I had fun with the kids, too and it is nice that we can all have that memory.
+My daughters were able to weasel out a second night of use of the glow sticks, by sticking them in the freezer overnight.
+The WeGlow party kit has a mountain of glow sticks, and they work very well.
+Snapping them is easy for all ages, and the included accessories allow them to be turned into bracelets, fork handles for low duty (cake) use, and a silly centerpiece.
+It is hard to beat the fun and relatively low expense of glow sticks.
+On the other hand, the other party accessories are low quality and not unique.
+You could do as well or better at the Dollar Store.So, a big thumbs up for the glow sticks and bracelet/fork attachments, but the other party items might be a better value to purchase separately.
+I have to rate this two ways.1.
+If you have little time and want that glow stick party, but can't gather supplies, then this is perfect for you!
+~~Five stars!2.
+If you have time and still want that glow stick party, and can go to a dollar store, then this isn't perfect for you.
+~~Two stars.Overall, everything contained in this box you can easily get at a dollar store for about ten bucks.Included are:- 8 colorful cups.- 8 napkins- 8 plates.- 1 plastic purple table cover.- 8 Glow stick forks (these are cool, and not available at a dollar store).- A box of 50 mini-glow sticks.- A round glow centerpiece.So...
+I don't know, depends on what you need.
+For over $20 this kit would do better to go for $10'ish.
+I got this set for a fall dinner on the patio with the kids.
+We love to sit on the deck late evening with candles and lights.
+I know the kids will really enjoy the glowing forks!
+(Well, just the handles glow.
+Basically they are glow sticks that fit into forks that are missing their handles.
+)Overall neat idea to have everything included this way, but if you have time you can gather most of what's included for cheaper.UPDATE: the glow sticks are really good quality!
+They are thick, solid, and *very* bright.
+Better than the dollar store brand, but still just as fun.
+"My niece used this for a ""tea party"" and her friends thought it was cool.
+They're eight and of course there was no tea."
+Loved this product very much!
+I had a party with kids from 5 thru 10 and they thought it was real cool.
+They all loved the glow in the dark sticks.
+I thought the best thing was the glow in the dark forks-which I or anyone there had never seen or hear of these before.
+Very reasonably priced for all of the product that you got.
+My kids still got their sticks up in their rooms to be played with in the future.Great product!
+Would recommend for any kids party!
+This is essentially a glow-stick party in a box.
+It includes 8 plates, 8 cups, 8 glow-forks, and a disposable table cloth.
+It also comes with a neat glow-stick globe centerpiece and a cylinder of 50 glow sticks.
+It's geared for children, but honestly it's fun for adults as well.
+The glowsticks are bright (although it's a good idea to snap them just a little bit before the guest arrive so that they're at their full brightness.
+I liked that the box included just about everything we needed for a party with friends.
+Kids love glow sticks, and this is a glow party in a box.
+My favorite items are the glow handles that make the forks and spoons in this set glow.
+The glow mechanisms are typical snap and shake chemical glow sticks, definitely one use.The rest of this kit is a collection of glow segments that can be made into bracelets, neck glowers and a centerpiece.
+Plates,cups and a table cover are day glow colors but do not glow themselves.It is a party for 8 in a box, not cheap, but all in one for about what you might spend on the piece parts.My favorite are the untensil handles which I have never seen before.
+We used this for our 9 year old's sleepover.
+They felt that it was mainly geared towards younger kids, but still had fun with it.
+It is pretty good quality and includes a good variety of items.
+"First of all I think the title of this listing is a little goofy and confusing if you just happen to stumble across it.
+I wondered why the heck ""Salad Fork"" & ""Clear"" was in the title?
+I have since figured out that it's because these kits come with either Fork or Spoons and they come in a few different color options as well.
+Anyway, when you get this box it's actually called WeGlow Party - Complete Glow Party in a Box.
+150 Piece Party Kit.
+It would be nice if they were all together in one listing you you could just choose the options that you want.
+To find other options just type ""We Glow Party Kit"" into Amazon's search field and you should see all the options.This particular kit comes with:8 WeGlow Ware Utensil Heads8 WeGlow Ware Glowing Handles8 Necklace Connectors50 8"" Glow Connectors1 Glow Centerpiece50 8"" Glow Sections8 Paper Plates8 Paper Cups8 Napkins1 Table CoverColors- My set comes with a Purple Table Cover and the plates, cups & napkins come in Red, Yellow, Blue & Green.
+2 of each color.
+The colors are nice & bright.
+There's a variety of glow colors as well.Age Recommendation- This is a neat little kit and it's nice & handy when you're having a birthday party.
+My 12-year-old daughter finds this kit to be a bit childish while my 10-year-old son thinks it's neat.
+The age recommendation says 6-15 years old.
+I would have to say my personal recommendation would be for ages 6-10.
+I think the older kids won't want much to do with it.Overall I think this is a great set for a birthday party.
+Would probably work better for evening parties seeing as how it has the ""Glow"" feature.
+I think kids would like to see the stuff glow in the evening rather than during the day.
+This set is a nice surprise for anyone planning a little party, especially one where the lights will dim - outside at sunset, in a darkened room, where the glowing of this set of forks and connectors can be enjoyed.We enjoyed this with our grandsons and their friends, it made them think we were really neat grandparents (that's funny in itself?
+)There are suggestions for some games, but the fun was in playing with the glowing objects and putting them together in different way - just sort of the same way everyone enjoys playing with glow sticks.
+These do last longer and glow brighter which is a nice surprise.
+We did not tell anyone when we set things up on our patio, so as it got darker it made them all the more fun to play with forks that actually glowed.The plates are very insubstantial and I had to get out real forks for one grandson who needs to cut up hamburgers because of some dental work and for everyone else for the hard ice cream cake.These are nice for a different treat and a surprise, but I would prefer to choose or have a separate selection of glowing pieces and have forks and plates that didn't need replacing.
+"Kids love glowing everything.
+This works better for sleepover and parties where you can draw the curtains.
+The glow is reasonably bright, but no competition for sun coming through the window.The glowing utensils are unique - but they're really one time use and not surprisingly, not at all sturdy.
+The fatter glow stick goes into the utensil head.
+Unless you're really into one stop shopping, I'd be tempted to simply get100 10"" Premium Lumistick Glow Stick Bracelets Assorteda regular set of paper plates and disposable utensils, and call it a day."

@@ -1,0 +1,100 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+would these flexible k'nex fit with my hard k'nex set?
+Top sentence(s):
+Nothing at all like the toy I remembered from my childhood.
+They are loving this set so much I have added the 100 piece set to my shopping ideas for Christmas.
+They fit quite snugly.I remember playing with TinkerToys when I was a little girl and I'm so excited that my sons get to play with them now.
+.
+I really don't think you get a great deal for your money with these.
+
+Question attention weights:
+0.46547242999076843,0.534527599811554
+Sentence attention weights:
+0.014493155293166637,0.005105241667479277,0.0067640747874975204,0.013542871922254562,0.010746421292424202,0.0141847999766469,0.017339415848255157,0.012305299751460552,0.014573540538549423,0.01408233493566513,0.010619062930345535,0.015380126424133778,0.015904752537608147,0.012238224036991596,0.014381421729922295,0.014654110185801983,0.007116269785910845,0.017526013776659966,0.015749791637063026,0.009652012027800083,0.009728665463626385,0.010189546272158623,0.018915871158242226,0.0061168186366558075,0.014074387960135937,0.01404536236077547,0.014336761087179184,0.00893265102058649,0.012343675829470158,0.006608616095036268,0.0062319510616362095,0.00602710573002696,0.011834690347313881,0.01272895559668541,0.009081711992621422,0.013826231472194195,0.018554124981164932,0.013122640550136566,0.011854671873152256,0.011304213665425777,0.013390709646046162,0.011382739059627056,0.014773799106478691,0.007239219732582569,0.011540251784026623,0.01599530316889286,0.00806506909430027,0.014734790660440922,0.009821228682994843,0.007739338092505932,0.012777913361787796,0.014074872247874737,0.009642013348639011,0.014282697811722755,0.015530443750321865,0.012438303790986538,0.014282697811722755,0.006300501991063356,0.014141017571091652,0.01656786911189556,0.013768027536571026,0.010873930528759956,0.015819784253835678,0.01432302501052618,0.014024007134139538,0.012896386906504631,0.015918957069516182,0.013257106766104698,0.014399347826838493,0.012084673158824444,0.008370610885322094,0.014387109316885471,0.013959432952105999,0.008729483000934124,0.013774207793176174,0.014342453330755234,0.014737921766936779,0.010543283075094223,0.013278149999678135,0.007535932585597038,0.012037747539579868
+0.014703514985740185,0.0048536136746406555,0.007099024951457977,0.013738187961280346,0.011088576167821884,0.014258427545428276,0.017613256350159645,0.012599543668329716,0.01453537680208683,0.013713491149246693,0.010826466605067253,0.015352590009570122,0.015718037262558937,0.012374061159789562,0.014467768371105194,0.014445285312831402,0.007189484778791666,0.01723967120051384,0.015675107017159462,0.009717213921248913,0.00947492104023695,0.01002824492752552,0.018356308341026306,0.006149346008896828,0.013550464995205402,0.014144406653940678,0.013735786080360413,0.00900215096771717,0.01243547908961773,0.006874562706798315,0.0062164003029465675,0.006019371096044779,0.012061760760843754,0.012515264563262463,0.009148961864411831,0.013873452320694923,0.018074415624141693,0.012990675866603851,0.011928556486964226,0.011318559758365154,0.013685409910976887,0.011515130288898945,0.01481038611382246,0.00759478285908699,0.011814276687800884,0.01550444308668375,0.00821187999099493,0.01466408185660839,0.009450853802263737,0.007566291373223066,0.0124606778845191,0.014210887253284454,0.009648233652114868,0.01437955629080534,0.015593641437590122,0.012642890214920044,0.01437955629080534,0.006171040702611208,0.014307343401014805,0.016503848135471344,0.013421192765235901,0.010947971604764462,0.0159011147916317,0.014398989267647266,0.014131895266473293,0.013094759546220303,0.015505440533161163,0.013176793232560158,0.014504007063806057,0.012247026897966862,0.008621771819889545,0.014492294751107693,0.014168402180075645,0.008774126879870892,0.014199217781424522,0.014441472478210926,0.014794301241636276,0.010371225886046886,0.013310088776051998,0.007468754425644875,0.0118060652166605
+Questions:
+would these flexible k'nex fit with my hard k'nex set?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+"My 3 year old loves playing with these.
+The parts are just the right size for his hands and he can create anything he wants from them.The Amazon description says ""Sturdy box for storage and portability"" but I found that the box will probably not hold up nearly as well as a plastic or fabric storage bin will.
+(Although I saw an idea on Pinterest once about ""wrapping"" boxes with duct tape to make them look and hold up better...but I digress.
+)The instruction sheet gives good ideas, but my kiddo wanted to build on his own.
+It took about two seconds to show him how to put them together.
+I did have to help him get them back apart though.
+They fit quite snugly.I remember playing with TinkerToys when I was a little girl and I'm so excited that my sons get to play with them now.
+I'm definitely going to be getting a few more sets so we can build even bigger things!"
+It's weird that Tinkertoys made out of plastic would seem this odd.
+To be fair, they are pretty much the same thing as they were when I was a kid, only plastic instead of wood.
+But for some reason, you still feel shortchanged when you open the box .
+.
+.
+wish they were still like the other ones.They are very durable and there is a lot of value in this set, just don't expect any nostalgic fulfillment.
+These are plastic, but very well made.
+I bought some plastic Lincoln Logs recently and they were trash - these are actually a good representation of the old toy, just different materials.
+Recommended if you can't find a good, older set in a garage sale .
+.
+.
+"I saw tinkertoys on Vine, and I said to myself, ""Perfect!""
+I was immediately hit by nostalgia for the cloth bag filled with scratched and chipped wooden Tinkertoys that turned into skyscrapers, rockets, and whatever else with a little childhood imagination.
+I couldn't wait for my own kids to get the same chance to build without constraints.Then the box arrived, I opened it up and...they're plastic.
+Nothing at all like the toy I remembered from my childhood.
+And the worst part of it is that my kids couldn't care less, and the plastic version can actually do stuff that the wooden one can't.Once you get over your shock at seeing plastic Tinkertoys, you'll find that these are versatile building blocks that will stoke your kids' imaginations.
+And the purple bendy piece, that becomes flower petals if you want--my Tinkertoys couldn't do that.
+So these are actually quite good.
+The biggest challenge will be keeping the set together, since the kids love to create things, run around the house with them, and leave them where they drop them.So yeah, I would be lying if I said the plastic didn't disappoint me at first, but seeing how much my kids love these Tinkertoys, I got over it pretty quickly."
+This toy is great for the fine motor skills, reading instructions and also creativity beyond what i given.
+My son who is five was able to easily follow the instructions to build the items and has since had fun creating his own.
+Overall this is a great toy that can grow with your child as they explore areas of math and geometry and building
+I have been wanting to get Tinker Toys for my kids but reading negative reviews about the quality of the wood version has kept me from ordering them.
+These plastic Tinker Toys are great!
+All the pieces fit together nicely, tightly enough to hold tight but not difficult to connect or disconnect.
+The kids (ages 3 and 6) really enjoy the flexible pieces which can be bent into curves and loops.
+The 65 piece set comes with instructions to build a few projects of varying difficulty.
+The kids' favorites are the chair (which they insist on sitting on, which I would not recommend letting your kids do) and the merry go round.
+They are loving this set so much I have added the 100 piece set to my shopping ideas for Christmas.
+Highly recommend.
+At first glance it seems like 65-pieces is a lot of parts, but after you assemble a few small projects, you realize it is only a starter kit.
+These parts are all plastic, so it has to be very cheap to build these Tinkertoys components.
+There are just not many of the sticks and lots of small useless parts.
+I gave it five stars just because of the quality and durability.
+I played with the wooden version when I was a young kid.
+Unfortunately the end pieces of the wooden sticks eventually broke or became too loose to use anymore.
+I really enjoyed building things with my Tinkertoys.
+I had a large inventory of parts that allowed me to build some fairly elaborate projects.
+It would cost a considerable amount of money to buy enough of these plastic parts to build elaborate structures.
+But these plastic parts do appear to be very durable.
+I don't see how they would ever break.On the package, it says it is for ages 3+.
+But I think the insertion force and strength required to disassemble projects may be difficult for many three year old children.
+Very young children will need to be fairly strong to insert and disassemble structures.
+I think they should put more of the stick components in this so-called value set.
+I don't agree that it is anywhere near value pricing.
+No, these are not the Tinkertoys from your youth.
+These are all-plastic, colorful, and a little larger than you remember.
+And there are different pieces.
+Allow yourself to be disappointed for a moment, then move on and see how much fun these are!
+And then realize that maybe these are actually a little safer than those skinny wooden dowels of the olden-day model that could easily splinter or poke your sister in the eye.My favorite components of this updated Tinkertoy set are the flexible purple pieces that can bend and open up so many possibilities.My one major complaint about this toy is that THERE ARE HARDLY ANY PIECES IN THE BOX!!
+The box is an ok size, but when you open it up and realize that the pieces only take up literally about 1/3 of the space, then you'll understand.
+I really don't think you get a great deal for your money with these.
+But they are very fun.3.5 stars (I would have given it 5 if not for the ridiculous low quantity of pieces.)
+Sixty-five pieces sounds like a lot, but believe me, this is a small set.
+My grandkids loved them, but became quickly frustrated at not having enough to build the things they thought of.
+You are limited to a few things shown on the box.
+I had to reorder a larger set to go with these.
+That being said, if you are getting these to see if your child would enjoy them, this would be a good beginner set.
+Personally, I would order a larger set to begin with if it were me.
+They are tinker toys and everyone is pretty familiar with them.
+You build things.
+My granddaughter's favorite are the things she can make spin, like whirligigs (or windmills as she calls them.)
+If you are used to the tinker toys of your youth, they are not quite the same.
+We had wood back then, but now they are plastic.
+They are sturdy though, and do encourage a child to use imagination in play, which is a good thing.
+I believe these are a great toy for the toy box at the grandparents' house, too.
+They will keep your child occupied for hours.
+My grandchildren are 3 and 6, and although the 3 year old needed some help, he loved them, too.
+"Overall, unimpressive.
+The set contains a lot of little connector pieces and not nearly enough of the actual rods/cogs to make anything functional.
+The two ""example"" pieces on the front are basically all you can make.I got this for my four year old and he couldn't assemble it without my help.
+The pieces fit too snugly for him to be able to securely assemble anything.I'd pass on this one unless you are purchasing it to expand another set.
+On its own, it just isn't enough to be playable."

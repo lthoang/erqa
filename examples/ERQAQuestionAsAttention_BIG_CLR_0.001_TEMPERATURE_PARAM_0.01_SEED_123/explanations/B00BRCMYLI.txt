@@ -1,0 +1,181 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+what age group is this for?
+Top sentence(s):
+After all, an ipad is not an inexpensive item and it is important that it remains in one piece when kids use it.So, kids love the games and the ipad is reasonably protected, so are there any drawbacks to this game?
+"My 2 1/2 year old granddaughter really likes this.1.
+The app is okay on it's own, but free kids art apps are everywhere and this one isn't anything special.
+:)
+In the end, that as a positive because, as mentioned in the title of this review, we wanted this to occupy her for long, boring periods of a road trip.
+
+Question attention weights:
+0.23736460506916046,0.10441754758358002,0.6582178473472595
+Sentence attention weights:
+0.007852615788578987,0.007658292073756456,0.006463065277785063,0.002770067658275366,0.006454547867178917,0.0029881654772907495,0.007223770022392273,0.005172786768525839,0.0072326953522861,0.005885482300072908,0.005952462553977966,0.004792280960828066,0.004905658308416605,0.008195837028324604,0.007312087342143059,0.005756790284067392,0.006886279210448265,0.007382526993751526,0.007274270057678223,0.007991648279130459,0.0038219804409891367,0.0035054583568125963,0.008166752755641937,0.005297291558235884,0.010970432311296463,0.00865785963833332,0.007875518873333931,0.007575447205454111,0.006546313408762217,0.004174062050879002,0.007467042189091444,0.0068874540738761425,0.005664784461259842,0.0037223724648356438,0.0050771781243383884,0.008228366263210773,0.007282467558979988,0.005046172998845577,0.0046780225820839405,0.005587365943938494,0.007872892543673515,0.008744846098124981,0.007497852668166161,0.008135970681905746,0.006140562705695629,0.005783425644040108,0.009364036843180656,0.007376044988632202,0.005525360815227032,0.007468255236744881,0.004327406641095877,0.007951545529067516,0.007446363568305969,0.004644565749913454,0.007635259069502354,0.007336962502449751,0.00621767807751894,0.007121099624782801,0.006530608981847763,0.007504738867282867,0.008098898455500603,0.004363193176686764,0.00632348470389843,0.004124979954212904,0.002795747946947813,0.007886799052357674,0.008797401562333107,0.007039067801088095,0.0036896539386361837,0.005839491728693247,0.007663780823349953,0.005772955249994993,0.007902208715677261,0.0034009513910859823,0.005936197005212307,0.00782424584031105,0.007535260170698166,0.006800197996199131,0.005695169325917959,0.0066203949972987175,0.005716490559279919,0.007807043846696615,0.0076170931570231915,0.003798909019678831,0.005925504956394434,0.002995399758219719,0.007684654090553522,0.006475893314927816,0.008655988611280918,0.00675668939948082,0.003021201817318797,0.0068194326013326645,0.002463021082803607,0.004885946400463581,0.005119814071804285,0.003974736202508211,0.00573873333632946,0.004795654211193323,0.003969768527895212,0.006786665879189968,0.006724833976477385,0.006448336411267519,0.009128292091190815,0.005380419082939625,0.007501588203012943,0.00412718253210187,0.004224642179906368,0.007186652161180973,0.0067456746473908424,0.0035738027654588223,0.00519634410738945,0.004331198055297136,0.00799933448433876,0.007451301906257868,0.007123162038624287,0.006228107959032059,0.0056698559783399105,0.007906553335487843,0.003557696705684066,0.008919918909668922,0.007820903323590755,0.005763976369053125,0.004813310224562883,0.0042685517109930515,0.007822354324162006,0.004438099917024374,0.006634275428950787,0.0079355388879776,0.009033980779349804,0.003806320484727621,0.007858320139348507,0.005686944350600243,0.0024663766380399466,0.007995584048330784,0.007180274464190006,0.004849330987781286,0.0036775360349565744,0.003733205609023571,0.006347000133246183,0.004439758602529764,0.004849810618907213,0.006114892661571503,0.003938241396099329,0.004595510195940733,0.006590190343558788,0.005157075822353363,0.008223076350986958,0.008522034622728825,0.007294652983546257,0.004805202130228281,0.00670222332701087,0.007284318562597036,0.006831409875303507,0.006708781700581312,0.0067185512743890285,0.006046014372259378,0.008447360247373581,0.008604180999100208,0.008348323404788971,0.0040937792509794235
+0.007454647216945887,0.006965627893805504,0.005741396453231573,0.0034217035863548517,0.006391881499439478,0.002939795609563589,0.007044915575534105,0.005073058418929577,0.007900416851043701,0.00544532248750329,0.005760609172284603,0.004264598712325096,0.0050489935092628,0.007945536635816097,0.006897369399666786,0.00618785759434104,0.006652293726801872,0.00818716175854206,0.006882220506668091,0.008130715228617191,0.0023694594856351614,0.002820755587890744,0.008558141998946667,0.0052071488462388515,0.009837613441050053,0.008238929323852062,0.007362605072557926,0.007263974752277136,0.005380764603614807,0.0036878595128655434,0.006800451781600714,0.006273940205574036,0.004880479071289301,0.0036451644264161587,0.005498830694705248,0.007969561964273453,0.006620342843234539,0.007329488638788462,0.003589817089959979,0.006933699827641249,0.007996686734259129,0.008797789923846722,0.006892960052937269,0.0076422058045864105,0.008690515533089638,0.0054641044698655605,0.010937788523733616,0.00742115406319499,0.006727105006575584,0.006892444100230932,0.003740312997251749,0.007272946648299694,0.008835910819470882,0.005142067559063435,0.008227148093283176,0.00563351484015584,0.005435479339212179,0.006574637722223997,0.006237189285457134,0.007051180582493544,0.00787445716559887,0.004555800464004278,0.005966877564787865,0.004448064602911472,0.0028684991411864758,0.007276973687112331,0.009157183580100536,0.006674321833997965,0.004286969546228647,0.005119300447404385,0.008197964169085026,0.005239902529865503,0.007542022038251162,0.003465652232989669,0.005287867039442062,0.0072182402946054935,0.0070703281089663506,0.006910344585776329,0.007198238745331764,0.006747368723154068,0.00588263850659132,0.0075422306545078754,0.007268291898071766,0.004495983012020588,0.006033490411937237,0.0045767310075461864,0.007193954661488533,0.008185089565813541,0.008086004294455051,0.005247792694717646,0.003906983882188797,0.007091388572007418,0.002630087314173579,0.005096671637147665,0.006346387788653374,0.003773059928789735,0.004783329553902149,0.005061239004135132,0.004451372195035219,0.007778858300298452,0.005959138739854097,0.005369216203689575,0.010306931100785732,0.0053738695569336414,0.007090872619301081,0.004798518493771553,0.0035620478447526693,0.006490063853561878,0.006545607466250658,0.004019897896796465,0.00660000229254365,0.006122242659330368,0.008607359603047371,0.00690467469394207,0.008266442455351353,0.0065796589478850365,0.005947214085608721,0.0080597884953022,0.0036986812483519316,0.008212851360440254,0.005768457893282175,0.006615292746573687,0.004971630405634642,0.0042784991674125195,0.00706056784838438,0.004506905097514391,0.0056682457216084,0.00695226714015007,0.009449147619307041,0.0038155957590788603,0.007234401069581509,0.005260512698441744,0.0023741661570966244,0.00990232452750206,0.0063659315928816795,0.005216142628341913,0.004377076867967844,0.0043247113935649395,0.007319814991205931,0.004363304004073143,0.004095206968486309,0.006064489018172026,0.004211285151541233,0.004625909496098757,0.006684776395559311,0.0041522984392941,0.009480578824877739,0.008115425705909729,0.0065991743467748165,0.0037064780481159687,0.007096966728568077,0.007009308319538832,0.006688191555440426,0.005704441107809544,0.007025222294032574,0.008713259361684322,0.008140116930007935,0.009697627276182175,0.009986311197280884,0.00310663809068501
+0.00827156100422144,0.007857197895646095,0.006727786734700203,0.0026494248304516077,0.006572504993528128,0.0024698269553482533,0.0069045377895236015,0.003947876859456301,0.007177321705967188,0.005487567745149136,0.0066685001365840435,0.003886947175487876,0.0032966716680675745,0.008676034398376942,0.0073210690170526505,0.004312497563660145,0.006770540028810501,0.007851171307265759,0.006979653611779213,0.008665870875120163,0.0032031142618507147,0.003502784064039588,0.007809789851307869,0.0054528662003576756,0.010774655267596245,0.007649273611605167,0.008390070870518684,0.008084936998784542,0.006051923148334026,0.002921569859609008,0.00785247515887022,0.0064564966596663,0.0045662373304367065,0.002755145076662302,0.004750567488372326,0.009070955216884613,0.006956770084798336,0.004409133456647396,0.003981590270996094,0.005696895532310009,0.008604620583355427,0.009677485562860966,0.007085699122399092,0.009227621369063854,0.00574075523763895,0.006159767508506775,0.01001620665192604,0.007818039506673813,0.004951811395585537,0.006239204201847315,0.0028594527393579483,0.008403191342949867,0.007856576703488827,0.004287024959921837,0.009211506694555283,0.006872810423374176,0.005757903214544058,0.006751672364771366,0.005604701116681099,0.007561034988611937,0.00835627131164074,0.004474894143640995,0.006415297742933035,0.004133335314691067,0.0021203833166509867,0.008405053056776524,0.009886225685477257,0.0077677820809185505,0.0034188362769782543,0.00608095433562994,0.008496062830090523,0.005554842762649059,0.009528124704957008,0.002801880007609725,0.005562837701290846,0.0082327825948596,0.008128128945827484,0.007267725188285112,0.0054198321886360645,0.005565549246966839,0.006460965145379305,0.00825452245771885,0.008082075044512749,0.0032621186692267656,0.006623109336942434,0.0030242023058235645,0.008020279929041862,0.006990468129515648,0.009414534084498882,0.006458684802055359,0.003097561188042164,0.00715998699888587,0.0024249472189694643,0.004140081349760294,0.004922104999423027,0.0038939970545470715,0.006302789784967899,0.003725919174030423,0.0039388504810631275,0.007063200697302818,0.006671200972050428,0.005377641879022121,0.010505098849534988,0.005721914116293192,0.007923956029117107,0.004722770769149065,0.0032970670145004988,0.007728620897978544,0.007280559744685888,0.0032455711625516415,0.003931894898414612,0.003730778582394123,0.008620711043477058,0.007949513383209705,0.0066008432768285275,0.006861203815788031,0.005924711003899574,0.008369694463908672,0.0033099078573286533,0.008874557912349701,0.007923410274088383,0.005819744896143675,0.004032711498439312,0.0032862192019820213,0.007745631970465183,0.00324609293602407,0.006000712048262358,0.00828529428690672,0.009990992024540901,0.0034580056089907885,0.008320705965161324,0.005680611357092857,0.002169216750189662,0.009015614166855812,0.007388461846858263,0.00469148438423872,0.003305517602711916,0.003804030129685998,0.0067062885500490665,0.004572934005409479,0.004500211216509342,0.007136658299714327,0.004597330931574106,0.004202432464808226,0.006480681709945202,0.004511168226599693,0.00892205722630024,0.009269250556826591,0.006158941425383091,0.004659556783735752,0.006957030855119228,0.007977492175996304,0.0070966752246022224,0.006633835379034281,0.006474677007645369,0.005915709771215916,0.009097758680582047,0.009298920631408691,0.009117983281612396,0.004503666423261166
+Questions:
+what age group is this for?
+Do you need a computer to use this?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+I don't understand why someone with a perfectly good iPad would spend another $40 just to get a few additional things which are not even that brilliant.
+The plastic itself is good quality and is well made.
+That said, I wasn't too comfortable about leaving the iPad in this for long, incase it fell out or got scratched.
+Lastly, I agree with the other reviewers that there are some truly wonderful apps these days which are either free and you pay a minimal amount and you can get hours of fun without the additional hassle of attaching iPads and spending more money.
+Really not worth it!
+"This reminds me of those doodle magnetic drawing boards, except in color and with animation.
+Before you purchase this, you should download the app which is free so you can see if a child enjoys the app or not.
+The app has an option to be used without this product because a menu of the interactive stamps is available and a finger can be used as the stylus.
+This product is like an extension of the app, i.e.
+makes it easier to use.The pieces do snap in the slots, but one of them (the blue piece) keeps falling out if carried around or is upside down.
+This must be a defect with mine because there's no reason why this product was designed with a handle if it weren't meant to be carried around safely.
+The cover over the iPad's home button prevents a child from changing the app, but if a child is familiar with the iPad, it's not necessary.
+Also, if a child knows how to navigate the iPad and wants to switch between apps, the home button being blocked would be very annoying.A big negative of the app itself: I like the erase feature with the stylus; however, you can't erase the stamped elements like the extra animal which accidentally got placed on the screen.
+Maybe an ""undo"" feature can be added, though incorporating that feature in an app for young kids might pose a challenge because the child has to understand the concept of ""undo"" and know how to bring up that feature.If the child loves this app, it's a great addition.
+Otherwise, I wouldn't get it, though having it turned into this format would might make the app more fun and easier to use.
+I guess my review is on both the app and this device.
+My 4-star rating is assuming that you already like the app; if so, the product is great!
+Still, it's not a need, nor would I pay that much for a feature usable by only one app.
+But, if you have the money or a child who absolutely loves the ArtSee app, it's a nice addition."
+Artsee is all about creativity.
+It is a toy that requires an ipad plus the downloading of a special application.
+Once these steps are taken, the toy is ready to use.This game involves using its interactive tools- in conjunction with the application- to transform ordinary drawings into something unique and interesting.
+Kids will like playing the different games and watching as their creativity spreads across the screen in front of them.
+Some kids will become addicted to this game for hours and the protective case and other protective features can help to ease parent's nerves.
+After all, an ipad is not an inexpensive item and it is important that it remains in one piece when kids use it.So, kids love the games and the ipad is reasonably protected, so are there any drawbacks to this game?
+I didn't really notice any at first, but the more my kids used it, the more I discovered some of its flaws.
+One is that the pieces are easy to lose.
+It seems like only a matter of time until several are lost.
+They snap in place, but they are not THAT secure and I have already seen some of them fall out.
+I noticed it this time and put the piece back in place, but in the future I wouldn't be surprised if the pieces are slowly lost, one by one.The other slight issue I have with this toy is the interface and I notice that some other reviewers have pointed out the same thing.
+It is a little more complicated than it should be and some youngsters will need help, at least at first.
+But I did notice that, once I showed my girls how to use it, they didn't have any further problems figuring things out.
+Depending on your kids' ages, however, you may have to constantly remind them/show them how to figure it out.All in all, this is a good toy and the free application does have some cool games.
+I'm not sure the case is durable enough to last long, but I will keep my fingers crossed and will give this toy an overall recommendation.
+It has a few minor flaws, but it's a good toy overall.
+I was not impressed by this product at all.
+It's essentially a cheap piece of plastic that does nothing other than serve as a holder for an iPad.
+You download the free app that can be used on its own, snap the iPad in the plastic case (that I would not trust to keep the device safe at all), and then the stamps trigger different functionality.
+So, one stamp will allow you to change between safari, undersea, and city themes.
+Another one, every time you touch the screen will place a different object (based on the chosen theme) on the screen.
+Another one makes sounds.
+You get the idea.
+With the pen, the kids can draw all over the screen.
+But, these are all things that can be done without the plastic case and stamps.
+I also found that I was constantly picking the stamps and pen up because they would fall out of the case.
+I really can't come up with a need for this case at all and it's most definitely not worth forty dollars!
+The app is okay on it's own, but free kids art apps are everywhere and this one isn't anything special.
+"This is a great addition to the iPad for kids!
+I tried it out first before letting my nephew play with it, and while it took a little while to figure out all the features and sometimes they were tricky to use, there are many fun activities and ways to interface with the ArtSee Studio.
+For my nephew, there was a little initial frustration (he is 3 and a half), especially since he didn't want help, but a few hours later, he was addicted!
+He enjoys coloring and doing the various activities, and I can't pull him away from it!Some good features:-The case covers the home button so kids won't mess with the main iPad-Setup is very quick-Tools and stamps are easy to hold and use-Case protects iPad quite well, so when it gets dropped, it's not such a big deal.Some downsides:-Sometimes the stamps and pen don't work quite like you think they will, and that's frustrating-Sort of a learning curve for younger kids-NO UNDO BUTTON!
+Why?!
+?-""Save"" feature didn't work no matter what I did.
+I went into settings both for the iPad and for the program, but it was a no-go.
+I had to either do screenshots or email it to myself.
+Bummer :-(Once you download the free app, no WiFi is needed, so that's a great plus.Cool toy!"
+First you have to find and install the App that goes with this device.
+Then you have to figure out how to pull the device apart in order to put the ipad into it.
+The five year old boy playing with this didn't push hard enough for the stamps to stay in their slots, so they were falling all over the place.
+I can see them getting lost very quickly.
+There were so many options of what to do that he got bored trying to figure it out.
+It might help if the stamps had labels on them to help you remember what feature they activate in the App.
+"I purchased this for my 5 year daughter, who likes to draw and color.
+Downloaded the free app to my iPad, put the iPad into the ArtSee, then locked the iPad into the ArtSee app using Guided Access.
+(This let's you hand your iPad to a kid, but lock them into a single app so they can't accidentally delete your Mail, Contacts ...  Set a code in your iPad by going to Settings -> General -> Accessibility -> Guided Access -> ON)There was a slight learning curve, because she was used to drawing with her finger, not a stylus.
+Also, there are several different modes.
+In the end, that as a positive because, as mentioned in the title of this review, we wanted this to occupy her for long, boring periods of a road trip.
+It scored a 10!
+She started in one screen, coloring scenes with eh stylus, but need in the others, using the cool stamps.
+By the end, she was drawing, adding animated stamps, and quite proud of her own work.Admittedly, she still asked ""Are we there yet?""
+but she asked it a WHOLE LOT less.Surprisingly, her older brother was also intrigued by it.
+I think he thought the car and truck stamps (animated) were pretty cool.Definitely worth every penny on the roadtrip alone, but she's still using it."
+As ubiquitous as the iPad has become, it makes sense that just about every company out there will try to capitalize on it.
+It seems everyone has an app for the iPad, so it stands to reason that educational companies would seek throw their hat in in the game.The ArtSee is certainly a decent enough product.
+It fit nicely around the iPad and provided plenty of things for the kids to do.
+For the most part it seemed they really liked it.
+They're artistic types and love to draw.
+In this regard, the ArtSee is a homerun.Unfortunately, the downside is that comes with a lot of pieces that are easily lost.
+I think we had lost just about everything after two weeks and I eventually found the cradle in the corner of the room under a pile of clothes.
+This, of course, isn't the ArtSee's fault.
+Kids' attention span these days is about two minutes.So, I would recommend this only if your child is careful with his or her things (maybe the 6-10 age group) and really loves to draw.
+If so, there's a lot of good times to be had here.
+Part of me wants to say why bother on this thing.
+Between all the free or cheap apps for iPad, it seems silly to pay even more money for one activity/app, even with the case.
+The other part of me thinks it can be worth the money if you know what you're getting.Set up was marginally easy.
+Download app-->Put iPad in case-->Lock iPad into app through Guided Access.The case seems durable and pretty protective, and the Home button is hidden under a retractable slide, but I haven't had a drop yet.
+I would not use this without a screen protector!
+It does lock the kid out while in the app so they can't do anything else like change settings, go to other apps, get into mail, etc.
+You can save the pictures to email or post or whatever later.
+And no mess in the car or while out.
+It comes with a stylus and stamps, however the stamps don't really stay in their holder and fall out easily.
+It does have animations and sounds to make it more fun.
+I have not downloaded the oth apps associated with this, but I hear there are a few that let you use just your finger and avoid the stylus.
+My daughters LOVE art and their Ipads so getting this was a no brainer.
+It reminds me of the Doodle boards we had as a kid w the attached pen, only this is on an IPAD and in color.
+Your Ipad fits into frame and your kids will actually color on your Ipad.
+That was the one thing that could be improved.
+I wish there were a screen in between their coloring and my hubby's Ipad.
+They have Ipad minis which aren't compatible with this.
+My hubby isn't too keen on letting the girls use his Ipad (that's why they got minis) so this doesn't get as much use as it could.
+I'm also not sold on this protecting an Ipad.
+If it falls on its front, it's cracking the screen.All in all, a fun toy, only if you don't mind your kids using it in conjunction with an expensive device.
+"My 2 1/2 year old granddaughter really likes this.1.
+The ArtSee software application for the iPad is free.
+So what are you paying for?
+A plastic case to ""protect"" the iPad and six plastic tools that perform different functions.2.
+The plastic case is sturdy and has a ""lock"" that covers the home button; it also has a stand on the back of the case to prop it up.
+But you don't need to use the plastic case in order to use Artsee.
+Any case or no case at all is fine.
+The iPad 2 that my granddaughter uses on a daily basis is in the KaysCase, which Amazon sells and is great for protecting your iPad 2 or 3 from small children.However, I used Artsee with my iPad 3, and chose to use the plastic case.
+It's very easy to put on and remove (much easier than the KaysCase), so I liked being able to use it.IMPORTANT: On the back of the plastic case is a large pull out plastic tab (4 3/4"" x 7 1/2"").
+Remove it and you will find a single sheet of written instructions telling you how to insert your iPad into the plastic case (there are two purple tabs on the back of the case that you have to release) and how to use the tools.
+I discovered this on my own.
+It would have been nice if there was some indication that written instructions were hidden under a tab on the back of the case.
+Other reviewers apparently did not discover this because they state (incorrectly) that this product does not come with written instructions.
+However, it was just by luck that I discovered them.Along with the written instructions there was also a cardboard cutout with different shapes.
+No idea what this is for since it is not mentioned in the instructions.3.
+The plastic case holds six tools.
+My daughter has had a lot of fun with this app and iPad holder.
+It makes the iPad a little bigger so it fits nicely on a child's lap, especially in the car.
+The app has some neat things you can do with drawing and games.
+Some of the games are geared towards a younger set, maybe the 2-3 year range.
+My daughter is 5 and she still enjoyed it, but mostly she liked using the free-drawing portion.I have two issues with this thing and they both have to do with the case (and not the app).
+First, the stamps and stylus are constantly falling out.
+They don't stay attached very well.
+My other issue is that there is a piece of plastic that covers the home button so kids can't push it and exit the app.
+I guess this is good for little kids, but my daughter at age 5, would like to access her other apps on the device without having to take this thing off and on.One more word of advice - make sure other people know that's your iPad on there.
+My mom set her drink down on my iPad not realizing it was an iPad - she thought it was a cheapo kid's toy the first time she saw it when it wasn't on!
+:)
+First of all- this art studio cover protects your iPad while being used by a small child.
+That's a huge plus!
+And it has a lock that covers the home button.
+It comes with 5 stamps, a stylus and a stencil.
+To begin, load the free app.For travel or when you are away from home, this is a great idea.
+But really, for home use, you could pull out a coloring book or an old fashioned stamp set.
+This studio has just 18 pages for coloring- which is great if you are away from home and don't want to haul around books, crayons, etc.I would recommend this for ages 2+ to 4 years.
+Any older and the child will quickly tire of the ArtSee Studio.
+I rated ArtSee Studio by WowWee 4 stars because it is a fun art cover combo.
+When I first got it, I wasn't sure where to start since it looked like a Doodleboard wrapped around an iPad.
+It is slightly wider than it ought to be and somewhat bulky for a 5 year old.
+After watching a few youtube videos on exactly what this ArtSee Studio offers, I was really excited to show it to my child.The ArtSee app is fun and very creative with sounds.
+So far this is primarily used during grocery or general shopping outings to keep him busy and it works.
+I am uncertain how long he would have been interested in this product if I allowed him to use it daily but for random weekly outings, it works well.
+The price is a bit high but it does provide some protection so it is like a case and art product combo.Overall, my 5 year old enjoys to play with it and I like all the creative features that this offers.
+"As others have noted, how do you rate this specific product (case and tools) when it intended to be used with an app?
+For the purposes of this review, I've combined both together.
+There is no way you would purchase this item and not use the app.Without even looking at the app, my first beef right out of the gate is the case.
+I have a rubber case already and it works perfectly.
+It's black and I can easily use it without looking like I'm playing with a toy.
+I don't want to take the iPad out of the rubber case.
+When I'm done using the iPad I just hand it to the kids.
+With this case it makes the iPad look like just a toy.
+If your iPad is being used only by kids maybe that's fine.
+But for probably most of us, the iPad is going to be shared.
+So I wasn't happy about the case at all.The second issue with the case is that the tools don't fit snugly in place.
+Kind of negates one of the purpose of the case!Now to the app .
+.
+.I tried it several times and I have several problems with it.We have probably 100 kids apps already.
+Some were free, some weren't.
+A lot of them involve painting or drawing of some kind.

@@ -1,0 +1,110 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+The description says it comes with 6 tokens and 6 bank cards, but the box in the picture says is comes with 4 of each, which is it?
+Top sentence(s):
+Then the other player's card is put into the machine, the button pressed again, and that player is paid.
+No more sorting and counting fake $10, $20, $50, and $100 bills.
+The Community Chest and Chance have all been modernized as well.
+There is a card that sends you to the utilities but you pay less than what you would normally had to landed there on a dice roll.
+The electronic unit takes 2 AAA batteries (Not Included) and can store millions of dollars on each player's bank card.It actually takes just as long to type in the money you accumulate on each player's card, as it does to hand count the cash to the players, so don't think this electronic unit is a time saver.
+
+Question attention weights:
+0.1960141956806183,0.23970626294612885,0.10285244137048721,0.4614271819591522
+Sentence attention weights:
+0.014052897691726685,0.00762319378554821,0.006270537152886391,0.008389371447265148,0.013350981287658215,0.011867102235555649,0.01457913126796484,0.01518067717552185,0.01020458247512579,0.014627727679908276,0.011817646212875843,0.009795024059712887,0.014741835184395313,0.01238052174448967,0.015019239857792854,0.012628089636564255,0.01294103916734457,0.014675009064376354,0.006552715785801411,0.014083328656852245,0.011340558528900146,0.010265950113534927,0.008895013481378555,0.009735265746712685,0.012617568485438824,0.009235931560397148,0.012063071131706238,0.01448152493685484,0.014553112909197807,0.014553112909197807,0.008025731891393661,0.010351884178817272,0.007203519344329834,0.015466653741896152,0.013660268858075142,0.010651703923940659,0.015346539206802845,0.00627541309222579,0.00834752805531025,0.015036695636808872,0.013240622356534004,0.011640227399766445,0.00963912345468998,0.01168808713555336,0.014125450514256954,0.0077809980139136314,0.01431750413030386,0.015336400829255581,0.009038619697093964,0.011774263344705105,0.006688281428068876,0.009577092714607716,0.014538027346134186,0.0086473124101758,0.013188911601901054,0.01299369428306818,0.013416623696684837,0.013873932883143425,0.010533491149544716,0.00714472820982337,0.011446315795183182,0.006878920365124941,0.01619846746325493,0.009879914112389088,0.007135333493351936,0.013836832717061043,0.014261550270020962,0.012984486296772957,0.014084500260651112,0.0072990404441952705,0.010894011706113815,0.0057528819888830185,0.012757745571434498,0.008137073367834091,0.01446972694247961,0.014298757538199425,0.010646924376487732,0.009880110621452332,0.011630634777247906,0.006504679564386606,0.006894294638186693,0.00923820212483406,0.0145873399451375,0.01679430715739727,0.0123696718364954,0.01143775973469019,0.011629409156739712
+0.01493123359978199,0.006529194302856922,0.005415602587163448,0.006847489159554243,0.01428224891424179,0.012617906555533409,0.015410341322422028,0.01660126820206642,0.009149719960987568,0.015790535137057304,0.01329265721142292,0.009517146274447441,0.0158702339977026,0.011350363492965698,0.016490686684846878,0.013242103159427643,0.01259253267198801,0.015734609216451645,0.00567388953641057,0.01592209003865719,0.01031157374382019,0.010088779032230377,0.00585835799574852,0.009315927512943745,0.01109052263200283,0.00924941711127758,0.011212509125471115,0.015429234132170677,0.015517947264015675,0.015517947264015675,0.005626142490655184,0.0087670823559165,0.0075477054342627525,0.017500294372439384,0.01371651142835617,0.010413635522127151,0.015926118940114975,0.004954639822244644,0.007001644466072321,0.018523747101426125,0.013793323189020157,0.013309084810316563,0.008576194755733013,0.010889668017625809,0.015110215172171593,0.007019904442131519,0.01536085270345211,0.01750882901251316,0.007087595295161009,0.010641736909747124,0.006109710317105055,0.008370260708034039,0.015230836346745491,0.007812535390257835,0.013338577933609486,0.012978230603039265,0.014134665951132774,0.014973611570894718,0.01037970744073391,0.005594175774604082,0.013866462744772434,0.006013231351971626,0.01765553466975689,0.008553044870495796,0.005817751865833998,0.014089700765907764,0.01558682695031166,0.014040108770132065,0.015227378346025944,0.0060312324203550816,0.009703254327178001,0.006251753307878971,0.012541791424155235,0.0082109235227108,0.015584170818328857,0.015096339397132397,0.009433765895664692,0.009112824685871601,0.009573632851243019,0.004700968507677317,0.005940691102296114,0.008272772654891014,0.016452403739094734,0.01930677331984043,0.011792250908911228,0.010929123498499393,0.011164003051817417
+0.013865316286683083,0.0052948324009776115,0.0036765325348824263,0.008422293700277805,0.013448703102767467,0.010506824590265751,0.016338935121893883,0.01662559248507023,0.012582655996084213,0.014934797771275043,0.01505168154835701,0.009065537713468075,0.015213590115308762,0.009247022680938244,0.01775285229086876,0.01281336136162281,0.015601003542542458,0.015101578086614609,0.00631705392152071,0.019492916762828827,0.008072663098573685,0.012418710626661777,0.0046476381830871105,0.01072594616562128,0.010382778011262417,0.010788948275148869,0.010872815735638142,0.014601080678403378,0.014747977256774902,0.014747977256774902,0.007633714471012354,0.012094937264919281,0.008164050988852978,0.017086582258343697,0.012395585887134075,0.008035795763134956,0.017195340245962143,0.005662348121404648,0.008174480870366096,0.01890031434595585,0.013551785610616207,0.01834108494222164,0.007981346920132637,0.014015845023095608,0.01403668150305748,0.006791184656322002,0.01469882670789957,0.015253638848662376,0.006386738270521164,0.00901167280972004,0.005778105463832617,0.007406304590404034,0.014176997356116772,0.004623757675290108,0.013678260147571564,0.012838538736104965,0.013048284687101841,0.013795902952551842,0.013197803869843483,0.005620179697871208,0.018817679956555367,0.00548868253827095,0.014271751046180725,0.010637198574841022,0.006373826414346695,0.014226634055376053,0.014011623337864876,0.013781233690679073,0.013931695371866226,0.004158381372690201,0.01051704864948988,0.003836192889139056,0.01163905393332243,0.0074947853572666645,0.014824878424406052,0.01391997653990984,0.010245611891150475,0.010290789417922497,0.006667998153716326,0.004259293433278799,0.008496648631989956,0.009523225948214531,0.016027815639972687,0.01913680136203766,0.011180444620549679,0.012330107390880585,0.010974901728332043
+0.015643173828721046,0.006326568312942982,0.004672601819038391,0.006484244950115681,0.014777393080294132,0.012578851543366909,0.016083577647805214,0.017534587532281876,0.008951875381171703,0.016542114317417145,0.012544655241072178,0.008667679503560066,0.016684673726558685,0.01113454531878233,0.016363466158509254,0.013063859194517136,0.012918258085846901,0.016507120802998543,0.004830214194953442,0.014211245812475681,0.010057245381176472,0.009349704720079899,0.006206913851201534,0.009129666723310947,0.012278911657631397,0.009292534552514553,0.012272831983864307,0.016214484348893166,0.016335971653461456,0.016335971653461456,0.005902783013880253,0.00874027144163847,0.006952868774533272,0.01774388737976551,0.014645986258983612,0.010475113987922668,0.017055727541446686,0.005370438564568758,0.007274830713868141,0.01761641353368759,0.014100493863224983,0.01193923968821764,0.008128891699016094,0.011098227463662624,0.015221862122416496,0.006599030923098326,0.015921635553240776,0.01820298470556736,0.007530021481215954,0.011161435395479202,0.0052438718266785145,0.007682070601731539,0.01624544896185398,0.007174074649810791,0.013735376298427582,0.013442320749163628,0.013268647715449333,0.015247054398059845,0.009833458811044693,0.005220379214733839,0.012177221477031708,0.005222230218350887,0.017539748921990395,0.00860272441059351,0.00493168830871582,0.01501128263771534,0.015986774116754532,0.013691416941583157,0.015533670783042908,0.005167517811059952,0.010415037162601948,0.005179153755307198,0.012880319729447365,0.006926539819687605,0.01625775918364525,0.015894660726189613,0.009542989544570446,0.009335936978459358,0.008781399577856064,0.005175722762942314,0.005105762742459774,0.008251900784671307,0.01621233858168125,0.019852757453918457,0.012411403469741344,0.010754762217402458,0.010387410409748554
+Questions:
+Is this MONOPOLY Brand Electronic Banking Edition
+The description says it comes with 6 tokens and 6 bank cards, but the box in the picture says is comes with 4 of each, which is it?
+Can u ship to saudi arabia ?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+"What will they come up with next?
+Can you imagine playing Monopoly without Monopoly money?This is the exact classic Monopoly game with everything you'd expect other than... money.
+Instead, each player gets something that looks like a bank card and there is this apparatus where you manually type in your gains or loses while your card is inserted and the depressingly-cheap-looking 'electronic computer' keeps track of your running total.Probably not everyone will consider this an improvement over the 'cash only' version - someone needs to type in the amounts into the device and winning/losing, buying/selling are more abstract when 'nothing' changes hands.
+And players can only see where they stand one at a time by inserting their card into the 'device'.The 3 stars mean ""it's Okay"" for me but I actually prefer the version with ""real Monopoly money"" (pun intended).
+Some may love it, some may hate it.
+Overall... can't say that I'm impressed."
+My daughter hated this game.
+Money is to be saved mom, not spent, she said.
+Still trying to convince her that investing IS saving and spending.
+We'll have to try another game.
+my 6 and 9 year olds really liked the electronic banking which also works well.
+Also, the property card holders are a nice touch for easy playing as well.
+Definitely a good remake.
+"Even if you are a traditionalist who wants to hold family game night and has hours to spend playing games - you have to admit Monopoly is not the most exciting game.
+For the rest of us that don't have that kind of time - it's just plain painful.
+Enter ""Electronic Banking""!
+Could this be a way to speed things up and let my kids experience the classic game and learn a little without wanting to take a nap during play?
+The short answer is ""No"".
+The complexities of administering the charges cancel out almost all learning opportunities and the game really doesn't hold much allure in today's instant gratification society.
+Yes, I could use this as a teachable moment about building wealth and having patience, but I'm going to choose my battles and not give a lesson at the price of my sanity!"
+If you enjoy Monopoly, this is a fun new twist on a classic game.
+The new property prices are a little shocking, but in keeping with the times.
+The game plays very similiar to the classic version, but now, no more Monopoly money.
+I kind of missed my piles of cash, but the kids thought the electronic aspect was cool.
+I also thought the debit device might make the game go a little quicker, but this was not the case, a game ran just about as long as with our old paper money one.
+If you don't like playing Monolopy, this version isn't going to change your mind, but if you already enjoy a good game of Monopoly from time to time, you will enjoy this electronic version if you can get past not be able to count and stack your own money.
+"We're not tournament players, more like casual players and I thought with this new electronic banking, it would speed things up a bit.
+My first impressions of the game were: ""Whoa, they changed a lot!""
+and they did.
+All the money amounts are upgraded.
+For example, every time you pass Go your salary is now 2 Million.
+Yes, MILLION.
+But of course this is not dollars, they have changed the currency so all the dollar signs are replaced with a Monopoly currency symbol which is an M with a line through it.
+The Community Chest and Chance have all been modernized as well.
+Gone is the winning the beauty pageant, instead you win the lottery.
+You get put in jail for identity theft.
+They also changed the little token pieces too.
+You now have a cell phone, a skateboard, an airplane, burger, race car and roller blade.Those things are more of less superficial and don't change the game play, but some of the changes were more significant.
+When you land on income tax, you don't get to choose the 10% or 2 Million, you have to forgo your entire salary.
+There is a card that sends you to the utilities but you pay less than what you would normally had to landed there on a dice roll.
+This was counter to the older game where you would pay more.
+This made the utilities less appealing to buy.As to the actual electronic banking aspect, we didn't like it.
+Monopoly Electronic Banking certainly reflects the world we live in.
+I don't know the last time my kids actually saw me pay for anything with cash.
+In this version of Monopoly each player (up to 6 players) is provided an electronic debit card.
+With this debit card they purchase properties, pay rent, buy houses, etc.At first I didn't know how I felt about this money-less version.
+It sure was easy to set up.
+No more sorting and counting fake $10, $20, $50, and $100 bills.
+However, I wasn't sure if my kids would understand that they didn't have an endless supply of money and that how they spent their money had an impact on the games outcome, since they didn't have the money visibly in front of them.It didn't take them too long to catch on though.
+By the fourth time around the board they were asking about their balances and not just buying things without some thought.
+Also, they easily caught on to how to raise their balance by adding properties, houses, and collecting rent.The banker controls the electronic device that controls all the money.
+They have to insert a person's card, input the correct amount of $$$s and push the right button.
+It isn't too complicated.
+If your child is comfortable using a simple calculator they should be able to manage this just fine.Like the original Monopoly, this isn't a quick game.
+You can easily spend a couple hours playing.
+One nice thing that we found about the Electronic version, was the ability to easily take a break from the game.
+Everyone's balances remained stored on the banking device until we came back to the game and we didn't have to worry about all the loose bills getting scattered.
+If we want to start a new game, we just hit a single button on the banker's until it resets.
+What can you possibly say new about Monopoly, the world's favorite property trading game, that hasn't already been said for decades since it's introduction by Parker Brothers in 1935?
+No matter what new version of Monopoly comes out, it's always so much fun to play with family and friends.In the sixties, we always had one major problem when the entire family sat down to a long night of playing Monopoly, and that was, we always ran out of money if the game went on long enough.
+There used to be an office store named Burrows that sold extra Monopoly money and buying an extra packet or two was the only solution to our money shortage.Now with this new version of Monopoly With Electronic Banking, you'll never run out of money, because there isn't any.
+The game comes with the standard board, dice, houses, hotels, Title Deed cards, Chance and Community Chest cards, 6 tokens and 6 bank cards that slide through an electronic banking unit which keeps track of your cash on your card.
+The electronic unit takes 2 AAA batteries (Not Included) and can store millions of dollars on each player's bank card.It actually takes just as long to type in the money you accumulate on each player's card, as it does to hand count the cash to the players, so don't think this electronic unit is a time saver.
+We actually found when playing with 6 players, that it saved time to have a separate banker.
+This electronic banking version of Monopoly may not be faster than the cash version, but it's every bit as fun and that's saying a lot for a game that's been rated number one for over 75 years!
+We received this in the mail, and my children wanted to try it immediately.
+After reading all the directions, we started to play.
+What fun it is to not deal with paper money!
+The debit machine is so easy to learn how to use.
+Each player gets a credit card preloaded with 15 million dollars (wouldn't that be nice), and every time you buy property, you slip your credit card in the machine and type in money to be deducted, and it automatically keeps track of your spending, and taxes, and whatever any one pays you in debts.
+If you decide to quit and continue later on, just let it shut off by itself, and your game is saved until next time.
+If you want to totally quit the game, press the C (clear) until it beeps, and the machine automatically reloads the cards to 15 million dollars for the next players.
+Fun, and way nicer to play, with the same basic rules as the older version.
+My kids loved this version, and love playing it, whereas, they don't like the older version, with the exception of Monopoly Jr.
+Try this version, and you will love it!
+Fun for anyone over 8 years old!
+This is just like the Monopoly game I played as a kid, but without the cash.
+It has the same board, title deed cards, game cards, houses, hotels and playing pieces.
+Instead of cash though, it has six different colored debit cards and an electronic banking machine for all your monetary transactions during the game.If you are familiar with Monopoly, this version is played exactly the same way.
+You move around the board, buy properties you land on, collect rent when another player lands on places you own, draw Community Chest and Chance cards when you land on those spaces, collect money for passing Go, and try not go bankrupt.
+The value of money as also been updated in this game with players starting at a $15 million balance and buying multimillion dollar properties.The electronic banking unit in this game, while being modern and realistic, gets rather tedious to use.
+For example, if you land on another player's property you slide your card into the machine, enter the amount you owe and the `pay to another player' button.
+Money is debited from your account.
+Then the other player's card is put into the machine, the button pressed again, and that player is paid.
+Because each card must go into the machine, it takes a little bit longer than just handing over cash and ultimately slows down the game.
+My seven-year old still finds pressing the buttons a novelty, but the adults have found it to be somewhat annoying.
+Overall, it's a Monopoly game - lots of fun if you don't mind the electronic banking.

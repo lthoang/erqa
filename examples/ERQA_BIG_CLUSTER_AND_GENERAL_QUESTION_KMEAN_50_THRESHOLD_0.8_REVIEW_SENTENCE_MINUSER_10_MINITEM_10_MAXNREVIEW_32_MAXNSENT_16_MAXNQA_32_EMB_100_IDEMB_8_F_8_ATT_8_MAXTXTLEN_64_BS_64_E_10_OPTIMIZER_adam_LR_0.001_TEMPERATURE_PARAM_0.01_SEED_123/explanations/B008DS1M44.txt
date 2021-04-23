@@ -1,0 +1,161 @@
+Top question(s):
+What's the price range on downloading apps, movies, and mp3's?
+Good morning , as I can do to put the InnoTab 2S in Spanish
+Top sentence(s):
+I would suggest looking at the different games for each tablet and choosing which ones your child would prefer.
+My little one was excited to see Little Einsteins, Disney Princesses, Sesame Street Characters, etc.- Came with a purchase card for a few starer apps.- Good training for using personal electronics without the fear of a kid wiping your drive or ruining your own precious devices.What we didn't like:- Battery Operated.
+My grandaughter played with this and I believe she would have played thru the night if I had let her.One thing about this is you can put learning games on it and they think they are just playing games while they are really learning :)
+I like all of the selection of games both downloadable and cartridge.Overall this is a great tablet for children.
+Since she could walk, she would steal my iphone and play/drool on it.
+
+Question attention weights:
+0.02922496199607849,0.005213329568505287,0.00425326731055975,0.9549849629402161,0.006323452573269606
+Sentence attention weights:
+0.006363723427057266,0.006388279143720865,0.008305544964969158,0.008223759941756725,0.007063993252813816,0.009801296517252922,0.008616441860795021,0.008391449227929115,0.009501248598098755,0.009815122000873089,0.005937942303717136,0.005379834678024054,0.008440106175839901,0.0049300952814519405,0.008699707686901093,0.005934819113463163,0.010617054998874664,0.007953395135700703,0.008109320886433125,0.005681264214217663,0.006741192191839218,0.005971805192530155,0.007784731686115265,0.004770898260176182,0.009369983337819576,0.004829151555895805,0.01221759058535099,0.007978377863764763,0.005932645872235298,0.007142257411032915,0.006865528412163258,0.005881769582629204,0.004073089454323053,0.00838261004537344,0.00735987164080143,0.007134620565921068,0.007684304378926754,0.004724493250250816,0.008092561736702919,0.007930410094559193,0.006635340861976147,0.0039052299689501524,0.008063148707151413,0.008269275538623333,0.00987175852060318,0.007965979166328907,0.00914705079048872,0.010040291585028172,0.006696123629808426,0.008960776031017303,0.006888172123581171,0.007223794236779213,0.008356789126992226,0.006653918419033289,0.0035923440009355545,0.008713075891137123,0.008240257389843464,0.006925240159034729,0.007929250597953796,0.008978128433227539,0.007311230059713125,0.010785060003399849,0.004260379355400801,0.007079608738422394,0.004324347712099552,0.012769550085067749,0.008254680782556534,0.005286233499646187,0.0036494124215096235,0.0060557895340025425,0.013981644995510578,0.006394646130502224,0.007258160971105099,0.002754370914772153,0.01628882996737957,0.006761430762708187,0.005056303925812244,0.006204885430634022,0.00616449536755681,0.00990818440914154,0.008485818281769753,0.00916370190680027,0.008150454610586166,0.006378004793077707,0.008178412914276123,0.004902476444840431,0.0052640605717897415,0.011611850932240486,0.008269764482975006,0.007948076352477074,0.00717497430741787,0.006989919114857912,0.005868410225957632,0.00808707531541586,0.007217374164611101,0.004860967863351107,0.005600384436547756,0.00722551392391324,0.01056770421564579,0.007803556974977255,0.006588741671293974,0.007370173931121826,0.005432348698377609,0.00738220801576972,0.008140593767166138,0.007948988117277622,0.006183075252920389,0.005761704873293638,0.004922922234982252,0.007305716164410114,0.007285189814865589,0.0024413506034761667,0.004527106881141663,0.004749164916574955,0.010349712334573269,0.007812147028744221,0.008634827099740505,0.008464217185974121,0.008395044133067131,0.004336214624345303,0.00238537834957242,0.009099286049604416,0.007888516411185265,0.008433896116912365,0.004406836815178394,0.00710939010605216,0.00475158030167222,0.008043126203119755,0.00817800685763359,0.008919145911931992,0.008671996183693409,0.008620517328381538,0.0057399398647248745,0.009782123379409313,0.00817800685763359,0.0073847584426403046
+0.006376366596668959,0.005931288469582796,0.007498972583562136,0.007434585597366095,0.007260872982442379,0.011547400616109371,0.0077558415941894054,0.00797305442392826,0.008568856865167618,0.009096672758460045,0.00629119947552681,0.005454591009765863,0.008474997244775295,0.005461934022605419,0.00821379292756319,0.005121747963130474,0.010740934871137142,0.007330736611038446,0.007638169918209314,0.0054748705588281155,0.006527115125209093,0.006702829618006945,0.009094868786633015,0.0061312527395784855,0.009427112527191639,0.004989436827600002,0.012652688659727573,0.007465363945811987,0.006782940123230219,0.007622905541211367,0.007665143348276615,0.006215328350663185,0.006183324381709099,0.007558437064290047,0.00688129710033536,0.0074630239978432655,0.007124169729650021,0.004800382535904646,0.007378215901553631,0.00737812090665102,0.007356063928455114,0.0048217736184597015,0.007364974822849035,0.007440574467182159,0.009267634712159634,0.00726732611656189,0.009704033844172955,0.010489345528185368,0.0067251333966851234,0.009020606987178326,0.006288557313382626,0.007913731038570404,0.007562869694083929,0.006357515696436167,0.003315044566988945,0.008620754815638065,0.007713235914707184,0.006072701886296272,0.007277178578078747,0.008484278805553913,0.0068601155653595924,0.010685171000659466,0.004389492329210043,0.006841305177658796,0.005040073301643133,0.011604626663029194,0.00764326611533761,0.006256788969039917,0.004540866240859032,0.005537183023989201,0.013542848639190197,0.007996909320354462,0.010423378087580204,0.003190608462318778,0.015965154394507408,0.006744440644979477,0.0049636769108474255,0.007284901570528746,0.006658553145825863,0.009898083284497261,0.009020763449370861,0.009339950047433376,0.007760838605463505,0.005392682738602161,0.007460908032953739,0.0060528237372636795,0.0063374037854373455,0.011329421773552895,0.007557738572359085,0.0077985418029129505,0.006960351951420307,0.007233067881315947,0.0059260474517941475,0.0076586296781897545,0.00620856462046504,0.005437894258648157,0.00629591615870595,0.0075285229831933975,0.011076043359935284,0.007460618391633034,0.006768782157450914,0.007555242162197828,0.0058374349027872086,0.008386707864701748,0.008219141513109207,0.0072171674109995365,0.007493635639548302,0.006157984491437674,0.0049317628145217896,0.00660922983661294,0.0069817714393138885,0.0032096700742840767,0.0049868556670844555,0.0049585020169615746,0.010128430090844631,0.008424295112490654,0.008206047117710114,0.007910146377980709,0.007861318066716194,0.0045895385555922985,0.0030098112765699625,0.008094481192529202,0.007459163200110197,0.008020550943911076,0.004682385828346014,0.007492898032069206,0.004519342910498381,0.00739596551284194,0.007445080671459436,0.008000286296010017,0.0077069164253771305,0.008756997995078564,0.006278828252106905,0.010030541568994522,0.007445080671459436,0.006569617427885532
+0.006816891487687826,0.006079880520701408,0.007330427411943674,0.0072804647497832775,0.007236161734908819,0.009972012601792812,0.007756085600703955,0.007896492257714272,0.008239731192588806,0.008690804243087769,0.006427586078643799,0.005562766920775175,0.007996096275746822,0.006028936244547367,0.007923971861600876,0.005135107785463333,0.010346783325076103,0.007216649129986763,0.007719390094280243,0.005706500262022018,0.006324515212327242,0.006705994717776775,0.009659509174525738,0.006872925907373428,0.008830410428345203,0.005501297302544117,0.011177201755344868,0.007352754473686218,0.0066313608549535275,0.007668953388929367,0.008113248273730278,0.006630938965827227,0.0066782147623598576,0.007327239494770765,0.00692058727145195,0.007452661171555519,0.007037267088890076,0.005167976953089237,0.007248207926750183,0.007298578508198261,0.007385967765003443,0.005529162008315325,0.007236709352582693,0.00734655512496829,0.008600781671702862,0.007141938433051109,0.009374759159982204,0.011146786622703075,0.007076325360685587,0.008600261993706226,0.006345260888338089,0.00913489144295454,0.007377432193607092,0.006417941767722368,0.003568199696019292,0.008923224173486233,0.007970056496560574,0.006415351759642363,0.007159071508795023,0.008135727606713772,0.006860857829451561,0.010059889405965805,0.004985839128494263,0.006757347844541073,0.005375084932893515,0.010321265086531639,0.007787931710481644,0.006467094179242849,0.00510933855548501,0.00588622223585844,0.011870095506310463,0.008066636510193348,0.009092720225453377,0.003821141319349408,0.015520147047936916,0.007087080739438534,0.005147137213498354,0.007432013284415007,0.006606922950595617,0.00939420610666275,0.008848520927131176,0.008861039765179157,0.007698163855820894,0.005689055193215609,0.007281136699020863,0.006462199613451958,0.007079144939780235,0.010554160922765732,0.007401010021567345,0.007638380862772465,0.0069019971415400505,0.007665933575481176,0.005970039404928684,0.007617453578859568,0.006456772331148386,0.005685728508979082,0.006411601323634386,0.007565385662019253,0.010610455647110939,0.007564231287688017,0.006975269876420498,0.007420151494443417,0.006431226618587971,0.008632651530206203,0.008016119711101055,0.007133288774639368,0.007667034864425659,0.006752511020749807,0.005277944728732109,0.006682839244604111,0.006754628848284483,0.003801940940320492,0.005345460958778858,0.00555177079513669,0.00959966890513897,0.008689402602612972,0.008298874832689762,0.007634258829057217,0.007719083689153194,0.004831357859075069,0.003479544771835208,0.007765948306769133,0.0073923384770751,0.007886290550231934,0.005077575799077749,0.007691406644880772,0.004821535665541887,0.007291736546903849,0.007292815949767828,0.007687149103730917,0.007528434507548809,0.008625232614576817,0.006394188851118088,0.00964741874486208,0.007292815949767828,0.006449691951274872
+0.00714604277163744,0.0061681210063397884,0.009017233736813068,0.008933212608098984,0.008356677368283272,0.012340888381004333,0.006398282945156097,0.009326934814453125,0.008555840700864792,0.008942577987909317,0.00661829486489296,0.006536342203617096,0.00791784655302763,0.005922562442719936,0.008325395174324512,0.0057163480669260025,0.008271357975900173,0.009012063033878803,0.009302130900323391,0.0054529039189219475,0.006963657680898905,0.008732259273529053,0.008128372952342033,0.005952194333076477,0.006639518309384584,0.005122884176671505,0.006317849736660719,0.008583136834204197,0.006705659907311201,0.008488819934427738,0.006688911933451891,0.004643438383936882,0.006348215043544769,0.008837916888296604,0.0072833518497645855,0.007224454544484615,0.008571600541472435,0.005186848808079958,0.008734605275094509,0.009733529761433601,0.0059573291800916195,0.00455825449898839,0.008885674178600311,0.008466704748570919,0.009273495525121689,0.008779308758676052,0.004880418535321951,0.0063452329486608505,0.007001378107815981,0.01052989810705185,0.007616601884365082,0.006917026359587908,0.00906758476048708,0.008043626323342323,0.00421760743483901,0.006249695550650358,0.010836928151547909,0.005785172805190086,0.008703703060746193,0.009707292541861534,0.006206883583217859,0.01098954863846302,0.004406664986163378,0.008339587599039078,0.004493275657296181,0.007163883652538061,0.007290530949831009,0.006511129438877106,0.003482968080788851,0.006511871702969074,0.008730879053473473,0.007348049897700548,0.010196944698691368,0.004424218088388443,0.008741604164242744,0.004785099066793919,0.006442617624998093,0.007399079855531454,0.007088055834174156,0.006287121679633856,0.006917805410921574,0.008841478265821934,0.007295437157154083,0.004133501090109348,0.009044497273862362,0.005182994995266199,0.005006776191294193,0.007509381044656038,0.008821424096822739,0.00727346446365118,0.009714202955365181,0.007572394795715809,0.00744813634082675,0.008881483227014542,0.005955951754003763,0.006273726467043161,0.007130599580705166,0.005694279912859201,0.006177172064781189,0.009748381562530994,0.006953492294996977,0.01293192058801651,0.005205226130783558,0.0063116890378296375,0.006617850158363581,0.008637801744043827,0.007058693096041679,0.004231425933539867,0.0065680029802024364,0.00961024034768343,0.006404840853065252,0.0027644161600619555,0.007512165233492851,0.004599749576300383,0.006962460465729237,0.006053817458450794,0.008880767971277237,0.009029112756252289,0.009207411669194698,0.004962114617228508,0.0037033462431281805,0.009408317506313324,0.00864988099783659,0.008512700907886028,0.0044024912640452385,0.008290126919746399,0.004482044372707605,0.008696125820279121,0.009002601727843285,0.009459172375500202,0.007980805821716785,0.006631690077483654,0.006711021531373262,0.010265614837408066,0.009002601727843285,0.007863955572247505
+0.006623770110309124,0.005898416042327881,0.007538309320807457,0.007476193830370903,0.007376034744083881,0.011246969923377037,0.00761271920055151,0.008074680343270302,0.00847720354795456,0.008965415880084038,0.006374499294906855,0.005418127868324518,0.008149988017976284,0.005622335243970156,0.008180227130651474,0.004969858098775148,0.010826309211552143,0.007420107256621122,0.007812106050550938,0.0054086679592728615,0.00639618095010519,0.0068876310251653194,0.00944917555898428,0.0063594672828912735,0.009054481983184814,0.005153155419975519,0.011616724543273449,0.0075153871439397335,0.006725915241986513,0.007812051568180323,0.007845723070204258,0.0062356190755963326,0.00636028777807951,0.007518669590353966,0.006916244048625231,0.0074508641846477985,0.0071921637281775475,0.0048150126822292805,0.007419233210384846,0.0075270384550094604,0.007275152951478958,0.004957555327564478,0.00742990430444479,0.00748034194111824,0.00915771909058094,0.007320330012589693,0.009213574230670929,0.010694948025047779,0.006899872794747353,0.009137705899775028,0.006315355654805899,0.008649766445159912,0.0075963344424963,0.006458722986280918,0.0032560420222580433,0.008602780289947987,0.008119362406432629,0.006069815717637539,0.007337281480431557,0.008566027507185936,0.006831227336078882,0.010780874639749527,0.004529684782028198,0.006908072624355555,0.00503084110096097,0.010910975746810436,0.007744820322841406,0.0063973646610975266,0.004638456739485264,0.005554966162890196,0.012396768666803837,0.008091387338936329,0.010117068886756897,0.003327670507133007,0.015484894625842571,0.006547277793288231,0.004968981258571148,0.0074062347412109375,0.006614576559513807,0.009647485800087452,0.008776005357503891,0.009216975420713425,0.007628691848367453,0.005220463499426842,0.007506195455789566,0.005979971494525671,0.006565440446138382,0.010844110511243343,0.007598150987178087,0.0077088382095098495,0.007133582606911659,0.007490387186408043,0.005979824811220169,0.007798890583217144,0.00618835398927331,0.005537913180887699,0.006456881295889616,0.007412809878587723,0.010580003261566162,0.007708066143095493,0.00688395369797945,0.007899928838014603,0.00594586506485939,0.008364561945199966,0.008109931834042072,0.007280947640538216,0.00740827526897192,0.006198176648467779,0.005068108905106783,0.0068022627383470535,0.006795096676796675,0.0032427655532956123,0.005087258759886026,0.005153477191925049,0.009718364104628563,0.008452795445919037,0.008391688577830791,0.007888594642281532,0.007965725846588612,0.004600694868713617,0.003105627605691552,0.008032567799091339,0.007577214390039444,0.008044990710914135,0.004684290383011103,0.00758495694026351,0.004402528516948223,0.007462663110345602,0.007501522079110146,0.007969827391207218,0.007694984786212444,0.008599157445132732,0.006376788020133972,0.010167631320655346,0.007501522079110146,0.006512505002319813
+Questions:
+Good morning , as I can do to put the InnoTab 2S in Spanish
+Does it come with installed games?
+is this good for an 8 year old
+What's the price range on downloading apps, movies, and mp3's?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+"I ordered this thinking it would be a good substitute for the Ipad, which we have done everything to childproof, including covering it in a military grade shock absorbing case.
+In other words, we wanted our Ipad back for grown up use, but in order to regain control we had to replace it with something equally cool.
+Unfortunately this is just not.
+that.
+cool.What we liked:- Temporarily excited our daughter enough to free up the Ipad for adult use...but any new toy could have technically done that.- Apps have familiar characters even if game design sucks.
+My little one was excited to see Little Einsteins, Disney Princesses, Sesame Street Characters, etc.- Came with a purchase card for a few starer apps.- Good training for using personal electronics without the fear of a kid wiping your drive or ruining your own precious devices.What we didn't like:- Battery Operated.
+Seriously!?
+In 2012?
+At this price point?
+Major point deduction for no Li-Ion rerchargability.- SLOW!
+The apps and device itself take forever to load.
+My daughter is accustomed (spoiled) to pushing a button on the Ipad and getting instant access to her games.
+Huge step backward here.- Wifi requires considerable plugging in to set up, and the speeds seem like 801.2 B speeds from 10 years ago.
+It'd be faster to download apps by just plugging in to a connected device.- Dead pixels.
+My almost 3 year old is not that hard on things, but the screen requires some serious mashing to get a response at times.
+After all of her pressing the screen is already showing a tiny black pixels.
+This kids tablet is a low cost tablet choice for the youngins, and while not bad, you get what you pay for.The resistive 5-inch screen is of decent quality.
+The menus are colorful and fun looking.
+It takes a little more pressing down than a capacitive touch screen, like our phones, so the kids took a bit to get used to that.
+They included stylus helps with that.
+It is not very accurate for small movement (like drawing a small circle) with my finger.
+This also shows up also on the menu when tapping an app with my finger, sometimes it'll slide the menu instead of starting the app.
+Using the stylus helps with this.While testing the screen, I opened up the art studio app, which had automatically saved what my daughter had been working on previously, so it saves progress pretty good, at least in this case.The apps in the store are, as I write this, are on sale for $2.99, but the regular price is $4.99.
+It's a little high when I compare that most apps in the Android store (I'm an Android user) are free, or one or two bucks.
+You do get 2 free apps for signing into the PC software.
+There are also eBooks for $3-$5 dollars and videos, that are around 20 minutes, for $3.The PC software is required for navigating the app store and also for tracking your kid's progress in apps and learning.
+I haven't had the chance to test all the tracking features yet.On the tablet is a wish list creator where you child can browse apps and let you know which they want.The tablet itself hives off the setup features decently, but if your kid can read and/or is clever, they can get into them.One of the features is a content lock which isn't a restriction system to prevent content (which shouldn't be needed) but instead it prevents deleting content.One thing I could not discover is how to delete a profile.
+There is also no way I can see to disable making new profiles.
+This could mess with all the tracking, if they are making new profiles and playing on them instead of the one they are supposed to.Any big issue with a tablet is battery life.
+In a nutshell, it's really great for battery makers.
+Batteries die daily.
+But, you can use a 7.5v adapter (not a charger) to keep the tablet powered (needs batteries installed to work), but you will have to be next to an outlet to use the device.
+My nine year old and I have been exploring what we can do with the VTech InnoTab 2S Wi-Fi Learning App Tablet.
+First, the product is easy to set up but a little time consuming.
+Don't wait until Christmas morning.
+You need to load the learning lodge navigator on your PC.
+That seemed to take a lot longer than installing things usually does.
+The front of the box boasts 17 apps with the purchase of the Innotab.
+You have to log on to get them.
+I wasn't very excited about many of them.
+I can't figure out what the point of WiFi is on this.
+You need either the cartridges or you can try to load apps on but we used a cable because the wifi was too slow.
+The wish list feature is really annoying.
+I don't really want to get lists of things to buy.
+And speaking of buying things, the cartridges are $12-$17.
+That is a lot more than a book or a movie.
+The one thing that I was interested in was the Vtech University.
+However when I went into the Learning Lodge it says Vtech University is coming soon for the VTech InnoTab 2S Wi-Fi Learning App Tablet.
+I have a 5 year old daughter who loves technology.
+Since she could walk, she would steal my iphone and play/drool on it.
+After that, anything electronic she wanted to play with.
+When I found the VTech InnoTab 2S available, I jumped at it and I am glad I did.
+She uses it all the time.
+She uses the camera, plays games, and whatever else the thing does.
+After that, at bedtime, she puts it to sleep on her shelf so it is fresh for her to use the next day.
+My 7 year old son even likes it, although, he doesn't like the pink color, he still tries to steal it from her.The games she plays are educational and not too easy to make her bored but easy enough that she can figure them out by herself.
+I like all of the selection of games both downloadable and cartridge.Overall this is a great tablet for children.
+Certainly allows adults to have their electronic toys back.
+I love this.
+It helps the little ones to learn and play so easily with the big buttons to decide what they want to do and the touchscreen is fantastic.
+the stylus is not attached so it will probably get lost but otherwise the touch screen works very good.
+My grandaughter played with this and I believe she would have played thru the night if I had let her.One thing about this is you can put learning games on it and they think they are just playing games while they are really learning :)
+My family has a few of the items on the market similar to the Innotab 2S, and there are a lot of things that the innotab could improve on.
+This system is slow, just the load time for the initial home screen is so long that I began to wonder if the screen froze.
+Each game/app takes a fairly long time to load and can have lag, the batteries drain quickly and it does not come with rechargeable batteries.
+The screen is not sensitive enough to touch lightly and you may have to remind your child to be gentle when they get frustrated.
+My son accidentally sent himself back to the home menu a few times before he remembered to keep his hands away from that button when in an application.
+The camera is not as nice as those on other systems but can take a photo well enough if there is a decent light source.
+"HOW ARE INNOTAB 2 AND INNOTAB 2S THE SAME?- If you're already familiar with InnoTab 2 you're basically looking at the same tablet.
+The design stays the same, with all of the keys in the same place.
+The only addition is the WiFi key, which tells you if the tablet is connected to the internet, and how strong your connection is (a four bar display).- Included Apps are the same.- VTech still decided not to include the rope for the stylus.
+In the manual they call it a ""Wrist Strap Fastener"" (Note: not included).
+But it's clearly not a wrist strap fastener, because the stylus has a rope loop hole in it, and the tablet has a hole in it right beside the stylus.
+The website even states it has a ""stylus with hole for string.""
+My husband thinks VTech doesn't want the liability of a child wrapping their neck in the rope, and put the responsibility on the parent to get the strap themselves; it certainly seems that way.HOW ARE INNOTAB 2 AND INNOTAB 2S DIFFERENT?- Some people like to creatively take the tablets out of the box for setup before handing to a child as a gift.
+InnoTab 2 is a bit of a challenge; just use sharp scissors to break the tape and foldout the box carefully.
+InnoTab 2S, I am happy to report, is the easiest of them all!
+The tablet just slides out the top in a plastic covering; no tape, or attachments cut into the box.
+You simply pop the tablet out of the molded plastic, and there you have it!
+I feel like someone at VTech heard parent's frustration and decided to fix this... thank you!- The big difference with InnoTab 2S is the new wireless capability; but don't imagine browser capability.
+The WiFi is simply used for downloading apps from VTech's website.
+Your child can make wish lists with the Wish List app on their tablet; my son is only 3, so he's not using that feature... yet.
+Downloading apps is easy, but you don't purchase them off the tablet itself (that's good new, otherwise imagine all the apps your child might ""accidently"" buy).
+You purchase them off your computer, tablet, or phone (I haven't used that feature yet).- The look of InnoTab 2S is basically the same, but I enjoy the bold black inlay over the previous grey and pink choices.
+We have the Leappad 2 and my kids love it a lot.
+However this VTech innotab 2s is a better tablet for my 6 year old daughter.The best part is the wifi so you don't necessarily need a computer (I use my phone to tether a wifi signal).
+It also comes in pink so I don't have to buy a skin for it, there are also included apps and a stylus pen included on the innotab so your child can get started right away.It does require 4 AA batteries so to save a little money we purchased rechargeable batteries.
+The price of the apps are comparable and to save money on that you can but the VTech gift cards when they are on sale.A 2 way camera/camcorder, the ability to play movies and music, read or play interactive learning games plus the option to add an SD card for more memory makes this a great option as far as tablets for kids go.
+My daughter loves hers and your child will love it too!
+My three year old son loves his Innotab.
+He calls it his Ipad and is very proud that he has an Ipad like the grown-ups.
+There are few good and bad things about this tablet:The Good:- It comes with preloaded games and you can download additional games for free by loading the Learning Lodge software onto your computer.
+So you can use it right away without needing to purchase additional games.- It is easy to figure out how to use.
+My son took to it right away and was able to navigate between screens without being able to read.- The camera and video camera are a great feature.
+My son loved taking pictures and video of the entire family.The Bad:- After turning it on, it takes a while to load up.
+It's hard for a three year old to have the patience to wait that long.- The battery life is very short.
+The wifi does not seem to work if the battery is low at all, which means you can't get much use out of it.- Many of the games have duplicate material from Mobigo games.
+My son has a Mobigo and since I don't want to get him the same games he already has, this severely limits the amount of original games for the Innotab.
+Just something to consider - if your child already has a Mobigo, then a Leappad may be a better choice of tablet for them since it has different games.- There are not as many Innotab games as Leappad games.Overall, this is a neat tablet and my son really enjoys it.
+He also has a Leappad 2 which he seems to enjoy a bit more, but that may be because he has some original games for it.
+Other than the games, the systems seem pretty comparable.
+I would suggest looking at the different games for each tablet and choosing which ones your child would prefer.
+Having previously reviewed theVTech InnoTab 2 Learning App Tablet, I had high hopes for the addition of Wi-Fi for this new model.
+Ultimately though, I felt the Wi-Fi was a needless frustration.
+For starters, this model is slower to load than the Innotab 2.
+Not by much, but enough to for a child to complain.
+Additionally, one has to connect the tablet to a PC in order to download the software to allow for Wi-Fi connectivity.
+Once the Wi-Fi is enabled, it really is not a strong feature as it basically only lets the child browse the VTech online store and play games (for a price).
+In essence, this feature allows the child to know all the games and apps that are available for purchase so expect a lot of demands from your child once you open up this Pandora's box!
+Personally, I would prefer to choose which games are to be purchased, as exposing a child to so many games only makes the child want more and more games.
+So, the only major difference between this and the previous model basically amounts to a negative in my eyes as it is basically a sales tool so that parents can keep buying additional games.
+Otherwise, the Innotab 2S Wi-Fi tablet and the Innotab 2 are virtually identical save for some cosmetic differences.
+Both play all the same games and come with the exact same accessories such as a stylus, camera, and a voice recording feature.
+Both tablets are also huge battery hogs so expect to buy  some rechargeable batteries in addition to the tablet.
+Personally, I would prefer that VTech do away with the Wi-Fi capability and just supplied a set of rechargeable batteries.
+Overall, the Innotab 2S does everything the previous model did but not necessarily better, and so I would recommend buying the standard Innotab 2.
+"This is basically the upgraded version of the old vTech kid laptops for the iPad age.
+Instead of a keyboard and mouse, the device has a touchscreen.
+Otherwise, it's just as sturdy and kid-friendly as older devices.
+The device has wireless connectivity (which means, parents, that you'll have to add this to your wireless networks).
+Your connection speed isn't that important because unfortauntely this device works extremely slowly even when displaying local content, sometimes taking over 30 seconds to display a new screen.
+Prepare to sit and wait.
+I can't get over how slow this display is!
+The internet connection does not mean your child can browse the internet by the way - it's just used to download apps, which your child can add to a ""wish list"" that will be emailed to you.
+The apps are (in my opinion) seriously overpriced and, really, not that great.
+This device costs $99 - if you save up a little more you can buy a Kindle Fire or a basic iPad, which will give you many more possibilities, a much more responsive screen, and many more educational apps at much lower prices.
+The only disadvantage to that approach is that you have to make sure your little one is careful with your device - which is just about the only advantage I see to getting this InnoTab instead: durability.
+Aside from that, I can't recommend it."
+I have a 20 mos.
+year old so that may be the problem right there.
+However, he uses my iPhone, iPad, and my husband's HTC Droid to play games all of the time so I thought this would be a good indestructible alternative.
+It was not for two main reasons.First, the graphics are subpar considering what is on market.
+Specifically, my smartphone should not have better graphics (in terms of clarity and pixels) than the VTech.Second, there was just too much device updating and requests to buy extra content when you turn on the device for the first time.
+I am no novice and I know that there is always some initial updating that has to be done in the beginning, but it felt like every 15 minutes it was asking me to download additional content.
+My 20 mos.
+year old does not need variety, just an indestructible toy with a few applications.I would definitely wait until he is older next time.

@@ -1,0 +1,269 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+There are more than enough pieces for each so you can be creative.1.
+We did the jungle scene as that is what they voted for.
+This part was a success.
+We could see where the solution we'd poured in was moving up from the base of the platform (where we'd poured the provided solution into pre-designed cups) to the out extremities of the pieces.
+Some pieces can be on either scene.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.0024891735520213842,0.0035816566087305546,0.0035224861931055784,0.0017560676205903292,0.0039039687253534794,0.004133674316108227,0.001981674926355481,0.003791209077462554,0.0028978579211980104,0.0027215122245252132,0.0025337724946439266,0.005056572612375021,0.00519374618306756,0.0022779800929129124,0.005116114392876625,0.0036827174481004477,0.002860934706404805,0.0044054193422198296,0.002751137362793088,0.0052660321816802025,0.004039822146296501,0.005031503736972809,0.004288110416382551,0.005367686040699482,0.004997031297534704,0.0032592525240033865,0.004317535553127527,0.0035646576434373856,0.004295374732464552,0.005211835261434317,0.003470946568995714,0.0034610151778906584,0.005340833216905594,0.0038736718706786633,0.005068397149443626,0.0031026203650981188,0.004868019372224808,0.003765351604670286,0.003964412026107311,0.00492376321926713,0.004634667653590441,0.00368087412789464,0.004963141866028309,0.004963357467204332,0.005007618572562933,0.0035973358899354935,0.006201741751283407,0.004576181061565876,0.0043768566101789474,0.004456673748791218,0.002962933387607336,0.005230070557445288,0.004153461195528507,0.005076094530522823,0.0036635221913456917,0.004647411871701479,0.004498293623328209,0.004789046477526426,0.005063404329121113,0.0036937801633030176,0.0029721057508140802,0.004813655745238066,0.0037008950021117926,0.005182050634175539,0.004045776557177305,0.0048236423172056675,0.004384396597743034,0.0032080120872706175,0.004254384897649288,0.005161570850759745,0.003135682549327612,0.005173466634005308,0.0030213554855436087,0.0031348334159702063,0.005289302673190832,0.001814390067011118,0.005020734388381243,0.003221778431907296,0.005383398849517107,0.004179681651294231,0.0021687180269509554,0.003981608897447586,0.002412635600194335,0.005842300597578287,0.0069149271585047245,0.00493853772059083,0.004008542746305466,0.004943246487528086,0.0036592017859220505,0.0030037062242627144,0.003459947183728218,0.005375633016228676,0.004638272803276777,0.003670798847451806,0.0053427754901349545,0.005089022219181061,0.004185641184449196,0.004906478803604841,0.005018776748329401,0.004367790650576353,0.005265932530164719,0.003960576839745045,0.0052248393185436726,0.0027392099145799875,0.005069441627711058,0.004633280448615551,0.002951099304482341,0.004908144939690828,0.005337481386959553,0.0027243345975875854,0.0038533490151166916,0.003792113857343793,0.005071439780294895,0.004524789284914732,0.00236496957950294,0.0051108468323946,0.003042489057406783,0.004709932021796703,0.002348322421312332,0.0022640391252934933,0.002545818453654647,0.004714722279459238,0.0043724942952394485,0.0028993473388254642,0.002406779211014509,0.0044966163113713264,0.004877664148807526,0.002722904086112976,0.003415617858991027,0.004945060238242149,0.004289524629712105,0.003664824180305004,0.0048532141372561455,0.004283190239220858,0.005941032897680998,0.002686068182811141,0.005072193685919046,0.005377353634685278,0.0046484642662107944,0.0037528916727751493,0.004164042882621288,0.005652455147355795,0.00466973427683115,0.00514505710452795,0.003965183161199093,0.00269893417134881,0.004550651181489229,0.0047378623858094215,0.005016045644879341,0.004386094864457846,0.004563250578939915,0.005016045644879341,0.004622817970812321,0.004501112271100283,0.005051436368376017,0.005317565519362688,0.004561327397823334,0.0024402402341365814,0.0049812267534434795,0.005107535980641842,0.004681089892983437,0.0035414781887084246,0.004648441448807716,0.002475911984220147,0.00398903526365757,0.0036171800456941128,0.0024991424288600683,0.0032530655153095722,0.003204622073099017,0.004610229749232531,0.00473577156662941,0.004780974704772234,0.002918347716331482,0.0034682778641581535,0.00508645735681057,0.0036513328086584806,0.0050886995159089565,0.005710106808692217,0.0020254694391041994,0.0038127992302179337,0.0033386284485459328,0.0034476034343242645,0.0026606677565723658,0.0029535023495554924,0.0017614790704101324,0.00503026507794857,0.0024725194089114666,0.004923076368868351,0.002674253424629569,0.004784336779266596,0.004831822123378515,0.0026055914349853992,0.003704709466546774,0.002223174786195159,0.005028144456446171,0.0025384898763149977,0.002579875523224473,0.0019869725219905376,0.002570587210357189,0.004190740641206503,0.00400210078805685,0.0035707824863493443,0.004608315881341696,0.0032519132364541292,0.004445057362318039,0.002807542448863387,0.0031396665144711733,0.003549066372215748,0.002982549602165818,0.0046862270683050156,0.004112958908081055,0.004757035989314318,0.004936752375215292,0.006019542925059795,0.0029146973975002766,0.004735404625535011,0.0026823661755770445,0.0018406452145427465,0.0014829736901447177,0.004884611815214157,0.002724859630689025,0.0023303923662751913,0.0020323863718658686,0.0026734627317637205,0.001999583328142762,0.004402529448270798,0.0017786123789846897,0.0019631285686045885,0.003113832790404558,0.004998897667974234,0.00391691830009222,0.003936581779271364,0.003374587744474411,0.0033742759842425585,0.004035422578454018,0.005378069821745157,0.004635486286133528,0.0050328574143350124,0.003768293187022209,0.0053040822967886925,0.004466172773391008,0.0043245358392596245,0.005492320749908686,0.0020812770817428827,0.002759270602837205,0.0027309474535286427,0.0024357009679079056,0.004659065045416355,0.002995444694533944,0.0021503963507711887,0.002032321644946933,0.00259406422264874,0.0017564058071002364
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+"The Color Bloomz Mega Pack includes all of the materials you need to create a few ""scenes.""
+There is a plastic base and canopy, where the display is assembled.
+There are special markers and several packages of the liquid needed to make the design bloom.
+There are sheets of perforated printed shapes to add to the display (sea theme fishes and jungle theme lions and monkeys).
+And there are several sheets of special thin posterboard-type white paper, the bulk of which have perforated, predetermined shapes to color with the included markers.
+There are six extra squares of the white paper that you can cut into custom shapes.
+In all, the materials will permit you to prepare two or three scenes before they run out.I spent some time with my kindergarten age daughter coloring the white paper shapes with the special markers.
+We then arranged them in the ""wells"" in the display.
+Each well holds one shape with clips on either side of the well, and part of the paper dips down into the well.
+When all the coloring and arranging was done, we added the special chemical to the wells.
+Capillary action draws the chemical up through the paper and it reacts with the special ink from the included markers.
+Within the hour, blooms started appearing along the edges of the white paper shapes.
+It really was fascinating and fun to see.
+By the next morning, the blooms had grown considerably, generally appearing at the edges of the white paper, not on the surfaces.
+It was quite impressive, and my daughter was thrilled with the results.However, there are two big caveats.
+First is the price.
+although its clear a lot of work went into designing this product, i can only rate it average at best.
+the biggest issue is its flat out ugly.
+yes it has an educational value in terms of planning, problem solving, staging, etc., but the end result is visually awful.
+so awful that my daughter had no interest in it.
+My girls were excited when they saw this, and they had fun for the short time it took to construct the scenario then watch them bloom, but that's it.
+The flowers are fragile, so not really for play after.
+They also didn't survive long as a centerpiece.
+The fun was nice while it lasted, but it's definitely fleeting.
+Good for a rainyday activity.
+"When I got this, I thought hey, it's a neat activity for the kids, there are multiple scenes they can create, and it's vibrant.
+However, what it ended up being was a bit of a mess.UNBOXING:Great put-together set in the box.
+Although, once opened and not completely used, it's tough putting things back in the box for later.REVIEW:I had high hopes for this activity set.
+The colors looked neat, and the way the ""bloomz"" came out of the animals was really new.
+However, the implementation of the activity was a bit off.
+You pre-color 2D shapes, but only on certain areas.
+Then you add the chemicals (not sure what it is, but it claims non-toxic) and wait overnight for the blooming to take place.What we found in the morning was a mess of vibrant colors all mixed together in the bloomz.
+The colors bled into each other, and there's no way they could have not done so.
+I believe someone with great photoshop skills made the picture on the package.Also, we were expecting that the bloomz would be as big as the picture in real-life.
+What a disappointment.
+In certain areas, the bloomz got really big.
+In others, not so much.
+Uniformity was not part of the bloomz set.After all was said and done, the kids were disappointed and did not want to attempt the other set.OVERALL:This one didn't really do it for my kids, although it was still a neat activity.
+If you want to try a novel 3D way to make a coloring activity, this might be for you.
+It apparently wasn't for us."
+"My eleven year old enjoyed building the scenes and watching the ""crystals"" grow at an amazing speed.
+Her suggestion however is that, since they are so incredibly fragile, an adult must make sure young kids will not bump into the amazing 3D scenes.
+I think this is an entertaining, interesting way for a child to spend the time!"
+I got this for my classroom, thinking the kids would love this.
+They did.
+Everyone had an opportunity to contribute .
+We did the jungle scene as that is what they voted for.
+It is easy to do but is probably better suited for the home than a large group of children.
+It looks nice but is very, very fragile.
+I wish that more scientific information had been included as well to explain what is happening for the children.
+Based on the price and the fragile nature of this kind of setup, I would recommend passing on this and looking for another crystal kit that will, most likely, be much cheaper.
+MY children love to watch things grow.
+This is a very cute toy that gives them pretty quick results.
+I don't know that it's really something to do over and over again, but it is very cute.
+This is a great craft and family project but a little expensive for a craft.
+I did this with my 5 year old and he had fun but did get bored after awhile.
+It actually reminds me of a Chia Pet but more colorful and more to set up.
+The final presentation is very pretty and definitely a different craft then something we have done before.
+My boys were amazed at what they created and wanted to do another one right away.
+The problem though is that this kit is over $30 - I'd pay maybe $20, but $15 would be more reasonable for a craft like this.
+While the kit does have some science to how the plants grow, I wish too there was more explanations on this as my boys asked but I had no clue how to explain it.
+Overall, this is a super neat craft idea but a little pricey for us.
+The minute this came in the mail our 9 year old grabbed it from my hands and opened it.
+It took only a few minutes for me to calm her down so I could read the simple instructions.
+Eagerly, she carried out all the steps and then found out she would have to wait till the next morning to see the final results.
+That was discouraging to her, but understandable with the Color Bloomz.
+It is a remarkable display!
+And, I am certain that we will complete the other project (there are two projects included in the Mega Pack).
+We did have fun!Now, though, there is nothing else to do with the completed Bloomz.
+They are not something you will want as a centerpiece, and they are fragile to the touch.
+If this were a $10 item, it would be well worth the cost.
+But, at the $30 level, it is too expensive.
+You get, perhaps, an hour of fun creating things, a few minutes enjoyment viewing what you made, and then Nothing :-(.
+There are too many toys and crafts in the Color Bloomz price category to make this a recommended item.
+This is so much fun all you do is color the pattern.
+Place the pieces in the container and pour the liquid on it and then with in a day it grows and it's really cool.
+It has lasted for about a week and we will probably toss it in another week.It comes with two different scenes so then after this one we will make another one and I really enjoyed it and I was surprised how well it works
+When I got this out and said it was a fun family project, my teenagers all disappeared.
+So my daughter and I worked on it, got Dad to join in and eventually the teens helped setting it up.
+I think they were as pleased by it as anything not involving food or electronics.
+It has a great scientific curiosity with a little bit of art mixed in.
+By the next day the colors bloomed and it's been cheering me up for two weeks now.
+I know we should start over with the next design but I'm not ready.Here are some points/tips:INFO: There are supplies for two scenes: a forest and a sea.
+Some pieces can be on either scene.
+There are more than enough pieces for each so you can be creative.1.
+TIP: do NOT punch out all the pieces to start with.
+Punch a piece and its matching pieces.
+Put them together and then punch the next set.
+It was confusing to match them up with them all punched out (they are numbered to match, but the #s are on the cardboard surrounding the piece).2.
+TIP: do NOT let one piece, (for example, a tree) touch another piece (a tower) unless you like the blooms to mix.
+Personally, I think it's cool that they mix...so my tree has green and red blooms.3.
+TIP: Be sure it's in a place where no one will knock it once the pools are filled with the coloring fluid.
+You don't want it tossled around.The perfect age range for this little craft would probably be ages 6-12.
+This was a fun, one time activity to share with your child.
+Everything is included - in fact you should only use the markers included.
+The packaging is a bit over done, but it was easy to assemble if delicate.
+This is not a toy for the rough and tumble crowd.
+Two options included - we tried the jungle.
+Growth really got going hours later - so set it and forget it.
+Once done, there isn't anything else to do with this product.
+More than likely it will find its way into the trash after a few days.
+"I watched a 7-year old take on the project and realized that it's not one that could be done without adult supervision or help; at least not for this age group.
+He was somewhat frustrated at times when what he was expecting didn't happen.In the end, when he became more familiar with what he had to do, the project went more smoothly and he admitted to having fun and learning ""some things.
+""From what I got after watching this child is that this is a onetime project.
+Once it is done, most kids probably wouldn't want to do it again.
+Overall, I think it is educational and would recommend it for that purpose."
+In a world where we don't think twice about dropping hundreds of dollars on mindless electronic devices to satiate our childrens' ever decreasing collective attention span, I am amazed at how critical some people are about the price of this product.For $32 your child actually gets to interact with a toy that is at once scientific in nature, stimulates childrens' curious nature about how the world works, spurns creativity and teaches the values of patience and delayed gratification.
+All these are things our children need MORE of, not less.
+My daughter had an absolute ball in deciding which scene to create and what colors to choose.
+I emphasized to her the positive aspects of anticipating the results the next day and how much fun it would be to wait and wonder how it would look.
+She totally bought in and it wound up being high quality time for the both of us.
+And what's more you can reuse it!This toy works on many levels and I highly recommend it.
+This kit is a lot of fun.
+First kids can color in the cut-out pieces with the included markers.
+Then they can construct a jungle or underwater scene.
+Add the magic solution and put the creation in a safe place.
+Within the next day they will see their artwork bloom to life.There are enough pieces and liquid to create at least two scenes, so after enjoying the first one, you can throw out those pieces, wash off the plastic and start over.This is a great rainy day activity.
+Although it says for ages 6 and up, my almost five year old was able to enjoy it with some assistance.
+I would definitely purchase this product in the future and it would also be a great birthday gift for a child that enjoys art.
+"Out of the box, the Color Bloomz Mega Pack includes enough product to complete three different scenes.
+The jungle scene and underwater scene come with cut-out figures, and there are blank white figures for a third scene that you can create entirely on your own.
+But right off the bat, we realized we could only do one scene at a time, and would have to discard it before we could do another scene because there is only one base, and it is necessary to use it in order to get the figures to stand and to add the blooming liquid.I have to say that my 6-year-old and I were both pleased and frustrated as we started our first scene--the underwater display.
+First, you actually need to read the directions.
+They're not difficult to understand when you use the text and the pictures, but I'd say they're not very intuitive, either.
+And, while the directions say you can set up the scene anyway you'd like, the height of some of the pieces pretty much determines where they have to be placed in order to be viewed.The pack comes with several sheets of colored shapes/figures that are fully colored and need to be punched out, as well as thick plain white shapes that you use the provided markers to color.
+My 6-year-old and I probably spent a good half hour on these punchouts.
+They were frustrating to her because she couldn't easily handle them.
+In the end, I had to remove most of the punchouts because there were tiny little circles that she found difficult to manipulate.
+After we got the punchouts done, we started the coloring.The directions tell you to make sure to color both sides as well as the edges of the pieces.
+This was very time consuming, but fun.
+The directions made a point to suggest using different color combinations, so my daughter came up with different designs for the pieces--polka dots, strips, etc.
+On nearly every piece, we used at least two colors and were excited to see how these would bloom.
+After the coloring, we set up the pieces we had colored then used the basic pre-colored pieces to build up the design.After just about 20 or 30 minutes, we could see the blooming start.
+It was actually really cool.
+We could see where the solution we'd poured in was moving up from the base of the platform (where we'd poured the provided solution into pre-designed cups) to the out extremities of the pieces.
+When I first ordered Color Bloomz, I didn't know what to expect because there aren't many product details.
+But I was pleasantly surprised because it was very fun, even for me!
+My daughter is five years old so she still needed help to do it, but I didn't mind.
+Basically what you do is you color the decorations you want and stick them to the other cutout pieces.
+Place them standing up with part of them sitting in the dips and then put your magic solution in the sip.
+After a while, the part you colored with the marker will actually start to bloom.
+It's really neat and it comes with 3 different scenes you can do too.
+I really like it because it also teaches patience because you have to wait a while for them to start blooming so you learn to appreciate it too.
+This is cute family fun.
+There was a 7 yr. old a 14 yr old and myself.
+We all pitched in to either select, color and/or assemble.
+When we were done we gave our finished scene a once over then added the growing solution and set it to the side.
+Every so often one of us would go and check on it.
+It took a while to start to grow but eventually it did.
+The end result was okay, nothing great but very interesting in it's concept.
+It kind of reminded me of a Chia Pet just a lot more delicate.
+It's nothing big but we had fun.
+We did the Jungle Scene and plan to do the Underwater Scene today.
+"My niece (five) and nephew (nine) had fun doing the Color Bloomz Pack.
+I enjoyed it to.
+It's relatively simple.
+You have to read the directions and it took some time to color and fit the pieces, but the kids were really, really excited to see what happen once we added the mixture.
+We did the Jungle scene and they kept going back to stare at it, no matter how many times I told them we had to be patient and wait for the ""bloomz.""
+Once things started happening, in a little under an hour, they were really thrilled and thought it was very cool.
+I thought it was very cool too...until it basically fell apart and all the bloomz fell off or maybe a better word is desinigrated.
+I understood our creation was fragile, even very fragile, but I didn't know that if you even looked at it funny it would fall apart.
+No one touched the display, but my niece bumped the chair next to the table it was on and pieces fell off, then I had to move the display so we could use the table and even more bloomz were lost, actually most of them, even though I was extremely careful.
+It turned out to be pretty funny once we realized there was no saving any part of it, but it was disappointing for the kids, they wanted to show their mom and my niece really wanted to take it home to put in her room, but there is no way to do that.
+I realize it is what it is, but for the price and having basically nothing left of your effort, not to mention the disappointment, even though it is cool, I wouldn't recommend Color Bloomz unless you a really, really sure you don't mind throwing the whole thing away the next day."
+Color Bloomz - Mega Pack.
+My three grandchildren and I enjoyed working on this activity together, it does require supervision but it is well worth the time.
+The kids 2, 4 and 6 years old colored the designs with the markers, which take some time to scrub or wear off your hands.
+Then we punched out the pre-designed parts and built the scene.
+An adult has to pour the liquid into the pools.
+Then we waited for it to start forming the crystals.
+It was much more fun to do it first thing in the morning and watch it grow all through the day, than the one we did at night and saw it all grown in, in the morning.
+My granddaughter (a very active little girl) and I set out to do this craft.
+Trying to keep my eight year-old focused on Bloomz was a little difficult, but when the colors began to bloom she was hooked.First the pictures are colored, then you put the diorama together.
+(The toy is themed) You add the magic solution, and yes, the colors do magically bloom.Bloomz is not a messy toy, which was nice.
+The toy is also colorful and it keeps for quite sometime.
+You can display the craft on a desk or shelf which gives the child a sense of satisfaction.I would recommend this toy to little girls who like to do crafts or even for those who don't.
+The blooming really is an interesting sight.
+My 10-year-old niece loved this item!
+If you have any children that are in the arts and crafts fo decorating, this particular item is perfect for them!
+My niece enjoyed coloring the various cut out animals, decorating the scenery, and watching the blooms grow.
+While it wasn't a very sturdy item I cannot be dissatisfied with the overall expectation I had for it And for less than 20 bucks apiece You really can't go wrong by purchasing this item.
+My previous review described the wrong product, so here is the correct one.My kidlets, ages 4 and 7 enjoyedColor Bloomz - Mega Pack (Asst).
+They enjoyed coloring the various shapes and figuring out how their scene would be assembled within the aquarium-like structure.
+Their particular set had a jungle scene, an aquarium scene, and a color-your-own blank shapes scene.
+The toy involves coloring various thick paper cut-outs with the provided color markers, inserting them into stands, and then filling the stands with a liquid provided in single-use packets.
+There seemed to be enough packets provided for the projects.
+The liquid is slowly absorbed by the paper, causing the colors to blend in sort of a tie-dye effect, with colored crystals forming along the edges of the paper cut-outs.The whole effect is very pretty, but is very fragile.
+Any touch will cause the crystals to fall off the paper, ditto a strong vibration hitting the surface the aquarium-like structure is on.
+And once the project is completed and the oohs-and-aahs have occurred, the kids lost interest in it because it had to be displayed in a place other than a dresser or a bookcase in their bedroom because of the fragility.It's a cute toy and the kids had fun creating it.
+With three scenes to create and time to admire them, the toy does last a bit.
+But that is outweighed by how careful you have to be with the finished product.
+Given the price of toys today, the current Amazon price of $21.99 is a little too high, in my opinion.
+To me, this is more of a $13 toy.
+My 11-year old granddaughter is an experienced crafter and she was able to do this craft by herself with a minimum of supervision.
+The instructions are not exactly step-by-step and a little hard to understand at first, but once she got into it she figured it out on her own.
+The kit includes everything you need to grow crystals to make an Under the Sea theme or Jungle theme.
+This project combines art and science in a fascinating and fun project.
+The fun part is setting up the scene inside the plastic frame and then coloring the treated cut-outs with the special markers.
+Once the design is finished, you pour the liquid from the packets into the wells on the frame and the special coating on the colored cut-out pieces absorbs the liquid.
+As the crystals (or blooms) grow on the cut-outs, they turn the same color.
+The crystals grow very slowly and unevenly and there is no explanation of the science involved in the growing crystals.
+For that reason, I don't consider this kit educational, although it could be.
+It is also important to note that this craft kit does not make anything your child can keep, or give as a gift.
+Eventually the crystals disintegrate and fall off and the pieces have to be tossed out.
+There is enough liquid to make each scene once, and possibly once more.
+However this is a disposable craft kit.
+All in all my granddaughter thought it was fun to design and watch it grow, but she prefers craft kits where she can make something for herself or to give as a gift to a friend.
+My kids (ages 3.5 and 6) were very excited to try this and it was a perfect activity while trapped indoors during hurricane sandy!
+It is easy to do and the kids required only a little help from me - they decided which theme they wanted to put together, ocean or jungle, then found all the elements for the jungle theme and started coloring the special white cardstock with the special markers that are included in the set.
+Then we put the colored pieces on the corresponding pre-designed elements and constructed our scene.
+The last step is to pour the special fluid into each reservoir (this required me to do so it didn't spill).
+Then we waited to see what bloomed - it took about 30 minutes to get some blooming action, a few hours to see the full bloom.
+The kids were amazed and really loved putting it together then watching it bloom (over time).
+This part was a success.
+The blooms look a little like cauliflower, as my 6 year old proclaimed, but soft like cotton.The main draw back to the color bloomz is that once the blooming is complete, it just sits on the table or shelf as something cool to look at but that is it.
+After a few days, the blooms started falling off and left a small mess on the table.
+The blooms turned out ok but if you don't color the white shapes completely and thoroughly, the blooms don't have any color.
+The color is light on some parts of the bloom and will color nicely on very saturated parts of the shapes but overall it didn't look like the pictures on the box - not as full and colorful.I will scratch this one down as a good experimental arts and crafts project for a rainy day and fun for a one-time activity (although there are two scenes so we can do one more) but overall, this is not something I will continue to buy over and over.
+"I have done this type of blooming crystal activity before, but Color Bloomz adds an exciting new element that other companies' sets don't have--getting to choose the colors the crystals will be!
+Normally the cardboard pieces are pre-colored.
+That being said, there aren't too many possibilities, especially in the jungle set--it's obvious you want the lion's mane to be yellow, for example.
+But it still adds an extra step that's fun to do.There are pieces of laminated cardboard included that act as props--they don't absorb the liquid solution.
+A thicker white cardboard absorbs the solution, and the crystals form on it.There are two scenes that can be set up: a jungle and an underwater scene.
+It's really creative since the underwater scene's growing sections are coral--the crystals really look like it!
+The third ""scene"" is a make-your-own opportunity, providing absorbent papers that don't have designs already pre-punched.The instructions say to leave the set to bloom overnight.
+However, what I suggest with this toy is to do all of the coloring and setting up one day where you'll be home the following day.
+The following early *morning*, add the liquid solution and peek in on its progress throughout the day.A minor complaint is about the markers.
+The yellow marker in the set I received marks clear--you can't see where you have colored.
+Yellow doesn't seem to work as well as the other colors.
+You also can't mix colors as much as you would like.
+For example, coloring polka dots on a piece won't produce polka-dotted crystals.
+Coloring one piece in different places with red and blue may produce purple instead of both.
+Another thing that's important to note is that the markers in the set don't really come loaded with enough ink, since the absorbent papers really take on a lot of ink.
+Though the set says you have to use the included markers, thick watercolor markers have worked fine for us and allowed more color options.
+Did you ever have crystals that formed fantastic shapes when immersed in water?
+This is a new take on a fun, classic idea.
+It's nicely packaged, and my granddaughter loved it.Recommended!
+The kids were enthralled with this experience!
+They love art projects, so they enjoyed te painting of the pieces, and then were constantly checking for them to bloom!
+Watching them grow in the colors they painted  was amazing!
+Now they even want to plant a garden!
+This was a very unique gift- we've never done anything like it before- very fun!
+!
+"Like many other craft kits, this Color Bloomz activity kit (recommended for ages 6 and up)can be used for a limited number of projects and is not meant for constant reuse.
+This kit comes with two possible projects, an Underwater theme and a Jungle theme.
+My seven-year-old daughter and I opted to work on the underwater theme first.
+Everything you need is supplied in this kit:4 printed graphic Color Bloomz sheets3 white blooming Color Bloomz sheets2 plastic risers, 1 plastic tower1 plastic display base, 4 plastic posts, 1 plastic top18 by 10 ml Color Bloomz liquid packs4 Color Bloomz markers1 instruction guideThe instructions are clear and easy to follow.
+Note that only the markers included in the pack can be used for this project (regular markers will not work).
+It is stated on the instruction booklet that care should be taken to avoid any direct contact between Color Bloomz liquid with open cuts, broken skin, wounds, and to avoid direct contact with eyes (and it is NOT to be eaten) so I think adult supervision is definitely recommended here (this is also stated on the booklet).
+The liquid is identified in the booklet as mono potassium phospate dissolved in water.It takes several hours for the Bloomz to fully open and it is stated in the booklet, ""Leave it undisturbed overnight for full Bloomz to form.""
+The Bloomz are also described as very fragile especially once growth begins, so care should be taken once a project is completed.We were happy with our finished product but haven't tried the other scene yet.
+It does state in the booklet that before a new scene can be created, all the plastic parts should be washed with water and dried completely before using.
+My daughter seems to have lost interest after the initial novelty wore off, and for the price it is retailing, I'm not sure this is a cost effective craft project."

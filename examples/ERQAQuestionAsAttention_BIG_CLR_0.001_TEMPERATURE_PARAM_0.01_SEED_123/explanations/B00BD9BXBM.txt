@@ -1,0 +1,256 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+I thought it would be a little more time consuming and I am not super patient.
+(And the ugliness of it might actually appeal to older children who want to assert that they are not babies.)
+The game arrived and my nephews were in town so we started playing with it.
+It can be a bit challenging to assemble, but in a good way, as it should maintain interest in and challenge upper elementary students.
+I think I'm going to buy more to increase the fun!
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.005234170705080032,0.00430497620254755,0.0023100231774151325,0.0016941624926403165,0.006385602056980133,0.005442317575216293,0.0047089275903999805,0.002180631970986724,0.0019327237969264388,0.004596571903675795,0.0027717845514416695,0.005261716898530722,0.004703861195594072,0.004817020148038864,0.0030148893129080534,0.004974245093762875,0.0020253281109035015,0.004255708307027817,0.004244777373969555,0.002351735718548298,0.002049023751169443,0.0033651981502771378,0.001884497469291091,0.0028075287118554115,0.002116686664521694,0.003457465209066868,0.0017070886678993702,0.003909354098141193,0.001663953997194767,0.0023047029972076416,0.0026505456771701574,0.006676303222775459,0.0032027079723775387,0.0049743917770683765,0.001563496422022581,0.004335143603384495,0.005808210000395775,0.005682592745870352,0.004232784267514944,0.003758538281545043,0.004598444327712059,0.0035284622572362423,0.004119073040783405,0.006015318911522627,0.0045081498101353645,0.002275393810123205,0.00466478755697608,0.004017927683889866,0.005719972308725119,0.005316734313964844,0.002901773899793625,0.0032864981330931187,0.002347972011193633,0.002636516699567437,0.004113809205591679,0.0029810313135385513,0.003549995832145214,0.004143496509641409,0.0035335689317435026,0.0025510378181934357,0.002299330895766616,0.004068579059094191,0.003983198199421167,0.002619984559714794,0.00463720690459013,0.005722765810787678,0.0021887256298214197,0.0016923430375754833,0.0018117936560884118,0.0042086029425263405,0.0029880341608077288,0.005227900575846434,0.005410074256360531,0.0035985189024358988,0.005295859184116125,0.002717649796977639,0.004322426859289408,0.0031110807321965694,0.005958055146038532,0.006112992763519287,0.005942491814494133,0.004426578059792519,0.004355390090495348,0.002301594940945506,0.005690565798431635,0.004926532041281462,0.0055416119284927845,0.006465446669608355,0.005365647375583649,0.002330034738406539,0.006062008440494537,0.0054293302819132805,0.0034062075428664684,0.0018422032007947564,0.005886295344680548,0.0017417754279449582,0.0016461650375276804,0.005105187185108662,0.0025146452244371176,0.004315020516514778,0.005868864711374044,0.005384168587625027,0.003939249087125063,0.0016834030393511057,0.006525712553411722,0.004668593872338533,0.004373383242636919,0.0032623857259750366,0.005090509541332722,0.0044752503745257854,0.006024224683642387,0.0021573281846940517,0.0017774315783753991,0.004990647081285715,0.005814916454255581,0.0028803881723433733,0.004097679164260626,0.00535901915282011,0.002671206137165427,0.00489421421661973,0.0018942923052236438,0.003374161198735237,0.003455763217061758,0.0018381397239863873,0.0018583876080811024,0.00589364068582654,0.005682404153048992,0.00781585555523634,0.005204567685723305,0.00589364068582654,0.003366108052432537,0.005712865851819515,0.004869339056313038,0.0032765695359557867,0.0058114551939070225,0.0068791587837040424,0.004207198973745108,0.005878354422748089,0.0060067204758524895,0.0024075552355498075,0.004493769258260727,0.0014282792108133435,0.0049891225062310696,0.0020740849431604147,0.005723829381167889,0.005647475365549326,0.0036666158121079206,0.005836560856550932,0.004857503343373537,0.0028673482593148947,0.005527691449970007,0.002348350128158927,0.0037216562777757645,0.0060062226839363575,0.006829834543168545,0.006927115842700005,0.006027889903634787,0.0060062226839363575,0.005657359026372433,0.005469112191349268,0.006365951616317034,0.003789726411923766,0.00645127147436142,0.0019182657124474645,0.0031219469383358955,0.0016191261820495129,0.006005545146763325,0.006005545146763325,0.006164308171719313,0.004266718868166208,0.00529135949909687,0.006004719994962215,0.005401306785643101,0.00494050420820713,0.002869384130463004,0.005360066425055265,0.0020676511339843273,0.0049843681044876575,0.003230133093893528,0.005979027133435011,0.0017550158081576228,0.003012019442394376,0.0054976604878902435,0.003043643431738019,0.0038314226549118757,0.0024483613669872284,0.0037887871731072664,0.005591789726167917,0.004819969180971384,0.004480867646634579,0.0025109085254371166,0.0027070483192801476,0.0021140770986676216,0.004260187037289143,0.0021895812824368477,0.0048169344663619995,0.006156634539365768,0.0040639061480760574,0.0023377989418804646,0.003679272485896945,0.0024059617426246405,0.0034902412444353104,0.004527447745203972,0.005539705976843834,0.005748061928898096,0.005898068193346262,0.005748061928898096,0.003757174126803875,0.005064918659627438,0.00555790401995182,0.005618705879896879,0.0021331338211894035,0.004313040990382433,0.00498945964500308,0.002061603358015418,0.00447042053565383,0.0015112953260540962,0.0037454264238476753,0.00576994102448225,0.004877076949924231,0.005704482551664114,0.00576994102448225,0.004834109451621771,0.003413874888792634,0.004105237778276205,0.004544196650385857,0.002720318268984556,0.0049681151285767555,0.002668044762685895,0.004457786679267883,0.005594170186668634,0.00477705430239439,0.004176128190010786,0.0022364631295204163,0.00515116099268198,0.00488237664103508,0.005312149878591299,0.005625823047012091,0.003844794351607561,0.004231270868331194
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+This toy is a hoot and a half, with just a touch of educational value.
+Initial assembly isn't too hairy, but is best handled by an adult.
+It consists of punching out dozens of cardboard wall and floor tiles, then attaching plastic feet to most of them.
+Then the real fun begins.The instruction sheet offers a few definitions of demolition-related scientific terms like &#34;potential energy&#34; and &#34;implosion,&#34; as well as some building ideas (including instructions for building the large structure depicted on the box).
+However, most kids are likely to just start building as their fancy takes them.
+Fortunately, there are enough pieces to create (and destroy) a decent variety of buildings.
+They're made of relatively sturdy cardboard, so they won't fall over while you're stacking 'em.Once the building is up, it's time to strategically place one or more of the three plastic blasting pistons.
+The control unit makes great sound effects to accompany the destruction.One of the three blasting pistons in our set doesn't work.
+I attempted to disassemble the control unit to check the wires, but one of the screws would not budge.
+I have a feeling it may be glued in.
+Had I purchased this in a store, I'd exchange it.
+I will contact the manufacturer and update this review when I hear back.
+The good news is that we can have plenty of fun in the meantime with the two functional blasters.I also want to mention that I have seen a very wide range of prices for this on Amazon -- from around $20 to over $40.
+Plan accordingly, if you're not in a hurry.
+My son loves playing with these kinds of building sets, but when I learned that this SmartLab Triple Blast Warehouse set uses cards and not blocks for the walls, I wasn't sure how it well it would hold up.
+It was hard to picture a 12 year old building anything made out of cards, and not having it come down by the third piece.
+But SmartLab figured out how to do this.The cards you use to build walls have small clear plastic basis that you slide them into to hold the wall cards vertical.
+Then you can set lay the floor pieces across the wall pieces and they will stay put.
+The floor pieces are thick enough that you can place additional wall pieces on top of them, to continue building the structure vertically.
+These cards have sort of a building-under-construction graphics pictured on them.
+So as you build your structure, it ends up looking like a giant warehouse with pipes, walkways, signs and ladders throughout.Once you've build something, then it's time to blow it up.
+With your set of building cards comes a yellow detonator triple button controller.
+Attached to this detonator is 3 long cables and at the end of each cable is what they call a blaster.
+The blaster is a piece with 2 spring loaded ends that pop out and hit the cards on either side of it, knocking them down.
+Each of the 3 buttons on the main detonator controls one of the blasters.
+You can chose to set off the blasters one at a time, or press them all at the same time to set them all off at once.
+Before you can set off the blasters, you activate them by arming the blasters, using a small button beside the 3 detonator buttons.
+Once you've pressed the arming button, a siren goes off and says that the blasters have been armed.
+You can then press the detonator buttons to set the blaster off, knocking everything down.
+Each time you set off a blaster, they make a crashing sound effect, to add more dramatic sound to the cards falling.This toy has a lot of replay ability in it.
+Some of the things I liked about this is that there were other demolition lab toys that I could pick up that went along this same theme so that if my children really enjoyed this one I could buy more.
+I think I'm going to buy more to increase the fun!
+It is that fun.I have seen the three kids playing with it and I have even seen their dad on the floor playing with this toy.Essentially you are building a house of cards except it is easier to build the card house because there are little plastic feet on the bottoms of the cards.
+If you are careful the building will be stable for fairly high levels, much higher than you can build a deck of cards into a house.
+You can build other buildings using the directions in the kit or you can even try to design your own.Once you have your building built you can tear it down with the triple blast!
+You have three buttons you can push to bring down the building.
+You can push them one at a time or all three at once.
+The sound effects only add to the fun.
+There is a clear the area horn sound, the kabooms and the crashing.We have completely enjoyed this toy.
+My almost 14 year old spent lots of time on it trying to build  more complex buildng that would withstand the 'blast'.
+My ten year old just tried to blow up everything as fast as he could.I look for toys that will challenge and grow with the child.
+I like toys that do more than just have a button you push that make noise.
+This fits the bill perfectly.Well worth the money.
+I'm going to be buying more parts to this.Enjoy.
+If you have ever seen &#34;Get Smart&#34; -- particularly the Our Man in Toyland episode, you might get a chuckle out of contemplating this toy and the &#34;Destructo&#34; toy in that episode.
+I have.That said.The Demolition Lab lets your child or children build &#34;structures&#34; out of a material a bit thicker than card stock paper and then systematically &#34;demolish&#34; the buildings using &#34;chargers&#34; ....this may come in handy if your living room has suffered at the hand of homemade projectiles.
+This destruction is very self-contained and has the perk of being a bit more scientific than create and destroy by brute force.
+"Essentially this toy makes it easy to build a large ""house of cards"" and then knock it down with a tiny ""demolition lookalike"" tool.
+After two days of playing, my kids think it's the most amazing thing ever.
+The pieces in this are made of various thicknesses of paper--some of the taller pieces are only as thick as a playing card, and others are thicker (like a piece of the gameboard in Settlers of Catan, or Carcasonne).
+Many have tiny plastic stands to keep them vertical, which is helpful for ""wall"" pieces, and then the floor pieces are thicker and lay flat.
+So it's similar to something you'd do with blocks--you build the pieces up a few levels, and when you're done you hit the red button, and watch things fall.
+There are actually three  double-headed demolition engines (they're shaped like a T, and when you push the button, the arms pop out further to tip things over), each with their own red button, so you can press them all together, or just one at a time."
+"I almost said this toy is a blast but was afraid of being accused of a bad pun, but it really has been a lot of fun for my boys.
+There is a satisfaction of building as well as destroying your creation.
+And once you have brought you building down you can instantly put it back up again.The little actuators that simulate the explosions work great and the accompanying sounds are lifelike and help enhance the illusion.
+It is great that you can hit a button that plays the sirens and ""arms"" the detonators.
+Once pushed the actuators thrust out two pistons with a simulated blast sound.If there were any one part that kind of falls a little short, it's the quality of the building pieces.
+Being cardboard, they are prone to bending, creasing and warping.
+It would have been nice to have a somewhat sturdier material, but the pieces are great for flexible building.
+All in all, a great toy.Pros+ Very flexible building options+ Safe destruction+ Hours of fun+ Blasters seem well builtCons- Cardboard pieces prone to warping and bending"
+My first impression of this game was, humph &#8211; you build a house of cards then knock it down&#8230;.Now, after playing it for a while, it&#8217;s more like - You build a house of cards then knock it down!!
+!I didn&#8217;t realize how much fun destruction could be.
+The concept is so simple &#8211; build a house of cards and then place detonators in locations where it will cause the most destruction.
+I guess that&#8217;s what makes this toy so fun.
+It&#8217;s simple and that is what makes it great.
+The demolition labs triple blast warehouse contains 60 various building pieces like walls, beams, wood boards, steel plates and smoke stacks.
+It also contains 3 dual sided blasters and a detonator for blowing your created building up.
+Each of the pieces have a number printed on the front of them and the instructions make it easy to build the triple blast warehouse that is pictured because the instructions list the pieces by number as too.
+You can build it on carpet but it works better on a hard floor because the carpet can make the walls uneven or tilt different ways.
+It can be somewhat difficult to build the entire warehouse without it falling down but that&#8217;s part of the fun.
+The instructions don&#8217;t really give much guidance on how to play but we found it fun to have two people take turns building a structure and then you can try to blow up each other&#8217;s structure.
+It makes you really think about the best and most creative way to make a strong building that won&#8217;t fall down.
+Once you build the ultimate building your opponent can try to demolish it.
+You have three different blasters that act like dynamite.
+You place them in strategic areas that will bring down the building when detonated.
+You have a four button ignition switch with a button to sound the warning alarm.
+The other three buttons ignite each of the blasters.
+You can blow them all separately or all at once if you wish.
+This is a lot of fun to play and by kids and I all have fun.
+I think both kids and adults can enjoy playing this game just as much.
+The have two other similar demolition lab sets and you can combine them all to make larger buildings.
+"My boys kept saying ""How cool!""
+about the SmartLab Demolition Lab.
+It has everything my boys love.
+They got to construct something which they love to do but better yet, they got to blow it up which is even better!The pieces that you use to build with are a card like material and they can be constructed in any order and configuration.
+The kids can let their minds run free with imagination.
+After construction, you hook up the triple-blast detonators and blow your creation up.
+It's a great learning tool in creativity and science but the kids don't know they are learning; they just think they're having fun.
+Then they can turn around and do it all again.It's a toy that can keep them occupied for hours and I think they will continue to play with it time and time again.I think it's most appropriate for ages 8 - 12 but my 6 year old also enjoyed it very much, he just needed a little instruction in what to do.It does require 3 AA batteries which are included."
+My son loves to build, and build, and build.....and then to knock down in interesting ways.
+So with this the building is fun because it's different then he is used to, like cards with little feet.
+You place the detonators in your construction, and then knock her down, with one explosion at a time, or all at once.From what I understand there are several expansion packs that you get to add on to this kit.
+I'm looking into this, because my son can spend many hours a day building things, setting up traps, hiding army men in his constructions and build and build and then whammo.My son is 11 and then some months, he's a big fan.
+And if he is happy and doing something constructive, I'm happy.
+The Demolition Lab Triple Blast Warehouse is the winner of the 2013 Oppenheim Toy Portfolio Platinum Award.
+The Demolition Lab instructions show you how to build other structures, but also give you a bit of science and physics as well.
+Most youngsters are going to be much more interested in the demolition than the science.
+The three blasters aren't just limited to the Demolition Lab pieces, but can be used with anything you want such as Legos, K'Nex, or anything you have hanging around the house.Once the structure is set up, in go the Blasters.
+These are spring-loaded and you simply need to push together both ends to reset them.
+The ARM button will let you know that your demolition charges are alive and ready to go.
+There isn't any order you have to follow, simply choose which one you want to set off.
+Fast, slow, or however you choose to demolish your structure.
+This is one of those fun, experimental toys that never seems to get old and will be used until is self-destructs with age.WHAT'S IN THE BOX:&#9788;  Triple-blast detonator with sounds and 3 blasters&#9788;  36 wall panels&#9788;  17 floors/roof tops&#9788;  2 smokestacks&#9788;  2 trusses&#9788;  2 pipe bridges&#9788;  1 storage tank&#9788;  Footing clips&#9788;  BookletFEATURES:&#9658; Mix and match pieces to create one of a kind structures&#9658;  Unlimited number of warehouses to build and demolish&#9658;  All Demolition Lab kits combine for hours of fun and destruction&#9658;  Kids build skills like problem-solving, strategy, testing and experimentationSmartLab Toys:SmartLab Toys The Amazing Squishy T. Rex,SmartLab Toys Fashion StudioSmartLab Toys Weird and Wacky Contraption LabSmartLab Toys Custom Rides Design StudioSmartLab Toys Squishy Human BodySmartLab Toys Catch The ThiefSmartLab Toys Indoor/Outdoor MicroscopeSmartLab Toys Demolition Lab: Mega SmokestacksSmartLab Toys You-Build-It Robo-BugSmartLab Toys You-Build-It Robo-Bug
+"We admit it: this is a pretty cool idea!
+We were a little intimidated by the steep price (which is much cheaper here at Amazon ... and, we really did find this at our local Barnes and Nobles for the FULL price).
+We could not imagine how this game could live up to our high expectations.
+But once it arrived in a giant, oversized, heavy box, we knew it was going to be a winner.
+There was so much care invested into the design of this game ... it pretty much renews one's faith in this market.
+And, that is no joke.The concept is pretty simple ... build a structure and ""blow it up.""
+It's fun and super gratifying.
+One can build fairly large structures which can challenge a young person's dexterity and critical thinking.Here's the thing: you could buy two cheaper games, play them once, and toss them in the Salvation Army OR you can buy this one (more expensive game) and play it over and over!
+We are already looking into addingSmartLab Toys Demolition Lab: Mega Smokestacksto the collection!
+!Buy this because it's out-of-the-mainstream, because other parents will want to know ""Where did you get that?""
+and because it is just PLAIN FUN!"
+I love this toy.You build buildings with a satisfying array of essentially cards.
+This alone is actually a lot cooler than it sounds, and if you enjoy legos you will probably enjoy figuring out how to build your buildings.
+Kids really get into this and this is the part of the toy where you will spend most of your time.
+You are open to discuss physics at a basic level, with a lot of educational opportunity.The detonator is hilarious.
+We took turns blowing up eachother's buildings for extra fun.
+Horns, blast, and the cards 'crashing' are all a great way to end one person's project and move on the next.I found us replaying this much more than other games we have, with the advantage that you can 'tune out' for a while, which you can't do over monopoly or something.
+We had a movie playing at the same time, and we found this to be a great family night.The price was on the higher side when I first saw it, but at its current price of low thirties I think it's a good deal.
+The creators of this product spent a lot of creative effort helping kids imagine themselves actually being a explosives expert imploding dangerous old structures.
+From the realistic detonator to the urgent tone of the audio warnings to the textures of the paper construction material to the well put together instructions, everything is about imagining what it'd be like being the engineer pushing the big red button.
+My crafty 6 year old daughter already likes stacking plastic cups and knocking them over, so you can imagine how much fun she had building up more realistic industrial towers and knocking them over with a button press.Could have used more size variety, but for a toy largely made up of stiff, coated paper a pretty substantial and fun experience.
+I love this.
+Apparently I am a 6 year old boy at heart.It is quick and easy to set up the cards.
+I thought it would be a little more time consuming and I am not super patient.
+The little feet are easy to use although I will be interested to see how well they hold up.But &#34;blowing up&#34; this toy is just great fun.
+It is fun to think about how to set it up for maximum carnage.
+It is a great opportunity for kids to talk about physics and cascading events.
+We are going to get more cards.
+The play value of this is awesome.
+So I received this as a review unit.
+I want sure what you expect but thought it could be fun.
+The game arrived and my nephews were in town so we started playing with it.
+They built the towers and I blew them up.
+It turned into a contest to see if they could keep it standing and by the end they figured it out.We spent a good 2 hours playing with this and it was a lot of fun.
+They learned how to use strategy to build a better structure as they saw how it collapsed.It's a great fun game, I recommend it.
+I will say that detonator #1 on my control unit I have to press it two times to get it to fire, but it is reliable at that.
+The other 2 fire immediately.
+"The SmartLab Toys Demolition Lab Triple Blast Warehouse lets you and your kids set up buildings and knock them down using safe, but effective, ""detonators"" which are really kickers like on a pinball machine, controlled by a wired remote control.To set up your first building, you punch out the building pieces from card stock, attach plastic feet so they will stand, and start stacking.
+If you put the feet on carefully, the building will be stable for nine or 10 levels.
+You can then put a detonator next to the base and push the warning siren button to simulate a request to clear the area, then push the button to make the detonator go off.After a while you'll want to do something other than just a tall, narrow building.
+Fortunately the game comes with instructions to make several more complicated buildings, which come down in more complex manners.
+And your kids will be able to put the pieces together in many more different ways.
+And since the batteries are only used to make a little noise and set off the detonators, they'll last a very long time.I've been pleased that my boys not only enjoy this game, but also keep coming back to it to play it some more.
+And the pieces are durable enough to be used for at least as long as your kids want to play the game.
+So for us, this has been a good investment."
+What kid doesn't enjoy destruction well now there is a toy for that.
+Basically it is a bunch of pieces to put together to create a structure to bring down by placing the detonators within.
+The kids love building it up and blasting it down.Some educational properties are taught while they are having fun.
+I did not find this toy to be visually appealing at all.
+However, it was great fun to play with.
+It can be a bit challenging to assemble, but in a good way, as it should maintain interest in and challenge upper elementary students.
+(And the ugliness of it might actually appeal to older children who want to assert that they are not babies.)
+Destroying it is, of course, where the real fun is had!
+I think the adults like this as much as kids!
+Withstands the beating of play pretty well, thusfar.
+Finding a toy that is not played on an electronic device is a challenge for the over 8 male population.
+While this is not a boy toy it is a great item for the male 8+ population.
+Children can be as creative as they want when building this house of cards and younger children can join in the fun and all will develop their fine motor skills along the way.
+The best part is blowing it up and starting all over again.
+Demolition Lab Triple Blast Warehouse has 100 cards to build a slime factory and three detonators with little pop-out pieces that demolish the structure.
+There is a water tower and two smokestacks in addition the the flat pieces.
+The detonators are connected to a control panel with three red emergency buttons and it even has explosive sound effects.Three AA batteries are needed for the detonators but aren't included and I would recommend rechargeable ones, such as the Eneloop brand.This game is lots of fun and appeals to a wide age range, including adults!
+If you are looking for fun.
+This is the way to go.
+We had so much fun with the first one we brought t another for added fun.
+We loved that the kids learn a lot  about building.
+For added fun they added army men throughout the ware house.
+To see who can have the last man standing.
+Overall it is great for pretend and fun to blow up.
+Must have for any builder.
+This has been a great fun &#34;toy&#34;  --  but it is so much more.The instructions are clear and easy to understand (I wish assemble at home furniture had such good instructions)I love the science lessons about structure and energyKids love the blowing things up...  Destruction and science
+My boys are way off from the 8 year old age requirement, at 2 1/2 and 4 1/2 years old.
+BUT, I got this set because as boys they constantly want to destroy things, from smacking their cars into block towers, building cardboard towers and knocking them over, etc.
+What's great about this set is the detonator--my boys couldn't get enough of this!
+They sat for a long time exploring how to set it off, and thankfully there were three buttons so they could share.
+Demolition come with stickers so you can number the detonators.
+The alarm and demolition sounds were good, a bit loud, but you can use tape over the speaker to lessen it if need be.The tower cards are made from really thick stock cards and you'll need to spend a little time popping them out (my 4 1/2 year old helped with this), and comes with plastic tabs (stands) that each card uses to stack up.
+For some reason I wasn't expecting the clear tabs (warning: be prepared to step on one), I thought you stacked the tower like a house of cards.
+The tabs make the tower more stable and easier to build.
+There are also foldable towers and bridges.All day my boys kept coming back to this set to play with the detonator.
+We built block towers and demolished those.
+I like that my boys can grow with this set, get creative, and learn to stack the towers themselves.
+I'm sure the detonator will find more things to explode as time goes on.Good overall set.
+My 9-yr-old son and his one year younger sister love this.
+They did all the assembly except for a little coaching on how to fold and punch holes on the cardboard.
+Most of it are made with thick sturdy cardboard that need to be inserted into plastic stands.
+The detonator has three blasters that initiate the building collapse.
+Complete with sound effects.
+My kids are always very excited when it is time for a blast.There are some building patterns printed that you can copy but most of the time my kids love to do it their own way.
+It is not very easy to demolish the whole building.
+It requires strategic planning to locate the blasters.
+Requires three AA batteries.
+Included.
+"My 5 yr old daughter and I are having a blast with this product (bad pun, but it works).The ""warehouse"" is actually made out of several cardboard pieces which you put together almost like a house of cards.
+Then you use the spring loaded ""blasters"" to detonate the structure.
+While she obviously can't do the science, my daughter has learned to put the blasters where they will do the most ""good"", and how to build the structure using principles of static equilibrium.
+All the while we are laughing and high fiving while ""blowing up buildings.
+""It does require a bit of prep time out of the box; recommend with smaller children that you set up initial attempt ahead of time.
+Lots of cardboard punchouts and assembly that wears on the little ones' patience.Very happy with it, lots of fun and educational too."
+I decided to get my son and my friend and his son over so we could set this up.
+If something went wrong we would be there to pick up the pieces and go from there.
+This was alot of fun for all of us.
+It is kind of like setting up a house of cards and then having them come down.
+The material was durable and strong.
+We played with it for several hours trying different strategies.Fun toy for the little as well as the big kids!
+Overall I would recommend this toy.
+Our boys (along with their friends) enjoyed the toy.
+The work was a bit tedious to build the tower but they enjoyed destroying it nonetheless though they always complained about having to rebuild the tower.
+The cardboard is very durable and easy to construct for a tower.
+Your child will find this fun especially in a group as seen in our video.
+I rated Smartlab Toys Demolition Lab Triple Blast Warehouse Kit 4 stars because it is fun and educational.
+If your child likes to demolish things then this is the toy for them!
+You can make it as educational as you want to include lessons on engineering, history of chinese gun powder: which late became dynamite, physics, etc.Overall, easy to set up, use and expand your child's knowledge.
+Drawback, nearly $40 is a high price but it is a hands-on toy with sound effects and it is better than playing angry birds lol.
+This product is so much fun.
+You can build a warehouse shown in the booklet or use your imagination and build any kind of warehouse you choose.
+You can build warehouse that you know will come toppling down easily or you can try to build warehouse that you hope can withstand the demolition.My 10-year-old son has been having a blast playing with this and he's already asked for additional sets so he can build bigger and better warehouses.
+I think it's great that you add different sets to make one huge set.
+Endless amounts of fun.This product is fast and easy to take right out of the package and get started.
+You'll be building in a matter of minutes.All 4 of us in our house have had fun playing with this product.
+Mom, dad, son and 12-year-old daughter as well.
+I would highly recommend this product.
+Ok, I'll admit that my kids are a bit young for this, so they can't really do it on their own as they find it frustrating when they can't get their building high enough and it falls before they want it too, but as an adult, it IS fun to help them create big buildings and then push the button and watch it fall.I like to think there is learning here as well, cause/effect, building, balancing, etc.I remember spending hours upon hours building playing card towers with my Dad, and this is similar, except you have different pieces and it looks like a building.
+Then, you get the bonus of making it explode.
+LOVE it!I can see us using this for years to come, and the boys will soon be old enough and experienced enough to build on their own.It is also fun to record your explosion - the kids like to re-watch it afterwards a few times.It is suitable for ages 3-7 with adult help, and probably 8+ by themselves
+I always remembered my grandparents and the older aunts and friends of my parents having special toys set aside for me to play with when we visited.
+I have tried to have the same thing for my grandchildren and nieces and nephews to entertain themselves with when they come to our house.
+The bonus is that I get to play with them - both the kids and the toys too.
+I still like to colour and build things but am not enamored of electronic games where everyone disappears into their own world and there is little interaction between anyone.This toy meets all the required criteria.
+Everyone who comes, including some adults likes to build and then blow up their building.The one problem is that the building materials are these cardboard pictures with plastic feet.
+They do not seem as if they will last as long as they should;  although I realize having the lighter weight cardboard does make it safer when it `blows' up.
+The floor cards are a bit strongerI appreciate the fact that some ideas are given to create more complex structures.
+This does add an educational value to this toy.
+It is recommended for 8 years and up, which does seem appropriate.
+Of course an 8 year old needs more supervision, but my 13 year old grandson has gotten into more detail trying to create an indestructible building.
+It's a toy that uses imagination and can create some good family fun.

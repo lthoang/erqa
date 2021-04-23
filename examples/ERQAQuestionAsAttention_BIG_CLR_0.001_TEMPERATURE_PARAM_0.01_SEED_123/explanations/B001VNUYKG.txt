@@ -1,0 +1,191 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+The wheels roll and the mechanism that rolls them allows the cement mixer portion to spin, and rev the truck forward.
+Another feature that you should be aware of ahead of time is that this is NOISY!
+As with my son's other WOW toy, this one is easy for him to manipulate.
+!
+He has hours of fun with it.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.007937476970255375,0.007607201114296913,0.0023290724493563175,0.006455868948251009,0.006662992760539055,0.006540974136441946,0.007387928199023008,0.0024993005208671093,0.00395860243588686,0.004301272798329592,0.004589395597577095,0.005757979582995176,0.007518833037465811,0.005342893302440643,0.004221194423735142,0.004442197270691395,0.006517777219414711,0.004595768637955189,0.006464943755418062,0.002587525872513652,0.004092813935130835,0.0034845713526010513,0.006973815616220236,0.004752335604280233,0.0053931958973407745,0.004554766695946455,0.005786460358649492,0.00393990334123373,0.006508470978587866,0.0030881764832884073,0.0033450413029640913,0.008927600458264351,0.003191632218658924,0.0073120081797242165,0.0038324184715747833,0.006671401206403971,0.0074863554909825325,0.0054155271500349045,0.008663899265229702,0.007957478985190392,0.006852916441857815,0.0068022096529603004,0.006399632431566715,0.0048196641728281975,0.004888932686299086,0.004631595220416784,0.0035742216277867556,0.001829794142395258,0.0042030042968690395,0.007644183002412319,0.006478491239249706,0.00792150292545557,0.0027231858111917973,0.0025049331597983837,0.00441461568698287,0.007756359409540892,0.004609451629221439,0.005865389481186867,0.00576005456969142,0.004092780407518148,0.0073243374936282635,0.004454318434000015,0.007526046130806208,0.0029406514950096607,0.005293039605021477,0.007774889934808016,0.006946374662220478,0.007437853142619133,0.005279735662043095,0.008843009360134602,0.004701643716543913,0.003183085238561034,0.007365146651864052,0.005808948073536158,0.0035844931844621897,0.004644296132028103,0.007862413302063942,0.0064467513002455235,0.003241550177335739,0.00760831031948328,0.004923583008348942,0.004970263224095106,0.00420047901570797,0.0033088417258113623,0.006643577013164759,0.005670660175383091,0.0073852017521858215,0.007715683430433273,0.006057094782590866,0.006144366227090359,0.006013265810906887,0.00636646943166852,0.004053829703480005,0.006247259210795164,0.007394882850348949,0.006197068374603987,0.004028484225273132,0.0024651200510561466,0.003718916093930602,0.007984121330082417,0.008200203999876976,0.007974192500114441,0.006822479423135519,0.006214191671460867,0.007440484594553709,0.006070761475712061,0.005046658683568239,0.006452611181885004,0.004859211388975382,0.005312313791364431,0.005722837522625923,0.003425212809816003,0.0037543701473623514,0.0071166884154081345,0.007767006289213896,0.007663619704544544,0.006766787264496088,0.004644493106752634,0.004233344923704863,0.005403062794357538,0.0061262366361916065,0.00627128966152668,0.006241530179977417,0.004324045497924089,0.004471666645258665,0.0066132014617323875,0.005518083460628986,0.006445836741477251,0.007691506762057543,0.009251591749489307,0.005714012775570154,0.005672811530530453,0.0029152396600693464,0.0062667932361364365,0.0046138460747897625,0.003121638437733054,0.004568182397633791,0.0059973387978971004,0.006670719478279352,0.007055527064949274,0.007543663028627634,0.005971424747258425,0.007547823246568441,0.005259574856609106,0.006945295725017786,0.006269053090363741,0.007511953357607126,0.007749233860522509,0.007555470336228609,0.00735855009406805,0.0066164517775177956,0.0077211265452206135,0.006618091370910406,0.0036990956868976355,0.0039042432326823473,0.0031603032257407904,0.0029652670491486788,0.003678266890347004,0.004450359381735325,0.005999693647027016,0.007710635662078857,0.002941735088825226,0.007447165437042713,0.007921911776065826,0.005297117400914431,0.007746614050120115,0.0077028293162584305,0.006721132434904575,0.007015272043645382,0.006199240684509277,0.005030980799347162,0.004899396561086178,0.006967925000935793,0.004939088132232428,0.0038663430605083704
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+This toy is really well built.
+It survived a hard day of playing with several young children and looks like it will continue to do so long into the future.
+(There is not much to break on this one -all edges are rounded and nothing juts out which could be snapped off).All the moving parts (except for the wheels) are on the inside, and there is nothing that will hurt or pinch a toddler's hand -except the wheels.
+But, even if a child puts his or her finger between the friction wheel and the back wheel, the wheel has some sort of safety system which causes it to stop turning with very little pressure and start clicking.
+This makes the toy pretty kid safe.
+(The only thing I'd watch for is the little figurine that comes with the toy.
+I'd hide that from a young one so it doesn't get swallowed.
+You won't miss it).It is slightly heavy and would probably cause some crying if it were dropped on a foot without shoes, but nothing too serious at a low altitude (of two feet or less).I love that it doesn't require batteries.
+And I love that the friction wheels not only turn the cement mixture, and make a loud noise, but they also turn on their own, and propel the truck forward.
+(This is one of those toys that if you push hard will pull itself across the floor.
+)I mentioned the noise, but I will mention it again -it is pretty loud: a whirring, rattling, engine whining sound.
+It'll probably drive you crazy, but is perfect for young children who like their actions to have an effect on the environment around them.
+Recommended.
+The Mix 'n' Fix Mike Construction Vehicle is friction-powered, as in 'no batteries needed'.
+A huge plus in my opinion.
+How many times have you purchased a birthday/christmas gift for a toddler only to realize it requires batteries and they're not included?
+I detest feeling like I need to run to the store so the child can play with the new toy right away.
+The rotating mixer with mixing sounds inspires the imagination and will hopefully pull the youngsters away from the television for realistic play time.
+I love these toys that feature real jobs.
+The toy is suitable for 1 and a 1/2 through 5 years old and also comes with Mike and a barricade to block traffic from the street where work is being done, which can be used as a subtle learning tool for a youngster on driving safety when you are in a construction zone, etc.
+My 2 year-old grandson absolutely loved this construction vehicle!
+So often when you give a child a toy, he or she plays with it for a few minutes and then its novelty wears off and it is discarded as they quickly move their attention to another item.
+With this cement mixer, however, he just did not put it down!
+He didn't use the friction to make the vehicle move by itself - he just pushed it around all over the place -- hardwood, carpet, stairs!
+He loved the little worker and the barrier that came with the toy, and played with the set for hours.
+He even took it to bed with him at naptime though it is definitely not the typical cuddle toy you'd think a child would choose.I thought by day 2 that he would lose interest and put the truck aside like he usually does with his toys, but no -- he was pushing it all over the place again the next morning and through the day.
+I really was surprised as there are not many items that engage his imagination and interest for so long!
+I am going to look at ALL the rest of the items in this WOW line and stock up for Christmas.
+He seems to be the perfect age and stage for them.
+The toys are plastic but extremely durable and well made.
+The truck was dropped and pushed down stairs and sat on and there were not breakages!
+Another feature that you should be aware of ahead of time is that this is NOISY!
+But he loved it and we adults just enjoyed the fact that he was so involved with it and happy.I recommend this item and this product line for your active toddler!
+What a cool truck!
+I love the spinning mixer and mixer sounds.. And best of all, no batteries!
+There's nothing better than a toy you can just pop out of the box and play with.
+Any child, boy or girl, would love this toy.
+With it's nice, bright colors, cool sounds and friction powered wheels and mixer, you can't go wrong with this toy!!
+!
+"We gave this to our two year old granddaughter, and it absolutely enthralled her.
+The friction motor is a bit beyond her right now (it's her first friction motor) but she'll soon learn it.
+From the noise to the appearance, it's got a lot of appeal.
+Her eyes lit up from the moment she saw it, and it has consistently held her attention.
+The accessory pieces (barricade & driver) are challenging to move into their appropriate spots, allow for ""pretend"" and are not small enough to pose any danger at the same time.
+This toy didn't have sharp edges, easily breaking pieces, or too many pieces for a busy parent (or grandparent) to keep track of either.
+While no one has stepped on the man or barracade barefooted yet...they don't look like they'd be a killer at 2 am either.Over all, I'd rate this as a guaranteed success for choice for a toddler (2-4 yrs) for a gift or simply a choice toy.
+With no batteries and its simplicity, it's not going to be a toy that makes a parent cringe either.
+The noise isn't irritating or loud, and there are no whistles or bells to accidentally activate either.
+It has plenty of imaginative play potential, and the right bright colors for appeal."
+We are WOW longtime consumers.
+First discovered this brand of toys when shopping in a high end toy store while on vacation.
+Durable quality toys that stand the test of time, easily any one of their toys could pass through a large family then be used for the next generation.
+With that  said, the WOW Mix 'n' Fix was not as much of a hit that it's predecessor's - WOW Dudley Dump Truck and WOW Harry Copter's Animal Rescue - were.
+If you are looking for a first WOW toy, I'd recommend the dump truck or helicopter before this one based on my son's (3 1/2) interest
+This toy seems very sturdy and substantial.
+Only time will tell how durable it is.
+It is great having not to buy batteries and the kids are playing non-stop with it.
+I know I will be getting more of these toys.
+I see that many reviewers didnt like the noise but I am here to say its organic.
+The mixer drum rotates as the truck moves along and makes a noise with tiny bits of pieces moving inside.
+It works well on and off carpet.
+It is fun to drag along the truck with its vibrant colours and cute Ricky.
+With its size, kids will get a real feel of playing with a truck than with a tiny toy car.
+With the bollard, an enthusiastic parent can mimic the department of transportation realities by dynamically moving it and creating hurdles that your little tot will be challenged with in rerouting his/her journey and getting the cement mix in time to construct the awesome building.
+Wow, so now you have to come up with an imaginary road and a time limit for the task.I also like the WOW line with its Lift it Luke, Dexter the digger, Dudley Dump truck, Roll it Riley.
+Now can I get them all in one?
+The WOW Mix n' Fix is my three year old's second WOW toy and I continue to be impressed.
+After all, what more could you want?
+The durable hard plastic stands up to even the roughest play.
+As with my son's other WOW toy, this one is easy for him to manipulate.
+He loves the noise -- which is loud but I didn't like many find it excessive -- and watching the spinning of the cement mixer drum.
+The wheel action likewise offers a satisfying sense of movement.Too often, toys for his age group seem to project a particular storyline, usually from this or that television show.
+This toy allows him to make the story.
+No doubt this will be driving through our block cities for sometime to come.
+I like this line of WOW toy vehicles, but the cement mixer is less engaging than others that we have, such as the garbage truck and the helicopter.
+Like other WOW vehicles, there are no batteries.
+It is friction powered and will continue to roll after letting it go.
+It comes with a driver and a barrier.
+There is a place to put the driver in front and on top.When the truck is pushed the cylinder spins, but that is about all there is to it.
+It is just not that exciting.
+These toys probably work better at the lower end of the recommended age range.
+It just pales in comparison to the Catepillar and Bruder vehicles my son has received.
+Several reviewers complain about the noise.
+The friction induced sound on the truck is loud, but no louder than any of the annoying electronic sounds on our other toys.
+This toy is cute, brightly colored, and entertaining, but the friction movement makes it hard to push for little hands.
+When it is pushed, the cement mixer spins, but I ended up doing most of the pushing when I showed this to my 31/2 year old grandson.
+He quickly became frustrated and disinterested.
+So cute idea, but too difficult for the little ones to enjoy.
+This toy is a beast!
+My 2.5yr old has put it through it paces along with his older brother and I've got to say this toy is pretty much indestructible.
+It is a bit heavy for anyone without a good sense of balance and it makes a heck of a noise when dropped, even on the carpet.
+The kids love the driver and the noise the truck makes when they push it around.
+It'll go 2-3 more feet after they stop pushing it still making noise which they think is great.That said, this toy is heavy so be careful if you are getting for an unstable walker as it hurts when it lands on toes or fingers.
+It's also a bit noisy for the adults in my house, which the kids just love...
+My 16-month-old loves this mixer truck.
+He figured out right away where to put Mike and loves putting him in and pushing it around and then taking him out and back in.
+I'm not really sure what the point of the barrier is because my son just ignores it.Nice, heavy and durable toy.
+My son likes to carry toys around and drop them on the floor or push them off tables, etc.
+and this one does doesn't have a mark on it from his rough play.Highly recommended for toddlers who love trucks!
+I just love this toy for my son.
+He has hours of fun with it.
+Recommend for a 4-5 year old that likes cars and trucks.
+Very durable
+I have a 6 month old boy crawler and a 2.5 year toddler daughter and they both loved playing with this truck.
+My daughter loves trucks and my son loves anything she is playing with.
+Nothing on this toy made me worried he couldn't grab it and stuff it in his mouth.
+I gave it all a good tugging and all parts feel very secure.
+No batteries to worry about getting loose.
+All edges are rounded and smooth.
+I look forward to adding more WOW toys to the toy chest.My advice about this one is to bring this out after nap time since it could wake you out of a coma.
+After her nap until we eat dinner is the perfect window to be noisy and get excited about this fun toy.
+I look forward to this toy getting lots of playtime from my son in months/years to come too since I think it will last a long time -- it feels as sturdy as it is loud.Great gift idea!
+4-yr old liked this better than the WOW copter.Again this is very colorful and sturdy.It has better playability because of the friction control rolling wheels and the colorful rotating cement mixer.It is a bit loud though.
+This toy is great for smaller kids (about age 1 to 2).
+The parts are all large so there is no need to worry about your child putting it in their mouth.
+Everything here can take the abuse kids like to give their toys, so it is nice nothing is going to break quickly.
+The truck moves kind of slow which was the only down side to it.
+Having gotten this through the Vine program, I was unsure if it would be something I'd really like my kids playing with.
+I've had a few toys that have not lived up to my hopes.
+Toy trucks often have parts that can break off, or feature small pieces I can't trust around my toddler.
+I'm happy to say, I was pleasantly surprised with Mix'n'Fix Mike.What I like best about this set is that the truck is solid and very sturdy.
+This is a comfortably large sized vehicle.
+Not so large as to be difficult to carry, but certainly a nice size for a toddler to manipulate.
+The truck has already taken a certain amount of abuse from my four year old son and my toddler, yet it has not cracked or broken.
+The truck comes with a construction worker figure that fits nicely into the truck cab or on top of the truck.
+There's also a construction barricade included that can be put on the back of the mixer.
+Both of these peices appear to be  solid plastic with no parts that could be possibly swallow by a younger child.There are no batteries required for this truck.
+The truck does not play music or make lots of annoying sounds.
+It does however has some features my kids love.
+The wheels roll and the mechanism that rolls them allows the cement mixer portion to spin, and rev the truck forward.
+This gives the illusion that the cement mixer is actually working on mixing cement.
+For parents looking for a solid toy that needs nothing but a child's imagination to make it go, this is a nice fit.
+Especially for children who have outgrown the simplest baby vehicles but might still be a little too young and handle toys too roughly for more complicated construction toys.Happy Playing!
+So my nephews like this truck, but here's the big problem.
+It's loud and after about 30 min of this with 2 boys, it may drive you insane.
+I come from a huge family and my in laws are very loud people, so I don't think I'm overly sensitive to noise, but this toy became obnoxious for me.
+We have many toys in this house that make noises, most have volume adjustments, not on this.We let them play with the toy downstairs on their own but they are at the age where they don't need constant supervision.
+2 & 5.
+I also want to say that the 5 yr old gets tired of this very quickly.
+The 2 year old however does not.
+The great thing about giving grandchildren gifts is you get to send them home with the parents.
+This is a noisy toy and I encourage playing on carpet or outdoors.
+Still at 2 1/2, my grandson loves this toy.
+He is so into construction equipment that he just loved the newest addition to his collection.For awhile he kept pushing it trying to make it go and to make the bells and whistles.
+Once he figured out that nothing was going to happen, he just got down to the business with playing it.
+I really like the more old fashined type of toy that doesn't do everything for the child.
+I think it's great for him to use his imagination.
+And the toy he was playing with at the end of the day was this one.
+And I was very happy to send it home with Mom and Dad.
+"First, let me say that this toy is probably better suited for a younger child.
+I think its sweet spot is boys between 1 and 3 years old, though the product packaging claims it's best for ages 1-1/2 to 5.
+My son, almost 5, disagrees.
+He was initially excited to open it, but quickly deemed it a ""boring baby toy"".
+It is simplistic, and brightly colored, featuring a smile and googly eyes, and, like all WOW toys, very well made and durable, though quite heavy for its size.As a mom, I was actually glad this wasn't one my son wanted to keep playing with as it is, bar none, one of the noisiest, most annoying toys I've ever heard.
+I was glad it required no batteries, but appalled that something kid-powered could be this annoyingly screechy and totally unable to make it stop making that ear-shattering sound, because it's not electronic.
+It's not even so much the volume of the sound, but the quality: it's like a 1940s air raid siren constantly revving up.Though it's far from quiet.
+Just pushing it across the floor results in a being unable to hear conversations, TV dialogue, music, etc.
+at normal levels.
+If someone (else) had given this to my son as a gift, I'd be pretty sure they actually hated us, and this was a revenge toy.
+(I'm kidding.
+Kind of.)
+It should be noted that our entire house is hard surface flooring and it's possible that, in a fully carpeted (and padded) environment the noise this makes when ""going"" would probably be more bearable, but it's still going to be a very loud toy.Getting past the noise barrier, the painted cement mixer insert spins when it rolls and does look quite cute and, as I said earlier, this is pretty much indestructible and seems well made, if too heavy for its target user's age range.
+(I can imagine this would be quite dangerous if thrown or dropped on a toe.)
+But all that good stuff is definitely out-weighed, at least in this mom's mind, by the short-lived appeal I think this will have (strictly for toddlers) and the grinding, whirring noise this one makes each and every time a child touches it.
+Both pushing and pulling this result in an airplane engine type revving sound that really set my teeth on edge.
+"If this toy becomes your child's favorite you might want to invest in a pair of ear=plugs.
+At least you will know where he is at all times.
+I heard one mother say ""I guess I could stand it until the batteries run out"".
+Bad news (or good?)
+there are no batteries.
+It has a friction motor.The toy is very colorful and well-made.
+The spinning drum and sign on the back are very attention-grabbing for a little one.
+Maybe not so interesting for the four or five year old.
+""Mike"" can ride on top or in the cab.
+Amazon's current price of $33.75 , with free shipping, is competitive  or better than most."

@@ -1,0 +1,229 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+My nieces are all obsessed with Polly Pocket and as an aunt I feel like it is a toy I can feel good about buying for them.
+i have a special needs child that still plays with toys although she is 13. this toy was right up her alley because she LOVES polly pocket.
+My son doesn't exactly want to play with them when they pull out the Polly Pocket boutique.As far as quality, I'd say it's on par with the other Polly Pocket toys we have.
+They love the boat and jet ski, but use their Monster High dolls with the set instead of Polly Pocket.
+They, with the help of my 5 yo son, opened and set up this play set all on their own.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.005199274979531765,0.009642081335186958,0.005525973159819841,0.004119434859603643,0.00187505385838449,0.003602307988330722,0.002784347627311945,0.004272641148418188,0.0034914647694677114,0.004518464673310518,0.004746752325445414,0.010177478194236755,0.0046324278227984905,0.004351472482085228,0.003889704355970025,0.005112052895128727,0.0026090668980032206,0.005363491829484701,0.0037258490920066833,0.00481465132907033,0.0045305280946195126,0.005525321699678898,0.004351688548922539,0.004805594217032194,0.00570130767300725,0.00510609894990921,0.004488791339099407,0.0033245631493628025,0.005872913636267185,0.004690874367952347,0.004355494398623705,0.0038754218257963657,0.005459683481603861,0.0041967774741351604,0.005455885082483292,0.007869549095630646,0.0041653430089354515,0.0072001684457063675,0.0039019661489874125,0.002921169390901923,0.0037842015735805035,0.003993181977421045,0.004238807130604982,0.005424948409199715,0.0038489995058625937,0.005842149257659912,0.002871100092306733,0.004293513484299183,0.004060713108628988,0.005234935320913792,0.0042919497936964035,0.0042292713187634945,0.008888221345841885,0.00457961019128561,0.0048261284828186035,0.00490743899717927,0.004685109481215477,0.0032545302528887987,0.004330036696046591,0.006331777665764093,0.0044573708437383175,0.005087262485176325,0.004383299965411425,0.005951610393822193,0.0054799634963274,0.00316026178188622,0.003429934848099947,0.005004828795790672,0.004287382587790489,0.014001951552927494,0.004082637373358011,0.0042784810066223145,0.006745684891939163,0.004156932234764099,0.003988668322563171,0.004313283134251833,0.0035915146581828594,0.0050981007516384125,0.003078663954511285,0.003029413288459182,0.003990563098341227,0.004206482321023941,0.0036449788603931665,0.0050981068052351475,0.00482746958732605,0.005365849006921053,0.004347957670688629,0.00433976948261261,0.004385220352560282,0.005572844762355089,0.009768183343112469,0.00519638042896986,0.005165157839655876,0.004102988634258509,0.0038252342492341995,0.0037204562686383724,0.0056530809961259365,0.005079301074147224,0.0044061122462153435,0.0041275788098573685,0.004374811425805092,0.0040292032063007355,0.006662950851023197,0.0054211667738854885,0.00479162810370326,0.0035910478327423334,0.0038193324580788612,0.00411769887432456,0.004143898840993643,0.0019377541029825807,0.003920162096619606,0.008292876183986664,0.0036839046515524387,0.004825027193874121,0.004875337239354849,0.0042051211930811405,0.005586232990026474,0.003978277090936899,0.004188912454992533,0.004401146899908781,0.005329936742782593,0.004953640513122082,0.004780028015375137,0.00448117358610034,0.004501660354435444,0.004304124042391777,0.004314195830374956,0.002977566095069051,0.003739061998203397,0.00427749939262867,0.005473658908158541,0.008199801668524742,0.004604910034686327,0.0042804391123354435,0.003556958632543683,0.004563087597489357,0.004095689859241247,0.003925282508134842,0.004938523285090923,0.006067694630473852,0.004410652909427881,0.003545352490618825,0.004632906056940556,0.006956832017749548,0.0021601696498692036,0.004337333142757416,0.00331576238386333,0.004493734799325466,0.0047743613831698895,0.005992162507027388,0.004195812623947859,0.004685073625296354,0.00461735250428319,0.011436739936470985,0.004282626789063215,0.004281046334654093,0.00421828543767333,0.004995661787688732,0.004261148627847433,0.005431669298559427,0.0030552600510418415,0.00420666066929698,0.005176847334951162,0.0029158720280975103,0.00582090811803937,0.005037939175963402,0.004401339218020439,0.003703410504385829,0.003926446661353111,0.006682888139039278,0.004330433905124664,0.006498314905911684,0.00453104916960001,0.0044556609354913235,0.00495544821023941,0.00545957637950778,0.004698505159467459,0.004445135127753019,0.00521044060587883,0.004444462712854147,0.00462505966424942,0.004579461179673672,0.004224997013807297,0.003925706259906292,0.004190901760011911,0.0048809777945280075,0.004351159557700157,0.004426533821970224,0.006745883729308844,0.00351857696659863,0.004561809357255697,0.003847944550216198,0.004197728354483843,0.003376181935891509,0.004508784040808678,0.00458693690598011,0.004537644796073437,0.005030323285609484,0.004793952219188213,0.003987991716712713,0.004873886238783598,0.005399451591074467,0.0036317792255431414,0.0049681281670928,0.0034337451215833426,0.004210270009934902,0.0038862721994519234,0.004306563641875982,0.004653776530176401,0.0032539700623601675,0.002306869486346841,0.0036996197886765003,0.00668368861079216
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+"This toy arrived today and I handed the box to my girls (ages 7 1/2 and 9 1/2).
+They, with the help of my 5 yo son, opened and set up this play set all on their own.
+They have played with it all afternoon and evening since opening it.
+When I went in to ask them what they thought, their unanimous response was, ""We love it!""
+It was agreed that it is much better than the Polly Pocket Zip 'n Flash Playset we got a few months ago.
+They love how the yacht folds up so easily and unfolds again.
+We just had to purge their bedroom this morning because there were too many toys, so they recognized how nice it is that this toy folds up into the yacht for storage.
+I heartily agree with them.
+My 7 1/2 yo wanted to show me how the burgers flipped on the grill.
+It was quite cute!For the price on Amazon, I think this is a pretty good Polly Pocket playset.
+I like that it's a gender neutral setting so my son can play and pretend along with them.
+My son doesn't exactly want to play with them when they pull out the Polly Pocket boutique.As far as quality, I'd say it's on par with the other Polly Pocket toys we have.
+The Zip 'n Splash Playset fell apart super easy, but the other sets my girls have don't do that.The verdict?
+A big thumbs up--from my kids and me!
+This toy doesn't frustrate them and they enjoy it together."
+One of my twin 6 ear old daughters is a Polly Pocket addict, so this was a big hit.
+We also got the Zip N Splash Playset but this Party Yacht was MUCH easy to put together which already made me prefer this toy.
+It was nice how it all closed up and those tiny pieces that get lost so easily could be kept inside.
+With as excited as the girls are with it right now (which is why I gave it a 5 star), it is new, and I kind of feel that this toy might get set off to the side and not touched again like with the Zip N Splash, but I guess only time will tell.
+I can say that they have already played with it more than the Zip N Splash, so another reason I have it 5 stars.
+Do you have a little gal who loves the water?
+Then this yacht set will provide her with hours of fun in and on the water.Included in this set is a boat with lots of attachable items such as life preservers, fins, deck, water slide, hammock, etc.
+There is also a doll and a ski-boat.
+Once the boat is assembled, it can be transformed into a party barge and the ski-boat actually does a ski trick!
+The boat and ski-boat are large enough that they could be taken into a pool and not be lost on the bottom.The box states for ages 4+.
+There are small parts so I would take this into consideration when purchasing it.
+The price is reasonable.
+So when we first pulled this out of the box there was great excitement at our house with lots of little hands eagerly grabbing to play, however... After a day no one was interested in this toy AT ALL.
+The first problem is that it really isn't fun!
+There isn't much to play with, even though some of the included elements are cute and the kids like (they take the barbecue, the girl, and the life saver and play with those items separately).
+But INHO the overall feel of the toy is that the designers were 75% done with the design and usability, tweaking it to get to work just right and then the company said, &#34;that's enough, roll it out!&#34; For example, when you close it up the sides don't fold up all the way.
+There is a gap in between and it doesn't latch.
+The little boat it front is suppose to lock in place (we can see a little system designed to snap it in place), but it simply does not work.
+So there is no good way to close it up and keep it together neatly.
+The little boat keeps falling out and some of the pieces fly out.
+The one good design element is that part of the boat does flip open for all the little parts to store and the life saver snaps in place.
+But again, it just isn't quite there and the kids really aren't into it.
+"This party yacht has turned out to be one of my 3.5 year old's favorite toys.
+She plays with it every day for extended periods.
+The first couple of days she had it she even woke up saying ""party boat"".
+This party boat is the perfect vessel for her to play with her many existing figurines and dolls, and it comes with a a cute doll and a ton of great party-themed accessories like a grill, jet ski and inner tube.
+We have gotten tons of use out of it as a result.The boat is a decent size and has a stable, flat bottom.
+It can fold up but when open you can really use and explore the features.
+There is a staircase on one side and a fun slide on the other.
+The boat flaps open up to make a pool and there is a deck for grilling and a fabric hammock.
+If you are not familiar with Polly Pocket toys, they are similar in scale to Playmobil toys.The jet ski is a fun part of this toy.
+The rope clips perfectly to the doll's waist and when you push the large orange button on the back of the jet ski it does tricks.
+However we definitely spend most of our time playing with the yacht.
+The instructions say that it is not a water toy.
+I am not sure it would hurt anything but we haven't been tempted to use it in the tub anyway.I am normally hesitant about large plastic toys because often they end up sitting around and take up lots of room.
+This is really one that is worth trying.
+We love it and is definitely one of our heaviest used toys."
+My daughters have tons of Polly Pocket items and the best are from the original Polly World.
+Knowing that the quality has changed through the years, I was expecting cheaper plastic that tends to easily come apart.
+I was actually impressed with the yacht and the little speed boat with ski tricks.
+However, I was missing the hammock, umbrella, the ski board, and all the drink/food pieces.
+My daughters and I went through the box several times to make sure there wasn't a bag stuck somewhere hard to see but it was nowhere to be found.
+Honestly it wasn't worth the time it would take to contact amazon about the missing pieces so we play with it as is.
+Regardless, it's a fun toy and would be great with all the pieces.
+"I guess the biggest criticism I have of this toy, is really my own fault for not reading the description more thoroughly.
+I assumed this toy would be perfect for my daughter's bathtime, or to play with in the pool.That's not the case.
+Everything sinks right to the bottom it you place it in water.With that said, and admittedly that is more my error than the manufacturer's, the Party Yacht is a fun little playset.
+The Party Yacht is like two sets in one.
+The kids can play with the set like it's a big boat, and the yacht can also ""unfold"" to create a cool little resort, with slides, a grill, a hammock and a jet-ski complete with a harness for water skiing.Assembly is a breeze, just snap a couple pieces onto the yacht, fold it up (or keep it open) and it's ready to go.
+While I still think it would've been a smart move to make this into a water toy, my daughter enjoys the set as is."
+Polly Pocket Tropical Party Yacht comes with everything to make a little girl happy.
+Aside from the tiny parts, palms trees, etc.
+it's fairly easy to transform the toy from yacht to party paradise.
+This would be a nice addition to some princess's Polly Pocket collection.
+My nieces are all obsessed with Polly Pocket and as an aunt I feel like it is a toy I can feel good about buying for them.
+Polly is like Barbie's younger, more adorable, baby sister.
+The girls adore all of the tiny pieces, they make me crazy with my toddler trying to eat them but overall it is worth it.
+This set is extra fun since it has the boat and waverunner for Polly and her friends to play on.
+The actual packaging looks great and would be a gift any little girl would be thrilled to unwrap!
+"I picked this up for my seven year old and she couldn't get it out of the package and into the bath quick enough!
+Which in itself is a feat!
+Not too many little pieces like with most Polly Pocket ensembles, but a few.
+Mostly just the yacht, smaller boat and Polly herself, and a few seperate, not too much smaller, play pieces.
+Ella has had fun with this set and enjoyed playing in the tub with it.
+I like the way the boat itself flips open from the center to either side, making it one large ""cruise"" ship.
+All in all, this is a really cool playset, and pretty sturdy, unlike a lot of Polly sets of playtimes past!
+Many Moms will understand my meaning here!
+There isn't much to put together as the big boat itself is all one piece, so little ones won't constantly be crying and bugging parents for reattachment, a minor annoyance for us to be sure, but heartbreaking for any child with a new toy to have it already falling apart, so definitely grateful that's not happening here!
+Highly recommended, one of the better Polly Pocket toys to be sure!
+Perhaps they are finally listening to us?
+5 stars!"
+My twin girls love this toy!
+They were so excited when we opened it and they saw the jet ski.
+They apparently didn't know that it was included.
+For some reason, they won't play with Polly though.
+They love the boat and jet ski, but use their Monster High dolls with the set instead of Polly Pocket.
+I'm not complaining though.
+At least they're playing with it and haven't thrown it to the side like some of the toys they get.
+My child loves this toy, especially the fact she can wake board!
+The fact it closes up, and has a separate jet ski boat is adorable, and easy for storage.
+The fun little accessories are neat, such as shows, a hammock and umbrella.
+My little one has played for hours with it and enjoys it immensely.
+My only critiques are that Polly's body swivels too easily and it is a little fragile and hard to keep on some on the exterior plastic parts of the boat.
+It was easy to put together, and so much fun for my little one that it is definitely recommended.
+"My little niece loves this, but *I'm* having fun with that darn speedboat that separates from the ""yacht""!
+Watching Polly flip around is relaxing and we both laugh and giggle when playing with this toy.
+There is something about a tiny doll and tiny accessories that still attracts me, even in middle age.
+Brings back great memories.
+I love to see my niece getting a kick out of it.
+I will say that I think the age of 4 on the box is overly optimistic.
+My niece is 5 and that is the minimum age I would recommend if you are going to let your little girl play by herself.
+Too many small parts that are choking hazards."
+My test kidlets, ages 5 and 8, were able to assemble this toy themselves, which gives a clue as to how well-thought out the instructions and the pieces are.
+I liked that I didn't have to put it together for them.I like this toy because it really encourages the use of the child's imagination.
+The yacht itself transforms from a boat into a tropical travel destination, with the front of the yacht becoming a separate speedboat.
+So the toy isn't just a one-note object.
+I watched kidlets create a whole vacation travel scenario with the toy, using the various bits and pieces that came along with it to elaborate their story.
+What's also nice is that in addition to the Polly Pocket dolls, they can also use similar-sized dolls with the toy.The toy's colors are bright and tropical, the pieces fit together well and operate smoothly; neither of the children had any problems operating it.
+It's one of the toys that is still set up in my niece's room and one that she still plays with - which is saying a lot giving the number of toys that she has.If you've got to get a gift for a girl in this age group who likes dolls, this is a good choice.
+She'll have fun with it and get a lot of mileage out of it, and any little brothers that might be around will also enjoy the transforming and speedboat aspects of it.
+We love the Polly Pocket Tropical Party Yacht.The slides, the extension to make the yacht a fun take anywhere toy but especially the jet ski which is my daughters absolute favorite part.
+Watching Polly spin on the jet to make flips.
+She also loves that it all folds out to accommodate a ton of Pollys.
+I love that the girls are playing with a toy that isn't plugged and hearing them talk for their Polly's about fishing and playing in the sun is so much better than them playing Polly Pocket on the computer.
+They are using their imagination and this toy is great for that.
+Wish I had it when I was a kid.My daughter and her friends have spent hours with the yacht and even have taken it to the lake to play with although they know they can't get it wet.
+My daughter is a Polly fan, and this would be a fun toy for girls age 3 or 4 to 9 or 10, depending on interest.
+Note that there are little pieces, which will likely get lost, so make sure kids at the younger age (or siblings) won't swallow them.The box has several notes in caps for parents: UNASSEMBLED (plan on about 15 minutes---you might want to do it before handing it over to your child) and TOY NOT INTENDED FOR WATER PLAY.
+That bothered me more than my daughter.
+A boat you can't put in the water?
+Really???
+If I were a kid, I'd pick this up and head straight for the tub.
+Alas, no.The other issue for me is that there's only one Polly.
+Come on, Mattel.
+Give her a friend.
+Of course, you can always buy *more* sets (smart move there, Mattel), but if you want to give this as a gift, you may not know if the recipient has any other Pollys or not.
+And of course the set is too small for dolls like Barbie, although you might get away with the Blaire characters from the Littlest Pet Shop sets.Overall, I would give it the full four stars.
+It doesn't need batteries and it encourages dramatic play.
+The boat trick is pretty cool.
+Just be sure that the boat stays land-locked---and get Polly a friend.
+Polly's having a party, and she shows up with the perfect venue: boat transformer island with a slick ski boat.
+She serves up the BBQ and drinks, and then she swings in her hammock between palms, lounges under her umbrella, slides down into her pool and the grandest of all things, water ski's.This little, colorful number offers a lot, but without so much minutia.
+In the past, being the ever practical parent, I found all Polly's stuff hard to keep track of.
+We tried placing them in bags and boxes, but inevitably they disappeared.
+Here, they've cut back on the little pieces somewhat: a couple of drinks, lotion bottle, sunglasses, lei, spatula(for serving the burger and franks- not removable), surf board, life preserver and a pair of sandals.Also, Polly's movable parts tended to come off too easily.
+Here, she stays together and rotates fully at the waist- very helpful when waterskiing.
+The little ski boat attaches by a long pole, and by pushing the top back of the boat Polly flies up into the air doing twists- neat idea!For parents: out of the box put together time, 15 minutes max.
+Overall, bright colors and cute designs, picture of dolphins jumping, and, of course, not made for the real, high seas wet stuff.
+Close up the island, put the ski boat up front, and Polly  captains the yacht.
+Polly Pockets must have deep pockets.
+Our 6 & 9 year old girls like it.
+My daughter loves Polly Pockets.
+She was excited to get this one because she already owns the cruise ship and thought this one would be fun just like that one.
+She was a little bit disappointed when she got it.
+She said it was fun to play with, but thought it was really small and said the doll just barely fit in the jet ski.
+She said she likes it, but still likes her cruise ship better.
+As with all Polly Pocket sets, well... they are what they are... they are cute, but certainly not durable and easy to lose the pieces because of their small size.
+I thought the set was a pretty small set for the high price, so I wouldn't have normally paid for this if it wouldn't have been a vine option.
+i have a special needs child that still plays with toys although she is 13. this toy was right up her alley because she LOVES polly pocket.
+she found it easy to take out of the box and set up BUT then she proceeded to lose every single part.
+it's a cute set.
+It's durable.
+it just wound up not being played with because of small parts.
+it also had a LOT of packaging for what it actually was.
+The boat, figure and accessories are cute and the concept was a hit with my child.
+She was, however, really disappointed that you can't take the whole shebang in the tub without it sinking and soaking (thus damaging) the large paper decal in the bottom of the yacht.
+It's still fun and she can set it on the side of the tub, but it wasn't quite as expected.
+3.5 stars.
+It is a cute product, said to not use it in water but I can't see why you couldn't my daughter is kept occupied for hours by this, I especially like that the boat is detachable.
+Watching my daughter play with these Polly Pocket toys reminds me of playing with GI Joe toys growing up.
+Vehicles, tools, buildings, it really helps promote imagination in what has become a computer, ipad, television based generation.
+She loves the yacht and it's been a great addition to her collection.
+"This was a big hit with our 7-year-old.
+She now wants to take it everywhere this summer.
+She said, and I quote, ""this is the best polly pocket ever.""
+And that was before we asked her how she liked it.
+This comment from her is nothing to be discounted, since she has a number of polly pocket things (too many to count).
+And I don't think it is something she said simply because it was the latest thing she received.
+She truly does like playing with it.
+And I appreciate the way the ship can change into the island.
+It enables more imaginative play than other polly pocket pieces."
+My little almost three year old is a little on the tomboy side, so she is kind of picky about these roll play toys.
+This one is more like a boat and pretending at the same time.
+It fit her personality well.
+She actually made it into a water toy on her water table.
+The big boat does not float, but she tried.
+Then she poured water on it.
+Then the big boat was used as a boat in the water.
+She did have a hard time with getting the little parts to work since she's a little young.
+This has made for a LOT of playtime.
+It's rare that a toy grabs her attention as much as this one has.
+It's more because she uses it ouside in the water.
+She loves water skiing with the doll and such.
+My toy testers are 4 and 6 years old and avid Polly fans!
+They loved the Polly Pocket Tropical Party Yacht.
+Not only does it come with everything you see here in the picture, but it actually did what it said it would!
+Of course, my kids had to use real water in the pool so Polly could go for a swim!
+All in all, I'd buy it again as a gift!
+See pictures above in Customer Images section to see the actual product in use!
+"I was not sure my kids would like this or not.
+They are WAY into action figures, and play with them all the time.
+But this is Polly's, a ""girl toy"", so I was not sure they would like it.
+Well, they enjoyed the boat VERY much,  But would they actually play with the plastic little girls?
+Turns out, yes.
+They really liked the fact that the Polly's has the ability to have different things, like cloths, that can be changed.
+More, the Polly's became the sisters and friends to all the superheros they play with, since they are about the same size.
+The party yacht became Batman's new water fortress, and the little boat became the Flash's attack boat.Imagination is a wonderful thing.
+While Polly Pocket has been around for over a decade (my college age kids had some!)
+my younger kids have simply incorporated these into their daily play.
+While resistent at first, they know cool and quality things when they see it, and they both agreed that the Tropical Party Yacht is ""Cool"", and that it's ""okay to play with Polly's!
+""Great toy, and don't worry if your kids don't use it as it was made to be.
+Party Yacht or Bruce Waynes new ""Water Fortress with Attack Boat"", this is a fun toy."
+My eight-year-old daughter has been a Polly Pocket fan for several years now so she was super excited to receive this playset.
+The set up out of the box was really easy and I think this playset makes for a great summer toy.
+The little boat can be attached to the rest of the 'yacht' and looks like one big yacht, but it can also be opened up to reveal a sort of island retreat with two attached plastic palm trees and several accessories such as a deck chair, a BBQ grill that flips, a beach umbrella, and little fashion accessories for the one blonde-haired Polly doll that comes with this set.
+If you have a Polly fan at home that has other Polly playsets, the dolls can be used to buddy up with this Polly doll (we actually managed to find a couple of dolls ,other deck chairs, and beach umbrellas from other summer-themed playsets so that Polly and friends could throw a great beach party).There's another bonus to this playset - the smaller speedboat can be easily detached from the front of the yacht and when you push the little button, Polly will perform some cool water ski flips!
+It is a fun playset, perfect for the summer!
+Note: There are some tiny accessories that come with this playset so I would recommend it for ages 5 and up as the smaller items could pose a choking hazard.

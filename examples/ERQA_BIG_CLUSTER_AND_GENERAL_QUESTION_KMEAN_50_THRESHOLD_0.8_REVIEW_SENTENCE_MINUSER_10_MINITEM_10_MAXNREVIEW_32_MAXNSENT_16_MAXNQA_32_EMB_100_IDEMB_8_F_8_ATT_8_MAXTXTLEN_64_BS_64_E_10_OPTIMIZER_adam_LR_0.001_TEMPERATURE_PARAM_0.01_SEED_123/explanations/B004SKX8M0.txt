@@ -1,0 +1,115 @@
+Top question(s):
+does it need batteries
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+Kids probably won't care though.- The scope is a waste of time and space.
+The gun well he loved the weight and feel once the batteries were in.
+This gun takes 6 'C' batteries and 2'AAA' batteries to operate, which is why I gave it a 4-star and not 5-star rating.
+He thought the scope was very cool with the lights and all but totally useless to use.
+"This gun is a good idea but it is executed poorly.
+
+Question attention weights:
+0.037542302161455154,0.3850584030151367,0.2224421352148056,0.1269642561674118,0.2279929667711258
+Sentence attention weights:
+0.010643480345606804,0.014069151133298874,0.012148712761700153,0.011912591755390167,0.01076634880155325,0.012890610843896866,0.011821126565337181,0.01151400525122881,0.010820675641298294,0.014698938466608524,0.009744938462972641,0.011496423743665218,0.009895884431898594,0.011257103644311428,0.012816489674150944,0.007479640189558268,0.010641246102750301,0.006564130540937185,0.009334191679954529,0.008779467083513737,0.010084094479680061,0.012695402838289738,0.010396905243396759,0.010361715219914913,0.01285526156425476,0.01534941978752613,0.015945592895150185,0.01194156426936388,0.011066527105867863,0.01147374976426363,0.01041096355766058,0.01085449755191803,0.011050857603549957,0.013610211201012135,0.018534580245614052,0.011418197304010391,0.011896813288331032,0.008429392240941525,0.009864778257906437,0.010937491431832314,0.01061504427343607,0.010896743275225163,0.010312164202332497,0.012110898271203041,0.009027385152876377,0.008596733212471008,0.008652880787849426,0.008932734839618206,0.011663871817290783,0.006794744171202183,0.012224194593727589,0.009634592570364475,0.006167694926261902,0.006078394595533609,0.012534122914075851,0.011584608815610409,0.010649175383150578,0.012563047930598259,0.023950748145580292,0.010824082419276237,0.008611745201051235,0.01051934715360403,0.011294246651232243,0.012903954833745956,0.011092067696154118,0.010539707727730274,0.009935296140611172,0.010430206544697285,0.010708452202379704,0.012664712965488434,0.011267537251114845,0.015349425375461578,0.010484308935701847,0.011055225506424904,0.013425725512206554,0.010761094279587269,0.00933892372995615,0.007705202791839838,0.009186917915940285,0.010807739570736885,0.010258123278617859,0.011331582441926003,0.014585297554731369,0.010587276890873909,0.010629444383084774,0.011451526544988155,0.010965045541524887,0.010521628893911839,0.010821955278515816,0.008479153737425804
+0.011586363427340984,0.01071623619645834,0.013055373914539814,0.01139801274985075,0.011607194319367409,0.011808935552835464,0.011264310218393803,0.012211005203425884,0.011161698028445244,0.012460543774068356,0.01015713345259428,0.010985879227519035,0.007197035010904074,0.011298473924398422,0.014162749983370304,0.008239504881203175,0.011440365575253963,0.005793717689812183,0.009271485731005669,0.00796593725681305,0.011181632988154888,0.013734117150306702,0.011281357146799564,0.011597461998462677,0.014350180514156818,0.015838604420423508,0.017332497984170914,0.011038228869438171,0.012268245220184326,0.010474893264472485,0.011255722492933273,0.011866594664752483,0.01213957741856575,0.014012480154633522,0.016276046633720398,0.01234891265630722,0.00970162358134985,0.006190143991261721,0.010459325276315212,0.011706647463142872,0.010853264480829239,0.010518711060285568,0.011316940188407898,0.013514331541955471,0.006428123451769352,0.008712968789041042,0.008753804489970207,0.008308620192110538,0.012083092704415321,0.00691889738664031,0.011674526147544384,0.009833044372498989,0.006339200306683779,0.006131723988801241,0.012947828508913517,0.01068809349089861,0.01157542783766985,0.011200626380741596,0.023889243602752686,0.01021911296993494,0.008275222033262253,0.01140515599399805,0.009851701557636261,0.012805636040866375,0.011444361880421638,0.011363687925040722,0.009284821338951588,0.011097664013504982,0.01117661315947771,0.011660706251859665,0.012027496472001076,0.013813016004860401,0.011706302873790264,0.011268699541687965,0.015101204626262188,0.009997127577662468,0.009123285301029682,0.006684428546577692,0.007038495969027281,0.011895301751792431,0.010973925702273846,0.012129572220146656,0.014616732485592365,0.011555100791156292,0.012138663791120052,0.01122570876032114,0.008735003881156445,0.011464585550129414,0.010803300887346268,0.008592627011239529
+0.011313468217849731,0.011148729361593723,0.012794658541679382,0.011425215750932693,0.01150435395538807,0.012179442681372166,0.011312860995531082,0.012071222998201847,0.01062370091676712,0.013523922301828861,0.010063309222459793,0.010368692688643932,0.007672586478292942,0.011529888957738876,0.01346292719244957,0.008311673067510128,0.011008413508534431,0.006049171090126038,0.009169429540634155,0.008199524134397507,0.010900255292654037,0.013900856487452984,0.011304402723908424,0.011493392288684845,0.014145692810416222,0.01643281616270542,0.017083410173654556,0.011317543685436249,0.012002622708678246,0.010897394269704819,0.011001994833350182,0.011569899506866932,0.011848927475512028,0.014294267632067204,0.017253195866942406,0.01222630962729454,0.010336790233850479,0.006530902814120054,0.01041033212095499,0.011569269001483917,0.010983274318277836,0.010539843700826168,0.011119439266622066,0.01270734891295433,0.006814385298639536,0.008813545107841492,0.008524189703166485,0.00815945491194725,0.012342619709670544,0.006788873579353094,0.011757885105907917,0.009855518117547035,0.0060958643443882465,0.006075740326195955,0.012944496236741543,0.010904695838689804,0.01129364687949419,0.011769087985157967,0.024928709492087364,0.010381096042692661,0.007866491563618183,0.01114350650459528,0.00986418966203928,0.013037570752203465,0.010853842832148075,0.011127190664410591,0.009699209593236446,0.010946698486804962,0.011134712025523186,0.011968255043029785,0.011832602322101593,0.013878329657018185,0.011315787211060524,0.011010145768523216,0.014643670991063118,0.01072548795491457,0.008941189385950565,0.0066466243006289005,0.007479729596525431,0.01157835777848959,0.010666070505976677,0.012224542908370495,0.01440801564604044,0.011177110485732555,0.011524687521159649,0.011694627813994884,0.00927216000854969,0.011184418573975563,0.010567414574325085,0.008534232154488564
+0.011139239184558392,0.012150316499173641,0.01271615270525217,0.011695228517055511,0.011228256858885288,0.012420041486620903,0.011521156877279282,0.011951562948524952,0.010951317846775055,0.013656866736710072,0.00991743989288807,0.011063328012824059,0.008232725784182549,0.011235935613512993,0.013574211858212948,0.007740964647382498,0.01098998449742794,0.005997628904879093,0.009116562083363533,0.00830883253365755,0.010625485330820084,0.01352139376103878,0.01090151909738779,0.010987892746925354,0.013791382312774658,0.01603945717215538,0.016931258141994476,0.011495457962155342,0.011719941161572933,0.010827068239450455,0.010816876776516438,0.011385256424546242,0.011637669987976551,0.013982239179313183,0.017780587077140808,0.011898281052708626,0.010813049040734768,0.007061742711812258,0.010156715288758278,0.011382191441953182,0.010891560465097427,0.0106807304546237,0.010849805548787117,0.012794528156518936,0.007378827780485153,0.008585737086832523,0.00857541523873806,0.008374371565878391,0.012023472227156162,0.0066212876699864864,0.012041334994137287,0.009633458219468594,0.005976020824164152,0.005920959170907736,0.012867813929915428,0.011138751171529293,0.011134592816233635,0.011919122189283371,0.025151748210191727,0.010505903512239456,0.008275927975773811,0.01097166072577238,0.010493321344256401,0.012927727773785591,0.011149587109684944,0.010951540432870388,0.009575942531228065,0.010633629746735096,0.010963070206344128,0.012209946289658546,0.01165251899510622,0.014757102355360985,0.01105379220098257,0.011132151819765568,0.014459018595516682,0.010470820590853691,0.009047414176166058,0.006921418011188507,0.00784157495945692,0.011369451880455017,0.010593346320092678,0.011704927310347557,0.014776269905269146,0.011055521667003632,0.01131147425621748,0.011440924368798733,0.009611609391868114,0.011001216247677803,0.010853479616343975,0.00836486928164959
+0.011316060088574886,0.011082753539085388,0.012794796377420425,0.011405245400965214,0.011517472565174103,0.012173181399703026,0.011288092471659184,0.012071024626493454,0.01058290433138609,0.013536629267036915,0.010078474879264832,0.010314133949577808,0.007664544973522425,0.011563458479940891,0.013428984209895134,0.008380873128771782,0.010999436490237713,0.0060817464254796505,0.00918037723749876,0.0082136495038867,0.01091193500906229,0.013915658928453922,0.01133878342807293,0.011524835601449013,0.014153285883367062,0.0164317823946476,0.017045196145772934,0.01130124181509018,0.01201194804161787,0.010922077111899853,0.011009524576365948,0.011571945622563362,0.01185082271695137,0.014306672848761082,0.017199063673615456,0.012235308066010475,0.010315396822988987,0.006533266976475716,0.010432001203298569,0.011575856246054173,0.011010797694325447,0.01053058635443449,0.011133953928947449,0.012676529586315155,0.006814498919993639,0.008852689526975155,0.008529559709131718,0.008161093108355999,0.012369310483336449,0.006823492702096701,0.011730069294571877,0.009881955571472645,0.006124051753431559,0.006110329180955887,0.012937176041305065,0.01090174075216055,0.011295586824417114,0.011786374263465405,0.024807237088680267,0.010377930477261543,0.007839739322662354,0.011146665550768375,0.009819809347391129,0.0130385747179389,0.010834036394953728,0.011131529696285725,0.009720899164676666,0.010968481190502644,0.011145932599902153,0.011959701776504517,0.011833163909614086,0.013820204883813858,0.011329779401421547,0.010987834073603153,0.01462648343294859,0.010764584876596928,0.008937545120716095,0.006648627109825611,0.007484384812414646,0.011580156162381172,0.010666243731975555,0.01225716806948185,0.014342132955789566,0.011178846471011639,0.011526018381118774,0.01171821914613247,0.00928516872227192,0.011188231408596039,0.010542812757194042,0.008561614900827408
+Questions:
+How loud is the motor?
+does it need batteries
+is it powfull
+how far dose it goe
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+"There comes a point where the question, ""Can there be too much of a good thing?""
+comes to mind, and the Nerf Vortex Nitron reaches that point.
+What's up with the crazy escalation of kid's toy guns?
+Nerf isn't making guns anymore -- they're making ordinance.That said, if you've got a lot of gun, have fun with it.
+My son just about flipped when he saw this thing.
+It easily eclipsed the budget disc shooters he'd gotten for his birthday.
+Of course, 30 minutes later half the discs were lost around the house, but that's not Nerf's fault.
+They know how to make toys that kids want to play with, and so far this one hasn't broken or malfunctioned.
+I can't bring myself to give any toy gun 5 stars, but this one's pretty good."
+Nerf fans will be pleased with this new edition to the family, although this is obviously a presale goodie from Amazon Vine, as at time of writing this review, the item is not even listed as available here on Amazon.I received mine a few days ago.It's up to the usual good build quality of Nerf products, but a little different in that this one fires discs.
+Yes that's right discs?
+I know, yet another different type of Ammo to have to buy for the perennially needed eventual replacements.I actually want to knock off a star for that.
+I mean seriously, would there have been anything wrong with ONE type of ammo for every Nerf gun??
+?That aside it's cool, it has a rapid fire system that propels these discs pretty far, and the 20 included discs and magazines, might make at home battles one sided.Sure to be a hit when it finally reaches the stores.
+4 stars overall
+"I ordered this to give to a nephew.
+I thought it was a great ""revenge"" for his mother, the aunt I never liked.
+After giving it to the nephew and watching him sling the discs around the house, I smiled as if I felt good about bringing joy to the child's life.
+In reality I enjoyed watching him shoot objects from off shelves, chase her favorite cat around the house, and drive the dog crazy.
+This gun is big, sturdy and shoots the discs rapid-fire with good accuracy.
+I'm sure it will last a long time.
+I think my next step is to give my nephew an ample supply of batteries and refill packs of extra discs.
+I wouldn't want him to run out of enjoyment."
+Besides hearing how awesome the gun was He told me all the things he liked and didn't like.
+Wasn't crazy about the orange and green and could see how others would change that.
+He thought the scope was very cool with the lights and all but totally useless to use.
+The gun well he loved the weight and feel once the batteries were in.
+He thought the disks were very cool and loved the power with which they left the gun.
+He was surprised by the delay when he started to fire but quickly got over that.
+He loved the gun thought Nerf had once again made a totally cool product.
+So it was a big hit here.
+"My kids and I have had a blast playing with this thing!
+Out of the box, it was easy to assemble and the instructions are very simple.
+Be prepared to buy some batteries.
+This gun takes 6 'C' batteries and 2'AAA' batteries to operate, which is why I gave it a 4-star and not 5-star rating.
+I think that is still a very reasonable amount of batteries to operate such a large gun, though.
+The magazine holds 20 nerf discs which are easy to load and fly very straight and far.
+The scope is not all that useful, but it looks really cool lit up-especially in the dark.Overall, this Nerf gun looks very impressive and is great to handle.
+It is a little large for smaller children, but my 11 and 12 year-old can handle it easily.
+The auto fire is smooth and very fast (about one shot per second).
+You can unload the 20-round magazine very quickly if you hold the trigger down for long.
+The gun comes with 20, which is fine to start with, but you will probably be needing to buy more very soon if your kids like to have ""nerf wars"" like mine do.
+They are bright green, which makes them easy to find in the house, but outdoors can be a little trickier to locate.
+Overall, this gun is a great toy and a lot of fun for boys of all ages!"
+My nephew has over ten different Nerf guns that we play with on occasion, and I can honestly say that this particular Nerf gun has got the longest range of any Nerf gun we've ever shot.
+We took it to an open field recently and measured how far it was able to shoot a disc.
+After five shots, the average distance was around 40 feet and the longest disc was close to 50 feet!
+Pretty amazing in my opinion for a simple Nerf gun.
+I'd definitely recommend it to any parents in the market for a cool gift for their kids that they will have a guaranteed good time playing with.
+"Pro- Shot distance is long.
+Distance is aided by the aerodynamic s of the system.
+Each round is a small disc  that is propelled spinning from the gun.
+This results in a ""frisbee"" effect enabling long shots- Fun trick shots.
+The rounds a soft rubber discs.
+As such they bounce well off of surfaces.
+Combined with the aforementioned spinning, you get some fun off-the-wall shots- Powered propulsion.
+Batteries and motor do the work.
+No pumping or cocking.Con- Then active, the motor in the gun makes a loud, somewhat off-putting noise, reminiscent of a sick cow.
+Kids probably won't care though.- The scope is a waste of time and space.
+It takes two AAA batteries.
+Sits on top of the gun none-too-securely, and does nothing for accuracy.
+It is just for show.
+It is no more ""electronic"" than a light bulb- Taking 6 C batteries, this thing is a bit of a power hog.
+No data yet on overall battery life.Neutral- Rate of fire is pretty slow, about 1/sec.
+I like this as it does not use up all the ammo quickly.
+I have to say I was pretty excited to get this gun in the mail.
+I had done a little reading about it and many Nerf-lovers were pretty excited about it since it is fully automatic.
+Note to purchasers: Don't forget to buy the batteries...not near as fun without them.
+It was super easy to put together and load the discs.
+I do wish the discs were a brighter color than green, playing with it outside makes them hard to find, after about a week I have lost about 50% of them.
+Even in the house they bounce off stuff and you find them in the weirdest spots later.
+The upside about it is that it doesn't hurt to get hit by the discs, they are rubber and soft...so you can stalk and shoot to your hearts content.
+I wish the automatic was a little quicker and quieter...it kind of lets people know before you shoot them.
+The distance shot is pretty awesome too, overall this gun is fun and entertaining for a little while.
+"This gun is a good idea but it is executed poorly.
+The gun seems sturdy enough, and its shoots well, but it shoots crooked.
+All of my three kids tried it, and I tried it, and it always shoots very heavy off to the right.If this thing shot straight, I would have given it a 5 star rating because it could be a really fun gun.
+But none of my kids chooses it in any Nerf gun fight we have because it just does not shoot straight and it becomes irritating to use because you have to aim off to the left all the time just to hit your target.The scope is also very loose and wobbles around on the gun.
+Truth be told, scopes on Nerf guns are just gimmicks anyway.
+But this one is just plain goofy.
+You couldn't even use this scope if you wanted to.
+The plastic ""lenses"" are so distorted that it is near useless.
+The scope takes two AAA batteries to run the flashing lights inside it.
+Even my 7-year-old had no use for it.
+We put batteries in the scope, everyone looked through it, didn't think the lights were impressive enough to matter, and then we took it off never to be used again.The gun seems to be sturdily built enough and it appears it should last a long time.
+It also takes six C batteries to run, so that will add to the cost.
+I have not used it enough to know how long those batteries will last.This could be a great Nerf gun.
+But it is not.
+No one likes a gun that does not shoot anywhere near straight.
+Maybe it is a fault of just the gun I have.

@@ -1,0 +1,164 @@
+Top question(s):
+would a 13 year old enjoy this or would this be boring to them?
+My daughter loves dog, is this okay for a one year old?
+Top sentence(s):
+This bouncy puppy arrived safely and was excited to see me as I took her out of the box.
+I think your little one will enjoy Bouncy...just watch out for the real furry critters...
+"Very cute animated puppy for ages 4+.
+The entire family is entertained by the animation of the toy puppy and we have had some serious belly laughs watching people respond to her antics.
+My 8 year old who loves most FurReal pets was uninterested in this.
+
+Question attention weights:
+0.22484540939331055,0.3848600685596466,0.18986308574676514,0.2004314363002777
+Sentence attention weights:
+0.005293799564242363,0.006089696194976568,0.009148208424448967,0.0059508648701012135,0.00832524336874485,0.006840913090854883,0.007335590198636055,0.00968407467007637,0.008183006197214127,0.00686801178380847,0.00894592609256506,0.00350152887403965,0.0063477507792413235,0.006812463514506817,0.007101702503859997,0.0058977785520255566,0.006312706042081118,0.007092179264873266,0.007144775707274675,0.006225827615708113,0.006865974050015211,0.0032679152209311724,0.004734063986688852,0.006812692154198885,0.006843306589871645,0.0043027400970458984,0.006974224932491779,0.006940542254596949,0.006651964504271746,0.0072522517293691635,0.007425619289278984,0.0064413589425385,0.007776436395943165,0.006016970612108707,0.0067279282957315445,0.00697291549295187,0.005744454450905323,0.0069028292782604694,0.009741702117025852,0.00812718365341425,0.005759099032729864,0.006687586661428213,0.008562926203012466,0.006319898646324873,0.008035893552005291,0.008164235390722752,0.006965339183807373,0.006642897613346577,0.006102215498685837,0.007202837150543928,0.008245429024100304,0.0097534554079175,0.005700303241610527,0.005450064782053232,0.008637938648462296,0.007221350912004709,0.005866130813956261,0.011124420911073685,0.006707958411425352,0.008068283088505268,0.008309204131364822,0.006526707671582699,0.010957278311252594,0.009027085267007351,0.006556011736392975,0.007799744606018066,0.00687461718916893,0.006056600715965033,0.006026696413755417,0.007348411250859499,0.005044343415647745,0.0067480579018592834,0.015200202353298664,0.00753408158197999,0.008030473254621029,0.0042043812572956085,0.009487663395702839,0.010365322232246399,0.009702298790216446,0.006924377288669348,0.006837952882051468,0.01181865856051445,0.002446555532515049,0.007642760407179594,0.00653849495574832,0.006062915548682213,0.006028677802532911,0.004817208740860224,0.00687790010124445,0.008978351950645447,0.007003840059041977,0.0075510768219828606,0.005078298971056938,0.007864495739340782,0.007984628900885582,0.005228456109762192,0.006606400012969971,0.006606400012969971,0.004186268430203199,0.006902539636939764,0.007286130916327238,0.0071000028401613235,0.006625635549426079,0.0044436268508434296,0.0060258544981479645,0.00667986273765564,0.008130775764584541,0.006606400012969971,0.0036324220709502697,0.0063323057256639,0.009789729490876198,0.007065285462886095,0.007409940008074045,0.007065285462886095,0.008157546631991863,0.003939872141927481,0.0068588703870773315,0.007167473901063204,0.006494981702417135,0.007440024521201849,0.007580725010484457,0.0061822994612157345,0.007701159454882145,0.006908544339239597,0.005427348427474499,0.006870165001600981,0.009496549144387245,0.006756054703146219,0.008082910440862179,0.007700412999838591,0.007301331032067537,0.008540192618966103,0.007312772795557976,0.006770634558051825,0.007321485783904791,0.008046967908740044,0.009549625217914581,0.0065343645401299,0.00674628047272563,0.006941461469978094,0.0073479595594108105
+0.004603874403983355,0.0070321224629879,0.008746623992919922,0.00523205753415823,0.008666734211146832,0.007228936534374952,0.007329712621867657,0.008434092625975609,0.008606910705566406,0.007091456092894077,0.00817851722240448,0.0028257230296730995,0.00643760384991765,0.0072456104680895805,0.006843662820756435,0.005517709068953991,0.006315777078270912,0.0062997788190841675,0.007022862788289785,0.0072222608141601086,0.007651227060705423,0.003275858471170068,0.004309407901018858,0.007137622684240341,0.006580521818250418,0.004385956563055515,0.007000023033469915,0.007357354275882244,0.006619071587920189,0.006846949923783541,0.008015887811779976,0.006614277604967356,0.0072746495716273785,0.00416687224060297,0.007290487643331289,0.006614957936108112,0.006518559996038675,0.00737591739743948,0.009393679909408092,0.008100727573037148,0.005456991959363222,0.0063414424657821655,0.007966447621583939,0.006454867776483297,0.0077629913575947285,0.008736548945307732,0.006408979184925556,0.0059850276447832584,0.006544706877321005,0.0070554413832724094,0.007543367333710194,0.009566431865096092,0.006223650183528662,0.006434714887291193,0.007373855449259281,0.007092973683029413,0.006713169161230326,0.011762114241719246,0.007043567951768637,0.007527457550168037,0.008915167301893234,0.006892584264278412,0.01021056529134512,0.009396475739777088,0.006817677058279514,0.007140512112528086,0.007200270425528288,0.0059824734926223755,0.0069539714604616165,0.0073290420696139336,0.0046274554915726185,0.0071850987151265144,0.01608823612332344,0.006736031733453274,0.007655741646885872,0.00504376832395792,0.009615682996809483,0.010450068861246109,0.009920403361320496,0.0075202761217951775,0.007107862737029791,0.011583644896745682,0.0019321253057569265,0.008210353553295135,0.006696321535855532,0.006731691770255566,0.004916774109005928,0.0033931084908545017,0.007188458926975727,0.008701473474502563,0.007029647473245859,0.0069887214340269566,0.005465873051434755,0.00830015353858471,0.006404674146324396,0.005091055296361446,0.006972400471568108,0.006972400471568108,0.004040739499032497,0.00742963096126914,0.00777733139693737,0.007298137526959181,0.007198106497526169,0.004748478997498751,0.0060600461438298225,0.006864982657134533,0.008810953237116337,0.006972400471568108,0.004001454915851355,0.0060669551603496075,0.008754031732678413,0.007384910713881254,0.006643163040280342,0.007384910713881254,0.008766360580921173,0.003998239990323782,0.007324954494833946,0.00769504951313138,0.007056997623294592,0.006944844499230385,0.007756322156637907,0.005942632909864187,0.007807793095707893,0.00728637957945466,0.004802662879228592,0.007171036209911108,0.00929531455039978,0.006970397662371397,0.006868016440421343,0.00808111671358347,0.007921616546809673,0.008406510576605797,0.006966626271605492,0.007094517815858126,0.0054560997523367405,0.008871073834598064,0.008709663525223732,0.0065934001468122005,0.007216842845082283,0.007551577407866716,0.007232690695673227
+0.00578642450273037,0.005687186494469643,0.00909543875604868,0.006521213334053755,0.008004991337656975,0.006677997764199972,0.007239962462335825,0.010446530766785145,0.007875276729464531,0.006806031335145235,0.009312933310866356,0.004152717534452677,0.006572055630385876,0.006622989661991596,0.007157617714256048,0.0062858168967068195,0.006306732539087534,0.007674755994230509,0.007157874759286642,0.005933799315243959,0.0065606869757175446,0.003429458709433675,0.005128004122525454,0.006675113458186388,0.007072388660162687,0.0045656003057956696,0.0071809482760727406,0.006754468195140362,0.006663293112069368,0.0073805442079901695,0.007018404547125101,0.006387233268469572,0.007801527623087168,0.007253486197441816,0.006486851722002029,0.0072676497511565685,0.005512722302228212,0.006724543869495392,0.009518344886600971,0.008085915818810463,0.00602839095517993,0.007309147156774998,0.008559469133615494,0.006384511943906546,0.008041531778872013,0.007774073630571365,0.007183406502008438,0.007002140861004591,0.005970229860395193,0.007184918969869614,0.008473234251141548,0.009398432448506355,0.005749308504164219,0.005083068739622831,0.009076510556042194,0.007158160209655762,0.005582144483923912,0.010705433785915375,0.006560089066624641,0.008379642851650715,0.007838481105864048,0.006596437189728022,0.010855741798877716,0.0085145877674222,0.006444225087761879,0.00820067897439003,0.006739821285009384,0.0061902147717773914,0.005575253628194332,0.007207689806818962,0.005455379839986563,0.006569562945514917,0.013489947654306889,0.008094547316432,0.00816697720438242,0.003924775868654251,0.008961561135947704,0.010065398178994656,0.009097233414649963,0.0066995806992053986,0.006721988786011934,0.011305021122097969,0.0030056070536375046,0.007367328740656376,0.006496341899037361,0.005781013984233141,0.0067280870862305164,0.0058004604652523994,0.006731214467436075,0.009067186154425144,0.007319333963096142,0.007807523477822542,0.004888882394880056,0.0075555406510829926,0.008824358694255352,0.005506436340510845,0.006457979790866375,0.006457979790866375,0.004404539242386818,0.006732097361236811,0.006928794085979462,0.006981251761317253,0.0064226314425468445,0.004401260521262884,0.006194493733346462,0.006566677708178759,0.007835881784558296,0.006457979790866375,0.0036104724276810884,0.006552358623594046,0.010148978792130947,0.00691232830286026,0.007733200676739216,0.00691232830286026,0.007838060148060322,0.003909720107913017,0.006657260935753584,0.006894690450280905,0.006360969506204128,0.007506212685257196,0.007424716372042894,0.006294009741395712,0.007727454882115126,0.006750452797859907,0.0056896572932600975,0.006724769249558449,0.009400444105267525,0.006701743230223656,0.008624080568552017,0.007358758710324764,0.0070275780744850636,0.008764790371060371,0.007359025068581104,0.006626802496612072,0.008377286605536938,0.007477887440472841,0.009763293899595737,0.006504007615149021,0.006547421682626009,0.006520841270685196,0.007473083678632975
+0.005652929190546274,0.005891258828341961,0.008769744075834751,0.006218249443918467,0.00786646269261837,0.006686973851174116,0.007309797685593367,0.010092854499816895,0.007843658328056335,0.006755857262760401,0.00908084586262703,0.0038767580408602953,0.006721756886690855,0.006642255000770092,0.0070338803343474865,0.006256327498704195,0.006048418581485748,0.007348823826760054,0.007053771521896124,0.006152533460408449,0.006870713550597429,0.003140560118481517,0.004916007164865732,0.006651489529758692,0.006959795486181974,0.004524953197687864,0.007815622724592686,0.0067766690626740456,0.0064433421939611435,0.007153089623898268,0.0071045714430511,0.006291024852544069,0.008136183023452759,0.006068265996873379,0.006852369289845228,0.007078717462718487,0.005740038119256496,0.006849226076155901,0.009703335352241993,0.00808930117636919,0.005876009818166494,0.0071342093870043755,0.008471379987895489,0.006394929718226194,0.00815113540738821,0.007727001328021288,0.007141207344830036,0.006749086547642946,0.006051439791917801,0.007153657730668783,0.008397719822824001,0.009883314371109009,0.0058630420826375484,0.005388074088841677,0.009177980944514275,0.007013695314526558,0.005847512278705835,0.011162996292114258,0.0065400260500609875,0.008566060103476048,0.008311864919960499,0.006617850624024868,0.011117073707282543,0.009244193322956562,0.006401579827070236,0.0077524385415017605,0.00665466021746397,0.006046690046787262,0.005713148042559624,0.007227000314742327,0.0052310265600681305,0.006572578102350235,0.013828767463564873,0.00825510174036026,0.007677764166146517,0.004113862290978432,0.00986268650740385,0.010752443224191666,0.00930316187441349,0.006882811430841684,0.006673010066151619,0.011304602026939392,0.0027278405614197254,0.0074499803595244884,0.0064254277385771275,0.005912899039685726,0.006385370157659054,0.00530995661392808,0.0067341523244977,0.00914967805147171,0.007141090929508209,0.0078446539118886,0.005022522062063217,0.007562583312392235,0.008686210960149765,0.0054611507803201675,0.006444895174354315,0.006444895174354315,0.004217098001390696,0.006803272292017937,0.006994554307311773,0.006932789925485849,0.006495093461126089,0.0043173558078706264,0.006178116425871849,0.006485379301011562,0.008086317218840122,0.006444895174354315,0.0036720382049679756,0.006206366699188948,0.009921273216605186,0.0068937125615775585,0.007277054712176323,0.0068937125615775585,0.008191884495317936,0.004096328746527433,0.0067136334255337715,0.007094525266438723,0.006482578348368406,0.007454179227352142,0.0075922077521681786,0.006373029202222824,0.007986821234226227,0.0067467885091900826,0.0055469973012804985,0.006823432631790638,0.009471235796809196,0.006671168375760317,0.008280247449874878,0.007647887337952852,0.007151837460696697,0.00868921633809805,0.007605643942952156,0.006604086607694626,0.007442201022058725,0.007704672869294882,0.009826679714024067,0.006358848884701729,0.006551502272486687,0.006592212710529566,0.00707456236705184
+Questions:
+My daughter loves dog, is this okay for a one year old?
+would a 13 year old enjoy this or would this be boring to them?
+Does this come with the original packaging?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+Bouncy My Happy to See Me Pup is a cute toy and my niece is 6 and adores it.
+She wants a dog so much but can't have one where she lives.
+This puppy reacts like a real dog and reminded me of Nintendo Dogs come to life!
+The Puppy amazingly comes to life when you enter the room and responds to commands and voices.
+It is a soft, cute, and safe toy but also a bit eerie how it knows when you are around.
+This puppy is so cute, I wanted to keep it for myself!
+It's soft and cuddly, but also durable.
+The dance and little bark are impossible not to smile at.I bought this for my granddaughter's third birthday.
+She can't have dogs where she lives, and this toy delighted her.
+It's the next best thing to having a real puppy for herself.
+My 3 year old for some reason was 100% not interested in this toy, but my 5yo loved it.
+It is not really the type of toy you would give a child at bed time with all the wiggling he does, but its just about the cutest thing ever how it reacts to hugs and movement near it.
+It spins around perfectly and never falls over.
+Super cute.
+My 17-month old daughter loves this puppy.
+It's cute, the material is soft and nice to touch, and the doggie's little yaps and movements are fun and make it engaging.
+My little one seems to never tire playing with this, and my 8-year old can even get into it.
+The way the doggie jumps around and barks when someone comes within its vicinity, is an especially nice feature.
+My toddler is obsessed with her little puppy.
+Well worth the cost.
+I recommend this toy wholeheartedly.
+"I received this item as an Amazon Vine Product.
+The minute I opened the box, the pup started jumping and going crazy in the box.
+It has a cute, yippy bark.
+The dog itself is adorable.
+As pictured, it has big, soft, floppy ears, a shiny black nose and a pink tongue; as well as (yes) the big, brown puppy dog eyes.
+I have not had it for long--but it does appear to be of high quality.As far as the sounds and the moves of the puppy--when you walk into the room, it starts jumping, spinning and barking.
+Pretty funny, actually!
+(And it drives our real dog nuts!!)
+It already includes batteries.
+When you pet it's back...you can get a questioning yip, some whining, or some panting.
+Not very realistic in my opinion, but for a toy...it is fine.
+You also hear the ""mechanical"" sounds when it makes noise and moves--but it's not an overwhelming sound.
+The button to press on the backside can sometimes get stuck, or has to be pushed repeatedly.I find it adorable for what it is and what it claims.
+The little kids seem to really enjoy it and I anticipate that there will be a price drop as well for the item in the future.
+Regardless, I do believe it will be well used and I recommended this little pup to buyers!"
+"We have most of the FurReal toys.
+This one is my favorite of all of them.
+It's also the favorite of my 3 year old granddaughter.
+She absolutely loves her.
+She likes to carry her around under her arm.
+She may be trying to jump and spin but she's still carrying her under her arm!
+She strokes her just like she's a real puppy.This puppy is, of course, smaller than the dog ""Cookie.""
+She (and I say she because the puppy is wearing pink ribbons)is 11"" tall and 10"" long.
+Most of her height is in her head which is quite a bit larger than her body.
+She has the most adorable large brown eyes - kind of reminds you of the sad eyed dog pictures from the seventies.
+Her ears and tail are shaggy while her body and face are short fur.
+If you press her back she'll bark and make other puppy sounds.
+You can wave your hand in front of her face and she jumps and spins.
+This is the cutest part!
+The little 3 yr. old granddaughter gets as excited as the puppy when it jumps.
+It goes into rest mode when there is no activity.
+We haven't explored the toy's learning ability too much, but at least for 3 year, this is a neat little toy that has captivated the young one's attention.
+Did I mention that my dogs are puzzle, curious and want to play with Bouncy.
+My biggest concern, in relation to the dogs, if the little tyke leaves the toy unattended..my little doggies will want to do the chew the eyeballs out and then de-fur the poor thing.
+Even though this toy is meant for the human type child..the dogs seem to enjoy it as much.
+I forgot about Bouncy and went into the back room...and when it began moving and making noise...I thought a rat had gotten into the house...did I mention that I was over 10 feet away from the toy.
+I think your little one will enjoy Bouncy...just watch out for the real furry critters...
+This puppy is very happy to see you - loudly!
+She jumps and spins and responds to petting - barking for more.
+However, she's not very cuddly - and her big head makes her a bit awkward for holding.
+3-5 is a good age for this toy.
+My 8 year old who loves most FurReal pets was uninterested in this.
+I think the eyes on this puppy are very unrealistic compared to their other offerings.
+There is just only so much that a child can do with her, and for the price I am not sure it is a great toy.Bottom line: meh - I think the younger set will love her.
+I think older kids will get bored quickly.
+This is such a cute little toy.
+My son was excited to get it as a present.
+Both of my boys have played with it together for long periods.
+It's fun, though I suspect it is one of those short-lived, soon-bored-of toys.
+It does of course have limited utility, but it is something that they've enjoyed for the short term.
+I would have absolutely loved this when I was a little girl!
+This bouncy puppy arrived safely and was excited to see me as I took her out of the box.
+She is light beige with white markings, soft to the touch on the outside but with a firm, plastic belly to house her mechanics.
+The children, adults and real dogs love her!
+This motion activated toy makes sweet noises and jumps around to show how happy she is to be noticed.
+I am a dog fanatic and my two senior real dogs are fascinated and curious about this new addition (THIS IS NOT A DOG TOY).
+The entire family is entertained by the animation of the toy puppy and we have had some serious belly laughs watching people respond to her antics.
+I think a little girl will melt for this dog.
+Just as a baby doll is not a real baby it makes for great playtime and this will do the same for children.
+I can see some imagination at work when playing with this toy.
+"Very cute animated puppy for ages 4+.
+Bouncy is activated by both motion and light, and trust me, she is sensitive and you can not sneak by her:) When we received the box, it was barking at us... so if you happen to purchase as a gift make keep in mind the box may bark upon delivery.
+I was able to hide it before my kids got home, and then had it out as a surprise for them to try out.
+I have to say my 2 1/2 year old LOVES it.
+She pets Bouncy on her head and says ""nice bounce"" Its so funny and cute!
+Bouncy jumps, spins and barks like a real dog.
+She comes with 4 AA batteries and on demo mode.If you can't have a real pup and your kids want a pup, this is the a great new best friend for them!
+If your kids are looking for something cute, this certainly fits the bill.
+Even my neighbors daughter fell in love with Bouncy when she saw her, and of course wants one of her own (its on her Santa list!
+)Update on Bouncy.
+She's still bouncing about, we have learned to shut her off at night as she is just to sensitive and goes off if say my daughter coughs!
+You can keep her on where you have to press her to turn her on and that seems to work.. but if your child wants to sleep with it like mine best to fully shut it off.
+Battery life has been great, have yet to change them and she gets used every day.
+Very durable still, she has been dropped thrown, squished, and hugged tightly and all is well:)"
+when this toy arrived, every time i moved the box, it barked or made some sort of dog noise.
+what?
+it's on?
+it's that easily activated?
+ok.it's a very cute toy.
+my kids really loved it especially since they recently lost their real pet.
+it's not too loud or annoying either.
+it does what it is supposed to.
+not sure on battery drain yet.
+so far, it hasn't been relegated to the closet toy box.
+my daughter actually takes it to bed with her.
+we've owned this type of toy before and my daughter would become very frustrated at getting them to work properly.
+this toy seems to work MUCH better as far as responsiveness.
+it's also not as heavy or bulky as i expected it to be.
+I even like playing with the Bouncy My Happy to See Me Pup.
+It's bouncy and barky and brings an enchanted smile to the little one, I'd say 2 years old and up.
+It's tons of fun but gets annoying after a while.
+I just tell my kids that Bouncy needs a nap now (and I turn it off).
+Kids LOVE it.
+"My niece LOVED this toy!
+It's motion activated so it barks and flips when you cross it's path which provides a lot of interaction and also keeps the toy engaging for a while.
+The dog is very soft and high quality.
+I do find the huge eyes a little creepy but the kids loved it.
+Unfortunately there's not a lot of range with the toy other than yapping and spinning or accessories to make it more ""lifelike.""
+It would've been cute to have a leash or a food bowl to go with it.
+Bottom line is it's a cute toy and better than a real dog because you can turn it off and you don't have to clean up after it!"
+When our mail lady delivered our package, she commented we must have a dog in there because it barked with every bump in the road.
+We gave it to a 3 year old who went nuts over it.
+Not only is it the sweetest looking dog, it does tricks.
+The barking drove us crazy so puppy was relegated to the playroom where only the kids see her antics and hear the barking.
+She went up on the shelf fairly quickly, they have more adventurous toys to play with.
+But, still pull her down a couple times a week for a short play session.
+Watching the fate of this toy in our house was amazing.
+Right out of the box, it was so stinkin' cute that the 10 year old, the dog, and the preschooler were all going bonzo for it, squealing and jumping and saying it was the most adorable thing EVER.
+The older child kept insisting it was perfect for her age, so she should get it, and the little one disagreed strongly.
+But it was astonishing how fast they lost interest.
+Yes, the thing makes some noises, complete with utterly irritating yipping realistic of a small dog, but it's essentially a one-trick pony.
+It spins around and yips, and makes a few other random noises.
+Yawn.
+I, personally, was sick of the thing after about a minute--the yapping is so realistic I couldn't imagine what I was thinking to bring this toy into my house.
+I think the dog was interested in it for the longest; the kids moved on to other toys remarkably fast.
+Adorable (and quiet and motionless) stuffed animals seem to inspire more creative play for my children.
+"Ok parents, maybe you can't have a dog where you live.
+Or maybe you're not sure your child is quite ready for one yet.
+This is a fun and very excitable substitute for a real dog- to the understood limitations of course!Perhaps it does get a little too excited but for a active kid, it should be perfect.
+A little more cartoonish than lifelike, it still has a lot of ""kid appeal"" .I think that the somewhat more realistic Fur Real friends, such as Butterscotch or one of the cats would be better for an adult, hence only 4 stars."

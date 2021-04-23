@@ -1,0 +1,159 @@
+Top question(s):
+comes with Spanish language?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+Jesus' Blessings and Peace
+There are two Fisher Price apps that allow him to interact with the touch screen using the shapes provided.You can of course insert your later model iPad and take it out when you are done, but even though the iPad is well protected when it is inserted, I don't trust a small child with an expensive iPad.
+This make a PERFECT shower or 1yr.
+It teaches shapes, colors, sorting and more.
+Great gift for today's techno babies.
+
+Question attention weights:
+0.22463561594486237,0.5205519795417786,0.25481241941452026
+Sentence attention weights:
+0.006425731815397739,0.00326572940684855,0.004415176343172789,0.006527152843773365,0.006854757200926542,0.007509049028158188,0.009546491317451,0.006325582507997751,0.0054710800759494305,0.007684263400733471,0.0048073953948915005,0.007231449708342552,0.00808389950543642,0.009749026037752628,0.0044393884018063545,0.008247468620538712,0.005651709623634815,0.0068340604193508625,0.008920582942664623,0.011820211075246334,0.009212035685777664,0.008674613200128078,0.006833468098193407,0.007818919606506824,0.006927479989826679,0.005309205502271652,0.00770490663126111,0.00769134471192956,0.008679645135998726,0.008098267950117588,0.00780753418803215,0.006889290641993284,0.005887200590223074,0.006860565859824419,0.009421269409358501,0.007247396744787693,0.007554392796009779,0.011279347352683544,0.0056199124082922935,0.007009035442024469,0.005273096729069948,0.007849672809243202,0.009196982719004154,0.0068680839613080025,0.005981304217129946,0.0114641934633255,0.006550207734107971,0.008681807667016983,0.00642299884930253,0.0068162959069013596,0.008452006615698338,0.006621724925935268,0.0049886880442500114,0.0059089199639856815,0.010292355902493,0.005053703207522631,0.006487988866865635,0.01030188612639904,0.009242165833711624,0.00880573783069849,0.006941226311028004,0.006982035934925079,0.005719130393117666,0.006935704965144396,0.009399643167853355,0.007040543481707573,0.010399533435702324,0.0075947195291519165,0.007561648730188608,0.004090245347470045,0.006987723987549543,0.008957784622907639,0.004429158288985491,0.005328360013663769,0.006730155553668737,0.007290073204785585,0.006493472494184971,0.007102003786712885,0.007823500782251358,0.00657935393974185,0.006229369435459375,0.01383456215262413,0.007966850884258747,0.00795798096805811,0.007056539412587881,0.008099658414721489,0.006939025595784187,0.007613381836563349,0.007343003060668707,0.009491011500358582,0.005949541460722685,0.009860788471996784,0.006649496033787727,0.006960446480661631,0.006792319007217884,0.006928787566721439,0.014384336769580841,0.006390715017914772,0.00737149128690362,0.00554400822147727,0.007611802779138088,0.009954752400517464,0.009782494977116585,0.007247034925967455,0.005239270627498627,0.007582393009215593,0.005324545316398144,0.006875904276967049,0.008866310119628906,0.006045861169695854,0.006103908643126488,0.006738276220858097,0.007133349310606718,0.00642806850373745,0.008552047424018383,0.009383823722600937,0.00628554355353117,0.006936009507626295,0.0057841092348098755,0.005490556359291077,0.006661227438598871,0.008809230290353298,0.005218117032200098,0.005549161694943905,0.007157939486205578,0.004892929457128048,0.007717229425907135,0.00647721765562892,0.0033744031097739935,0.0063057029619812965,0.0067132278345525265,0.007004653103649616,0.005909803323447704,0.004588977433741093,0.006301744841039181,0.0074142818339169025,0.006241029128432274,0.006951884366571903
+0.0070815617218613625,0.003989114426076412,0.004621471744030714,0.006581060588359833,0.007231432944536209,0.007077844813466072,0.009082320146262646,0.006567956414073706,0.006250718142837286,0.007618884555995464,0.004912818782031536,0.007483489345759153,0.006970143876969814,0.00942583754658699,0.004543386399745941,0.008559029549360275,0.005817490629851818,0.007410451304167509,0.009288705885410309,0.009649970568716526,0.00914764404296875,0.008671991527080536,0.006687701679766178,0.008304834365844727,0.007467439863830805,0.005491569638252258,0.007622110657393932,0.0071828486397862434,0.008282956667244434,0.00808270089328289,0.008350658230483532,0.007504475302994251,0.006522901821881533,0.007467671297490597,0.008729223161935806,0.007724975235760212,0.006559890694916248,0.009802998043596745,0.005801604129374027,0.007551765069365501,0.005860092118382454,0.007918832823634148,0.009351029060781002,0.007441097870469093,0.006310046184808016,0.010416638106107712,0.007111169397830963,0.008378145284950733,0.007020015735179186,0.007255846168845892,0.007840372622013092,0.006984344217926264,0.005326384212821722,0.006463959347456694,0.010336823761463165,0.005946336314082146,0.006163902580738068,0.009434559382498264,0.008596397936344147,0.007533283904194832,0.007505408022552729,0.007471014745533466,0.006208307109773159,0.007237415760755539,0.008504110388457775,0.007441152352839708,0.009823649190366268,0.007729716133326292,0.007118452340364456,0.003928883001208305,0.0071346210315823555,0.009221875108778477,0.004284799564629793,0.004643697291612625,0.007333948742598295,0.007034291047602892,0.007242611143738031,0.00661125872284174,0.008042066358029842,0.007117029279470444,0.00686311349272728,0.01232163980603218,0.008175067603588104,0.008107314817607403,0.007623780984431505,0.008421506732702255,0.007498131599277258,0.008197702467441559,0.007570785935968161,0.00919500831514597,0.00620868057012558,0.008427178487181664,0.0072634173557162285,0.00727963587269187,0.007361068855971098,0.006214925087988377,0.010935933329164982,0.006946822628378868,0.007592020556330681,0.005591100547462702,0.007590706925839186,0.009153241291642189,0.008806444704532623,0.007279775105416775,0.005201888736337423,0.007321745622903109,0.005168211180716753,0.0063092755153775215,0.007769756950438023,0.006048665847629309,0.005784775596112013,0.006048469804227352,0.007609616965055466,0.006198043469339609,0.0078890360891819,0.007702403701841831,0.0062753972597420216,0.007569257635623217,0.006271125748753548,0.005971923004835844,0.006345023866742849,0.008707405999302864,0.0061345454305410385,0.006088919006288052,0.007264141459017992,0.004997136536985636,0.007180756889283657,0.006921859458088875,0.004080279264599085,0.006739658769220114,0.006650082767009735,0.007429018151015043,0.006081680301576853,0.005031168926507235,0.0068417382426559925,0.008004470728337765,0.005908280145376921,0.007383984513580799
+0.006839594803750515,0.0032821116037666798,0.004175817593932152,0.006496069487184286,0.006819802336394787,0.007159425411373377,0.009152556769549847,0.006403051316738129,0.005651315674185753,0.007781332824379206,0.004737507551908493,0.007479815278202295,0.007051640190184116,0.010101831518113613,0.004428114742040634,0.008920425549149513,0.005418937187641859,0.006924733519554138,0.009168760851025581,0.01094138715416193,0.009359609335660934,0.008781964890658855,0.0067575182765722275,0.007990643382072449,0.007023475132882595,0.005091353785246611,0.007707049138844013,0.007249902002513409,0.008930760435760021,0.008433711715042591,0.007883567363023758,0.006970604415982962,0.006375298369675875,0.006933939643204212,0.009974169544875622,0.00734492065384984,0.0072874994948506355,0.012045955285429955,0.006125235930085182,0.007028945256024599,0.005404019262641668,0.007889502681791782,0.009954748675227165,0.006940906401723623,0.006018790416419506,0.012347756884992123,0.006740808021277189,0.008887655101716518,0.006655075587332249,0.006758623756468296,0.008242186158895493,0.0067070224322378635,0.00481679430231452,0.006035124883055687,0.010230064392089844,0.0053298138082027435,0.0066440231166779995,0.010556302964687347,0.010315206833183765,0.008153113536536694,0.007021671161055565,0.007016116287559271,0.005828415509313345,0.007079636212438345,0.009066675789654255,0.007119232788681984,0.010750137269496918,0.007824325002729893,0.0072054797783494,0.003976993262767792,0.00672973832115531,0.009024431928992271,0.00448302086442709,0.004549928475171328,0.0067910184152424335,0.007289641536772251,0.006442581303417683,0.006516532972455025,0.007900824770331383,0.006375021301209927,0.006123011931777,0.014183467254042625,0.008026841096580029,0.008063741959631443,0.007138673681765795,0.008076035417616367,0.007012237794697285,0.007772765122354031,0.007326228078454733,0.00965889822691679,0.0059011150151491165,0.008971942588686943,0.006719638593494892,0.007142843212932348,0.006858129985630512,0.0064776185899972916,0.012475922703742981,0.006507141515612602,0.007310987915843725,0.0054451776668429375,0.007615021895617247,0.009324953891336918,0.009889381006360054,0.007145657204091549,0.005258099175989628,0.00726279616355896,0.004918389953672886,0.007092388812452555,0.008276015520095825,0.0059436047449707985,0.0057028247974812984,0.007065140642225742,0.007270265836268663,0.006231847684830427,0.008801676332950592,0.008378556929528713,0.006177503615617752,0.0070512969978153706,0.006035165395587683,0.005599519237875938,0.006870264653116465,0.008369967341423035,0.005293119698762894,0.0056033628061413765,0.007172716315835714,0.004811723250895739,0.007627993822097778,0.006449398584663868,0.0035957309883087873,0.006083880551159382,0.006959643680602312,0.007026865147054195,0.0062977103516459465,0.004621190018951893,0.0063178143464028835,0.007541176397353411,0.006150422617793083,0.0071251471526920795
+Questions:
+will the amazon fire hd 6 work with this
+comes with Spanish language?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+I've seen some really bad ideas for how to protect your iPad and let a child play with it but this one is a great idea.
+It is solidly made and seals to protect your tablet.
+Because it is so big your child won't be able to pick it up or drop it from anything higher than a few inches (this is for babies up to 1 1/2 at most in my experience) so it is safe that way too.I like the apps and the stamps that work with this but the iOS has so many amazingly great apps for small children that I didn't feel I had to go with only the Fisher-Price apps.
+Even putting on Netflix is a nice option as you can prop this up and let the child watch educational shows.
+Babies want to play with the ipad, no way around it, so this case allows you to embrace it.
+My teething 9 month old has drooled all over it and my iPad is safe.The Plastic is thick and sturdy with a clear window over iPad.
+To lock iPad in place you need to use both hands and press the unlock latches.
+Once iPad inside, you snap the cover back into place and it locks.
+Keep little fingers away while doing this!!!
+It's durable enough for two kids to fight over it and it didn't pull apart.Case shipping weight is 2 pounds, so it's steady enough to not move when my son is playing on it.
+And I mean on because he puts the upper part of his body over it.Touch screen works perfectly through case without any issues.
+So good I had to turn off multiple use so that my baby didn't send out any emails on accident.
+He is able to turn the pages in his book apps and tap on the fisher price apps we already had downloaded.There are two levers on either side to move up (at same time) to release kickstand feature, making iPad in an upright slant.
+Very handy for baby crawling around.
+Use same levers to lower easel.
+Makes it super convenient for baby to play iPad without you having to hold it in place.
+Great for learning.Removable shapes line the front of the case and are compatible with two free apps.
+Super cute and fun.
+The shapes are about two inches high and 2 inches around, good size for baby grip.
+They also have rounded edges so they're safe to chew on (went in sons mouth immediately).
+I believe that children must be able to live in their own generation.
+This is the generation of touchpads.
+The ability to protect my iPad while giving my toddler a seemingly infinite possibility of apps is wonderful.The strongest part of this device is the case.
+It protects the iPad perfectly for this age.
+The stamps and the apps that come with it are okay at best, but there are lots and lots of apps for the iPad that make the product much more useful than just what came with it.
+My daughter loves the many FREE Fisher-Price apps.
+We have them on our iPhones, iPad and Kindle Fire.
+They have been the calming force at many a grocery store or late night.
+There are a few iPhone apps made specifically for this system, and they are okay, but not as great as some of the stand-alone Fisher-Price baby apps.
+We have a FP iPhone case that works great, and so my husband wanted to get a FP iPad case.
+I was thrilled when I saw this one.
+The iPad is easy take in and out, but not so easy that your baby will be able to get to it.
+I also love that this case has a snap on cover that is an entertaining toy on its own.
+The multi-function is nice.
+When the cover is on, it just looks like another toy that promotes shape recognition.
+We have a one and four year old and this gets a surprising amount of play from both kids.
+Our youngest spends a ton of time playing with this as a toy, while our older child is very familiar with apps and loves the Ipad.
+We have not found any sort of regular case that we feel is really safe against damage thusfar, but this one is a tank.
+It works like a lap desk and seems very comfortable in a sitting or slightly lazy position (think bean bag chair).
+I think its a great toy that older and younger kids can enjoy, giving it more value and more purpose.
+"Let me start by saying the QR codes are dead, but easily remedied, so don't let that stop you from making this purchse.
+This can also be used WITHOUT the ipad, which is a bonus.
+I found it to be sturdy and was a little nervous when my friends 1 yr baby was ""playing"" with it.
+And the parents...LOVE it!
+They were impressed as well with how sturdy and protected their iPad is.
+This make a PERFECT shower or 1yr.
+birthday gift and it was the FAVORITE toy of the day!
+That's right...it appeared as if I ""knew"" what today's baby's want!
+LOL You won't go wrong getting this toy.
+One of FP's better inventions!"
+If you have an iPad or Fire or other tablet and combine it with a toddler or baby then you know you have to monitor the thing constantly to make sure it isn't dropped, drooled on or suddenly cast aside.
+The other issue is the home button.
+The constant accidental or deliberate pressing of it.Well prayers have been answered with this large toddler/baby iPad case.
+Plus you can play the &#34;case&#34; with or without the iPad.
+It teaches shapes, colors, sorting and more.
+Add the iPad and you have a very baby/toddler friendly device.Unfortunately though it doesn't protect your Apple account from the banners that appear wanting your toddler to upgrade or add a new game to the device.
+So make sure you have deactivate your credit card or make sure you have to input your password or you are liable to have a few accidental charges compliments of baby.The device can be used flat or on an easel base so it is easy to use it on the floor or a table.This is a great tool for baby and another addition to your iPad case collection!
+"The Fisher-Price Laugh and Learn Apptivity Creation Center is a fun way to work with little ones on shapes or simply a happy toy for them to play with.
+I really like the protection for our ipad, so that my grandson doesn't damage it.
+Even better, as we like to limit his time with computer toys, this creation center turns into a regular fun toy with the addition of the top ""shape"" sorter portion.
+All in all, a great toy for many afternoons of fun!"
+This product is very durable and great.
+Anything that can be used with or without technology is a winner as far as I am concerned!
+Will work with new or older ipad, but not minis.
+Very engaging for babies and keeps your screen safe from sticky little fingers.
+Thumbs up!
+Great gift for today's techno babies.
+"My son just turned 1 and he is a big fan of this toy since last 2 months.
+He got a very good grasp of shape sorting via this toy in his 11-12th month and the results are very much visible.
+The inclined angle of this center made him play for longer hours vs. other shape sorting box toys and puzzles which lay flat on the surface.Our friends kids ranging from 2 to 3.5 have become equally engaged with this toy with iPad inside.
+There are 3 different type of games in one of the App and it is very entertaining for them.
+You have to guide them little bit and warn against not stamping too loud.
+It is a good precaution to save iPad inside.Fisher Price has done a terrible job in making it easier to find the app in APP Store as other reviewers mentioned.
+I could only find 1 App so far.Our son is too young to play with the iPad inside and we use this mainly with the snap on play panel.Seeing other kids playing on this toy, i am sure he will get the hang of it as he grows.Even though this is a very durable and solidly built toy, I am not comfortable when he crawls over it or tries to stand on it while holding something nearby.
+The older kids did not do anything like that at all.
+Hence, I am sure that this is one of those toys which grows with time and has potential to stay with us for longer than a few months.One suggestion for parents: Insert and remove ipad when your kid is not watching, disable multiple gestures, and notifications from settings.
+It will take them a while to figure out that there is an ipad inside.
+The longer you can do so, the easier it will be for you to use your ipad for other purposes :).Value for money: Excellent value for the price and will make an ideal gift for any occasion for the tech-savvy kids or even the tech-savvy parents.The key trick here is ""INSERT & REMOVE the iPAD"
+This toy is keeping up with the times!!
+It provides activities that will make the baby think and co-ordinate shapes.
+On the reverse side there is a place for the techie to develop, of course its age appropriate.
+Jesus' Blessings and Peace
+If you have a little one in your life, you know that they are all about the iPhone and the iPad.
+While they are probably more adept at technology than you are, they are also much more prone to the destruction of such devices.
+That's what makes this toy great.
+It's a wonderful way to let your child play with your expensive iPad, without running the risk of it being destroyed!
+The interactive toys make the iPad even more fun for little ones.
+It's great for babies, but my niece is almost two and she loves this as well.
+I highly recommend it.
+I thought this would be lots of fun for my toddler and maybe the three-year-old.
+Little did I guess that even my pre-teens got a kick out of playing with it and helping the younger kids to identify the shapes on the ipad.
+The secret to success here, as mentioned on other reviews, is that the toy protects the ipad from spills (either by dropping or from baby) and is very sturdy.
+Truly, a great toy for everyone to enjoy.
+What to do with an old original iPad?
+Get this toy for your little one.
+This toy allows my one year old grandson to learn shapes, and when you take off the top tray you can insert the iPad into the screen protected area.
+There are two Fisher Price apps that allow him to interact with the touch screen using the shapes provided.You can of course insert your later model iPad and take it out when you are done, but even though the iPad is well protected when it is inserted, I don't trust a small child with an expensive iPad.
+I am worried that he might pick up the entire toy and throw it.
+Supervision is required with the use of the iPad.
+"I ordered this Fisher Price Laugh and Learn Apptivity Center for my newborn granddaughter - but I really had my son-in-law in mind.
+So far, the baby has only watched some of the video apps, since she is so young - but her daddy is really ready for her to do more.
+He has set up the whole thing - ordered the extra apps and has beta tested it thoroughly.
+The big plus (that outweighs any cons) is the protection that this learning center provides for the IPad.
+My grandson (age 20 months) loves, loves, loves his parents' IPad but has to be totally supervised while ""using"" it.
+The Apptivity Center solves this problem.
+The IPad is a bit difficult to snap into the Center, which makes it hard for a baby or toddler to ""unsnap"" it- a plus in my opinion.
+The covering seems very durable and also protects against the usual baby ""fluids"" plus sticky fingers!
+You may have to disable some of the settings on your IPad to prevent little fingers from random poking, and sending emails or ordering saved ""wish lists"" and the like.For now, Daddy's little girl has something to look at while Daddy ""helps.""
+In a few months, she'll be able to focus better and use some of the apps and in a bit more time - she can use the other ""shape"" features of the App Center.
+Fisher Price has been manufacturing quality toys for many years, and with this Laugh and Learn Apptivity Center, they've shown that they understand how important technology has become for even the youngest users."
+My 3 1/2-year-old granddaughter has become quite a fan of the iPad, which she likes to use to watch cartoons, look at family photos, and look at pictures of dinosaurs, which she loves.
+Because the iPad is delicate, an adult always monitors her use of it and helps her to navigate the different functions.This Laugh and Learn Apptivity Creation Center is a bit juvenile in design for a 3 1/2-year-old, but is great for protecting the iPad and preventing it from picking up incidental marks from sticky child fingers.
+The available apps include sing-along songs, which are fun.
+The Fisher-Price apps are free, which is a nice bonus, since so many toys and games geared to children are designed so that a lot of additional parts have to be purchased.
+Even without the iPad, this object has plenty to entertain a little one.The hard plastic is quite duarble and should withstand damage if it is accidentally dropped.
+For adults, the design is terrific since it allays fears that an expensive iPad will be inadvertently damaged.
+In the electronic age, exposing a youngster to the magic of the iPad will make him/her all to more ready to acclimate to the world of computers and personal communication devices.
+This is a great, novel toy.
+Any generation of iPad, even the iPad mini, work with the toy.
+It can be used, though, even without an iPad, but probably won't be quite as much fun as it is with the iPad.To use the toy with an iPad, simply lift the plastic screen and insert your iPad in it.
+The plastic screen covers the iPad well and protects it from the vast majority of drops and spills.
+You can either download a free Fisher Price app or any other app made for the age of the child using the toy.
+The stampers (yellow, red, blue, and green objects shown on the bottom of the toy) can be used to play different iPad games.
+Please note, however, that the stampers included with my toy were dull red, orange, green and blue.
+They were night the bright, shiny colors shown in the picture advertisement for the toy.
+However, the color of the stampers doesn't seem to make a difference to the toddlers using it.If you don't have an iPad or don't want to use the toy with an iPad, you can put the other panel on the front of the toy.
+The other panel has doors and other objects for the toddler to play with.
+It is also fun.This toy is good for a sizeable age range.
+It is probably most designed for children who can sit up--approximately 9-10 months up to approximately 18 months.
+However, the iPad part of the toy is great for children 9-10 months and older, since children, even those 5 years old, enjoy using the iPad but seem to still spill things on it and drop it.
+Therefore, this toy is great, if for nothing else, to shield the iPad from drops and spills.I highly recommend this product.
+Large in size, but very sturdy.
+The Fisher-Price Laugh and Learn Apptivity Creation Center looks like it will last for many years.
+Playing with shapes is very important in early development, and this fits the bill.Good protection for the iPad.
+I think this product lives up to its name.
+Good decision.
+Something which really keeps American companies apart from the rest - innovation, looking at toys like this make me believe in our people and our economy.I mean who could have thought of combining activity and apptivity in one toy - you have the physical stuff which the child can hold and then place it on a virtual board and interact with it.For parent who feel that we need to kids away from tech toys, I would say that we need to move in the direction where the world is going, have a good mix of tech toys + real traditional toys.Are my twin boys liking it ?
+Loving it so much that they fight for it.

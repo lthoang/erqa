@@ -1,0 +1,181 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+He was thrilled when it came out of the box and was instantly drawn to the planets, aliens and rockets on the outside.We opened it up and took out all of the pieces.
+Finally, we sent rockets into space and made up our own little game with the board.I love the idea of this game.
+My kids just wanted to get right into it and once they went through it, they never picked it up again but then maybe it's because their ages- 8 and 11 falls outside this game's age group.
+The spectrum ranges from roll-and-move kiddie games to insanely complex adult fare such asAdvanced Squad Leader Rule Book Second Edition.
+The object is to try and get all your rockets to the moon, and to NOT fall into the black hole.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.004955879412591457,0.00977166648954153,0.007323157042264938,0.004780995659530163,0.004758274182677269,0.0056496839970350266,0.005371060222387314,0.0047937422059476376,0.0061736456118524075,0.006196554750204086,0.005335825961083174,0.007063989993184805,0.005717107094824314,0.0026546309236437082,0.005911769811064005,0.006851211190223694,0.006334119942039251,0.006102084182202816,0.0023408709093928337,0.006072705611586571,0.005587814375758171,0.004032189957797527,0.008078665472567081,0.007685401942580938,0.006758914329111576,0.006794712971895933,0.0060092429630458355,0.006518307141959667,0.00774799520149827,0.005469966679811478,0.006577883847057819,0.008743174374103546,0.006744388025254011,0.006404728628695011,0.00659546535462141,0.008490386418998241,0.007482937537133694,0.006150444503873587,0.0066778999753296375,0.008424106054008007,0.005640460643917322,0.007284528575837612,0.006663762964308262,0.005324020981788635,0.003546428168192506,0.00736379437148571,0.0038587211165577173,0.006273435428738594,0.0062040905468165874,0.007328565698117018,0.006393113639205694,0.006408203858882189,0.0068622673861682415,0.006152837537229061,0.005363792181015015,0.003072499530389905,0.004360019229352474,0.0041371239349246025,0.0049080983735620975,0.006605149712413549,0.006476139649748802,0.005529789254069328,0.00747136864811182,0.0075254375115036964,0.005295080132782459,0.006471773609519005,0.005433996208012104,0.006162592675536871,0.0068960776552557945,0.006166492588818073,0.006288222968578339,0.006410354748368263,0.005656433291733265,0.005951342172920704,0.006773882079869509,0.008202019147574902,0.005794210825115442,0.006288222968578339,0.006288222968578339,0.004540527705103159,0.006053733639419079,0.005114339757710695,0.0038536295760422945,0.006764283403754234,0.006145770661532879,0.006174465175718069,0.00791330449283123,0.006110841408371925,0.0030590740498155355,0.008059563115239143,0.0046351272612810135,0.0051095252856612206,0.006860386114567518,0.0065306625328958035,0.005933014210313559,0.005028898827731609,0.008989204652607441,0.007627296261489391,0.005644752644002438,0.0027289751451462507,0.005771927069872618,0.0053446632809937,0.006125710904598236,0.00869881920516491,0.006816972512751818,0.007672261446714401,0.006835474632680416,0.004303013905882835,0.004609883297234774,0.0035895146429538727,0.004999143071472645,0.005878016818314791,0.005845123436301947,0.006778534501791,0.004772874992340803,0.007560052443295717,0.004517329856753349,0.006937574129551649,0.006168907042592764,0.004553250502794981,0.0036646071821451187,0.007204660680145025,0.006208587903529406,0.008158811368048191,0.006096737924963236,0.0074882484041154385,0.009937599301338196,0.007527797017246485,0.004017073195427656,0.004628049675375223,0.012467403896152973,0.00601645652204752,0.005366492085158825,0.006599093787372112,0.005445729475468397,0.0062694489024579525,0.01059609092772007,0.0052085090428590775,0.005897494964301586,0.004361381754279137,0.006006078794598579,0.006917583290487528,0.006921341177076101,0.0032718656584620476,0.00581288943067193,0.005664403084665537,0.006813229992985725,0.004976802505552769,0.003963866736739874,0.006002308335155249,0.005784230772405863,0.003494429634884,0.005634129047393799,0.006120829377323389,0.005580378230661154,0.00591273931786418,0.006162408739328384,0.006218834314495325,0.006523135118186474,0.00490938825532794,0.006629822310060263,0.00642156507819891,0.006818282417953014,0.003235315904021263,0.0044212364591658115
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+Being a pretty serious gamer (with over 1000 board games in my collection), my opinion of a game tends to focus on how interesting the decisions offered to the players are, and how much effect they have on the result.
+The spectrum ranges from roll-and-move kiddie games to insanely complex adult fare such asAdvanced Squad Leader Rule Book Second Edition.
+While this game's decisions are pretty limited, there's just enough there to make it worthwhile.
+In most cases, you're simply deciding which of your three spaceships to move.
+However, one side of the die offers the choice of helping yourself or hurting an opponent (by moving one of their ships backward).
+The ideal move is usually obvious, but now and then multiple solid options are available.
+It's a good way to ease young kids into thinking about tactics in preparation for more involved games.The mechanics of rolling and moving are quite simple, and a bright 3- or 4-year old should be able to handle them.
+They'll probably need help figuring out which move is best, though, and the ability to attack other players (and possibly destroy one of their ships) may not be a good match for every preschooler's temperament.
+The recommended age of 6+ seems about right in terms of allowing kids to make their own moves.
+My 6-year-old, who has played a pretty wide range of games for his age, finds this one pretty interesting.
+At first he needed a little guidance, but once he realized that there was something to think about, he got more into it.As for adults and teens, I'd consider this to be a decent end-of-evening filler, when people are too tired for anything meaty but want to get in another 15 minutes of gaming and socializing.
+Race Through Space is a rather simple board game that is just right for younger (ages 6 and older) players.
+The board comes in tiles, which are arranged in a specific order.
+You roll dice to determine how far forward your rockets forward, and each round a tile is removed from the bottom of the board and replaced at the top, giving the players a constantly changing board.
+Whoa to those on the bottom tile, as their rocket is dropped into a black hole.We have used this game during several parties, and the children seemed to enjoy it.
+There are a few area in the rule book that are less than clear, so you will need to play it at least once just to familiarize yourself with what is required.We found it to be a pretty good game - perhaps not as interesting as some, but a nice and challenging board game for the young player.
+(Review of Race Through Space Game)
+The game has a few rules to learn but once you get the hang of it, it was quite fun.
+Basically you need to get your ships to the end of the puzzle to get points, the first ship to reach gets the most points and each ship after gets 1 less.
+As roll your die and move your ships you can focus on 1 ship or all 3 ships.
+The board constantly shifts as the pieces slowly rotate, if you are caught at the bottom your ship is out of play and you cannot get any points for it.I like this game because it allows different strategies of managing your ships, removing your opponent ships, and the order your ships reach the end.
+I think the age 6+ range on this is way off, it's very quick to play (usually under 15 minutes from start to finish) and although it's well made, colorful and employs some elements of strategy, it's too easy really.Most kids 6 and up will get bored quickly, which is a shame, as the manufacturers have obviously tried to put some effort in here.I'm old fashioned, and a fan of board games, but they have to do more to grab the attention of many kids, bedazzled with electronic games, computers and angry birds.I wish I could have rated it higher, perhaps if it had been labelled 4+ I would have.
+I thought this game would be a cool, new game to play with the younger ones in my family.
+And who doesn't love space?
+I played this game with my 6 year old nephew.
+He was interested only for a little while but got bored with the real rules of the game and started making up some of his own.
+The rules are pretty easy to understand though.
+And I could see it being fun for some children.The boards feel pretty durable, as long as the kids aren't too rough with them.
+But there are some pieces to this game that could get lost.
+It's an okay game, definitely not the worst children's game out there, but I certainly don't think it's the best.
+I played this game with my daughter and her 6 year old daughter.
+It's a pretty easy concept but the beginning is confusing.
+There are 10 landing cards.
+Everytime the youngest person has a turn she takes the board from the end and puts it under the moon, thus making the goal further away.
+If there are pieces on that board when she moves it, your rockets go into a black hole and are removed from the game.
+However, you can only move one rocket at a time so if she moves it the 2nd turn in the game, everyone loses 2 rockets.
+We just went 3 turns before moving the cards so everyone had a chance to move their rockets off the last grid.Another thing is when you get to the moon there are landing stations with numbers up to 12.
+The first rocket takes the highest number and at the end of the game you count up the total numbers with your rockets on it to determine the winner.
+Unfortunately, my granddaughter was the only one to get all 3 rockets to the moon and did it before us, so she started dancing with glee that she won.
+However, I actually had the highest number but I couldn't tell her that.
+I think it's confusing for a 6 year old, even though the game is rated for 6+ years old to play.It was a different kind of game with the landing cards shifting so that was cool.
+Otherwise, I don't think we'll get much play out of it until she's older.
+I thought this was a pretty clever game.
+Players roll dice to proceed towards their goal, the moon.
+There are obstacles and dangers, and the board is comprised of tiles that you rotate back to the front as you play, creating an ever changing board.It's an easy game to play, but it's different enough from other games that I believe adults should play through the game once so that when it's time to play with kids, the game goes smoothly and is more fun.The pieces were all colorful and fun, and I think this is a great game for a family to enjoy.
+This game is Ok for younger kids.
+The problem I had with it is that there is a black hole space on the board where if you land on it the pieces at the bottom of the board are lost to the black hole.
+We always hit this in the very beginning of the game and so you would lose pieces right from the start making the game pretty frustrating for my 7 year old.
+The rest of the game was pretty easy and fun.
+This is way too confusing, even after reading the instrunctions my 11 year old who this was aimed at could nt figure it out.
+He said it was very confusing.
+So we just played imignation.
+My 11 year old son and and 8 year old grandaughter, had fun just setting up and playing imignation with this board.
+"Very interesting idea for a game - everything sounds basic and simple enough, but then you start to play it and things change quickly.
+You have 3 ships, and each turn you take you can move one of them closer to the goal - but if any of your ships languish at the ""bottom"" of space for too long, the ""shifting"" board leaves them behind (forever) in a black hole.So...do you try to get all 3 ships to the finish (regardless of how many points), do you try to get one ship to the finish first (for the 12 points) and hope that everybody else only gets 1 ship...and you win that way?
+It's constantly changing, and depending on how lucky you get rolling the die, you'll probably find yourself needing to change strategies during the game.
+(Especially if your opponent get a ship to the finish first, since then in order to win, you HAVE to get at least two of yours to the finish - so you can't sacrifice your ships (by moving only one or two of them) to get to the highest points at the finish line.Very fun game, and quite educational as my six year old starting understanding and using a couple strategies after losing a couple times.As the game itself - the game board pieces are high quality with a good feel:  its like the creators of the game wanted a quality game that would last a long time, rather than a cheap-o flimsy game that you'd have to buy again in 6 months.
+Very good.Overall, I'd highly recommend this...the games go quick, there's strategy involved, and its fun for kids and adults...and even more fun if you roll the arrows on the dice and can team up against somebody that's winning."
+The Race Through Space Game was in high demand when my son first received.
+He immediately was drawn to the game and was excited to get started.
+Unfortunately the game's instruction were not entirely intuitive.
+My son enjoyed the first round though admittedly he was not sure what he was doing.
+He enjoyed playing a few times but eventually lost interest.
+Overall the game is fun and different and it encourages interest in space, but the long term playability is questionable.
+RACE THROUGH SPACE GAMEI go this game for me and my little cuz to play when I am watching her.
+So I waited and waited for this to show so we could try it out.
+Finally it arrived and she was so excited to try this out.
+So we busted it out and we were ready to go.
+Of course we had to read the instructions first and by we I mean me.When I first started reading the instructions and it all seemed so complicated.
+I don't know why but there were so many rules.
+So I decided to just put the game together, that was pretty easy.
+It has multi little cards that you lay down in a certain order.
+Then you lay down your pieces and it all comes to you, or at least that is how it worked for me.
+Once I saw everything laid out and in place the rules made a lot of sense to me.
+So with everything ready to go we started playing.I have to say for a game meant for little kids and very easy [once you understand it] it is actually a fun game.
+We played for a while then it was time for her to go to bed, so we had to stop.
+But she has wanted to play it every time I watch her so we have played multiple times.
+So with that said I have to say this is a fun game and worth getting for your kid.
+Even I liked it.
+"""Rcae through Space"" is a board game for kids, but rather than simply moving your playing pieces based on the number on your dice roll, there are a few other events that take place.
+This makes the game more interesting and gives the kids some strategies to think about.
+However, some of these strategies/events are not good for small kids (The game's recommended age is 6+).The board consists of 10 galaxy pieces and one moon piece (target).
+Each player has 3 rockets and you start on the 4th galaxy piece (6 board pieces away from the moon) and move towards the moon based on your dice roll.
+There is an asteroid belt to cross through (You wait a turn - that's all).
+The dice has the numbers 1 - 5 and an arrow symbol.
+If you roll a number, you move one of your rockets that many spaces and with the arrow symbol, you can either move your rocket forward to join your other rocket closest to the moon or move your opponents rocket backwards to the farthest rocket.
+Similarly, at the end of each round (each player has rolled the dice once), you move the piece farthest from the moon and move it closest to the moon - all rocket pieces on the ""new"" farthest piece go out of the game.
+So these two new strategies make the game interesting - however, when my 9 yr old and his friends (ages: 6-9) played the game, moving the pieces around at the end of each round was a mess - rockets were disloadged from the game boards and they had to move things around the table etc.
+similarly, 6 yr olds couldn't take losing their rockets off the board completely and had trouble with their pieces being moved backwards by someone else.In my opinion, the game could be improved with the following changes.1.
+Using magnetic strips or velcro, the rocket pieces have to be ""attached"" to the board pieces so that they don't fall off  when the board pieces are moved around.2.
+The players should be allowed to move multiple rockets each round - splitting the dice roll number between different rockets (teaches addition and includes another level of strategy).3.
+Moving opponents backwards could be eliminated since this seems to promote ""negative"" strategy - winning by messing with other players - not a good value to teach a 6 year old.The board pieces (made with linen-cardboard pieces) and other game components are of very high quality e.g.
+nice wooden dice.
+So the game would last a long time and no more bent corners on these pieces."
+This game is a lot of fun.
+It really isn't that confusing to figure out (as I have noticed some reviewers have said).
+The object is to try and get all your rockets to the moon, and to NOT fall into the black hole.
+After each round (after each player takes a turn), the board piece at the end is removed and placed at the top, by the moon.
+The board is moving throughout the whole game, and if your rockets don't move quick enough, they will fall off the board into the black hole and be out for the rest of the game!This game is fun and imaginative with cute, colorful space pictures on each board piece.
+It is easy to play (hard floor or a tabletop is much easier than carpet to play on, since you will be sliding the board after each round), includes some chance (rolling the die) and some strategy.
+We really enjoyed this fun and original game.
+Will be a family favorite!
+"This is a pretty basic game.
+Roll the dice, move the rockets.
+A few of the ""strips"" have properties that affect your moves.
+Try to get all your rockets to the top.You get some variation by moving the strips around during play so that it's not always the same landing zones at each point, but even with the variation, my son just didn't really care for the game.There's options based on the rolls you do where you can move someone else's piece back (kind of like how  you can impact the opponent's play in ""Sorry"") but it's just a lot more anticlimactic than the other games are.
+He still likes Chutes and Ladders and Sorry far more than this game.All in all, we tried this for a couple weeks to get a feel for it and see what the interest level was, but even for that short period of time I had to bribe him with something else to get him to take a little time to play this first.
+He was just that uninterested in it compared to his other board games.Probably better suited to a much younger set than it's actually targeting..."
+The goal of this game is to get as many rockets to the moon as quickly as you can.
+The game board consists of 12 galaxy sections and one moon card.
+Each player's three rockets start at the fourth section from the bottom.
+After rolling a single die, each person moves one rocket the indicated number of spaces.
+At the end of every round, the bottom section of the game board is moved to the top position just below the moon section.
+Any rockets left on the bottom section fall into a black hole and are removed from play for the rest of the game.
+As each rocket arrives at the moon it is assigned a space station, scoring a decreasing number of points for each successive arrival.
+The person with the most points at the end of the game wins.
+Two special sections add to game play:  landing on a shooting star propels your rocket forward three spaces, and the asteroid field halts any rocket until the next turn.My children, 7 and 3, have enjoyed playing this game so far, but I am not sure if it will have much lasting play value.
+In each of our games, everyone lost at least one rocket, sometimes two.
+The games could also drag on a bit longer than expected.
+Moving the bottom section of the board is the hook that makes this game interesting, but it gets tedious as the game progresses.Overall, this is a fun game to pull out and play every once in a while, but it can get tedious upon repeated play.
+The Race Through Space board game is a hit with my kids.
+I have played it with my 9 and 12 year old children, and they found it to be fun and entertaining.
+I think that your children will enjoy it too.
+It's nice to find something they enjoy that isn't a video game.
+Race Through Space game looked like a fun game.
+I went throughout the directions and knew the basic way to play and the object of the game.
+My kids just wanted to get right into it and once they went through it, they never picked it up again but then maybe it's because their ages- 8 and 11 falls outside this game's age group.
+They had several question once they started to play and the answers to some of them weren't even clear looking at the directions.
+For the price, I wouldn't say it's a great game to have but if you're looking for something different, this may be it!
+I bought this mostly to play with my 6 year old, who LOVES all thing Space related.
+He was thrilled when it came out of the box and was instantly drawn to the planets, aliens and rockets on the outside.We opened it up and took out all of the pieces.
+Originally, we started on the carpet but quickly realized that it would be better on hardwood or a tabletop.
+It appeared easy to set up, but then I realized I would have to refer to the directions every time to get the board pieces in correct order.
+Not sure how many of you keep game directions once you know how to play, but I typically don't.Once set up, I am embarrassed to say that I read the directions more than 3 times and still couldn't fully grasp what should happen.
+We played an initial abbreviated version because my little space cadet was getting more and more impatient with my confusion.When my husband came home, I handed it to him and let him have a crack at it.
+After doing the same set up and direction reading, he couldn't get it either.
+Finally, we sent rockets into space and made up our own little game with the board.I love the idea of this game.
+I love the pictures and the pieces and the moving board.
+I Just simply can't figure out how the darn thing works.
+"I am a fan of Ravensburger games.
+The quality is usually pretty good (e.g., thick cardboard pieces).
+The games are usually easy for kids to understand as well as creatively designed to encourage strategic thinking.
+Ravensburger also has a number of titles that work across ages, from young children to adults (Ravensburger Labyrinthbeing a good example).Race Through Space is a good game, but I don't think it is one of Ravensburger's best.
+Each player has three space ships that s/he must get to a space station.
+After everyone has taken a turn, the last board plank drops off the end and is placed in the first position (next to the large space station board).
+In this way, any piece caught on the last board is sucked into a black hole (and removed from play).
+The game is easy to understand and young children will, after two or three games, start to see that there is strategy in how they move their pieces.
+For example, do you advance one piece all the way, or launch a few pieces and hope to take advantage of a ""rocket boost"" dice roll.
+Kids really start to pay attention to strategy after they see their first piece go into the black hole.
+""What?
+I've lost a spaceship?!
+""Where I find the game tedious is in the constant moving of the board planks.
+For a game to move at a decent clip, you've got to be constantly shifting the planks.
+When you get down to two players, the plank shifting is occurring after every other move.
+Shift plank, roll dice, move spaceship, roll dice, move spaceship, repeat.
+A colorful, easy to learn game with durable parts.
+This is a fun game.
+My seven-year-old loves it.
+You can read the short rule book once over and start playing.
+Even with its simplicity, there is a little bit of s strategy involved and the dice with the arrows on one side and a moving game board add a bit of luck that can push anyone ahead to win.
+It probably averages about 10 minutes to play.
+This is one of those games that all ages can play together and all will have a chance to win.I can see my kids and me playing this game for a long time.
+I think this game would be better suited for ages 3-6.
+I played this with my 6 yr old a few times, but he grew bored with it, and now he's using it as a backdrop for hisSpace Explorer Playset...so at least the game board is still being used.I thought this game was even more simple than educational games such asDora the Explorer: ABC Gameor theGo Diego Go!
+123 Game...might as well stick to the more traditional board games.We liked the space theme, but even my son thought it could have been more challenging.

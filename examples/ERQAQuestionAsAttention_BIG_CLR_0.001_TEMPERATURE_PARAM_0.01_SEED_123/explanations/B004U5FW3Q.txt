@@ -1,0 +1,130 @@
+Top question(s):
+we painted my sons room and took the set down.  I can't locate the template to set it back up again, where can I get one?
+Do you need the starter to use other wall track sets?  The retail price for the starter set is reasonable, but the fake holiday prices are the only ones I can find and the product isn't available in any local stores, so I wondered if the other wall tracks can be used without the starter set.
+Top sentence(s):
+This is a pretty neat idea.
+We do not have the track expansion packs, and that would go some way to reviving interest in the product, but I am certain we would see the same pattern.
+And it is off the floor so they can leave it set up instead of taking it apart after every time they use it.I think it should be a little cheaper, but it isn't bad really.
+This toy is easy to put up and has good instructions.
+The cars do seem to get caught up at time and need help to go again.
+
+Question attention weights:
+0.273923397064209,0.27415239810943604,0.20009106397628784,0.25183311104774475
+Sentence attention weights:
+0.01115547027438879,0.007796198595315218,0.009277147240936756,0.012536135502159595,0.008653474040329456,0.007664792705327272,0.0118057606741786,0.008380073122680187,0.00653515150770545,0.010423564352095127,0.00746989855542779,0.012879121117293835,0.009907352738082409,0.009994106367230415,0.008800618350505829,0.006031800527125597,0.007869408465921879,0.013628753833472729,0.008871893398463726,0.01040841918438673,0.010778188705444336,0.011936823837459087,0.005502387415617704,0.01226064283400774,0.004242436029016972,0.006890890188515186,0.012529762461781502,0.011933798901736736,0.004342253785580397,0.009140362963080406,0.008513088338077068,0.012422983534634113,0.00859944149851799,0.004186155274510384,0.013641851022839546,0.008421193808317184,0.012428821995854378,0.011309449560940266,0.006884516682475805,0.0074268304742872715,0.006651590578258038,0.004268122836947441,0.012635939754545689,0.010110324248671532,0.004033087287098169,0.004102276172488928,0.0037437190767377615,0.013644292019307613,0.009723550640046597,0.004761218558996916,0.011258999817073345,0.009941952303051949,0.012532257474958897,0.009069644846022129,0.004704482387751341,0.006578162312507629,0.008013719692826271,0.012134300544857979,0.009865907020866871,0.008191169239580631,0.012217948213219643,0.007813889533281326,0.012670129537582397,0.012686884962022305,0.008649338968098164,0.01335530262440443,0.004317345097661018,0.0053183152340352535,0.012686884962022305,0.005554718431085348,0.009137206710875034,0.011427808552980423,0.012686884962022305,0.012686884962022305,0.013085691258311272,0.01215422060340643,0.009410877712070942,0.006251543294638395,0.008096910081803799,0.008025948889553547,0.01409614272415638,0.013532137498259544,0.012445847503840923,0.014049789868295193,0.01342359185218811,0.0057684569619596004,0.00594632513821125,0.007201909087598324,0.008372146636247635,0.009800616651773453,0.01023022085428238,0.008362799882888794,0.008912595920264721,0.014518633484840393,0.010566417127847672,0.006603258196264505,0.006624023430049419,0.011243575252592564,0.007839630357921124,0.00411079591140151,0.007024902384728193,0.010178678669035435,0.005275757517665625,0.015331259928643703,0.004225572571158409,0.01471258606761694,0.011921768076717854
+0.011294356547296047,0.007854110561311245,0.009247620590031147,0.012511912733316422,0.008409530855715275,0.007838135585188866,0.011697618290781975,0.008204520680010319,0.006640412844717503,0.010534546338021755,0.007508167997002602,0.012911537662148476,0.009878355078399181,0.010150771588087082,0.008811084553599358,0.0058619361370801926,0.00790248904377222,0.0135688167065382,0.008912813849747181,0.010658474639058113,0.010611969977617264,0.011958426795899868,0.005443169269710779,0.012266353704035282,0.004220439121127129,0.006718301214277744,0.012472225353121758,0.012062234804034233,0.00440217973664403,0.009105920791625977,0.00856835301965475,0.012352429330348969,0.008597230538725853,0.004148752428591251,0.013718977570533752,0.00845305249094963,0.012441587634384632,0.011254433542490005,0.006976221222430468,0.007327139377593994,0.00664912723004818,0.004323340021073818,0.012524973601102829,0.010296529158949852,0.0041268365457654,0.004126543644815683,0.003915762063115835,0.013892950490117073,0.009675211273133755,0.004621422849595547,0.011077534407377243,0.009969117119908333,0.012521378695964813,0.009005265310406685,0.004731253255158663,0.006595248822122812,0.0078022233210504055,0.012096733786165714,0.009757512249052525,0.008347547613084316,0.012103619053959846,0.007607895415276289,0.012498980388045311,0.012673409655690193,0.00845030415803194,0.013191690668463707,0.004373222589492798,0.005520986393094063,0.012673409655690193,0.00553246820345521,0.009198233485221863,0.011528466828167439,0.012673409655690193,0.012673409655690193,0.013093516230583191,0.012115794233977795,0.009534401819109917,0.006279991939663887,0.008204578422009945,0.007852517999708652,0.01418811734765768,0.013709917664527893,0.012491516768932343,0.014099941588938236,0.013438844121992588,0.00578228710219264,0.005951333791017532,0.007399565074592829,0.00844665803015232,0.00970548391342163,0.01020110584795475,0.008146571926772594,0.009119966067373753,0.014525392092764378,0.010489149950444698,0.006443797145038843,0.006494464818388224,0.0112534761428833,0.007774507161229849,0.0040638502687215805,0.007137825712561607,0.0102983508259058,0.005389078054577112,0.015213134698569775,0.0044768922962248325,0.01450543012470007,0.011919928714632988
+0.012324831448495388,0.008737215772271156,0.0100253289565444,0.012105386704206467,0.007368267513811588,0.008743406273424625,0.010876947082579136,0.007186816539615393,0.007130666170269251,0.011212925426661968,0.007826981134712696,0.013063514605164528,0.010298154316842556,0.011107071302831173,0.009061252698302269,0.004711715970188379,0.009125673212110996,0.013481576927006245,0.009477460756897926,0.012269675731658936,0.010249299928545952,0.012022016569972038,0.004437064751982689,0.012085484340786934,0.004035208374261856,0.0054378691129386425,0.011853246949613094,0.012570114806294441,0.005188038107007742,0.00925093051046133,0.00921286828815937,0.01137992087751627,0.008786274120211601,0.004951575770974159,0.013590415008366108,0.008277376182377338,0.01219201274216175,0.010418632999062538,0.008253172971308231,0.006997192744165659,0.006846703588962555,0.005178684368729591,0.011223995126783848,0.01002477016299963,0.004490684252232313,0.004674050956964493,0.004928090609610081,0.014108109287917614,0.009071620181202888,0.004540435504168272,0.009854654781520367,0.010419398546218872,0.01214766874909401,0.00899125449359417,0.00466712424531579,0.006145520601421595,0.0068261162377893925,0.01160889957100153,0.009126676246523857,0.010028034448623657,0.01173328049480915,0.006690054200589657,0.01097295992076397,0.012262145057320595,0.00795808807015419,0.013227041810750961,0.004264764953404665,0.006285829935222864,0.012262145057320595,0.00450333533808589,0.009815805591642857,0.011509186588227749,0.012262145057320595,0.012262145057320595,0.01282520592212677,0.011419419199228287,0.011230843141674995,0.006305367685854435,0.009168755263090134,0.0072683668695390224,0.014550669118762016,0.01603144221007824,0.012479589320719242,0.013956026174128056,0.013093143701553345,0.007780906744301319,0.005913593340665102,0.007928249426186085,0.008092932403087616,0.009465300478041172,0.01022553350776434,0.007496142294257879,0.009073792025446892,0.014647671952843666,0.009654241614043713,0.005848935805261135,0.005895097274333239,0.01107273530215025,0.008079112507402897,0.00367122795432806,0.007621855940669775,0.01070509385317564,0.0052587781101465225,0.014590360224246979,0.005155942402780056,0.013277244754135609,0.011981386691331863
+0.011644461192190647,0.00809603463858366,0.009458295069634914,0.012432399205863476,0.008033664897084236,0.008105429820716381,0.011466347612440586,0.007841415703296661,0.006769092287868261,0.01076422818005085,0.007582852616906166,0.01302005723118782,0.01000792346894741,0.010477522388100624,0.008876831270754337,0.005431223660707474,0.008236447349190712,0.013602095656096935,0.009082426317036152,0.01117892935872078,0.010496906004846096,0.012010226026177406,0.005072298925369978,0.012259222567081451,0.004124240018427372,0.0062538799829781055,0.01232746709138155,0.012264971621334553,0.004589331801980734,0.009147709235548973,0.008758693002164364,0.01208607666194439,0.00864228792488575,0.004312571138143539,0.013767152093350887,0.00839068740606308,0.012414919212460518,0.011009505949914455,0.0073202988132834435,0.007176512852311134,0.006677854340523481,0.004526100587099791,0.012144158594310284,0.010253825224936008,0.004208697006106377,0.004247714765369892,0.0041771843098104,0.014066219329833984,0.009488261304795742,0.004533600527793169,0.010692034848034382,0.010115754790604115,0.012455050833523273,0.008992712013423443,0.00468019861727953,0.006425376050174236,0.007447868585586548,0.011982803232967854,0.009549805894494057,0.008831745013594627,0.012010074220597744,0.007273633498698473,0.012034882791340351,0.012597396969795227,0.008261444978415966,0.01324842032045126,0.004308528266847134,0.005729964002966881,0.012597396969795227,0.005165501963347197,0.009392177686095238,0.011570887640118599,0.012597396969795227,0.012597396969795227,0.013071809895336628,0.011938033625483513,0.010034979321062565,0.006252596154808998,0.008488363586366177,0.007619480602443218,0.014389964751899242,0.014466987922787666,0.01254862081259489,0.014141702093183994,0.013400664553046227,0.006284629926085472,0.005905260797590017,0.007571682799607515,0.008341669104993343,0.009609854780137539,0.01021187100559473,0.007897716946899891,0.009134909138083458,0.014643022790551186,0.010238121263682842,0.006208596285432577,0.006253334693610668,0.01122823916375637,0.00783929880708456,0.003894048510119319,0.00727779371663928,0.010439084842801094,0.005334150977432728,0.01510687731206417,0.0046684774570167065,0.014168047346174717,0.011975415050983429
+Questions:
+Do you need the starter to use other wall track sets?  The retail price for the starter set is reasonable, but the fake holiday prices are the only ones I can find and the product isn't available in any local stores, so I wondered if the other wall tracks can be used without the starter set.
+we painted my sons room and took the set down.  I can't locate the template to set it back up again, where can I get one?
+What are the dimensions when installed?  How much wall space is needed?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+My kids have always loved Hot Wheels.
+The only problem with tracks was how much space they took up.
+If we left it out, it got stepped on and broken.
+If we took it apart, it never got put back together or pieces got lost.
+Now we can leave the track out without the worries!The track assembled super fast.
+The instructions were easy to follow and included a template to hang on your wall, marking where the hangers would go.
+Less than 5 minutes later, cars were zooming down the track and through the look!
+My kids really love the multiple exit points.
+Yes, we know that there are other pieces you can buy to connect there, but there is just something about tiny cars falling to their doom....The only downside so far has been with cars getting stuck in the loop.
+I suggest using only normal, modern styling cars on the track.
+Everything else jams the loop and the fun stops until someone (read me) digs the car out.Otherwise, brilliant idea!
+My kids have played with it nearly every day for the last month!
+"First let me say, that I gave this to my son for Christmas, and it has been a huge hit.
+Both with my 3YO boy and 5YO daughter.
+That said, I can't give the product 5 stars.
+Here's the pros and cons I see in the toy:Pros:*Simple setup with included 3M tabs and large and durable paper mounting template.
+Be prepared to store the template if you plan on taking down the track are rebuilding it in another spot in the house.
+*Plenty of tricks.
+For a starter pack there is plenty of tricks for the cars to do to make this an acceptable toy on it's own.
+*Includes 1 Hot Wheels car.*Expandable.
+As implied by the ""starter set"" name you can add on other bits to the track to make a larger playset.*Standard.
+Uses the standard hot wheels track so you could jury-rig something together with bits you have lying around if you wanted.
+*Compatible with standard sized 3M strips.Cons:*Semi-permanent installation.
+This is my biggest issue with this set, so let me clarify.
+The 3M sticky tabs are designed to be easily removed from the wall, but they aren't designed to be reused.
+So if you want to tear down the set AND remove the mounting clips from the wall AND rebuild it at a later date you will need to buy some more 3M strips.
+(Which are standard sized and readily available).
+Yes you can leave the mounting brackets on teh wall and just remove the track but depending where you set up the track that might or might not be an acceptable compromise.
+My son loved setting this up in the playroom and showing us how it worked.
+The nice thing about it is that kids (and grownups) can vary the tricks and track and thus it offers sustained playability.Hot Wheels has been part of my life since I was a kid and it's neat to see how far they have come, yet retain the same wonder, quality and versatitliy -- especially nowadays when they're competing with so many other pastimes like video and such.
+Hot Wheels still rule!
+Hot Wheels hit a home run with this starter set.
+Construction is simple, the tracks are durable and, most importantly, the toy is user-friendly.
+Tested with a three-year old boy, the track worked perfectly and showed no signs of pulling away from the wall (Visions of the old suction cup attachments were blown away by these 3M Command Strips, which stick the base of the tracks in place.
+)For adults, the big news is that you no longer have to play on your knees!
+Elevating the track on the wall not only clears the floor (saving someone from that dreaded barefoot step on a jagged car part) but also allows the child to move around the track more easily.I wish they had invented these tracks when I was a boy.Rating: Five stars.
+"From the photos they have of the product, I expected it to be a little bigger than it was.
+As it stands (or hangs as the case may be), it fit on my fridge door.
+Of course, I never paid much attention to the curvature of the fridge door, so I had to add an extension to the first top left piece to get it around the ice dispenser...
+But it worked, and stuck very well due to the nice surface.The template is easy to follow, and the anchor points are labeled A through F and even have little arrows that act as your angle meter, to make sure it's hanging at the proper angle.Track pieces snap into place pretty securely, and I've had no problems with anything loose or inoperative.
+Some reviewers mentioned the loop mechanism didn't work well for them, but we've had no problems with it.
+Just make sure there's no pressure on any side, since the first time I had it hung, it pressed a bit against that curvature of my fridge, nothing really noticeable, but enough to hamper operation until I adjusted one of the anchor points.The car went through the track just fine, not hanging up anywhere.As with most hot wheel toys, it's pretty cool at first, and the concept is very slick - no tracks to ""pick up"" or things the kid leaves laying on the floor.
+But the replay value isn't so great since it's just the same thing over and over and over.
+My son extended his excitement by adding more things to crash into, but after about half an hour, it just sat on the fridge, something for me to watch out for so I wouldn't let the door open itself all the way to its stops...
+He went back to it once the second day, but then took the car and had more fun driving it over the furniture, jumping over the great chasms between the couch and rocking chair, and driving it on the counters.
+The track has been dormant since.I can see some more excitement as you add to it, since this is just the starter set, the ""center"" of what you can get separately, but by the time you purchase enough of the other pieces to extend it to decent playability, you could've purchased something more significant with a longer play time for the kid.
+And the other pieces will just be more of the same as well after the first little while of seeing how it all looks.And the orange top piece isn't even a part it rolls down - that's basically the holding pen for cars, they start at the first blue piece right before the top right turn.
+So all in all this has two turn pieces, and a loop.So the concept and execution are very well done, but they really need to expand the basic set some to add some value to it."
+My kids and my wife and I love Hot Wheels stuff and this does not disappoint.
+With all the toys on the market that employ guns and shooting or a ton of batteries that need to be replaced every week, Hot Wheels have a remained a staple in our house.
+The kids are always thrilled to get a ~$1 car and the track sets are always a huge treat.
+This is a really neat way to play with HWs by hanging the tracks on the wall.
+Really allows the kids to be creative in play.
+Our boys will play with HWs for hours and this adds one more tool to the box.
+There are two cons of this set:  1) You have to have dedicated wall space (preferably in the kids room or play room) to set this up.
+It is true that you can easily remove the 3M Command Strips but, the strips are not reusable.
+2) Because of how you have to set the tracks up to work and the use the use of the 3M Command Strips some of the customizability is compromised.
+Still a great addition to a kids Hot Wheels collection.
+I would not hesitate to get for my boys just to have one more type of track in the collection.
+When I was a little tyke, I had a few racetracks for die cast cars (y'know, hot wheels and whatnot).
+These racetracks took up the whole floor and had to be put away at the end of play.This racetrack is really great because we leave it up all the time, and it only sits a few inches out from the wall.We had no problem with setup.
+And we had no problem with using the toy.Sometimes the cars wreck or don't go down right.
+This is actually a good thing, if you want a toy that works perfect each and every time you can buy one of these and tell your kid to just sit and watch it:Penguin Race 2My son loves the inconsistencies.
+The cars go down correctly about 75% of the time.
+Sometimes a car is too light, too heavy, or who knows why it doesn't work but it will jam or go off the track or flip over.
+This is all part of the fun, trust me.
+Little hands want to fix things and little hands want to have a reason to touch things.We built a nice series of towers out of wooden blocks at the long ramp end.
+And the cars would fly down and crash into the wooden towers again and again.The top part has a grey mechanism which will release car after car... you can queue them up and let them fly.
+However, we usually sent down one at a time.
+My older daughter would try to reset the wheel mechanism between each car, but she was not fast enough.
+Still, it gave her something to do.And the best part is that at bedtime we just put the cars away and its ready to go in the morning.
+Really, a great design.I'm going to buy some of the add-ons to make this even bigger.
+Its great.
+We really like it!
+!
+This was a Christmas present for my 7 year old.
+The only reason I didn't give it 5 stars is beacuse I help him put it together.
+After we had it attached to the wall by the 3M strips, he played with the cars for a few hours.
+The only other downfall is if you need to take the toy off of the wall, then you lose your adhesive strips.
+Ok the idea is great what kid would not love to play like this with their carsmy kids ran cars on the wall before this track came along lolanyway after a few months we have found that it really is not holding up wellthe tracks keep falling out of the brackets no matter what we have triedthis is after a few months of regular playsure they stayed ok at first but now not so muchalso of course they are frustrated that the cars they already have99% of those cars do not work this this play settoo heavy to go through the loopalso the other thing for them unlike their other track setswhich they take down and put together with other sets in many different waysthis one can not be taken down and moved to other areas as easily as what they are used to being able to dopart of the fun has been taken out as far as the imagination factor of this toy
+This toy is easy to put up and has good instructions.
+The adhesive doesn't stay that well and we lost some paint in a few places.
+It is very entertaining to my 4 year old, 2 year old and husband as well.
+The cars do seem to get caught up at time and need help to go again.
+Overall, it is fun but not as good as we expected.
+"The Hot Wheels Wall Tracks Starter Set looked like a lot of fun, which it is, but it does not meet all of my expectations.
+First, although the track is easy to set up thanks to the included instructions, but it has some minor  issues with the ""flow"" of the cars on the tracks, cars got stuck a few times and my son tried to pull the whole thing  down to get it out.
+Not a good idea, the command strips hold it to the wall and are easily removed but I don't want to have to take it down and put it back up dozens of times.
+I like that there are additional tracks that can be added but I do not want to deal with all of the tracks on the walls.
+It is overall a fun toy, but could cause problems if you have to take it up/down too many times."
+How the Kids Responded:When we set this toy up, the kids said that it was the best toy, EVER.
+They played with it non-stop for the next day or two, and then their interest waned.
+The track gets occasional attention, but it has become sadly predictable.
+We do not have the track expansion packs, and that would go some way to reviving interest in the product, but I am certain we would see the same pattern.
+We have a number of toys that are like this, and we usually just put them away for a while, and return to them when interest is fresh.
+Unfortunately, removing this toy means leaving six plastic holders on the wall (unless we go to the trouble of employing the Command Strips).Quality/DesignI like the whole idea of this contraption.
+It all went together fairly swiftly and, in spite of heavy use, has not broken or come unstuck from the wall.
+Quality and design leave something to be desired.
+I find the plastic to be cheap and the connections not terribly strong.
+What is most bothersome is that the track only works with a small range of cars; even the supplied car gets stuck in one of the chutes.
+Many of Mattel's own Hot Wheels cars simply won't work, for one reason or another.
+The dimensions and weight of the vehicle have to be just right for them to make it though the course.Overall, I can't recommend this product.
+I'd be giving the track lower marks were it not for the incredible, albeit short-lived, response from my kids.
+This is a pretty neat idea.
+Originally, I didn't like it because I did not like the idea of sticking something to the wall, but it seems to work fine and it does not damage the wall when removing the tape stuff things.The toy is decently made also, and is fun for kids to play with.
+And it is off the floor so they can leave it set up instead of taking it apart after every time they use it.I think it should be a little cheaper, but it isn't bad really.
+I think everything should be a little cheaper.

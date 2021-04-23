@@ -1,0 +1,209 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+We love Polly and own 4 other Polly Pocket Wall Playets.
+When I saw this Polly Pocket Mall, I immediately thought of my eight-year-old niece, who would love it, and I stopped thinking.
+Perhaps, a cute little brunette or redhead to accompany Polly on her adventures?
+I fondly remember the Polly Pocket days of my daughter's younger years.
+It only comes with one Polly Pocket figure.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.0047786422073841095,0.005024345126003027,0.004270203411579132,0.0024713161401450634,0.004276093561202288,0.004561636596918106,0.002724504331126809,0.005396694876253605,0.005986361764371395,0.004333497025072575,0.006099294405430555,0.004024237859994173,0.005335602443665266,0.004779762588441372,0.005561297759413719,0.003445724258199334,0.004915033001452684,0.004824373405426741,0.007749489974230528,0.009700979106128216,0.0064903926104307175,0.006015893537551165,0.005229797214269638,0.004769403487443924,0.006158867850899696,0.00848067831248045,0.0028718039393424988,0.005114544183015823,0.005166938062757254,0.0035860450007021427,0.005506428889930248,0.003310590283945203,0.0041547915898263454,0.0037503878120332956,0.004555641207844019,0.004578326363116503,0.0037395646795630455,0.005054833367466927,0.004129813052713871,0.0047759125009179115,0.005182191263884306,0.005719871260225773,0.0036832266487181187,0.004906516522169113,0.004406704101711512,0.00612616864964366,0.006525595206767321,0.006934471894055605,0.004967065528035164,0.007195021957159042,0.007768995128571987,0.004307115450501442,0.0048462338745594025,0.005950349848717451,0.004369585309177637,0.0031267288140952587,0.0044367047958076,0.0057290541008114815,0.002268031472340226,0.004490317776799202,0.005418980959802866,0.0040995399467647076,0.004382259678095579,0.003803977509960532,0.0037252912297844887,0.003165526781231165,0.00550093362107873,0.00645728362724185,0.004618312697857618,0.006671131122857332,0.005266929045319557,0.004493075422942638,0.00437382236123085,0.004838052671402693,0.005349520593881607,0.0043329535983502865,0.005397567991167307,0.008395925164222717,0.003087907563894987,0.0047332714311778545,0.004104113206267357,0.004595956299453974,0.004761294927448034,0.00541481701657176,0.005670878104865551,0.007634167559444904,0.0055756825022399426,0.005366481840610504,0.0044115702621638775,0.004986249841749668,0.004945823922753334,0.00477840518578887,0.004449253436177969,0.005486944690346718,0.005161665380001068,0.00533099751919508,0.0027736597694456577,0.006324950605630875,0.00477840518578887,0.0038626559544354677,0.0052587008103728294,0.004604296293109655,0.004783565178513527,0.004703072365373373,0.0061427834443748,0.003231552429497242,0.007443270646035671,0.0042884876020252705,0.004937173333019018,0.006073472090065479,0.004776129499077797,0.0053623272106051445,0.0055834888480603695,0.004136593546718359,0.0051445066928863525,0.004807774443179369,0.0034412709064781666,0.00807647779583931,0.004507062956690788,0.0046082050539553165,0.006040344480425119,0.003818427212536335,0.004424472339451313,0.004309365525841713,0.004040498752146959,0.005076552741229534,0.005912642925977707,0.005015527363866568,0.004395885393023491,0.004764852114021778,0.004782974254339933,0.0061307684518396854,0.005672050639986992,0.005212332587689161,0.005532247945666313,0.0060815936885774136,0.005046898499131203,0.007744630333036184,0.006643790751695633,0.006424638442695141,0.00422169454395771,0.004640781786292791,0.004267452750355005,0.006311418488621712,0.004744664300233126,0.005790013819932938,0.008698992431163788,0.009722491726279259,0.003409469733014703,0.003975671716034412,0.004231782164424658,0.003197056706994772,0.004960633348673582,0.005962229333817959,0.005294655915349722,0.005534416064620018,0.005900260526686907,0.006385413464158773,0.004679515026509762,0.00534221762791276,0.005948345642536879,0.004953380674123764,0.0071012829430401325,0.006947091780602932,0.005274840630590916,0.0034722588025033474,0.005010609515011311,0.004609698895365,0.0048737493343651295,0.005518769845366478,0.007997185923159122,0.0047167036682367325,0.004403556231409311,0.005859665106981993,0.005124174058437347,0.005542121361941099,0.004855968989431858,0.004315274301916361,0.004901429638266563,0.015223424881696701,0.005628798622637987,0.0037569543346762657,0.006472829729318619,0.00663380092009902,0.0033809721935540438,0.005512914154678583,0.005507966503500938,0.00485558807849884,0.005209637340158224,0.00485558807849884,0.004755946341902018,0.0048451717011630535,0.006516830530017614
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+First, this is a creatively conceived product.
+It is designed to be attached to a wall, not positioned on a surface for play.
+Further, it is designed to be connected with other, separately sold products that all interrelate and expand the zone of play into a broader (and growable) ecosystem.
+Neat concept.On the possible con side, just be sure you want a product that mounts to the wall and doesn't relocate so easily.
+Its not in of itself a bad thing, just a design fact that has consequences.
+In my 3 year old daughter's case, it worked out quite well.
+She has a dedicated play room, so wall space is not at a premium, and it was nice to have a toy continually set up, yet out of the way, that she could use whenever she wanted.On the pros, there are several points.
+First, its a visually engaging product.
+Unlike many other mass produced items that use few colors, this one is very colorful.
+I believe this fact alone highly contributes to my daughter enjoying the toy.
+Second, it features a number of creative play spaces.
+Unlike your boring, standard doll house, this one has an unusual arrangement and configuration of spaces, making it what appears to be much more fun for my daughter than her other doll houses.Last point - it does seem a bit overpriced.
+I would find the product much more attractive at $29, vs $39, but my daughter has really enjoyed it.
+I love the mall probably more than the average 5 year old.
+However, this set only comes with one Polly pocket doll.
+Now before anyone jumps down my throat I'd like to add that when does any self respecting young lady go to the mall alone?
+Exactly.
+Never.
+Everyone needs a sidekick-even Polly.
+Perhaps, a cute little brunette or redhead to accompany Polly on her adventures?
+Thank you!
+My daughter loves Polly Pocket, so this was a guaranteed winner before it even came out of the box.
+It's yet another colorful plastic thing for the kids.
+What can you do, the kids love this stuff.
+But I do have a few warnings for those thinking of buying it.1.
+It only comes with one Polly Pocket figure.
+Presumably you have them laying all over the floor already, so this isn't an issue, but if this is a first time Polly Pocket purchase, you'll want more dolls.2.
+It is NOT freestanding, you are meant to attach it to the wall.
+It comes with the Command Strips for doing this, but personally I don't like sticking things up on the wall.
+It goes from being a toy to a permanent part of the house.
+A bit odd.3.
+I could not for the life of me get the Ferris Wheel to work.
+The crank is supposed to operate the escalator and the Ferris Wheel, but only worked for the former.
+This was a bummer for all involved.All that said, my daughter had fun playing with it, as she does with all the Polly Pocket stuff.
+Polly Pocket has changed from when I was a kid.
+This set goes on the wall instead of in your pocket, and has a lot more to do.
+I agree with the reviewer who said it is for older kids.
+A 3.5 year old I watch sometimes is not interested and my daughter is too young for it as well(2 years old).
+The plastic looked flimsy online and in person but it has held up well.
+There is a slide, a Ferris wheel, an escalator and more.
+Apparently there are other Polly sets that are supposed to be connected with this, but it's fun alone.
+It's well worth the price compared to the actual pocket Polly Pocket toys that I always lost as a child.
+However, because it is really bright and distracting and my daughter doesn't play with it, I think I'll take it down and see how she feels about it later.
+This toy is a super hit in our house with both the boys and girls!
+It was easy to snap together and took about 10 minutes.
+The accessories are so cute and most have little suction cups so that they stick in place or they have a spot to hook them up inside a shop.
+I like that there is a little storage cup underneath to hold all the pieces.
+We haven't yet attached it to the wall, so I can't comment on that yet.
+Overall, this is a toy that elicits a lot of imaginative play and there are a lot of options for play.
+The only reason why I didn't give it 5 stars is because I think the price it too steep.
+"I must admit I didn't realize this Polly Pocket set attached to the wall.
+My daughter saw it and just wanted the ""mall"".
+When I opened the box I was surprised to see so many pieces, and had a moment of panic.
+However, I decided to try assembling it, and was surprised it went together fairly easily, maybe twenty minutes.
+Finding a place on the wall in the playroom to hang it took longer.
+It's suggested to use a three foot x three foot area.
+It attaches with three Command strips on the back, of which I was hesitant, but did anyway.
+It is a beautiful set, the blue is eye-popping and happens to match the silk curtains hanging right next to it.
+My daughter loves the fact that the doll came with suction cup shoes, and they fit all of her Polly Pockets, those with narrow feet and wide feet.
+It allows the dolls to stand up on the product.
+We haven't been able to get the ferris wheel to turn, but the escalator does work.
+Here are my only concerns:  after hanging on the wall about five days, my daughter walked into the playroom and discovered the entire mall laying in the floor.
+It had fallen off the wall.
+We did reattach it, and it's remained for about five more days, but I'm curious to see how long it will hang.
+We purchased one of the additional sets, I believe a cafe, and attached it nearby.
+To use as many sets as it shows are available for additional purchase, you would need a much larger space than three foot x three foot.
+I thought it would be an attractive toy to interest a young girl while visiting Grandma, and since we try to keep the bulk of the toys in the spare bedroom, there isn't a lot of floor space either.
+So...the hanging on the wall feature, but removable (she's not the only guest) to store between visits was attractive.
+So was the idea that this would be a toy that could keep her interest for years.
+(With add-ons, of course)But she is three, and while the toy is rated for ages three and up, it's really too fussy for her at this time.
+We actually put it up for now, and I'd actually consider this particular toy more appropriate for 4 or even 5 yrs old.
+Maybe it is partially a cultural thing, as a small town/rural little girl, malls aren't an important part of her experience yet.
+My 7 year old loves this set and wants more to add on to it.
+I love that it is space saving, however the attachments it comes with do not hold it up for long and require further assistance (nails, glue, etc) to continue holding it on the wall.
+It sticks for awhile with what it came with but eventually falls off, frustrating little ones.
+Once you add outside elements to keep it up though, it's fine.
+I would have preferred it working with the provided attachments as it states, my only reason for four instead of five stars, so that I didn't have to put holes in my wall as we rent an apartment.
+That said though, this was one of the easier sets to put together and my daughter was able to do most of it on her own with very little help from me, which she loves because she's Miss Independent.
+Once it's up, permanently attached, it's very sturdy and lots of fun.
+The other downside to having to add additional attachments is, well, kids like to move things.
+This means more holes in the wall every time she gets bored or moves her room and stuff around.
+Altogether though I recommend this but hope future sets may stick more easily without permanent fixtures.
+Hours of fun!
+Okay, Polly and I go way back.
+I was one of the first in my circle to start collecting these girls for my girls.
+The durability and portability of the dolls is just wonderful.
+Now with this addition that you can attach to a wall?
+Polly Pocket heaven!
+Hours of wonderful playdates can be expected!
+Must have for the little girl in your life.
+LOVE it!
+My daughter really likes this toy.
+Her only complaint is that you're supposed to hang it on the wall.
+She doesn't want it on the wall.
+She props it up against something and plays with it on the floor.
+Other than that, she loves it.
+Her favorite part of the set is the ferris wheel.
+She has some tiny little toy animals she puts on the ferris wheel with Polly.
+Overall, a fun toy.
+Out of the box and onto the wall took less than 20 minutes.
+The command strips they give you work perfect with this polly pocket wall set.
+I had zero problems getting the whole mall to stick and it feels very secure.
+High five to them for that.
+There is a ferris wheel that once at the bottom, a button can be pressed and polly slides out and onto the slide.
+There is a nifty crank that lets polly and her friends ride the escalator and an elevator that is hand powered for the two levels.
+Another nice feature is they give you 8 pairs of shoes with suction cups for polly, so she doesn't fall off the wall mounted mall.
+you don't have to worry about her taking a dive every time you take your hand off her.And the fact that it is wall mounted and never has to be picked up is just dang wonderful!
+it also has a little basket to swings out to put any extra pieces.There is lots to do with this set and it is expandable.
+They offer many other smaller add ons that would compliment this one nicely.The only reason i gave this a 4 out of 5 stars is because of the price.
+While the toy is great, i dont think its worth the price they are asking.
+Bring the price down a bit and it has my 5 stars.
+for the extra couple bucks id recommend gettingPolly Pocket Wall Party Ultimate All-in-One Playsetbecause it has wayyyy more sets to offer for the moneyThis is a very well thought out toy that i would highly recommend to those thinking about purchasing.
+My daughter loves her Polly Pocked Wall Party Mall.
+We assembled it and placed it on the wall in her room.
+She loves playing with it and she really likes that it is stuck on the wall.
+I enjoy knowing that it's at least one toy that will always be where it is supposed to be.
+We placed it behind the door in her room where it saves space and doesn't stick out.
+We have had no trouble getting our Polly Pocket Wall Party to stay on our wall and its been up for quite a while now.
+I wanted to wait and do my review after it had been played with a lot to see just how well it would hold up.
+So far it has been very durable and a toy that the girls have really enjoyed playing with enough to continue to come back to it.
+There have been requests for Christmas presents of the additional pieces available for purchase.
+If you are hesitant to attach this to your wall or you do not have enough available wall space then one solution is to buy a piece of white-board and attach the set to it.
+The board can then be moved around from room to room or simply propped up.
+If you are having trouble getting the playset to stick to your wall you could also try attaching the whiteboard to your wall using large command strips.
+My daughter really loves Polly Pockets.
+She is a big fan.
+I have brought many of these playsets and by far she likes this one the best.
+She loves to put all her other Polly and Friends together to play this.
+It is loads of fun for her and everything is off the floor.We also added the wall party to this as well.
+Whats great is you can always add on.
+I added the wall mall because it was back to school so this way i can get give small rewards to add on.
+Birthday, good grades, etc.The number one thing that I have to say about keeping this on the wall is, Wipe the wall first.
+Let it dry.
+This way it will get rid of any oils in the paint so it will stick.
+Next it its a textured wall you might have to be more creative to come up with  another way for it to stick.
+Overall her and her friends love it.
+I can see in the future having all the pieces as well.
+My six year old has been loved Polly Pocket since she was 3 or so and loves them but I hate the small pieces I have to keep track of, these on the wall Polly Pocket sets are actually cool and provide a unique playing experience for kids and do keep them quite entertained.
+This set does require some assembly but it isn't so bad.
+Both of my girls love Polly Pocket and this has been a fixture on her wall since she received it.
+Seems durable and she hasn't destroyed it yet.
+The recipient of this toy, a little 4 year old girl, was just speechless when she opened this up.
+That's the kind of reaction you want your gift to receive!This is nice, colorful, and durable.
+It has enough nooks and crannies and variability to keep the little girls playing together (harmoniously) for hours.Drawback:  lots of little pieces-and we all know how they fret if something is misplaced!Advise: stick to the recommended age parameters.Definitely a worthwhile and fun toy.
+"My niece is going to love me.
+Her parents, however, are going to hate me.
+I fondly remember the Polly Pocket days of my daughter's younger years.
+When I saw this Polly Pocket Mall, I immediately thought of my eight-year-old niece, who would love it, and I stopped thinking.
+I didn't think about how a toy called ""Mall on the Wall"" was meant to attach to an actual wall or that there would be quite a lot of adult assembly required.
+Foolish me.When the box arrived, I opened it up, looked at the instructions and the many unassembled parts and pieces of this mall, and wondered what to do.
+The instructions seem very clear, and they estimate a 20-minute assembly time, but it's not the assembly that concerns me; it's attaching the toy to an actual wall in someone's house.
+It seems rather permanent for a toy, and I can't see how the removal wouldn't damage the paint.If my sister-in-law is willing to mount this toy to a wall in her home, I think my niece is going to absolutely love it.
+Even my now-sixteen-year-old daughter got a bit giddy when we were pulling pieces out of the box.
+I can't see how any little girl wouldn't love this.
+There's a hand-cranked ferris wheel and escalator, a slide, a shoe store, a snack bar, and a music store.
+It also comes with a Polly doll and lots of little accessories for the shops, and there are other playsets you can purchase separately and attach to this one with zip lines, which is pretty cool.
+For kids, this toy is definitely a win; for parents, perhaps not so much."
+This is an amazingly cute and playable toy.
+My 5 year old has got it installed on the wall behind a door, and has lots of interest and fun playing with it.
+It does take adult assembly as is usual with such toys.
+The quality of the plastic is very good and is durably installed on the wall using the command strips provided alongwith.The toy needs no packing once done as it's just installed on the wall.
+They give a poly doll with it, as well as number of cute little stuff for this fashion mall.This will greatly appeal to young girls and I recommend it.
+Our daughters love Polly Pocket, and they have a number of sets already.
+This one was a great concept, and they were thrilled with the ferris wheel, but they didn't want it to hang on the wall but rather sit with their other Polly Pocket sets.
+But it wouldn't stay up unless propped up.
+I did affix it to the wall according to instructions, but it fell down after a week or so.
+They still try to play with it, and they really like the chute (reminds me of the fairyland playset I recommended a while ago).
+Overall, great idea, and I like the thought that this set works with others.
+But I really wish the adhesives had worked better.
+My daughter got this Polly Pocket boat toy from Vine a couple of months ago and played it with forever.
+I thought she would like this one, but she really didn't.
+I think she may be too young (She's 3) or just not understand the concept.
+Its like a fair and mall in one.
+She understood what to do with the boat or a dollhouse much better.
+I would suggest this for a child older than 3.
+Maybe for a 6 year old?It is made well and it mounts to the wall easily.
+It works fine.
+She just did not play with it.I only took off one star because it is made well, so it's not the fault of the toy.
+It is just not the right one for my child.
+We love Polly and own 4 other Polly Pocket Wall Playets.
+Unfortunately, the Mall on the Wall just isn't as durable as our other sets.
+It has been up less than a week and has already crashed to the floor when no one was even playing with it.
+We have not had that happen with our other sets that have been up for months.
+The other issue is the Ferris Wheel that doesn't turn easily.
+I will be calling customer service today to see what they can do or if this is a common complaint.
+I will update you when I find out more.
+I cannot see buying replacement command strips every week though.
+This was pretty simple to put together.
+Pieces seem durable.
+Those pieces though.
+Always falling down the side of my daughter's bed where this toy sits mounted on her wall.
+She still plays with it occasionally but we're probably missing a few of the pieces now.
+I can't say I recommended it as I'll most likely be taking this eye sore down soon and probably have to toss it since it can't sit upright.

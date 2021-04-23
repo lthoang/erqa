@@ -1,0 +1,104 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+How is this compared to the Green toys teas set? Need to select the best tea set for a todler
+Top sentence(s):
+That lasted, oh, a week.
+My little girl thinks this tea set is beautiful!
+I also like that this set is safe to use with food.
+The lids for the sugar bowl and teapot stay on very well.
+I dont suggest using this as a sand toy, but can take some rare abuse easily.
+
+Question attention weights:
+0.26664599776268005,0.13263893127441406,0.03612617403268814,0.21721811592578888,0.07207654416561127,0.2752942144870758
+Sentence attention weights:
+0.01235107146203518,0.016316039487719536,0.018539095297455788,0.01408129557967186,0.015151232481002808,0.012947659939527512,0.015897419303655624,0.011632570065557957,0.012009778060019016,0.013658792711794376,0.013939663767814636,0.009540283121168613,0.009596011601388454,0.009097912348806858,0.00838304404169321,0.0066239675506949425,0.01090452540665865,0.01237485557794571,0.016702022403478622,0.009140185080468655,0.017435269430279732,0.010451004840433598,0.007378643378615379,0.006962716579437256,0.007506517693400383,0.015937069430947304,0.008998299017548561,0.014296349138021469,0.013367224484682083,0.012622885406017303,0.016856718808412552,0.009648039005696774,0.006170930806547403,0.016225242987275124,0.01457191538065672,0.016738494858145714,0.016372986137866974,0.017475418746471405,0.01674329675734043,0.016216842457652092,0.016790520399808884,0.00926271267235279,0.01758413203060627,0.016820237040519714,0.014817608520388603,0.009908684529364109,0.014458328485488892,0.010427321307361126,0.014967633411288261,0.006674734875559807,0.016245553269982338,0.012576203793287277,0.016039561480283737,0.012888571247458458,0.011415492743253708,0.013283440843224525,0.01640399917960167,0.015028942376375198,0.010672787204384804,0.013631099835038185,0.016329046338796616,0.016945848241448402,0.016012780368328094,0.009668747894465923,0.013836712576448917,0.01450273022055626,0.0063925087451934814,0.01253531500697136,0.011101730167865753,0.011014668270945549,0.014150906354188919,0.017620982602238655,0.008282710798084736,0.013365163467824459,0.015339706093072891,0.015193703584372997,0.0069458745419979095
+0.011799882166087627,0.015078624710440636,0.018722467124462128,0.01339593157172203,0.01395045779645443,0.012280444614589214,0.015156432054936886,0.01178207527846098,0.011679906398057938,0.012708740308880806,0.013471615500748158,0.009302327409386635,0.01091086957603693,0.010188079439103603,0.008778653107583523,0.006707740947604179,0.011079837568104267,0.013745514675974846,0.015567191876471043,0.009764719754457474,0.018567565828561783,0.011138270609080791,0.008792731910943985,0.008316884748637676,0.008362716063857079,0.015533563680946827,0.009153693914413452,0.014005091972649097,0.01337449811398983,0.012301228009164333,0.01718861423432827,0.009436619468033314,0.007640897762030363,0.015384361147880554,0.014130576513707638,0.01635589636862278,0.015536126680672169,0.018257377669215202,0.015584668144583702,0.015436843037605286,0.02157769724726677,0.009351612068712711,0.016936717554926872,0.0156417153775692,0.013306689448654652,0.00993877649307251,0.014184918254613876,0.01133135985583067,0.014144566841423512,0.006733048241585493,0.01504436694085598,0.012194335460662842,0.015388384461402893,0.01407612394541502,0.009739465080201626,0.012990104965865612,0.015311994589865208,0.01434408687055111,0.012033766135573387,0.012224799022078514,0.01505951676517725,0.018463432788848877,0.017624393105506897,0.009933537803590298,0.014011405408382416,0.013918195851147175,0.007835283875465393,0.014223015867173672,0.01187061332166195,0.01075666956603527,0.013909324072301388,0.017182210460305214,0.008305173367261887,0.012921222485601902,0.013953222893178463,0.015047240070998669,0.007921232841908932
+0.0104876309633255,0.014679993502795696,0.02160663530230522,0.013213549740612507,0.01594361662864685,0.012459506280720234,0.014228485524654388,0.010847250930964947,0.008887170813977718,0.012560423463582993,0.013430488295853138,0.008121613413095474,0.012383264489471912,0.004041405860334635,0.005052590277045965,0.006655485834926367,0.010963807813823223,0.024941958487033844,0.013804356567561626,0.006335514597594738,0.020935717970132828,0.01037085335701704,0.009650422260165215,0.0052272602915763855,0.006455301772803068,0.017155949026346207,0.008781868033111095,0.013836292549967766,0.013204976916313171,0.01115227211266756,0.017510227859020233,0.009487871080636978,0.0061401491984725,0.015148784965276718,0.013239378109574318,0.01564270630478859,0.01589048095047474,0.020496143028140068,0.015619199723005295,0.0154426796361804,0.026712970808148384,0.011411723680794239,0.018685098737478256,0.015634067356586456,0.01710636168718338,0.009634016081690788,0.012974722310900688,0.01091193687170744,0.014727616682648659,0.006471775937825441,0.014937588945031166,0.013493277132511139,0.01618693582713604,0.013499937951564789,0.010015053674578667,0.010115573182702065,0.015362586826086044,0.013784637674689293,0.010822243988513947,0.012474792078137398,0.01489199884235859,0.01126251183450222,0.017415743321180344,0.008639324456453323,0.014329181984066963,0.014948760159313679,0.007647371385246515,0.01655818335711956,0.013996279798448086,0.011550943367183208,0.01608111895620823,0.01775098405778408,0.00822444073855877,0.013645690865814686,0.014410916715860367,0.016509337350726128,0.005140991881489754
+0.012098188512027264,0.01596011035144329,0.01887020282447338,0.013921549543738365,0.015243880450725555,0.01290402002632618,0.015766097232699394,0.011710195802152157,0.01203122828155756,0.013420714065432549,0.01391045656055212,0.009515390731394291,0.00979459285736084,0.009424041025340557,0.008563796989619732,0.006815950386226177,0.010736849159002304,0.012495798990130424,0.01597953587770462,0.00923375878483057,0.017365513369441032,0.010855070315301418,0.007622831035405397,0.0073156170547008514,0.007712952792644501,0.01590273529291153,0.009058462455868721,0.014272813685238361,0.013430019840598106,0.012504569254815578,0.017050735652446747,0.009557113982737064,0.006567555945366621,0.016119299456477165,0.014420119114220142,0.016728475689888,0.016253139823675156,0.017282459884881973,0.01651669107377529,0.01608249731361866,0.018428226932883263,0.009317116811871529,0.01747334562242031,0.016586575657129288,0.013680875301361084,0.009787704795598984,0.014501749537885189,0.010600841604173183,0.014834705740213394,0.00653033284470439,0.01601191610097885,0.012641715817153454,0.01602352410554886,0.013378367759287357,0.011160457506775856,0.013281445950269699,0.016233114525675774,0.01491321437060833,0.01084235031157732,0.013422206975519657,0.016058331355452538,0.01682933419942856,0.016388826072216034,0.009605789557099342,0.01371194701641798,0.01439942978322506,0.006744068115949631,0.012727179564535618,0.01140130590647459,0.010847664438188076,0.01423568557947874,0.017641108483076096,0.008139446377754211,0.013288507238030434,0.015033199451863766,0.015271603129804134,0.00701175257563591
+0.010583827272057533,0.014547021128237247,0.020630881190299988,0.013106482103466988,0.01508184615522623,0.012392239645123482,0.014776837080717087,0.011435974389314651,0.009655014611780643,0.012619291432201862,0.01372345257550478,0.00810640212148428,0.01118615921586752,0.006668770685791969,0.006448065396398306,0.006861675530672073,0.010729805566370487,0.018128540366888046,0.014582107774913311,0.007450350094586611,0.019427670165896416,0.011376223526895046,0.010047690942883492,0.0064721498638391495,0.0072976090013980865,0.01624664105474949,0.00889377947896719,0.01379951648414135,0.0133059686049819,0.011361267417669296,0.017574576660990715,0.010127156041562557,0.007123222108930349,0.015270397067070007,0.013346191495656967,0.016191992908716202,0.015723811462521553,0.018888160586357117,0.01554879266768694,0.01529595535248518,0.028584260493516922,0.011121444404125214,0.017882011830806732,0.015575979836285114,0.014420387335121632,0.00942956656217575,0.013567456044256687,0.010688492096960545,0.014343958348035812,0.006507836747914553,0.014911995269358158,0.013128464110195637,0.015910064801573753,0.014539560303092003,0.00950524490326643,0.01153559796512127,0.015336238779127598,0.014441592618823051,0.011706591583788395,0.012538756243884563,0.014893336221575737,0.015267929062247276,0.019842611625790596,0.008630745112895966,0.013791965320706367,0.014325314201414585,0.007915058173239231,0.014926099218428135,0.013304406777024269,0.010864393785595894,0.014929542317986488,0.01715802401304245,0.00747885275632143,0.013283477164804935,0.014275279827415943,0.015615075826644897,0.005788890179246664
+0.012294483371078968,0.0162980780005455,0.0186404287815094,0.014098708517849445,0.015440600924193859,0.013057694770395756,0.015999002382159233,0.01171356812119484,0.012252064421772957,0.01367652602493763,0.014020557515323162,0.009601731784641743,0.009405545890331268,0.00955929048359394,0.008693046867847443,0.006774984300136566,0.01071130856871605,0.01175055094063282,0.016373591497540474,0.009279395453631878,0.01693732477724552,0.010688279755413532,0.007238378282636404,0.007153183221817017,0.007583057973533869,0.01590253785252571,0.009016886353492737,0.014326862059533596,0.013421973213553429,0.012642893940210342,0.01692642644047737,0.009618192911148071,0.006269792560487986,0.016338469460606575,0.014586646109819412,0.0168464258313179,0.01643049530684948,0.016938522458076477,0.016806166619062424,0.016262236982584,0.017008526250720024,0.00922279804944992,0.0175262950360775,0.016883043572306633,0.013870181515812874,0.009789302945137024,0.014608282595872879,0.010364930145442486,0.015002614818513393,0.006534933112561703,0.016319947317242622,0.01265607587993145,0.0161276888102293,0.013080457225441933,0.011569933034479618,0.01351892203092575,0.016502078622579575,0.015114180743694305,0.010555891320109367,0.013784699141979218,0.01638871803879738,0.016892405226826668,0.015999814495444298,0.009608493186533451,0.013642070814967155,0.014477593824267387,0.006392730865627527,0.012212567031383514,0.011090010404586792,0.01085713505744934,0.014163193292915821,0.01769879274070263,0.008129722438752651,0.01334664411842823,0.015366079285740852,0.015217848122119904,0.0068995151668787
+Questions:
+How is this compared to the Green toys teas set? Need to select the best tea set for a todler
+Can this pour real liquid out of the teapot?
+About  how much does the teapot hold?
+So many 5-star reviews, but all the 3-star reviews complain about the cups tipping.  Is this a real problem?
+does the lid stay on when pouring?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+"Our 4 year old daughter has owned 3 different tea sets in her short life.
+The first was a very cheap non-brand tea set from a local grocer.
+That lasted, oh, a week.
+The next was an environmentally friendly tea set which was great for everything except - tea.
+We had to ""pretend"" which was fine, but this tea set is food safe and has definitely increased the fun factor for her.
+She makes her own ""tea"" (lemonade) in the kitchen and then serves it while playing dress up.
+The pieces store in the box and are easy to clean."
+"My daughter (5) is quite the tea party buff.
+She has even been able to convince her two brothers to join her for tea parties and has thrown ""official"" tea parties for her friends.
+She was my official tester for this set.
+This set definitely has the cuteness factor you would expect in a tea set.
+It also food grade, meaning you can put drinks (like lemonade) in the cups, food on the plates, etc.
+This is important because some manufacturers are stupid enough to put tea sets on the market using materials that aren't food grade - so kids can't really use them!The set worked well.
+Don't overfill the teapot or it can leak, but this is still good for a ""party"".These are NOT dishwasher safe.
+Not a bad thing since clean up is a fun and important part of any tea party anyway (and washing dishes instead of just throwing them in the dishwasher should happen sometimes).
+They also should NOT have hot liquids or be placed in the microwave.
+Now, this isn't a bad thing since this set is recommended for kids as young as 3 and I can't see serving a 3 year old tea with boiling water.We didn't quite get the ""sunny patch"" design.
+It has cute butterfly designs and the teapot is kind of a flower, but for ""Sunny Patch"" we were thinking Mrs. Spider's Sunny Patch so we were kind of thrown off by that.Overall a really good tea set that a child can actually use (no BPA or PVC - THANK YOU!!!).
+Just be careful with it (no microwave, no dishwasher) and it should last a long time!"
+Right now my granddaughters are in love with theFancy Nancyseries and they especially likeFancy Nancy: Tea for TwoandFancy Nancy: Bonjour, Butterflyso this tea set fits right in with their Fancy Nancy passion...pink, fancy and butterflies!The girls also are avid cupcake makers, so because the plastic the set is made out of is okay for serving 'real' food, we have been putting together cupcake parties with the appropriate beverage in the tea pot which at the moment is lemonade!It is a fun set and and an easy way to slip in little lessons about eating etiquette and manners.The girls so far have played with the set daily so it has kept their interest.
+i was surprised at how much my 4yo daughter loves this tea set.
+we have theFisher-Price Laugh & Learn Say Please Tea Set, and theGreen Toys Tea Set, so i wasn't sure how much use she'd get out of this one.
+the fisher price set makes a water pouring sound and has fewer pieces, while the green toys tea set (made of food grade plastic like this one) seems to have a nicer feel since the plastic is slightly heavier with a matte finish instead of a smooth finish like the melissa and doug set.for whatever reason, this bella butterfly set is she the one uses most.
+she loves butterflies, and there's a butterfly motif on the creamer, sugar bowl and tea pot and the spoons also have small butterflies on the ends.
+also, i think she finds the fisher price set rather limiting, because sometimes she prefers to brew coffee vs tea, and she knows my coffee pot does not make that gurgling sound.
+the green toys tea set is too adult for her, because she says it's 'boring'.
+:)i love how this set is made of food grade plastic so i don't have to worry if she actually tries to drink water or milk from these cups.
+highly recommend!
+M&D is the best when it comes to making chemical friendly toys.
+In my opinion the few extra pennies are worth it and I tend to avoid the cheap no name plastic toys for young ones.
+They satisfy my needs and my little princesses.
+They love it because it is cute and it is PINK !!!.
+Yah for the pink cute and cudley tea pot.. just the lid alone won them over.
+Lot of intricate work and well designed.
+It is hard to find one flat plain surface.
+Well done and sturdy and has taken a lot of abuse.
+Some times kids tend to fill them up with sand .. after a simple rinse they look shiny and new.
+I dont suggest using this as a sand toy, but can take some rare abuse easily.
+This is a very lovely set.
+My favorite pieces are the saucers that look like leaves.
+The lids for the sugar bowl and teapot stay on very well.
+I like that this set includes no stickers to wash off or rub off.
+I also like that this set is safe to use with food.
+This is my daughter's second tea set.
+The teapot and cups are larger and prettier.
+Being a Fancy Nancy fan, my daughter was really happy to receive this tea set.
+I got this because I have several friends who have young children, and I always loved toy tea sets as a child.
+:)The particularly nice thing about this tea set is that it is food safe, and while I always put tea in mine anyway as a child, its nice to know that for the children I watch, this is actually safe to eat and drink in.
+My friend's children have put tea in them, it's pretty cool.
+The colors are fun and splashy, very girly, but all my friend's girls love pink and butterflies (go figure), so it's pretty much perfect.
+They love playing with it and having their very own tea set.
+It's a very pretty, safe, and durable set, perfect for young girls!God Bless ~Amy
+We have had several tea sets with our 3 year old daughter.
+The things that I like most about this set is that it's lightweight, seemingly durable, and it's cute.
+Our 3 year old can put this in her picnic satchel and carry the whole set around without struggling.
+She's taken a whack or two at the brick hearth and thus far, no shattering or breaking.
+She also really *really* likes that it's so pink - she says that means it's meant for a princess like her.
+I will also say that I like that it's not overwhelming in it's number of parts.
+There aren't a million spoons to lose, or lids for every single piece.
+Overall, it's a cute addition to her collection.
+Does you little girl like Sunny Patch?
+Well thanks to Melissa & Doug there is now the most adorable Tea Set featuring the Character Bella the Butterfly.
+It Comes with 17 pieces, a teapot with flower lid, creamer, sugar bowl flower lid, 4 cups, 4 saucers and 4 Bella Butterfly spoons.
+The entire tea set will hold water or other cold liquids so you and your little princess can have a real tea party.
+I absolutely love this tea set it's well made and functional.
+I would recommend it to everyone!
+Like all Melissa and Doug toys, this tea set is vividly colored, durable and designed to attract young kids for hours of play every day!
+My three year old daughter loves to create pretend meals in her mini kitchen set and spends a lot of time setting the perfect place setting for her dolls and us!
+When we opened up this tea set, she shrieked with joy (it also helps that she loves pink!)
+and began playing immediately.
+There is nothing cuter than a 3 year old girl sitting at her table ready for a fancy tea party!The set is very sturdy set that will last a long time - and because the plastic does not contain BPA, the set can even be used with real food!
+My little girl thinks this tea set is beautiful!
+The leaf saucers are a cute touch, and the yellow centers to the flower tops on the pots are fun.
+The butterfly theme is a usually a can't miss with young girls.
+I like that these can be used to serve real food, but I would definitely hand wash after use.
+This would make a cute gift for any little girl, and the price is perfect for a gift.
+Also, almost every mom and dad knows Melissa & Doug will be a high-quality product that will last for a long time.

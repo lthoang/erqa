@@ -1,0 +1,127 @@
+Top question(s):
+Can a 26-month old boy really build with these, or is that too young? I know the box says beginning age 3.
+Origin says "China"  So are they made in China or USA as description states?
+Top sentence(s):
+Your kids, obviously, won't care at all and will be fascinated by them from the time you get them out of the box.
+You'll be shocked at how FEW 100 pieces are.
+Like most parents, I think that all kids toys were better back when I was a kid.
+Once you get past the fact that these Tinker Toys are made of plastic, they are loads of fun.
+And for me that's the real magic of Tinker Toys--just seeing what happens.
+
+Question attention weights:
+0.6945321559906006,0.10320277512073517,0.11784277111291885,0.08442232757806778
+Sentence attention weights:
+0.012529365718364716,0.010322648100554943,0.01051311381161213,0.008866786025464535,0.009501449763774872,0.010652365162968636,0.009915411472320557,0.0042520067654550076,0.010131919756531715,0.009029659442603588,0.011577239260077477,0.008709294721484184,0.009665473364293575,0.011045210063457489,0.005520996637642384,0.01017699483782053,0.0056990948505699635,0.009993966668844223,0.006137800868600607,0.009480361826717854,0.008863703347742558,0.005928213708102703,0.012528598308563232,0.01848660223186016,0.0061151920817792416,0.006512381136417389,0.011417857371270657,0.011734666302800179,0.009736564010381699,0.00887366570532322,0.005355912260711193,0.01155572384595871,0.006369377952069044,0.011549309827387333,0.011332619935274124,0.010091952979564667,0.008960998617112637,0.010695827193558216,0.011600728146731853,0.010889551602303982,0.00743984105065465,0.007288795430213213,0.010770219378173351,0.010332395322620869,0.009740098379552364,0.00842378567904234,0.009552867151796818,0.010519396513700485,0.01130224671214819,0.010640997439622879,0.009380577132105827,0.007983027957379818,0.005277632270008326,0.010519396513700485,0.009163598529994488,0.00945532787591219,0.00916347187012434,0.00956474058330059,0.01129054743796587,0.009760099463164806,0.009420545771718025,0.004974740091711283,0.010405167005956173,0.009020242840051651,0.010159391909837723,0.009260252118110657,0.00967981293797493,0.009794039651751518,0.008659767918288708,0.010921820066869259,0.010236991569399834,0.008072512224316597,0.01023818738758564,0.010783819481730461,0.010559539310634136,0.0068359700962901115,0.010381286963820457,0.008092512376606464,0.010541388764977455,0.0112211424857378,0.011116222478449345,0.008278001099824905,0.013905503787100315,0.010541388764977455,0.01073696743696928,0.010923288762569427,0.010841797105967999,0.010329951532185078,0.009978809393942356,0.009618745185434818,0.009415468201041222,0.010683373548090458,0.008892584592103958,0.009689471684396267,0.010235091671347618,0.008297030813992023,0.010655381716787815,0.010277025401592255,0.010376324877142906,0.010357050225138664,0.010198814794421196,0.010272822342813015,0.006282390560954809,0.008947703056037426
+0.011290164664387703,0.010357360355556011,0.009528139606118202,0.009963570162653923,0.009526724927127361,0.009865767322480679,0.008971905335783958,0.005918480921536684,0.010023340582847595,0.008273142389953136,0.010708519257605076,0.007892663590610027,0.009927501901984215,0.010450344532728195,0.008508982136845589,0.010142053477466106,0.00692380778491497,0.009204130619764328,0.008437893353402615,0.008688149973750114,0.007928003557026386,0.007494280114769936,0.012215127237141132,0.014613800682127476,0.008458170108497143,0.008120949380099773,0.010849568992853165,0.012789852917194366,0.009204065427184105,0.009154343977570534,0.005503826308995485,0.010707241483032703,0.0059358952566981316,0.010955806821584702,0.010195638053119183,0.00971148069947958,0.009570954367518425,0.009931323118507862,0.011286484077572823,0.010667801834642887,0.009503859095275402,0.007540381047874689,0.013299137353897095,0.009776173159480095,0.010740400291979313,0.010222453624010086,0.008612715639173985,0.009599225595593452,0.010392728261649609,0.009809964336454868,0.010629082098603249,0.010605563409626484,0.006570633966475725,0.009599225595593452,0.009572355076670647,0.009626983664929867,0.008870821446180344,0.01014882605522871,0.010110769420862198,0.010179863311350346,0.008783887140452862,0.006503778975456953,0.00939264427870512,0.008905330672860146,0.010568300262093544,0.010835124179720879,0.010612417943775654,0.009828983806073666,0.009772693738341331,0.009416560642421246,0.009342689998447895,0.0077847763895988464,0.009507282637059689,0.009805088862776756,0.009688334539532661,0.0066557046957314014,0.009665439836680889,0.009366554208099842,0.00965107325464487,0.013217566534876823,0.01041160337626934,0.009312338195741177,0.013241862878203392,0.00965107325464487,0.009848841466009617,0.013364969752728939,0.010581555776298046,0.009692567400634289,0.009095365181565285,0.008650303818285465,0.008429918438196182,0.009759609587490559,0.00820478331297636,0.008949329145252705,0.009303743951022625,0.010071145370602608,0.009666514582931995,0.009544987231492996,0.009382808580994606,0.010060093365609646,0.01295532751828432,0.009494693949818611,0.007753036916255951,0.007960937917232513
+0.011188481003046036,0.010505502112209797,0.009471566416323185,0.01033041998744011,0.009698616340756416,0.009420719929039478,0.008986292406916618,0.006118171848356724,0.009944107383489609,0.0082869166508317,0.010221726261079311,0.0079420180991292,0.009691378101706505,0.01021567266434431,0.00936187244951725,0.01032112818211317,0.007375018671154976,0.009106021374464035,0.008217241615056992,0.008490355685353279,0.007850361987948418,0.007793888449668884,0.011530093848705292,0.014399987645447254,0.008272606879472733,0.009680825285613537,0.010737357661128044,0.011930226348340511,0.009415038861334324,0.008725963532924652,0.006811417173594236,0.011362356133759022,0.005996484775096178,0.011208350770175457,0.010236741043627262,0.009824014268815517,0.00916775967925787,0.009822663851082325,0.011620815843343735,0.00980415754020214,0.008546287193894386,0.007800724823027849,0.013323713093996048,0.009450547397136688,0.011350254528224468,0.009763694368302822,0.008707521483302116,0.009521457366645336,0.010213864035904408,0.009649577550590038,0.010246679186820984,0.011131645180284977,0.008228059858083725,0.009521457366645336,0.009484565816819668,0.010867180302739143,0.008750504814088345,0.009870016016066074,0.01018494088202715,0.01007886603474617,0.008833575993776321,0.006258110515773296,0.009359991177916527,0.009044920094311237,0.010963820852339268,0.010330192744731903,0.011050160974264145,0.00990376342087984,0.010116741061210632,0.009827747941017151,0.009422251023352146,0.008246486075222492,0.009426402859389782,0.009762226603925228,0.009569788351655006,0.007144580129534006,0.009658537805080414,0.009110121987760067,0.009577042423188686,0.013277040794491768,0.010139461606740952,0.009425582364201546,0.012554538436233997,0.009577042423188686,0.009734993800520897,0.01128961332142353,0.009794519282877445,0.009591175243258476,0.00875056628137827,0.008332539349794388,0.008202353492379189,0.009638363495469093,0.008086033165454865,0.008914176374673843,0.00956803746521473,0.011298388242721558,0.009631597436964512,0.009436960332095623,0.009135290049016476,0.010182356461882591,0.011979947797954082,0.009306982159614563,0.008320041000843048,0.008450036868453026
+0.011305083520710468,0.010479843243956566,0.009463266469538212,0.010047032497823238,0.009469585493206978,0.00980208721011877,0.00887309480458498,0.005845694802701473,0.010008049197494984,0.00816915463656187,0.010635909624397755,0.007685301825404167,0.009876853786408901,0.010446815751492977,0.008878215216100216,0.010185717605054379,0.006846449337899685,0.009154380299150944,0.008638240396976471,0.008525910787284374,0.007707271259278059,0.007511754520237446,0.012326802127063274,0.014450853690505028,0.008667759597301483,0.008376057259738445,0.010650885291397572,0.013033291324973106,0.00922310259193182,0.009194237180054188,0.005339520052075386,0.01066827867180109,0.005733527708798647,0.010993342846632004,0.010181799530982971,0.009676164016127586,0.009710959158837795,0.009915679693222046,0.011389056220650673,0.010698657482862473,0.00977020151913166,0.007447494193911552,0.013536455109715462,0.009743304923176765,0.01088701281696558,0.010504606179893017,0.008493021130561829,0.009544226340949535,0.010357307270169258,0.009780221618711948,0.010807615704834461,0.011001668870449066,0.006710920482873917,0.009544226340949535,0.00960471574217081,0.009552809409797192,0.008796791546046734,0.010076765902340412,0.010063824243843555,0.010246757417917252,0.008717618882656097,0.0065487949177622795,0.009318985044956207,0.00887761265039444,0.010629165917634964,0.010936695151031017,0.01066252589225769,0.009833334013819695,0.009874085895717144,0.009364745579659939,0.009261418133974075,0.00763019360601902,0.009464331902563572,0.009760400280356407,0.009632413275539875,0.006474760361015797,0.009628267958760262,0.009344786405563354,0.009603825397789478,0.013648035936057568,0.01041813287883997,0.00941862165927887,0.013229546137154102,0.009603825397789478,0.00980154238641262,0.013375449925661087,0.010534456931054592,0.009615974500775337,0.008949815295636654,0.008484967984259129,0.008254211395978928,0.00968413520604372,0.008069729432463646,0.008781752549111843,0.009279846213757992,0.010342773050069809,0.009608760476112366,0.009503116831183434,0.0092855803668499,0.010084889829158783,0.013011001981794834,0.009443056769669056,0.007940727286040783,0.007810456678271294
+Questions:
+Can a 26-month old boy really build with these, or is that too young? I know the box says beginning age 3.
+Can these be used with Superstructs sets?
+Origin says "China"  So are they made in China or USA as description states?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+Like most parents, I think that all kids toys were better back when I was a kid.
+(For the record, yes, I do remember my parents saying the same thing decades ago).
+This is one where I have to admit that my kids have it better.
+As much as I loved tinker toys, the new version of tinker toys is even better.
+The old wooden blocks are gone, and with them the inevitable splinters, and chipped and warped wood that happened as they aged.
+The new set is all plastic.
+The pieces go together very firmly, and yet my five year old had no problems pulling them apart either.
+They've also added flexible pieces, which add a whole new dimension to the toy.This set comes with some diagrams for making some fun basic shapes and designs.
+It's big enough to give kids some creativity to do some cool things, however 100 pieces is a lot smaller than it sounds.
+Kids will quickly run up against the size limit and want more pieces if they want to build anything big or fancy.
+If your kids have the building bug (or you think they will), this is a great starter toy, but be warned now, you may be back looking for more sets soon.
+The Tinkertoy 100 Piece Essentials Value Set by Tinker Toy is a great starter set but even more so, wonderful to add to a basic set allowing children to build anything their imagination can come up with.
+Made from sturdy plastic, there is no worry of splinters and it is quite durable.
+It comes in a nice box for storage, although the size of the box is deceiving for what is actually inside.
+The Tinkertoy pieces include a total of 100 rods, flags, end caps, connectors, spool, washers and more.
+There also is a colorful instruction booklet to get you started on 13 different models you can make and allows the child to see how each piece works.
+From there, the imagination takes over and the building begins in earnest.
+My 3 year old grandson has a small basic set at home and so loved this when I gave it to him.
+He started right in and was able to follow the samples on the direction sheets with just a little help.
+It makes an excellent, value packed complimentary set also if you have another set as well, like he did.
+Tinkertoys are a bit different from my childhood but basically the same, just improved and still as much fun and as popular as ever.
+I love that they promote creative problem solving as little ones try and build what is in their imagination!
+Once you get past the fact that these Tinker Toys are made of plastic, they are loads of fun.
+Your kids, obviously, won't care at all and will be fascinated by them from the time you get them out of the box.
+And, once you think about it objectively, these are actually more versatile than the traditional wooden Tinker Toys, so all things considered this is a good deal.This set comes with a helpful guide that shows you how to make several things: a building, and windmill, and a dog are the most recognizable.
+There's also a fun little thing whose function I'm still unable to determine, but which looks like fun anyway.
+But, let's face it, unless your kids are big enough to follow the directions themselves, they're mostly going to be just putting pieces together and seeing what they can make.
+And for me that's the real magic of Tinker Toys--just seeing what happens.
+It's a lot of fun watching my kids just be creative.
+And, I've got to confess, it's kind of fun building stuff myself, too.So these are definitely a great toy for the creative-minded.
+I started using these in therapy and the kids love them-- I of course, would like them to be wooden but truth be told, these can e washed and sterilized in a snap.
+Speaking of snap, these pieces go together really easily.
+This is a small amount with no moving parts so you'll want to use it to add to a set or buy another one to finish this.
+The box is rather big and I ended up transferring it to a smaller carry-all pack.
+I am one of those parents that think every kid should play with Tinker Toys at least once.
+Not only are they a lot of fun, but there is a lot of educational value in them.
+I'm a parent who gets a lot of toys that can help learn, as well as something fun to play with.
+Tinker toys also have been around for so long, you know it's one of those toys that you can't go wrong with.
+My husband and I both have fun playing with our daughter!
+These are the plastic tinker toys, not the traditional wooden ones.
+As a great toy, they have proven their worth for nearly a century.
+My only quibble is with the size of the box--it would easily hold three times as many pieces.
+Another way of looking at it:  these 100 pieces will easily fit into a sneaker/shoe box, or a two-gallon zip bag.
+As packaged, the toys are deceiving to the recipient.
+I would suggest that the paper with several construction ideas would be sturdier if the drawings were on  5 by 8 laminated cards attached to a ring, so the suggestions could last as long as the pieces.
+"This toy proves that it's hard to beat the classics.
+I know that in the old days, these used to be made of wood but now they are plastic and many people lament that.
+But I don't really see it as a bad thing.
+For one thing, the classic wooden sets are still available for the die-hard fans.
+They're just more expensive.
+But the advantages of the plastic ones are the sticks - some of them are bendy and that opens up so many possibilities.My son is 4 years old, almost 5, and he LOVES this.
+He has many other construction toys (Legos, K'Nex) but these so far are the best.
+He looks at the diagrams and builds these elaborate contraptions that spin and he's tickled pink by that.
+He proudly exclaims ""I made that all by myself!
+""Some of his creations are so-loved that he takes them to bed, just so he could have it with him.Most of the time he likes to use the diagrams but he also makes up his own machines.
+He's made rollers and a ""claw"" so this toy definitely fosters creativity.The only downside is I wish it came with more pieces!
+He usually has to dismantle his creation before creating a new one.
+I know it says 100 pieces, which seems like a lot but everything fits in a shoe box with plenty of room for more.
+Maybe I'll have to get a second set...That's definitely an indication that this is a hit."
+Tinker Toys were one of my favorite toys as a child and I was excited to give these to my 2 and 3 1/2-year old sons, hoping they would like them as much as I did.
+They do - though the 3 1/2 year old is much more interested in them than the 2 year old.
+They had a great time making the creations in the directions (with close adult supervision) and also had fun making their own creations (e.g.
+a lollipop).
+As someone who grew up with the wooden version of this toy, making the switch to plastic isn't easy (all of the pieces are colored plastic).
+I suppose an advantage of this is that the toys now come in many more shapes, including people that can have their hair, hat, etc.
+switched out - this wasn't a feature during my childhood days.I give this product five stars because of its educational value and durability.
+It fosters creativity and imagination.
+Even so, it seems a bit overpriced, especially given that it's just a lot of plastic parts.
+These are nice, but they have nothing on the old school wooden version.
+Despite that, I don't think there's a better intro building set out there.
+The colors are great, so many options in construction, and just right for little hands to work with.
+This is a good set for the stated age range, and likely a bit older.
+It's a big set, though it gets small quickly.
+Adding other sets would make even bigger fun.
+"I love TinkerToys!
+The snap in place and hold aspect really does work well without adding increased effort to manipulate.
+I love the bendy pieces.
+The age recommendation is 3 and up, but make certain to monitor young children while playing with this toy as it does have choking hazard sized pieces.
+The colors are fun.
+My older TinkerToys have ends that became brittle and chipped tiny pieces off the hollow ends.
+This set has solid end caps which seem much safer.
+I would have liked many more building design instructions, however I also appreciate the ""free play/creative building"" aspect of this toy.
+You'll be shocked at how FEW 100 pieces are.
+The pieces will fill up only 1/4 of the box.
+If you can afford it, I would recommend buying two sets unless these are for a very young child.
+The design ideas include; the letters A, B, C, windmill, flower/pinwheel, house, mouse, butterfly, croquet mallet, car, plane, and something that looks like a partial merry go round."
+"When you think Tinker Toy, you think of that neat vintage wooden building set that many of us had as children.
+However, you must note, this is plastic.
+It is heavy duty and it does build in the same manner as the old set, just note that it is plastic.
+My only disappointment was ""100 pieces"" and the size of the box.
+When you look at the size of the box, you think that 100 pieces is a lot, but it's not really.
+It's plenty as a starter set, but you will love it enough to buy more!
+I am ALL FOR kids building sets!"
+I rated Tinkertoy 100 piece essentials value set 4 stars because it is a good toy set.
+It comes with lots of pieces which you can use to create different models.
+My son however hardly uses it, he prefers his beloved Legos or KNEX over this brand.
+I wish he would play with it more but it seems to not interest him as much as I'd like.
+My 2 1/2 year old and my 9 year old have really enjoyed this set.
+My 9 year old likes making toys for her little sister and little sister likes playing with them and eventually dismantling them.
+I love seeing what my 9 year old's imagination has created with these.
+She's made a play sword, flowers, windmills, walking sticks, a dog with a leash and more.
+It's rare that I can find a toy set that both my kids enjoy, but this one fits the bill.
+And it's made in the USA to boot!
+This is a great starter set that I can see my family enjoying for years to come.

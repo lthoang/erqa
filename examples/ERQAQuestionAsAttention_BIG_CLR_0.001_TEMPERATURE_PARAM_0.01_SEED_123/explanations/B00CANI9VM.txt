@@ -1,0 +1,104 @@
+Top question(s):
+When I did the search though Amazon it says it is $18.74, when I click on it the price changes to $34.99
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+She's definitely not the kind of pony/girl you wanna mess with.
+Each doll has a slot at the back where wings can be attached (though not all dolls come with wings).
+In the stock image, she's wearing white boots.
+I was very favorably impressed.
+I said it.
+
+Question attention weights:
+0.3218179941177368,0.34407880902290344,0.33410316705703735
+Sentence attention weights:
+0.014101059176027775,0.008817903697490692,0.013401588425040245,0.014639381319284439,0.014805729500949383,0.02283429354429245,0.007099180016666651,0.010460948571562767,0.016898956149816513,0.007373430300503969,0.019469890743494034,0.011597019620239735,0.007417148910462856,0.011013776995241642,0.01195712760090828,0.004203213378787041,0.01517927460372448,0.012762143276631832,0.006055760197341442,0.01067932229489088,0.015398716554045677,0.006339320447295904,0.01334976777434349,0.013664068654179573,0.0063509526662528515,0.012571481987833977,0.014475495554506779,0.012043891474604607,0.013381339609622955,0.01045223232358694,0.01156946923583746,0.01715768687427044,0.010602305643260479,0.013402980752289295,0.016613183543086052,0.014714810997247696,0.01395387016236782,0.012529315426945686,0.005944391246885061,0.013323374092578888,0.016784317791461945,0.017193837091326714,0.014589183032512665,0.015801692381501198,0.008899134583771229,0.008172337897121906,0.005862780846655369,0.016467461362481117,0.017633073031902313,0.011897573247551918,0.008405482396483421,0.013109419494867325,0.015985742211341858,0.014096738770604134,0.013121851719915867,0.00977225974202156,0.011972215957939625,0.012435340322554111,0.00415147515013814,0.01377025805413723,0.013949171639978886,0.006388022098690271,0.01507500372827053,0.01192020159214735,0.015374273993074894,0.013211752288043499,0.014859660528600216,0.00847017765045166,0.009812484495341778,0.010637531988322735,0.017837436869740486,0.014347786083817482,0.006100186612457037,0.007786618545651436,0.007075359579175711,0.013699150644242764,0.009276928380131721,0.00459853932261467,0.012334410101175308,0.005178370513021946,0.008630798198282719,0.022342244163155556,0.012365907430648804
+0.014028048142790794,0.00882486067712307,0.013421781361103058,0.014496348798274994,0.014724938198924065,0.02257288619875908,0.007137504406273365,0.010675939731299877,0.016962088644504547,0.007406161166727543,0.01953802816569805,0.011651462875306606,0.007550257723778486,0.011054977774620056,0.012021987698972225,0.004232099745422602,0.015215245075523853,0.012808706611394882,0.006010799203068018,0.010915341787040234,0.015456916764378548,0.00646169763058424,0.01289059966802597,0.013743790797889233,0.006290241610258818,0.012429582886397839,0.014313919469714165,0.012196501716971397,0.013314932584762573,0.010509456507861614,0.011608486995100975,0.017182480543851852,0.010681010782718658,0.01329740695655346,0.016375649720430374,0.014730241149663925,0.014107659459114075,0.012525512836873531,0.005969601683318615,0.013446328230202198,0.016722185537219048,0.01701272279024124,0.01436419878154993,0.015752067789435387,0.008944018743932247,0.008280839771032333,0.005827744957059622,0.016512079164385796,0.017667831853032112,0.01183533575385809,0.008272248320281506,0.012867781333625317,0.015685364603996277,0.013969984836876392,0.01297028549015522,0.009928599931299686,0.011923185549676418,0.012594996951520443,0.00411208113655448,0.01375111285597086,0.014059511013329029,0.006514126900583506,0.015118609182536602,0.011964259669184685,0.015350397676229477,0.013370707631111145,0.014882886782288551,0.00856812484562397,0.009912459179759026,0.01052157860249281,0.017852123826742172,0.014444021508097649,0.00605553574860096,0.008021557703614235,0.006876842118799686,0.013855570927262306,0.00936946365982294,0.004591476172208786,0.012332609854638577,0.00526574719697237,0.008517788723111153,0.022346846759319305,0.01243166346102953
+0.014075646176934242,0.008890216238796711,0.013831177726387978,0.01415969617664814,0.014862988144159317,0.022737285122275352,0.007067006081342697,0.010223278775811195,0.017547301948070526,0.007393509149551392,0.0192636139690876,0.01187574677169323,0.0073274876922369,0.010805205442011356,0.011820372194051743,0.0041379560716450214,0.015285652130842209,0.012403205968439579,0.006260972935706377,0.010820942930877209,0.015518411062657833,0.006495663896203041,0.013433095999062061,0.013795849867165089,0.006176696624606848,0.012801186181604862,0.01415683887898922,0.012369117699563503,0.013086735270917416,0.010440642945468426,0.011656086891889572,0.017411815002560616,0.010724090971052647,0.013739707879722118,0.01699494943022728,0.014901665039360523,0.014083021320402622,0.01252641249448061,0.005702417343854904,0.01429508626461029,0.01722853071987629,0.017332160845398903,0.014825059100985527,0.015757083892822266,0.008914205245673656,0.007777007296681404,0.0060205645859241486,0.016586704179644585,0.017774255946278572,0.011544955894351006,0.007629348896443844,0.013595239259302616,0.015675392001867294,0.014155086129903793,0.012945200316607952,0.009713876992464066,0.011469532735645771,0.012448394671082497,0.003826227504760027,0.01338088046759367,0.013946103863418102,0.0062402598559856415,0.015165872871875763,0.012011713348329067,0.015460395254194736,0.013137945905327797,0.014797747135162354,0.008268389850854874,0.009686309844255447,0.01034090667963028,0.018055738881230354,0.014038555324077606,0.0054985275492072105,0.007813339121639729,0.006492657586932182,0.013830265961587429,0.008972687646746635,0.004574774764478207,0.012414113618433475,0.005107451230287552,0.00826973095536232,0.02307935804128647,0.013098686933517456
+Questions:
+What is the height of the Equestria Girl dolls?
+When I did the search though Amazon it says it is $18.74, when I click on it the price changes to $34.99
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+When I first saw pictures of the Equestria Girls, I knew my daughter was going to love them.
+You gotta admit, the whole Equestria Girl thing is a cool take on the ponies.
+For any kids into 'different' dolls like Monster High, these girls will fit in with that crowd perfectly.
+At the moment, this is the only Sunset Shimmer Equestria Girl doll, though there could be another one somewhere down the road.Both dolls look great!
+Sunset Shimmer stands out a little bit more with her colors and leather jacket.
+She's definitely not the kind of pony/girl you wanna mess with.
+I haven't seen the Equestria Girls movie, but based on the images I've seen, she looks very close to her animated counterpart.
+The paint on the eyes and mouth is very well done, and the hair looks terrific.
+Her whole outfit is a winner as well.
+One thing worth mentioning though is that the actual product looks different from the stock image above.
+In the stock image, she's wearing white boots.
+The final product has red/orange boots instead.
+Also worth bringing up is that she has two different colored legs: the left is yellow and the right is orange with a flame design on it.
+Twilight Sparkle ain't too shabby either with equally good looking paint work on the face.
+They did a great job rooting the hair pink and purple, and the details on her dress are beautiful.
+You gotta love the clear wings she has too!Articulation-wise, the girls are pretty basic with shoulder, neck and upper-leg articulation.
+My 7 and 6 year old daughters were so excited to see these and I lucked out when they each wanted a different one.
+First of all, they did argue about which accessory went to which girl since some of them were in the middle of the packaging not really being for one or the other.
+The earrings fall off really easy, I wish that MLP would have permanently affixed those.
+We already can't find one of the dangly earrings.
+I do like the clothes that come with them, very stylish.
+They are very lightweight but don't feel terribly fragile (no missing limbs yet, which is a constant problem with our Monster High dolls).
+I have to admit I wasn't crazy about them since I grew up with the original MLP and my girls have a case full of the 'normal' ponies.
+But, it is something different that the girls have been enjoying.
+Human-horse hybrid dolls are weird and raise a lot of strange questions I'd just rather not think about, but my daughters think they're cool.They may be cool in the eyes if the elementary school set, but they're also extremely breakable.
+Within days, these dolls were decimated.
+Not just destroyed, but so absolutely decimated that I couldn't even begin to glue them back together.
+Heads not just popped off, but cracked off.
+Arms that couldn't be reattached.
+Missing shoes that meant the dolls were completely footless.It's not like I ran them over with my car or anything.
+My daughters played with them in the same fashion they've played with their Barbies and the like.
+We've had dollar-store dolls that held up better.
+These are just flat-out poorly made.
+I must admit I was upset when I saw that My Little Pony a staple for all the little girls I have know over the past 30 years was changing their ponies.
+I always loved My Little Pony and didn't think they needed a makeover but girls seem to love them.My daughter loved these dolls and quickly put them onto her doll shelf.
+She thinks they are beautiful.
+They have a lot of accessories in the package which my little one loved.
+She loves playing with them with her Monster High Collection and played with them as horses turned into girls which I guess they are.We love the colors.
+They are so vivid and the hair and faces are detailed and beautiful.While I am still not sold on the change, I can't fight the fact that my daughter got two of these already for her classmates birthday parties presents and they all love them!
+What little girl who likes MLP wouldn't like these dolls that twist the traditional pony toy into a fashion doll.
+We've seen the movie several times and it's alright but I have to admit this all feels like a marketing ploy.
+Yay, more MLP toys my daughter has to have.
+*sarcasm*Before we got these dolls I was totally okay with it but the cuteness wore off as soon as my daughter pulled off Twilight's boots.
+They have no feet!!!
+Just ball joints at the end of the leg so they can be jammed into those clunky boots.
+Then I realized that they all have that weird small section of extra long hair instead of a tail.
+Why include it at all?As cute as the dolls are--and they really have a cosplay-sequel charm to them--I feel like this was some kind of attempt by Hasbro to compete with the hugely popular Monster High dolls from Mattel.
+There.
+I said it.
+It just doesn't feel like the MLP my daughter and I have both become so fond of.
+"Vine review.I should say I'm not a MLP or ""girl targeted"" toy fan, but I've spent enough of my life playing with toys to have realistic expectations for mass produced toys.
+I should also note that I'm very aware MLP has been adopted by many male fans, which is fine, but the adult fans are generally leaving toys in box or on display so I'm targeting this for the line's younger fans.You get two decent horse girls in this based on the MLP spinoff movie.
+I wonder where the real Equestria Girls Twilight is since the one they meet is a transformed pony.
+Anyway!Fun-3- Kids should have as much fun with this as Monster High & Barbie; no more or less.
+I think the toys could easily have more joints for play, but it seems boy toys usually get articulation more than girl ones.
+There's some play here and most girls into the toys should like them.Education-1-Learn to comb hair!
+Learn trivial (technically) knowledge!
+Little beyond the basics stuff all toys teach you.
+I think we're aware there's not loads of knowledge from these toys.Durability-2- Their hair comes out with the brush so it will get thinner if you're in the target age group.
+The dolls don't seem like they will be as solidly built in a year or two.
+The clothing is pretty cheap.
+Again this is a side effect of mass production and careful owners should get more mileage by far.Overall-3-Dolls like this are not great at all and just provide limited fun.
+I'd suggest something else.
+I believe children would want more classic ponies and adults should be getting the vinyl line before these."
+Die-hard My Little Pony fans are maybe not so happy about this Barbie like divergence of the series.
+But the little girls who watched the movie absolutely love them.
+And other little girls who just like pretty little dolls will also love them.These are very well made little figures with lovely hair and shoes that don't seem to come off.
+As one who has tried to find doll shoes many, many times, this is a definite plus.
+There does not seem to be the focus on changing clothing but rather on enjoying a pretty little doll.
+The quality of the painting and finishing is very good on these dolls.
+I was very favorably impressed.
+My Little Pony Equestria Girls Dolls are adorable dolls based on the My Little Pony Movie.
+The Equestria Girls Sunset Shimmer and Twilight Sparkle two pack comes with lots of little accessories and stickers.My 6 year old daughter was off the wall excited to get these however unlike some of the other competitor dolls, the My Little Pony Equestria Girls are not really made well enough to play with.
+Sunset Shimmer lost her leg just walking around and with gentle hair brushing the hair on both dolls, it got extremely nappy, and ratted and began to fall out.
+This all happened in less than a day.On the positive side these dolls are mirror images of their DVD characters and if you're a My Little Pony enthusiast/collector or even a doll collector these would be very cute dolls to add to your collection.
+I just wouldn't recommend them for young children because even if they play nice, they might not last.
+The Equestria Girls dolls come in two version:  Deluxe and normal.
+The normal dolls do not have articulation and their hands/legs don't bend.
+They wear the outfits that the girls wore through much of the movie.
+The Deluxe versions, however, are much more posable and wear outfits from the dance at the end of the movie.
+My 10 year old liked the deluxe versions more because they can sit better and had more hair.The dolls are about Bratz sized - and like the Bratz dolls, the shoes pop off at the ankle and there are no feet.
+Each doll has a slot at the back where wings can be attached (though not all dolls come with wings).
+They all have the same mold, though painted differently and with different hair.Note that the hair does get ratty easy in the back, and that's why I rate this 4 out of 5 stars.

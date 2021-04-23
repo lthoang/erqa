@@ -1,0 +1,235 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+I think it may be user error though.
+It was a total no-go.
+I am really impressed.
+This came in very handy for me at Christmas time because wrapping is such a chore.
+I just finished using this for the first time to wrap all my Christmas presents -- and I love it!
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.004569449927657843,0.006591275800019503,0.0030197377782315016,0.0028523895889520645,0.004642676096409559,0.0036927396431565285,0.004397119395434856,0.004716925788670778,0.0029808995313942432,0.003618742572143674,0.005390527192503214,0.006125659216195345,0.005970114842057228,0.006510409060865641,0.005772641394287348,0.004739793948829174,0.0031627195421606302,0.004901737440377474,0.006070418749004602,0.00513200368732214,0.006087370216846466,0.0030687828548252583,0.005197592545300722,0.0033402089029550552,0.006562219001352787,0.006089287344366312,0.0030029367189854383,0.004077552817761898,0.004508513025939465,0.0038814968429505825,0.005774789489805698,0.0051235780119895935,0.00303285731934011,0.0029679175931960344,0.004044802859425545,0.0049360813573002815,0.0026548064779490232,0.0047576529905200005,0.0028626734856516123,0.005843623541295528,0.006358269602060318,0.004975492600351572,0.0021216454915702343,0.004943445790559053,0.0038276754785329103,0.004217491485178471,0.0053705754689872265,0.005104934796690941,0.005133264698088169,0.005853553302586079,0.0027551117818802595,0.002821654314175248,0.003532630391418934,0.004400741308927536,0.0033284963574260473,0.0017938079545274377,0.005381367169320583,0.006234251894056797,0.003867242718115449,0.005330188199877739,0.005925777368247509,0.005248654633760452,0.002569726202636957,0.004122632090002298,0.005759530700743198,0.003833136521279812,0.0047291358932852745,0.0028430516831576824,0.004859629552811384,0.0034155037719756365,0.0062659261748194695,0.0062547288835048676,0.0039000834804028273,0.004222997464239597,0.00549874734133482,0.006027888972312212,0.0022678212262690067,0.003543923841789365,0.005971919279545546,0.003095141611993313,0.004409073386341333,0.0032717417925596237,0.005810952745378017,0.0034042696934193373,0.0035682341549545527,0.002621882827952504,0.003007091348990798,0.003232889110222459,0.005454299505800009,0.006025091279298067,0.002220763126388192,0.006238595582544804,0.004566617775708437,0.005085746757686138,0.005898553878068924,0.005898349452763796,0.0048172022216022015,0.003986855037510395,0.003738383762538433,0.0033589547965675592,0.005580343771725893,0.004147638566792011,0.003542097518220544,0.006413628812879324,0.003738861298188567,0.002844064263626933,0.002734893700107932,0.003998329862952232,0.006785303819924593,0.005806272849440575,0.005345454905182123,0.0023690846282988787,0.003402846399694681,0.0062774247489869595,0.005593390669673681,0.003853921312838793,0.004354105796664953,0.005971674807369709,0.0033603257033973932,0.0040209912694990635,0.006823722273111343,0.004073295276612043,0.003280072705820203,0.005144626833498478,0.0024004329461604357,0.0029287030920386314,0.005201761145144701,0.004934464115649462,0.0061989291571080685,0.003119483357295394,0.0030435030348598957,0.00670192576944828,0.004370369017124176,0.003796645672991872,0.0036989464424550533,0.0028831614181399345,0.004927174188196659,0.0016630811151117086,0.005594323389232159,0.0026128790341317654,0.002300373511388898,0.0036600911989808083,0.0028983925003558397,0.0043752617202699184,0.002889737021178007,0.005945432465523481,0.0027313672471791506,0.005910163279622793,0.00204349122941494,0.003664332441985607,0.005936875008046627,0.005773413926362991,0.00673198327422142,0.006202444899827242,0.005840854719281197,0.0059033469296991825,0.0020689652301371098,0.00559765612706542,0.0021903947927057743,0.004612192511558533,0.0028031859546899796,0.0060196020640432835,0.005694854073226452,0.0024295970797538757,0.0027273381128907204,0.00616869330406189,0.004978484474122524,0.0042563374154269695,0.0024128055665642023,0.005961410701274872,0.006068598013371229,0.006419576238840818,0.004730472341179848,0.004234605468809605,0.005842792801558971,0.005813164170831442,0.005274152383208275,0.0041132341139018536,0.005921453703194857,0.00745302764698863,0.006037157494574785,0.005010937340557575,0.0056256637908518314,0.004666438791900873,0.002966104308143258,0.005487621296197176,0.004816971719264984,0.005005397368222475,0.0043192231096327305,0.0032857065089046955,0.003817972494289279,0.0028818100690841675,0.00646943086758256,0.006013390142470598,0.00607824744656682,0.0050215753726661205,0.005230151116847992,0.006277582608163357,0.0026736112777143717,0.006452276837080717,0.0042603714391589165,0.006172667257487774,0.006480800919234753,0.003615743713453412,0.004520413000136614,0.006234223488718271,0.004350616596639156,0.0062833814881742,0.006895306520164013,0.003747443901374936,0.005520957987755537,0.00580148259177804,0.004801249597221613,0.005906639155000448,0.006756275426596403,0.002492098603397608,0.005180112086236477,0.0038151200860738754,0.001893483567982912
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+Wrapping presents is always a bit of a pain, and I thought that anything that makes it easier is well worth the cost.
+Well, for the most part I did not find this tool very helpful.
+Basically, it's a cutting blade on the end of a stick, which you slide along the paper, theoretically cutting in quick and easy manner.As for me, I was not completely impressed with the results.
+Often the paper cut just a quickly and neatly as the commercials show, but sometimes something went wrong and the paper bunched and tore.
+I suspect that my problem was that (unlike in the commercials) I was cutting on a non-firm surface (a bed, to be exact), and the paper was thin rather than being thick and firm.So, under the right circumstances this does cut very well and quickly, but under the wrong circumstances it does not cut as well as does a pair of scissors.
+(Review of Scotch Gift Wrap Cutter)
+"I really like that this has a thin foot that goes between the paper and the package.
+It helps to keep the paper raised off the present and any shrink wrap.
+You can cut the wrapping paper more exact and that makes for a nicer, neater looking wrapped package.
+The blade is completely hidden.
+You can't cut your finger if you try.
+I can even let my three year old ""help"" me without worry.
+I wish I'd found this tool years ago."
+I got this tool to help Christmas wrapping go a little faster.
+It works pretty well.
+It cuts across the paper fast, if the paper has no creases.
+If the paper is creased at all, it can cause it to tear.This tool can't completely replace scissors as it does not work will for trimming excess from the edges.
+But over all, a good, sharp tool to use.
+I am glad I picked up this product.
+It is 7:00 PM on December 24, 2009 and I just finished wrapping 30 presents for family and friends.
+I clocked in under 2 hours and I have no doubt that this little $7 tool helped immensely.
+It is very easy to use and unlike scissors it did not ONCE get caught causing the wrapping paper to tear.
+It made every cut very fast and easy, whether it was trimming down the ends as happens on either side during wrapping, or cutting it right off the roll.
+My presents look better, and I for once don't have any paper cuts.
+I used less wrapping paper as well.
+To begin, it cuts like butter.
+There is an exacto-knife type blade that is covered by plastic.
+I think it is probably easier than scissors for straight cuts on wrapping paper.
+It might be good to cut things out of the newspaper, though I am used to using scissors.
+However, I probably would not recommend it for that just based on the packaging saying that it is good for wrapping paper.
+Overall, I think this is a good product for what it is recommended for, though I personally have completely moved away from wrapping paper and into reusable bags.
+I got this for the holidays - in the hopes that it would speed up that dreaded chore: wrapping.
+And it did, as long as I was prepared.If you have an uncluttered table or flat surface that you can lay your paper out on, then great - this baby slices faster, easier, and straighter than scissors.
+BUT, if you're balancing the gift on your lap, while you're watching TV & folding laundry to boot, and you're trying to hold an unwieldy paper roll and just lop off a piece to wrap with - scissors are better.
+At my house, the former is the best possible scenario and the latter is much more likely.Another thing I don't love is that this is yet another disposable product.
+I don't see it lasting nearly as long as a good pair of scissors (surely the blade will dull soon), and I don't like the thought of just tossing it out (& buying a new one).
+In these times, when using wrapping paper anyway is starting to make me uncomfortable, and I am trying to think of alternative materials to 'wrap' in, I don't like the idea of buying yet another disposable product.But, bottom line is that it works as advertised.
+Cutting wrapping paper with a scissors is generally an annoying process.
+You can either go cut cut cut along the full width, or try to get that perfect angle where the scissors glides and cuts across the paper .
+.
+.
+until it doesn't.
+And then the paper sort of jams up and tears between the scissors blades.
+Well, cry no more tears over ruined wrapping paper, the Scotch gift wrap cutter is the right tool for the job.
+It slices across the paper with no snags.
+Works perfectly and cuts cleanly.
+If you're going to be wrapping a lot of gifts, you'll want one of these in your hand.
+If you are wrapping a large package and have a large flat work space, the cutter speeds up the process.
+For a small job, small work area, or curvy cutting, stick to scissors.
+It's truly amazing how something so simple can be so great.
+This product performs the tasks of scissors with the ease of an X-acto knife.
+However, unlike the X-acto knife, you really don't have to worry about cutting a finger or any other major safety concern.
+The general uses of this product are to cut wrapping paper, coupons, and magazine pages for recipes or cataloging.
+In essence, anything that is paper, and doesn't require great precision this product is excellent for you.
+If you need more precision than a sloppy straight line, you're better off using scissors.
+I did want to see what else I could use this product on, so here are my results...Parchment paper = works excellent if you don't mind waxy build up on the blade.Fabric = Um, no unless you like your fabric with a fine snagged look.Kitchen foil = It works, but you have to imagine that this increases the rate that the blade dulls.Document envelope opener = ExcellentIn summation, this product can't really equate to the usefulness of scissors.
+However, if you're really into crafts and/or a lot of gift giving.
+Then this little tool will be perfect for your craft tackle box.
+I did a lot of wrapping this past Christmas season and before I got the Scotch Gift Wrap Cutter, I often had a hard time cutting the paper straight and often got those jagged cuts with the scissors would trip up.
+So I was excited to try the Scotch Gift Wrap Cutter to see if it would help me out.
+I found that I really liked the product.
+The concept is pretty easy-hook the paper in and start cutting away.
+My one dislike about the product was that I found it hard at times to get the paper into the cutter, which resulted in a little bit of bunching at the bottom of the paper where I was tugging the paper into the cutter.
+But once I got the paper in, it was really easy to cut the paper.
+I also found it easy to stay straight with the cutter than when I cut wrapping paper with scissors.So this product may not work for everybody but I found it to be a great new way to cut wrapping paper and I plan on using it in the future for birthday's and next Christmas.
+If you know how to use a pair of sharp scissors, then you don't need this.
+However, if you have kids who want to help and you aren't too crazy about them using your super sharp scissors, then you need this.
+The blade is sharp, and you can easily cut wrapping paper with this as long as you have the piece of paper flat and tight.
+It does help make cutting wrapping paper faster, but you can do the same thing with a scissor.The one plus with this is that if you have little kids, they can help you and you don't even need to supervise them.
+I let my nephew help me out while wrapping gifts and he was loving slicing paper with this.
+He didn't do it as well as the commercials make you think you can with ease, but I didn't have to worry about him cutting a finger.It's a good product, and like some reviewers here have mentioned, it would be an even better deal if you got more than just one for your money.
+This is a reasonably good paper cutter.
+It's sold as a gift wrap cutter but it works fine on any mid to low weight paper.
+It's not really any better than cutting with scissors, but if you are cutting around small children it's a lot safer: I can't see how a kid could cut themselves with it.
+Other than that there's no particular reason to swap our your scissors for this.
+I didn't get this in time for Christmas wrapping, so I didn't get a chance to use it to the extreme that I wanted to really test it.
+However, I did eventually test if for wrapping some birthday presents in January and February.Now normally I use a pair of electric scissors for wrapping my gifts, because they zip right through any wrapping paper that I use.
+Electric scissors are much more expensive then the Scotch Gift Wrap Cutter, but I do think this little gadget does quite a good job for the price.
+It did kink up a couple of times.
+The razor is very sharp, and it will zip through the wrapping paper as long as it is held straight out.
+Where the electric scissors with just zip through everything.
+If you don't want to spend money on electric scissors, then I would suggest this item for faster wrapping.
+I LOVE this little thing!
+It's super sharp - it cuts like a hot knife through butter.
+And you can use it one handed, which is absolutely crucial when wrapping gifts.
+I've used it heavily over the past two months and there is no sign of the blade dulling, paper hangups, or anything like that.
+I love that you can turn this thing on a dime when cutting, which is unlike using a cumbersome pair of scissors.
+You can get pinpoint accuracy trimming paper, and you can even use it to cut shapes for decoration.
+I really don't know why anyone would use scissors after using this thing - just get it!
+Love this little gadget!
+Much more convenient than my clunky scissors and zips through wrapping paper like a hot knife through butter.
+It made wrapping presents this holiday season much easier, and thus, more enjoyable.
+Recommended.
+My biggest problem when it comes to wrapping gifts is that I never seem to cut straight.
+I try and try, but something is always a bit crooked!
+Well, I have that problem no more!
+The Scotch Gift Wrap Cutter makes my cutting lines much straighter!
+It comes in an easy to open package and is ready to use instantly.
+The cutting edge is hidden away, making this safe for those kids who want to help you wrap.
+The  blade, for that reason, is not replaceable, but should last quite a while.
+For those who like to curl ribbon, it also has a ribbon curler attached.
+I love this little wrapping device and recommend it.
+"I know you've seen this item in the store and said to yourself, ""why do I need this two dollar gadget when I have a perfectly good pair of scissors at home?""
+I thought the very same thing, until I actually used the Scotch Gift Wrap Cutter.
+It's basically a little scalpel blade tucked into a plastic arm shaped like a razor blade handle.
+The blade is tucked enough away that your fingers and little kids fingers will not accidentally get cut.To use you simply hold the wrapping paper, tuck the paper into the arm, and push forward.
+Simple, clean, and as straight as your arm and eye will allow.
+Works on both big sheets of paper and small sheets of paper.
+This came in very handy for me at Christmas time because wrapping is such a chore.
+And since I have no patience, my cuts with scissors are usually jagged and crooked.
+One quick swoop with this little gadget and you're done.Only two downsides I see, but they do not deter from the quality, ease, and usefulness of this product.
+One is that at some point, the blade will probably dull, but the replacement price for this is far cheaper than scissors.
+The second is that if you've already folded the wrapping paper once or twice and then need to cut, it doesn't do two layers very well."
+This cutter makes gift wrapping quicker and easier.It's inexpensive and a great little utensil around the holidays.Making seasonal gift wrapping faster and more efficient.
+It also cuts a neater line then regular scissors.This is a must have especially when wrapping a large amount of gifts.
+This is definitely better than scissors in cutting wrapping paper.
+It is also great that the blade in protected and even little kids can use this without fear of injury.
+Love it!
+Not that I watch that much TV - and I am SO JADED about the claims about products - believe me!
+However, this product works EXACTLY as they show on the commercial.
+I am really impressed.
+The blade is wicked sharp - but totally hidden.
+Although I would not suggest leaving it around for the toddlers - this is an adult tool.It zips right through the thickest of paper - we tested it on thick notebook paper.
+The line is clean and sharp and no dreaded jagged wreck of the edges.
+I LOVE IT!AND - it has this cool bonus feature that they don't show you in the commercial - IT HAS A BUILT IN RIBBON CURLER that works so well, it will curl strips of paper!
+And it doesn't dull the blade - because it is tucked into the ergonomic handle of the cutter.
+VERY COOL!
+!I am a big fan of this tool.
+If you have kids - and 8 billion parties and grab bags to participate in you will want to buy several of these.
+This is the kind of tool that if it goes missing - it is going to make you nuts, like when you can't find the remote control for the tv - that kind of nuts.One other thing I noticed, when I took it out of the packaging - and it comes in the new hassle free packaging - it pops right out - I worried that it was too petite for my giant man hands (Seinfeld) but it felt ok, I didn't snap it and it plenty sturdy enough for MAN HANDS!
+LOLSo buy a few of them - they work GREAT - and sequester them in the place where you hide your favorite dark chocolates ;-)
+"The Scotch Gift Wrap Cutter is a simple solution for cutting wrapping paper.
+It does exactly what a pair of scissors does: Cut wrapping paper.
+But it does it with a smaller device and no exposed blade.
+We wrapped gifts this Christmas with my 1-year-old daughter.
+We were constantly watching her, because the second we turned our back she'd have the scissors.
+That's not a concern with this device.
+The blade is hidden, and it it sharp enough that once we have never had a single tear in the paper  during the 30 or so gifts that were wrapped using it.
+It cuts well on both plain and textured wrapping paper.I do have to warn users, don't use it for anything other than wrapping paper, especially if it has tape on it.
+I used it as a package opener once and it got gummed up and wouldn't cut well until I cleaned it and ran a few ""cleaning cuts"" across paper to get the gummy out of it.
+And to cut thicker paper (like as a letter opener), it goes slow, tears, and seemed to be getting dull.So, as a gift wrap cutter, I don't know how this device could be improved."
+I've had other hand-held paper cutters with a hidden blade like this one, but this one works much better than those others did.
+The great things about this Scotch Brand cutter are:* Ergonomic long handled shape fits easily in your hand.
+It is then positioned in just the right angle for easy cutting without having to contort your wrist.
+* Cuts gift wrap like a hot knife through butter, but also cuts copy paper, newspaper... any paper you have except card-stock which would be too thick.
+This thing can be used for much more than gift wrapping.
+* Has a ribbon curler built in the handle, though I can't see myself using it because I don't curl much ribbon.
+But if I ever needed to - there it is.
+* Blade is not exposed so you won't ever cut yourself, and your curious kids can't cut themselves.There are some limitations, because it only cuts in straight lines.
+Try to make a curve and it gives you a rough edge.
+This is where scissors would be a better choice.
+But overall I think I am keeping this in the front of my utility drawer.
+I think it is going to come in very handy for lots of small cutting jobs.
+I love Christmas.
+I absolutely love it!
+I ordinarily love wrapping gifts -- it can be fun.
+However, when even the happiest of circumstances require that I wrap dozens upon dozens upon dozens of gifts, I am grateful for anything to make the job easier.The Scotch Gift Wrap Cutter does just what it is supposed to do, and is fabulously more convenient than using scissors.
+When I have that many packages to wrap, this little but amazingly useful tool is absolutely miraculous!
+I was really excited to try this product because I always seem to have a fit with scissors and wrapping paper--yes, even using sharp scissors.
+And at first I was thrilled--it seemed to glide through the paper like a hot knife through butter...but the more I used it (on various quality and types of papers), it had times when it jammed the paper, so it's not always perfect.
+I think it would be a handy thing to have on hand so you can try it with certain rolls of paper you have, but I would still have scissors ready just in case.
+My method for making a straight cut in gift wrap is to fold, and then to cut at the fold with a knife.
+This cutter is no more efficient than that method, and with a roll of gift wrap which won't stay unwrapped straight cutting is so easy.
+With the recessed blade, I do acknowledge this cutter may be somewhat safer than using a knife or scissors.What this cutter is ideal for: cutting out news articles, coupons and recipes, since the user can use the cutter to start from anywhere on the page.
+I would recommend purchasing this cutter and keeping it by your reading chair for this purpose.
+Great idea, but not really very practical.
+It cuts great after you get it lined up perfectly, but if you don't, it just snags the paper.
+It takes more time to get it into a position that will make it cut smoothly than it does to get up and find a pair of scissors.
+Anyway, you need the scissors for other parts of the gift-wrapping process (cutting the extra paper off the ends, cutting ribbons, etc).
+Why have two tools?
+I received this product the day AFTER Christmas, so I didn't get to give it the workout I would have liked.
+With that being said, I still had some Christmas gifts to wrap for friends and family that I did not see on Christmas day so I whipped out my handy dandy Scotch Gift Wrap Cutter.
+I like the compact design.
+This thing is smaller than the average pair of scissors used to wrap gifts and easier to handle when trying to wrestle a roll of wrapping paper to the ground and keep it from rolling back up.
+The cutting mechanism worked well for me.
+It didn't snag like I thought it might.
+I thought this cutter worked well.
+I was not too fond of the ribbon curler.
+I could not get it to work the way I would have liked.
+I think it may be user error though.
+I am so used to using the edge of the scissor which is sharper and created a tighter curl on my curling ribbon.
+This product does what it claims to do.
+If you do a lot of gift wrapping, then this is a must-have.
+I am not sure the occasional gift wrapper needs this product though.
+Lastly, I love the fact that the blade is concealed and unlike scissors you don't have to worry about your child accidentally cutting his or herself because of this tool.
+I do a lot of crafty things and you can also trim paper and crop things down with the Gift Wrap Cutter.
+This arrived just in time for Christmas gift wrapping.
+It does work well and cuts fast and smooth.
+I had scissors there also and out of habit kept reaching for them.
+I had a bit of a problem with mylar plastic paper, maybe because it was cheap dollar store paper it was not as smooth.
+On paper and foil paper it is great.I would have this for the kids wrapping gifts as the no exposed blade is great.
+A small finger could however get into the blade.
+Instruction would have to be given to keep little fingers safe.The ribbon curler is great no open scissors.
+The hard plastic works just fine.Handy item to keep in the gift wrap box.
+I can see this as useful in scrapbooking also.
+I got this in the mail 2 days AFTER Christmas, but I did get a chance to test it out on wrapping paper.
+It worked fine.
+And I can use it all year for cutting coupons or newspaper clippings.
+I don't know that I'd go out of my way to buy another one if this one goes dull or breaks, but I'll use it when it's handy.I think its biggest selling point may be that you can let the kids use it when they beg to help with the gift-wrapping.
+It's completely safe.
+I haven't tried it, but I wonder if it would work on construction paper?
+That would be ideal.
+This product does what it is supposed to do.
+It cuts wrapping paper well and easy.The main benefit is that while you are using it family members don't steal it like they will often do the scissors, most likely because it is not as versatile as scissors.I tried to cut coupons with it.
+Don't.
+It isn't at all good for that.
+You can't cut very precisely with it, and I cut off some of the dates on the few I tried.
+It's not labeled for this use, I just thought I'd give it a try.
+It was a total no-go.
+The gift wrap cutter is a cinch to use.
+It makes cutting your pieces so much easier.
+I have three of them ow so the kids can help out.
+I only gave it 4 stars because flimsy wrapping paper makes it difficult to begin cutting.
+But it's very uselful and I do recommend it.
+I just finished using this for the first time to wrap all my Christmas presents -- and I love it!
+Before receiving it, I was worried that the blade would be exposed, making it dangerous.
+I was pleased to see, however, that the blade on this device is encased underneath a plastic housing, making it safe to use on hard surfaces.Using this is really easy: you just insert the edge of it against your wrapping paper, and push it to quickly and easily cut the paper you need.
+As another reviewer mentioned, just be sure that the edge of your wrapping paper is smooth; any slight crinkles or tears in the paper, and this device won't cut.Another tip is to use wrapping paper that has graphs on the back; although this device makes cutting straight lines easy, it was nice to use the graph as a guide when cutting paper.All in all, I really like this tool!
+Using it, along with my Scotch wrist tape dispenser, made wrapping presents a breeze!

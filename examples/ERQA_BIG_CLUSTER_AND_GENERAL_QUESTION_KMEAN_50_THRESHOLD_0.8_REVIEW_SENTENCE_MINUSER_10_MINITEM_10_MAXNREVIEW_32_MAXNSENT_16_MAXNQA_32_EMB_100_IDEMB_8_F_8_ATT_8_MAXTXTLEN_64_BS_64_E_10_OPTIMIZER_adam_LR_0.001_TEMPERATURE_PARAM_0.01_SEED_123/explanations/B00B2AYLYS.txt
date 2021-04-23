@@ -1,0 +1,181 @@
+Top question(s):
+Where are fruit and veggie manufactured? (What country?)
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+Our two year old twin girls love this fruit and veggie playset!
+They have a toy kitchen and they love to play &#34;restaurant.&#34;  A lot of the toy food was pretty lame.
+Am going to suggest our weekly local, organic farmers market buy one of these to give as a prize during our monthly drawing since it's perfect for any one who loves buying healthy fruits and vegetables, and wants their child(ren) to feel included.The shiny red apple,juicy tomato,strawberry,apricot,head of lettuce,pear,cucumber,berry cluster,plum,cluster of grapes, ear of corn, banana, lemon, onion, and potato, are all a nice size for little hands and  the tote is just like the ones we use at the farmers market but in a size for little hands.If you have someone who is trying hard to get their family to eat whole healthy foods, and they have small children this would make a nice gift as would any of this companies healthy food toy items.
+A nice assortment of plastic produce (fruits and vegetables) with a child sized canvas tote to keep them in.My 4 year old likes it for pretend play and my 18 month old likes it for fill & dump and carrying.Good quality plastic parts and a sturdy tote.You can find cheaper plastic food, but the quality of these is worth the few extra dollars.
+It's nice that there are no choking hazards!
+
+Question attention weights:
+0.10971543192863464,0.17667752504348755,0.4850032925605774,0.228603795170784
+Sentence attention weights:
+0.0057417298667132854,0.005997912492603064,0.005910420324653387,0.005356930661946535,0.006628137547522783,0.005904219578951597,0.0057978760451078415,0.0054509639739990234,0.007176910061389208,0.00693884864449501,0.005986651871353388,0.006062507629394531,0.0069153499789536,0.00578857259824872,0.006114829331636429,0.0059954761527478695,0.005396497435867786,0.005969726946204901,0.0060981218703091145,0.006283674389123917,0.006948151160031557,0.0050598932430148125,0.005658093839883804,0.006333902943879366,0.0061920336447656155,0.006391170900315046,0.012498829513788223,0.006230674684047699,0.007531553972512484,0.00611353013664484,0.006441602949053049,0.006612073630094528,0.011390795931220055,0.004569118842482567,0.00685114273801446,0.006521850358694792,0.006141949910670519,0.006150792818516493,0.005983942653983831,0.005780520383268595,0.005833606701344252,0.00578718027099967,0.005113499704748392,0.005961887072771788,0.00864503812044859,0.004762972705066204,0.0066133588552474976,0.0058432710357010365,0.005926585290580988,0.005657293368130922,0.004554635379463434,0.0048874435015022755,0.0072684334591031075,0.005864371079951525,0.007717295084148645,0.0042263055220246315,0.005702008958905935,0.005505229812115431,0.005751455668359995,0.005732010118663311,0.005732010118663311,0.006807721685618162,0.006526232231408358,0.006195572204887867,0.005639206618070602,0.0073820739053189754,0.005689155776053667,0.004566103219985962,0.005670300684869289,0.005930361337959766,0.006820651702582836,0.006048289127647877,0.005856568459421396,0.005649433471262455,0.005002864170819521,0.008282391354441643,0.004885888192802668,0.005473639350384474,0.0072161308489739895,0.010173765011131763,0.005783745087683201,0.005932355299592018,0.004575702361762524,0.0049476632848382,0.0066489484161138535,0.010730195790529251,0.005239418242126703,0.005613041575998068,0.004979263059794903,0.007410433609038591,0.007029288448393345,0.008232299238443375,0.00577566446736455,0.006691540591418743,0.00906427763402462,0.007378613576292992,0.0076315803453326225,0.005654701963067055,0.005691531114280224,0.005156904924660921,0.005918875802308321,0.0049692788161337376,0.007477918174117804,0.009007805027067661,0.007742319721728563,0.004705890081822872,0.008345380425453186,0.004824734292924404,0.00823469553142786,0.005661869887262583,0.007347291335463524,0.009657265618443489,0.007936702109873295,0.008904107846319675,0.006868951488286257,0.006555123720318079,0.00645010732114315,0.006252883467823267,0.0054771788418293,0.005704792682081461,0.006290741264820099,0.006199982948601246,0.007343045435845852,0.005576451309025288,0.007054613903164864,0.006344488821923733,0.004329055082052946,0.007832307368516922,0.005466985981911421,0.006374072749167681,0.00681902002543211,0.006977447774261236,0.006076884921640158,0.0061213187873363495,0.007024051155894995,0.005615242291241884,0.008149337954819202,0.005115502513945103,0.005772743374109268,0.004266798030585051,0.00410387571901083,0.006078674457967281,0.0076162610203027725,0.00549382483586669,0.006823475938290358,0.006090543232858181,0.007319892290979624,0.00587868457660079,0.004765456076711416,0.005737779196351767,0.004881511442363262,0.006957957986742258,0.005608721636235714,0.005598063115030527,0.005543936975300312,0.006302741821855307,0.005610289983451366,0.006808657199144363
+0.0058426992036402225,0.006200054660439491,0.006076145451515913,0.00547801423817873,0.007146298885345459,0.006023735739290714,0.005890130065381527,0.005276702344417572,0.006775471847504377,0.007162165828049183,0.006047036033123732,0.006128853652626276,0.007135815918445587,0.005826747044920921,0.006327862851321697,0.006150710862129927,0.005451534874737263,0.006149028893560171,0.005756427999585867,0.0062233880162239075,0.0071726576425135136,0.005075023975223303,0.005801840219646692,0.006106638349592686,0.006369654554873705,0.006444436497986317,0.01267088484019041,0.006298075430095196,0.007811106741428375,0.006253008730709553,0.006628795526921749,0.006684823893010616,0.011990679427981377,0.004036542493849993,0.007075217552483082,0.006753171794116497,0.006109163165092468,0.00629159202799201,0.005717972293496132,0.005383845418691635,0.005678558722138405,0.0059571159072220325,0.004640171770006418,0.006062690168619156,0.009575577452778816,0.0047834147699177265,0.00681062089279294,0.006021616514772177,0.005330280400812626,0.005682799033820629,0.0042093065567314625,0.004667872563004494,0.007467691320925951,0.005769547075033188,0.007405655458569527,0.00375003507360816,0.005675907246768475,0.005637812428176403,0.005580245517194271,0.0058813681825995445,0.0058813681825995445,0.006854630075395107,0.006270198151469231,0.0061947437934577465,0.005492608528584242,0.00790327973663807,0.005802561063319445,0.004306364804506302,0.005808091256767511,0.005961645394563675,0.007038739509880543,0.006211102474480867,0.006051186937838793,0.005779605824500322,0.00502255791798234,0.007798557635396719,0.0041665988974273205,0.005460239946842194,0.006639811210334301,0.01081756316125393,0.005950044374912977,0.005932967644184828,0.004454196430742741,0.004792944993823767,0.006718008778989315,0.010652020573616028,0.005301870871335268,0.005762163549661636,0.005072023253887892,0.006961238570511341,0.007449656259268522,0.008534550666809082,0.005882925353944302,0.006636657286435366,0.00976201519370079,0.007342155557125807,0.007530090864747763,0.0056999195367097855,0.005816274788230658,0.005205695051699877,0.0059601315297186375,0.004739906173199415,0.007730136159807444,0.008679279126226902,0.0075339674949646,0.00423097237944603,0.008450903929769993,0.0049921125173568726,0.0080337505787611,0.005757441278547049,0.007641428150236607,0.009035930037498474,0.008078127168118954,0.009352842345833778,0.006939820013940334,0.0067541515454649925,0.005887812934815884,0.006227336823940277,0.00542863504961133,0.005250953137874603,0.0057014902122318745,0.006296286825090647,0.007403284311294556,0.005688824690878391,0.007178307045251131,0.00618516281247139,0.004309369716793299,0.008192164823412895,0.0055339583195745945,0.005555539391934872,0.006860909052193165,0.0071928249672055244,0.006221194285899401,0.00616604695096612,0.0070811426267027855,0.005759645719081163,0.00799761712551117,0.004831942729651928,0.005926547106355429,0.004094509407877922,0.004009888507425785,0.006121651269495487,0.007109770085662603,0.005595724564045668,0.006436902564018965,0.0062736570835113525,0.007331640925258398,0.005988929886370897,0.004255103413015604,0.0050373864360153675,0.004798198118805885,0.007323844358325005,0.005685558542609215,0.005459779407829046,0.005549027118831873,0.006305999588221312,0.005677915643900633,0.0069054653868079185
+0.0063826050609350204,0.006726312916725874,0.006588596384972334,0.006062920670956373,0.00787550862878561,0.006360296159982681,0.006244495045393705,0.005409354344010353,0.006027767900377512,0.007335671689361334,0.006289830431342125,0.006267411634325981,0.007416298147290945,0.00611021788790822,0.006950571201741695,0.006574553437530994,0.005959797650575638,0.0067113591358065605,0.0051003131084144115,0.006060523446649313,0.00737287662923336,0.005601492710411549,0.006330651231110096,0.0057191792875528336,0.006530056707561016,0.0063585625030100346,0.010552779771387577,0.0063544041477143764,0.007731658406555653,0.00659466627985239,0.0069835907779634,0.006779856979846954,0.010217955335974693,0.0037377842236310244,0.007329126819968224,0.007296641822904348,0.006243566051125526,0.006665339693427086,0.005454196594655514,0.0051464238204061985,0.0059268237091600895,0.006577890366315842,0.0042756046168506145,0.006396737415343523,0.010255602188408375,0.0053306883201003075,0.007153781596571207,0.00658609252423048,0.004559898748993874,0.005926391109824181,0.004250251688063145,0.004847364500164986,0.007215807214379311,0.005626802798360586,0.006578182335942984,0.003671969985589385,0.006069482769817114,0.006209095008671284,0.005515729542821646,0.0064052315428853035,0.0064052315428853035,0.006577710621058941,0.005474369507282972,0.006311910692602396,0.005386799108237028,0.008323680609464645,0.006259530317038298,0.004337512422353029,0.006371486932039261,0.006340761203318834,0.007338568102568388,0.006536197382956743,0.006610927637666464,0.006327324081212282,0.005547733511775732,0.00657234201207757,0.0036563239991664886,0.005803599953651428,0.005336674861609936,0.009916354902088642,0.006434051785618067,0.005841536913067102,0.004788612946867943,0.004841293208301067,0.007057055365294218,0.009030822664499283,0.0058823744766414165,0.0063176690600812435,0.005638460628688335,0.006270300131291151,0.007769118994474411,0.00824849121272564,0.006336692720651627,0.0066264038905501366,0.009569664485752583,0.007036146242171526,0.006722514517605305,0.00577812734991312,0.006275857798755169,0.005893949419260025,0.006101386621594429,0.004803138319402933,0.00769653869792819,0.007427914533764124,0.006745645776391029,0.004122803919017315,0.00743139861151576,0.005816314835101366,0.007197125349193811,0.0062131695449352264,0.007887614890933037,0.007731622084975243,0.007987829856574535,0.008442772552371025,0.0067995646968483925,0.0071054911240935326,0.005261003039777279,0.005897609982639551,0.0056444923393428326,0.004595885518938303,0.00454690819606185,0.006785125471651554,0.007114060688763857,0.006233334541320801,0.006964575499296188,0.005735517479479313,0.004909292329102755,0.00832617748528719,0.005974151659756899,0.004338565748184919,0.0065903733484447,0.007316240109503269,0.006544576492160559,0.00620556715875864,0.006637920159846544,0.006299739703536034,0.007227418478578329,0.004666598979383707,0.006465790327638388,0.00405390840023756,0.004586606752127409,0.006353003904223442,0.0057267481461167336,0.006096287630498409,0.005560480989515781,0.006431458052247763,0.006850041449069977,0.006317698396742344,0.0039750197902321815,0.004219010937958956,0.005169940646737814,0.007531119044870138,0.006099123507738113,0.005573418457061052,0.0059927660040557384,0.00637845927849412,0.006096614990383387,0.0065682679414749146
+0.006112884264439344,0.00635744770988822,0.006246287375688553,0.005677621811628342,0.00732803251594305,0.006201236974447966,0.0059887017123401165,0.005273785442113876,0.006176313851028681,0.007173092104494572,0.006115658208727837,0.0062500713393092155,0.007248196285218,0.005971722304821014,0.006693475414067507,0.00640058983117342,0.005566458683460951,0.006286711432039738,0.005609096027910709,0.006229340564459562,0.007172786630690098,0.0052552781999111176,0.005984612740576267,0.006006310693919659,0.006545817945152521,0.006265389267355204,0.01232159323990345,0.0062973652966320515,0.008084393106400967,0.006375430151820183,0.00691696023568511,0.006744845304638147,0.011801901273429394,0.003754264675080776,0.007195411715656519,0.006910125259310007,0.006079321727156639,0.0063642957247793674,0.005624087993055582,0.005347483325749636,0.005504537373781204,0.006125898100435734,0.004456588067114353,0.006192008964717388,0.009709253907203674,0.0049724699929356575,0.006989608518779278,0.006209920160472393,0.004881398752331734,0.005874577444046736,0.004170186817646027,0.004785974510014057,0.007576379459351301,0.005739126820117235,0.007323089055716991,0.003663799725472927,0.005679411347955465,0.005832866299897432,0.005533789284527302,0.006058902014046907,0.006058902014046907,0.007068898528814316,0.00598277198150754,0.006218206603080034,0.005501086357980967,0.00806608609855175,0.005955419037491083,0.0042031388729810715,0.006020368542522192,0.006223461590707302,0.0073177446611225605,0.006235920358449221,0.00623877439647913,0.005924873519688845,0.005137092433869839,0.007383766118437052,0.00388679513707757,0.0054846275597810745,0.006274017971009016,0.01072218269109726,0.006083980668336153,0.005783860571682453,0.004581858403980732,0.004688696935772896,0.006885414943099022,0.009528808295726776,0.005505645181983709,0.00595226651057601,0.005233618896454573,0.006811389233916998,0.007744302973151207,0.008371391333639622,0.0060927486047148705,0.006878947839140892,0.009949478320777416,0.0071771047078073025,0.007068941835314035,0.006005626637488604,0.006080092396587133,0.005492239259183407,0.005988567601889372,0.0045422581024467945,0.007960719987750053,0.007937000133097172,0.007201859261840582,0.003949890844523907,0.008225788362324238,0.005290482193231583,0.007787842303514481,0.00603377353399992,0.00783494208008051,0.008301564492285252,0.007995521649718285,0.009187945164740086,0.0070210350677371025,0.006887467112392187,0.0054274508729577065,0.0063987611792981625,0.005450832657516003,0.005039732903242111,0.00541972229257226,0.006611363030970097,0.007475590333342552,0.005896950606256723,0.007160843815654516,0.00561811588704586,0.004407860338687897,0.008297357708215714,0.005656498018652201,0.004791564773768187,0.006743077654391527,0.007284092251211405,0.00633575115352869,0.006191989406943321,0.00708575127646327,0.00594538077712059,0.007328826002776623,0.004486729856580496,0.006072786636650562,0.004073848482221365,0.004227071069180965,0.006172908935695887,0.006715635769069195,0.005793732590973377,0.005858822260051966,0.006463542114943266,0.007061811164021492,0.006141944322735071,0.003994536120444536,0.004411042667925358,0.004985383246093988,0.007466970942914486,0.005867775995284319,0.005611142609268427,0.005766083020716906,0.006247027777135372,0.005811486393213272,0.007000784855335951
+Questions:
+how large are the items?  Are they realistic in size?
+Is broccoli included?
+Where are fruit and veggie manufactured? (What country?)
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+This is for children 2 and up.
+I was happy to pick it up for my 3 year old daughter.We have had this for several weeks now and still have all the pieces!
+That is a plus!
+My daughter plays with it several times a week and we go over the colors of the fruits/vegetables and what they are.
+Some are tricky, she gets the onion and potato confused because they are the same color and look alike.
+I found them to be very durable and soft.
+Not too soft though that she can destroy them easily.My daughter has spilled a drink on the bag and I put it in the washer and let it air dry, it came out just fine.
+Also, every week I wash the fruit/vegetables under warm water with some dish soap.
+I just want to make sure they are clean since there have been some sick bugs in our household.I found this to be very educational.
+I do not have another fruit/vegetable set to compare it to.
+However, I am pleased enough with this set that I would not buy another brand since this seems sufficient enough.This has also helped with meal times.
+My daughter always watches me prep our dinner and gets proud if she recognizes a product I am using.
+I got this to go with my kitchen that I keep at my house for my granddaughter to play with.
+She loves to grab the bag and take each fruit or vegetable out and tell you what each it and we have started saying whether it is a fruit or vegetable.
+She will then put the items back in the bag and repeat the process all over again.
+She has not grown tired of this like she has with some of the other toys we have for her.
+This is also great as she likes to pretend that she is cooking with the fruits and vegetables and making a meal for you.
+A great toy.
+"The Learning Resources New Sprouts Fresh Picked Fruit and Veggie Tote Set is just that: a sturdy canvas tote, and ""fresh picked"" fruits and veggies, lots of them!
+Goodbye salami slices, hot dogs,and plastic ice cream sandwiches!
+Hello healthy, colorful and cute play fruits and veggies!
+What else do children need for fun, imaginative play?
+This is the kind of toy that I, as an adult, like to play with children with.
+Best of all, it's made of high-quality durable stuff, made to last.
+The fruit and veggies looks so real, even if not to scale--and lots an lots of healthy choices!
+Great idea for a grandmother's trunk of toys when the grandchildren come visit!"
+Our two year old twin girls love this fruit and veggie playset!
+The fruits and veggies all have a nice texture to them and do not seem cheap like other playsets.
+They are thicker plastic and not the hollow sounding thin ones you find in other sets.
+The little bag is really nice and the girls love putting these fruits, veggies and other toys in it and walking around.
+There was no bad/weird odors like we have experienced with other toys either.
+Overall this is awesome and I would highly recommend it to others!
+Am going to suggest our weekly local, organic farmers market buy one of these to give as a prize during our monthly drawing since it's perfect for any one who loves buying healthy fruits and vegetables, and wants their child(ren) to feel included.The shiny red apple,juicy tomato,strawberry,apricot,head of lettuce,pear,cucumber,berry cluster,plum,cluster of grapes, ear of corn, banana, lemon, onion, and potato, are all a nice size for little hands and  the tote is just like the ones we use at the farmers market but in a size for little hands.If you have someone who is trying hard to get their family to eat whole healthy foods, and they have small children this would make a nice gift as would any of this companies healthy food toy items.
+Have ordered their Pretend & Play Healthy Food Snack Set as well.Tote washes up nice and the fruits and vegetable can be wiped clean or washed under water and then dried.
+This is a great little basket for a toy kitchen.
+Better than cake or pizza.
+These fruits and veggies teach a child the importance of eating them with every meal.
+They are a good size so that a child wont coke on them and they come in a bag.
+Easy to clean and they don't chip either.
+Excellent set of fresh fruits and vegetables in a delightful cloth bag which can be used in nearly any classroom, including for second language learners.
+NOT JUST FOR PRE-K ANYMORE!I piloted the use of this excellent item on a preschool class, and they found everything about this multi-sensory product wonderful.
+The size is just right for small hands and the soft, non-glossy feel of the materials makes it a joy to use.
+The colors just beg for discussion, and the several fruits and vegetables offer sorting their several attributes.A kitchen table was immediately spread for this item and much discussion ensued, flowing naturally from this product's nature.Any teacher will rejoice in this product and adapt it to several academic needs.
+My kids really like the level of realism, in this product.
+They have a toy kitchen and they love to play &#34;restaurant.&#34;  A lot of the toy food was pretty lame.
+This has much more realistic shape and the colors are very vibrant.
+I like that they are reasonably soft and thus less likely to be used as a weapon when things go bad.
+All-in-all a good product and great fun for kids.
+"I received these from the Amazon Vine program.
+As my son really likes to pretend cook and pretend shop, I thought these would be a delightful gift for him.
+And he does really seem to enjoy them.From a parental perspective, they do have a plasticky smell, which could be concerning to ecosensitive people.
+The product is manufactured in China, though Learning Resources is a UK-based company (subsidiary in the US).
+I couldn't find any information about the plastic used for the fruit and what it might (or might not) contain.The fruit is also out of proportion - the pear is the longest item, at about 8"", where one might think the lettuce head or banana would be longer.
+It is easily washed (and needs to be washed when you get it as the apple and banana are taped down in the package and have sticky remnants, plus it reduces the plastic smell), and my kid really is having fun with them.
+We sign, and he was excited to signing and say all the fruits and veg names (bonus: we had to learn cucumber, blackberry, onion, and plum signs).Pros:* Super easy to identify the fruit* Soft plastic* Easy to wash and clean* Reusable tote will be handy for other toys when the fun is worn out from these* Kids will really enjoy them* Large enough nothing would be a choking hazard even for younger kidsCons:* Stinky* Not reality-proportionate* Undetermined plastic used for the fruitOverall, I don't think it's a bad deal for the money.
+The unknown plastic components probably would steer me away from purchasing the product as my son sometimes gets carried away and forgets pretend means NOT putting it in your mouth.
+I care less about correct proportionality (he'll learn through actual experience with the fruit and veg and we can use it as a learning tool: which is bigger, your real fruit or your pretend fruit?
+Why do you think that is?)
+but recognize that might be a turn off for some teachers and/or parents."
+My kids have other plastic fruit toys, but these ones are better.
+These have better coloring of the fruit.
+The plastic seems a little thicker and they actually have the stems of the fruit painted a different color from the rest of the fruits.
+For instance the apple stem is brown as apposed to being red like the rest of the apple.The bag is also a nice cloth bag.
+It's a great size for a little kid to carry or put over their shoulder.
+The fruit doesn't fill up the bag as much as is depicted in the product image, but it does fill it enough.
+It also gives some room for other items that the kid may put in there as well.
+We have a few Haba wooden food sets and I really love those, but wood is expensive.
+So I was eager to grab these when offered in Vine.
+And my kids LOVE them.
+They're a great teaching aid and they're very sturdy (my 16m old has been chewing on them and they still look new).
+My 4yo can even identify them with his eyes closed.Are they life-sized?
+Not all are, but neither are the Haba versions that I love.Are they realistic?
+As realistic as pretend food needs to be for toddlers.Can kids tell what they are?
+Yes.Do kids like playing with them?
+Yes.Five stars, easy.
+As others have mentioned, the cloth bag that holds these vegetables is fairly small -- for me that's more of a feature than a bug.
+This is a toy for my 2-year-old; the bag is scaled appropriately to her frame.As others have mentioned, the pieces aren't all to scale with one another -- again, that's a feature: they're all sized appropriately for a small child's hands.
+I doubt that you could have a head of lettuce and a lemon, both to scale, be equally easy for a toddler to grasp, otherwise.There's a nice variety of hollow fruit and vegetables molds made from a soft, slightly textured plastic.
+The colors are bright and many of the pieces feature a variety of colors (e.g., the stem on the tomato is green, and the flesh is red, rather than being a single color lump of plastic).I only deducted a star based on the price -- this is not $20 worth of toys.
+A nice assortment of plastic produce (fruits and vegetables) with a child sized canvas tote to keep them in.My 4 year old likes it for pretend play and my 18 month old likes it for fill & dump and carrying.Good quality plastic parts and a sturdy tote.You can find cheaper plastic food, but the quality of these is worth the few extra dollars.
+I love the idea of this bag of play fruits and veggies.
+Pretend food is great for imaginative play, and this set is a very gender neutral option.
+It would go wonderfully in a play kitchen or shopping basket or all on its own.
+And of course since it's fruits and vegetables, it's modeling healthy eating instead of packaged foods or sweets.These are sturdy, colorful and attractive, and a good size for my toddler and preschooler to handle.
+The cloth shopping bag is great for play and to keep them somewhat contained.
+The only downside I really see is that it's inherently one of those toys with lots of parts so it tends to get spread around the house (almost comical to me to see a realistic cucumber behind the sofa) but at least they aren't too small or painful to step on.
+I had been looking for a set of fruit for my 2-year-old when I came across these.
+I like these a lot.
+They are not at all proportional as some fruit is much larger than others that are normally larger.
+What is nice is that they are easy for my kids (2-year-old, 9-month-old twins) to pick up and play with.
+They seem quite durable and withstood my twins chewing on them.A great addition to the toy box to teach about fruits, vegetables, and colors.
+My little guy really likes them and has fun taking them in and out of the tote.
+These are pretty good quality plastic fruit & veggies.
+Much better than our set from the Target clearance sale, but not quite as good as the Melissa and Doug set.
+It's nice that there are no choking hazards!
+There are 16 fruits and vegetables that go in the bag.
+They do not go all the way to the top of the bag, but unlike other reviewers, I don't mind that.
+We are trying to teach my granddaughter to help put things away and if the bag was overflowing with the fruit and vegetables, it would be an annoying obstacle.
+The plastic toys are sturdy and easy to clean.
+Definitely a great learning toy for teaching a child about fruits and vegetables.
+This vegetable tote kit is perfect for the little shopper in your life.
+What I really like about this product is that it's full of heathy foods.
+The colors are bright and vivid and definitely catch your eyes.
+As with other Learning Resources products, everything fits nicely in the tote once playtime is over.
+The size is also perfect for little hands.Don't be surprised if your little shopper takes this tote on your next grocery outing!
+This bag is smaller than pictured and the fruits do not fill up and overflow from the bag, but that is not a deal breaker for this product in my eyes.There are 16 fruits and veggies and a very cute bag, the foods are not flimsy or cheap plastic, they are pretty heavy and won't end up smooshed or dented easily.
+The bag is easy for little hands to hold and the fact that the foods don't overflow is a good thing because they all fit nicely inside and it makes for easy storage.
+My kids like naming all the foods and matching colors together, or organizing by type.
+My 19 month old daughter LOVES this fruit and veggie set with tote and so do I!
+I've searched for a long time for realistic fruit and veggie play food for her little shopping cart and all the ones I've found were cheaply made and didn't resemble the real thing - not so with these.
+The fruits and veggies look just like the real thing and are brightly colored.
+The plastic these are made of doesn't bend and isn't hollow like the others on the market.
+These can be easily cleaned and not warp.
+You get 16 common fruits and veggies, such as corn, apple, tomato, strawberry, lettuce, onion, and grapes to name a few.I also love the reusable tote bag they come with and my daughter likes that it's just like the reusable shopping bags I use at the grocery store.
+You can fit all the fruits and veggies in it, plus have room for more play food.
+These are fun for pretend shopping and also great for creative play in her play kitchen.
+I also love the educational value in being able to introduce the vocabulary of the foods and for her to identify the different fruits and veggies.The only downside to these is that some of them, such as the strawberry aren't realistic size but they are perfect size for little hands.
+These are the best and most realistic fruit and veggie play foods I have seen and I highly recommend them!
+New Sprouts makes some brilliant dramatic play items, and what could be more fundamental in dramatic play than plastic food?
+New Sprouts provides a tote bag with 17 different fruits and vegetables for imaginative food fun.Great colors, great size for a child's hands (some foods toys are just too small for the item), there's a great selection here to teach children their fruits and veggies and giving them some creative play items to add to all sorts of scenarios.
+(Of course my 5 year old turns them into rocketships, but he turns everything into rocket ships.)
+My daughter loves bringing the fruits over to me one by one so I can name them and she can repeat the names.These items appear fairly sturdy--the food gets kicked under things quite often, but is holding up well.
+These make a fantastic gift for kids who have a play kitchen and can start inspiring conversations about cooking and eating well.I'm very happy overall with this product.Happy Playing!
+^_^
+The picture in the ad is definitely deceiving - you don't get so many pieces that they overflow the tote bag.
+In fact, they all fit comfortably in the bag with room to spare - which is really my biggest gripe.
+The plastic fruits and vegetables are pretty small - most are smaller than what they would be if they were actual size.
+This is mostly fine for my two toddlers, but a little disappointing.
+They are made of durable plastic and will likely hold up well under rough play.
+I love that they reinforce healthy eating and expose my little ones to a few fruits/vegetables they aren't terribly familiar with (I learned we need to bring lemons and pears into the house more often - neither of my sons could identify either of these pieces).
+Overall, at $22, they seem a bit overpriced.
+I was most impressed by the quality of this bag of fruits and veggies.
+I usually can only find extremely tacky plastic fruits and vegetables and they are not very realistic.
+My 18 month old loves the tote bag too!
+I received this at no cost through the Vine program.
+Otherwise I would have returned it.
+Here's why.1.
+I dislike any product that relies on deceptive advertising.
+There is a picture of a child holding this bag which makes it seem much larger that it is.
+In fact this bag measures only 9 inches across and is 8 inches high (excluding the handles).
+Not very large at all.There is another picture showing this bag overflowing, and with no room to put in nine pieces of fruit and vegetables lying on the ground.
+Another deception, because if you put in all 16 pieces that come with this bag, you will fill it up only about 2/3 of the way.2.
+I already have Melissa & Doug Playtime Fruits and Melissa & Doug Playtime Veggies.
+There is no comparison.
+In contrast to this product, where everything is the same size, with the Melissa and Doug products the fruits and vegetables are sized like in real life and also have more detail than this product.
+The quality of the plastic and coloring are also superior.3.
+I have visited no less than three different children's museums in three different states (NY, NJ and NH) with my 2 year 9 month old granddaughter.
+All of them have play fruit and vegetables, but none of them have anything that looks like this product.
+All use Melissa and Doug fruits and vegetables.Bottom line: This is cheap looking, unrealistic, and is marketed in a deceptive way.
+If you really want to teach your child about fruits and vegetables, go with Melissa and Doug.
+My son is 2 and these are super durable -- even for a busy boy.
+They're not like the typical plastic food toys that are easily crushed or bent.
+These are definitely quality material and have the ability to last for a long time.
+So far, they've been great as a teaching tool, as well as fun to play with alongside our kitchen set.
+Highly recommended.
+Pros:1) It is a good learning resource for the kid.
+Child learns about different kinds of veggies and fruits.
+It teaches about healthy eating habits.2) The veggies and fruits look attractive and realistic.3) The colors of these fruits and veggies are bright.4) The quality of the product is great.Cons:Only drawback is that the size of the produce is a bit smaller than the real veggies or fruits.

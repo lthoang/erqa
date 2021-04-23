@@ -1,0 +1,271 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+The only negative thing that I can honestly say about this product is that I wish the markers were a bit darker.
+It does go through the batteries, though, because it was always being lit one way or another.Dome Light Designer (3 Stars): I thought this looked so much cooler than the See-Thru Light Designer, so I was surprised to see that it got a less enthusiastic reception.
+Then wipe it off and start again.
+They have tried the neon board before and are no longer excited.
+I love the idea of this.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.0039142947643995285,0.0057598259299993515,0.004735073074698448,0.005880666896700859,0.004094677045941353,0.003830923233181238,0.004540546797215939,0.0031088378746062517,0.0039094905368983746,0.002295561833307147,0.002910006558522582,0.003964346367865801,0.001389835262671113,0.005444676149636507,0.002164094476029277,0.006198185030370951,0.004240104928612709,0.002689371583983302,0.00443481607362628,0.0030904817394912243,0.005690664052963257,0.0053075579926371574,0.004458276089280844,0.004571990575641394,0.004201049916446209,0.0033312616869807243,0.003194166347384453,0.0016817259602248669,0.0054244548082351685,0.004262177273631096,0.0028591714799404144,0.0024983249604701996,0.007331288419663906,0.0059107448905706406,0.003020783420652151,0.0039105527102947235,0.0016586302081122994,0.003915943671017885,0.002976069925352931,0.0038792744744569063,0.0037909618113189936,0.005125290248543024,0.002415802562609315,0.0015742193209007382,0.004827234894037247,0.006071541924029589,0.003019215539097786,0.0055710021406412125,0.002656353637576103,0.0022996552288532257,0.006073969881981611,0.006333156023174524,0.003920303657650948,0.004622311796993017,0.00414040545001626,0.005197259597480297,0.002938823075965047,0.00534676993265748,0.002112426096573472,0.003382945666089654,0.003118902677670121,0.003921196796000004,0.002803135896101594,0.002975286915898323,0.0036955466493964195,0.00300009036436677,0.0018859226256608963,0.001972922822460532,0.0029878357890993357,0.003286395687609911,0.0033991611562669277,0.0035647512413561344,0.0038867201656103134,0.003671468235552311,0.004769437946379185,0.0016794095281511545,0.004097613971680403,0.005168977193534374,0.003214131575077772,0.0018545578932389617,0.004686578176915646,0.003102941671386361,0.002257190877571702,0.002235436113551259,0.005348405335098505,0.005319021176546812,0.005998516920953989,0.002408731495961547,0.005311856511980295,0.0022543431259691715,0.0026414485182613134,0.00135837122797966,0.00407132413238287,0.0013024474028497934,0.001656076987273991,0.004893060307949781,0.004500377457588911,0.00560013810172677,0.0036133048124611378,0.00550235528498888,0.0025864827912300825,0.004365310538560152,0.0018776191864162683,0.004173743538558483,0.0038342101033777,0.004791250918060541,0.003048619255423546,0.003413364989683032,0.0024988676887005568,0.0053957183845341206,0.006404775660485029,0.005936764180660248,0.002224760362878442,0.005610008258372545,0.0056538572534918785,0.004885761067271233,0.0031543506775051355,0.006185018457472324,0.004161890130490065,0.005610008258372545,0.006053892429918051,0.004434105008840561,0.0055856527760624886,0.004707434680312872,0.0019942913204431534,0.003821471706032753,0.005512997508049011,0.005813959985971451,0.0025326404720544815,0.004787591751664877,0.0025419415906071663,0.0024055500980466604,0.0023262619506567717,0.001505449297837913,0.0038063698448240757,0.0033478678669780493,0.003000711090862751,0.004756187554448843,0.005090656690299511,0.004366319160908461,0.0036968362983316183,0.0023901674430817366,0.0017962428973987699,0.0020902708638459444,0.002708496991544962,0.0030151766259223223,0.005458989180624485,0.006686004344373941,0.004478911869227886,0.0033392715267837048,0.005554774310439825,0.0020051670726388693,0.002245616400614381,0.0024660734925419092,0.0035995477810502052,0.004047592170536518,0.0021766077261418104,0.0037780527491122484,0.006345499772578478,0.003792106406763196,0.001405747956596315,0.0021567821968346834,0.004139927681535482,0.002827466232702136,0.005072129890322685,0.0017998996190726757,0.0019629241432994604,0.00499720498919487,0.00237870030105114,0.005289810243993998,0.004578528925776482,0.001727413386106491,0.002132558263838291,0.004556362051516771,0.005437829066067934,0.00556885777041316,0.004279053770005703,0.0025878073647618294,0.0057164402678608894,0.0057164402678608894,0.0057164402678608894,0.005106662400066853,0.001930356491357088,0.002088549081236124,0.0020586983300745487,0.006273849867284298,0.0023121165577322245,0.004291984252631664,0.0055760713294148445,0.005574420094490051,0.005420250352472067,0.005593653302639723,0.005151313729584217,0.0028271095361560583,0.00481407530605793,0.004298301413655281,0.004443326499313116,0.0031543036457151175,0.003341770265251398,0.0043570902198553085,0.004410722758620977,0.0024114535190165043,0.004848388489335775,0.006644074339419603,0.005691169761121273,0.0020418185740709305,0.005080693401396275,0.003102033631876111,0.005237228702753782,0.00483831437304616,0.005844104569405317,0.0022360661532729864,0.006306712981313467,0.00232453690841794,0.005581545643508434,0.006443108431994915,0.004808488301932812,0.005613852292299271,0.005471468437463045,0.005724178161472082,0.004622532054781914,0.004792601335793734,0.0038823261857032776,0.005382956005632877,0.0018346125725656748,0.003313575405627489,0.003498207777738571,0.005001971032470465,0.005073966924101114,0.004470143001526594,0.0015967884100973606,0.0031904960051178932,0.006212111562490463,0.0030406343284994364,0.0017319476464763284,0.004707098472863436,0.0038780653849244118,0.0026395227760076523,0.0016441599000245333,0.005038783885538578,0.002462186850607395,0.005227562040090561,0.0020189795177429914,0.001877499744296074,0.0038757978472858667,0.001873433357104659,0.0018412695499137044,0.0054076844826340675,0.0019800132140517235,0.00516769103705883,0.005378303583711386,0.004747197963297367,0.005517514422535896,0.005744272377341986,0.0030157561413943768
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+As a toy, it's okay, but there are some flaws that keep it from being as good as it could be.
+As usual, nothing looks quite as good as it does in commercials.
+The colors the markers draw are not a vivid as I had hoped they'd be.
+Also when coloring something, it's hard to get it even.
+The marker color tends to look a bit patchy.
+Kids can color just the dome, or also a piece that goes inside, to try and get a 3D effect.
+However you don't really get the 3D action look to it you think you might.
+We found it looks better just coloring the outside and adding some cool looking toys to the inside.
+For example, color the outside to look like an under sea scene, with seaweed, bubbles and sand.
+Then place a fish Beanie Baby inside.Since the fun is done once you've drawn something (at least until you decide you want to draw something else), using this dome as a one-of-a-kind nightlight makes an even better use for it.
+I can't understand out why Crayola didn't design this with a wall plug option for powering it.
+Instead you have to use 3-Double A batteries.
+So for anyone getting this as a gift for someone for Christmas, you might want to have some batteries on hand, or the kids will be sending you out Christmas morning, looking for an open gas station to pay for overpriced batteries to play with their new toy.
+Kids who are into crafts and such will probably enjoy this toy quite a bit.
+"My daughter has enjoyed different Crayola toys in the past, from boards you write on that glow in the dark, to two-layer type drawing light-up boards.
+She's 13 now, but I figured I'd see if she might still enjoy something like this when bored.
+Sure enough, she's been having fun playing around with the new Dome Light Designer.
+She made a neat pattern of grape vine leaves wrapping around the outer dome, and then a bunch of grapes with some leaves on the inside that I thought actually looked really pretty all lit up.
+She's done One Direction (her favorite band) logos on it.
+She thought it would be a cool thing for kids to be able to use as their own personal night light, if only it came with a plug so you didn't have to run it on batteries all night long.Anyways, it seems this would be nice for younger kids, tweens, and up to early teens, if your young teen still enjoys doodling and drawing.
+It gives kids something to do when ""there's nothing to do.""
+It seems durable and well made.
+Every now and then you just might need to buy new markers, but so far she's done a lot of drawing and there seems to be plenty of ink in them.
+We are usually pretty happy with most items from Crayola."
+Both my kids - my daughter 11 and my son 7, love doing creative and crafting things.
+When I saw this Crayola Dome Light Designer I was excited to get it and have them try it out - ok, and me, lol.
+Needless to say, when we received the package, both kids were eager to rip open the box and dive in.
+Putting the dome together is very simple, insert the batteries, design/color on the rounded piece that goes in the middle, place it in the slots, and twist the outer dome on the base.
+Very quick and very simple.
+Once you have the design that you want on the dome, simply turn the lights on with the press button on the front of the base.
+There are various settings and color routines that your child can select through.
+Clean up is very quick and simple as well - simply wipe the marker off with a damp towel, dry and and you are set to create again!
+The only negative thing that I can honestly say about this product is that I wish the markers were a bit darker.
+Crayola is a trusted and true company and once again they have created a fun, simple and creative way that children can use their imaginations again and again!
+This dome light designer is a superb toy for older children who love to draw, color, and create and have the capacity to remain entertained doing it on a larger, more complex scale.
+The dome light lets your child create an image on the dome as well as a lower transparent plate.
+You can then use different light patterns and designs to make the design interactive and more fabulous.When I first saw this in action, I couldn't help thinking how this would be a fun mid-level toy for a child who wants to shoot quirky videos or stage fun photos...like the kids I have seen make American Girl or Barbie stop-motion videos on YouTube.I think its longevity really depends on your child's level of dedication to certain disciplines.
+If you think they are creative and capable of repeated replay by creating new, interesting scenarios, this would be a great investment.
+If they just like to color, this paper alternative would probably be a costly investment.
+I have to admit, I didn&#8217;t hold out high hopes for this toy.
+I&#8217;ve had some questionable experiences with Crayola toys, and my first worry was that the special markers made for this item were going to barely show up on the dome.
+While they are nowhere near as vibrant as they look on the box, they are still pretty cool.
+There is a flat slice inside the dome that you can color or trace on.
+You can also color on the dome itself and even put small toys inside the dome.
+The lights function much like Christmas lights, with certain button combinations giving you different light shows.
+Always on, blinking, slow fade, etc.
+It makes a pretty cool little night light and so far the markers wipe off cleanly.
+This toy was fun for my little girl and her friends!
+You basically are provided washable markers that can be used to write on the dome.
+You them turn the dome on and it has several settings of lights to illuminate the writing.
+Great toy!
+Great idea!
+Why the lower rating?
+The middle divider is not durable and falls out easily.
+The lights also are not bright enough and are to dim to do what is seen in the box and advertisements.
+I wish it was brighter!
+"The Crayola Dome Light Designer is a really unique drawing toy for a wide range of ages.
+The best part about the toy is how the drawings look when they are finished.
+Especially with the special effects of the panel lights and the dome lights, even a basic drawing looks amazing.
+The colors look great and really stand out when the dome is lit.
+Without the lights, the orange looks a bit pale, but when the lights are on, all the colors look good.
+Once you're finished with the drawing, it's easy to clean with a damp cloth.There are only a couple of down sides to the dome.
+It takes 3 AA batteries which aren't included.
+Also, ""lefties"" will find it's a bit difficult to draw on the dome without smearing the drawing.
+Younger kids could have problems drawing on the curved surfaces of the dome, but will enjoy the end result.
+The Dome Light would make a nice birthday or holiday gift."
+I appreciate the way that Crayola, that venerable workhorse of children's playthings, is constantly trying to branch out and try new things.
+The CRAYOLA LIGHT DOME DESIGNER is one of their latest creations- A clear dome with a clear plastic insert, both of which can be drawn on using the four included markers.
+The drawings are completed by using various lighting effects.
+My ten-year-old Daughter is quite an artist, and she had a lot of fun with this, initially, but once the novelty wore off, it was rarely used again.
+It's a cute little plaything, and a fun way to pass a rainy day, but don't expect this to be one of the favorite toys.
+How sad is it that the purple guy in the picture doesn't come with the Crayola Dome Light Designer?
+Crayola: how can I get that adorable little guy (which we all secretly fear is actually c.g.i.).
+Faux-Grimace creature not withstanding, one can add one's own action figures to this odd little tableaux (we shoved a variety of Final Fantasy figures in the dome).
+Now, we had some fun tinkering with this set, but once we were done, we were really done.
+Here was our experience:We doodled on the dome, and we doodled on the plastic partition.
+Frequently, we found that we had to go over the same areas repeatedly ... the markers seemed to skip.
+And, since our little cabal has training in illustration/painting, you could say we were quickly frustrated.
+When we finally agreed to illuminate the dome, we were a bit disappointed.
+The colors were a little muted when fully lit and slightly less impressive when put through the considerably dimmer, light sequence.In sum, the price is a little steep for this plastic dome (and, yes, you will still have to purchase batteries and add your own little toys).
+And, its enjoyment may be short-lived.
+This would be great for a classroom/summercamp/daycare ... anywhere a large group of children can occasionally be creative with it.
+Otherwise, it may quickly consume precious closet space until (ultimately) donated to a worthy cause.
+This is a pretty simple toy, basically has a plastic dome on the outside, and a sheet on the inside.
+Markers sit around the outside.
+You can take the middle piece out and trace something on it, and then your kids can draw additional things on the dome one without affecting the middle one.
+Both our 1 year old and our 3 year old really enjoy this toy.
+Markers are easy to draw with, come off easily, and show up easily.Only downside is the buttons for the led lights that light up the dome and center piece make little sense, and quite hard to turn off, and get to a setting you want (they alternate dome/middle and then different styles).
+Thankfully they turn off after a set amount of time.
+Playing while learning reading, sounds and other reading skills is a good way for young children to develop language skills.
+We know the same is true in learning counting while playing is a sound way to acquire early math skills.The same is true of developing artistic and creative skills in a preschooler - doing so while engaged in play is a sound method that has proven to be effective.
+That's why parents of toddlers will want to consider obtaining the Crayola Dome Light Designer made by Crayola.The Dome Light Designer makes it easy for children to create layered 3-D drawings using the reusable dome and transparent inside panel.
+After finishing the drawing, the child then lights up their design to show off his/her drawings in a bold manner.
+Or the child can place a figurine or photo inside the dome to create a one-of-a-kind 360-degree 3D scene.The Dome toy also has action buttons that can be pushed to create some 30 different animation and effect combinations to show off the child's drawing or chosen object in exciting views.The Dome and inside panel are easily washable for reuse.
+The Dome also contains storage space for the markets that are supplied with the toy.
+The toy is operated with three AAA batteries which, unfortunately, are not included.
+And the batteries are a bit tricky to put in but once done that challenge is out of the way.Overall, I think this is a wonderful toy for children six and older and would make a wonderful gift that will reap benefits for the recipient's early years.
+What fun!
+This Crayola Dome Light Designer is a lot of fun for the creative types.
+Let me give you a brief overview on this product.
+It's pretty much a clear dome with a center insert that fits in a white, light filled base.
+It comes with 4 special gel markers that are designed for the clear done.
+Because it wouldn't be any fun if it didn't, the marker comes off the dome with water, so you can make as many scenes as you'd like!
+Once you've made a scene, all you have to do is turn on the lights and your masterpiece is lit up.
+In a very dark room, the markers do have a very cool effect.
+The markers go on well and dry quick.
+They light up surprisingly well, too!To add a more 3D element to your artwork, you can place a doll or toy inside the dome and create a scene based around that.Keep in mind that for this toy to work, you will need AA batteries.
+Those gave us a bit of trouble going in-- they wanted to pop out--, but eventually we got them to stay in!
+The only negative I have for this is that they only give you four markers to fit in the 6 marker slots.
+Other than that, though, this toy is a winner!
+I love the idea of this.
+But if you are trying to choose between this one and the Crayola See Thru Light designer, don't pick this one.It is very fun.
+My kids had fun drawing little scenes around a toy in the dome.
+But that is it.
+There wasn't a lot more to do.
+It didn't get hauled all over the house.
+The bottom of the dome cracked early on.
+I fixed it but was a little annoyed.
+I also wish there was a plug in option like other reviewers.
+This would get a lot more use as a customizable nightlight.
+My kids did want to leave it on.
+The light designer is interesting in theory, but we found it to be time consuming and the end result to be only mildly impressive.
+Once you have the batteries loaded in you are ready to start designing.
+You draw on to an inner screen and then on an outer screen dome, click them into the base and you have the option to illuminate one, the other or both screens resulting in a somewhat 3d effect to your picture.
+We printed tracing sheets from the crayola website to help us in designing out picture and found that to be helpful and more interesting.
+Overall, it was neat, but my son wasn't interested in using it often.
+He said it takes too long to do and he would rather just use paper so he can keep his hard work.
+This really is more of a novelty item than a long lasting quality product.
+The Crayola Dome Light Designer is a fun drawing toy for young children.
+The dome lights up in a variety of ways and provides fairly decent lighting to see what you have drawn.
+Unfortunately, not enough lighting to project the drawings on the wall or ceiling.
+You will need to buy batteries for this toy - but it is on a timer, so you won't accidentally run the batteries down.
+I wish that there were more markers included with the kit but otherwise, a fun way for a child to spend an afternoon drawing.
+"This Crayola dome light designer provides a lot of entertainment value for our 5 year old daughter who has a bit of an artistic streak in her.The dome light allows you to create ""3D"" images by drawing on the dome itself, in addition to a clear plastic plate that inserts in the plastic base.
+When you place the dome on top and turn the lights on - presto you have an underwater ocean scene.
+The dome lights can be set to flash and remain constant - they add quite a bit of interest to the drawings.
+The dome and plastic plate are very easy to clean - we simply wipe them down with a dry paper towel.All in all, this is a great toy for young, creative minds, along with budding artists.
+It encourages creativity and imagination so it is great for our kids."
+I'm a big supporter of Crayola products.
+With a number of budding artists around me, they can never get enough drawing.
+I started noticing the Light Designer toys about a year ago, but never had the opportunity to experiment with one until now.
+We picked up two models: the Dome Light Designer and the See-Thru Light Designer.
+As they really cater to the same interactive 3-D experience and have similar attributes, I thought I'd contrast them for those looking at the various Crayola options.See-Thru Light Designer (4 Stars): Shaped like an Etch-a-Sketch, this board is clear and has both a front and back panel that can be drawn on independently.
+The kit contains four colored gel markers (that easily clean off the designer), and you can make fully interactive experiences with lighting.
+You can light the front panel, the back panel, or both to create a rudimentary sort of animation (it looks like the pictures are in motion).
+As the board is compact and easily transported, the kids carried it around, stuck their faces behind it, looked through it at various objects and seemed to enjoy themselves overall.
+Truthfully, really talented kids could probably do something quite neat with this.
+It does go through the batteries, though, because it was always being lit one way or another.Dome Light Designer (3 Stars): I thought this looked so much cooler than the See-Thru Light Designer, so I was surprised to see that it got a less enthusiastic reception.
+It has the same four markers and a similar principle.
+You can draw on the plastic dome and there is a panel that is inside the dome that can be drawn on.
+Using the various lights, you can make these interact.
+You can also place items under the dome for extra play value.
+Here's the rub, though, as a more stationary toy, this has less interactive appeal.
+Unlike the See-Thru Light Designer, this one didn't get carried throughout the house for playtime.
+I love Crayola products and thought the Dome Light Designer looked interesting.
+It comes with 4 markers and you draw on the plastic dome.
+You can also draw on a panel inside the plastic dome.
+Then you turn the lights on, and it gives it a 3-D effect.
+The markers are very bright and it does look pretty cool when the lights are on.
+It gives kids the chance to be as creative as they want, but my boys weren't very enthusiastic about it once they did it a few times.You can also place toys or stuffed animals under the dome, but I think there are other light up designers out there that might keep kids more interested.
+The Crayola Dome Light Designer has a clear plastic dome plus a vertical panel inside that can be sketched on with the bright gel markers and then the drawings can be illuminated in a dark room with special lighting effects as seen in the video.
+It is part of the Crayola Light Designer series.The markers are washable.
+Only four colors come with this set but apack of eight markersis available separately and I would recommend getting it.
+Three AA batteries are needed for the light but aren't included and I would recommend rechargeable ones, such as the Eneloop brand.This is an especially good toy to involve a slightly older child in helping a younger child in a cooperative play activity.
+Great fun for my toddler son.
+He can personalize the dome and loves the light effect.I've tried several Crayola products though and they always look 50% better on the picture outside, so it is a bit misleading.
+The markers are not as bright and drawing is not as easy (a little bit patchy).But overall the idea is great and we have a great time with my son designing our dome.
+A different way to color that brings new interest.
+Most kids will probably need a bit of help removing and replacing the dome and insert, but it's quick and easy for an adult to do.
+The gel fx markers write beautifully on the clear plastic and clean up very easily.
+Only four colors are provided, so I imagine we'll be looking for more of the gel fx markers soon.
+It's really neat to make pictures with 3 layers or that go right around the dome - it gets the creativity going - and if you need inspiration, it's easy to trace on the insert.
+The light effects are fun and really add life to the drawings, but it still looks nice with the lights effects turned off.
+This is also a great way to let kids make little holiday or event displays.
+Very pleased!
+This was fun to design.
+since my sons share a room together I thought they should do it together.
+They had a blast drawing whatever they wanted on the dome and insert.
+I liked that its not too big and not too small.
+Fits on the nightstand perfectly.
+Overall any kid can do this and have fun.
+wipe off and draw something else that easy.
+design is cool in 3d.
+This is another fun yet creative toy from CrayolaIt is shaped like a dome....looks like a snow globe and you basically draw on the transparent/ dome which lights up from the inside adding a creative touch to your masterpiece.
+You can also place items into the dome as well to get a sort of 3d effect .
+I was really amused by the different effects/ animations.
+This is one toy you will not get bored easily with because there are tons of different creations to make and enhance.
+It cleans very easily and has a storage space for your markers.
+You will need to purchase your own batteries.
+Very fun and I cant wait to see what they will come up with next.
+This toy is really neat, I played with my kids for a long time with this.
+I like that the colors show up pretty well on this and the fact that it looks even better when the lights are on.
+The plastic insert piece didn't stay put too well in my experience, but it was fine if you didn't mess with it once you were done drawing.
+I wish it had a wall plug because I hate supplying batteries (not included) and then having them devoured by a toy my kids might not remember to turn off, they wanted to use it as a nightlight and I had to say no due to the battery issue.
+My daughter really liked this when it first came and played with it for quite a bit.
+While the novelty of it wore off in a couple days, unlike most other toys she does go back and play with this every once in a while.
+I think its a really nice toy for a creative kid, because they can make some really nice 3D patterns and designs.
+The only disappointment i have with it is that it takes 3 AA batteries and only includes 4 markers.
+The markers dont just work on the dome though so its not a stain free toy.
+Overall this is a limited toy.
+Kids use the special markers, which are dull to start, but brighten in the dark.
+They design a picture on the outside of the dome, and the interior plate.
+Then darken the room and select through several light options to see their design come to life.
+Then wipe it off and start again.
+Very simple.
+My son is 4 1/2, and though he liked drawing designs on the globe and seeing the effect of his work in the dark, the biggest hit was letting him keep it in his room as a nightlight!
+Seriously, for young kids this is a hit.
+My son has a bookshelf on his bunk bed, so it sits quite nicely above his head and brightens the room.
+I do have to go in and turn it off because it's battery powered.
+I buy the rechargeable batteries (they are not included).I think if we didn't get use as a nightlight this would be a meh kind of toy that would loose it's appeal.
+But my son likes to design pictures that go to bed with him each night, so it's a hit for us!
+You get the dome and 4 mini gel neon markers.
+This is a very simple toy that requires 3 AA batteries.
+This is practically the same concept as the neon board except in the form of a giant snowglobe.
+My kids are 7 and nine.
+They have tried the neon board before and are no longer excited.
+Basically it is just a combination of pattern of lights each time you press the button.You can put action figures inside to enhance creativity.
+Draw and erase as much as you want.
+It is just a 1-2 day form of entertainment and they don't want to do it anymore.
+Maybe it is a nice nightlight for the kids except they should have included am auto shut-off.Batteries not included.
+This is a cute toy especially if your child loves to color.
+The only complaint is that the center piece is not as secure as I would like it to be, it rattles back and forth a bit.
+Other than that, it is nice with the different light settings to give it an interesting look alternating what is visible.
+It is also very easy to clean and redraw on.
+Overall, this dome is a lot of fun, and works well - the gel markers definitely do capture the lights and the overall effect is pretty fun, especially if you draw something specific, like a solar system replica.
+It's a big more &#34;so what&#34; if you are just doodling.It's a bit more lightweight than I was expecting, but that doesn't matter.
+I give it high marks if you keep your expectations in line.
+The video pretty accurately captures how well it works.
+My 3 1/2 year old daughter is well below the recommended minimum age of 6 for this toy.
+None the less, she enjoys it, and requires minimal help from me.
+Basically, you draw on the dome, then turn on the battery operated light, which gives the drawing a 3-D effect.
+The markers aren't nearly as vivid as what they appear on the packaging though.
+"Who doesn't love Crayola?
+This toy looks like a lot of fun from the commercials and such, but reality doesn't quite live up to the hype.This toy could be so cool, if they would change a few things:1) The batteries need to be able to go in, and stay in easier.I had quite the ordeal at first trying to get the 3 AA batteries (not included) in the holder.
+There is a spring mechanism on one end of the battery holder which caused the batteries to pop out once or twice before I could get the cover screwed back on.
+It's a tight fit!2) The flat center clear ""plate"" that goes inside the dome needs to fit snugly and firmly in its slot.
+It isn't a snug fit, so the plate wobbles some back and forth.
+Also, if the dome gets turned upside down (or nearly so), the plate slips out of its slotted holder.
+It won't fall out of the dome at that point, but it is annoying to have to try and set it back in place all the time.
+It seems flimsy.3) The colors don't ""pop.""
+In fact, on the inner flat plate, I could hardly tell one color from another when the lights along the sides were on, and I was in a dark room.
+I expected the colors to really stand out when the LED's are on, but unfortunately I could hardly see them at all.
+Disappointing for something from a company known for its colorful fun.4) The marker ""ink"" will smear easily until it dries, which takes a full minute or so.
+It's also not clear if the markers are washable or not.
+There are only 4 that come with the product- another disappointment from a company known for color.
+I expected at least 6, preferably 8 markers.5) It would be nice if the plastic dome stayed in place more securely somehow.
+The dome twists off and on pretty easily, but sometimes TOO easily when I'm trying to wipe out the marker on the inside of the dome.
+(It came off once or twice while trying to hold it and clean it.
+This Crayola Dome is so much fun.
+Decorate over and over.
+Easy to clean and redraw.
+Glow with light, and looks cool.
+Great for kids, and young teenagers!
+Fun thing to do on those rainy days.
+Draw anything you want, and watch it glow!

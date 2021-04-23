@@ -1,0 +1,69 @@
+Top question(s):
+How many different dolls does this all-in-one set include?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+It sticks there by removable strips.
+If your little girl likes Polly, then she will love this set.
+My 6 year old got this for Christmas and absolutely loves it.
+My five year old loves it.
+!
+
+Question attention weights:
+0.17580445110797882,0.25546959042549133,0.2864261865615845,0.2822997570037842
+Sentence attention weights:
+0.015993433073163033,0.015432615764439106,0.014726807363331318,0.027501435950398445,0.024964911863207817,0.01930856890976429,0.024741563946008682,0.01773136295378208,0.02868114598095417,0.028178060427308083,0.011388670653104782,0.028318602591753006,0.02689983695745468,0.027410700917243958,0.021880822256207466,0.026585092768073082,0.018301036208868027,0.017358914017677307,0.027738681063055992,0.01805228926241398,0.02527059055864811,0.028561625629663467,0.02915273979306221,0.020876627415418625,0.024677539244294167,0.015942925587296486,0.027396537363529205,0.02836870402097702,0.014751054346561432,0.014415958896279335,0.029352279379963875,0.024259598925709724,0.02735816314816475,0.0235784649848938,0.017842566594481468,0.014918888919055462,0.023760437965393066,0.027365179732441902,0.011257126927375793,0.021337974816560745,0.014628398232161999,0.023386113345623016,0.022291645407676697,0.01951533369719982,0.011456024833023548,0.017082901671528816
+0.015160409733653069,0.014886008575558662,0.013356994837522507,0.02779242768883705,0.026635097339749336,0.019079165533185005,0.025898544117808342,0.01797623373568058,0.025178277865052223,0.03020118549466133,0.010768993757665157,0.028909970074892044,0.02801101841032505,0.027941487729549408,0.020170707255601883,0.02712211385369301,0.018593255430459976,0.01571907289326191,0.028698699548840523,0.01733083836734295,0.026068808510899544,0.026428397744894028,0.029268907383084297,0.022303646430373192,0.025727959349751472,0.014890884049236774,0.0282488614320755,0.029006430879235268,0.014604317024350166,0.013978734612464905,0.029369954019784927,0.02554742619395256,0.02828894928097725,0.02382850833237171,0.015627369284629822,0.013521172106266022,0.024875400587916374,0.028203602880239487,0.012308096513152122,0.021014899015426636,0.012375148013234138,0.023880919441580772,0.02387632429599762,0.020183851942420006,0.009820804931223392,0.01732012629508972
+0.015522547997534275,0.01441300567239523,0.013086492195725441,0.02817659266293049,0.026836533099412918,0.018773315474390984,0.025851380079984665,0.01798170991241932,0.025079097598791122,0.030901525169610977,0.010580466128885746,0.029209375381469727,0.02804560586810112,0.02809550240635872,0.020329775288701057,0.027092697098851204,0.018484504893422127,0.01521033700555563,0.028775440528988838,0.017423206940293312,0.026169871911406517,0.02641509659588337,0.029386838898062706,0.02226763777434826,0.025863870978355408,0.014701509848237038,0.028317609801888466,0.02909887209534645,0.014777849428355694,0.014258618466556072,0.029879314824938774,0.02600555121898651,0.02837360091507435,0.023637153208255768,0.015647493302822113,0.013028893619775772,0.024249596521258354,0.02824714221060276,0.012053258717060089,0.02062056213617325,0.0120010981336236,0.024045798927545547,0.024106832221150398,0.02024410292506218,0.009566160850226879,0.017166513949632645
+0.014465185813605785,0.014315681532025337,0.013122284784913063,0.027952689677476883,0.026913408190011978,0.01905716210603714,0.025831034407019615,0.017952876165509224,0.02513684332370758,0.03187219426035881,0.00941622257232666,0.029594305902719498,0.028212785720825195,0.028226489201188087,0.020391996949911118,0.027071356773376465,0.019305579364299774,0.014739638194441795,0.02889860048890114,0.016685649752616882,0.026226969435811043,0.026703162118792534,0.029678281396627426,0.020816126838326454,0.02675134688615799,0.014900125563144684,0.028411544859409332,0.029376620426774025,0.014798485673964024,0.01417246088385582,0.030407531186938286,0.025648396462202072,0.028410976752638817,0.023633208125829697,0.014682347886264324,0.013835044577717781,0.02463182434439659,0.028293417766690254,0.011860252358019352,0.021004581823945045,0.01329295989125967,0.025007739663124084,0.0231121014803648,0.019084053114056587,0.0093657486140728,0.016732661053538322
+Questions:
+How do you unsnap a piece that you snapped in incorrectly?
+How much wall space is needed to hang the entire set?
+How many different dolls does this all-in-one set include?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+"let me start by saying I always thought Legos was for everyone, but I have found that maybe some girls aren't attracted to the square shapes of most of the Lego or block toys.
+That said, this is a great playset for girls but be prepared to invest in some ""wall estate"" if you do get it.
+Have to somewhat commit for this toy ;)"
+This is the best Polly Pocket toy I have ever seen.
+It has eight different platforms.
+The dolls slide between the parts!
+It also has lots of storage space for the dolls and the utensils.It take a little time to put together, but it was easy.
+The platforms fit on a wall space of about three feet.
+This is not a floor toy, but a wall toy.
+It sticks there by removable strips.
+It will not damage a painted wall, caution may be necessary with a wall paper space.I would highly recommend this toy.
+My five year old loves it.
+This is a great set.
+My 5 year old daughter loves it.
+Once assembled and on the wall I thought it was really cool how the plastic rods connecting each play scene has a harnes that you attach a polly pockets figure to and slide down to the next scene.
+Very cool.
+There are many items too that come with suction cups so they don't fall off.
+They even have suction cup shoes for the dolls.
+Again, very cool.
+At first I was skeptical of putting this on my wall as I don't want anything leaving a mark but these toys come with a special adhesive strip that when you remove it does not leave marks.
+They give you a few extra so I tried it twice and they work.
+One thing I will caution though, it took me over 1 hour to get all of the scenes together and mounted on the wall so block some time for setting this toy up.
+My 6 year old got this for Christmas and absolutely loves it.
+She plays with it at least once a day and if the weather is bad, she will stay in her room and play with it most of the day.
+Whats nice about it is that she can use her imagination to create characters and personalities then she gets to get them to move from one shop to another.
+All the while, it is mounted on the wall so her room stays relatively clean.
+We love it!!
+!
+This was even fun to put up on the wall with the child giving opinions on what should go where and each section coming in its own little bag.
+There are so many activities with a tree house, a balloon ride, a campsite, a cafe, etc.The play can be solo or with a parent for a lot of vocabulary learning.
+If your little girl likes Polly, then she will love this set.
+And it can make a wall into a major play center.
+It has seen hours of play here already and many more coming.
+This would make a great birthday gift or special present for a 4-9 year old.
+This Polly Pocket Wall Party is an innovative way for my daughter to play with her Polly Pocket toys and it gets the clutter off of the floor.
+Since these toys can be attached to the wall, I don't have to worry so much about stepping on the pieces or vacuuming them up.Assembly was a bit tricky as there were not a lot of written instructions.
+The pieces for each item were sorted into individual bags and some of them had instructions in color.
+Those were easier to assemble than the ones in grayscale.
+One of the pieces holding the adhesive was put on upside down in the factory and that threw me for a loop, but once I figured that out, I took it apart and put it back together the right way and popped it into place with no problem.Most of the pieces don't have a level bottom, so you can't easily play with them on the floor.
+They really are designed for the wall only.
+We'd considered putting the Wall Party on the marble surrounding our fireplace because we thought the adhesive strips would stick better, but after looking at it we thought there wouldn't be enough space to fit everything.
+We ended up putting it all on textured walls.
+We pressed the strips on really hard and they've been sticking fine.My daughter has a lot of fun playing with this set.
+She has some other Polly Pocket items she can incorporate too.
+She seems to be pleased about how novel this toy is compared to other floor or table toys and she really likes the slides and zip lines that connect different areas.
+I'd recommend this as something that's a change from the usual doll sets.

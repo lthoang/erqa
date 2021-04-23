@@ -1,0 +1,179 @@
+Top question(s):
+Which @!#%@% paw is the 'off' switch on?  I am close to destroying this thing and boycotting Hasbro for life.
+is it a real cat or just fake because i want a real cat but i cant find one
+Top sentence(s):
+The cat 'cuddles' when you press it's back.CONS: With all that, for some reason our cat seems unable to walk, it does more of a belly crawl.
+She has a play mode, a cuddle mode (my daughter's favorite) and a sleep mode.
+I wouldn't say its exactly cuddly, as the inside of the body is hard, to hold the battery compartment and  parts that make it work.
+Once I remembered I was expecting this little guy, I laughed at myself and took it in to the house.
+Always enchanted by it at the store, it's been at the top of her wish list for awhile.
+
+Question attention weights:
+0.11984503269195557,0.2105008363723755,0.27250075340270996,0.25089767575263977,0.14625568687915802
+Sentence attention weights:
+0.005662485491484404,0.004112675320357084,0.003170357784256339,0.013973941095173359,0.004564880393445492,0.005551563575863838,0.006086351815611124,0.00674622505903244,0.006835063453763723,0.01906058005988598,0.005632639396935701,0.005765468347817659,0.006274954415857792,0.00599837489426136,0.004759775009006262,0.00648299977183342,0.00774801429361105,0.006184362806379795,0.006196343805640936,0.007443701848387718,0.005818796809762716,0.00636259512975812,0.006318644620478153,0.006184362806379795,0.0069776130840182304,0.006184362806379795,0.006184362806379795,0.007882703095674515,0.010643964633345604,0.005267489701509476,0.003930241335183382,0.008845650590956211,0.003926319535821676,0.007211712189018726,0.005294135306030512,0.005360641982406378,0.006666394881904125,0.006244277115911245,0.007508479990065098,0.004693431314080954,0.006073300261050463,0.007452656514942646,0.006116175092756748,0.0053586699068546295,0.005873907823115587,0.0062246909365057945,0.009486922062933445,0.006148691289126873,0.00497668469324708,0.007895193062722683,0.007617393508553505,0.006383588537573814,0.00881552416831255,0.006538360379636288,0.006344866938889027,0.005115898326039314,0.006765082012861967,0.01002638228237629,0.007326688151806593,0.0045247129164636135,0.003897987538948655,0.007535613141953945,0.006891100201755762,0.00417262502014637,0.006281827110797167,0.007223349064588547,0.009666550904512405,0.004467515740543604,0.008968215435743332,0.00984535738825798,0.006340698339045048,0.006761581636965275,0.007822208106517792,0.007111032027751207,0.0032161218114197254,0.0029178743716329336,0.006295301020145416,0.006337685510516167,0.0075311241671442986,0.006179155316203833,0.007057767361402512,0.006527175661176443,0.005553883966058493,0.008399723097682,0.011038991622626781,0.0051036677323281765,0.008699637837707996,0.006585408002138138,0.0033640677575021982,0.00271129934117198,0.005940984468907118,0.00885039009153843,0.006367064546793699,0.006273997016251087,0.005478728096932173,0.006234525237232447,0.004984949249774218,0.006528169382363558,0.006276358850300312,0.006785404868423939,0.006414429750293493,0.006234525237232447,0.00405126204714179,0.005708195269107819,0.0066617317497730255,0.006083499174565077,0.0064535243436694145,0.005159291904419661,0.005911556538194418,0.005557341035455465,0.005977896507829428,0.006328434217721224,0.006554269697517157,0.0063496860675513744,0.0050259982235729694,0.007180382031947374,0.005983811803162098,0.006627673748880625,0.006470929365605116,0.006470929365605116,0.007879857905209064,0.008400190621614456,0.008803478442132473,0.004672450479120016,0.006839277688413858,0.00611804099753499,0.0065681361593306065,0.0035552079789340496,0.006331557407975197,0.006123329512774944,0.006322350353002548,0.005963334813714027,0.006680324673652649,0.007670094724744558,0.006747301667928696,0.004917691927403212,0.0065947785042226315,0.005876130424439907,0.006398974452167749,0.007384480442851782,0.007138549350202084,0.006787556689232588,0.006502470001578331,0.0062083411030471325,0.0062083411030471325,0.005721130408346653,0.007709106430411339,0.006151717621833086,0.005062758456915617,0.005620077718049288,0.008118669502437115,0.006292030215263367,0.006171062588691711,0.0062083411030471325
+0.006188056897372007,0.004375638905912638,0.003947944846004248,0.01241933461278677,0.005161701701581478,0.005829328205436468,0.006267660763114691,0.007731601130217314,0.007057533599436283,0.015174351632595062,0.005903152748942375,0.006205716170370579,0.005929842591285706,0.005981293972581625,0.005419603083282709,0.006731580477207899,0.0077667394652962685,0.006490325089544058,0.006476120557636023,0.007648819591850042,0.006012276280671358,0.006599872838705778,0.006324409041553736,0.006490325089544058,0.007447272073477507,0.006490325089544058,0.006490325089544058,0.007727830670773983,0.009109556674957275,0.005754489451646805,0.004401788581162691,0.008265524171292782,0.004076954908668995,0.007567244581878185,0.005327986087650061,0.004984526429325342,0.0068425084464251995,0.006474942900240421,0.007440510671585798,0.004754312802106142,0.006363656837493181,0.006167152430862188,0.006426630541682243,0.00583246722817421,0.00606738543137908,0.006262108683586121,0.00888102501630783,0.0064297085627913475,0.005159997381269932,0.0071046603843569756,0.007149441167712212,0.006650228053331375,0.008392903953790665,0.006710524670779705,0.006376872304826975,0.005859673023223877,0.006892653647810221,0.008618924766778946,0.00556186493486166,0.005411027930676937,0.004353499040007591,0.007533395197242498,0.0062799593433737755,0.005245121195912361,0.006582432426512241,0.0071821738965809345,0.008622763678431511,0.003979471977800131,0.008418688550591469,0.009653283283114433,0.0064713493920862675,0.006406084168702364,0.0070037818513810635,0.005354723893105984,0.004089524503797293,0.003669073572382331,0.006668777670711279,0.007439951878041029,0.008302809670567513,0.006388032343238592,0.006641991902142763,0.00568406330421567,0.005850321613252163,0.007125040050595999,0.009090895764529705,0.0053341444581747055,0.008164006285369396,0.005557077471166849,0.0032978467643260956,0.003812441136687994,0.006091625429689884,0.007184466812759638,0.006480149459093809,0.006383550353348255,0.00595330074429512,0.006470012478530407,0.0054845972917973995,0.0073183150961995125,0.006412530317902565,0.006094667129218578,0.00687237037345767,0.006470012478530407,0.004549995064735413,0.005292719695717096,0.0066880956292152405,0.0064697545021772385,0.0072359670884907246,0.005386536009609699,0.0062180450186133385,0.00619080662727356,0.007197539787739515,0.006303862668573856,0.006362777203321457,0.006493346765637398,0.005825037136673927,0.006691720802336931,0.00582465436309576,0.006808605045080185,0.006689851172268391,0.006689851172268391,0.007507867179811001,0.007907192222774029,0.007722251117229462,0.005230223294347525,0.0063257403671741486,0.0064228917472064495,0.006945915520191193,0.0040799942798912525,0.005282833706587553,0.006540875881910324,0.006584923714399338,0.006422742269933224,0.006728197447955608,0.00784948468208313,0.0068580168299376965,0.005075029097497463,0.006743155885487795,0.006095495540648699,0.006644960958510637,0.006653808057308197,0.007121071219444275,0.007193463854491711,0.006962161045521498,0.0064549315720796585,0.0064549315720796585,0.00540449284017086,0.0072618164122104645,0.006382103078067303,0.005343532655388117,0.006195767316967249,0.0064307525753974915,0.006357865873724222,0.006414857693016529,0.0064549315720796585
+0.00601756339892745,0.004399535246193409,0.003802804509177804,0.01261244434863329,0.00484539195895195,0.005367946811020374,0.006502077449113131,0.007215267978608608,0.006394244730472565,0.01614581234753132,0.005459698382765055,0.006129578687250614,0.00566440261900425,0.005551573820412159,0.004956219345331192,0.00674412352964282,0.008002475835382938,0.006771894637495279,0.006755581591278315,0.007470788899809122,0.006320466287434101,0.006902470253407955,0.0064912778325378895,0.006771894637495279,0.007435713894665241,0.006771894637495279,0.006771894637495279,0.008021906949579716,0.00908073503524065,0.005016525276005268,0.003449781099334359,0.00837215781211853,0.003946484532207251,0.008035910315811634,0.005218836944550276,0.005098931025713682,0.007161849644035101,0.006790132727473974,0.008010664954781532,0.004525079391896725,0.006653362885117531,0.005693360231816769,0.006380398757755756,0.005629839841276407,0.0061569311656057835,0.005717379506677389,0.009757033549249172,0.0067220465280115604,0.0052697849459946156,0.007607907056808472,0.007768203504383564,0.00696215545758605,0.008694986812770367,0.007045306731015444,0.006557951681315899,0.00560274813324213,0.007226321846246719,0.009370315819978714,0.005254996474832296,0.005092631094157696,0.004056921694427729,0.007498444523662329,0.0060535878874361515,0.004529169294983149,0.0066689373925328255,0.00699366070330143,0.009185364469885826,0.004413767717778683,0.008552193641662598,0.009960725903511047,0.005933993496000767,0.005948575679212809,0.006621304899454117,0.004964724183082581,0.003207692876458168,0.0031315861269831657,0.00677589001134038,0.007588235195726156,0.007412733975797892,0.006538328714668751,0.006780875381082296,0.0058541689068078995,0.00606929836794734,0.007606164552271366,0.009537148289382458,0.005255457479506731,0.0076973531395196915,0.005463377572596073,0.003331990446895361,0.003438294166699052,0.006341313011944294,0.007120007649064064,0.006793731823563576,0.00666997442021966,0.006496788468211889,0.0067860763520002365,0.0051676370203495026,0.006710332818329334,0.006712616886943579,0.0063452753238379955,0.006556394509971142,0.0067860763520002365,0.004650549031794071,0.005209960509091616,0.007144225295633078,0.006733199581503868,0.006537965033203363,0.0045537385158240795,0.005956510081887245,0.006174818146973848,0.007309293374419212,0.006554317660629749,0.00615666201338172,0.006592223420739174,0.005087308119982481,0.006475495174527168,0.005900275427848101,0.007115942891687155,0.006993670016527176,0.006993670016527176,0.007989891804754734,0.008397345431149006,0.007380152586847544,0.004706564359366894,0.005924809258431196,0.006714625749737024,0.006451302673667669,0.003332005115225911,0.0056533426977694035,0.006681479513645172,0.006875004153698683,0.0063528274185955524,0.006895138882100582,0.00773999560624361,0.006217794958502054,0.005239768419414759,0.007073904387652874,0.005959158297628164,0.006945773493498564,0.006778765004128218,0.007297667209059,0.007013977505266666,0.00737775256857276,0.006752524059265852,0.006752524059265852,0.005235451273620129,0.00761240441352129,0.005771547090262175,0.0047249565832316875,0.006213120184838772,0.006003947462886572,0.0066036032512784,0.0067145852372050285,0.006752524059265852
+0.006315119564533234,0.0045317853800952435,0.004346250556409359,0.011257292702794075,0.00535093666985631,0.00603345176205039,0.006280628498643637,0.007872662506997585,0.007074644323438406,0.01378096267580986,0.00621267594397068,0.006296819541603327,0.005960697308182716,0.006169233005493879,0.005629483610391617,0.006795051507651806,0.007621076889336109,0.006498898379504681,0.00648330245167017,0.007464761380106211,0.006040343549102545,0.006590442731976509,0.0062805647030472755,0.006498898379504681,0.007480762433260679,0.006498898379504681,0.006498898379504681,0.007567043881863356,0.008626837283372879,0.0059930733405053616,0.0049567618407309055,0.007898686453700066,0.004350460134446621,0.007429290562868118,0.005525258369743824,0.0050080688670277596,0.006806007586419582,0.006470389198511839,0.007250353693962097,0.004932295996695757,0.006383099127560854,0.005955761298537254,0.0064392900094389915,0.005880232434719801,0.006156460382044315,0.006308605894446373,0.008415118791162968,0.006439378019422293,0.005157873500138521,0.006846127100288868,0.00699054216966033,0.006635350175201893,0.008221376687288284,0.006689721718430519,0.006377135869115591,0.0060572512447834015,0.006831849925220013,0.008026990108191967,0.005448163952678442,0.005576868075877428,0.004704523831605911,0.0074571180157363415,0.006214697379618883,0.005565320607274771,0.0065899137407541275,0.00714832404628396,0.0081611517816782,0.004005566705018282,0.008243190124630928,0.009235375560820103,0.006646418012678623,0.006363535765558481,0.007128302939236164,0.005218653008341789,0.004542414098978043,0.004112254362553358,0.0066509428434073925,0.007517276331782341,0.008208570070564747,0.0063946922309696674,0.006494083441793919,0.005635393317788839,0.005945372395217419,0.006802458316087723,0.008574950508773327,0.005612719804048538,0.007942264899611473,0.00557430787011981,0.0035478181671351194,0.004143147263675928,0.006107467692345381,0.007041939999908209,0.006460816133767366,0.006364879198372364,0.005899712443351746,0.006467441562563181,0.005718254949897528,0.007468355819582939,0.006405908148735762,0.00601408863440156,0.006932611111551523,0.006467441562563181,0.00483353715389967,0.005416302941739559,0.0065782684832811356,0.0065110307186841965,0.00745600089430809,0.005705257877707481,0.006368905305862427,0.006326150614768267,0.007394446991384029,0.006260374560952187,0.006354189943522215,0.006506660021841526,0.006279851775616407,0.006637882441282272,0.005851989611983299,0.006768150720745325,0.006665395572781563,0.006665395572781563,0.007299251388758421,0.007677518762648106,0.0075198072008788586,0.005419756751507521,0.006325275171548128,0.006432157475501299,0.0069013237953186035,0.004595969803631306,0.005076927598565817,0.006580794230103493,0.006584612186998129,0.006506691221147776,0.006589386612176895,0.007736651226878166,0.006989889778196812,0.005259040277451277,0.006699555087834597,0.00618865666911006,0.006641470827162266,0.006515538785606623,0.0070423162542283535,0.007273335941135883,0.006820978131145239,0.006458691321313381,0.006458691321313381,0.0054215313866734505,0.007089054211974144,0.006585159804672003,0.005699352361261845,0.006273468490689993,0.006249661091715097,0.006381715647876263,0.006421427708119154,0.006458691321313381
+0.005932781845331192,0.004125707317143679,0.0033710356801748276,0.013789474032819271,0.004842036869376898,0.005627778358757496,0.006154877133667469,0.007158556487411261,0.007427806966006756,0.01633964106440544,0.005694189108908176,0.005957089830189943,0.006449147593230009,0.0059133172035217285,0.005042352247983217,0.0064501385204494,0.0078187370672822,0.006267597433179617,0.006272976752370596,0.007759444881230593,0.005845022387802601,0.0064169238321483135,0.006471159867942333,0.006267597433179617,0.007064834702759981,0.006267597433179617,0.006267597433179617,0.00785398855805397,0.009966147132217884,0.0054666404612362385,0.004135602619498968,0.00877165887504816,0.00390007346868515,0.007200520485639572,0.005256855860352516,0.005125237163156271,0.006647840607911348,0.006289336364716291,0.007379309739917517,0.004698073957115412,0.006139292381703854,0.007343409117311239,0.006355696357786655,0.005742806475609541,0.005864545702934265,0.006403292529284954,0.009162071160972118,0.006217740476131439,0.005122536793351173,0.007595138158649206,0.007308393716812134,0.006445487029850483,0.008470750413835049,0.006546941120177507,0.006315577309578657,0.005457014311105013,0.006789733190089464,0.009467451833188534,0.006981102749705315,0.005004518665373325,0.004044880624860525,0.0074531761929392815,0.006743896286934614,0.004726470448076725,0.006433307193219662,0.007385254371911287,0.00886450707912445,0.0041282703168690205,0.008614764548838139,0.00971261691302061,0.006476174108684063,0.006849002093076706,0.007234774064272642,0.006568575277924538,0.0035072220489382744,0.0031104229856282473,0.006428583990782499,0.006446994375437498,0.008063816465437412,0.006351815536618233,0.006917118094861507,0.006244049873203039,0.0056017604656517506,0.008019713684916496,0.010146028362214565,0.004990994464606047,0.00870625302195549,0.006182522512972355,0.0032671226654201746,0.0031464716885238886,0.0059431251138448715,0.008259805850684643,0.00637419056147337,0.006286834832280874,0.005579803604632616,0.0062809051014482975,0.005242745857685804,0.006934163626283407,0.006299122702330351,0.006451854016631842,0.006744319573044777,0.0062809051014482975,0.004069960210472345,0.005503751337528229,0.006629129406064749,0.006168322637677193,0.006746378727257252,0.005402426701039076,0.006104615982621908,0.005798916798084974,0.0062444377690553665,0.006314466707408428,0.006670951843261719,0.006398041732609272,0.00530123058706522,0.007164303679019213,0.0059816185384988785,0.006659197621047497,0.0065167127177119255,0.0065167127177119255,0.007677843328565359,0.008073766715824604,0.008541012182831764,0.004912923090159893,0.006890565622597933,0.0061941868625581264,0.007075778674334288,0.0037657360080629587,0.005977541673928499,0.006249163765460253,0.006379776168614626,0.0061101545579731464,0.006758611649274826,0.007834818214178085,0.006797867361456156,0.004865705966949463,0.006633806508034468,0.006071613170206547,0.006417480763047934,0.007281695958226919,0.0071619413793087006,0.006944794207811356,0.006713480688631535,0.006259221117943525,0.006259221117943525,0.005644713528454304,0.007452116347849369,0.006032684352248907,0.005075940862298012,0.005889931693673134,0.007714248262345791,0.006212142296135426,0.006214527413249016,0.006259221117943525
+Questions:
+Does Daisy, the FurReal kitty have an off switch?
+My daughter got this from birthday present. she makes noise but it does not move. I think it is defect? Is there some kind of manufacture warranty?
+Which @!#%@% paw is the 'off' switch on?  I am close to destroying this thing and boycotting Hasbro for life.
+is it a real cat or just fake because i want a real cat but i cant find one
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+My two year old daughter is in love with this adorable cat!
+She has three different sensors that respond to movement or you can press her back or right paw and she will pounce up, move her paws, meow and purr.
+By pressing her right paw twice she will meow a little tune.
+She has a play mode, a cuddle mode (my daughter's favorite) and a sleep mode.
+As others have stated, she doesn't have volume control and at times can be somewhat loud, but she does have an on/off/try switch, which is great.
+Also, her meows and purrs sometimes sound realistic and other times sound like a woman making cat sounds, but my daughter doesn't notice the difference.
+This toy is pretty awesome and it makes my little one very, very happy.
+As I picked up the box it startled me because it meowed, the cat came ready to play with 4AA's and is ready to go (once unsecured).PROS:  The cat is quite adorable with huge green eyes and it is quite soft and cuddly.
+The cat performs several different fun commands: it comes with a feather-like toy which when waved at its forehead the cat 'bats' at it, if her paw is squeezed twice it meows a song.
+The cat 'cuddles' when you press it's back.CONS: With all that, for some reason our cat seems unable to walk, it does more of a belly crawl.
+The cat boasts that it can get up on its hind feet to bat at things but it doesn't execute that move either.
+Furthers concern are that the cat doesn't seem to turn on unless you squeeze its right paw.
+While the cat performs you can hear  low mechanical grindings.
+There is no volume control and its meowing can be somewhat grate on your nerves .
+Lastly, I do wish the cat came with some sort of brush for grooming.All in all, the cat is very cute, seems well made, but comes up short in my opinion.
+It seems overpriced and I can't say I would recommend it, probably not.
+I got this toy for my 6 year old daughter, who loves cats, both real and pretend.
+Here is what she thinks of Daisy:I think it is a great kitten.
+I was so happy when I got her.
+Daisy is a adorable kitten.
+I do not like it when she pounces on her toy because she cracks a little.
+I am a little afraid of her cracking.
+She likes to pounce on her toy.
+And she purrs.
+And she sings.
+And she is really fun.
+She is so cute to.
+And I am so glad I got Daisy.
+FurReal Friends Daisy Plays-With-Me Kitty Toy is adorable.Daisy basically pounces, rears up, pounces, makes bread, and sings a little meow song that sounds like a cartoon character and not a cat.
+She is cute, but doesn't have enough functions to warrant long term play.
+Playing with her is not as intuitive or integrated as playing with, for example, &#34;Cuddles&#34; the monkey.Daisy has a sensor (button) on her right front paw and above her tail, as well as a sensor in the front of her head.
+The head sensor is triggered more naturally- by petting her or waving her feathery toy in front of her.
+The paw and back sensors are buttons, and the one in the foot is particularly small.
+It's less natural petting and playing and more searching for the buttons by feel.
+The back ones are on the topside of her butt, where her tail connects.She is mostly a few-trick kitty and after around 30 minutes of playing with her, she was put next to the bucket of stuffed buddies in my son's room and there she sat for almost 3 weeks before we remembered she was there.
+I was hoping she would be more real-kitty ish (the bread making/kneading motion do feel very real), and while she is more advanced than the battery operated fuzzy pets we used to get on Canal Street when I was little, she doesn't seem to do much more than the stuff they did, albeit in a more random fashion.For us it is just not a &#34;must have&#34; toy or one we would ever purchase to give someone else, knowing how limited the play and experience is...
+The price, to me, seems high for the play potential... My son did enjoy it, but lost interest when Daisy became a bit too repetative and predictable.
+"This toy has great animatronics.
+It ""responds"" in a number of ways and its interactivity is very entertaining.
+It's a very cute design, too.The only downsides:-- It's not cuddly in that it's basically a mechanical toy with a faux-fur facade.
+(But its mechanics are very good.)
+-- The volume is not adjustable and can seem pretty loud in some settings.For an animated toy like this, the price is not bad at all.
+My niece really likes it and its interactive behavior."
+"Okay, first I almost had a heart attack, then I loved it.
+The mailman put this a box by the garage door.
+When I picked it up, the box started to shake and ""meow"" and for around 10 seconds my heart started to pound as I thought ""what sicko would put a cat in a box"".
+Once I remembered I was expecting this little guy, I laughed at myself and took it in to the house.
+All I can say is ""cute, cute, cute"".
+The cat will ""meow"", walk, and even play with a little feather on a string that is included.
+It is relatively soft and cuddly and will be as close to a ""real cat"" as my kids may get for a while.If you have a young cat lover that isn't quite ready for the real thing or maybe has allergies to a real cat - definitely grab this little guy.
+An overall fun toy and my kids continue to enjoy."
+My 8 year old daughter loves this kitty.
+It is very cute it sound nice and makes fun movements.
+She plays with it with her friends all the time.
+It is a fun addition to our family.
+It is about the size of a full grown cat.
+It is a soft tiger kitty.
+"Like most of the reviewers I was surprised that as soon as I opened the Amazon box I heard mowing.
+This is due to her light sensor and being in demo mode, but it was a novel treat (although a potential surprise spoiler).
+The unpacking was middle of the road, if you tried keeping the cardboard intact it would take a long time, but if you just tear through it... there are just two pieces of twine securing the cat and some plastic securing the feather duster.
+Once you switch it from Demo to On, the cat will move to other positions (Sit/Stand/Pounce) and will often stand up or pounce when a shadow goes over her forehead.
+She's pleasant to hold in your lap because if you pet her back she kneads her paws like an affectionate cat.
+However, she is fairly vocal which keeps the amount of interaction time with adults pretty limited, but my 6 year old girl (and to a slightly lesser extent my 4 year old boy) loves playing with ""Daisy"".
+Overall she's a welcome addition to our family, I think if they added some sort of feeding and/or walking interactions it would be a 5 star toy.PROS:+ Cuddle-able+ Does tricks without direct touch thanks to light sensor+ Big enough to be lifelike (small adolescent cat size)+ Easy care+ Batteries includedCONS:- Vocalizations get a little tiresome after awhile- Pouncing looks more pathetic than cute since back feet kick out (think Bambi on ice)"
+"This cat is a big hit with my kids.
+The three of them (ages 7, 4, and 1) fought over who got to keep it from the moment we took it out of the package.
+While in some ways it would be nice if they could each have their own so they don't fight, as a parent I would not want more than one of these in my house, as the mewing can get a bit annoying.
+We have the kids take turns by day so they don't fight, but after the first couple of weeks, I think the initial excitement of a new toy has worn off, and they don't fight over it as much, or even worry about whose ""day"" it is.
+The kitten is cute, soft and furry.
+I wouldn't say its exactly cuddly, as the inside of the body is hard, to hold the battery compartment and  parts that make it work.
+It  mews, and even mews a song.
+She pounces and moves it's paws when you either push a button on its back or wave the feather toy (included) in front of it."
+"There is a thin coating of fur and cuteness on the outside of this toy, but just beneath the skin it's a whirring, clicking, mewling abomination.
+My daughter loves it.There are embedded buttons on the back and one front paw, and some sort of visual sensor in the face of this monstrosity, which when activated, cause it to judder through an approximation of kitty-stretching, kitty-pawing, and kitty spine-hyper-extending.
+My daughter can't get enough of these activities.This simulacrum of cuddliness is actually rigid and unyielding, since there is no padding, only an orange and white cover stretched over a skeleton of terror, so the toy is entirely inappropriate for taking to bed -- in addition to being as hard as an unusually terrifying rock, it's prone to lurching into its routine of grinding and clanking and pushing your child out of bed in the middle of the night (there is no ""night"" mode -- only ""on"", ""off"", and ""try me,"" the last of which sounds like a vaguely threatening challenge).
+Nevertheless, my daughter regularly demands it be included in that night's collection of bedtime toys.In my opinion, it should be burnt and its ashes scattered on holy ground to prevent it from stealing the souls of everyone in the house while they sleep.
+One star.From my 27-month old daughter's perspective, it's cuddly-wuddly wonderful and the best present daddy ever gave her.
+Five stars.Averaging these two gives me the three star review I've indicated here."
+I forgot I was expecting this and when the box started to meow and move as I carried it up the steps, I was a little freaked out.Daisy is not as cuddly as she looks, more fur-covered robot than stuffed animal, but she's fun for kids.
+Wave the included kitty toy and she will pounce and move her paws around.
+She makes purring sounds and meows.
+I really wish she had a volume knob, but we can't have everything we want in life.
+My daughter can't have a real kitten so this is a fun substitute for now.
+Our niece has wanted one of these for awhile.
+Always enchanted by it at the store, it's been at the top of her wish list for awhile.
+She's had a much smaller version and when I saw this up for review I couldn't pass it up.
+The toy itself is much larger than I remembered and when opening up the box I jumped with surprise as the cat started meowing and moving.
+It had slipped my mind it would arrive in demo mode and luckily I was alone when I jumped out of my chair.The cat itself is cute, fluffy and I can see the appeal to younger kids.
+It's somewhat interactive in its movements and actions when you touch its paw, etc.
+The only thing that I found particularly creepy was its eyes, however I usually find eyes on toys pretty creepy so it's pretty much a given.One of the main issues I've found so far when it comes to this toy is that we only have one and our nieces tend to fight over playing with it.
+While I would love to have two available for them, I think for our home only one would be tolerated as the sounds do have a wearing affect after a full day of on and off play between both girls.The fact is that they love it.
+They couldn't be happier with it and their smiles and excitement over it were more than enough to make me love it as well.ETA:One other reviewer mentioned a HUGE plus for the toy and that it makes the kids happy without being hit with vet bills for the real thing.
+I have to agree with this wholeheartedly.
+"It arrived meowing in the box.
+""I didn't know you could mail cats,"" The UPS man said with a sheepish grin.
+""They mail chicks!""
+My 6 year old said, as I passed the box over to her.The creature's has a nice fluffy feel to it; small cat size; lightweight and plenty cute.
+It features 3 settings: on-off-try me(demo), and it instantly came alive out of the box.It lunges at a little featherly toy, and meows and purrs with different varieties.
+It's suppose to sit up/jump up and bat at its toy.
+It was hit or miss with that function.
+Squeeze its paw or wave at it to get it activated.We have 5 cats, and they all came over to investigate for a moment.
+""Maybe, they think it's real?""
+Soon, they were sticking their noses up and moving on.
+But our children like it.We know friends that don't allow cats either because of allergies, or they're just not cat people(hard to believe- probably never grew up with them).
+They have children who would love to have a cat, and this could be a neat substitute.
+A bit pricey.
+Batteries included, 4 AA's."
+"Although it says ""demo"" batteries are included, we're still using those demo batteries and it's working great!
+My 7 1/2 year old LOVES Daisy and plays with it daily.
+This is an adorable alternative to a real kitten, due to allergies."
+My 9-year-old likes this toy because it's cute, cuddly and works well.
+She enjoys how it stands up and moves its paws whenever you hold your hand up to it.
+It also pounces after its feathery toy (included) if you drag it across the floor.
+They play with it a lot and we haven't had to change batteries yet in nearly a month.
+Daisy meows and purrs if you pet her, and also sings a meow-meow song.
+Very fun toy, and unlike Furby, she also has an off switch!
+We picked this toy for our granddaughter because she has a cat but doesn't quite understand that sometimes real cats don't always like to play.
+She gets scratched.
+She gets bitten.
+And, still, she wants to play.
+So we thought we could give her an interactive cat toy that would always want to play with her, hoping she would be pleased with the idea.She was so much more than pleased.
+She's downright thrilled!
+She loved how the paws moved and pretended to be feeding it, letting it knead her toes, using the cat toy that comes with it to have it jump up.
+She sang along with it as it mewed and meowed.Hours later, our daughter-in-law sent us a text with a photo of our granddaughter, toy cat in her arms, watching television next to daddy.
+This toy is irrefutably a winner.
+I really wanted to like this toy.
+It's one of those electronic hybrid toys that tries to be interactive and fun, however, I have some issues with this toy which I would like to share with you.Pros:-Interactive nature.
+Depending on whether you squeeze the right paw, pat it's back, or wave your hand in front of it's face, it will respond with meows, pounces, and other motions-The meows are really cute, almost sounds like a real catCons:-The main issue I have with this toy, is it is really rigid and hard.
+This is definitely not a huggable toy, in that although it looks furry and soft on the outside, it is hard as a rock to hug-When the toy is moving, it has a strange mechanical sound, which brings up visions of the terminator in my mind, think old school T1 (and not the fluid T2 or T3)-The cat is not able to move across a surface, the back legs do not move, only the front paws move
+I thought these toys would be cool upon seeing them and I was right.
+This cat is really amazing.
+She purrs, pounces and rises up on her back legs.
+She has three sensors and two modes.
+I think the instructions are wrong in that they say touching her back puts her into cuddle mode.
+I think the test option on her off/on switch does that and it's a fun feature because in cuddle mode, she doesn't jump, just meows, purrs and kneads.
+It does feel like a real cat, so I can see why these are used at retirement homes with elder people.
+The pounce option is neat.
+You are given a little fluffy toy and she jumps at it.
+I am sure this would delight any child.
+It has a lot to offer for the price, but the batteries are already in it.
+I would recommend it to others.
+"The mailman gave me a quizzical look when he delivered this so I don't know if Daisy had been complaining but she was kicking and meowing when I opened the box.
+My dog totally freaked out.... ""What is it?
+is it mine?
+gimme, gimme!""...
+I  got the kitchen shears to finally release her from the box and find the switch on the bottom of her foot to shut her up.
+You might want to keep the location a secret from the kid as long as you can.
+It comes with demo batteries but you will need four AA batteries when these wear out.
+The battery compartment is fastened with screws so little fingers can't pry it open.The five-year-old (and the dog) think this is the greatest thing ever invented.
+The cat, not so much.
+As for me...I find it sort of disquieting the way it pops and grinds and struggles on a hardwood floor.
+It's sort of pitiful and gives me dark thoughts of euthanasia.
+But this is not for grown-ups and I think the little kids will love it.
+The question is will they love it almost $50 worth?"

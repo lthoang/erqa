@@ -1,0 +1,229 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+My kids already had the Mr Pencil Saves Doodleburg game for their LeapPads, so this was an easy choice for a new game.
+Both my 6 year old and 3 year old have found games that challenge them but are not impossible to do.
+Needless to say he absolutely loves it and doesn't even realize he's learning while playing.
+I was left wanting more educational content from the game since it is a ""learning game"" but my girls were entertained nonetheless.
+There also are writing activities in which the child can practice letter strokes and learn to form all the letters.The storyline involves Mr. Pencil going on an adventure trip to rescue the lost colors of Doodleburg.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.006353475619107485,0.005083434283733368,0.005805213935673237,0.010374771431088448,0.0023404706735163927,0.0032985347788780928,0.00680079311132431,0.006023730617016554,0.005065135657787323,0.006550594232976437,0.004648898728191853,0.004346447065472603,0.005175188649445772,0.005249550566077232,0.00671799760311842,0.004706784151494503,0.006326364818960428,0.00474975910037756,0.0058156568557024,0.0024652890861034393,0.0030353635083884,0.005227038636803627,0.005013132002204657,0.0032309102825820446,0.0026847722474485636,0.004667679313570261,0.00446583516895771,0.006209643092006445,0.006545673124492168,0.00423791166394949,0.005051093641668558,0.0024191730190068483,0.00879132840782404,0.004094481468200684,0.006428497843444347,0.004831915255635977,0.003408538643270731,0.0029742459300905466,0.005173825658857822,0.006042093969881535,0.004046299960464239,0.004473801702260971,0.004201948642730713,0.002381926402449608,0.004703677259385586,0.002361255930736661,0.006012049037963152,0.00509753730148077,0.0043651508167386055,0.006759870797395706,0.005659632850438356,0.00366631499491632,0.003603406250476837,0.0056809368543326855,0.004191202577203512,0.003334916429594159,0.0026534595526754856,0.00465867854654789,0.0034080876503139734,0.005725099705159664,0.005881524179130793,0.003002939745783806,0.006651580799371004,0.008759869262576103,0.007417496293783188,0.0021428328473120928,0.003737106453627348,0.0061981710605323315,0.002271451987326145,0.005062455777078867,0.0014832059387117624,0.0032651459332555532,0.007726812269538641,0.003000041702762246,0.0050020115450024605,0.003470601746812463,0.0020845418330281973,0.0035669836215674877,0.002292995573952794,0.005303881596773863,0.005655103828758001,0.0019499525660648942,0.00756000867113471,0.00647579925134778,0.003520392347127199,0.0027799848467111588,0.005609612446278334,0.005874010734260082,0.004855538252741098,0.0027781748212873936,0.0033974824473261833,0.006268032360821962,0.0034399766009300947,0.0028797483537346125,0.007711409125477076,0.005605187267065048,0.004328954499214888,0.005665967240929604,0.0035217823460698128,0.0044997688382864,0.0031622585374861956,0.004125584382563829,0.004471920430660248,0.002618035301566124,0.003038987284526229,0.005759498570114374,0.005164056085050106,0.003967020660638809,0.002957990625873208,0.006572847254574299,0.0058871544897556305,0.005845044739544392,0.004123998805880547,0.0037135016173124313,0.004827253054827452,0.0062208534218370914,0.004039448220282793,0.003659404581412673,0.0033576544374227524,0.006941816303879023,0.0036734414752572775,0.0034966885577887297,0.0027426593005657196,0.004886336624622345,0.003840822959318757,0.006511892657727003,0.006642805878072977,0.006480022799223661,0.0037698925007134676,0.006789578124880791,0.005307716783136129,0.006062443368136883,0.00513191893696785,0.005115741863846779,0.005333472974598408,0.003444352652877569,0.0022752080112695694,0.0027713291347026825,0.0027144288178533316,0.0017220176523551345,0.005832243245095015,0.00330080627463758,0.003472581272944808,0.0037239347584545612,0.00616095308214426,0.002826175419613719,0.006277744192630053,0.0032516636420041323,0.005803506355732679,0.005080635659396648,0.005696797277778387,0.004388720728456974,0.005669828504323959,0.004904131405055523,0.00242553255520761,0.004852520301938057,0.0037979043554514647,0.003923637326806784,0.0036588951479643583,0.0033035462256520987,0.001943588606081903,0.007349729537963867,0.004572148900479078,0.006287564057856798,0.005874904338270426,0.009141343645751476,0.006209142506122589,0.0072320327162742615,0.0037942901253700256,0.0029427665285766125,0.0031188074499368668,0.005945120006799698,0.0037244257982820272,0.0069025494158267975,0.006782399490475655,0.0058698225766420364,0.004671189468353987,0.004756198730319738,0.0037501752376556396,0.005080272909253836,0.0034245061688125134,0.004797558765858412,0.002281797118484974,0.006418773904442787,0.002031890908256173,0.003254049690440297,0.0062082973308861256,0.00650551775470376,0.006508388090878725,0.003502184757962823,0.00648158136755228,0.005634700879454613,0.0051269736140966415,0.005274932831525803,0.0029877559281885624,0.0049342624843120575,0.0025799924042075872,0.0054545351304113865,0.005433928687125444,0.006729984190315008,0.004951496608555317,0.0055887592025101185,0.0028754204977303743,0.002121521858498454,0.0025504070799797773,0.004053101409226656,0.004717850126326084,0.007351380307227373,0.004644244909286499,0.004971199668943882,0.005088930483907461,0.003653559135273099,0.006278147455304861
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+My kids play this every time we have the Leapsters out.
+My 7 year old particularly loves this game.
+It is academically challenging without being obvious, and a lot of fun.
+My kids already had the Mr Pencil Saves Doodleburg game for their LeapPads, so this was an easy choice for a new game.
+They were thrilled to see a familiar character and loved that it was an Ultra eBook format.
+The story line is that Mr. Dull took the colors from Doodleburg and it's up to the characters to bring them back.I like that it has the auto-adjusting levels for play since one boy is not reading yet and the other is a whiz at reading.
+They were both able to play the game, to their abilities.
+To be honest though, the younger is below the recommended age range (4-7) for the game, so the fact that it was a little hard for him, requiring me to help him a lot, was expected.
+He still had fun with the characters and games.My older son found that he really had to listen to what was being asked of him, and not try to jump ahead.
+I appreciate that part of the game because that's an issue we constantly work on with him.
+Beyond that, it was a little easy for him, but he still played with it for hours, giving it up only when his LeapPad needed to be charged!My younger son tried really hard with the letter writing.
+He also liked hearing words sounded out for him.
+For him, the Read to Me function was perfect.I never got a chance to really watch them play any of the games, but the reading and writing activities were excellent.
+And judging from the laughter from each, this is a great game for kids!
+My children both love Mr. Pencil Saves Doodleburg.
+This is similar and works with the same Mr. Pencil concept, but has a different story line and a few different games.
+There is still plenty of writing practice cleverly disguised as fun, which I love.
+In this story, Dr. Dull is stealing color from Doodleburg, and by following along with the story and playing some embedded games, the kids convince Dr. Dull of the error of his ways and restore color to the town.
+It's a cute story, and my 4-year old loves this e-book.
+My 6-year old will play around with it for about ten minutes at a time before moving on to something else, but they both laugh at the story line.We bring the LeapPad on long road trips, and my daughter does get fairly frustrated trying to complete the games in the car - the slightest bump and the pen goes outside the letter tracing line, and it asks you to start again.
+In a still environment, it's great for dexterity and control, really learning how to write each letter, but the pad is so sensitive that this game does not work well for us for car rides.Overall, it's a great addition for the LeapPad, especially for younger players.
+I'd highly recommend it!
+When we got our daughter her leapad I was thinking that we should instead give her an old iPad, since that was the toy she was using the most.
+My wife insisted on the Leappad.
+Great Call I may say.We love this ultra ebook, I love the fact that you can adjust the level and that had been teaching her things while she play for hours.
+This is without a doubt another great addition to her LeapPad
+This game seems to hold my kids interest longer than many of the other games they play on their leappad.
+It also entertains both my 4 year old son and 8 year old daughter.
+It has enough different things to do that they can play it over and over and still enjoy it because they can switch some things up.
+And even I had fun playing it when I was checking it out for this review!
+It has a good mix of learning activities and just fun activities so they don't feel like they are just sitting and learning stuff, they are doing fun games too!
+"My son is 6 years old and hates reading but loves his LeapPad, so I wasn't sure how he'd feel about this game.
+Needless to say he absolutely loves it and doesn't even realize he's learning while playing.
+The Mr. Pencil Ultra eBook is for ages 4-7, and its great because it has three different levels depending on your child's level.
+When they start it will be easy for them and then gets harder as they get better.
+My son is learning words from this game that he has had trouble reading from traditional books.
+My son loves that he can touch the words to hear them said out by sounding out the letters or even the definitions for some words.
+My son's new word is ""Cavern"" which he is calling our basement now.As Aidan is reading, he is also unlocking special items and badges, which I can check out on LeapFrog Dashboard, but I haven't had the chance to hook it up yet since he is always playing on it!
+In addition to hearing the sentences, words and reading along, there are also small writing activities for kids, which my son refers to as ""games.""
+I'd say this is the perfect game for any child whether they are struggling with reading like my son is or even a good reader and just wants to incorporate something fun into reading.
+It should also be noted that this is different that the Mr. Pencil Saves Doodleburg game, which we also have.
+This game is more reading and words focused.
+If you don't want your child to deal with a cartridge, you can also download this an an ""app"" on the Leapfrog Leappad Dashboard."
+I'm really loving LeapFrog's new Ultra ebooks.
+They are a great tool to make reading fun, especially for new or reluctant readers.
+The text is easy to follow and the interactive aspects help to keep the child engaged.
+I especially like how it sounds out some words.
+This is excellent for a child like mine who is a visual learner.
+Another great product from LeapFrog.
+This is one of the few brands that have yet to let me down.
+"My three-year-old daughter loves Mr. Pencil.
+She repeatedly goes back to this game on her LeapPad tablet.
+As with other LeapPad products, there are three levels of ""reading"", so kids of all ranges of age and abilities can find a level that suits them.
+This story focuses on Dr. Dull taking the colors and the kids help restore them with the help of Mr. Pencil.
+The illustrations look like they have been colored with crayons, which I thought was cute.There are many little games in addition to the story.
+There is a racing game, tracing your letters game, fill-in the blank with the correct word, finding the correct word, answering comprehension questions about the story, matching colors.
+The letter-tracing game does take some motor skills, as you have to trace an exact line starting at an exact spot.The age range is 4-7 years, or pre-school through first grade.
+Most kids could play most of the games, but there are one or two that have first grade only words that my daughter had a hard time with.You can also record yourself reading the story, which is fun.
+My daughter navigates her LeapPad and this game fairly well.
+It holds her attention.
+It is a quality product that has a lot of educational value, while still making your kid think they are just playing."
+"This is a cute interactive ebook.
+My 3 and 5 year old girls enjoy it.
+I was left wanting more educational content from the game since it is a ""learning game"" but my girls were entertained nonetheless.
+There is a game where you write letters and that is my favorite component.
+I also like that you can adjust the reading level depending on your child's age and ability.Like other LeapFrog products (ex.
+Tag or Tag Jr.), it costs a decent amount of money to buy the device and even just a few books/games.
+If your family already has a tablet, it may be more affordable to download a few games to entertain/teach your child.
+But if you have the money to get your child their own tablet, this LeapPad system was definitely created for kids, with education in mind and seems to be very durable!"
+"LeapPad is a toddler's equivalent of a laptop or tablet providing an easy, fun and exciting way to learn preschool skills.
+An example is The LeapFrog LeapPad Mr. Pencil Ultra eBook for ages 4-7.Using their finger or the provided Mr. Pencil stylus to touch the Mr. Pencil eBook, the child can hear the sound of a simple word, more complex words, and at his/her own pace progress to words used in a sentence.
+After hearing the sound of each word, the child repeats the word(s) and then can earn learning achievement badges that can be used to unlock special feature areas in Mr. Pencil.
+There also are writing activities in which the child can practice letter strokes and learn to form all the letters.The storyline involves Mr. Pencil going on an adventure trip to rescue the lost colors of Doodleburg.
+This device has three auto adjusting reading levels and six reading and writing activity levels to change as the child becomes more skilled.
+The three reading levels, for example, are ""Read to Me"", ""Read with Me"" and ""Read on My Own.""
+The device has built-in microphones to help the child narrate the story for themselves.All-in-all this is a great phonics building tool that kids will enjoy, as long as mom or dad has LeapPad1 or LeapPad2."
+Apparently I didn't read the box closely enough- I wantedWorks With The Leapster Explorer And Leappad Explorer Systems (Sold Separately).
+- LeapFrog Explorer Learning Game: Mr. Pencil Saves Doodleburg (works with LeapPad & Leapster Explorer)which is Mr. Pencil for the Leapster Explorer.
+THIS however is Mr, Pencil for the Leapfrog Leappad that happens to say Explorer in big letters.UPDATE:Since this post was originally written, we have gotten a LeapPad.
+While I still am irritated by the packaging, our 6 year old son loves the game.
+He says it's helping him write better, so I've bumped the ratings to reflect that.
+As we embrace the digital era, even for our preschoolers, LeapPad continues to be the leader in products for children.
+They make learning fun.
+Their programs are engaging and give the children just the right amount of challenge according to age.
+I have never been more impressed with an educational company.
+I highly recommend not only this ebook but all LeapPad products.
+They are number one in preschool teaching toys.
+We own 2 of the original Mr. Pencil games, because my daughters (5 & 4 years old) would constantly fight over who got to play with it.
+Mr. Pencil has been a long-time hit in our house.
+This Mr. Pencil ebook was met with similar fanfare, more from the 5 year old than the 4 year old.
+The 5 year old is in Kindergarten and more interested in learning to read, so this book/game was perfect for her.
+She was able to try to read along with the book, as well as play the in book games.
+"We already hadLeapFrog Explorer Learning Game: Mr. Pencil Saves Doodleburg (works with LeapPad & Leapster Explorer).
+However, my 3 1/2 year old had shown little interest in it since the dexterity tasks were above his level, so I wasn't sure how he's take to the eBook.
+I'm glad to report he was mesmerized by it, ""reading""/talking along with it and finishing it without swapping to some other game despite his typically short attention span.Since he's had it, he's also shown a new interest in the existing and more skills based Mr. Pencil game.
+Which is great because it's encouraged him to keep working at it rather than giving up right away.
+Children on the older range of this book (6 or 7) may benefit from the reading portion if they had previously played Mr. Pencil games and still like the character, but if this is their first introduction you might get better engagement from one of the Disney/Pixar branded eBooks.
+So if you have children in that range consider this a solid 4 star review."
+My 3 year old daughter instantly loved this eBook thanks to the fun, colorful artwork and simple but engaging story.
+Compared to eBooks for other devices, this LeapPad eBook really offers a lot more variety and interaction.
+Like many children's eBooks, you don't need to read to be able to enjoy this book.Like most games, you are required to follow instructions during the course of this eBook to complete various activities.
+Some relate to reading - writing letters and word games, but there are activities where you interact with colors, which certainly makes sense given the story.
+There isn't a ton of text and the vocabulary is fairly basic.
+The recommended ages are 4-7, but my 3 year old is able to enjoy this eBook well enough.
+My 4 year old and 7 year old both enjoy this Ultra E-Book.
+While it is not their favorite game to play, I see them both coming back to play this game every once in a while.
+Within the story are games to play, but the player can also select the same games to play without reading the book.
+There is a section which teaches vocabulary words that are found throughout the book, and players learn to write letters and shapes by tracing the lines.
+Overall, it's an entertaining e-book/game that has educational value.
+This game was so-so, and my son really did not like it.
+The game play itself is not appealing nor easy, and he got frustrated with it.
+He is only four and half however, and it is for 4-7 year old children.
+The graphics are not great but none of the leap pad games are.
+He enjoys some of the leap pad games quite a bit but this game he did not care for.
+This is a great concept and use of technology.
+I gave this to my 7 year old granddaughter.
+She was delighted with the gift and eager to begin.What you get is an ultra eBook which is essentially an immersive and interactive way to learn reading using the LeapFrog Explorer learning tablet.
+The story has three reading levels which auto-adjust the sentences to match your child.
+There are modes:  Read to Me (LeapFrog reads the story), Read with Me (LeapFrog pauses on each page for learning activities) and Read on My Own (self-explanatory).
+Mr. Pencil is the character that guides your child through the learning experience.
+There is writing - building basic letters in upper and lowercase, too.My granddaughter enjoyed the story until she mastered it, then she got bored with it rather quickly.
+I think the same can be said of all her LeapFrog content, which is why you'll need to give them fresh content to keep them challenged.
+Overall, this is another LeapFrog product that I'm satisfied with.
+Our child was being very obstinate with learning to write letters, and this &#34;game&#34; got him focused on it (without his knowing it) and definitely helped him progress faster than he otherwise might have.
+It still took encouragement and support on our part, so it wasn't pure magic, but I highly recommend this as a learning aid.
+Very highly.
+"I had my young 6 year old test this game out.
+He played for a little while but quickly asked if he could play something else instead of this new game.
+I asked why and he stated it was a preschool game and it was boring.
+He suggested that I give it to my toddler.
+I did check and it really seems to be to easy for any child who is reading confidently.
+This game seems nice for a emerging or beginning readers.
+Mine has been reading well for a few years and is capable of writing paragraphs so the academics in this program are not suited for him.
+I would recommended to children 3-5 or older ones who do not read well yet.
+Although my almost 2 year old is well below the age range, he enjoyed trying to play with the ""book"" and listen."
+My son and I have loved his LeapPad 2.
+This Ultra eBook quickly became one of his favorite games to play on the LeapPad.
+Like the other Ultra eBooks we have, he can listen to the story, touch words to have them sounded out, touch others to hear a definition, and click on pictures for fun little interactive elements.
+All of this works at three different levels based on your child's reading ability.
+The story is interspersed with games, and I love that they really focus on comprehension skills.The LeapPad and Ultra eBooks get 5 stars from me in general for good educational and fun design.
+Mr. Pencil in particular was a big hit with my son.
+"My test kidlets have access to iPads, so for the older one the LeapPad no longer holds the same interest as it does for the 4 year old.
+For him, though, this has been a helpful addition to his LeapPad activities.
+The learning pace is good for him, the activities in the Mr. Pencil Ultra eBook hold his interest.
+He's at the stage where he's just learning how to write numbers and letters and needs the help with straight lines, etc.
+He also enjoys being read to, and will sit and listen to the stories.I've found that these LeapPad devices and their various add-ons are worthwhile learning tools for young children.
+They are well thought out and fun for the children to use, and they learn and create while playing.
+The LeapPad device itself is properly sized for their hands and lets the little ones have their own ""computer"" like their older siblings."
+"I read along with my 6 year old daughter over the course of 2 evenings using this as her bedtime story.
+We used the default ""medium"" difficulty setting.
+The story gets read aloud to the child and each word is highlighted as it is being read.
+The child can go back to word and touch them to have them sounded out and defined.
+There are also hidden things to do on each page.
+All of the characters will say something that adds to the story, but it's not necessary to click on all of them.
+I liked that we were able to locate the page we were on the next day rather than having to go through all the pages again.I wish we had begun with the ""hard"" difficulty level because the story is exactly the same, but the higher stage uses more vocabulary and provides extra details.
+I would recommend the higher level for 6-7 year olds, the medium level for 4-5 year olds, and the lower level for 3-4 year olds.
+Of course this will depend on the child.I love this because it's fun for my child and definitely has a learning component to it unlike so many other games out and e-book/games for the iPad that are out there."
+We have several of the Ultra E books from Leapster that we use to help teach our kids how to read while keeping it a bit exciting.
+We also have the Mr. pencil games for their Leappads so they wwere excited about reading this story.The story istelf moves very slowly and there isn't a lot of text.
+I would say this is geared towrds the very early reader compared to some of the other Ultra E books we have.
+The graphics are in line with how the Mr. pencil games look so they are not state of the art (for leappad) but they are not meant to be that way.My kids do love this book so that is why I am giving it 4 stars.
+My issues revolve around the limited way kids interact during the story.
+There are only 2 areas (that we have found) where the kids are asked to do something during the story.
+Once they are asked to draw a straight line...OK...and the next the have to draw a triangle.
+Other than that, the story moves along without any intervention.The games themselves, which are separate from the story, have been playedquite a bit by my kids.
+Both my 6 year old and 3 year old have found games that challenge them but are not impossible to do.
+The replay value, in general, has been high as my kids have asked to read this every night for the past week.Overall its a nice book to get for the Leappad if you already have a lot of the other ones first.
+"It was an exciting day for my 5 year old son when ""Mr. Pencil, The Lost Colors of Doodleburg"" came in the mail.
+He didn't want to put it down!Let me speak on the educational value of this game.
+This game helps a child increase their vocabulary, practice the proper way to write letters, and teaches phonics and sounding out words too.
+As the child reads, the game automatically adjusts the level to match your child's level.
+The three levels are ""Read to Me"", ""Read with Me"", and ""Read on My Own"".
+Another fun aspect is that the child can narrate the story themselves by using the LeapPad's built in microphone.
+As they play, they earn badges for all of their achievements and the badges can be turned in to help them customize their game.I would recommend this product to parents with kids from ages 4-6.
+This is a great tool for beginning readers."
+My four year old son enjoys this game a lot.
+We sat together upon first receiving it and went though it, there is a wonderful story with lots of educational mini-games.
+It does involve reading but it does a wonderful job of helping those learning to read find their way though those parts.
+my son requests to play this whenever we break the leappad out so I would recommend it to those children ages 4 and up with some adult supervision to help.
+"Having gotten ""MrPencil saves Doodleburg"" and seeing how much fun that was for the kids I wanted to try this e-book as well.
+The book is fun and engaging and even my 3 year old son is very much into trying out his skills are letter tracing.
+Definitely a good choice for cars trips when little minds need to be engaged."
+My daughter has and loves to playLeapFrog Explorer Learning Game: Mr. Pencil Saves Doodleburg (works with LeapPad & Leapster Explorer).
+So when this arrived in the mail and she opened the package, she wanted to play it immediately.
+It works only in the Leappad and Leappad 2, not with the Leapster GS.
+My daughter was a little disappointed that it didn't work with her GS, but I simply told her to go put it in her Leappad 2.It works on reading and writing.
+There are parts where the child needs to place a list of words in the correct spot in a paragraph.
+There is also the fact that it is a book and reading.
+It definitely works on the language side of learning, and it is very age appropriate.
+Our daughter likes the way this is not just a book that is read to her but rather interspersed with activities and different levels.
+She played it through, however, in one sitting.
+For children over 4, this may not captivate them for very long.
+However, our daughter is fiercely loyal to all things Leappad so she is unwilling to give it up and has played it several times.
+I think it is well-designed and not harmful in terms of undoing reading and comprehension skills by means of its activities.
+Make sure you have the right hardware to run this software to prevent disappointment this only works on the big screen LEAP Pad2 not GS or other models.
+This update of the Mister Pencil game takes advantage of the new leap pads bigger screen and better touch control.
+Children read an e-book and are led through mini games that bring color back to Doodleburg.
+Doctor Dull is blighting the land of color and as the interactive book plays out some fun games unlock.
+My 4 year old has fun with this one and plays it for usually an hour or so and seems to keep coming back to it so far after having it a few weeks she also seems less frustrated with this title than others.
+"I got this for my daughters to try.
+Although it's an ""ebook"" it's also loaded with games and activities.
+All 3 of my girls played this game for hours and hours the first week we got it.I was pleased with the wide variety of content and the adaptability of the game.
+If you put the cartridge into your Explorer and have your game settings adjusted to the age of the player, it automatically selects activity levels that are appropriate for the player's age.
+My 7, 5 and 3 year old daughters were all able to fully enjoy the game.In fact, they fought so much over the cartridge that we decided that buy the download for them so they could all play at the same time while on a road trip.The only drawback with the cartridges is that you can lose them very easily (as my kids often do) and only one child at a time can play.The downloads cost about the same amount as the cartridge(unless it's on sale) but with the download, the game stays on their device and you can load it to all of your children's gaming devices instead of just one at a time.Overall, I'm still not a fan of the cartridges for those reasons.
+We definitely prefer the downloads.But the game is well worth the price for the educational value and the hours of play.
+Far less expensive than Nintendo handheld game devices and just as much fun with a much bigger screen."
+This is a cute story of a town that was stripped of all its colors by a villian named Dr. Dull.
+Dot and Dash enlist the help of pencil and friends to help catch up to Dr. Dull and restore the town's colors.
+Throughout the story the reader can select a picture to have it respond or on words to help sound out letters.
+There is a pause in the story (about every 3-4 mins)called game time, where the reader can respond to questions about the story line, play some games, word recognition by choosing the word that is spoken, letter recognition and drawing, ect.
+My 4 and a half year old son absolutely loves this game and I was happy that there was enough interaction to keep him from being bored.
+highly recommended for preschool to first grades.
+Excellent educational game as well!

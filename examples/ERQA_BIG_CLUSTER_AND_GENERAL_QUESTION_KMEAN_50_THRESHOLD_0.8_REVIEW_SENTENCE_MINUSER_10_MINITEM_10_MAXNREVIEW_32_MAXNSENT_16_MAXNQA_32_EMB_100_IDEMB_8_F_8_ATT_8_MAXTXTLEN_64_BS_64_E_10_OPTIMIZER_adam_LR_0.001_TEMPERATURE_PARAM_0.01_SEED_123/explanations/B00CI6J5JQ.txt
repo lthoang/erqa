@@ -1,0 +1,163 @@
+Top question(s):
+Does this come with scissors?  The picture on top does not have them in it but the one in the description does.
+Would this be an appropriate gift for a child turning 4 years old who likes to draw?
+Top sentence(s):
+It has 64 Crayola Crayons, 20 Super Tip Washable Markers, 20 Pip Squeak Skinny Washable Markers, 18 Mini Colored Sharpened Pencils, a pair of safety scissors, and 25 sheets of drawing paper.
+Crayola Premier Set&#8203; by Crayola &#8203;comes in what they call the Crayola Inspiration Art Case &#8203;and has over 150 pieces to it making it a complete art center all in one and is aptly name as it is inspiring indeed!
+18 mini colored pencils -- eh, they cover all the basics.
+i can't attest to long term durability since we just received it but it is a really nice set and i know it will be put to good use.
+We end up with boxes of broken crayons and mismatched markers everywhere.
+
+Question attention weights:
+0.009501026943325996,0.02787116914987564,0.020965276286005974,0.9304705858230591,0.011191999539732933
+Sentence attention weights:
+0.006974220275878906,0.007407293189316988,0.014123784378170967,0.0050519672222435474,0.00477485591545701,0.00820725504308939,0.005358862690627575,0.008515418507158756,0.008033029735088348,0.0064065405167639256,0.005734344013035297,0.006435688119381666,0.011460719630122185,0.006629063282161951,0.007512740790843964,0.004126100335270166,0.0059677897952497005,0.005723249167203903,0.013366835191845894,0.009112339466810226,0.006411632522940636,0.005856203846633434,0.01500663161277771,0.006612676195800304,0.006258863490074873,0.010435388423502445,0.009249445982277393,0.006838509347289801,0.009684347547590733,0.007876638323068619,0.0072782221250236034,0.005931694060564041,0.0045760744251310825,0.010047860443592072,0.0064443969167768955,0.006634971126914024,0.008245251141488552,0.005308615509420633,0.006861194036900997,0.0071242013946175575,0.004817282315343618,0.005980301182717085,0.010704440996050835,0.009397871792316437,0.00441948464140296,0.0064034839160740376,0.009018889628350735,0.0070813805796206,0.006848227232694626,0.006143852137029171,0.007682736497372389,0.005455423146486282,0.005585238337516785,0.009002705104649067,0.007225200533866882,0.00898399855941534,0.007703006733208895,0.003994974307715893,0.008864615112543106,0.00786413624882698,0.009341313503682613,0.004001668654382229,0.007287708111107349,0.006949129514396191,0.010396946221590042,0.00590803986415267,0.0058363270945847034,0.0066810594871640205,0.007813881151378155,0.006778423208743334,0.00811441708356142,0.006536912173032761,0.006723090074956417,0.004667904227972031,0.005981429945677519,0.011231896467506886,0.0057879784144461155,0.006319065112620592,0.006390851456671953,0.008867635391652584,0.0074327667243778706,0.006604716181755066,0.007440757472068071,0.005127103067934513,0.0067435456439852715,0.007443374954164028,0.006941820494830608,0.008932710625231266,0.006459569558501244,0.006659792270511389,0.0116984061896801,0.007138273678719997,0.009219733998179436,0.0060147917829453945,0.006771228276193142,0.006861094851046801,0.006900961045175791,0.008030049502849579,0.009414052590727806,0.0076606664806604385,0.005932655185461044,0.007318093907088041,0.013933757320046425,0.005762220825999975,0.008493910543620586,0.006916951388120651,0.0047274199314415455,0.007090541534125805,0.0066519263200461864,0.006545152980834246,0.004017366096377373,0.006584078539162874,0.007762999273836613,0.0089799202978611,0.006937143858522177,0.005100836977362633,0.007010573986917734,0.005921555683016777,0.005056619644165039,0.01321510411798954,0.004082045517861843,0.005287505686283112,0.006722775753587484,0.006016957573592663,0.005991010926663876,0.010764350183308125,0.012427370995283127,0.006569049321115017,0.005236014723777771,0.0057660676538944244,0.006569049321115017,0.006501214578747749,0.005846450570970774,0.00503122853115201,0.007684297394007444,0.00454389164224267,0.006569049321115017,0.006539561320096254
+0.0076241870410740376,0.007184717804193497,0.011240363121032715,0.004312841221690178,0.006254418287426233,0.006939781364053488,0.006703336723148823,0.005984936375170946,0.007143897004425526,0.006769284605979919,0.005946437828242779,0.007886627689003944,0.009219345636665821,0.007556190248578787,0.006940985098481178,0.005188279785215855,0.0063681090250611305,0.007832369767129421,0.012484284117817879,0.0067105661146342754,0.0062019401229918,0.006391705479472876,0.014165395870804787,0.006951585877686739,0.006413581781089306,0.009251521900296211,0.008055558428168297,0.007213872391730547,0.008537709712982178,0.008975479751825333,0.007086378522217274,0.006546523422002792,0.005421211011707783,0.010751870460808277,0.0067764148116111755,0.007171269506216049,0.007989494130015373,0.0056494902819395065,0.006677664816379547,0.006328443996608257,0.004850191529840231,0.005942881107330322,0.009731915779411793,0.008681176230311394,0.00465391157194972,0.0066907149739563465,0.009382671676576138,0.006865373346954584,0.007131930440664291,0.006792969536036253,0.008967742323875427,0.006033132318407297,0.0061927190981805325,0.007877936586737633,0.006196906790137291,0.006551316473633051,0.007750667631626129,0.0061203306540846825,0.008666359819471836,0.00733977323397994,0.007742003072053194,0.0048340014182031155,0.006979804951697588,0.007049371488392353,0.009281358681619167,0.008044928312301636,0.005882958881556988,0.006954940501600504,0.007476089522242546,0.009567060507833958,0.006685039959847927,0.005997846834361553,0.007131654303520918,0.006944817490875721,0.0061849686317145824,0.010287253186106682,0.005668919067829847,0.007807770278304815,0.006120041012763977,0.006800173316150904,0.008472264744341373,0.006681077182292938,0.006740123499184847,0.005881116725504398,0.006970308255404234,0.007819084450602531,0.0069260383024811745,0.009885363280773163,0.007093111984431744,0.005437931045889854,0.009111776947975159,0.006643044762313366,0.00756049994379282,0.006005615461617708,0.00710569741204381,0.006429918110370636,0.007116981782019138,0.006984899751842022,0.008033216930925846,0.006688470486551523,0.006370201241225004,0.006866195239126682,0.009185532107949257,0.006470244377851486,0.008978881873190403,0.006755979266017675,0.005693450104445219,0.006726838182657957,0.006782108452171087,0.006202675402164459,0.004996097646653652,0.006806563585996628,0.007421774324029684,0.00806896947324276,0.008948701433837414,0.005354940891265869,0.008114531636238098,0.0062961578369140625,0.007666356861591339,0.010497314855456352,0.006464259698987007,0.00681541720405221,0.00811002217233181,0.007515352219343185,0.006266315001994371,0.00942867062985897,0.00964059866964817,0.0068035791628062725,0.00470602884888649,0.006820355542004108,0.0068035791628062725,0.007278854493051767,0.008122719824314117,0.006299874745309353,0.007714270614087582,0.0050790985114872456,0.0068035791628062725,0.006827639881521463
+0.0070653269067406654,0.007530191447585821,0.013934718444943428,0.005113803781569004,0.004358442034572363,0.007782652508467436,0.005101136863231659,0.008337000384926796,0.008192346431314945,0.006559549365192652,0.005904004443436861,0.00630706362426281,0.011307061649858952,0.006429517176002264,0.00755913695320487,0.003910573665052652,0.005967583041638136,0.005172254517674446,0.012937720865011215,0.009434541687369347,0.006633115466684103,0.005957035347819328,0.015247437171638012,0.006755056791007519,0.006276044528931379,0.010742041282355785,0.009472111240029335,0.006906914059072733,0.009686408564448357,0.007589453365653753,0.007549902889877558,0.0060325260274112225,0.004678777419030666,0.00982631929218769,0.006600937806069851,0.006603179033845663,0.008589227683842182,0.0054389312863349915,0.007066064979881048,0.007269510067999363,0.004854799248278141,0.006152537185698748,0.010290936566889286,0.009354496374726295,0.004439101088792086,0.0065779173746705055,0.008726244792342186,0.006953425705432892,0.006958803161978722,0.0062076253816485405,0.0073432461358606815,0.005379697773605585,0.005728112068027258,0.00926173385232687,0.007432948332279921,0.008738888427615166,0.0077843149192631245,0.003617206122726202,0.008688092231750488,0.008050189353525639,0.00897908117622137,0.003988154232501984,0.007409172132611275,0.0071210372261703014,0.00992533564567566,0.0056559257209300995,0.005972190294414759,0.006845320574939251,0.008064492605626583,0.006375688593834639,0.008309217169880867,0.006764128338545561,0.006741521414369345,0.004319153726100922,0.006161392666399479,0.011568879708647728,0.006058678962290287,0.005955758038908243,0.006512544583529234,0.0089771943166852,0.007421204820275307,0.006764358375221491,0.0077181365340948105,0.005089209880679846,0.00677128043025732,0.007630319334566593,0.0071245101280510426,0.009176881983876228,0.00632900046184659,0.0067130946554243565,0.012059655040502548,0.007278135512024164,0.00911993533372879,0.006241587921977043,0.006877269595861435,0.007169784512370825,0.007036750204861164,0.00821470096707344,0.009659124538302422,0.007676510140299797,0.006024244707077742,0.007493657525628805,0.014007868245244026,0.0053486875258386135,0.007987473160028458,0.006835557986050844,0.004726130980998278,0.007113137282431126,0.006832200568169355,0.00633087707683444,0.003948882222175598,0.006757700350135565,0.00756096513941884,0.00938718393445015,0.006510789040476084,0.005051370710134506,0.006654396187514067,0.005935714580118656,0.004677870776504278,0.012978107668459415,0.0037480290047824383,0.005042940843850374,0.00621772650629282,0.0059392089024186134,0.0061119673773646355,0.010432987473905087,0.01257311925292015,0.006736105773597956,0.005596655886620283,0.005564069841057062,0.006736105773597956,0.006638610269874334,0.005542275030165911,0.005058804526925087,0.007785639725625515,0.004602665081620216,0.006736105773597956,0.0066320449113845825
+0.008344119414687157,0.007919569499790668,0.01027925219386816,0.004103444050997496,0.004272998310625553,0.005743104498833418,0.0050109741277992725,0.0049437107518315315,0.007774785161018372,0.007513229735195637,0.006437819916754961,0.007744168397039175,0.009221721440553665,0.0067869010381400585,0.0067646438255906105,0.003882082412019372,0.006374298129230738,0.005639947485178709,0.011536127887666225,0.007208122406154871,0.007222593296319246,0.0070584905333817005,0.014790380373597145,0.0077016171999275684,0.006835367064923048,0.010432752780616283,0.008935291320085526,0.007704687770456076,0.008392645977437496,0.009209912270307541,0.008295685052871704,0.007050062529742718,0.005708351731300354,0.011395442299544811,0.007561360485851765,0.006896082777529955,0.010078972205519676,0.006165148224681616,0.007456450257450342,0.006771559361368418,0.004837470129132271,0.0062811910174787045,0.008492467924952507,0.008551579900085926,0.00437267916277051,0.007483897265046835,0.008723028004169464,0.006464719772338867,0.007662605959922075,0.0070090265944600105,0.007589451503008604,0.005303085315972567,0.006773361004889011,0.00874553807079792,0.00676048593595624,0.0054330285638570786,0.00914992205798626,0.004216665402054787,0.007178368512541056,0.008273995481431484,0.006456092465668917,0.003998690750449896,0.007305257022380829,0.007890431210398674,0.007034082897007465,0.007648737635463476,0.006318203639239073,0.007826084271073341,0.00869068130850792,0.007628065533936024,0.007072947919368744,0.006979656871408224,0.0071503398939967155,0.005713215563446283,0.006900869309902191,0.011487509123980999,0.0067871264182031155,0.006134865805506706,0.006234300322830677,0.006942200940102339,0.008784045465290546,0.007554900366812944,0.008200637996196747,0.0053363642655313015,0.007268793880939484,0.008929315954446793,0.007671764586120844,0.01141258142888546,0.006912278942763805,0.005217524245381355,0.010633349418640137,0.00726352958008647,0.006789386738091707,0.006895309779793024,0.008006524294614792,0.007708647754043341,0.007577094715088606,0.008276274427771568,0.009911876171827316,0.006547112949192524,0.006899552885442972,0.007090606261044741,0.008654814213514328,0.0046489909291267395,0.006477349437773228,0.006659970618784428,0.006207710597664118,0.006708890665322542,0.00763306487351656,0.005445926450192928,0.004602308385074139,0.007694583851844072,0.00646647484973073,0.010095537640154362,0.006413263734430075,0.004828830249607563,0.0064686015248298645,0.006277826149016619,0.005190950818359852,0.008866298012435436,0.004255963955074549,0.005390213802456856,0.006901526357978582,0.00674331234768033,0.0067664459347724915,0.007963322103023529,0.010915678925812244,0.007606050930917263,0.0055406237952411175,0.006243401672691107,0.007606050930917263,0.007899774238467216,0.006711997091770172,0.0062075769528746605,0.008277332410216331,0.005128110758960247,0.007606050930917263,0.007341939490288496
+0.007060243748128414,0.007437467109411955,0.014078281819820404,0.004689787980169058,0.004745938815176487,0.007878941483795643,0.005280853249132633,0.008081563748419285,0.007975446060299873,0.006438984535634518,0.0056898645125329494,0.006580268498510122,0.011561431922018528,0.006604588590562344,0.007466964889317751,0.003988290671259165,0.005881215911358595,0.005646968260407448,0.013829994015395641,0.0093223936855793,0.006398126948624849,0.005806337110698223,0.016233235597610474,0.006656511686742306,0.006157704629004002,0.010795575566589832,0.009318899363279343,0.006932123098522425,0.009558419696986675,0.008141370490193367,0.007379906717687845,0.005946764722466469,0.004529050551354885,0.010541698895394802,0.006469986867159605,0.00657250452786684,0.008429193869233131,0.005203022621572018,0.006878942251205444,0.0070462655276060104,0.004644189029932022,0.005923741031438112,0.010641639120876789,0.009732368402183056,0.0041919914074242115,0.006365073379129171,0.009140130132436752,0.0071709128096699715,0.006849336437880993,0.006173006724566221,0.007505353540182114,0.005432706326246262,0.005565359722822905,0.009124239906668663,0.0071671586483716965,0.008508232422173023,0.008024796843528748,0.004005506169050932,0.00878908857703209,0.007896659895777702,0.008889698423445225,0.0039016716182231903,0.007139888126403093,0.00699290307238698,0.01007351279258728,0.00612580357119441,0.0058213756419718266,0.006731017958372831,0.00794245582073927,0.0068833534605801105,0.008089415729045868,0.0063928174786269665,0.006740780547261238,0.0047811903059482574,0.0059593720361590385,0.01164413895457983,0.005729991011321545,0.006232161074876785,0.006215211935341358,0.008645361289381981,0.007586825639009476,0.006623734720051289,0.0073699974454939365,0.005203508771955967,0.006728894542902708,0.007577169220894575,0.0069642686285078526,0.009281505830585957,0.00641310540959239,0.006481487303972244,0.011945708654820919,0.007101009599864483,0.009033950977027416,0.006007035728543997,0.007124291732907295,0.006896338425576687,0.006947965361177921,0.008046831004321575,0.009499103762209415,0.007507736328989267,0.005890291184186935,0.007331493776291609,0.014009526930749416,0.005548131186515093,0.008118883706629276,0.006803303956985474,0.004668801557272673,0.006932018790394068,0.006663045845925808,0.006350706797093153,0.0038356382865458727,0.0066076586954295635,0.007779327686876059,0.009060588665306568,0.006863108370453119,0.004998368211090565,0.006950927898287773,0.005846288986504078,0.005152183119207621,0.013118267990648746,0.004092416726052761,0.005231279879808426,0.006703861989080906,0.0060386061668396,0.005954494699835777,0.010619004257023335,0.012777565978467464,0.0065881782211363316,0.005126162897795439,0.005720439832657576,0.0065881782211363316,0.0065600210800766945,0.005723000504076481,0.005034802481532097,0.007732562720775604,0.004490588791668415,0.0065881782211363316,0.00654288986697793
+Questions:
+Would this be appropriate for a 10 year old?
+Would this be an appropriate gift for a child turning 4 years old who likes to draw?
+Is this okay for. 3 year old
+Does this come with scissors?  The picture on top does not have them in it but the one in the description does.
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+This is a fantastic kit.
+The case is much cuter than you can tell from the photos, and seems very sturdy and well made.
+Opening the case, the array of colored crayons are secure in the holder, and the markers and pencils on the other side fit well.
+The only design problem I find is that the paper to draw on falls out and shifts around inside the carry case.My daughter loves this art set, and it is a special treat to use it at her Nana' s house.Wonderful find!
+Product Description:  When you're ready to get creative, the Crayola Inspiration Art Case has over 150 pieces--including paper and scissors--to see you through your next drawing project from start to finish.
+The compartmentalized tray holds an array of crayons, colored pencils, and markers for creating your own original art.
+And when you're done, the tray and supplies fold into a convenient carry case you can take with you.
+Designed for ages 8 and up, the Inspiration Art Case comes with crayons, washable markers, colored pencils, safety scissors, and blank sheets of paper.The price of this case put it out of my range for the kids but it is a good price point as a gift set.
+I got this as a gift for my nephew the artist.
+He loves it!
+He especially loves the carrying case.
+"My son refers to this product as his ""artistic briefcase,"" and it's a good description.
+The art case comes with 64 crayons, 22 colored pencils and 40 markers (20 short, 20 long).
+The package description counts 25 sheets of A6 paper in the ""150+ pieces!""
+so technically it's true.The colorful case is a lot sturdier than what I was expecting.
+It's got a metal handle and clasps and the plastic insert that holds the crayons and markers is heavy enough to stand up to repeated use and appears to be firmly glued in place.
+The case means art supplies are easily portable and my young artist can immediately see what he's got and find the color or tool (crayon/marker/pencil) he wants next.
+For ease of use and encouraging the kids to clean up after art projects, it's way better than the tupperware container of crayon pieces and random markers he'd been using."
+Crayola Premier Set&#8203; by Crayola &#8203;comes in what they call the Crayola Inspiration Art Case &#8203;and has over 150 pieces to it making it a complete art center all in one and is aptly name as it is inspiring indeed!
+It comes in a beautifully, well made art case that contains trays for each piece and when you open it, you will hear WOW!
+It is lovely with the rainbow like arrangement of colors inside.
+When closed, it has a strong clip and thus makes it easy to take with you.
+It has 64 Crayola Crayons, 20 Super Tip Washable Markers, 20 Pip Squeak Skinny Washable Markers, 18 Mini Colored Sharpened Pencils, a pair of safety scissors, and 25 sheets of drawing paper.
+This is the perfect gift for any boy or girl I'd say from ages 2 and up, although to keep it looking neat and things in their place, perhaps a child of 4 or more might handle it better.
+Plus it is a large wooden case and tiny children might have difficulty carrying it.
+So if you have a budding artist in your life, or like me, love to have these items on hand for yourself, this is perfect.
+With so many different kinds of drawing colors, this will inspire the imagination in any artist, young or old!
+A gorgeous set at a great price.
+I have three daughters 3, 7 and 9, and we go through more than our share of crayons and markers.
+You don't need my review to tell you that Crayola is awesome.
+But what I will tell you is that this is a pretty great set for just under $20.
+I LOVE that it comes with a fairly easy to use carrying case, even for our three year old.
+One of the big problems around my house is crayons getting everywhere.
+We end up with boxes of broken crayons and mismatched markers everywhere.
+I'm sure we're not alone in that.
+This carrying case keeps everything together very nicely.I'll add too that for the price this would make a great gift set for just about any kid under 10.
+What kid doesn't love crayons and markers?
+And can you ever have too many?EXCELLENT set.
+My daughter loves to be creative.
+She wants nothing to do with coloring books, and prefers to make her own drawings and art.
+This set was right up her alley!This art set is great to take along.
+Take it to play dates, take it to school, take it to waiting rooms.
+The case is sturdy enough to withstand travel with metal latches and handle.It also makes a terrific Preschool to first grade birthday gift.If you're a parent looking to organize the crayons and markers all over your house, this set will keep the chaos all in one place, too.This art set is a scaled-down version of the 200-piece Masterworks set, which my daughter bought with a birthday gift card last year.
+The Masterworks set included glue, scissors, glitter glue, and oil pastels.
+In contrast, the Premier Set leaves out the messier items.
+A definite perk for parents!
+Compared to some of the other Crayola bins and art sets that we have looked at in stores, this one takes the cake.
+Markers, colored pencils, crayons, paper, etc.
+all wait for my daughter's creative talents.
+She finds it easy to pull out for school projects a home- because everything has a place to hold it in the case.
+The markers and crayons (all of it) snaps into the case so they don't come tumbling out when you open and close it (unlike some cheap brands).
+She can also store her artwork in the paper corner section instead of all over her room floor where it use to end up (think art portfolio).
+I will be purchasing these for birthday parties of friends in the future.
+At the less than $30 price tag this set is well worth every penny and we can' wait to share the fun and quality with friends and family.
+"There are certain items I get for my kids that make me think, ""I wish I had this when I was younger,"" and the Crayola Premier Set is just such a product.
+Combining crayons, small colored pencils, markers and paper, it's an ideal all-in-one art starter kit available for a very reasonable price.I know that there are larger crayon sets available (including a 152-color Crayola set), but the 64 included here are going to be more than sufficient for even the pickiest coloring child.
+The markers too offer a wide variety of colors, and as a parent I appreciate the fact they wash off easily.
+This set lacks some of the additional items found in the Crayola Masterpiece set like glitter and glue, but frankly I'm okay with that when it comes to choices for younger kids.
+The Premier set is an outstanding starter, and as kids get older the Masterpiece may become the better option.
+You can expect to run out of paper relatively quickly given that only 30 sheets are included, but of course that's an easy problem to remedy.Another perk for both kids and parents is the kit itself.
+Our house already contains hundreds of crayons, pencil crayons and markers, but they're all housed in containers with little or no organization, and searching for a specific color can be a nightmare.
+The Premier box allows for easy organization and storage, and is lightweight enough to allow for easy transport by kids.This is easily one of the best products we've used over the past several months, and I'd suggest for anyone looking for a starter art kit for their kids.
+A great product at a great price."
+My kids were so excited when this arrived.
+It is beautiful to open it up and see the array of colors.It would probably be most cost and space efficient to buy the same amount of markers and crayons in standard packages.
+But I like this presentation for two reasons: 1.
+When you open it up, the colors and materials are arranged in a way that is visible and accessible to children.
+This is exciting for them.
+and 2.
+It's large and clunky, but easy to transport without making a mess.Since this product appeared, we've had a lot more artwork created at home.
+This would be a great gift for a child who enjoys drawing or coloring.
+This is a really great set for the cost.
+I figured the case would be a flimsy throw-away, but it's really quite nice and sturdy.
+It locks securely with the clasps, so no worries that crayons and everything else will get thrown and mixed up in there.
+64 crayons, all organized by color so it's easy to find the right one.
+18 mini colored pencils -- eh, they cover all the basics.
+I love the selection of 40 markers, great for both drawing and coloring.
+And if you're take it to go, it's got paper included.Wonderful set for the price, and in the event that some crayons or markers need to be replaced, they're identical to the ones sold in stores.
+Definitely a great gift for any budding artist out there!
+Combining pencils, markers and crayons as well as some paper, this is a great art set for kids.
+The case is sturdy and has some nice features like allowing the crayons to be tilted upwards.
+There is a wide choice of colors as well.
+If your kid likes drawing and coloring this set will be a hit.
+in a word WOW an art lovers dream set, a organized portable carrying case with rainbow colors of 64 crayons, 22 short colored pencils and 40 washable markers and 30 pages of paper sheets, all ready to take with your child to anywhere.
+when i was small i would have LOVED this set.
+i bought it for my great nephew and my niece is very excited about it.
+she was a art child too.
+i can't attest to long term durability since we just received it but it is a really nice set and i know it will be put to good use.
+The Crayons, Colored Pencils and Markers in this set are Crayola quality that we all know.
+However it is the presentation and organization of these art instruments that really makes this whole set better than its parts.The set is color arranged and easy to keep that way.
+The crayons, markers and pencils easily snap out of their spot and just as easily snap back in.
+It has been designed in such a way that it is a real pleasure to use and keep organized.
+Even smaller worn crayons and pencils will still hold in their spots well enough to not cause any frustration.This is a much better way of keeping these items rather than in a box or bin that allows them to tumble around.
+So much more easier to find that exact color your looking for.5 stars easy!
+This Crayola Premier Set is chock full of fun for your little artist!
+This set will provide hours and hours of creative fun.
+When they open it they will be greeted by an amazing array of lovely colors and different types of items to use to make gorgeous creations!
+Markers, crayons, etc....it's all here, and well organized also!
+If you know a child who loves to draw, or even just color in coloring books, this is the gift to give.
+It's portable, organized and fun and well worth the price.
+"The ""premier set"" by Crayola is perfect for young aspiring artists.
+It has everything a young artist could possibly need -- all in one kit.
+There are crayons, colored pencils, markers, scissors and blank pages and everything stores in the same case that comes with a lock and handle.Set Includes:64 crayons; 18 colored pencils;20 Super Tip markers;Scissors and 30 blank coloring pages.Honestly, I want my own kit for when I color with the grandchildren, A beautiful gift."
+"Usually these art sets are NOT a good purchase with low quality markers, even other Crayola sets I've ordered in the past.
+This one is AN EXCEPTIONAL set, the markers do not bleed easily and the artwork the kids have been bringing to me with the markers is outstanding.
+The crayons are classic good quality Crayola, as is the rest of the set.
+They basically took their good quality items and put them all together, along with some really nice paper to par.
+So I VERY HIGHLY recommend this set for a gift or basic starter set for aspiring artists!
+You will NOT be disappointed, and the kids certainly will not be.
+I have to admit the kids much prefer opening a box and seeing a ""huge art set"" in there as opposed to a big box of crayons.
+Their eyes just pop out of their heads.
+So it's nice to hand them a set and actually have high quality pieces in it!
+I've tried a good dozen sets over the years and this is the first set I've been happy with.A glowing 5 stars!"
+"Is it weird that a grown man can be really, REALLY impressed with a coloring kit?Let's start at the outside and work inwards.
+The outer shell is a sturdy, glossy, mural-wrapped design that's both arty and playful.
+(Not quite cool enough for your teenage boy to take to one of those crazy art parties we've all heard about, but your middle school girl will think it's pretty cool.)
+I assume it's a high-density cardboard, but it's hearty enough that it might be a plastic shell.
+Either way, it's about the same size as a hard-sided laptop case.
+It's secured with high-quality metal latches and has a chrome-plastic handle.
+Top quality stuff.Inside is a rainbow cornucopia of top quality Crayola coloring tools:  60+ crayons, 20 or so colored pencils, 20 mini-markers, and 20 full-size markers.Here's the brilliant part:  The inner molded plastic shell is designed so that each of these tools sits in its own neat space.
+Each crayon, pencil, and marker rests comfortably in a snug holder, elevated away from the base.
+This elevation allows the artist to remove each tool from its respective space effortlessly:  Simply pushing down on one end causes the other end to teeter-totter upwards, enabling easy access.
+It's so easy to remove each coloring tool and so easy to put them back that it's a snap to keep this set organized.
+We've yet to lose a single tool even after many, MANY uses.My daughter concurs with my assessment, summing up my review in 2 words:  ""It's awesome.""
+It is, and I find myself asking the kids if they want to color..."
+"This Crayola art case is a winner for budding young artist or students who will be able to use all of the contents for reports, drawings,pictures or just drawing for fun.Everything is neatly assembled in what resembles a small suitcase with two clasps to keep it closed and a handle for easy carrying.The kit contains:64 crayola crayons22 short colored pencils40 washable markers30 sheets of 6"" x 8"" paperIf you like drawing this item is great as it all stays organized when you return the markers, pencils or crayon back into the suitcase.
+This would make a wonderful gift for children as they can use their imagination and have lots of colors to select from to make the perfect picture, look out Renoir, Monet or even Picasso as your child creates the next masterpiece.What moms will love is that all the crayons, markers and pencils have a place so they go right back into the suitcase without having any crayons lying around."
+This is one of the best toys that I have ever seen.
+It includes all sizes of markers, color pencils, and crayons.
+The assortment of colorful writing tools will WOW any child or parent.
+I also love the box that the set comes in.
+The box is durable and very attractive.
+It is gender neutral, meaning that any girl or boy would find it attractive.
+Also, it secures nicely with the clips and can easily be carried around with the handle.
+This set is great for anyone 2+.
+There really is no age that this set is best suited for since everyone from the 2 year-old to the 99 year-old will absolutely love it.
+I cannot say enough good things about this product.
+It is truly impressive.

@@ -1,0 +1,173 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+When she has finally finished a hair extension for both her and the Barbie, it was my job to load the paper, which is made extra easy with big, red arrows pointing you toward the correct way to load the printer.We crossed our fingers, clicked print and waited.
+Here is another product that in my opinion suffers from Over-Complication-Itis mostly like via the Corporate Barbie marketing engine.
+Be careful with the hair, it's more fragile than you think, and since you need to feed it through an ink jet printer, so if you mess it up, the design will not come out right.
+I do have to say that the hair extensions feel like real hair, nice and soft!It is a novel idea, and kept them occupied for some time, but honestly at this age, their attention span is quite limited, and they were soon off doing other things.
+I guess you could use magic marker.....but I wouldn't.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.007042230572551489,0.0056801545433700085,0.005887008737772703,0.008860550820827484,0.007925562560558319,0.005677645560353994,0.006840993650257587,0.004732766654342413,0.006105085369199514,0.004089552443474531,0.00627913698554039,0.007830850780010223,0.004773931577801704,0.007395658642053604,0.00704581243917346,0.006423447281122208,0.006128027103841305,0.005616022739559412,0.006498024798929691,0.005660586059093475,0.006383067462593317,0.007486104499548674,0.005149459466338158,0.006526489742100239,0.007010400760918856,0.006428588647395372,0.004439405165612698,0.0033639236353337765,0.006399636156857014,0.006420296151190996,0.00636024447157979,0.006342426408082247,0.006449198815971613,0.007793223951011896,0.006775607820600271,0.004724500700831413,0.003311889711767435,0.009103594347834587,0.005810031201690435,0.00592460623010993,0.006085393950343132,0.005619923118501902,0.005041706841439009,0.005711604841053486,0.0046922448091208935,0.00733850197866559,0.006215897388756275,0.007014497183263302,0.006711251568049192,0.006309893447905779,0.007035098969936371,0.0062519460916519165,0.006700500845909119,0.004958688281476498,0.008955307304859161,0.0069222645834088326,0.01110643520951271,0.004734351299703121,0.0063539608381688595,0.006402038503438234,0.006413498893380165,0.007233369629830122,0.007585421204566956,0.006127656903117895,0.005976646672934294,0.005010159686207771,0.007294339593499899,0.006159982178360224,0.009002142585814,0.0061251940205693245,0.004063456319272518,0.006372315809130669,0.005087709054350853,0.007210948038846254,0.0050971186719834805,0.0050035747699439526,0.007177839986979961,0.005987339653074741,0.005642651114612818,0.006994197610765696,0.006807582452893257,0.006261528003960848,0.005493838340044022,0.00625394145026803,0.005643180571496487,0.007086981553584337,0.012818518094718456,0.0064697545021772385,0.003856149036437273,0.00412520719692111,0.004322958644479513,0.007087138015776873,0.0072686090134084225,0.006362093146890402,0.009892725385725498,0.0055274032056331635,0.005487783811986446,0.006558186840265989,0.005794741213321686,0.005415965802967548,0.009614338167011738,0.006983104161918163,0.006422219332307577,0.006741276476532221,0.00895618461072445,0.005793321877717972,0.006221105344593525,0.006344150751829147,0.005256009753793478,0.006921309512108564,0.006262085400521755,0.004227757453918457,0.006351104937493801,0.007442294154316187,0.0061454386450350285,0.006507998798042536,0.008877509273588657,0.005980327259749174,0.006176386494189501,0.006473011337220669,0.005376578774303198,0.004590572323650122,0.006488323677331209,0.006724286358803511,0.006289471406489611,0.007186032831668854,0.009468764998018742,0.006197089329361916,0.0070967525243759155,0.005845480132848024,0.005780180916190147,0.005975840147584677,0.00510953227058053,0.008100389502942562,0.0036272755824029446,0.005348965525627136,0.0035411741118878126,0.00551229901611805,0.006058845669031143,0.004364495165646076,0.007748167496174574,0.003454059362411499,0.0061183227226138115,0.006404734216630459,0.007798743434250355,0.006028982810676098,0.005746991373598576,0.006597044877707958,0.006243751849979162,0.008679329417645931,0.006179727613925934,0.0054542552679777145,0.007699054665863514,0.005168748088181019,0.009882534854114056,0.007240730337798595,0.00821841973811388
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+This Barbie comes with six hair clips and an assortment of hair printables.
+You design the extensions online and then print them out using a color printer.
+On the plus side, your kid gets to decide on all the creative elements  of the extensions (there are tons of designed to choose from online).
+At the same time, it can be quite messy.
+If you don't keep an eye on them they're prone to have ink all over themselves.
+Also the hair clips don't always want to stay in, which can be frustrating.It's a fun idea if not seamless, but in the end I do think this Barbie is overpriced.
+You're really not getting all that much outside of the doll for $30+.
+Still, if your little girl tends toward design, fashion, and arts-and-crafts type projects, then it would probably be a reasonable expense.
+We always encourage creative expression with our kids, and I thought this would be a great way to do that.
+The girls can play with the extensions in their hair or their Barbie's hair.
+The clips are pretty easy to use, and they come in a variety of looks.
+Luckily we have a printer, but this could be a problem for kids who do not, since the extensions are printable.
+It's an interesting twist on the Barbie of my wife's youth.
+Both my 4 and 8 year old daughters enjoyed playing with her.
+Maybe I should have gotten two?
+Barbie is cool.
+My daughter loves her Barbies.
+But this product, received through Amazon Vine, is just too much work.
+She can't use the computer and printer without adult help, and she never really cared to ask me to help.
+This comes with a Barbie, but if you want to just buy the extensions, you can buy those separately.
+Save your money and buy something that is a little easier to use.
+I got this product for my two youngest daughters, ages 8 and 11.
+They were both incredibly excited to see the beautiful Barbie doll and the hair extension kit.
+The kit instructions were easy to follow.
+The girls created the colorful extensions all on their own.
+They were wearing their extensions in no time.
+I was concerned that the hair extensions, which are attached to a sheet that is placed into the printer, might have caused a mechanical problem (get stuck, basically).
+That did not happen - the sheet ran through smoothly, without a hitch.
+This toy is a real treat for girls in the Barbie doll stage of life.
+This is a teriffic idea.
+The doll comes with a colored piece attached, and the kit has 6 sets of 2 you can desisign using barbie templates,and 2 star clips and 4 large clips.
+You can layer things.
+Best of all you can import a photo and put it on it.Will add a pic of what we did.
+I imported some Mickey Mouse embroider  desgins and made clips for our Disney world Trip.
+It was a great hit.It was hard to get my printer epson workforce 630 to take it .
+I had to push it forward farther than normal paper to get it to pull it through, and sometimes it took 3 or 4 tries.
+after printing let dry 2 or 3 minutes so it will not smudge.
+Next day we did turn over and comb through the back to separate the hair as it sseemed to stay stuck.Barbie Designable Hair Extensions Refill Pack* NOTE You do not have to buy the doll to do it.
+The kit is sold separately for $10 to $15 and the only difference is there is not doll.
+So if you want the hair extensions for you or you Barbies you already have just buy the kit.Barbie Designable Hair Extensions Refill PackGreast fun  for the crafty child with adult help.
+Who'd have thought when Barbie was first introduced by Mattel at a New York Toy Fair in 1959 that one day technology would play a part in her fashion statement?
+This Barbie doll with designable hair comes complete with all you need to create colorful and pretty, unique hair extensions with the help of an inkjet printer.
+Go to the web site as instructed where you choose from 100's of designs (or upload a photo for more choices) and then customize your hair extension.
+Print the sheet and it's ready to wear.
+The box comes with 6 hair clips, 16 starter hair extensions (you can buy more separately for around $15 bucks) and a Barbie doll.
+Her hair has a permanent streak of hot pink and black on one side, dangle earrings and a glitter halter top and pink pants with funky belt.
+Your girls will love her.
+Just make sure you have an inkjet printer since this is the only way you can print out the extensions.
+We used one for the first time at a friend's birthday party and the girls had so much fun!
+I'd recommend this Barbie for girls ages 4+.
+my daughter who is 4 got a kick out of it, mostly because she could make her own hair extensions, not so much because of the doll.
+I'd be even better i think for a 6 or 7 year old who could fully take on this barbie set without much adult help.
+There are a lot of choices for the hair extensions and they're easy to make, you just need to set aside 15-20 to make one for your kid if they are not able to.
+I feel as though the price is a little steep, $8-10 cheaper and it would be a perfect gift.
+My daughters friends also went crazy over these, lately there has been a fascination with hair extensions because of the movie Tangled, and girls have been wearing the bright, single colored extensions, but she is able to mix it up a bit with these.
+Cute toy, but only till you run out of extensions.
+Here is another product that in my opinion suffers from Over-Complication-Itis mostly like via the Corporate Barbie marketing engine.
+My 6-year daughter (within recommended age range) was very excited when I gave this Barbie set to her.
+She opened it up, checked out all the parts, played with the doll...then asked me what to do next.
+I looked down and I just saw pieces everywhere - doll, hairclips, strips of paper, etc.
+Apparently I am supposed to go to the computer and work through some detailed procedures to create some hairstrips or something.
+Geez, I'm tired - give us parents a break.
+I haven't been able to get to the computer stuff now so I put all the accessories in a box and my daughter is just playing with the plain old Barbie Doll - just like they did 50 years ago.Overall, I give 3 stars.
+I subtracted a couple of stars for Over-Complication-Itis.
+At 6 years old I think my daughter is a bit too young for the extra procedure steps required for this product.
+You might say that I am being a lazy father by not helping her with this extra stuff...but too be honest I'd rather use the free time to take her for a bike ride.
+"I thought my four year old granddaughter would love this.
+She loves computers, and loves Barbie!
+I was slightly disappointed that the Barbie looks even more provocative than the picture.
+My granddaughter soon had those clothes changed anyway.
+The designing of the hair and printing, etc turned out to be a little too technical for me and my husband to help her do.
+I had to get assistance from her parents.
+She lost interest in the hair extensions quickly but loved playing with Barbie.
+I think an older child who still loves Barbies would appreciate this more, especially those who are computer-savvy.
+But for a young girl, I think the regular ""dress them up"" Barbies would be just as big of a hit."
+"My daughter was over the moon for the doll.
+What's not to like?
+Its Barbie, with rockin' pants and a awesome silver belt, big ol' earrings and a very cool hot pink and black streak in her hair.
+The other comment from my 8 year old was how very long this Barbie's hair is!
+So right there, its worth maybe $15.
+Add the printable hair stuff and I'd give you $20-25 tops.My daughter actually got onto the Barbie site herself.
+She poked through the designs before I even got around to it.
+So once I popped on, she was a pro.
+I was super impressed as she found the site, clicked through to the hair designing part and started going for it.
+She clicked on 4 different prints, resized and places each one.
+Then she found an icon that was a pink heart and resized and placed 2 of them.
+When she has finally finished a hair extension for both her and the Barbie, it was my job to load the paper, which is made extra easy with big, red arrows pointing you toward the correct way to load the printer.We crossed our fingers, clicked print and waited.
+IT WAS FAST!
+I peeled both extensions off the backing (after the 15 seconds it took to dry) and there it was, exactly like the ones she designed.
+The ""neato"" factor only lasted so long, but its pretty cool how it works.The practical application isn't so awesome.
+The extensions are hard to get seated on and remain on the clips that allow you to keep them in your (of course I mean your child's) hair and the smaller version that goes into Barbie's hair.
+I got this for my daughter.
+She was thrilled when she saw it.
+I was thrilled trying to get it out of the box.
+Be careful with the hair, it's more fragile than you think, and since you need to feed it through an ink jet printer, so if you mess it up, the design will not come out right.
+This is my reason for deducting a star, well, half a star.
+I did not deduct for the hooochieness, though I was SO tempted!
+:-)Seriously though, this really held her attention.
+The hair extensions are kind of combable if you are careful and if they are not printed on.
+Combing them after they are printed is possible but carefully....So, you need a printer, and an internet conenction to make your designs, though I suspect you could print out anything as if it were on a strip of paper.
+I guess you could use magic marker.....but I wouldn't.
+My daughter is 6.5 and plays with it for a LONG time.
+If your daughter loves Barbies, and loves doing their hair, she will LOVE this!
+4.5 stars.
+This doll does not require batteries.
+But you do need access to a color printer to print the designs onto the hair extensions.
+My 9-year old granddaughter loves this Barbie doll.
+It's now her favorite.
+She likes choosing the designs online then printing them herself.
+It's easy and fun to make hair extensions for herself and the doll.
+Even a 9-year old can do it.
+And there are hundreds of designs to choose from.
+The doll has super-long hair so it's easy to style in different ways, especially with the barrettes included.
+Girls can wear the hair extensions they make and give them to friends.
+Girls ages 9-11 will really enjoy this Barbie.
+I like the way it's getting my granddaughter interested in brushing and styling her own hair.
+DISCLAIMER: My daughter LOVES Barbie.Another disclaimer: she also is a girly-girl :).So my seven year old Barbie lover saw the commercial for this and just HAD to have it.
+She loves Barbie and she loves the idea of doing her hair and has been begging for extensions, which mom is too mean to give her (she's 7).
+But this was the perfect solution!
+Firstly she loved the doll - she looks rocker-chic and that's always a cool thing to look like!
+What we were curious about, though, was how this would work, so we immediately got online and started designing!Firstly, the designing is pretty easy.
+Just drag and drop and you can adjust - simple for my tech-savvy 7 year old.
+Then you just print straight onto the hair!
+I thought it was crazy at first but honestly, it works, and the hair is much softer than you may think.
+Give it a bit of time to dry and then it's all set!
+We connected the hair to Barbie and it stayed on pretty well.
+We used the clip to connect it to my daughter's hair and since she has pretty fine hair it didn't stay on perfectly, but she was so happy that she had no problem putting it in any time it came out.We haven't played with it with friends yet, and the only con for me is the fact that you have to buy more hair extensions (I think that's a great thing to use her allowance money on!)
+but other then that, this is definitely a great idea!
+A got this Barbie Designable Hair Extensions Doll Kit for my granddaughter's 8th birthday.
+She loves Barbie and loves fashion and art design even more so she was very pleased with this product.
+The set comes with a very punk rock looking Barbie, 16 printable hair extensions, 6 assorted hair clips (4 large and 2 small) and Mattel has a refill pack available to print more hair extensions if you so choose.My granddaughter loved Barbie, but I, however, was a bit disappointed.
+The Barbie is SUPER cheaply made out of a VERY LIGHT plastic.
+Not your standard Barbie material...  Barbie also has a bit of her own hair printed like a hair extension but it is not removable.
+My granddaughter was also a little disappointed in this flaw in the design of the Barbie herself.
+Barbie's non-removable hair extension is pink, black and white.
+My granddaughter wanted to make not only colorful hair extensions for herself but also for Barbie.
+You can use the small hair clips to clip in different extensions on Barbie and use them on yourself along with the larger clips.Granddaughter needed help finding the website and printing but it was a nice craft to do together and she and I both had fun!All in all a nice product, albeit with some minor flaws...
+My daughter just about died when she saw this come in the mail yesterday!
+Barbie is so cool now a days!!!
+This Barbie comes with 16 hair extentions, 6 hair clips and one doll complete with a pink feather in her hair.
+You can design over 100 extensions online, but hopefully with all this design opportunities you can find replacement extensions so you can actually make that many, but that leaves you lots to choose from before printing them.
+You can print your own extensions with your own inkjet printer, it's so easy, they come on a piece of paper you just load your printer with.
+They are silky soft too.
+Intel 1.5 GHz processor or equivealent required.
+Plus 256 MB of RAM, 64 MB of graphics memory, Adobe Flash PC/MAC compatible.
+Length of extensions approximately 9 and a half inches long.
+The streak in the Barbie's hair is permanent, but you also add other extensions to her hair, which is fun.
+Recommented for girls ages 6 and up, with adult supervision.
+I got this for one of my daughter's playdates.
+They had fun, especially since both girls have a couple of Barbie's between them.
+The set itself is fairly basic.
+As described on the product page, the set comes with one Barbie doll, 6 barrettes (which can be used on the doll or on the girls), and 16 printable hair extensions.Since my daughter and her friend are only first graders, they needed my help with this `project'.
+The designing is done online and with multiple options to choose from, the kids were happily engaged in choosing a design they liked.
+Just follow the instructions, print, peel off, and clip onto the doll's hair or a child's, and that's it.
+I do have to say that the hair extensions feel like real hair, nice and soft!It is a novel idea, and kept them occupied for some time, but honestly at this age, their attention span is quite limited, and they were soon off doing other things.
+Older girls might get more out of this.
+It is a cute idea though and a fun, creative project for girls.

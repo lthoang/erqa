@@ -1,0 +1,161 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Are the animal tiles magnetic?
+Top sentence(s):
+I'm not sure what's up with the handle however.
+You can mix a cow and a pig.
+All the animals fit inside the bucket, dumping them out and putting them back in is half the fun for a toddler.
+Great  toy - can't go wrong with toddlers and fun and silly and creativity!!"
+I'm glad the toy is not bigger than it needs to be.
+
+Question attention weights:
+0.3846571147441864,0.017938481643795967,0.15555430948734283,0.44185009598731995
+Sentence attention weights:
+0.008994114585220814,0.0063031697645783424,0.0077247098088264465,0.009295974858105183,0.009743875823915005,0.00978275015950203,0.008900637738406658,0.008394344709813595,0.004559103865176439,0.006126786582171917,0.0040233139880001545,0.00987791083753109,0.009046542458236217,0.006634419318288565,0.0049531953409314156,0.007639182265847921,0.008140424266457558,0.007089379709213972,0.007741993758827448,0.009261681698262691,0.008864525705575943,0.007477284409105778,0.009850621223449707,0.005422385409474373,0.007339256349951029,0.007778087630867958,0.008619822561740875,0.006520097143948078,0.007244827225804329,0.007502233609557152,0.00433784443885088,0.008585991337895393,0.0087710190564394,0.005898656323552132,0.008307778276503086,0.00376495230011642,0.008125201798975468,0.004222548566758633,0.008950966410338879,0.006823705974966288,0.006052836775779724,0.005392040591686964,0.008950966410338879,0.008593426086008549,0.00810251571238041,0.004690777976065874,0.008688807487487793,0.00518136378377676,0.007197900675237179,0.006011970341205597,0.007896184921264648,0.00917584914714098,0.007297602016478777,0.004246033262461424,0.010311700403690338,0.005628941580653191,0.005570560228079557,0.008689596317708492,0.008689596317708492,0.00339313130825758,0.00935609545558691,0.006290511228144169,0.004345687106251717,0.007632037624716759,0.004018727689981461,0.008551308885216713,0.006730392575263977,0.005595337599515915,0.008337396197021008,0.009219322353601456,0.006755793932825327,0.008089428767561913,0.0059761349111795425,0.007469946052879095,0.003844328923150897,0.005992636550217867,0.00895008910447359,0.00970873050391674,0.00962887890636921,0.0029822704382240772,0.004132910165935755,0.00699625164270401,0.005385623779147863,0.009040079079568386,0.008692987263202667,0.00860473420470953,0.009050690568983555,0.011629846878349781,0.008806691505014896,0.008596821688115597,0.008740023709833622,0.009102780371904373,0.008927841670811176,0.009561820887029171,0.009242251515388489,0.007509217131882906,0.008036905899643898,0.00898134708404541,0.009386596269905567,0.006824356969445944,0.007772938814014196,0.006064902991056442,0.005845054984092712,0.004318832419812679,0.0030235035810619593,0.003601235104724765,0.0027666164096444845,0.008143379352986813,0.005290970206260681,0.009060910902917385,0.00787987932562828,0.008237331174314022,0.008984453976154327,0.007403167430311441,0.011522567830979824,0.0044704945757985115,0.008086653426289558,0.006587317679077387,0.006377057638019323,0.008620493113994598,0.003915571607649326,0.005499155260622501,0.0032551256008446217,0.006476187147200108,0.004391910508275032,0.005423897877335548,0.00969411339610815,0.008647709153592587,0.0074300155974924564,0.00944153405725956,0.005117286927998066,0.005399590358138084,0.007333850488066673,0.004864693619310856,0.007283415645360947,0.008170709945261478,0.008338377811014652,0.010131101123988628
+0.008158276788890362,0.009136185050010681,0.0071963174268603325,0.008648226037621498,0.010179576463997364,0.009960239753127098,0.008126121945679188,0.00801929458975792,0.002921236678957939,0.005776621401309967,0.0038794325664639473,0.009418437257409096,0.008667286485433578,0.007089495193213224,0.006663072854280472,0.007257416378706694,0.0074044945649802685,0.007753611076623201,0.007704253774136305,0.008040056563913822,0.00797329843044281,0.006842916831374168,0.007895235903561115,0.004492022562772036,0.00687591964378953,0.007325875572860241,0.008540449663996696,0.005041525699198246,0.008165156468749046,0.007392231374979019,0.0041496725752949715,0.00808500312268734,0.00827780645340681,0.0059926509857177734,0.008231038227677345,0.008362081833183765,0.007271588779985905,0.007553610950708389,0.008226897567510605,0.007100360002368689,0.006389694754034281,0.005965836811810732,0.008226897567510605,0.009032374247908592,0.009912682697176933,0.007509961258620024,0.008980123326182365,0.005616352427750826,0.006002903915941715,0.0071368650533258915,0.0066938153468072414,0.009426386095583439,0.0058479756116867065,0.007983035407960415,0.01117666158825159,0.006765786092728376,0.005392075981944799,0.007720549590885639,0.007720549590885639,0.0028645957354456186,0.011012348346412182,0.004738924093544483,0.0048834714107215405,0.006971098482608795,0.004226780496537685,0.007995232939720154,0.0063459924422204494,0.006212649866938591,0.007936852052807808,0.008437665179371834,0.0061593204736709595,0.007664861157536507,0.006211281754076481,0.00840997975319624,0.005388092249631882,0.00600999454036355,0.008115124888718128,0.008575616404414177,0.006516861263662577,0.004097390919923782,0.004516014829277992,0.005800136364996433,0.008876736275851727,0.008451214991509914,0.008033312857151031,0.008194539695978165,0.008275328204035759,0.013801099732518196,0.0081382617354393,0.006071065552532673,0.007936876267194748,0.008137529715895653,0.007986847311258316,0.00778875220566988,0.009419012814760208,0.007733533624559641,0.006779526360332966,0.008196959272027016,0.007935087196528912,0.0066050514578819275,0.005725668277591467,0.008964285254478455,0.008185172453522682,0.004575641360133886,0.0019588759168982506,0.005592110101133585,0.006460158154368401,0.008077599108219147,0.009940998628735542,0.006728349253535271,0.008762374520301819,0.00735054537653923,0.008486372418701649,0.008900211192667484,0.00830347090959549,0.0046068718656897545,0.008138529025018215,0.005371334031224251,0.007947913371026516,0.007358616217970848,0.0056090024299919605,0.007410680875182152,0.003621116979047656,0.005395942833274603,0.004239986184984446,0.006719368975609541,0.007512285374104977,0.007911245338618755,0.007151564583182335,0.007301187142729759,0.006805757526308298,0.005384115967899561,0.007729595527052879,0.005082856863737106,0.006015341263264418,0.007488814648240805,0.00751797528937459,0.012921624816954136
+0.00826012622565031,0.007339172065258026,0.007801984902471304,0.008343176916241646,0.009024206548929214,0.009006578475236893,0.008160078898072243,0.007970434613525867,0.004894386976957321,0.006604582071304321,0.005111923441290855,0.008810843341052532,0.008345299400389194,0.006700520403683186,0.005936267785727978,0.00750676728785038,0.007756303530186415,0.0071614277549088,0.007483893074095249,0.008278867229819298,0.00815709587186575,0.007449908182024956,0.008698342368006706,0.005503994412720203,0.007327892351895571,0.007567889057099819,0.007920335978269577,0.006864083465188742,0.0076148658990859985,0.007360519375652075,0.005219129379838705,0.008087493479251862,0.008142785169184208,0.006607006303966045,0.007684446405619383,0.005545733030885458,0.007995610125362873,0.0058935233391821384,0.008243249729275703,0.0070782192051410675,0.006944552063941956,0.006557965185493231,0.008243249729275703,0.008298829197883606,0.008138531818985939,0.005396660882979631,0.008153663948178291,0.0061588226817548275,0.007151544094085693,0.007075096480548382,0.007499275263398886,0.008339169435203075,0.007227775175124407,0.005783763248473406,0.009057422168552876,0.006534369196742773,0.0062821353785693645,0.00802302360534668,0.00802302360534668,0.004449089523404837,0.00870165042579174,0.006679507438093424,0.005601017270237207,0.007781826425343752,0.005089874844998121,0.008109365589916706,0.006799403578042984,0.006510335020720959,0.00784559641033411,0.008350159041583538,0.006934669800102711,0.007848368026316166,0.0067293415777385235,0.007169734220951796,0.005309301894158125,0.006540423259139061,0.008274367079138756,0.008554275147616863,0.007782802917063236,0.004619490820914507,0.005211181007325649,0.006655815988779068,0.006781876087188721,0.008329411037266254,0.008109362795948982,0.007714794483035803,0.008256814442574978,0.009293045848608017,0.008153073489665985,0.007800995837897062,0.008097739890217781,0.008239833638072014,0.008155513554811478,0.007941287010908127,0.00862339697778225,0.007589624263346195,0.007626181934028864,0.008258076384663582,0.008254976943135262,0.006937883794307709,0.007263803388923407,0.0065598031505942345,0.006664978340268135,0.005164340604096651,0.004202499054372311,0.005190199241042137,0.0046740127727389336,0.007935678586363792,0.006589375436306,0.007903631776571274,0.00873635709285736,0.007620169315487146,0.00824075099080801,0.0077268886379897594,0.009400301612913609,0.005581374280154705,0.007971812039613724,0.006993090733885765,0.006960532162338495,0.007861399091780186,0.005375707987695932,0.006651792209595442,0.004559583030641079,0.0071735139936208725,0.00493319658562541,0.00653356546536088,0.008428243920207024,0.008099719882011414,0.007446696050465107,0.008027935400605202,0.006002259440720081,0.006340407766401768,0.007384888827800751,0.005949874874204397,0.006962417624890804,0.0076857879757881165,0.007814169861376286,0.009329916909337044
+0.009129000827670097,0.006302047986537218,0.0077889300882816315,0.009434587322175503,0.00993276759982109,0.009991978295147419,0.009026470594108105,0.00844633299857378,0.0044991495087742805,0.006066783331334591,0.0038505890406668186,0.01007653959095478,0.009121625684201717,0.006650696508586407,0.0047556012868881226,0.007638694252818823,0.00820847786962986,0.007061108015477657,0.007813258096575737,0.009411206468939781,0.008988584391772747,0.007502002641558647,0.010082807391881943,0.005327384918928146,0.007366504054516554,0.007846060208976269,0.00869477167725563,0.006421155761927366,0.007204501423984766,0.0075306398794054985,0.004134856630116701,0.008680169470608234,0.008886625990271568,0.005808372050523758,0.008355364203453064,0.0034016361460089684,0.008082040585577488,0.003944897558540106,0.009089622646570206,0.006829605437815189,0.005858188960701227,0.005204155575484037,0.009089622646570206,0.008637234568595886,0.008021090179681778,0.00451202318072319,0.008747891522943974,0.00500467699021101,0.007250276394188404,0.005770778749138117,0.007931826636195183,0.009261355735361576,0.007258743513375521,0.004013705532997847,0.010510353371500969,0.005545109044760466,0.005341135431081057,0.008807322010397911,0.008807322010397911,0.0032206333708018064,0.0093988673761487,0.006224618759006262,0.004200332332402468,0.007700357586145401,0.0038570500910282135,0.008666791021823883,0.006718338932842016,0.0054487488232553005,0.008425349369645119,0.009388362988829613,0.0067582400515675545,0.008030297234654427,0.005791126750409603,0.0074941236525774,0.003658500500023365,0.005882949102669954,0.009061135351657867,0.009900199249386787,0.009713339619338512,0.0027189315296709538,0.003995087463408709,0.007049952633678913,0.00523619307205081,0.009157110936939716,0.008811851032078266,0.008708673529326916,0.009187714196741581,0.011958424933254719,0.008923469111323357,0.008754073642194271,0.008848844096064568,0.009244909510016441,0.00905240885913372,0.009785228408873081,0.009338358417153358,0.007510105147957802,0.008105713874101639,0.009112349711358547,0.009544902481138706,0.006854568608105183,0.007855299860239029,0.0059550171718001366,0.00579370791092515,0.004147215746343136,0.0028364036697894335,0.0034772984217852354,0.0024814633652567863,0.008188880048692226,0.0049704802222549915,0.009276270866394043,0.00754094822332263,0.008337565697729588,0.009127817116677761,0.007316236849874258,0.012062961235642433,0.0043667093850672245,0.008133629336953163,0.006583045236766338,0.006297391373664141,0.008740855380892754,0.003724116599187255,0.005242956802248955,0.0030739346984773874,0.00631375890225172,0.004231966566294432,0.005247337277978659,0.00991651602089405,0.008752225898206234,0.007420647423714399,0.009586344473063946,0.004982580430805683,0.005238087382167578,0.007280459627509117,0.004701319150626659,0.007415066473186016,0.008260149508714676,0.008333038538694382,0.010395808145403862
+Questions:
+Are the animal tiles magnetic?
+Dose it stick on the fridge?
+What age child is this toy for?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+Leapfrog seems to make a lot of educational games and ones that are fun.
+I know this is targeted for 12-36.
+However, I think 12 months might be too early and think it is acceptable for over 36 months.
+My daughter just turned 3 the other day and she loves playing with this toy!It does come with the batteries installed which is nice.
+You match up the animals and it will let you know if you have them correct.
+If not, it will speak the two animals that are matched up.
+My daughter is good at matching up the colors so they usually are a full match.
+There is also a button that plays a few melodies.
+One of my favorite features is you have a low and high volume button or you can turn the toy off completely.For storage, the blocks go inside the container and you pull the handle up and it is in a `locked' position.
+I have found this toy to not only be education but also fun.
+My daughter has pulled it out of her toy box daily to use.As far as storage, if you do not have much space, this toy is perfect.
+It is rather compact and perfect for smaller areas and easy to store.Again, I think the age range could go up on this toy.
+I know my newly turned three year old is enjoying it.
+I have seen older variations of this toy before, but this one seems to have better colors and sounds than most.
+I think that the best thing about this toy for kids (beyond the obvious swellness of listening of barnyard sounds) is that you can create really unique combinations of barnyard animals (like a cow and a pig), and the machine recognizes your kid's combo and comments on (a cow pig!?!)
+and plays a little ditty.It feels like the best inside joke ever between your child and the game.
+This is really sweet, and kids love it.
+My daughter is 13 months and she gets too easily frustrated to put the animal pieces in herself, but she likes to hear them talk and likes the songs.
+I love that you get a song about the hybrid animals.
+It's so funny and silly.
+The fun facts about the animals, when you make a match, are fun and cute as well.
+The storage bin is just the right size for the pieces, which I appreciate.
+I'm glad the toy is not bigger than it needs to be.
+I also like the fact that the animal shapes don't have any electronics in them, because they go directly into my daughter's mouth.
+"Very easy to use and loud clear sound.
+The animal pieces are easy to keep track of because they fit into the little tub.
+Amazingly my almost-2-year-old hasn't lost any yet.
+She's been using this kit for weeks now and she still loves to carry it around like a purse.
+In the beginning she needed help figuring out that two ""end"" and two head pieces didn't go together but now she has the hang of it.
+Very educational and the songs are cute."
+We had the magnetic version of the Leapfrog Farm Animal Mash-ups before we got this one.
+The two versions are pretty similar.
+Same sayings and songs when you put in the pieces.
+This new kit has one more animal (a red dog) which allows for more combinations.
+It also comes with a nice case that all of the pieces fit in making it more portable than the magnetic version.
+The animal pieces in the magnetic version were heavier (because they had a magnet on the back) which made them seem a little nicer quality than this new version which has hollow pieces.
+Both versions come with 3 settings - off, volume 1, and volume 2 - which I appreciate.I think it is a fun and creative toy (either version).
+It promotes fine motor skills (putting the pieces in), creativity (mixing up animals), and can help with color and animal recognition.
+This is an adorable little learning toy for little ones.
+It has sounds and lights and the little one enjoys it.
+When you mix and match the animals, they make different animal names, and gives praise when you get the correct animal parts.
+It is very interactive and helps toddlers learn logic.It feels pretty sturdy to me and the learning toy doubles as a container for the animals.
+You cannot go wrong with this.
+I highly recommend it.
+This is a fun little toy, that both our 3 1/2 year old and 1 1/2 year old enjoy.it's a little storage container with a top with two open spots on it.
+Included are halves of animals, you put them on, and then it sings a song including the halves of the animals names if they are unmatched, and a different song if you've successfully matched them.Kids love the song about a &#34;duck pig&#34; or whatever random thing they do.
+A bit harder for our 1 1/2 year old to put pieces on, but for older kids it's great.
+This animal match-up helps very young toddlers learn how to use their fingers to place animal parts into place to make sounds and play songs.
+It's a cute concept that will be fun for a two-year-old.
+My three-year-old quickly got bored with this toy as she is now playing with more complex toys and puzzles and games.
+I think the 18-month to 2.5 year range is best for this toy even though the packaing says it is appropriate up to 3 years old.
+This is a nice small bucket.
+It is about 4 inches across and about 2 inches deep.
+The bucket isn't heavy and tiny hands have no trouble grabbing the handle and carrying it around.
+All the animals fit inside the bucket, dumping them out and putting them back in is half the fun for a toddler.
+You select an animal and put it on the top and it announces what animal you chose.
+Then you pick another half of an animal and put that on and the box sings a song about the silly animal mashup.
+It is all very cute.
+They identify the colors of the animals, the sounds and the animal itself making this a great way to learn.
+If you want to dance, just press the music note and enjoy the farm themed music.
+The volume is adjustable to two levels which is a nice feature as well.
+This is a great toy that will see a lot of use in our home.
+"We had one similar to this several years ago that was a refrigerator magnet.
+This one is much more user friendly in my opinion.
+The little barn that the puzzle pieces fit into is the lid of the storage bucket.
+There are more animals with this set too.
+If the little one puts the front half of the pig with the back part of the duck, there is a little song about it that ends with ""that's silly.""
+If, on the other hand, they get the correct two pieces together, there is a little song praising their effort and telling them what animal they made and what sound it makes.
+It is such a cute toy and the babies love it.
+The therapists love it too and frequently use it when they come.
+This has been a great hit at our house with our two toddlers."
+This is an absolutely adorable and engaging toy.
+Inside the bucket your child will find easy to grab pieces that represent half of an animal.
+When placed together into the lid of the bucket these pieces create &#34;mashed up&#34; animals.
+When the animal pieces are pressed into the lid the toy plays sounds representative of each half of the animal (for example, a horsedog, a pigcow, etc.).
+The toy also plays fun farm-themed music.
+I love that the toy is compact and all of the pieces are stored inside the bucket, making this one easy to take along on trips to visit friends and family.
+Great product!
+"I thought this was a magnetic set, which in the past I had in the alphabet version, and was a little disappointed that it wasn't.
+However, for the under twenty price and the hours of entertainment my little guy has gotten I've moved passed pining for the non magnetic version.I like that these store in the stream lined box, and how easy they are to put in and out of the 'mashup maker'.
+So far my 13 month old can't quite put them in, but loves taking them out and pushing them down, and pressing the music button.
+The animal noises are cute, and the ""that's silly"" phrase makes him laugh.
+It's simple, but gives animal facts, colors, noises, and songs, which makes it a total win in my book.It's very sturdy, and has survived being stepped on, dropped, shoved under a couch.
+You can't miss with this for your little one, or as a gift!"
+This was a realyt great find.
+This LeapFrog Farm Animal Mashup is so funny.
+It plays songs.
+You can mix a cow and a pig.
+They sing cute but not annoying songs.
+While your child is learning the animals.You can watch their eyes light up when the see their favorite mashups come alive.
+Nice carry case to keep all your animals in as well.
+Perfect for little ones, no real small parts as well.
+Nice learning tool and a great way to store all the pieces as well.
+Cute little set that stores nicely in the container.
+It has a lot of songs and sayings.
+It sings when you mix or match the pieces of the animals.
+The music as well as the voice is not annoying, which is a HUGE plus.
+it is very engaging and fun for little ones.
+I think it's really cute and love that everything can store right inside, without the case being too big at all.
+There are lots of possibilities and variation with the music/songs since you can mix up all of the animal pieces and it will change what it says/sings depending on what animal parts you put together.
+When you put the right pieces together, it sings praise for matching it up as well, but it is fun to mix different animals together and get the &#34;silly&#34; matched song.
+Overall it is a great little toy and with all of the variation it keeps them entertained for a while - they don't get bored with it too quickly and you don't have to hear the same music, sounds or sayings over and over again, repeatedly.
+The fact that the music and voice is not annoying or obnoxious is tremendously appreciated!
+This toy is well received in my home, my boys love it, when they make matches (or mismatches) they dance to the music that plays and giggle while they make these mixed up animals.
+The music and noise can get a bit overwhelming when your child insists on playing with it all the time, the high/low volume control doesn't have much difference.
+The handle doesn't go above the lid and can't really be used for carrying, but if we base this on how much the kids enjoy the toy it gets 4 stars.
+We have theLeapFrog Fridge Phonics Magnetic Alphabet Set - Styles May VaryandLeapFrog Fridge Farm Magnetic Animal Set, both of these reside on our fridge and are very well made.
+I can't tell you how many times my kids have tossed the whole thing on the floor, and still it works great!
+All of the individual pieces are really solid.Farm Animal Mash-Up Kit is nice, and is basically the same as the fridge animal magnetic set, but it's not designed as well.
+The plastic seems much cheaper, and the individual pieces are all hollow plastic.
+One could argue that it saves on plastic, why use it if it's not needed.
+But the set looses it's quality by feeling so cheap.
+Even the bucket is thin plastic.Overall this is a nice gift set for young kids.
+My boys enjoy playing with it, and the music is very nice and not too annoying to listen to over and over and over again.
+I'm not sure what's up with the handle however.
+It slides up and doesn't give a lot of room to hold the bucket, kids can do it, but adults will have a difficult time.
+And you can't play with it if the handle is up because it comes so close to the pieces you can't remove them.
+I'm not really buying the whole 'educational' part of this toy.
+Animal sounds, colors, those are things most kids pick up pretty quickly.
+In fact, the whole mash-up aspect probably does more harm than good in teaching which animals make which sounds.
+But it's entertaining, and there's a 'low' setting on the volume switch, so it's fine.I like that it comes with the bucket to store the animal parts.
+I dislike that if you walk away from it, it starts making animal sounds after a minute or so to get your attention again.
+Yes, ideally the kid would turn it off when they moved on to their next toy, but it always seems rude to me for toys to demand attention when they've been cast aside.The only real trouble i have with it is that it takes some precision to place the animal halves into their slots.
+Even with adult coordination i find it sometimes takes a little jiggering to get things in place.
+For those on the lower end of the age range, who are only just mastering 'put square block in square hole', expect a few rage-throws of pig butts and dog fronts.
+"I ordered the Leap-Frog Farm Animal Mash-Up Kit for my 18 month old grandson.
+I was familiar with the Leap-Frog books, but had never seen this type of ""game"" toy for little ones.
+This toy is really great for young toddlers.
+First of all it comes in a cute little kit (case) that is small enough and light enough for the child to carry around.
+Secondly, the songs that play when the child puts the front and back of an animal together are cute and easy for toddlers (and grandmothers) to sing, too.
+I love the fact that the child can make up his/her own species of animal, by combining the front of one animal with the back of another (like a ""puck""  a pig-duck).
+The Leap Frog part of the toy creates a new animal sound and a song for the ""silly"" animal.
+In my opinion, the mash-up part really challenges the child's creativity and then rewards him or her with a new sound/song.
+It's like a super-sonic version of ""animal matching cards.""
+My four year old grandson thinks it's all silly (because he's busy with his dinosaurs!!)
+but that's exactly what toddlers love - being silly!
+!This Leap Frog Animal Mash-Up Kit seems very sturdy so far, which is good, as toddlers are well-known for tossing toys and being a bit rough with them.
+Great  toy - can't go wrong with toddlers and fun and silly and creativity!!"

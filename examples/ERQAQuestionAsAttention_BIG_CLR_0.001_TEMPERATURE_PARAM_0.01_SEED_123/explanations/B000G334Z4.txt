@@ -1,0 +1,84 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Does the doll's head move?
+Top sentence(s):
+This is a soft and simple toy for a young toddler.
+It may be too &#34;simplistic&#34; for an older pre-schooler.
+He also has a stitched &#34;belly button&#34; which is so cute.
+We also received the baby girl doll from this company, so my daughter has a set of twins, which she was thrilled about.
+They're very soft, and perfect for a little girl to take to bed at night.
+
+Question attention weights:
+0.04116462171077728,0.11032183468341827,0.10202781856060028,0.2070668339729309,0.2576255798339844,0.2817932665348053
+Sentence attention weights:
+0.014341137371957302,0.019268278032541275,0.016350239515304565,0.010982372798025608,0.01440082024782896,0.01292690820991993,0.011916288174688816,0.021777162328362465,0.014444415457546711,0.01962975785136223,0.011046318337321281,0.019040867686271667,0.019349992275238037,0.018569907173514366,0.023585932329297066,0.01795838586986065,0.018907833844423294,0.0288213063031435,0.019162680953741074,0.021207468584179878,0.013997056521475315,0.018580103293061256,0.014670106582343578,0.020108425989747047,0.020753806456923485,0.02009584568440914,0.012740565463900566,0.024218160659074783,0.01793833076953888,0.015017027966678143,0.004396834410727024,0.018181413412094116,0.02192498929798603,0.012558137066662312,0.028702009469270706,0.017313767224550247,0.022468365728855133,0.013619916513562202,0.01608942076563835,0.013971098698675632,0.014350628480315208,0.030855288729071617,0.022278139367699623,0.019816085696220398,0.018285155296325684,0.017989786341786385,0.017165886238217354,0.01745157688856125,0.019938219338655472,0.012164704501628876,0.007398543413728476,0.01871696673333645,0.016683876514434814,0.017512135207653046,0.0124741205945611,0.02029043808579445,0.015595062635838985
+0.01255024317651987,0.015947574749588966,0.02022288180887699,0.015343701466917992,0.0161004476249218,0.009793393313884735,0.00950663536787033,0.021179210394620895,0.01538479421287775,0.019437480717897415,0.01908418908715248,0.01881393976509571,0.020536374300718307,0.016719074919819832,0.01853824220597744,0.01884772628545761,0.017014145851135254,0.024806436151266098,0.019708460196852684,0.021577857434749603,0.014861618168652058,0.018842188641428947,0.013319259509444237,0.020263878628611565,0.02107970602810383,0.0174203272908926,0.01000730600208044,0.02402084320783615,0.01896079257130623,0.017726270481944084,0.009554367512464523,0.01636701449751854,0.020175406709313393,0.01601766236126423,0.02314893528819084,0.016299162060022354,0.022525044158101082,0.015240886248648167,0.015364417806267738,0.014599866233766079,0.01694711484014988,0.016833744943141937,0.019381767138838768,0.020796239376068115,0.018211735412478447,0.010676002129912376,0.021070117130875587,0.018847206607460976,0.020720381289720535,0.019825199618935585,0.011433249339461327,0.023290764540433884,0.013517756015062332,0.022327104583382607,0.015510828234255314,0.021390924230217934,0.012312186881899834
+0.014062915928661823,0.017612619325518608,0.018632100895047188,0.013439072296023369,0.01417333260178566,0.011878926306962967,0.00976864155381918,0.022196730598807335,0.01441038865596056,0.02146856300532818,0.01362189743667841,0.019444653764367104,0.021171782165765762,0.01759503409266472,0.021125275641679764,0.015767185017466545,0.01783762499690056,0.027410335838794708,0.020620346069335938,0.02305053360760212,0.013775665313005447,0.01816914789378643,0.013665316626429558,0.021410878747701645,0.02254735678434372,0.018396174535155296,0.011184899136424065,0.02457931824028492,0.019437771290540695,0.01627994142472744,0.004973442293703556,0.016158321872353554,0.0214992742985487,0.013449260964989662,0.028470594435930252,0.017256537452340126,0.02290920354425907,0.01393433939665556,0.015790030360221863,0.014483134262263775,0.015394181944429874,0.024400997906923294,0.020724795758724213,0.02157353051006794,0.01906200498342514,0.01425995770841837,0.01901383139193058,0.01789170317351818,0.021356698125600815,0.015037184581160545,0.0071612754836678505,0.02025417424738407,0.011492270976305008,0.02008781209588051,0.012792718596756458,0.02170947752892971,0.014128793962299824
+0.013053391128778458,0.016061168164014816,0.020360460504889488,0.017285320907831192,0.015050817281007767,0.01097729243338108,0.008023030124604702,0.021774189546704292,0.014375907368957996,0.02153008244931698,0.01746015064418316,0.01849161647260189,0.02173498645424843,0.01592613011598587,0.017758121713995934,0.014953488484025002,0.016189023852348328,0.026741333305835724,0.020757243037223816,0.02368919737637043,0.013232544995844364,0.01743427850306034,0.013826522044837475,0.02108023315668106,0.02248113788664341,0.017069628462195396,0.010264578275382519,0.023056508973240852,0.02107209712266922,0.017075955867767334,0.007316097617149353,0.01532177533954382,0.02097317762672901,0.014568761922419071,0.024637874215841293,0.016987668350338936,0.022621432319283485,0.015142715536057949,0.015293078497052193,0.015646614134311676,0.017782315611839294,0.02000366896390915,0.02079363353550434,0.02192317321896553,0.019290678203105927,0.011433797888457775,0.020384322851896286,0.017999302595853806,0.021806813776493073,0.01867397129535675,0.008335871621966362,0.023656202480196953,0.009510867297649384,0.023230403661727905,0.013421924784779549,0.02161092683672905,0.012846572324633598
+0.013184169307351112,0.015934113413095474,0.020876342430710793,0.01773655228316784,0.014557424001395702,0.010755891911685467,0.007445203606039286,0.021853836253285408,0.013970927335321903,0.021774424239993095,0.018003052100539207,0.018489470705389977,0.0221017487347126,0.015777843073010445,0.01756119914352894,0.014717280864715576,0.01597083918750286,0.026332948356866837,0.021066678687930107,0.024189237505197525,0.013277231715619564,0.017444157972931862,0.01356467418372631,0.021334407851099968,0.022828714922070503,0.01656245067715645,0.010068775154650211,0.023239390924572945,0.021637869998812675,0.017359785735607147,0.007422979921102524,0.014675077050924301,0.021007774397730827,0.01471822988241911,0.024611439555883408,0.017131853848695755,0.022520368918776512,0.015395752154290676,0.015272879041731358,0.015482863411307335,0.01792626827955246,0.018963351845741272,0.02054065465927124,0.022332465276122093,0.019702421501278877,0.011250656098127365,0.02053486555814743,0.018087442964315414,0.022120671346783638,0.018834486603736877,0.007996217347681522,0.023693306371569633,0.0087055042386055,0.023694703355431557,0.013439854606986046,0.021883932873606682,0.01243740227073431
+0.013189953751862049,0.015573308803141117,0.020876308903098106,0.019503163173794746,0.014423243701457977,0.01104429829865694,0.007275963667780161,0.022020414471626282,0.013876688666641712,0.02261465974152088,0.01755340024828911,0.018393998965620995,0.022370871156454086,0.01537278387695551,0.01700669899582863,0.013409290462732315,0.015572045929729939,0.02654130384325981,0.02135029248893261,0.024759195744991302,0.013120105490088463,0.01681704632937908,0.01378629356622696,0.021421868354082108,0.023136595264077187,0.0166463665664196,0.010155746713280678,0.022697579115629196,0.022302130237221718,0.017204992473125458,0.00684984540566802,0.014444787055253983,0.020939277485013008,0.014410627074539661,0.024540608748793602,0.01712925173342228,0.02227977104485035,0.015314287506043911,0.015120032243430614,0.01612645946443081,0.01843223161995411,0.020181674510240555,0.020656319335103035,0.022539392113685608,0.019921859726309776,0.0110950181260705,0.02026904746890068,0.017801444977521896,0.02235608920454979,0.018610360100865364,0.007255778182297945,0.02447359263896942,0.007573090959340334,0.02427154965698719,0.013143360614776611,0.02168879844248295,0.01255880482494831
+Questions:
+I don't see the choking hazard.  What is triggering this warning?
+Is this doll scented at all?
+Is this doll "anatomically correct" in front? Thanks in advance! (This would be a gift and I figure the"anatomy talk" is totally up to her parents! )
+Is this doll washable?
+Does the doll's head move?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+This doll is very cute - my 7 year old daughter loves the adorable face and the &#34;funny&#34; hair.
+The soft filling makes it a good sleeping companion.
+The diaper comes off frequently, but we have some clothes from other dolls that he can wear.
+The outer material seems to be quite durable and the whole doll can be put in the washer if necessary.
+My 3-year-old twin girls enjoyed this little guy, for a brief spell, when he was welcomed to our home.
+He's soft and cheerful, though lacking of any particularly memorable or engaging features.
+He doesn't make noises, move his limbs, suck from a bottle, or wet his diaper, features that seem to prevail in this age when imagination is left to the toy designers and kids just hit the power button.
+For traditional, old-fashioned parents like my wife and I, this doll is a winner.
+Unfortunately, the little guy had to compete with a carnival of electronic toys, TV shows, iPhones, and other toys that &#34;do stuff&#34;.
+To my dismay, this little guy is nowhere to be found now, just a few weeks after my daughters first met him.
+I'm getting a bad feeling that someday the girls will date the dangerous guys with no future because they are more exciting.
+Am I taking this a bit too far?
+Perhaps!
+It is a really nice quality baby doll.
+You don't see many boy babies, so I thought it was a good addition to my 2 year old's collection (though she still insists it's a girl).
+It is very soft and therefore can sleep in the crib with my daughter.
+I like the design of the diaper, though it's still a little hard for my daughter to put on the baby doll by herself.
+This is a soft and simple toy for a young toddler.
+There are no moving parts.
+It may be too &#34;simplistic&#34; for an older pre-schooler.
+The one I received from Amazon Vine just came in a plastic bag and did not have any box or clam-shell packaging so it would be difficult to wrap up as a Christmas present.
+It looks a bit on the cheap side so I am hesitant to recommend it as a gift.
+Adorable cloth doll with stitches on expression (no buttons) &#8211; very soft and huggable.&#8226; Nice 15 inch large size&#8226; Simple, easy on easy off clothingWould make a perfect gift!
+This little doll is a cutie with those little rosy cheeks.
+It is about 13 inches or so, and is the perfect size to be manageable for a young child.
+It is super soft, so is the ideal sleeping or carseat companion.
+The clothes are very nice, like a real baby's clothes.
+I would think this would be an ideal doll for a toddler, although my seven year old granddaughter loves it, too.
+Cuddly, cute, perfect cloth doll.
+This is the sweetest, most winsome baby doll I have ever seen!
+I also received his &#34;sister&#34; to review as an Amazon Vine reviewer.
+My granddaughter will receive these dear dolls as gifts this Easter when she is 5 1/2 months old.
+This baby is incredibly soft - he feels as if he is made from a micro-plush - it makes me want to hug him!
+He has dear features and wears a bemused expression.
+He also has a stitched &#34;belly button&#34; which is so cute.
+His clothes (minimal layette clothing) are velcro-closed.
+I know both dolls will be much-loved!
+This doll is super soft, light weigh and just the right size for my two year old.
+I like that it doesn't have any plastic yet looks realistic.
+The hat is sewn on, barely.
+This causes a little frustration as my daughter would like to remove the hat.
+I hesitate to cut it loose because it doesn't appear that it'd stay on if I did.
+Such a sweet hug-gable squishy doll!
+Perfect for naps and snuggles.
+I got him for my grandson who is 2.5 thinking it would be a good way for him to start relating to the names of body parts i.e.
+feet, fingers, belly button etc.Kids will like the fact that they can remove and replace the dolls clothing and then show how they can get themselves dressed too.
+I also think it's good for little kids to feel they are nurturing someone so taking care of some of the dolls imagined needs helps build empathizing skills too.
+It would make a great gift, also, for someone who was going to be a big brother or sister soon.
+My 3 1/2 year old daughter has been asking for a boy baby doll for several weeks.
+Oddly enough, boy dolls are hard (impossible) to find at my local stores.
+When I was offered this North American Bear Company Rosy Cheeks Baby Boy through the Amazon Vine product, I was quite excited.
+We also received the baby girl doll from this company, so my daughter has a set of twins, which she was thrilled about.
+Here's a link to the girl doll:North American Bear Company Rosy Cheeks Baby Blonde (Girl)These are such cute and cuddly dolls.
+They're very soft, and perfect for a little girl to take to bed at night.
+My daughter often lays her head on one as a pillow.
+The manufacturer's recommendation is age 3 and up, but I can't imagine why this wouldn't be suitable for a baby of just 8 or 9 months old.
+I cannot see any type of chocking hazard.

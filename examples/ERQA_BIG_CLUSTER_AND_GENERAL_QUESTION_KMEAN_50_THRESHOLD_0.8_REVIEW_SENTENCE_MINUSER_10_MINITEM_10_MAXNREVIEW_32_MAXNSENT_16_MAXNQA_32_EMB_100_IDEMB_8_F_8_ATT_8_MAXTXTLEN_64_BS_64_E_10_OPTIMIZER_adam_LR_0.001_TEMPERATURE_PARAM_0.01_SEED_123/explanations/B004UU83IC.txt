@@ -1,0 +1,233 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+So enters the Dora Kitchen (Dora is my daughter's favorite cartoon).
+She played with the food, while her less than handy dad got this together with not too Much painShe loves it, and stands In her kitchen cooking  and talking back to Dora an hour at a time.She had just asked for a kitchen when this came up on amazon vine and nothing we will give her for the holidays will come closeAn absolute favorite toy!We highly recommend
+The fridge shares a shelf with the oven, which is just confusing.
+Ourprevious play kitchenwas of terrible quality, constantly fell over, and eventually fell apart.
+It also came with plenty of fun extras and an interchangeable card that goes in the window.Dora the explorer rocks she teaches kids Spanish who otherwise may have never heard it at all ling before taking it at school.love that its interactive.Good quality highly recommended!
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.004129102919250727,0.0042354511097073555,0.004334194585680962,0.004230840597301722,0.0038055547047406435,0.0043401531875133514,0.008192656561732292,0.0033189253881573677,0.004549218341708183,0.004467216785997152,0.003681023372337222,0.006874543149024248,0.0034794423263520002,0.005437830928713083,0.00635188864544034,0.0042872983030974865,0.005904068239033222,0.00454602250829339,0.005210500210523605,0.005572836380451918,0.004367618355900049,0.0036060838028788567,0.005283293779939413,0.0038705647457391024,0.004374275449663401,0.0035976662766188383,0.005259058903902769,0.002504258416593075,0.002662812592461705,0.005511617753654718,0.003821455640718341,0.004347676876932383,0.0034127638209611177,0.0038057230412960052,0.004719853401184082,0.003974969498813152,0.0037181188818067312,0.005464574322104454,0.0033461516723036766,0.005549187306314707,0.002962528495118022,0.005492376163601875,0.003910417668521404,0.003371304599568248,0.004341247957199812,0.0027046126779168844,0.004669805523008108,0.005024251993745565,0.0034293443895876408,0.0042900084517896175,0.005289486143738031,0.00809335708618164,0.004949665628373623,0.0037143821828067303,0.004005615599453449,0.0030226216185837984,0.0045832740142941475,0.005934201646596193,0.004961294587701559,0.004526554141193628,0.004690337460488081,0.0041107856668531895,0.004628847353160381,0.0032493979670107365,0.006561456248164177,0.0038977281656116247,0.003428747644647956,0.0044202646240592,0.004714574199169874,0.004272847436368465,0.0033271806314587593,0.006209085695445538,0.0037050300743430853,0.004983409773558378,0.004343203268945217,0.004114639014005661,0.004070557188242674,0.00504370778799057,0.0038643681909888983,0.002875899663195014,0.0057266587391495705,0.0030376624781638384,0.004257551394402981,0.004993004724383354,0.0041848355904221535,0.003732026321813464,0.0034972282592207193,0.004309164825826883,0.002383438404649496,0.007198826409876347,0.005115977022796869,0.004112327471375465,0.007566435262560844,0.004442292265594006,0.004807679448276758,0.006123683415353298,0.0058401478454470634,0.004252200480550528,0.0073649394325912,0.005407767370343208,0.006203498691320419,0.002998421201482415,0.0040754955261945724,0.004354432225227356,0.00429124291986227,0.005562685430049896,0.004860460292547941,0.002898432081565261,0.0047737970016896725,0.010184217244386673,0.0031785117462277412,0.004463302902877331,0.003336284076794982,0.0046782055869698524,0.003833538154140115,0.004253234248608351,0.004482188727706671,0.00763866538181901,0.004882390610873699,0.004744760692119598,0.005916477646678686,0.002691766945645213,0.006114855408668518,0.00425264798104763,0.004201104864478111,0.004423231352120638,0.004308049567043781,0.0032068011350929737,0.004295671358704567,0.00610225647687912,0.004322536289691925,0.0025621468666940928,0.0046179830096662045,0.004199992399662733,0.004153831396251917,0.0031642469111829996,0.00641654571518302,0.0051063066348433495,0.0057533010840415955,0.0029248783830553293,0.004410643130540848,0.0045403228141367435,0.0040252916514873505,0.003989205230027437,0.0045701926574110985,0.004905885085463524,0.006005328614264727,0.006661390885710716,0.006808403413742781,0.004686436615884304,0.004301031120121479,0.006424237973988056,0.002860060427337885,0.003512635361403227,0.003705235430970788,0.004419335164129734,0.0040895575657486916,0.005442568100988865,0.006264186929911375,0.004661413840949535,0.004260714631527662,0.0042109559290111065,0.003884078236296773,0.006645545829087496,0.0035864883102476597,0.005063896998763084,0.004494382534176111,0.004440040793269873,0.004687912296503782,0.004323914647102356,0.004721957724541426,0.006661190651357174,0.005589127074927092,0.00784442387521267,0.002789416117593646,0.006225766148418188,0.0031832472886890173,0.003455766709521413,0.004053270909935236,0.005748378578573465,0.0046228645369410515,0.004599610343575478,0.007038744166493416,0.004120795521885157,0.004540468566119671,0.005495797842741013,0.004174347035586834,0.0044540176168084145,0.006766188889741898,0.0028276501689106226,0.004231309983879328,0.005019422620534897,0.004531975369900465,0.007019405253231525,0.003919439390301704,0.0048646810464560986,0.005149956792593002,0.004605258349329233,0.00338013656437397,0.003889219369739294,0.00586641114205122,0.0030220975168049335,0.0016067178221419454,0.004450218752026558,0.005848278291523457,0.0035307009238749743,0.00867368932813406,0.0041761333122849464,0.004476731643080711,0.004482060670852661,0.004158053081482649,0.0042251828126609325,0.003132694400846958,0.005661110859364271,0.0044878097251057625,0.002402916317805648,0.0036769211292266846
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+The Dora kitchen saw limited use with my kids.
+We replaced it with a KidKraft one, and I was happy to see it go.
+The only thing my kids liked about it was the included toy food.There's not much to like about this product.
+It's rather hideous looking.
+Dora's voice is extra annoying through the cheap speakers.
+There's no on/off switch or volume.
+The fridge shares a shelf with the oven, which is just confusing.
+The sink pulls out too easily, and the counter pretty much invites kids to climb it, which is bad because the unit tips over very easily.My recommendation is to take the money you'd use on this unit and put it toward saving for a much better unit.
+As I said, we replaced this one with a KidKraft one and it's infinitely better in every way.
+I am a handy man and I was flabbergasted how difficult it was to put this together.
+Many of the screw holes did not line up correctly and the screws it comes with a nothing but junk.
+My girls love this because they love Dora, but as a kitchen it is pretty lame.
+Their Step-2 kitchen has a lot more playability for less money.
+I wouldn't recommend this for anyone unless their kids are huge Dora fans like my girls.
+"Perfect for little girls between the ages of about 2-8.
+Very sturdy and durable, it is a little on the small side as far as toy kitchens go.
+Which in my opinion makes it simply perfect for keeping at the grandparents house for visits!
+It will fit nicely in apartments or small homes, too.
+Kids who already love Dora the Explorer will appreciate it and will be able to learn a little bit of Spanish while playing.
+Dora ""talks"" to the kids using both English and Spanish.
+I do think that some younger boys may also appreciate the kitchen but think that many would be turned off by the colors and the fact that it's a girl talking to them.
+The kitchen comes with 19 different accessories for imaginative play and all of these accessories are also durable.
+A great purchase but make sure you shop around a bit because I've seen it priced lower at Walmart and Toysrus."
+When this unit arrived in the mail - it came to my office -- and before It was even out of the box it brought giggles and smiles to everyone who saw the box.
+Dora was a huge hit with all ages.
+This unit has food , cookware, utensils and is little kitchen for your child.
+I am little concerned about the process of making this unit talk -- but like all children's toys I think this one will be wonderful even if we loose a few parts.
+"""Dora the Explorer"" is a eight-year-old that most preschoolers are familiar with and want to join in on her adventures.
+With this easily assembled kitchen (instructions are included) children can have an educational, interactive experience as they play and cook along with Dora.
+The ""kitchen"" is solid, but not as heavy as Little Tikes equipment as it will not get the beating they have to endure.
+This is a toy that uses the imagination and doesn't take as much abuse as a picnic table.
+The kitchen colors are bright, exciting and are a real draw.WHAT YOU WILL BE GETTING:+  The ""kitchen"" which includes a refrigerator, oven, stovetop, sink,  and grill.
+The dials to the oven move and you can open the fridge to store things in.
+The oven and refrigerator each have two shelves and the movable oven dials have sound.+  Two double-sided recipe cards, one for a barbeque, the other from a spring picnic.+  Accessories such as a pan, jar of salsa, milk (leche) carton, hamburger, lettuce, cup, spatula, working phone, etc.
+There are twenty play pieces, not including those you can add yourself.
+For example, you can purchase extra pieces at the dollar store or go green and add small empty recycled containers.
+These can be stored in an added side container or in the refrigerator.HOW IT WORKS:You simply slide one of the recipe cards into the window centered above the sink and stove.
+When you press a flower button below the window sill Dora will take you through a recipe.
+The visuals on the cards make it easier to gather up the necessary pieces for the recipes.Dora's voice is very clear and loud as she gives directions, but the sound can be adjusted if needed on the power/volume switch.
+This should be turned off when not in use to save on batteries.
+These should be checked every now and then.The only thing you will need prior to assembly is a Phillips screwdriver and three AA batteries, preferably alkaline for longer life.
+It should take twenty minutes to a half hour for assembly.
+You should wash all the small parts in hot soapy water and wipe down everything before using as that hamburger is sure to be nibbled on.This is an exciting, interactive play kitchen that will provide hours of fun for your little cook.
+I'm not sure what it is with toy kitchen sets, but kids love playing with them.
+I'm guessing it has something to do with the fact that kids like to emulate what their parents do.
+When I saw the Fisher-Price Dora Kitchen, I knew immediately that my kids would enjoy it.PROS:- Fast and easy assembly- Good quality- Decent selection of accessories- Teaches bilingual phrases- Competitively pricedCONS:- NoneASSEMBLYAssembling the all-plastic kitchen took me 20 minutes and didn't require much strain.
+There weren't as many pieces to put together as I was expecting.
+All the screws were the same size so it made the build go a lot faster.
+The stickers for the kitchen were already applied as well.
+I started building the kitchen with a multi-bit screwdriver but eventually had to switch to a regular philips head because my ratcheting, multi-bit screwdriver was too thick to reach down in a couple of areas.
+I recommend starting out with a normal screwdriver.BUILD QUALITYThe build quality of the kitchen is very good.
+Ourprevious play kitchenwas of terrible quality, constantly fell over, and eventually fell apart.
+The Fisher-Price kitchen has a wide base for stability, and every piece lines up perfectly.
+The doors open and shut well, the knobs turn with a solid feel, and the buttons that activate the phrases operate without problems.
+My daughter's friend hasanother version of this kitchenand has had it for a while.
+It's been used indoors and outdoors and is still in great shape, less some fading from the sun.ACCESSORIESThe kitchen set comes with a pretty impressive amount of accessories.
+Most of the items are plastic, but a couple of the pieces, like the tortilla, have a rubbery texture.
+I found out that you can also buy a couple of extra sets of food that come with new recipe cards, that unlock more phrases.
+Yes, this is a ploy to make more money, but for about $11 each, it's not a bad deal.Fisher-Price Dora the Explorer Fiesta Favorites Kitchen Food - Apple PieFisher-Price Dora the Explorer Fiesta Favorites Kitchen Food - Holiday CookiesMISCELLANEOUSThe device that speaks phrases runs on three AA batteries that are included.
+"Chefs can be boys.
+Boys cook.
+The grandkids love this at Papa and Nana's house and often convert this item and a separate table into their own ""El Don Taco Restaurant.""
+They alternate between acting as chef and serving the diners.
+Small paper plates and real taco chips make even the dining guests have fun.
+And one granddaughter is learning Spanish in preschool, and she's beyond Dora in the lingo.
+Others, like Papa, are learning as we are allowed to join in the fun.
+This is just one part of our nuevo (new) toys to lure the grandchildren to Papa & Nana's house.
+It's working!
+One is already begging to STAY at Nana's for 4 days.
+We add small empty grocery cans; open the bottoms for use leaving the top appearing unopened, providing more (free) items for the refrigerator shelf.Papa had the job of ""some assembly required.""
+It was a snap, 18 illustrated facil (easy) steps completed in exactly 31 minutes.
+A few fast-seating screws required only a small Phillips screwdriver.
+The plastic composition is fuerte (strong-heavy-duty) and joints well constructed.
+This item will last beyond diez (10) grandchildren.
+Maravilloso!
+Overall GREAT!!
+!This kitchen is a nice little unit.
+As another reviewer pointed out it is not made from the thick molded plastic like Little Tikes or Step 2 however I do not think that it takes away from the overall durability of the kitchen.
+In fact it allows for several design improvements that the other companies are not able to implement.
+With the Fisher Price Dora kitchen the inside is open/hollow with two shelves across the length.
+This allows for a large amount of toy food and kitchenware to be placed inside the kitchen.
+For those of you who don't have experience with Step 2 or Little Tikes kitchens the inside of the oven and fridge are tiny little box spaces that seldom fit anything.
+So this was a definite bonus.My little guy loves this kitchen.
+He plays with it for hours.
+It is really a complete toy ready to go after assembly because of the included food and kitchenware.
+My son loves putting together a burger and telling everyone that he has made a crabby patty.CONS:The plastic base did not SNAP into place to be then secured with the provided screws.
+After spending a large amount of time trying to get the base to connect I finally gave up and realized that I would need to use the screws to secure the base of the kitchen without it being snapped in-----only to find out that I would need a different screwdriver to finish the job.
+FRUSTRATING!!
+I just have one of those screwdrivers that have the interchangeable heads and it is too short to reach the screws in the base because each is in a recessed hole.
+So I need to go and buy a thin long screwdriver to complete the assembly.
+I did not have issues in any of the other assembly steps.
+My 9-month old daughter is too young for the Fisher-Price Dora Fiesta Favorites Kitchen.
+The task of basing my review for this toy fell on my 2 year old plus niece.
+I can truly say that this toy has been an excitement even while waiting.
+It came in a huge box and adult supervision is required for it needs a little assembly.
+I was expecting some difficulty with assembling this toy but was mildly surprised in the ease of putting this toy together with minimal difficulty.
+Assembly took about 20 minutes, a screw driver is a handy tool to assist you in putting together its parts and pieces.
+As soon as the whole set has been assembled, my niece roared to life!
+This kitchen toy set gives semblance to a child's imagination when they play pretend cooking.
+I love the impression it has pasted on my niece's face every time she plays with it.
+It has various parts and pieces like cook ware and utensils that completes a child's cooking fantasy.
+Really very happy I got the chance to get this in Vine and based my review on my niece's reaction and interaction with this toy.
+Very highly recommended!
+!
+"Whenever I brought my daughter to Church, she would go straight to the kitchen set in the nursery and happily play with it for as long as she could.
+Because of this, this past Christmas, my wife and I bought her theAmerican Plastic Toy My Very Own Kitchen - Colors May Varyat Walmart.
+It was small and inexpensive, and seemed fitting for my one and half year old daughter.Setting up that kitchen was a nightmare.
+I had to manually cut out pieces from the original molding, and then place numerous stickers into place.
+Needless to say, it took me a good four hours to setup--not the most fun way to spend Christmas day.Now that my daughter is nearly a year older, that kitchen has proven to be too small.
+So enters the Dora Kitchen (Dora is my daughter's favorite cartoon).
+When it arrived in its box, she pointed to it and said, ""Open, open please, open, open.
+Open please.""
+This continued on in the presence of my wife until I was able to come home from work, after which, the first thing she said to me was, ""Open please, open.
+""Neglecting my dinner, I decided not to neglect my daughter, so I opened up the box.
+As soon as I pulled out the pieces, I sighed; here was going to be another big assembly project.
+Reading the directions, I attached the first two pieces.
+That wasn't so bad.
+I continued on to the next step and then the next, and to my wonderous surprise, I had the entire kitchen assembled in 30-40mins.
+There were no stickers to place, objects to cut out of molds, or small parts to construct.
+The batteries were even pre-installed!
+My four year old really wanted this for Christmas, so imagine the delight when this was beside the tree Christmas morning.
+It is very cute, with a little fridge and oven that open, and cooking supplies to accompany.
+It's not too gadgety, and leaves plenty for the imagination.
+Sturdy and not hard to put together.
+It is not an eyesore like a lot of larger playsets can be.
+And although Dora is usually marketed toward girls, my boy doesn't know that and he things it's great, so it's perfectly boy-friendly.
+"[Good]Size: It's not too big and it's not too small.
+It's a decent sized kitchen toy that packs a lot of features.Pleasant: The overall design of the toy as well as its accessories is great.
+It doesn't look or feel cheap compared to the more inexpensive kitchens I've recently seen at Toysrus.Dora: Kids in general like Dora.Educational: The bilingual speech feature is definitely a plus.It has a electronic brain: The kitchen can be changed by which recipe card you put in, specifically these cards change how the kitchen tells your child how to prepare the food.
+It's nice to see more toys becoming smarter.Expandable: New recipe card sets that come with their needed ingredients, finished product, and required utensils can continually make this kitchen toy brand new again.
+So far they have cookies and apple pie as new recipes.
+[Bad]Volume: You cannot adjust the Kitchen's speech volume.Not Gender Neutral: There are more and more gender neutral kitchen toys popping up everyday.
+Sadly my nephew didn't feel that this is one of them.
+When I gave it to him, he complained that I ""was giving him a girl toy!""
+I think it has to do with the color scheme and general design of the kitchen.
+Then again your mileage may vary depending on the child and their families."
+This is an amazing gift for any little girl who likes cooking or wants to cook and  especially for one's who love Dora!
+Easy to assemble, my 12yr nephew assembled it without any issues, and my niece (who just turned 6yrs) loves it to pieces and has been playing with it a lot!
+Its not too large for what it is, it can fit even in an apartment like mine easily (well, unless its all ready cluttered), its so much fun, I even love playing with it, but then again I am a kid at heart.
+The voice clips are secondary, they aren't necessary to the enjoyment, they're fun and encouraging, but the kitchen would be just fine even without them.
+The recipe cards are fun and it comes with 19 different accessories, which is nice, though, if not put away, can get lost, and well, its for a child, so they most likely will...  Love that there are many different kinds of appliances and not just a stove and a fridge, it gives it a lot of variety and different uses for play.Just an awesome gift for any young girl between 3-7.  :)God Bless ~Amy
+We just received Dora's play kitchen and we couldn't get it out of the box fast enough.It's so cool and really different than other kitchen sets we have seen.
+First of all the price is very reasonable, when looking at play kitchens they run from around 60.00 to upwards of 250.00+.
+The few that we priced were so large they would take up 1/2 of the  play room or almost 1/2 of a wall in the room.
+This is a perfect size and it allows you to store all of your foods and accessories in the refrigerator and the oven.
+It's also light enough that you can move it from room to room if need be.What we absolutely loved about this was the recipe cards.
+You insert them in to the top of the play set and press the flower button and Dora talks to you( in both English and Spanish) and you can cook together.
+We immediately made burgers and ice cream with Dora.The set comes with 20+ pieces of food and utensils but you can order more directly from Fisher Price or Amazon.This would be an incredible gift for any child ages 3-8 years old.
+It's not super girly (pink) but bright orange, purple, blue and yellow which would make it attractive to a little boy to play with too.Durable and solid like most of Fisher Price products..  WE love it.
+My 3 year old loved this Dora kitchen play set when it arrived.
+However it quickly wore off after a week.
+I don't think we will be keeping it much longer as it does take up a fair amount of space and consists of many smaller items that tend to get scattered around the house if not put up.It is fairly well constructed and assembly took about 20 mins.
+Durable plastic parts snap and screw to together and stickers are easy to apply.
+They seem like they will last quite a while.The center electronic area accepts two different reversible cards that make it speak different things.
+This to me could have been left out all together as it really was a feeble attempt in my opinion to be able to call and market this as an electronic kitchen play set.
+I would have rather that the set be of higher quality or featured more other interactive items instead.
+With todays smartphones and iPad it would have been more entertaining to have some sort of integration with those devices for learning and cook along lessons or something more educational.
+I may yet remove the center section or modify it to fit our iPad into it and my kids can then watch Dora in their kitchen!I think the electronics should have been an all or none.
+The design could have been more engaging and realistic or more whimsical and charming.
+I think this was designed to try to encompass all things as minimally as possible and thus fell short of really being great at any one thing.
+It's a good start but needs refinement IMO.
+This is a great little play kitchen for toddlers and young kids.
+Using the play food and accessories that come with it, your child can 'create' recipes according to the recipe card, or just use the kitchen for their own imaginative play.
+As with the tv show, Dora guides you through the recipes and says phrases in both English and Spanish, so as your child hears the phrases and sees the pictures on the recipe cards they can create their dish.Lots of accessories (food, utensils, cookware)are included, but you can purchase additional recipe cards and accessories for even more creative fun.The box is rather big, but once you get it out the assembly is fairly easy following the instructions.
+This seems like a very well-built, sturdy kitchen that will last a long time and I'm sure will be passed on to other kids for many years of play.
+The kitchen is cute, and my 3 year old daughter played with it a lot, she has lost a bit of interest recently, as it happens with kids with any toy, they keep wanting new ones :), but she still plays with it time and often.It comes in one nicely packed up box, and is easy to install and make, apart from one small thing of putting in the oven and referigerator doors.
+Putting these doors is bit tricky, you have to bend the plastic a bit to get the things in, it will happen, but I am warning you, it will annoy you a bit.
+Don't let this stop you from buying it though, the build quality is excellent.
+The plastic is thick and chunky, you can see its good quality, not cheap stuff.The veggies and meats it comes with are also very nicely made.
+The tortilla for one feels like actual rubbery smooth, and feels like almost some real food!
+It does not have a microwave due to small size, if you want microwave, need to get more expensive bigger kitchen.
+It does have cooking area, sink, oven, referigerator, lots of small veggies and meats, and of course is Dora themed, so there's Dora's voice.I think it's a good buy for girls in this price segment, it is also available in many local stores, so you may want to check it out in person, before buying from Amazon for the best price!
+Including my kids.They also love to play pretend, so when I got offered this Dora kitchen through the amazon vine program I acted right away.I'm very impressed with this toy,it was easy to set up and its easy to use.
+It also came with plenty of fun extras and an interchangeable card that goes in the window.Dora the explorer rocks she teaches kids Spanish who otherwise may have never heard it at all ling before taking it at school.love that its interactive.Good quality highly recommended!
+"Summary of Experience: Anya is a big fan of the little cutie, Dora, so anything Dora would be a win in her book, but we've had a play kitchen in the past and I wasn't as impressed and most of the moms that recommended that particular kitchen.
+The DORA FIESTA FAVORITES kitchen looks like a win though in my book.
+It was easy to put together and is very bright and interactive, which keeps my little 4-year old's attention and there was also play food and recipe cards that went along with the design for even more finishing touches.
+The attention to detail, easy construction and low price make this a good choice for your little Dora fan.Construction:  I will be the first to admit that I'm not a handy person.
+My husband usually steps in and takes over any projects I start that involves a screwdriver.
+This one does involve a screwdriver.
+One Philips - first one I chose, so nothing fancy.
+It was literally maybe twenty screws and the instructions were very straight forward.
+I only had one particular hitch, which was with the bottom are (the magenta piece that is the base) in which it wouldn't fit properly.
+I just had to fit my hands into the base and ""click"" it though, which was awkward and I don't have huge hands, at least I hope not.
+But once I figured it out, it went in perfectly.
+And it does say to get your hand in there and push - I just didn't quite get it.But, that was a tiny hitch and overall construction took me maybe 20 minutes.Kid response: Instant love.
+Santa came early in this household."
+"This toy is being used by a household that includes two small boys (ages 3 and 5).They do have friends that are ""gasp!""
+girls.I consider myself a bit on the modern side, so I see nothing wrong with boys playing with toy kitchens.This toy is a great size for ages 2 to 7, and it comes with enough accessories children don't get bored with it quickly.The absolute most wonderful thing about this toy is the bilingual aspect.
+It includes over 60 phrases in English & Spanish!The 5 year in my household already speaks some spanish, but the 3 year old is starting to pick up a few words, so I can't rave enough about how this toy encourages more spanish words in the 3 year old.And someone out there must have been listening to parent's gripes on Xmas eve, since this toy comes with the batteries it needs!"
+What a find!Comes with cookware, food, milk carton, 4 recipes on one card (2 on each side), phone, plate, cup and some utencils.
+It took less than 15 minutes, and a little less than 15 screws, from out of the box to playtime.
+Phillips screwdriver is the only thing needed.
+Batteries are included.Phone rings, recipes are voiced, refrigerator and oven opens and closes and storage is tucked in the inside with 2 shelves.
+The sink is easily removable, the faucet and knobs are turnable.
+There is a small shelf on top, that maybe is suited for decoration more that purpose, since things can easily fall when kids bump into the playset.
+I also noticed there is a recipe card holder on the back, but since I have the kitchen with its back to the wall, it is not used or needed.It only came with one bowl, one set of utencils, so if you have multiple kids, please pick up a spare set.
+I also would recommend picking up some bowls and other foods since this is limited to the four recipes of a hamburger, ice cream sundae, taco's and Huevos Rancheros.The only thing my child was dissapointed with was over the ice cream recipe.
+It showed a picture of three ice cream flavors (where as the playset only came with one) and all of the other recipes came with all of the components that were shown in the corrsponding picture.
+Other than that, it was very pleasant and fun addition to our home and we look forward to purchasing other kits in the holidays ahead.
+The Fisher-Price Dora Fiesta Favorites Kitchen is a colorful play-set aimed mostly at young girls who love Dora the Explorer!
+It is lightweight and made entirely out of plastic which has it's advantages because it's easy to carry from room to room and also easy to clean.
+It's also features over 60 phrases in English and Spanish, as well as 19 accessories including play food, cookware, a double sided recipe card and a pretend kitchen phone.The kitchen itself is also very durable, and has four built in floor stabilizers to keep it steady.
+My 4 year old girl loves playing with it and my 1 year old boy also wants to play with it which is generally OK because most of the accessories are child friendly.
+Overall I think this is a wonderful little kitchen especially for a child who loves Dora the Explorer!
+Even before here father found a screw driver to put this together, out three year old found the talking parts and started repeating the Spanish.
+She played with the food, while her less than handy dad got this together with not too Much painShe loves it, and stands In her kitchen cooking  and talking back to Dora an hour at a time.She had just asked for a kitchen when this came up on amazon vine and nothing we will give her for the holidays will come closeAn absolute favorite toy!We highly recommend
+"The Dora Fiesta Favorites Kitchen is brightly colored and very attractive to children, but it feels kind cheap and poorly constructed.
+The plastic is thin.
+I don't imagine this will be a toy to pass down through the generations, but for the current group of children it fits the bill nicely.
+I also like the little talking device.
+It is clear and easy to understand.
+It also teaches children the basics of the spanish language.This little kitchen (it is smaller than most kid's kitchens, which is a plus in my book) kept my Sunday school students engaged for 45 minutes.
+They were preparing ""meals"" for the adults with the food and supplies that were included with the kitchen.
+They were having a good time, laughing and interacting with one another.
+Overall I thought the kitchen was a lot of fun, somewhat educational, and engaging for the students.
+Thicker plastic would have ensured durability and therefore helped to garner a higher overall rating."

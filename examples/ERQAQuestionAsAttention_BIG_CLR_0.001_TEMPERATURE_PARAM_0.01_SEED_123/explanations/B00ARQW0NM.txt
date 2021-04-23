@@ -1,0 +1,166 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Can you use the Shogun Steel Battle Tops in this arena?
+Top sentence(s):
+They should like the warrior option.
+About the only thing that is redeeming about this thing is that the Beys are exclusive to this set and cant get them any other way.
+He's 12 and had fun battling the 2 character included.
+But in practice, they work great.
+However, the arena plastic is very thin and one mis-step will destroy it.
+
+Question attention weights:
+0.34458327293395996,0.2549986243247986,0.40041813254356384
+Sentence attention weights:
+0.005703430622816086,0.006949648726731539,0.009524751454591751,0.009617628529667854,0.009425768628716469,0.005572342313826084,0.002472273539751768,0.009450792334973812,0.007470029406249523,0.007804571650922298,0.009453360922634602,0.007890738546848297,0.004121164325624704,0.007971634157001972,0.00773863447830081,0.007959865033626556,0.006224206183105707,0.004596103448420763,0.00829619262367487,0.008615586906671524,0.008250890299677849,0.007483160123229027,0.008933265693485737,0.005084668751806021,0.005141954403370619,0.009446975775063038,0.007834959775209427,0.009446892887353897,0.007417790126055479,0.004363012965768576,0.00818741787225008,0.009621892124414444,0.007944856770336628,0.006597022991627455,0.0037232651375234127,0.006260596681386232,0.007839232683181763,0.008399073034524918,0.009021343663334846,0.004030953627079725,0.0060518281534314156,0.006599752698093653,0.008417081087827682,0.0035352949053049088,0.008707906119525433,0.005842566955834627,0.00839842390269041,0.009500292129814625,0.008331811055541039,0.009396955370903015,0.005703061819076538,0.009537344798445702,0.007575911935418844,0.009102529846131802,0.008673344738781452,0.005658325739204884,0.004376681987196207,0.0063565922901034355,0.006185112055391073,0.006962730083614588,0.008369970135390759,0.004525278229266405,0.004327061586081982,0.004676823504269123,0.008565498515963554,0.005840220022946596,0.0031703615095466375,0.0023305793292820454,0.0035739680752158165,0.008967850357294083,0.003153181402012706,0.006942106876522303,0.005302704870700836,0.0032687184866517782,0.008933203294873238,0.008948097936809063,0.004687594249844551,0.00652741314843297,0.0022902379278093576,0.0028643705882132053,0.005180214066058397,0.0048707015812397,0.008592979051172733,0.003553530666977167,0.006662468425929546,0.0048107001930475235,0.008987968787550926,0.008973255753517151,0.008568782359361649,0.006956920027732849,0.006945985369384289,0.007945575751364231,0.008812990970909595,0.004914508666843176,0.0068261390551924706,0.008248087018728256,0.00409926101565361,0.005773853976279497,0.008930614218115807,0.008903125301003456,0.0077631911262869835,0.003836643183603883,0.008391648530960083,0.00929662212729454,0.007534633856266737,0.00929662212729454,0.005449284333735704,0.008831324987113476,0.008373049087822437,0.00929662212729454,0.009236621670424938,0.009260719642043114,0.0028845909982919693,0.004965527448803186,0.0075137801468372345,0.007201517932116985,0.006063050590455532,0.008458567783236504,0.007296434603631496,0.008911306038498878,0.009600822813808918,0.007468404248356819,0.008657148107886314,0.004415520932525396,0.007694958709180355,0.0024912883527576923,0.005543772131204605,0.008671817369759083,0.00863887369632721,0.00678452430292964,0.006837036460638046,0.00810403935611248,0.010220757685601711,0.009610257111489773,0.007393383886665106,0.005596547853201628,0.0037687397561967373,0.0042122164741158485,0.003978986293077469,0.006843510549515486,0.003465354675427079,0.0034619758371263742,0.010189148597419262,0.005365199875086546,0.008499528281390667
+0.005966818891465664,0.006961560808122158,0.009255810640752316,0.009340939112007618,0.009267904795706272,0.005443473346531391,0.002787752076983452,0.009214178659021854,0.007380620110780001,0.008029919117689133,0.009212451055645943,0.007948745973408222,0.004228334873914719,0.007821123115718365,0.007645485457032919,0.00769437663257122,0.006310370750725269,0.0050103794783353806,0.008634017780423164,0.008450997062027454,0.008302189409732819,0.007305223029106855,0.008716938085854053,0.005444837734103203,0.005548569839447737,0.00918595865368843,0.007735704071819782,0.009179072454571724,0.007648280821740627,0.004666578024625778,0.007997379638254642,0.00941487867385149,0.008001003414392471,0.006769375875592232,0.0036542529705911875,0.006344028282910585,0.007746725808829069,0.00828358344733715,0.008819753304123878,0.004238207824528217,0.0061078304424881935,0.0069827428087592125,0.008255990222096443,0.0037355234380811453,0.008490588515996933,0.0061510419473052025,0.008256123401224613,0.009332587942481041,0.00812115240842104,0.009162464179098606,0.005859385710209608,0.009297586046159267,0.007556602358818054,0.008853581734001637,0.008510065264999866,0.005618436727672815,0.004474995192140341,0.00623800465837121,0.00620488403365016,0.007124542724341154,0.008260173723101616,0.0047423881478607655,0.004549597389996052,0.004877661354839802,0.00835811160504818,0.0061764842830598354,0.0033005024306476116,0.0025603696703910828,0.003787634428590536,0.008737440221011639,0.0034319229889661074,0.00677837710827589,0.005428528878837824,0.0034046515356749296,0.008702798746526241,0.008717963472008705,0.005083560012280941,0.006531934253871441,0.0024966623168438673,0.0029932265169918537,0.0055094086565077305,0.004726998042315245,0.008385901339352131,0.0037468515802174807,0.006937192287296057,0.0049451254308223724,0.00877018179744482,0.008755620568990707,0.008709682151675224,0.00701094837859273,0.007211841642856598,0.007988701574504375,0.008745161816477776,0.004874297417700291,0.006784365046769381,0.008037995547056198,0.004333990626037121,0.00574862863868475,0.008659587241709232,0.009018871933221817,0.007732511032372713,0.004046555142849684,0.008189596235752106,0.009048720821738243,0.007371937856078148,0.009048720821738243,0.005488965660333633,0.008561571128666401,0.00816658791154623,0.009048720821738243,0.009050359949469566,0.009031101129949093,0.003131105098873377,0.005062958225607872,0.007415147963911295,0.00743354856967926,0.006090291775763035,0.008276513777673244,0.0075864470563828945,0.008648262359201908,0.009452982805669308,0.0073828184977173805,0.00862122792750597,0.004510164260864258,0.007882289588451385,0.0027066299226135015,0.005652415566146374,0.008434119634330273,0.008352777920663357,0.006804791744798422,0.006825503893196583,0.0076564704068005085,0.00992096308618784,0.009659986011683941,0.007636182010173798,0.005905617494136095,0.003919632639735937,0.004481816198676825,0.004266426898539066,0.006712230388075113,0.0037295089568942785,0.0034967497922480106,0.0098790368065238,0.005645756609737873,0.008271013386547565
+0.005633448250591755,0.007005582097917795,0.009609803557395935,0.009685010649263859,0.009438445791602135,0.0055464101023972034,0.0023918601218611,0.009533004835247993,0.00743766687810421,0.007685801014304161,0.00952375028282404,0.00767680536955595,0.004002687055617571,0.008006996475160122,0.00775760505348444,0.007956843823194504,0.006257910281419754,0.004511042032390833,0.008325082249939442,0.008684295229613781,0.008310312405228615,0.007533513009548187,0.009006465785205364,0.005085235461592674,0.005041277501732111,0.009534407407045364,0.007754363119602203,0.009535307064652443,0.0073856692761182785,0.0042259832844138145,0.00827854871749878,0.009691312909126282,0.00807749293744564,0.00660140672698617,0.0036598537117242813,0.006246011704206467,0.00785209983587265,0.008446705527603626,0.009093444794416428,0.00400368170812726,0.006036874372512102,0.006532519590109587,0.008381783962249756,0.003567436244338751,0.00866847112774849,0.005734248086810112,0.008451773785054684,0.009556758217513561,0.008374097757041454,0.009480427950620651,0.00560858054086566,0.009617305360734463,0.007627927232533693,0.009174294769763947,0.008786432445049286,0.005643102340400219,0.004341349005699158,0.006427430082112551,0.006028618663549423,0.006952011026442051,0.008418108336627483,0.004446443170309067,0.004277084022760391,0.00464296992868185,0.008628308773040771,0.0057511175982654095,0.0030888242181390524,0.002287531504407525,0.003469090675935149,0.009040724486112595,0.003100977512076497,0.006962013430893421,0.005205089226365089,0.003206291701644659,0.00900935661047697,0.009022892452776432,0.004550501704216003,0.006567441392689943,0.0022290246561169624,0.002752972301095724,0.0051231589168310165,0.004769896622747183,0.008662758395075798,0.0035467990674078465,0.00668603228405118,0.004775248002260923,0.009061929769814014,0.009048115462064743,0.00859625730663538,0.006941654719412327,0.006887845229357481,0.007984104566276073,0.008857320062816143,0.004892027471214533,0.006827547214925289,0.008280929177999496,0.004048261791467667,0.005755861289799213,0.00900720339268446,0.00883810967206955,0.007760819513350725,0.003785711247473955,0.008424012921750546,0.009379123337566853,0.007561533711850643,0.009379123337566853,0.005482231266796589,0.00891242828220129,0.008431791327893734,0.009379123337566853,0.009307382628321648,0.00930741336196661,0.0028274382930248976,0.00499682268127799,0.007587275002151728,0.007208507042378187,0.005999295972287655,0.008503587916493416,0.007293174508959055,0.00899265892803669,0.009641163051128387,0.007480550091713667,0.008676258847117424,0.004396645352244377,0.007661609444767237,0.0024626171216368675,0.005429343786090612,0.008741618134081364,0.008768394589424133,0.006800875533372164,0.006860489025712013,0.008031349629163742,0.010197365656495094,0.009474321268498898,0.007283130660653114,0.005616357084363699,0.0036464675795286894,0.004200838506221771,0.004017945379018784,0.006890961900353432,0.003392267506569624,0.003442876972258091,0.010276702232658863,0.005257572513073683,0.008560369722545147
+Questions:
+Can you use the Shogun Steel Battle Tops in this arena?
+Will the Beywarriors work in an arena made for Beyblades, or do I need a new arena?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+We have a few Beyblade sets, and while the arenas are made of very thin, lightweight plastic, and the tops' parts are not as interchangeable as they'd lead you to believe, they are good fun.
+When I saw this new version, with weapon-wielding torsos attached to the tops, I had my doubts.
+They look kind of awkward.
+But in practice, they work great.
+And they're really funny to watch.
+The idea for these may have been taken from Lego Ninjago, but these work better as battling tops.
+And the arena, while made of the same flimsy material as other Beyblade arenas, seems a bit sturdier than some of the others.Bearing in mind the usual Beyblade caveats -- the arena must be treated with care and seems overpriced, and you can't swap parts between tops entirely freely -- these are a good addition to the line.
+In fact, they're probably even more fun than the originals.
+They certainly have more personality, since they have faces!
+When I opened the package I was at first surprised to find that the beywarriors are extremely well made, however the area is made of plastic.
+Meaning that it will bend,scratch,tear an basically not live up to younger kids.
+However if you have a child that loves the Beyblade series an characters this toy will keep them busy for quite awhile.
+First off I will say this toy is awesomely packaged - no crazy screws, zip ties or any other crazy material making it impossible to remove the toy from the box.
+Just some bags to open and then you just snap pieces together!
+After a few minutes you are ready to rip!
+Literally rip, as you pull the rip cord from the Beyblades to get them moving in the arena.
+You get two Beyblades to get started and you basically let them battle it out in the arena.
+Now I will say I expected the arena to be a little sturdier but it is made of the material a lot of Halloween masks are made of, that filmsy plastic material.
+Once the rails are on it is fine and not going anywhere but I think a sturdier plastic would make this arena last longer - not that anything has happened to ours yet.
+They Beyblades themselves are sturdy and hold together nicely.
+You can even interchange the pieces to mix up the weapons in their arms.
+Think of this as high-quality tops.
+No batteries required, just kid-powered.
+While I think this might get boring after awhile, you can add new Beyblades or come up with your own games or activities for the Beyblades to do!I received this product to review in exchange for sharing my honest opinion.
+My 9yr old son is very much into Beyblade and loves this arena.
+I wasn't sure how well it was going to work out.
+The construction seems very flimsy and is smaller than I expected, but my son is enjoying the battles.
+I did like this set because it came with 2 customize-able battlers.
+My 23yr has fun playing with his brother, too, so my dislikes with this toy are overshadowed by the fact that my sons are enjoying this toy together.
+This is a good toy for Beyblade enthusiasts / collectors.
+This item was given to my girlfriend's son.
+He's 12 and had fun battling the 2 character included.
+The coolest part of this is most likely the exclusive figures contained within.
+The arena gives them a cool place to battle, but it was made very cheaply.
+The plastic is thin and could easily break if dropped or stepped on, so take notice now before these are left in high traffic areas of your house.
+The arena seemed to work fine & no complains on how it works - just wished for the money, this was made a little sturdier.
+Honestly you could use any extra large flat Tupperware-style bowl the same way, just would look quite this cool.
+The battle set itself is on the flimsy side, but the spinning robots are pretty well-designed and lots of fun.
+We haven't ever seen the show, but now the kids want to check it out since we have so much fun with the set.
+It comes with two robots, but we've already bought a few others so we can each have our own, and the kids have enough for when friends come over.The only warning I would issue is to hang onto the various little parts of the robots, as they can come off and get lost on occasion.
+But overall, being a tech and gaming family, it's actually kind of nice to play something without a game screen that we can all play together.
+my twin 8yo boys shrieked with excitement when they saw this octagon battle set.
+i had my reservations because they were just as excited about beywheels, but ended up terribly disappointed because those toys were so hard to use.
+this set turns out to be a very fun variation on the traditional beyblade battles.
+these beys have figurines mounted on top, so they spin around (a la ninjago) to do a 'battle'.
+the ripper makes the beys spin furiously, to the delight of my kids, but they do not pop out of the stadium.
+wonderful toy!
+My son loves his BeyWarriors battlers!
+We were given the set from Hasbro for free and didn't know what to expect.
+When we opened the box the kids went crazy over it!
+At first, they were hesitant, but when they opened it up and started playing it was a hit.
+All the dads got in on the action too.
+Now my son likes to play with his BeyWarriors in his room after he gets ready for school.
+It is a treat to hurry in the morning so he can have some fun!
+Today my son said it was one of his favorite toys.
+He likes to take the warriors apart and design them however he likes.
+Plus, the battle arena makes this much more fun than it would be without the arena.
+The warriors are all in one place and the battle is much more exciting!
+This toy is meant for the hardcore BeyBlade lovers out there (like my 4 y/o son).
+He loves the regular BeyBlades because they like are the coolest tops a boy could have.
+The new Shogun set takes that to the next level.
+The 'blades' if you will are now personified, Shogun warrior personified, each with an identity - very cool by my son's standards.
+The quality of the blades are similar to others with a 'heavy' aluminum bottom that keeps them upright for a longer spin when you rip the cord.itThe ring - eh.
+It is similar to other BeyBlade rings - which are not so well constructed compared to the BeyBlades themselves.
+Its thin plastic that snaps together and well it feels like could be thicker and better made.
+At least with this battle ring it is one singular bottom, the others are 4 pieces that interlock (not good).Overall, my son the BeyBlade lover was very happy to play with this, I'm other little boys in 4-10 age range would appreciate it.
+I have an 8 year old who is absolutely mad for Beys since the past two years.
+We have buckets of beys and theories on the importance of tips vs fusion wheels and even an entire science project studying the pros and cons of certain types of performance tips!
+He has saved up months of allowance to buy Japanese beys and has watched every episode of the show available on NetflixSo, I thought he would be thrilled with this new version of the Beyblade franchise.
+So what do you get in the fairly big box?
+A bey stadium (with weird little clip on attachments that resemble longhorns but keep falling off), two bey warriors and two rip cords.What exactly are Bey warriors?
+basically a fused together bey where you can only change the performance tip.
+Fused to the top is your bey warrior whose arms and head you can change between beys.
+The technique of ripping the beywarriors is completely different from traditional beyblades since you hold the edge of the beywarrior between your finger and thumb, literally pump the rip cord in and out three times before you yank out the rip cord, release the bey warrior and let it careen around the stadium.Is it as satisfying as Beyblades?
+No!
+There is no 3-2-1 let it rip!
+There is no clanking racket and repeated collision with wobbling beys.
+The warriors are top heavy and clonk over fairly quickly.
+The interchangeable arms don't seem to serve much purpose and, while every 8 year old boy we showed this to was drooling over it, they all lost interest in it within an hour.In the hallowed tradition of the destroyer dome, this addition to the Beyblade empire was, for us, a flop.
+"If the manufacturer would invest another dollars worth of plastic in the arena, they would have a good toy that would wind up on a ""recommended buy"" list for the upcoming Christmas season.I think any kid that enjoys Beyblades is going to have fun with this toy; but the arena is so flimsy it simply isn't going to last.
+It will need to be handled and put away very carefully (and let's face it, the kind of kids who enjoy playing with high-action WARRIOR toys in an arena/battle environment are not likely to treat it with fragile care :>)!If built more sturdy the arena is actually great for it's intended purpose.
+I love the ripcords (there is some kind of primal energy in pulling that cord and letting your warrior loose!)
+and the new battlers in this set.
+If you give a high-energy rip they really get going in that arena!In summary, I think Beyblades fans are going to really like this toy, but ultimately be disappointed when (not if) the cheaply made arena cracks/breaks."
+"My son and I have often walked right the Beyblade section in the toy store.. One time he asked about them so we watched a youtube video.
+""So you just watch them spin till one stops?
+Why does this guy keep doing it over and over?""
+he questioned.
+Spinning tops don't seem like a battle to him.But he's really into this set with the spinning robots.
+The first time I showed him, he exclaimed ""wow, how do they stand up like that?""
+The first few days the robots just battled each other, but he's been adding obstacles to the ring and also playing with the robots outside the ring.pros:-robots seem well built--pull strip and spinning works great and is easy-there are a number of different robots available that are all very different so it's pretty easy to find one you like and call your own for battling friends.cons:-plastic playing field is pretty cheap.
+I'm afraid that one misstep will take it out so we play on the table.-both of the robots come apart and are completely swappable.
+But this means that there are lots of little parts to lose.
+So far we've only lost the shoulder pads of one robot, but I know we're going to lose more.So overall my son like it a lot and the spinning.
+robots seem like durable toys.
+The playing field is cheap, but it still seems like a good set overall.
+We think it's much more exciting than the old top style type Beyblades!"
+This looked very cool at first and I kind of dug the theme, shogan robots?
+Alright!
+But when I first opened the box the first thing I thought was, what a flimsy arena!
+The shogan warriors look good and they function like they are supposed to, but the novelty of the toy tends to wear off fairly quickly.
+Letting the robots loose on the kitchen floor seems to be more intertesting, seeing what they bump into and such.
+I think this will end up in the closet rather quickly.
+My son really liked this.
+We all joined in on the fun taking turns, to see who can beat who.
+We put it together and that was the easy part.
+First it takes awhile for you to get the hang of how to use the tops.
+Little ones might have a big problem.
+after a few test spins we where all ready to go.
+We are going to buy additional ones so we all can have our own.
+This is not a toy he will play with everyday, maybe family night or when friends come by.
+Overall its great fun and we all enjoyed it very much.
+"My oldest daughter likes the Beyblade line, so I figured she might enjoy this Beyblade Shogun Steel Octagon Showdown Battle Set.
+It's fun for a while; you get your typical Beyblade action except with figures that battle it out.
+Eventually after a while it gets old, and we've only used it maybe a grand total of 5 different occasions.
+If you've got a kid who likes Beyblade, they'll probably enjoy this, but in our household it hasn't been a ""go-to"" toy for entertainment."
+My grandkids like beyblades, and they watch the cartoons.
+they periodically will play with this toy, but they soon get tired of it.
+they have two different beyblade arenas, and this one is a bit taller and the beyblade characters are more robust.
+The characters seem pretty durable, and they will be able to hand it down or save it in their toy collection.
+However, the arena plastic is very thin and one mis-step will destroy it.
+"My son has many beyblades and likes to have competitions with friends.
+This battle set ""rocks"", according to him!
+It includes 2 beys and rippers so it is ready for action when opened.
+The stadium is nicely made and a lot of fun (with raised sides) so many battles can be played.
+I will say that the stadium base is somewhat lighter thickness than I would expect but it holds up pretty well to repeated play!Update: Over two months later and this stadium is holding up really well to extensive use!
+My son loves this stadium more than the other ones he has because it has the cool flames on the sides that can be removed.
+This makes a great gift as well as it is a complete set."
+I rated this 3 stars overall and may have done 2 if my son didn't like the thing so much.
+First, the stadium is made from a very flimsy plastic.
+No steel there at all.
+Second, the Beys actually spin and hit each other as though they were real creatures fighting.
+About the only thing that is redeeming about this thing is that the Beys are exclusive to this set and cant get them any other way.
+Well, I have a six year old boy who is somehow really into the Beyblade cartoon, and he loves this toy.
+Before we got this, he'd made up his own little beyblade game with a couple of tops and a very rickety cardboard arena, and he and his friend played with that thing for a long time.
+When I got out this set with its colorful arena and customizable little action figures, they both pretty much screamed with joy.
+If your kid isn't into the cartoon, I don't think this would be worth the investment, but otherwise it's a good toy that's provided hours of fun here so far.
+"My 10-year-old son has a wide collection of the Beyblade products.
+He has many arenas and we enjoyed adding this to our collection.The arena, as typical with most of the Beyblade arenas, is made of very cheap, flimsy plastic.
+If they would just improve the quality of these things then they'd be perfect.The battlers themselves in this set make this a fun, new way to battle.
+It's nice to be able to finally root for a ""warrior"" rather than just simply a round top/disc.We enjoy using the ""Warriors"" in some of our other stadiums and also using some of our other Beyblades in this arena.
+It's fun having a variety of Beyblade products that you can use together.I think most Beyblade fans would really like this set.
+They should like the warrior option.
+I think this would be a great set for those that are new to Beyblade as well.
+I would definitely recommend this set."

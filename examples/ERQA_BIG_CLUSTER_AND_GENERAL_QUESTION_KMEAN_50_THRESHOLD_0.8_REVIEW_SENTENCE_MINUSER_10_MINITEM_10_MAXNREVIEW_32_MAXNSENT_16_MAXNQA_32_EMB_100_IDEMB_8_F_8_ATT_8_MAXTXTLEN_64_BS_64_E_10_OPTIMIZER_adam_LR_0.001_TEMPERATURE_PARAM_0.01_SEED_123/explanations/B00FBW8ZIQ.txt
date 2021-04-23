@@ -1,0 +1,196 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+With Monster High introducing the new Secret Creeper Pets, my daughter was all too thrilled to get this set!
+Honestly, the cat's howl?
+First of all, you should note that the Secret Creepers Crypt isn't really compatible with the core Monster Hall products, which are the dolls.
+You can use it to store the key to the doghouse (uh... cathouse, really), or anything else of your choosing... coins, crystals, notes, etc.There's not a whole lot to it, and yet it's fun and well-made.
+Otherwise the main point seems to be a place to put the other secret creepers pets (e.g.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.008655896410346031,0.004584559239447117,0.004386885557323694,0.004231322556734085,0.003147600684314966,0.005728497635573149,0.003575446316972375,0.004802414681762457,0.00577116385102272,0.006636711768805981,0.005551887676119804,0.0064022173173725605,0.004052417352795601,0.005219950340688229,0.006977899000048637,0.005050789564847946,0.005362326744943857,0.006632516626268625,0.004492281470447779,0.004676076117902994,0.005173712037503719,0.006370945833623409,0.005851264111697674,0.005776520818471909,0.0036814340855926275,0.005510454997420311,0.005330076906830072,0.005119798239320517,0.004725317005068064,0.005789407528936863,0.005826597101986408,0.005315362475812435,0.005267925560474396,0.005406551528722048,0.003929096274077892,0.006285559851676226,0.004981719423085451,0.005390115547925234,0.005204504355788231,0.004088251851499081,0.004200521856546402,0.005166147835552692,0.007409286219626665,0.006622368935495615,0.004957763943821192,0.008219992741942406,0.004092613235116005,0.005739877931773663,0.005956682842224836,0.004910783842206001,0.0054778121411800385,0.005243175663053989,0.007657155394554138,0.006160118151456118,0.004074546974152327,0.0055147078819572926,0.0062536634504795074,0.00605986500158906,0.0072945598512887955,0.006076055113226175,0.005651816725730896,0.002883049426600337,0.007656696252524853,0.0053801825270056725,0.0027613614220172167,0.0044480799697339535,0.005745169706642628,0.008027578704059124,0.007751050405204296,0.006039126310497522,0.003991944249719381,0.00621057441458106,0.0051658921875059605,0.008742126636207104,0.005422189831733704,0.005822672042995691,0.008349938318133354,0.006792157888412476,0.0062467982061207294,0.0033357925713062286,0.004615037236362696,0.005362924188375473,0.005539887584745884,0.004834925290197134,0.007219862658530474,0.00710648950189352,0.008446387946605682,0.006342693697661161,0.004994017072021961,0.006138179916888475,0.005471863783895969,0.0059577710926532745,0.00681095477193594,0.01040598563849926,0.006530009210109711,0.006443946622312069,0.004538269247859716,0.006223922595381737,0.003181495936587453,0.004674845840781927,0.006431920919567347,0.005377058405429125,0.00446952972561121,0.005187303759157658,0.00513502536341548,0.003944627474993467,0.005925551522523165,0.005329609382897615,0.004186883568763733,0.006916462909430265,0.0053905099630355835,0.005462699104100466,0.005376647692173719,0.008448930457234383,0.004371104761958122,0.0036539931315928698,0.005457095801830292,0.006012404803186655,0.004599511157721281,0.005200197920203209,0.005957292392849922,0.0051517910324037075,0.004988492000848055,0.006035241764038801,0.006515771150588989,0.005345640704035759,0.00463925302028656,0.0054838815703988075,0.006317220628261566,0.005405175033956766,0.007237392012029886,0.004467532504349947,0.0054055629298090935,0.0048410021699965,0.005933604668825865,0.004385554697364569,0.0036314178723841906,0.0038844915106892586,0.0032907528802752495,0.0051211207173764706,0.00397286145016551,0.006230076774954796,0.0071222614496946335,0.005091360304504633,0.005463185254484415,0.008117309771478176,0.005330051761120558,0.007544755935668945,0.006103968247771263,0.004353382624685764,0.005479380488395691,0.005234871990978718,0.0047465297393500805,0.005514420568943024,0.008004098199307919,0.005129554308950901,0.004470655228942633,0.005392731167376041,0.005214113742113113,0.005400951486080885,0.003995805978775024,0.004808142315596342,0.006287751719355583,0.005999276414513588,0.007208681665360928,0.005253601353615522,0.00452547799795866,0.005181247368454933,0.005309822503477335,0.004628777038305998,0.006075077224522829,0.004734025802463293,0.004903613124042749,0.004746939055621624,0.007217620499432087,0.0050643631257116795,0.004940504673868418,0.007464652881026268,0.004553481936454773,0.00695453118532896
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+First of all, you should note that the Secret Creepers Crypt isn't really compatible with the core Monster Hall products, which are the dolls.
+The Secret Creepers are a toy line for recording and passing messages.
+Cute ideas in the 80s and 90s, but in this date and age of cell phones and text messaging, the toyline comes off a little dated or retro, depending on how you view it.
+The animals, which make up the Secret Creepers line are much large than the versions that come with the dolls.
+The scale is completely off and so mixing the core doll line with the Secret Creepers line just looks weird and noticeably off.I bring this up because it's important to note that the Crypt playset is only for use with the Secret Creepers.
+The previous animals will either not fit or just look really out place with this set.
+That means to really get any use out of the Crypt, you're going to have to invest heavily in the Secret Creepers line and like myself.
+This is neither bad, nor good - simply a fact that means you'll ant two or three other Secret Creeper figures besides the one that comes in this set.
+Otherwise it will look pretty barren.
+Even the packaging it comes in has three extra SC cutouts in paper form to keep it from looking empty.The set itself is well made.
+it's sturdy and very colourful, which should make kids happy.
+It also comes with a Crescent the kitten figure.
+Unlike other Secret Creepers which store and share short messages, Crescent is a motion activated toy, which is meant to guard the other figures.
+So if someone broke into your room to read your other SC figures' messages, Crescent would go off and scare them away or alert you.
+Unfortunately the toy is neither very scary or loud.
+It's a cute kitten figure, but it also lacks any joints.
+It was only a matter of time before a new kind of Monster High toy accessory came out.
+Over the last couple of years we've seen costumes, stuffed animals, purses, makeup kits and more, but now we're moving on to another toy within the toy line- Secret Creepers!
+I hadn't even seen any of the toys until after we got this crypt, which is kind of like a mini-dollhouse with how much you can put on it.There are a lot of things to talk about here.
+The bottom line is that you're getting quite a bit for your money.
+I was pleasantly surprised at just how much can go with this set!
+Tons of space for the different pets, both new Secret Creepers and the original ones that come with the MH dolls.
+Details on certain parts like webs and hearts on the back of the spider are a nice touch, and they even have a background that goes perfectly with Jane Boolittle.
+There's a pink key that's made up of a chain and fish bones.
+You can use this to open the main crypt, making for a dramatic effect where the gate slowly comes down.
+Inside, you can store a few pets or whatever you want; it's a fairly large compartment.
+A green compact case is included and it also acts as a kind of stool for one of the pets to sit on when it's not being used.
+Again, I was surprised at how big this was when opened.
+After being disappointed with the lack of space in a few MH doll accessories like folders and bags (the ones that come with the dolls), this was a nice step up.
+The coolest part of the whole crypt however, has got to be the red coffin couch.
+Under the cushion there's a little drawer that comes out and you can put something in it.
+But with the flick of a switch on the back, it hides what you put in there.
+My daughters both enjoy playing with Monster High dolls and products.
+I was excited to see a new line of Monster High toys that focus on the pets.
+With this set you pretty much get one cat with a motion sensor and a little set up that you can lock away a small little treasure.
+My daughters thought this was awesome and played with it for about 20 minutes.
+Ever since it's been sitting on the toy bin untouched.
+It's not a stand alone toy at all.
+This product is very bright, fun, and full of color.
+It seems to be made of sturdy plastic with lots of hidden nooks and cranny's to &#34;hide secret stuff.&#34;I know it seems obvious now, but I didn't pay attention at first to the fact that the whole point of this crypt is for the monster high dolls PETS to play on &#34;while the monster high girls are at school.&#34;  It includes a cat, who when detecting motion, really GROWLS!!.
+It also includes some animal cut outs---but will be much more fun for kiddos who have 5 or 6 other pets to play with.
+It does have room for them all.Overall, I think you get a fun sturdy product for the price.
+(With that said, I think a lower price point for this item would increase it's appeal even more.)
+This creeper crypt was a real hit with my niece who loves the Monster High Dolls.
+This is like &#34;Littlest Pet Shop&#34; in Monster  form.
+The only problem is you have to buy all the creeper pets separately to go with it.
+It only comes with Crescent Cat which has a motion detected feature that makes it scream when anyone gets near.
+The other creepers are hard to find and a little pricey for what you get at 6.99 and up.
+I think that the creeper pets are not that creepy and could have been designed better.
+In my opinion, they are cheap looking and not all that interesting.
+The crypt play set is cool on its own, just don't like the selection of creeper pets.
+I have a ten year old Monster High fan in my household.
+She loved the theming and design of this playset but hasn't used it very much.
+After opening it and playing with her friends one afternoon she put it on the shelf and hasn't done much with it.
+She likes looking at it and occasionally moving the animals around but she doesn't play with it like some of her other MH sets.
+It's nicely themed and arrives mostly assembled.
+The key is a little flimsy but hasn't broken and I appreciate that it came with the batteries.
+I think giving this with at least one more pet would be better then just the cat alone.
+"Now she can start a whole new collection of secret keeping versions of Monster High characters' pets, which either keep secrets electronically: Secret Creepers or on paper: Secret Critters.
+What you get in this product is basically a play set/display stand for the Secret Creepers and Critters sold separately, but to Mattel's credit there is more to it than that.Paper secrets can be rolled up and stored in the columns underneath the gargoyles, things (or a Creeper or a Critter) can be locked up in the doghouse, and the key can be hidden in the Magic Drawer in the coffin-like chaise lounge.
+The key can also be used as the handle for the clip on compact, or said compact can be opened up as a perch for theMonster High Secret Critters Hisette Figure.
+The fish tank can hold theMonster High Secret Critters Neptuna Figure, and there are perches for at least four more Creepers or Critters.As I've come to expect from the Monster High toy line, the whole thing is beautifully and sturdily made, but a basic design flaw cost it a star.
+The figure that comes with it is Crescent the Cat, which has a motion sensor in her chest that when turned on causes her to hiss and snarl in response to motion within five feet of her front.
+The defect?
+""Note: The product is equipped with an automatic shut-off feature that helps preserve battery life.
+""because that's what you want an alarm to do: shut off if nothing triggers it right away...."
+This is a cute little Monster High spin off, I must admit!
+This Secret Creepers Crypt works with the new Secret Creepers, large scale pets that have secret keeping capabilities.
+This colorful playset has a place for all the pets currently on the market.
+It comes with Clawdeen's cat.
+While this cat doesn't record secrets, it has a neat trick to it.
+It is a motion detector.
+Once turned on, if it senses motion, the cat makes makes an annoying screech!
+Honestly, the cat's howl?
+I can't stand it.
+Sorry.
+It's just not a nice sound.This set is sturdy, full of color and full of hiding spots.
+The key hiding place in this set is the chaise lounge, that opens with a key and then 'mysteriously' hides your treasure upon closing it.
+(Think of the magic tricks that include trick boxes!)
+There are a few elements, too, including the white door, that open making them perfect for hiding your secrets!Overall, this is a cute set.
+For me, it's more of a display piece, but for kids?
+It totally see them playing with this!
+My 9 yo loves Monster High (we have the high school and mansion set and a myriad of dolls), so I thought this would be a hit.
+However, with just one animal (the cat) it is a little boring.
+This set really is not compatible with the other dolls and animals - just the secrete creepers.
+The set is made of plastic and does not really have many features aside from hiding places, the locking dog house and drawer under the chaise.
+Otherwise the main point seems to be a place to put the other secret creepers pets (e.g.
+fish bowl, perch).
+The cat is hard plastic with no moving parts and is pretty loud (maybe on carpet it would be softer?)
+- my daughter actually found it annoying after a while.
+I think this would be a 4/5 if we have other pets, but we do not.
+For this reason, I am not sure this would make a great gift (e.g.
+birthday present) unless you are giving it with another pet or know that the child already has them.
+With Monster High introducing the new Secret Creeper Pets, my daughter was all too thrilled to get this set!
+It was super easy to pop together (though staying together is another story), the accessories are adorable and it includes a Cat to play with.
+What's disappointing is that the Cat isn't one of the Secret Creepers, even though it comes along with the playset; there's a whole line of new pets that do cool things and keep secrets.
+It would have been nice if one of those had been included or if the Cat had Secret Creeping abilities also.
+Ella was frustrated with that.
+Aside from this, she loves the set and it's made a great addition to all her Monster High collection!
+"If you liked Charles Addams as a kid, or you have a child over 6 who is a little bit ""goth"", then this toy is for your family!I have four Monster High dolls (... problem with the fact that I am 62 years old?
+), and before this arrived, they were all piled up on a toy sofa which is really a jewelry box.
+Now I have a really fun way to play with them!
+I can pose them and display them for my photoshoots, which is [supposedly] why I collect dolls at my age.
+I give photography as the reason I collect dolls.You would be amazed, actually, at the number of adult doll collectors in this country.
+And world wide.Monster High dolls are tons of fun because they are a bit off beat, and also because they can be posed.
+Their hands, arms and legs bend, almost like ball-jointed dolls.The cat in this crypt has a sound sensor so that it howls when something passes by.
+It remind me of the Addams family, once again!
+Cute!
+Great start for your MH critter collection.If you know a child who collects Monster High dolls --get this as a special present.
+Make sure however that this hobby is already well established if this is not for you or a child in your own family, for two reasons:1) the kid might not like Monster Highand2) definitely don't buy it as an introduction to Monster High unless you also plan to give the child one of the dolls to go along with it.It would be like giving a diorama or doll house and no doll!Otherwise , 5 star fun for ages 6 to ...um....62!!
+!thanks, jean"
+This is a really cute set.
+The main attraction for us is the couch, which has a secret storage drawer underneath-- like a little magic trick.
+You can use it to store the key to the doghouse (uh... cathouse, really), or anything else of your choosing... coins, crystals, notes, etc.There's not a whole lot to it, and yet it's fun and well-made.
+There are some hiding spots and perches for the pets, plus a clothesline for the other pets' keys.
+The motion sensor on the cat works well, but freaked us out, so we turned it off and just press the button to hear her purr instead of growl.About the only thing that's not particularly well made is the key that comes with this.
+It's bendy, and I worry that it could eventually break.
+Aside from that, we love the set and think it's a great idea to have a special place for the pets to hang out.
+My duaghter is a huge MH fan.
+She has been enjoying this set.
+I find that most MH stuff isn't made that well (the house), but this set is pretty good.
+She has been enjoying it.
+Colors are bright and it works well.
+I find most MH stuff to be a little pricey, but most things are these days.
+Perfect for a MH fan.
+Great little addition to any Monster High fan collection.
+Lots to do with this set and it stays together very well.
+No pieces falling off every time you move something around and the color are vivid and bright.
+My niece LOVES monster high!
+So, needless to say, she was very happy to recurve this as it was the perfect addition to her collection!
+With lots of fun scenarios, bright colors and moving parts, it's guaranteed to hold any child's attention.
+This is another great addition to the Monster High series.This toy is specifically for their animals, It is their own little hideaway while the monsters are at school!The set-up was very easy and quick!
+It comes with one pet... Crescent the Cat, others will have to be purchased separately but luckily for me I already have collected quite a few.
+I think the motion detector is pretty awesome and a great feature on this.
+Overall perfect for any Monster High lover!
+My older granddaughter is of the age when any Barbie type toy is totally amazing.She loves this set up and allows her hours of imaginative play (both with Barbies, Monsters, and other like dolls).
+Any thing that engages her imagination and moves her away from a glowing screen is great in my book.
+My tweenage Monster High fan enjoys planning with this.
+She described it as &#34;cool.&#34; She said it doesn&#8217;t include any of the animals except for the cat (who&#8217;s the guard).
+She likes that it has a key that unlocks the doghouse and other things.
+It doesn't take much to impress her as long as it has something to do with Monster High, but she enjoys playing with it.
+:)
+Oh Mattel, you sneaky monsters you!
+What started as a collection for my then 1-year-old has brewed into a closet stuffed full of Monster High dolls and toys.
+But of late I'm feeling pretty disenchanted over the whole thing.
+The dolls have branched into so many incarnations and introduced so many new characters and now they're coming up with items like this...This isn't for the dolls.
+Oh no, this is for a new line of figures called Secret Creepers.
+Basically larger versions of the various ghouls' pets.
+It comes with Crescent but you've got to shell out $9-$15 for each of the others depending on where you find them.
+The Secret Creepers have various ways of either recording audio or hiding written messages.
+They are really cute but pretty limited.
+Like the set that uses hot and cold water to change colors I think this one lacks the long-term fun factors that make it recommendation worthy.This playset is a bit pricey for what it is and I honestly just do not think it's worth paying full price for if it's going to be for a child.
+Now, as a collector, you might want to pick these up and this set in particular.
+I think they will be difficult to find in pristine condition later.
+Otherwise, for both kids and collectors I'd recommend something else like the Die-ner or Lagoona's Shower playsets.
+Much cuter and with more play options.
+"Our daughter is a big fan of Monster High.
+She was very excited to get this set and help out with this review.In her words:""This was pretty easy to set up, but there was a lot of tape and twisties I had to untie to get everything out of the box.
+I like this set.
+I have a few of the pets and I can always get more.
+The couch with the hidden key drawer is really cool.
+Flip the switch, no key!
+Flip it again, there's the key!
+I can put two of my secret scrolls in the columns so no one knows where they are.This set comes with a cat that's kind of creepy.
+I like it when it purrs, but when I move around, the cat growls and spits at me and I don't like that very much.
+I think I'll keep the cat off when I play with this.
+""My thoughts:If you know someone who collects Monster High Secret Keeper toys, this playset will make an excellent gift.
+The fishbone key should be held near the fish's tail when using the key, that way it won't snap or bend out of shape.
+The doghouse door lock is a little stiff, so be careful when you open that.I must agree, the yowling and spitting noises the cat makes are pretty unnerving.
+We prefer it turned off.If you want to collect all the Secret Creeper pets for this playset, here's the links for each one:Monster High Secret Creepers Watzit FigureMonster High Secret Creepers Neptuna FigureMonster High Secret Creepers Count Fabulous FigureMonster High Secret Creepers Hisette FigureMonster High Secret Creepers Shiver FigureMonster High Secret Creepers Sir Hoots A Lot FigureMonster High Secret Creepers Captain Penny FigureShe gave this 4 out of 5 stars - the only negative she mentioned?
+The Creepy Cat noises!"
+I detest Monster High toys.
+They over priced and the quality is extraordinarily poor.
+If you have purchased these toys in the past and accept the quality, then this product is right inline with their other products and you should be happy.My 8 year old daughter adores Monster High and owns many of the dolls and furniture sets, as well as the school.
+She is especially fond of this set because she, and nearly every other 8 year old girl, adores cats.
+OMG this cat meows!!!
+She is the envy of her friends.Her favorite part of the set is the purple box in the middle.
+She and her BFF write secret notes and lock them in the box with the tiny included key.
+My daughter noted you can also open the lock with a spoon or a fingernail.
+Nevertheless, the key is exciting and she stores the key in the sliding drawer in the couch/bed to keep it from being lost.Overall, if your child loves Monster High, this set will make them giddy with happiness.

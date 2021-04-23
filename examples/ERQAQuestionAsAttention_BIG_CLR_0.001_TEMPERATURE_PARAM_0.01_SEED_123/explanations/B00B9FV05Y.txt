@@ -1,0 +1,102 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+People complained that a similar Melissa & Doug set smelled like wood treated by formaldehyde & other VOCs. Anyone experience something similar?
+Top sentence(s):
+The price is great too.Another winner from Melissa and Doug!
+She just didn't enjoy it at all.
+It's such a shame!
+She has a hard time manipulating little doll clothes, so I thought that being able to dress these with magnets would be a good idea.
+This toy is made well.
+
+Question attention weights:
+0.12699712812900543,0.35247913002967834,0.01967271976172924,0.05378568544983864,0.4470652937889099
+Sentence attention weights:
+0.010532300919294357,0.00963144563138485,0.010591547004878521,0.01753891073167324,0.015731552615761757,0.013281883671879768,0.010269178077578545,0.011930824257433414,0.0069790733978152275,0.013629583641886711,0.011327809654176235,0.011586892418563366,0.01610889658331871,0.007911800406873226,0.013609328307211399,0.01375941839069128,0.010543563403189182,0.00865144096314907,0.014937777072191238,0.01020783744752407,0.016192255541682243,0.016192255541682243,0.00823153555393219,0.013087466359138489,0.008162416517734528,0.015525655820965767,0.014349399134516716,0.012775283306837082,0.01548554003238678,0.01652170531451702,0.015843471512198448,0.015772320330142975,0.015695832669734955,0.013996144756674767,0.010561504401266575,0.01755486987531185,0.014945106580853462,0.01561581902205944,0.013644540682435036,0.016054589301347733,0.008722404949367046,0.017169944941997528,0.018384482711553574,0.018359113484621048,0.017321323975920677,0.009350346401333809,0.009537691250443459,0.013851089403033257,0.007233272306621075,0.0157170370221138,0.00833244901150465,0.013608337379992008,0.01532650738954544,0.00958515889942646,0.009120285511016846,0.014341256581246853,0.011545343324542046,0.009326043538749218,0.006802351213991642,0.01056563202291727,0.016414042562246323,0.00934272538870573,0.015812963247299194,0.011527428403496742,0.015617908909916878,0.01693372242152691,0.014743183739483356,0.01328897476196289,0.0075456611812114716,0.015929197892546654,0.01632889173924923,0.015907132998108864,0.01167058665305376,0.00942769180983305,0.015619674697518349,0.01618269644677639,0.008538605645298958
+0.010072201490402222,0.008225003257393837,0.009357756935060024,0.020256882533431053,0.01635350100696087,0.013210970908403397,0.009999305009841919,0.010853939689695835,0.006097456440329552,0.013135269284248352,0.010452833957970142,0.010691903531551361,0.017125658690929413,0.006593828555196524,0.012964777648448944,0.013923822902143002,0.009591639041900635,0.008083954453468323,0.014857250265777111,0.009498890489339828,0.01683439500629902,0.01683439500629902,0.00804841797798872,0.013351088389754295,0.007628994528204203,0.015970051288604736,0.01436107698827982,0.012000222690403461,0.01602816954255104,0.01877782866358757,0.01634044572710991,0.016296511515975,0.016268355771899223,0.01415907870978117,0.010276250541210175,0.018434129655361176,0.015374325215816498,0.016034163534641266,0.013798882253468037,0.0163862444460392,0.006991647183895111,0.018404586240649223,0.019869770854711533,0.01971089281141758,0.01823476143181324,0.008147744461894035,0.008433801122009754,0.013721069321036339,0.005656285211443901,0.016184186562895775,0.008866125717759132,0.01447076816111803,0.015292552299797535,0.008600721135735512,0.008678664453327656,0.014562486670911312,0.011901873163878918,0.009109694510698318,0.006344069726765156,0.009772862307727337,0.016736526042222977,0.00866324920207262,0.01629236526787281,0.010999285615980625,0.015983622521162033,0.017643390223383904,0.014963299967348576,0.013128031976521015,0.0064201513305306435,0.016486365348100662,0.017553633078932762,0.016497204080224037,0.011590145528316498,0.009231071919202805,0.016315294429659843,0.01680302992463112,0.0071888454258441925
+0.011609381064772606,0.011101250536739826,0.011184431612491608,0.015600738115608692,0.015209910459816456,0.012946747243404388,0.010791650973260403,0.01273442804813385,0.008449641987681389,0.01343805342912674,0.011792683973908424,0.012184852734208107,0.015423329547047615,0.009763344191014767,0.013467267155647278,0.014379985630512238,0.012112706899642944,0.010271381586790085,0.014954754151403904,0.011586355045437813,0.01499146968126297,0.01499146968126297,0.009492005221545696,0.012655745260417461,0.009831933304667473,0.014658195897936821,0.014685181900858879,0.012988998554646969,0.014383389614522457,0.014341332018375397,0.014777468517422676,0.01472889818251133,0.01441600639373064,0.013432658277451992,0.010989884845912457,0.015898076817393303,0.014335659332573414,0.01478700339794159,0.013478905893862247,0.015623184852302074,0.010809510014951229,0.015580565668642521,0.016414407640695572,0.01661902293562889,0.016059933230280876,0.011545653454959393,0.011419684626162052,0.013308722525835037,0.009478400461375713,0.014844624325633049,0.009049604646861553,0.012754790484905243,0.014702844433486462,0.01078951358795166,0.009804986417293549,0.013837810605764389,0.011365651153028011,0.010198371484875679,0.007812466938048601,0.010814124718308449,0.015531260520219803,0.010203980840742588,0.014790074899792671,0.012378081679344177,0.014753284864127636,0.015777070075273514,0.01449420303106308,0.013128218241035938,0.00947762280702591,0.014836348593235016,0.014992735348641872,0.014808887615799904,0.012673819437623024,0.010356605052947998,0.014604633674025536,0.015031414106488228,0.01046070083975792
+0.01131884753704071,0.009905439801514149,0.009940430521965027,0.017866317182779312,0.015575353987514973,0.013002620078623295,0.01028707716614008,0.011604058556258678,0.007552988361567259,0.013085031881928444,0.011051196604967117,0.011567646637558937,0.016253607347607613,0.008651204407215118,0.013100316748023033,0.014965451322495937,0.011188911274075508,0.009754500351846218,0.015122474171221256,0.011098857969045639,0.015678443014621735,0.015678443014621735,0.009319126605987549,0.013196386396884918,0.009285783395171165,0.015158581547439098,0.014365891925990582,0.012002281844615936,0.014835233800113201,0.016275515779852867,0.015357522293925285,0.015387182123959064,0.014830930158495903,0.013394046574831009,0.011836105026304722,0.01673157513141632,0.014944461174309254,0.015360294841229916,0.014102809131145477,0.01619265414774418,0.009044671431183815,0.016711708158254623,0.018035398796200752,0.017529593780636787,0.016686899587512016,0.010323939844965935,0.009633230045437813,0.013022263534367085,0.007544050458818674,0.015122722834348679,0.010089538991451263,0.013044408522546291,0.014452907256782055,0.009624737314879894,0.009729480370879173,0.014117957092821598,0.012231044471263885,0.010231142863631248,0.007260248996317387,0.009381413459777832,0.015370267443358898,0.009739639237523079,0.015344688668847084,0.012008808553218842,0.015261237509548664,0.016256526112556458,0.014487363398075104,0.012691061943769455,0.008132106624543667,0.015486867167055607,0.016018997877836227,0.01553024910390377,0.012577210552990437,0.01037286315113306,0.01536225713789463,0.015730632469058037,0.008986290544271469
+0.00988695677369833,0.008511856198310852,0.010248362086713314,0.02000485546886921,0.015927206724882126,0.013297531753778458,0.009622200392186642,0.011128036305308342,0.00597373628988862,0.013230618089437485,0.010576574131846428,0.011125808581709862,0.016790013760328293,0.00671039056032896,0.013334862887859344,0.013188714161515236,0.009246298111975193,0.007427716627717018,0.014832512475550175,0.009224234148859978,0.016900373622775078,0.016900373622775078,0.007552728988230228,0.013128571212291718,0.0072955116629600525,0.01604398898780346,0.014535040594637394,0.012745952233672142,0.01622476987540722,0.018352597951889038,0.016435876488685608,0.016377711668610573,0.017007820308208466,0.014251137152314186,0.010412851348519325,0.018591485917568207,0.01529752742499113,0.016011808067560196,0.013545675203204155,0.01618865877389908,0.007354203145951033,0.01861678436398506,0.019757267087697983,0.01947844959795475,0.01827399618923664,0.008051164448261261,0.008354139514267445,0.013868233188986778,0.005788490176200867,0.016365056857466698,0.008007291704416275,0.01472155936062336,0.01565985195338726,0.008473542518913746,0.008304426446557045,0.014429114758968353,0.011604192666709423,0.008804596960544586,0.006215485744178295,0.010583163239061832,0.017255648970603943,0.00871914904564619,0.016334518790245056,0.010818499140441418,0.016063572838902473,0.017750531435012817,0.015299626626074314,0.01328744925558567,0.006554318126291037,0.016556425020098686,0.01760782301425934,0.01656803861260414,0.01107051596045494,0.008975992910563946,0.016276683658361435,0.016846008598804474,0.007215180899947882
+Questions:
+is this good for a 3 year old?
+People complained that a similar Melissa & Doug set smelled like wood treated by formaldehyde & other VOCs. Anyone experience something similar?
+Are the dolls solid wood or are they particle board or plywood? Thanks.
+Is this good for a three year old girl?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+I gave this toy to my 2-year-old niece to play with one afternoon and it was a big hit!
+She's a little young for it still, I think, but she understood the concept of dressing the dolls (I can't promise the pants and shirts were in the right places though).
+Lots of choices for clothing and the pieces were durable enough to be dropped on the floor without a problem.
+The price is great too.Another winner from Melissa and Doug!
+I use this to throw into a suitcase when we are going to travel.
+It can lay pretty flat.
+There are a lot of little pieces (like shoes, headbands, etc.
+), so keep a ziplock bag handy to put those inside.
+There are two dolls to dress with the magnetic clothing.
+The dolls are chunky, so smaller hands (age 3 and up) should have no problem with this toy.
+My 5 year old daughter enjoys playing with it and even her twin brother will get in on the action.
+I only take it out for travel mainly because there is a limit of clothing and it can get boring; but it a great if you do toy rotation.It would also make a great birthday gift for a child.
+Would definitely recommend for the 3 - 6 age category.
+The Melissa & Doub Chloe & Zoe Magnetic Dress Up kit has a real wow factor for our four-year-old.
+The faces are very sweet and friendly, and the assortment of prints and fashions to put together is quite stimulating.
+While we so-called adults enjoyed our usual game night, she had her own great time with this stimulating toy -- constantly stopping to show us her latest creation.
+It was a pleasure to watch her genuine pleasure in arranging and rearranging the pieces, and it occupied her nicely for quite some time.This toy is very well designed with attention to detail.
+The many different fashions and fabric styles show that this toy was well planned out to stimulate your child's creativity.
+Highly recommended!
+Like all Melissa and Doug products, this doll set is very sturdy and colorful.
+The pieces are great for little hands to hold.
+The clothes are very cute and come in a nice variety.
+My one complaint is that it doesn't have a cover for the tray.
+I would have really liked to have something that kept the pieces in when not in use.
+Yes, you can store it flat but if you are transporting it in the car or for therapy (like I do), then you need to put it in a separate box with a lid.
+My daughter has been having such fun playing with this dress up set.
+Honestly, I wasn't sure how an old fashioned paper-doll like toy (well wooden dolls) would go over with her.
+She had a Melissa & Doug puzzle that involved three ballerinas, and you changed the tutus...which she loved.
+So, I was hopeful she would view this similarly.
+Well, she's been playing with it for over a week every day.
+So many different combinations and stories to come up with.
+:)Only negative is that there are lots of little pieces.
+M&D; provides a nice wooden case that the dolls come in, but there's no top... so her little 2 year old brother has great fun taking the pieces and throwing them.
+I wish the case had some sort of top--but other than that, we really like it.
+I offered to put all the pieces in a bin with a lid, but she likes how she can see everything in the wooden box it comes with.My guess is this would be fun for a girl up to 7-8 years old.
+This toy is made well.
+I'm sure it would be good for some children.
+It just did not go over well in our house.
+My little girl (three next month) LOVES to dress up, so I thought maybe she would like this one.
+She only played with it about three minutes and was bored with it.
+I love Melissa and Doug toys, so I was quite disappointed.
+She has a hard time manipulating little doll clothes, so I thought that being able to dress these with magnets would be a good idea.
+She just didn't enjoy it at all.
+It's such a shame!
+!
+We have the older version of this set, theMelissa & Doug Abby & Emma Deluxe Magnetic Dress-Up Set... and this is FAR better.
+First, let me tell you about this set, and then I'll compare and contrast the two sets.This has two wooden dolls: a white (with enough of a tan that Hispanic girls might identify with her) girl with blue eyes and straight brown hair and a yellow polka-dotted tank with matching white underwear and a light-skinned black girl with curly black hait and brown eyes and a pink tank with matching white underwear.
+They also come with a blue base to stand the dolls up, but my daughter usually plays with them flat.
+The magnetic clothing options include: six sleeveless dresses/tunics, three short-sleeved dresses/tunics, two pajamas, two one-piece swimsuits, two long-sleeved dresses, five shirts, three skirts, four pairs of pants/capris, one coat, four pairs of sunglasses, six headbands, two pairs of shoes with attached knee socks, one pair of cowboy boots, seven pairs of other shoes, and two pairs of slippers.
+(I could be missing something, considering I just counted based on what we have right now, and we received these a month ago, so it's possible something has disappeared since then!)
+The smaller pieces - like shoes and headbands and sunglasses - could be lost easily and could also be a choking/swallowing hazard for smaller children, so please be mindful of that.
+The clothes are bright colored with varied patterns, but the designers seemed to have been intentional about to mix/match items because lots of matching combos are possible (and some that don't match at all for free-spirited kiddos like mine!
+).Now why I like this Chloe & Zoe set better than the older Abby & Emma one: Abby and Emma are WAY skinnier, like super model thin, while Chloe and Zoe are much healthier with a more muscular build, though still lean.
+Abby and Emma had a couple of less modest options like a bikini and a belly top, and they wore a tank bra and panties; my daughter is hyper-modest (almost a prude!
+), so this bothered her, and I wasn't a huge fan either.
+The darker skinned one in the Abby/Emma set was lighter than my coffee... which says a lot since I have a little coffee with my creamer.
+:) The old set just has black circles for eyes instead of more realistic ones.
+And if you think the accessories are small on the Chloe and Zoe set, you'd hate the teensy tiny shoes and other items for Emma and Abby.
+Plus, as a tomboy, I like the box and base in this set being blue and yellow instead of pink, though that's just a personal preference.
+My daughter is obsessed with dress-up so she absolutely loves to play with this adorable set from Melissa and Doug.
+I like the fact that there are 2 wood dolls so she can play with a friend or have both dolls to dress in different outfits.
+The wood / magnetic dolls and clothes are really well made, sturdy and have wood stands so they can be played with rather than just dressing up.
+My daughter plays with this almost every day (she is 4) and has a few other sets as well.
+This makes a great gift for kids ages 3-5 and a great price as well!
+My 2 1/2 year old granddaughter likes to play with this.
+Here is why.1.
+The dolls and accessories are sturdy and well constructed.
+It is easy to stand the dolls up in the included stands.
+I agree with another review that the magnets could be a little stronger, but they work.
+The accessories are very colorful.
+Lots of different outfits are possible.2.
+However, for just two dolls, there are way too many pieces.
+My granddaughter would be happy with just half the amount of pieces and generally that's all she uses.3.
+This comes in a sturdy wooden box with compartments to hold the dolls and all the different pieces.
+That's nice.
+But there is no cover!
+We brought this on vacation and used a Ziplock bag to transport all the pieces.Bottom line: My granddaughter enjoys playing with this, but not as much as some of her other Melissa & Doug toys.

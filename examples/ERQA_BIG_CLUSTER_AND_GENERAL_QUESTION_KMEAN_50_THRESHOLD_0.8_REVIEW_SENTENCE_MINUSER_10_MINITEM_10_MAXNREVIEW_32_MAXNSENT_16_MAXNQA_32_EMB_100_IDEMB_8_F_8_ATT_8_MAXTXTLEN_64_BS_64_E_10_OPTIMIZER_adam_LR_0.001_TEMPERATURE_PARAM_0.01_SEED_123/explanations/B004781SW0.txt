@@ -1,0 +1,192 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+We took this game on a road trip, and even my 11 and 8 yr old girls figured out something to play with it.
+It's wonderfully simple for all ages to play.The game comes with nine dice printed with a full deck of all fifty-two cards on the dice and also including an extra two jokers, forty-two game cards, one-hundred chips, a storage pouch and instructions for eight games you can play, or you can even invent your own game of chance.
+If you've seen or used the site boardgamegeek you know what I'm talking about.While I'm a serious gamer, I still like (some) dice games.
+Anyway, beyond that, this game set is mildly amusing.
+I was pleased that the little cards and dice come with a drawstring bag for storage so we didn't have to worry about preserving the little box the game came in.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.006139960139989853,0.006231539882719517,0.005618848837912083,0.006235252134501934,0.006427754182368517,0.0071036918088793755,0.004860344808548689,0.005499408580362797,0.002920196857303381,0.007186365779489279,0.0057554892264306545,0.006869113072752953,0.003937418106943369,0.005815519485622644,0.0065985554829239845,0.0057554892264306545,0.007415760308504105,0.006478324066847563,0.006343870889395475,0.004843609407544136,0.0043626949191093445,0.005305914673954248,0.004006003495305777,0.004153942223638296,0.00630931043997407,0.005581828765571117,0.0047941431403160095,0.006415860261768103,0.005532155279070139,0.006241940893232822,0.004204912576824427,0.005811462178826332,0.006831142585724592,0.006361468695104122,0.0048956675454974174,0.007307029794901609,0.0030461859423667192,0.005708513781428337,0.005732692312449217,0.008442645892500877,0.007025404367595911,0.0038537587970495224,0.004058228339999914,0.005760031286627054,0.005732692312449217,0.00557322520762682,0.0055170003324747086,0.006684774532914162,0.005677937064319849,0.005636672023683786,0.005956072360277176,0.0051360586658120155,0.005917476490139961,0.005742901470512152,0.0049575865268707275,0.006775564514100552,0.005107573699206114,0.008189721964299679,0.006417043041437864,0.00530349463224411,0.005227407906204462,0.004120970144867897,0.007321229204535484,0.0055137029848992825,0.0054419138468801975,0.008314748294651508,0.005754454527050257,0.004393428098410368,0.005962257739156485,0.004067335277795792,0.005567523650825024,0.005564866121858358,0.005845451261848211,0.006394949276000261,0.005172335542738438,0.0050870273262262344,0.005863416939973831,0.006561380811035633,0.007571613881736994,0.005242047365754843,0.004631462506949902,0.0065624103881418705,0.006504158955067396,0.006340513471513987,0.005671801511198282,0.005066774319857359,0.0033184231724590063,0.003051395993679762,0.005272323731333017,0.006295731756836176,0.006773051340132952,0.006168590858578682,0.004703869111835957,0.007433420512825251,0.003727845149114728,0.007622881326824427,0.005711606703698635,0.004572232253849506,0.0040588523261249065,0.005505906417965889,0.005536402575671673,0.004793449770659208,0.006947036366909742,0.006275184918195009,0.006444689817726612,0.005551372654736042,0.003363876137882471,0.005489810835570097,0.005076983943581581,0.004566654097288847,0.00870276615023613,0.004713579546660185,0.004853191785514355,0.005666201002895832,0.004386843182146549,0.005622211378067732,0.006120810750871897,0.0028624695260077715,0.005782805848866701,0.0057568177580833435,0.005944467149674892,0.005375395528972149,0.0063645788468420506,0.006285800598561764,0.00701500428840518,0.005831936839967966,0.0064422027207911015,0.005580080207437277,0.005221490282565355,0.005726700183004141,0.004630110692232847,0.005969754885882139,0.0052667646668851376,0.005596581846475601,0.005763131659477949,0.005483018234372139,0.0049599576741456985,0.007468458265066147,0.005448115989565849,0.0036901766434311867,0.00845530815422535,0.0042250375263392925,0.005719976499676704,0.006064271554350853,0.005336781498044729,0.003705935552716255,0.0055515761487185955,0.006636368576437235,0.004696044605225325,0.005764483939856291,0.005715021397918463,0.00785383302718401,0.005626437719911337,0.003249494591727853,0.006585112307220697,0.005709595512598753,0.0068755303509533405,0.005706409458070993,0.005698509979993105,0.004166053608059883,0.005392766557633877,0.009344756603240967,0.00611845450475812,0.005641184281557798,0.005116490181535482,0.0058051180094480515,0.005841693375259638,0.006040714681148529,0.00371505762450397,0.006402506958693266,0.006285649724304676,0.006773375440388918,0.0040284013375639915,0.006064125336706638,0.006869069766253233,0.00655538821592927
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+I can see the value of these dice and this game for certain people and places.
+I tried it out with my grandkids age 4 and 8 and it was entertaining for the 8 year old.
+for quite a while.
+We played a very simple version of the game with the 4 year old and then moved to a more complicated version with the 8 year old.
+My mother taught my sons how to play poker at a young age.
+So I introduced my grandkids to a few poker hands.
+I could see this being fun for poker players who are in a confined space or not able to get out much.The game could easily be played on the train or an airplane and would be fun for waiting time at the airport.
+I can just imagine my parents (deceased for many years) playing this game as my father spent many days in a hospital bed and they loved to play poker.
+There are dozens of people online at the site for this game and they have invented all kinds of games that can become quite complicated.
+There are contests for creating new games and other fun stuff on the site.
+We are a family of game players.
+Just about any game is going to be a hit in our family.This one took a few rounds for some of us to master because we are not poker players and were not familiar with some of the hands.
+As we continued playing we got better with our strategy and ability to remember the hands.This is not my most favorite game, but it has earned a spot on our game shelf as one we want to play again.
+I really liked that it was easily portable.
+That means that it is something we can take on camping trips or trips to the grandparents house.I also liked that my youngest son and his friend were able to play it without a lot of problems.
+They typically do not enjoy games that take a lot of brainwork or time to learn.
+So this was good for boys ages 8 and up.
+That is always a plus in my opinion.I think that this has a limited audience.
+There are other games I would suggest before buying this one.
+However, if you are looking for a game that isn't incredibly difficult, fairly fun for a wide range of ages, easily transportable- this might be the game you want to try.Enjoy.
+I'll hop on board with some of the other reviews I have read about this product.
+The dice are awkwardly big, and the cards are annoyingly small.
+And aside from the made up game called &#34;Square Shooter&#34; which seems to lose its appeal after a few rounds, you're left with the aforementioned odd sized dice and cards.This product is ok, and I suppose it will keep kids occupied for a little while.
+Call me old fashioned, but I think I'll stick with regular playing cards, and normal dice when I need them.
+We didn't play straight up poker, we played some other card games with our dice.
+You keep 'score' with your chips, there are small cards that hold you place.
+The dice are large so we used our Farkle cup to shake them.
+We have a lot of games and like to keep a lot of card and dice games for our camper.
+We'll hang on to this, it does give card games a bit of a twist.
+The kids 12, 13, and 14 really enjoyed the cards on the dice.
+There are a lot of other games you can play with the dice, you can look online for suggestions, there are other games listed in the packaging.
+We like games that provide some versatility.
+I love dice games, they are a fun way to sharpen the mind...this game is a great deal of fun...though I played this with my husband, it is easy enough an 8 year old could play...YA HOO!!
+!
+This is essentially a poker on dice game, but there are probably an endless number of games you can come up with to play with these.
+The game is fun with our cousins and the older generation, We also had alot of fun making our own blackjack game with them!
+This game claims &#34;First Deck of Cards on Dice!&#34; but I actually have a set of dice with cards on it already.
+I am a dice collector, so maybe I would be the only one who knows about this.
+Perhaps this is the first full deck sold as a set?
+Anyway, beyond that, this game set is mildly amusing.
+I would rate it as a middle of the road... not horrible, but not the most exciting game.The game comes with a set of 9 dice, action cards, and chips as well as instructions and a little drawstring bag to keep them in.
+To play, players pick a card to see what they have to get in their hand (two pair, full house, etc...) and then they roll the 9 dice to try and get the combo asked for.
+It is most like Yahtzee and Yahtzee players might enjoy it because there is no score card and the combos they must get change with every turn, unlike Yahtzee where they have to get a list of the same matches every game.
+There are also &#34;showdown&#34; cards where you face off against another opponent and see who can role the highest hand.
+Poker players might like this game, but it might be a little tame for them.
+Unless you add a wager of some kind it might get old fast.The dice are very high quality and will go directly into my dice collection, but I doubt the game will be played again.
+After three rounds with a group of game fans, we put it aside to play something else.
+I can see this game being helpful on a train or long trip where you have to occupy kids.
+This is just great for kids roughly 5 to 10 years old; (it says ages 8+, but a 5 year old can roll dice, play with cards, and play with chips... they can actually follow the rules at age 8, but I wouldn't hesitate to get this for a 5 year old.
+I like the variety here, and the fun of doing both dice and cards at the same time.
+If your children enjoy dice games and cards, well, how can you go wron doing both at the same time?
+Quality is a little on the low side, but all in all I'm very pleased with this.
+This is cards on dice (nine dice with six sides each).
+You can play lots of different games, just as you would with a deck of cards.
+Good for a range of ages, so it makes a nice family game.
+One advantage is that the dice are indestructible.
+We go through so many decks of cards because they get destroyed or lost.
+One of these die could still get lost (fortunately there's a bag for them), but at least the kids can't rip them.
+This was interesting and has potential to be used for various games, as for the recommended game it comes with I didn't love it nor did I hate it.
+You basically challenge a player to roll a certain hand it can be quick and mostly fun who ever has the most chips in the end win.
+It was a bit different having oversize dices and very small cards, but I think you can come up with various games to play it has options/potential.
+I enjoy that its a small portable game you can take with you.In the box you will find dice, special cards (very small), playing chips and a little red bag with a draw string for storage.
+I am not a poker player but I think poker players would enjoy playing this with dice.
+And I also think that if someone wanted to learn to play poker this would be a first step in understanding the various suits.
+The game proceeded rather slowly for our group the first time out because none of us are poker players so we had to learn what the various suits meant and it took us a while to go around but I think as we learn this and how to strategize it will be a faster-paced game.
+I was pleased that the little cards and dice come with a drawstring bag for storage so we didn't have to worry about preserving the little box the game came in.
+Even the instruction sheet fit in the bag.
+We have a cork dish we bought overseas that we roll the dice in and it contains them very well.
+That would be a great add-on to the game but of course it wouldn't fit in the little drawstring bag.
+All in all a lot of fun for a span of ages.
+My family was a little skeptical about how much fun a &#34;card game on dice&#34; would be, and after playing, I have to say they were right.
+It was entertaining, but honestly not as fun as simply playing a card game.
+The primary reason why is because you use one set of dice that gets passed around, so those not rolling are waiting their turn.
+It goes a little slowly as you try to build your hand in three rolls, much like Yahtzee.The difference here?
+You get 9 large dice (about four times the size of standard die) with a full deck of cards printed on the six sides.
+The basic game is to shuffle the enclosed cards (which are about half the size of standard playing cards and a little hard to manipulate), draw one and try to replicate it.
+They are primarily poker hands, but you can also play rummy and other variations (instructions are included).
+You earn chips based on how well you've rolled and the goal is to accumulate the most chips.In the box there is a drawstring bag for storage, the tiny chips used for play (again, about half the size of standard plastic poker chips) the large dice and the itty bitty cards.
+I think the packaging could have been improved, perhaps using a tin or sturdier box, as putting the dice in a pouch just to put it back in the lightweight box makes little sense.
+If the entire game fit in a nice large marked pouch, it might be more appropriate.
+The scale of the dice and the cards & chips makes it stand out, but was honestly awkward.The family is not likely to use it very often, but as an occasional change of pace it might do.
+This was a fun little game to play with my family.
+We played several hands and the reason I really like it is that you can change the rules and play almost any game with the dice.
+It seems to be more fun the more people you have playing, having only 2 people made it a  little lacking in adventure.
+Its interesting to play a card game on dice, but I think I'd rather stick to the cards.
+This is a more portable game, but since cards aren't much larger, there's not a huge difference in the size.
+This isn't really a highly involved game.You get 9 dice (6 sides) that have a full deck of cards printed.
+The basic rule is shuffle the cards, draw, try to get a poker hand (2-3/kind, flush, etc) by rolling the dice.
+You can reroll up to twice and keep &#34;cards&#34; you like until you reach the general target (2 chips) or a specific face value (4) on your card.
+Joker's wild.
+There's some minor cards that copy the jokers or double chips and such.The game has several chips, the deck dice, a drawstring bag for storage, quick rules and more detailed rules that give a few minor variants of play.
+You can invent your own games as well, but having 9 dice will limit your new games, like solitaire would be hard to pull off.I think the packaging with a pouch is silly, because why not have the bag in the box, stuffed, or a box that is designed to hold the dice better (like Rory's Story Cubes)?Anyway it's nit an awful game but I wouldn't suggest it as a game to play for a long haul.
+Square Shooters is a great game to play and leaves more to luck/chance than regular strategic thinking when playing regular games involving cards and chips.
+Included are 9 dice, 54 cards (small sized playing deck) chips and a little red drawstring bag to carry everything in (WHICH IS AWESOME for traveling purposes).All in all, a fun game and would have given it 5 stars if not for the dinky and poor quality deck of cards...
+It's an interesting concept--cards on dice.
+There are some games included that my kids didn't quite get, so I had to help them.
+The game encourages you to make up your own games, and we actually started playing &#34;war&#34; with the dice, and that was fun for my guys.
+I think that as we get more familiar with these dice and start to adapt them to other games, we'll enjoy them more.
+I'm giving this a 4 provisionally.
+This game didn't work as well as I might have liked.
+The &#34;drawing cards&#34; are very small and quite difficult to shuffle.
+Rolling exactly what is specified is often much too difficult.
+At least with Yahtzee, you can DECIDE what you should try to get after the first roll of the dice.
+The &#34;special&#34; cards were often too hard to play, and the differences in chips per card were excessive.
+My 8-year-old got very frustrated with this game quickly, though I could see how it might be fun for a while with older folks.
+The &#34;taking turns&#34; could get very old with very many players.
+The dice were also very BIG...I could barely hold them in two hands to shake them, and my daughter just had to put them down for her &#34;roll.&#34;  The packaging could also use some work...a solid tin, bigger cards, and smaller dice would all improve this game significantly.
+As is, it is OK.
+Square Shooters is a very simple dice game of chance.
+Even though it is suggested for players ages eight and up, I found even younger children enjoyed rolling the nine card marked dice and trying to match the dice with their game card's picture of the poker hand.
+It's wonderfully simple for all ages to play.The game comes with nine dice printed with a full deck of all fifty-two cards on the dice and also including an extra two jokers, forty-two game cards, one-hundred chips, a storage pouch and instructions for eight games you can play, or you can even invent your own game of chance.
+In the basic game, you simply get three chances to roll the nine dice to try and match up your dice hand with the hand given to you on your game card.
+For example, if you are given a Flush to match up with- you can roll the exact flush shown on the card or roll any flush for less chips.
+The game is for 2-4 players, but even one can play alone, as you can also make up your own version to play.
+At the end, the one with the most chips wins the game.The game took about 15 minutes to play with two players.
+The time depends on the roll of the dice- some prefer to roll all nine dice  at once and others took more time rolling one dice at a time.
+This is basically simply a match game- there is no strategy like in real poker with cards- unless you invent a game that would involve some strategy.
+This is a simple dice game of chance, that is fast, fun and that any age can play who can match up the card faces on the dice with the hand on the game cards.
+It is simple 4 Star Fun!
+Shooters game, this thing for me was a little confusing to learn, but once you learn it, it's fun.
+Comes with everything you need including a red bag to hold everything in.
+Cards are small, so they can also be stored in the bag.
+Try to match your hand in three rolls or less.
+The shoot out cards give you more luck.
+Whoever wins the most chips, wins the game.
+Instructions included, and can also play 7 other games!
+Great family, or friends night game.
+Novel idea, an entire deck of playing cards - only on dice.
+Sure there is a Yahtzee influence here, but Square Shooters is its own game.
+The directions include a handy 'quick start' guide that makes getting started pretty simple, even for younger players.
+Age 8 and up, the package recommends, and I'd say that's about right - though a little younger with adult supervision should be fine.
+Right out of the box, there's a rolled-up pouch for storing the nine slightly oversized dice (each side has a different &#34;playing card&#34; on it - even a joker), two rolls of small scoring chips, and two decks of mini-cards (which have the goals player are supposed to &#34;shoot&#34; for with the dice).
+The tiny chips are a bit hard to keep track of, in fact I'd recommend a separate zip-lock baggie for them instead of just jumping them in the pouch with everything else.For those who have never played poker before, the full directions have a Target Hand Summary that explains all the combinations.
+Like with any new game, it takes time to get used to but can be a lot of fun once everyone can stop referring to the directions.
+The basic game is pretty easy to get the hang of, and the nice thing is there are several variations detailed in the instructions.
+They have Rummy outlined, along with Twenty-One.
+As you might expect, the fact that the dice represented an entire deck of cards allows players to adapt many existing classic card games (like Twenty-One, as detailed in the instructions) - it's pretty much up to the individual user to figure out new ways to use the game.It's compact enough that it travels well, just bundle everything up and it can be broken out just about anywhere.
+It's not a reinvention of the wheel or anything,  but this is a varied game that should prove to be a fun one.
+I'm a serious gamer.
+I own 300+ games and have previously owned, as of this writing, more than 350 others.
+If you've seen or used the site boardgamegeek you know what I'm talking about.While I'm a serious gamer, I still like (some) dice games.
+Ra Dice and Alea Iacta Est are probably two of the best dice games ever published in my opinion.
+There are lots of other good ones as well.
+Skyline is a fairly new &#34;simple&#34; dice game.
+Getting even simpler are Zombie Dice and Martian Dice.
+It's these last two games that are the closest in terms of depth to Square Shooters.I wrote in my headline that there's more here than it appears to be because of one simple reason: These dice allow for multiple games, not just one.
+The instructions even suggest to users to try different things with the dice and come up with your own games.
+They also include rules for several games as well.This is why I think many of the other reviewers have been unfair to this game.
+The primary game presented by the designers is in fact not that good!
+And sadly, some of the suggested games also are mediocre.
+Several reviewers have commented on poker being boring.
+Well, poker is just about always boring when there's no betting.The best game, at least from what I experienced, was Rummy.
+The Rummy game I would say is easily on the same level of Zombie or Martian Dice.
+If you like either of those games I'll bet you'll like the Rummy variant for Square Shooters.
+This game should contain a cup because it is hard to roll nine dice at once and I have adult hands, albeit small ones.
+It is fun to play and easy to learn.
+I can see how these dice could be adapted to many card games.
+The only other problem we had was that the rules were not completely clear, like that if you picked a card that wasn't one where you rolled a hand, then you were supposed to pick another card.
+But we figured it out.
+All the items fit in the red drawstring bag too, so it travels well.
+Good concept, and great size for travel.
+We took this game on a road trip, and even my 11 and 8 yr old girls figured out something to play with it.
+Good for game enthusiasts for something different.
+Personally, I prefer the cards, but both my kids really had a good time with the card dice.
+This set of dice with playing cards on them instead of numbers is an interesting concept, and the game is fun to play as well as easy to learn.
+It says it is for 8 years old and up, but our 5 year old granddaughter was able to play with no problem.
+Naturally we think she is gifted, so that may or may not apply to all five-year-olds.
+Both the kids and grandparents enjoyed it, though.
+My wife and I were looking for a relatively simple (and portable) game we could take with us on overnight trips to visit family and on vacations.
+So, we decided to give &#8220;Square Shooters The first deck of cards on dice&#8221; a try.
+My wife played the game with oou eight year old son.
+Below are her comments:This is a terrific new idea for avid card players.
+If you are ready for something different, there are plenty of variations to keep you busy with this card/dice set.
+Recommended ages are 8 and up, but I think it&#8217;s only appropriate at that age if your child is already familiar with card games like rummy.
+But I would put this on the &#8220;great gift&#8221; list for ages 10 and up.
+Four stars.

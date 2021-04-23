@@ -1,0 +1,200 @@
+Top question(s):
+what age group
+Amazed how the price more then doubled in a couple of days!!! Rip off. But seems to be a hit toy for Xmas. Bought at Walmart for 19.97-is it that bad?
+Top sentence(s):
+After using the screen heavily, the crayons leave a film behind, which makes it look cruddy -- especially in its glow-mode.
+This is just added novelty to their already artful day.Now, the batteries (3 AA, not included) are almost impossible to put in.
+The crayons are jumbo and the screen is smaller than a sheet of paper, so you can't really do much more than doodle.
+The glow effect is decent, except for dark a triangular void between the lights at the bottom.
+Our kids have loved these kinds of portable art boards for years and though they've outgrown traditional coloring books and crayons, this Light-Up Board gives them a new twist of their artistic talents.
+
+Question attention weights:
+0.24778063595294952,0.2948024868965149,0.16989630460739136,0.16105282306671143,0.126467764377594
+Sentence attention weights:
+0.008286247961223125,0.005879947450011969,0.0065549383871257305,0.003467426635324955,0.0065202414989471436,0.006462548393756151,0.006302108988165855,0.007881994359195232,0.007831200025975704,0.00610188115388155,0.005416495259851217,0.0026251275558024645,0.007320142351090908,0.006539944093674421,0.004734370391815901,0.009029192849993706,0.002561728935688734,0.005788647104054689,0.008689526468515396,0.005630935542285442,0.005994119215756655,0.004535561893135309,0.005563393235206604,0.004413029178977013,0.006121194455772638,0.005530607420951128,0.005691152065992355,0.003171350574120879,0.006315580103546381,0.010098381899297237,0.010853507556021214,0.005025658290833235,0.003784219501540065,0.0059686144813895226,0.0038126646541059017,0.004237781744450331,0.0032051061280071735,0.005414278246462345,0.006417772267013788,0.005562327802181244,0.007820747792720795,0.005317976698279381,0.0055314344353973866,0.0072317845188081264,0.003180844709277153,0.004933956079185009,0.00760634196922183,0.008229783736169338,0.009210548363626003,0.00534909637644887,0.0039298925548791885,0.006495315581560135,0.005536186974495649,0.0056648156605660915,0.006610756739974022,0.006449943408370018,0.007282937876880169,0.004923244006931782,0.005034671165049076,0.0034304987639188766,0.005199466831982136,0.006534031126648188,0.004792971070855856,0.005514086224138737,0.005326737649738789,0.005497907754033804,0.0027060559950768948,0.006399618927389383,0.005713899154216051,0.0059121232479810715,0.005042979959398508,0.010216593742370605,0.005939605180174112,0.0052948761731386185,0.002997205127030611,0.00391181418672204,0.0041872793808579445,0.006367161870002747,0.005838658660650253,0.004916093312203884,0.007609835360199213,0.00631276099011302,0.0068886540830135345,0.006031793076545,0.0053199296817183495,0.006185068283230066,0.0055166855454444885,0.004463206045329571,0.006449762266129255,0.004993736278265715,0.008858692832291126,0.009322884492576122,0.005062851123511791,0.01107486616820097,0.006758334580808878,0.0060377647168934345,0.008370041847229004,0.006071568466722965,0.006505440920591354,0.005710049998015165,0.006017201580107212,0.007020169869065285,0.00549993384629488,0.005125373136252165,0.004484291188418865,0.004983167164027691,0.005833189468830824,0.0051206545904278755,0.006184065714478493,0.003700870554894209,0.00380123988725245,0.005574025679379702,0.0058121406473219395,0.004861047025769949,0.00458412105217576,0.0056773643009364605,0.006927487440407276,0.00505710206925869,0.008893432095646858,0.005871843080967665,0.005327148362994194,0.0031421808525919914,0.005673122592270374,0.005610366817563772,0.004667314235121012,0.006138476077467203,0.00587999215349555,0.005478539504110813,0.005509538110345602,0.00559895858168602,0.007568389177322388,0.0028811634983867407,0.005575823597609997,0.005321046337485313,0.005914491135627031,0.0056059896014630795,0.0030844775028526783,0.002844444243237376,0.007294884417206049,0.005532913841307163,0.0061054471880197525,0.002162650693207979,0.008152728900313377,0.007756501901894808,0.003380369395017624,0.007897069677710533,0.005573042202740908,0.005051110405474901,0.005583870690315962,0.004155049566179514,0.003885912476107478,0.007798715028911829,0.005707233212888241,0.0049835629761219025,0.005391047336161137,0.006105894222855568,0.002271464793011546,0.009318209253251553,0.00280096591450274,0.004569025710225105,0.006047869101166725,0.008796138688921928,0.004667314235121012,0.00649508461356163,0.005208718590438366,0.0049634063616395,0.004097284749150276,0.005098090972751379,0.005844338797032833,0.0033225298393517733,0.005045718979090452,0.003702357178553939,0.004529417958110571,0.0054248119704425335,0.005464257672429085
+0.007379970047622919,0.006228059530258179,0.00676489295437932,0.003913795109838247,0.00634590070694685,0.006756158545613289,0.006047454196959734,0.006429359316825867,0.007808795664459467,0.006160859018564224,0.005128281190991402,0.003363663097843528,0.0064376350492239,0.006051758769899607,0.004994057584553957,0.00926309172064066,0.0035836028400808573,0.005159537307918072,0.007728962227702141,0.005797456484287977,0.006234114058315754,0.005419684574007988,0.0055740950629115105,0.004542849026620388,0.00557817192748189,0.0056203799322247505,0.005275791045278311,0.0039057661779224873,0.006549294572323561,0.008257021196186543,0.008995060808956623,0.0043377443216741085,0.004537769127637148,0.005954527761787176,0.004430778324604034,0.004403357859700918,0.003893103916198015,0.005623338278383017,0.0062902928330004215,0.005223605316132307,0.006727559491991997,0.006003070622682571,0.005644427612423897,0.006783716380596161,0.004024605266749859,0.005305507220327854,0.00728291692212224,0.00815981812775135,0.007525625638663769,0.0054969326592981815,0.004730955697596073,0.008337467908859253,0.005397968925535679,0.005821834318339825,0.005747465416789055,0.006004771217703819,0.006838631816208363,0.006063537206500769,0.005383491516113281,0.003490781644359231,0.005409225821495056,0.006433805450797081,0.0044126082211732864,0.006353687960654497,0.0054132151417434216,0.005651615094393492,0.003200039966031909,0.00696582393720746,0.005842633545398712,0.004950665403157473,0.005137850996106863,0.00940471701323986,0.0061307307332754135,0.005571008659899235,0.004013195633888245,0.00456511415541172,0.005224664229899645,0.0064076692797243595,0.005899731069803238,0.005660483613610268,0.0077506680972874165,0.006299780216068029,0.006634668447077274,0.005849766079336405,0.005861189682036638,0.0062850709073245525,0.005734075792133808,0.004923386964946985,0.005820924416184425,0.005747179500758648,0.0071828304789960384,0.007389461155980825,0.005142451263964176,0.010689135640859604,0.006302048917859793,0.005940543953329325,0.009082152508199215,0.0061102663166821,0.006027135532349348,0.006097977049648762,0.005920873023569584,0.0057383570820093155,0.00475298473611474,0.005053896922618151,0.004947706591337919,0.005396274849772453,0.0059332093223929405,0.005174651741981506,0.006452875677496195,0.004334618337452412,0.004477663431316614,0.005250696092844009,0.005628630053251982,0.004947517532855272,0.005126680713146925,0.005753704812377691,0.006619351916015148,0.005321078468114138,0.0074989390559494495,0.005552495829761028,0.0051410808227956295,0.0032469474244862795,0.00524525810033083,0.005829556845128536,0.004888644441962242,0.006017968989908695,0.006276104133576155,0.004894234240055084,0.006004014052450657,0.005814865231513977,0.006293834652751684,0.0035548596642911434,0.0056899841874837875,0.007830138318240643,0.006217665504664183,0.00573987141251564,0.004161664750427008,0.0032750109676271677,0.007058541290462017,0.0050935642793774605,0.00593367125838995,0.002667701570317149,0.006046351511031389,0.0059146578423678875,0.004321766551584005,0.006881363224238157,0.005751571152359247,0.0053807939402759075,0.005725769326090813,0.004581857938319445,0.0049039931036531925,0.0067899273708462715,0.005804894492030144,0.004963329061865807,0.004924154840409756,0.006858801934868097,0.0026166250463575125,0.007508025038987398,0.0037141803186386824,0.004398804157972336,0.005948397796601057,0.007366355042904615,0.005635990761220455,0.006087171845138073,0.005025339312851429,0.00528285326436162,0.004707694984972477,0.005204936023801565,0.005450667813420296,0.0037519640754908323,0.00575102586299181,0.0034909711685031652,0.004959181882441044,0.004954088944941759,0.006258818320930004
+0.007947397418320179,0.006132920738309622,0.007094678469002247,0.003993775229901075,0.006276597734540701,0.006881888955831528,0.0058885798789560795,0.006468077190220356,0.00790239218622446,0.006370721384882927,0.005043193697929382,0.0032283056061714888,0.00645118672400713,0.006075944285839796,0.0046991994604468346,0.009782832115888596,0.003514935029670596,0.005313271656632423,0.007850822992622852,0.0055591147392988205,0.006110604852437973,0.005408484023064375,0.005594214424490929,0.004438138101249933,0.005565028637647629,0.005477610044181347,0.005333664361387491,0.0037507941015064716,0.006477667018771172,0.008597355335950851,0.010243366472423077,0.0045894416980445385,0.004327043425291777,0.005770625080913305,0.004439275711774826,0.004171798005700111,0.003601300297304988,0.005394421052187681,0.0061675747856497765,0.00520152086392045,0.006989224813878536,0.006032812874764204,0.005410338286310434,0.006708968430757523,0.003839433891698718,0.005332446191459894,0.007171778939664364,0.008757893927395344,0.008102735504508018,0.0052347793243825436,0.004793725907802582,0.008358694612979889,0.005294101312756538,0.005589567590504885,0.005731887184083462,0.006168629042804241,0.006769190542399883,0.005838888697326183,0.005578938405960798,0.0035481476224958897,0.005194850265979767,0.006421506404876709,0.004732660483568907,0.006541269365698099,0.005172175355255604,0.005417030770331621,0.003239650512114167,0.007088152226060629,0.005612985230982304,0.005082847084850073,0.004907228518277407,0.010011020116508007,0.006011130753904581,0.005356753710657358,0.003968032076954842,0.00459553487598896,0.005002094432711601,0.006401706021279097,0.0056782495230436325,0.005620983894914389,0.007519509643316269,0.0062830764800310135,0.006531629711389542,0.0057870447635650635,0.005917722824960947,0.006073261611163616,0.005584483966231346,0.004790329374372959,0.0057927826419472694,0.0055088866502046585,0.007530443836003542,0.008352532051503658,0.004923516418784857,0.011240961030125618,0.006864708848297596,0.005898101255297661,0.009181590750813484,0.005947425030171871,0.006557059474289417,0.005953862331807613,0.005743497051298618,0.006209094543009996,0.004813523031771183,0.004946052562445402,0.00493314815685153,0.005265136249363422,0.005717037711292505,0.005022305529564619,0.006650673691183329,0.004458730109035969,0.004145588725805283,0.005044752731919289,0.0056801848113536835,0.004696497693657875,0.00522717135027051,0.00568814855068922,0.006484010722488165,0.005296213552355766,0.007615804206579924,0.005400629714131355,0.00502662593498826,0.003117148531600833,0.0051289875991642475,0.005608328618109226,0.004687165375798941,0.005907287355512381,0.006246779579669237,0.005102090071886778,0.005878440570086241,0.005587763153016567,0.006626051384955645,0.0034964007791131735,0.005477007012814283,0.007573890034109354,0.006013763602823019,0.005498477257788181,0.004102500155568123,0.0031216463539749384,0.007273751311004162,0.0052986182272434235,0.005775094963610172,0.0023868477437645197,0.006711897440254688,0.006460488308221102,0.004112990573048592,0.00702671566978097,0.005501002538949251,0.0051091755740344524,0.005515324417501688,0.004769627936184406,0.004829644225537777,0.00686934357509017,0.005700699985027313,0.004820722620934248,0.00545390322804451,0.007228022441267967,0.002426860621199012,0.008313516154885292,0.003425273112952709,0.004376445896923542,0.00580016802996397,0.007452431600540876,0.005345596931874752,0.006265448871999979,0.004829662386327982,0.005093227606266737,0.004727828782051802,0.005067510064691305,0.005441263783723116,0.0038559618405997753,0.005580192431807518,0.003302918979898095,0.004947558511048555,0.004815334919840097,0.006167559884488583
+0.008315918035805225,0.006118596997112036,0.007094407454133034,0.003719891654327512,0.006358605809509754,0.006904929410666227,0.005950381048023701,0.006658162456005812,0.008171403780579567,0.006383966188877821,0.00500356312841177,0.0028755676466971636,0.00669168820604682,0.006209850776940584,0.004607845097780228,0.010129820555448532,0.0031075843144208193,0.005281251855194569,0.008225181140005589,0.0055636256001889706,0.006129014305770397,0.005209055729210377,0.005570505280047655,0.004300663713365793,0.005654638167470694,0.005452246870845556,0.005335099995136261,0.003475215518847108,0.006545757409185171,0.009164435788989067,0.010881668888032436,0.0045470427721738815,0.004049953073263168,0.0057975915260612965,0.004164517391473055,0.0040006437338888645,0.0033292595762759447,0.005371381528675556,0.006297081708908081,0.005230167414993048,0.0072039468213915825,0.005899311043322086,0.0054017468355596066,0.006910312455147505,0.0035355892032384872,0.005212495569139719,0.007404711563140154,0.009008186869323254,0.00867531355470419,0.005208361893892288,0.004522521048784256,0.008395260199904442,0.005301469471305609,0.005598355084657669,0.005890329368412495,0.006272522266954184,0.006979621481150389,0.005677808076143265,0.005447625648230314,0.003299188334494829,0.005135589279234409,0.006520367227494717,0.004620213992893696,0.006447313819080591,0.00514769135043025,0.005409686826169491,0.002909392351284623,0.007136729080229998,0.005630760919302702,0.005149243399500847,0.004853644873946905,0.010699779726564884,0.006025627255439758,0.0052963681519031525,0.003608008613809943,0.004291371908038855,0.004769688472151756,0.006449542939662933,0.005710985977202654,0.005461506545543671,0.007737651467323303,0.006361689884215593,0.006739017553627491,0.005827988963574171,0.00581184308975935,0.006125914864242077,0.005549510475248098,0.004648243077099323,0.005917842965573072,0.005391282960772514,0.007935634814202785,0.008725875988602638,0.004846053197979927,0.012044099159538746,0.0069613405503332615,0.005919675808399916,0.009560920298099518,0.005973713472485542,0.00654944870620966,0.005933814216405153,0.0057961465790867805,0.006451952271163464,0.0048568216152489185,0.004923188593238592,0.004796868190169334,0.005186188966035843,0.005747757852077484,0.004980177152901888,0.006714992690831423,0.00407653022557497,0.003922068513929844,0.005052319727838039,0.005671958439052105,0.0046049319207668304,0.005067089572548866,0.005703592672944069,0.006616019643843174,0.005205379333347082,0.007955183275043964,0.005423329770565033,0.0050066676922142506,0.002910964423790574,0.005147080402821302,0.005609340965747833,0.004560757894068956,0.005945044104009867,0.00624550087377429,0.005002208054065704,0.005844132509082556,0.0055863261222839355,0.006875541992485523,0.003170156618580222,0.005477311089634895,0.007229086942970753,0.005973418243229389,0.005500198807567358,0.0037396643310785294,0.002845935057848692,0.007479499559849501,0.005257819779217243,0.005841474048793316,0.002114452887326479,0.00710092019289732,0.006658470258116722,0.003834725124761462,0.0073220739141106606,0.005494270008057356,0.005037997383624315,0.00550425611436367,0.004580224398523569,0.004527939949184656,0.0071683782152831554,0.005705095361918211,0.004764636512845755,0.005254233721643686,0.007098461966961622,0.0021468554623425007,0.008818138390779495,0.0031099056359380484,0.004251285921782255,0.005854824557900429,0.007890436798334122,0.005163784138858318,0.006344703957438469,0.004787089303135872,0.004989144392311573,0.004513886757194996,0.005001171492040157,0.0055204760283231735,0.0035679456777870655,0.005514446180313826,0.003117502434179187,0.0047403001226484776,0.004819436464458704,0.006123930215835571
+0.00833334494382143,0.006123319733887911,0.0073639871552586555,0.0038975777570158243,0.006295297760516405,0.007022768259048462,0.005816782359033823,0.006427493412047625,0.008194003254175186,0.00647938484326005,0.004886059556156397,0.002968553686514497,0.006514093838632107,0.0061506968922913074,0.004486859310418367,0.010683251544833183,0.003301247488707304,0.005121956579387188,0.008067820221185684,0.005460608284920454,0.006164097227156162,0.005437036510556936,0.005587921477854252,0.004238241817802191,0.005540161859244108,0.005408962722867727,0.005185102112591267,0.003585945116356015,0.006524692289531231,0.009023034945130348,0.011164792813360691,0.004528434481471777,0.00406010402366519,0.0056971893645823,0.004362940788269043,0.0039043291471898556,0.003337531816214323,0.005292796529829502,0.006216502748429775,0.0052621448412537575,0.007072955835610628,0.006186972837895155,0.0052928864024579525,0.006782483775168657,0.0035651791840791702,0.005292094312608242,0.0072470554150640965,0.009227709844708443,0.008562314324080944,0.005089621990919113,0.004766083788126707,0.008731762878596783,0.005157767795026302,0.0055025615729391575,0.0056501729413867,0.006209671963006258,0.0068413191474974155,0.0058530233800411224,0.005633298307657242,0.0033163989428430796,0.005088345613330603,0.006444394122809172,0.004721039906144142,0.0065707555040717125,0.0050179059617221355,0.005285769235342741,0.0030479077249765396,0.007257856894284487,0.005532324779778719,0.004967537242919207,0.004740155301988125,0.010907516814768314,0.00599616440013051,0.005209456663578749,0.0038005958776921034,0.004429218824952841,0.004825068637728691,0.006520892959088087,0.005603400524705648,0.005576587747782469,0.0076652877032756805,0.006368487142026424,0.006598471198230982,0.005783384665846825,0.005906207952648401,0.006024603731930256,0.005555202718824148,0.004637035541236401,0.005750391166657209,0.005388333927839994,0.007700876798480749,0.00924596469849348,0.004755315370857716,0.012190778739750385,0.007047309540212154,0.005884887650609016,0.009914396330714226,0.00591881200671196,0.00680425064638257,0.005889332853257656,0.005696283653378487,0.006413128226995468,0.004709470551460981,0.0048256730660796165,0.004834419582039118,0.005205187015235424,0.00564695755019784,0.004905601032078266,0.006835602223873138,0.004390677437186241,0.0038445477839559317,0.004865623079240322,0.0056753442622721195,0.004473128356039524,0.0052279033698141575,0.005707900505512953,0.006481357850134373,0.005218991544097662,0.007829995825886726,0.0052696275524795055,0.004930762108415365,0.0027790057938545942,0.004970204550772905,0.005518817808479071,0.004515154752880335,0.005882450379431248,0.006219600327312946,0.004968124441802502,0.00587759492918849,0.005496066529303789,0.006831645965576172,0.0033013070933520794,0.005379622336477041,0.007739975582808256,0.0059277075342834,0.005388753022998571,0.003921160940080881,0.0028006199281662703,0.00753779849037528,0.005316015332937241,0.005702816881239414,0.0020272722467780113,0.0070673031732439995,0.006554880645126104,0.003921169321984053,0.007230645976960659,0.0053827497176826,0.004947008099406958,0.005412387195974588,0.004759644623845816,0.004726302344352007,0.006988022476434708,0.005605670623481274,0.004647537600249052,0.0054490454494953156,0.007437778636813164,0.002108314074575901,0.00900228414684534,0.0030982764437794685,0.0041904509998857975,0.00575270177796483,0.007685413584113121,0.005154583137482405,0.006441773381084204,0.004605633206665516,0.005004318431019783,0.00465482147410512,0.004940762184560299,0.00543071748688817,0.0037551703862845898,0.005534875672310591,0.002978384029120207,0.004882702138274908,0.004637605510652065,0.006250572390854359
+Questions:
+Amazed how the price more then doubled in a couple of days!!! Rip off. But seems to be a hit toy for Xmas. Bought at Walmart for 19.97-is it that bad?
+what age group
+can this be used as a tracing table too?
+how many crayons come with this?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+Crayola has the sort of elementary nostalgic branding that recalls first boxes of crayons.
+It is a successful brand that spans generations, and that typically be counted on to both encourage and entertain.
+So why they would slap the Crayola brand on this dud, I can't even speculate.
+The Crayola Light up Dry Erase set, is a dry erase board that is backlit.
+It also includes eight crayons.
+Here's some of the issues my eight year old and I identified with this toy:-The dry erase crayons are hard to erase.
+It takes some effort!
+Even once done, some traces remain permanently.
+Although it preserves your drawing longer, it defeats the purpose of a draw erase board.-Complicated.
+My kid is fairly intuitive and builds Lego toys and models and assembles her own toys most often.
+Yet she needs assistance setting up this toy.
+There are a lot of pieces involved in the set up and you have to align the thing just so to switch backgrounds (from black to white).-4 AA batteries, required, not included.
+Batteries should be included on all toys period.
+No problem replacing, big problem obtaining 4 batteries to even to begin to use the toy.-Inferior quality.
+The frame is cheap flimsy plastic and the white board itself is cardboard.-The sizing is off.
+The crayons are jumbo and the screen is smaller than a sheet of paper, so you can't really do much more than doodle.
+I love the new Dry Erase light up boards out now.
+This one also has the option to draw on regular paper, black paper, or a plastic screen that then lights up.You use crayons on this one, rather than the GEL FX markers you see on the more expensive types.
+I prefer the Gel Pens myself.
+I found this to be cheaply made and I am not sure it would last that long with kids.
+There is also a lot of different parts to get lost.It was totally easy to use though, and most little kids would enjoy this.
+The Crayoloa Dry Erase Light Up Board seemed like a big hit when I told my 8 year old son about it.
+As soon as the item came he was quick to open the package and was eager for me to help him set it up.
+Unfortunately that is when the excitement faded.
+As we put the board together it turned out to be very cheaply made with construction that does not look like it will hold up.
+Once assembled the final result is a flimsy looking product that was difficult to use.
+The pictures do look cool once lit up but honestly it was not enough to hold my son's attention for more than 15 minutes.
+Add to this the difficult clean up and my my son did not want to play with the light up board again.
+This could have been a great product but its poor execution made this below average.
+It's hard to go wrong with Crayola.
+Our kids have loved these kinds of portable art boards for years and though they've outgrown traditional coloring books and crayons, this Light-Up Board gives them a new twist of their artistic talents.
+There are two sides to use:  white or black, then you can turn on the light and the board appears iridescent with an almost 3-D look ~~ so cool in the dark!!
+The dry erase board allows your child to get as creative as they want and then easily erase to start all over again.
+A soft black cloth does the trick.
+You get eight crayons including all the primary colors plus brown and white and a nice little sharpener to keep those points.
+You'll need three AA batteries to power the light.
+My kids like to play hangman on longer car trips and this board comes in handy, giving them the freedom to think up as many games as they like and just keep erasing between creations.
+"I thought this would be a good replacement for the magnadoodle that my 7 year old has outgrown.
+He always loved that and I thought he would love to draw on this now, but it didn't really work as planned.
+The board comes out of the holder so you can draw on the white or black side, it doesn't fit in the ""frame"" really well, it's wobbly.
+We also tried drawing the the plexiglass that's in the frame and that didn't work too good either.
+It was hard for my son to erase too, he asked if it was meant for older kids since he couldn't get the crayon off.
+He hasn't touched this since the first time he tried it, so I think it's a dud."
+There's just something magical about being able to draw something that lights up or glows.
+My 6 year-old twin girls love this and use it all the time.They're always drawing, and we wind up recycling heaps of paper.
+This is where this erasable board shines.
+Just wipe off and start over.
+The dry-erase crayons are mess free - hooray!You can flip the inner board to color over black or white.
+Fir the light-up effect, I find the black board is the best.
+I like having a clean house.
+Cluttered house - that's okay...but having a toy in the house that would smear on skin, carpet, and is a pain to clean is really not for me - particularly if the toy doesn't work all that great.
+Crayola Dry Erase Light Up Board is great in concept.
+Draw on board, light it up, everyone's happy.
+Unfortunately, this is not like the picture depicts.
+The board light up feature isn't all that bright.
+In a darkened room, the lighting was dim...only okay.
+The crayons themselves are a mess.
+They smudge on everything from skin, the carpet, to clothes...this stuff is annoying as heck.
+To add insult to injury, this stuff is a pain to clean off - particularly from the board.
+While my kids had a good time using the board, I would rather give them a dry erase board and a bunch of markers - while that too would get on them a bit, at least it's dusty and not waxy to get off and the board clean up would be much easier.This was a toy that was great in concept, but not quite in execution.
+I would pass.
+Not recommended.
+The concept is great, a dry erase surface to create art with crayons so it doesn't make all the mess of a marker board.
+The board is white on one side and black on the other, the crayons write well on the board itself and cleans up easily with the erasing cloth.The board goes into a frame where you draw on a clear surface on top of the board and it lights up with color change effects and looks pretty cool.
+Light effects look much better in the dark.
+This fun stuff is not all fun though, the board does not go into the frame all that easily and it is not secured in any way once you do get it lined up properly.
+The instructions tell you to color directly on the clear surface to use the light effects, the problem is that it's really tough to get the crayon off with the cloth when you're done.You think of a dry erase surface as wiping easily, this one you have to scrub and don't plan on young kids being able to wipe it off themselves.
+The idea I really liked but the end result was overall disappointing.
+First, you must know, my kids are artists.
+They like high end art supplies.
+They draw, color, sculpt, and create all the time.
+This is just added novelty to their already artful day.Now, the batteries (3 AA, not included) are almost impossible to put in.
+It was a great circus act to see my husband try to get them all in their proper place and get the cover back on before they sprung in different directions.
+It took him an embarrassing amount of tries to get them in properly.
+They just want to pop straight back out.The black/white board and the top clear plastic board slide in and out of the frame.Crayola Widescreen Light Designerdoes not do that, it has a fixed board, which is preferred.
+Yes, the slide out boards give you the option of white or black background, but the white is extremely difficult to see.This board comes with dry erase crayons.
+If you've ever worked with those, you know they leave a waxy residue on the board.
+You'll need to clean that off after their daily use.
+Not between every drawing, but before they put it away for the day.
+I recommend washing it in dish soap- it cuts the waxy build up quickly and easily.
+These crayons are also ridiculously messy.
+They write on skin.
+They smear off onto skin.
+They are difficult to remove from the cloth of your tan sofa.
+"First of all, the title of this product is misleading.
+It uses crayons.
+It's not dry erase in the sense most people think of, with markers.Where should I start with things I disliked most about this product?
+The plastic frame is so cheaply made; it feels like it will break or fall apart if it's dropped or the screen pressed on too hard.
+and that's just with me using it, not a child who's moderately hard on toys.
+Really, it feels like $0.10 worth of plastic is all Crayola used.
+Terrible construction.
+If it wasn't a Vine product, I'd send it back.The crayons aren't that easy to erase.
+After drawing on it a few times, my 7-year-old son gave up because erasing it took too much effort, and I have to agree.
+After using the screen heavily, the crayons leave a film behind, which makes it look cruddy -- especially in its glow-mode.
+Since I assume the crayons are specially designed for this product, should you lose them, the toy is useless.The backlit ""glow"" leaves something to be desired.
+It uses two small lights on the bottom left and right of the frame.
+The glow effect is decent, except for dark a triangular void between the lights at the bottom.
+It really needed a third light in the middle.
+The lights have three modes: normal, slow fade, and flashing.
+In my opinion, it's too little to make up for its lack of quality.I cannot recommend this toy.
+My daughter loves drawing on hers.
+She has always loved drawing, but she especially enjoys the light the causes the special effects with her drawings.
+It also comes with a white board which you can also flip around and use with the light.
+So you can draw on the white board, and on the other side with the plastic with the black or white background, with the light.
+It comes with crayons to draw with, and a cloth to help wipe clean the board.
+It is very clean the board.
+My daughter and I are very happy with it.
+It is very easy for her to turn on and off the light.
+I've noticed that my six-year-old twin girls love to play with do-it-yourself craft toys that are made in vibrant colors.
+So the glow-in-the-dark playdoh and crayola markers are big favorites--but the problem is messy hands and used-up paper that has to be tossed.
+The beauty of this dry erase board is that it can be used over and over and over and over again.
+A great toy that keeps my six-year-olds busy for hours.
+I didn't realize that this comes with special crayons so I was worried when I opened the box and realized I'd have to try to find them.
+I found them right away at Michaels.
+Being able to buy replacements is a huge deal and, yes, I know you can order them online but that isn't nearly as convenient.
+Who wants to pay for shipping and handling every time some new crayons need to be bought?
+Not I!My granddaughter loved this and started drawing right away.
+There are three light effects--regular, fade-in-and-out, and flash.
+Of course, you have to find a dark corner or room but that didn't slow her down much.
+She drew several things before wanting to move onto something else.
+I can see where this would be great for practicing writing and such.
+Given that it is a dry erase board, however, the images are impermanent so if she draws something she particularly loves under the black light, that's pretty much that.
+Fortunately, she just kept erasing and drawing something new.
+This is a pretty cool toy, but it could be better.
+My first issue is that it's not very durable.
+It bends quite a bit as you draw on it, which leads you to believe it's about to break.
+For the record, my five year old has not broken it, but it feels fragile.Secondly, it does not wipe clean very well with the included cloth.
+You really have to put some elbow into it to get it wiped off, which requires more effort than my daughter is typically capable of exerting.With that said, though, it really is pretty cool to use it in the dark with its light feature.
+The crayons look good when used in the dark with the light on the board illuminating them, and it's an unusual experience for a child.Is this a fun item?
+Yes, it is, but it's far from perfect, and the packaging leads you to believe its better than it actually is.
+The crayons are the best part about this toy - they are durable, bright colors.
+The concept of the Dry Erase Light-Up board in an innovative one, but the execution isn't so great.
+The product is made from flimsy plastic.
+My boys enjoyed drawing on it a couple of times and then watching it glow in the dark, but the novelty quickly faded when it took quite a bit of work to get the crayon off of the plastic in order to draw something new  - it takes some significant scrubbing to clean it and start fresh (not something little kids can do by themselves, it requires an adult to do the cleaning and scrubbing).
+It's substantially overpriced!
+Overall, it still needs some work.
+"My daughter loves her larger dry erase board, and I ended up getting her this for entertainment for when she's in the car.
+Unfortunately, I missed the writing on the bottom that mentioned 'crayons'... this is not a true 'dry erase' board which is used with markers... this is simply crayons on plastic.First, out of the box, the size is very disappointing.
+The 'product dimensions' listed above is for the entire box, not the toy.
+The board itself is is only 11"" x 9"", with the actual drawing space measuring 9"" x 7""... smaller then a standard piece of paper.
+The drawing area is also recessed 3/4"", making it difficult to draw comfortably.
+The board includes a piece of clear plexiglass that serves as the main drawing surface, and a reversible board with a black side and a white side that can be drawn on as well.
+Both are removable, and even when inserted correctly, moves quite a bit, causing additional issues when drawing on.Drawing on the colored reversible board, then inserting it into the frame behind the plexiglass and drawing on the plexiglass is suppose to give a dimensional effect, but it really doesn't... even the lighting, with its three modes of full-on, blinking, and fading on/off doesn't provide the lighted 'neon' effect that the toy implies.The colors, when the light is on, look way too similar on the black background.
+The light tends to make everything look blueish and the drawings look no where near as vivid as shown on the box.Lastly, erasing the board takes some scrubbing... my daughter can't do it very well herself, so my it must be done by me or my wife.Overall, this toy fails on just about every level... nothing works as I expected it to.
+My daughter still enjoys using it from time to time, which is why I went with 2-stars rather then 1, but it's nothing like what I expected and is obscenely overpriced."
+My daughter couldn't wait to open this and put batteries in it.
+So we did, and she really liked it, at first.
+But then it got old.
+It's really nothing THAT special.
+Yes, there's a light so it 'glows' but all the crayon color nearly looks the same!
+And it is hard to 'erase' so she brings it to me to clean.
+It's fun, and she does like it but it really isn't all that special; I think she and I would both rather her draw on plain white paper!I'm giving it 4 stars, though, because she really did like it, seemed pretty durable and IS fun... just not THAT much fun.
+She played with it nonstop and for 4 days but now it just sits in her toy pile.
+Honestly, I think this is a fun creative outlet for older kids who enjoy drawing and want to see their pictures light up.
+They are old enough to watch for pushing too hard on the surface.I've got a 3 and 6 year old, and the surface snaps out OFTEN, causing more frustration than creativity.Also, I've noticed that dry erase markers don't come off completely from plastic surfaces (we have a dry erase calender for school information in our entry and I love it, but had to replace the plastic poster frame I had with one that had glass instead because of the same reason).
+I tried washing it with water which made it worse, and I'm afraid to try rubbing alcohol or Windex in case it hurts the plastic, so we live with the light marks from previous creative sessions.The light effects on the kids drawings are fun to see, but the excitement from it only lasts moments, then it gets put aside (the lights can flash, fade in or stay on).For the frustration and how hard it is to clean, I give it low marks.
+For the creative idea and allowing kids to have fun, I score it higher, so in all, I settle on a 3 star.Note - the board requires 4 AA batteries, and does NOT come with them.
+You will also need a small screw driver to open the battery slots.
+A whole new take on a dry erase board, updates it and makes it cool again!
+We only had one of these, and my daughters passsed it back and forth on the entire 4 hour car trip.
+The colors are wonderful, and the battery lasts a really long time.
+It's not easy entertaining a 10 & 7 yr old in this age of electronics, but this certainly did, and had their imaginations going!
+This Dry Erase Light-Up board is a lot of fun.
+The dry erase crayons work really well.
+They cover the area being colored completely.
+Then, when the picture is complete, it can be lit up.
+There are buttons to make the light flash, fade in, or remain solid.
+It looks really great, like a professional work of art.
+The board has a white side and a black side and drawings look great on either.
+The base is an inch or so thick, with two feet, so the artwork will stand up for display.The cloth takes off the dry erase crayon from the board quite well.
+Sometimes an adult needs to help with some extra elbow grease, but for the most part my kids can clean it completely on their own.This has been a great toy for us.
+My kids seem to love it and it certainly keeps them occupied.
+The board is about 8  by 11, so I've taken to scanning the pictures my kids want to keep and storing them on the computer instead of having stacks of paper drawings around.
+If they really want to hang one on the wall, I'll just print out my scan.
+I really am pleased with this Crayola art toy.

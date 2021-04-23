@@ -1,0 +1,218 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+It's not great and that's disappointing because with a little effort it could be much better.
+The frame might be fun to draw on once in a while -- but shy not get a small whiteboard, which is much better suited for the purpose?
+Three stars &#8230; as is, the game is &#8220;ok&#8221;.
+which is weird because a pack of three decent ones can be found at the Dollar Stores.
+When I got Pictionary Frame Game, the kids were initially quite excited.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.00253219623118639,0.00616097915917635,0.0030435381922870874,0.0038452690932899714,0.0020996166858822107,0.0027698837220668793,0.002332765841856599,0.006825603079050779,0.0046878112480044365,0.006554147694259882,0.005848593544214964,0.006574784871190786,0.003206751774996519,0.0024310846347361803,0.0028450903482735157,0.0021799588575959206,0.004745202139019966,0.0066762506030499935,0.003496145596727729,0.004506484139710665,0.006468174513429403,0.006516868714243174,0.006516868714243174,0.006290982011705637,0.004894657991826534,0.0031941556371748447,0.004490114748477936,0.008327666670084,0.003307151375338435,0.003653476480394602,0.0057628643698990345,0.006641407497227192,0.005178345367312431,0.004475270863622427,0.0056476350873708725,0.0038514728657901287,0.005254342220723629,0.003482830012217164,0.003534439019858837,0.007171076722443104,0.007761371321976185,0.004149231594055891,0.006663109641522169,0.005705136340111494,0.0056319632567465305,0.005841496866196394,0.006098026875406504,0.0045974948443472385,0.0022806928027421236,0.004683906212449074,0.006427572574466467,0.0038841392379254103,0.0034198788926005363,0.007158143445849419,0.005325350910425186,0.0031690499745309353,0.003256549360230565,0.005486221052706242,0.005220198072493076,0.0040799290873110294,0.006583064794540405,0.0038115561474114656,0.0025028304662555456,0.004147840663790703,0.006133136805146933,0.0047678411938250065,0.004614525008946657,0.003261365694925189,0.0054793222807347775,0.004258336033672094,0.00608443096280098,0.005390990991145372,0.007503935135900974,0.0051188054494559765,0.00549272820353508,0.0035856119357049465,0.005744447000324726,0.006272740196436644,0.003705813782289624,0.006574426311999559,0.0042718579061329365,0.006591750308871269,0.006099951919168234,0.004529961384832859,0.005258367862552404,0.00520231481641531,0.00532697094604373,0.0028113038279116154,0.0033818583469837904,0.006111149676144123,0.004170450381934643,0.0039725047536194324,0.005255772732198238,0.002464285120368004,0.0035396318417042494,0.005719085223972797,0.006191909778863192,0.006372933741658926,0.001997653627768159,0.0034854940604418516,0.004377678502351046,0.006699458695948124,0.0066313487477600574,0.00677627045661211,0.007430343888700008,0.002577994018793106,0.004436706658452749,0.004878260660916567,0.004617389291524887,0.0057993726804852486,0.004168468061834574,0.0039747413247823715,0.002710021333768964,0.002720320364460349,0.0064516752026975155,0.004741420969367027,0.006493620108813047,0.0050462172366678715,0.0030464716255664825,0.006625518202781677,0.006491273641586304,0.006584308575838804,0.006062277127057314,0.0020378811750561,0.004340858664363623,0.0027674995362758636,0.004183333832770586,0.005834703799337149,0.006358218379318714,0.002219485817477107,0.0032951575703918934,0.006514744367450476,0.0037419202271848917,0.004604863468557596,0.006262150127440691,0.005651820916682482,0.005160961300134659,0.005287800449877977,0.0062979403883218765,0.004869334865361452,0.00402055773884058,0.0028569099958986044,0.00658017722889781,0.005615465342998505,0.0021626618690788746,0.004606030881404877,0.003723177593201399,0.005666863638907671,0.006702455226331949,0.00442129373550415,0.003134810831397772,0.0025121064390987158,0.003990732133388519,0.002786901779472828,0.005356977228075266,0.006063649896532297,0.006260853260755539,0.003974259831011295,0.006672032177448273,0.00607030326500535,0.0039059417322278023,0.005865002516657114,0.006122244521975517,0.007262007798999548,0.003689006669446826,0.007028407417237759,0.003075540531426668,0.0038847054820507765,0.00666919257491827,0.00478143198415637,0.0070349350571632385,0.004450575914233923,0.0062075718306005,0.0056440094485878944,0.006016934290528297,0.0027759813237935305,0.005656684748828411,0.007398561108857393,0.005778444465249777,0.0051894900389015675,0.006364424712955952,0.007040858268737793,0.0071194954216480255,0.004436444025486708,0.006659554783254862,0.006293199025094509,0.006617011968046427,0.004817292094230652,0.0050071063451468945,0.0055198343470692635,0.0021415692754089832,0.0037168136332184076,0.003130132332444191,0.0060676345601677895,0.0066703385673463345,0.00400849524885416,0.005946958903223276,0.004392529372125864,0.004002524074167013,0.005203000735491514,0.004196750000119209,0.007612926885485649
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+This game is similar to the original Pictionary where you draw words or actions while your team-mates guess, but there are some marked differences:-There are 3 sets of cards for 3 different types of play - Action (you act it out as well as draw), Mirror Mirror (one person mirrors another by drawing on the back of the board), and Classic.-You draw with a marker on a clear plastic stand.
+In my opinion, this makes it both difficult to draw and difficult to see.
+The box shows it much easier to see than it really is.-The reason they have the plastic stand is for the &#34;Mirror Mirror&#34; cards where one person draws with their finger on one side while another player mimics his movements on the other side, drawing with the marker.-The instructions say 8+ but 8 year olds may have a hard time knowing what some of the words/actions mean.
+With a 7 yr old who adores games, I thought this would be a great fit!We have had a blast with the classic pictionary, using the cards and screen, and the mirror game.
+We made up our own version of drawing and guessing- and also had a blast playing with some of her friends.I love how everything fits into the base, but again with having a 7 yr old, I wish it had some time of case for the screen as well, as we have all our games on a book shelf, and it's already hit the ground multiple times, while reaching for other box games.
+It also did not come with an eraser cloth, but we have them from other wipe off games, so we just pull one when using this game.
+I also have a wipe off board cleaner that I ended up using on it after a long night of playing with the board and high use of the marker.Not sure if there are additional card sets coming out, but it's not to difficult to come up with you're own.We've also used this for homework- using it like traditional pictionary to test understanding of vocabulary.My review is really 4.5, if it had cloth and a carrying case/box, it's be a 5!
+The game itself is fun.
+My wife and I played it with my 6 year old son.
+The idea was for one person to draw and for two others to guess within the time.
+My wife and I used clue cards, my son was allowed to draw hwatever he wanted.
+Everyone had a lot of fun for a little over hour.I do not like that it does not come with a storage box.
+The screen sits in the base, but not very securely.
+Because the screen is see-through and the marker is dark blue, if you are playing on a dark cilored table, or in a dimly lit room, it is hard to see the drawing.
+Clue cards and the marker are stored in the base, so the cards are very small and thin - I doubt the cards will last for a long time, particularly if kids are playing the game.
+Okay Mattel, where is the box?
+Once you finally pry this game out of the plastic shell it comes in (not fun), there is no box to store it in.
+Very annoying.
+I took this to my special needs center for the kids to play, but had to bring a plastic bin to store in when we were done.The GamesThere are three games you can play using the included cards.Just DrawYou draw with the dry erase board (which is transparent) and the team members guess what you're drawing.
+Classic Pictionary.MirroringOnce person uses a marker to trace the other person's finger.
+Sound confusing?
+It's not, but it can be weird to get used to.
+And takes more time.
+Most of my kiddos did not like this part of the game, but my son did.
+It's more a personal preference.Act OutDraw your clue and then act it out.
+This was fun for my kids as they really liked the added movement to get their energy out.Ages is 8 plus - I played with 12 year olds and they all got the cards no problem.Teams - 2Playtime - 25 minutesThe game does not come with an eraser, so we used paper towels.
+The dry erase marker was hard to get off in between players.Overall, it's a good game.
+It's not great and that's disappointing because with a little effort it could be much better.
+I was really excited about this product, as Pictionary is one of my all-time favorite party games.
+This was a disappointment on so many levels.First, there is no storage box.
+It comes with a frame, a frame stand, a timer, and a marker.
+And a dice, which got lost in no time.
+The &#34;frame&#34; itself is about the size of a sheet of paper (8&#34; by 10&#34;), and it is clear, so you can see through it.
+The small size makes it ideal for  travel or a backpack, but the fact that it is clear makes it difficult to see when holding it on your lap.
+And forget about using it on the black coffee table.
+It works much better when used flat, on a light background surface.
+I like that you can use the frame as a window, so the see-through feature may be useful one at a time.
+It's pretty much impossible for two people to write on opposite sides of  the board at the same time.
+Honestly it is pretty much for anyone to write on the board when it is in the stand, which keeps the board vertical.We like to use large dry-erase boards when we pay Pictionary.
+I would recommend that rather than this game.
+The frame might be fun to draw on once in a while -- but shy not get a small whiteboard, which is much better suited for the purpose?
+I'm a long time fan of Pictionary.
+This was a favorite game to play with other 20-something friends back in the day.
+Now I'm a mom and I wanted to get my daughter hooked on this game too.
+The regular version has words that are way too adult.
+The &#34;junior&#34; version we had was a board game with words that were too simple.
+I'm glad we found &#34;Frame Game&#34; - the words are JUST RIGHT.
+Also, each card has 5 words so we won't be running out any time soon.PROS: plentiful selection of great family-friendly words to draw.
+Three &#34;modes&#34; - classic, mirror and &#34;act&#34; (like charades).
+Well designed carrying case - everything fits.CONS: frame could stand to be bigger.
+It does not wipe off easily.
+There is one marker and it won't last forever (easy enough to replace with dry erase markers).
+The Pictionary Frame Game includes the same 'ol Pictionary fun of drawing items or phrases and having teammates guess them.
+The new twist is the drawing screen that allows for two more game options.
+In addition to classic Pictionary, the Action game allows drawers to hold up the screen and improvise some pantomime.
+The Mirror Mirror option has the drawer using a finger and the teammate using the marker to trace the picture.The game always leads to fun despite having some flaws.
+The timer goes by in a blink of an eye--30 seconds.
+For adults, this is adequate, but for children, I would forget the timer and give them a few minutes to think and draw.
+The range of things to draw runs the gamut.
+Players roll the dice to indicate which of five things on a card they will draw.
+For adults, this is still challenging.
+For children, I let them pick whatever they want on the card.The game screen and stand weighs little and holds the cards, timer, dice and marker.
+It does not include an eraser which would have been nice.Considering the low cost of the game, I find it hard to complain about it.
+It delivers a fun game at a low price.
+Our family loves to play games, and Pictionary is one of our favorites.
+So I was excited to play this version and write a review on it.
+Sadly, it does not live up to earlier games.FIrst of all, it comes in that gosh awful clamshell packaging.
+Once you shed blood to get it open, (!!!)
+and put the board together, there is no way to store the game.
+We had to find a box it would fit it.Second, the game assumes that you can draw in THIRTY seconds!
+Impossible!
+We ditched it and used our trusty 3 min timer.Third, the marker that comes with it is just plain AWFUL!
+which is weird because a pack of three decent ones can be found at the Dollar Stores.
+C'mon, Mattel!Fourth, the directions are ludicrous.
+Just throw away their instructions and play the game the old fashioned way!
+I'm torn on this one.
+I love Pictionary and it's a great game.
+But I'm not thrilled with this iteration.
+There is the possibility of some unusual game play--especially the &#34;acting out&#34;--since the clear screen allows you to draw masks and such.
+That is the best use for it.
+The traditional play method is fine, too, but the screen is rather small--I prefer a kid's chalkboard since this is better as a larger group game.The mirroring option--unless you have a really small child player, perhaps, is rather useless and dull.
+I can see using that as a one-on-one playing method with kids developing motor skills.
+So not a bad use, but overall not a great reason to buy the game.
+You can work on those skills in much more productive ways.My other criticism is storage--there's no box--sounds nice and lightweight, right?
+Well, there are few places you are going to store this where the screen won't get either dusty or scratched from not being safely stored in a box.
+So its long term viability in your gaming collection is questionable.So middle of the road--I'll keep it around for a while but won't be sad to see it go once pieces are lost or it becomes unplayable.
+How can you review a book you haven't read?
+That's my usual response when I read comments declaring why the reviewer didn't really make it through the entire book because of some major concerns.Well, now I am reviewing something that I haven't fully tested.The Pictionary Frame Game is a pretty unfortunate attempt to &#34;update&#34; an old classic game, but it fails on so many levels that we haven't ever been able to get a game going following the new instructions.Problems start out with the drawing frame itself.
+As has already been pointed out, the lack of a game box is in itself awkward (still have this sitting on a shelf while trying to figure out how to store it), but this could be overlooked if the format of a stand up frame for drawing the game pictures worked.It doesn't.If you lay the frame on the table and draw on it for stability, it works, but then that takes away the advantage of everyone being able to see the picture as it is drawn.
+However, for most normally adept adults and children, trying to hold the frame steady while drawing on it in an upright position ends up making the drawings even more incoherent than they might normally be.
+Add to that the small size of the frame, especially for those of us who have grown used to playing Pictionary on whiteboards or even flipchart paper (yes, some of us have been known to go so far, especially when there are large groups playing), and you will begin to get the picture (pun intended) of the problems with this screen.Now move on to one of the &#34;new&#34; kinds of cards--Action.
+Quite frankly, our crew tested a couple of these and realized that they could get better effects by laying down the marker and screen and just acting out the clues.
+Anyone every hear of &#34;Charades?&#34;Then there is the Mirror, Mirror category.
+Now the person who knows what is the clue will take his or her finger and &#34;draw&#34; on one side of the screen, while a teammate takes the marker and traces those finger movements, all the while that the rest of the team is trying to figure out what is being drawn.
+When we tried a test drive of this, there were very large problems, chief of which was trying to have two people do this while the rest of the group has enough visibility to even try to guess what is being drawn.
+And all this in 30 seconds or less.Ah yes, another problem.
+Thirty seconds to draw a picture?
+Really?
+Unless the group decides to let the draw-er spend an extended amount of time thinking of where they will start with the idea, this is sadly insufficient for almost any of the clues, especially (again) given the difficulty in drawing on an upright frame and having such a small screen that the entire team can't really see the drawing well at once.Oh, and the marker is not &#34;dry-erase;&#34; it is &#34;wet erase&#34; (says so right in the instructions!
+), so you need to have a wet (not just lightly moist either) paper towel or cloth handy for wiping the screen between each use.
+Better have a dry cloth too, unless you want to wait out the air drying time by singing songs or otherwise occupying your time.So why did I give this two stars?
+I guess I just couldn't go all the way to one star when we really never got to a full-blown game.
+While my kids do not play Pictionary a lot, it is a game they still like.
+They have always used the classic version of the game.
+When I got Pictionary Frame Game, the kids were initially quite excited.
+They thought it would be cool to play with the clear dry erase board instead of paper and pencils.In my opinion, the game was an awesome concept, but poor on execution.
+The game is designed so all the components fit into the base.
+The one good thing I will say about the game is that the base does close and stays closed.
+I was worried about everything falling out of the bottom of the base and the cards going everywhere, but the compartment closed and stayed closed.Besides that, I think the rest of the game unit was poorly designed.
+The board fits into a groove in the base.
+I and pretty much my whole family found drawing on the board while it is in the base quite annoying.
+The base is skinny so it is easy to tip the unit over when trying to draw on the top of the board.
+The bottom of the unit has no rubber feet or anything to create friction, so it slides real easy on hard surfaces like a table.
+At least in the unit I received, the drawing board does not fit snugly in the base and the thing wiggles back and forth.
+In the end, either you hold the board upright with one hand and draw with the other or just lay the board on the table.
+In either case, it just seems easier to use a piece of paper.What became really frustrating for my kids (who are younger) is that the timer was too fast.
+Besides that, the pen really did not seem to work very well.
+The lines it drew seemed quite light and were kind of tough to see.
+All the cards, die and pen fit into the storage base, but fundamentally the included pen is extremely hard to erase off after drawing.
+I would not get this again.
+The kids love this game.
+I have some beginning readers, so we alter the rules to best fit where they are at.
+It is good practice for them.
+The fact that there is a clear board and dry erase marker was also exceedingly exciting.There are three ways to play:-Classic: you get a word and draw it-Action: you get a phrase or action and draw as well as act it out-Mirror: 2 people, the person drawing sits on one side and uses their finger to draw, the other person is on the other side and follows along with the marker.Right now Action and Mirror are the 2 favorites.
+It has been good reading and comprehension practice, and it's fun.You will need something to clean the board between players, and a piece of paper or something to hold behind the board so that everyone else can see.
+We played this game with a large group where the youngest player was age 9 and the oldest was almost 60 and we had an absolute blast with it!So how do you update Pictionary?
+The basic game is the same - you get a clue card from the pile, draw a picture and your team has to guess what phrase or idea you had on your clue card.
+The updated twist is simple but so much more enjoyable.
+To start with, instead of a drawing pad you have a transparent screen so that your team can clearly see what you draw.
+Instead of a single card pile you have three - classic cards (where you draw a picture and your team guesses), Action cards (where you draw a picture and then use the picture to perform an action with it) and Mirror Mirror cards (you draw with your finger on one side of the screen and a teammate follows your finger with the marker on the other side).If your team guesses a word correctly, you get to keep the card.
+To win you have to have the most cards and at least one card from each of the three types.We found the action cards and the mirror mirror cards to be absolutely hilarious.
+The phrases are inventive and got a laugh out of everyone.
+There were a few phrases that the 9 year old couldn't understand but this did not happen often enough to ruin the game for him.If there was anything annoying about the game it is that the dry erase marker that comes with it stains skin very easily.
+Also, the game does not include an eraser so you have to use a damp cloth or paper towels to clean the screen every time.
+A decent marker and eraser would have made a big difference.
+Also, the screen does not click firmly into the stand so it is a bit of a juggle to move it from player to player.
+A touch of super glue should fix that for us.All the cards, marker, timer and dice store neatly in the base of the screen.
+Since the game does not come with a box, this is a good thing.We really enjoyed this game and it is a well thought out update of a classic.
+Okay - Who doesn't like Pictionary?
+Sadly, this game doesn't live up to it's predecessors.As a side note - there is no storage box for this product.
+The product is packaged in clam shell plastic and once removed, you have a 2 piece yellow and white storage base (for the playing cards, die, timer, and marker) and the plastic clear frame that fits on top of the storage base.
+If you're finicky about games always returning to the box you'll need to get over it as there is no storage box for the pieces.The timer only allows 30 seconds to draw the picture and have it guessed by the opposing team.
+Seriously - 30 seconds?
+What kid (or adult for that matter) can produce a drawing and correctly guess the clue in that limited amount of time?
+The timer is worthless and we resorted to using the timer on a cell phone rather than to keep flipping the timer over for more time.The marker provided is painfully inadequate.
+It is very VERY light and does not provide crisp bold lines.
+If you are interested in this game, you are better off using the Neon dry erase markers (which show up GREAT) or some other dry erase marker as the one provided can barely be seen (we used Quartet Glo-Write Neon markers and the EnduraGlide markers - both are for dry-eraser boards).
+The provided marker (as well as our personal markers) leave the screen cloudy after it is cleaned.
+You will need to really buff the screen with a damp cloth and then dry it before each use before moving onto the next team's turn.
+Since the screen doesn't clean quickly, this slows down the game.Another downside to this game is that it is designed to be played in teams.
+If you have only 2 kids - they will be unable to play it by themselves without significantly improvising the rules.
+You'll therefore need 4 or more players to develop 2 teams.The difference in this game is that the playing cards are broken down into 3 categories:  Action frame (draw the clue and use the frame to &#34;act&#34; out the clue), mirror/mirror (the person drawing the clue doesn't use the marker - they use their finger and the other team member uses the marker on the other side of the clear screen to trace their partner's finger to create the drawing), and classic (simply draw the picture - and your team provides guesses).
+You roll the provided die, select the playing card of your choice and the number on the die outlines what clue you draw (roll a 6 and you pick from the 5 clues).
+The first player who acquires one card of all three categories (action, mirror/mirror, and classic) wins.
+We tackled this one as a family (adults down to my nephew, age four).
+The game was fun for all ages, and the four year old nephew was able to handle it just fine (with minimal help).
+Lots of laughs.
+Nice twist on the Pictionary classic.
+The original Pictionary is wonderful.
+This Frame Game is obviously an attempt to capitalize on that success, but it fails as a game.
+First off, it needs to be a real BOX - the parts come out of that godforsaken plastic torture device...
+I mean, clamshell packaging, never to return again.
+So it gets stored... where, exactly?
+I don't know.Then there's the frame - see-through.
+Just look at the pictures on the Amazon page - obviously, they had to work to get backgrounds where the drawings would show up.
+It's just as difficult, if not worse, while playing.Stick with the original.
+Mattel attempted to use less packaging which is commendable and all the pieces fit in the frame's base.
+But, putting all the pieces back in just right and keeping the frame from getting scratched  without some protection is a hassle.
+I had high hopes for this game because the overall concept is good but there are just so many frustrating elements that I can not recommend it.
+The clear part of the frame does not easily wipe off and leaves smudges.
+Having to get out the 409 every time the included marker is used is really a drag.
+I would suggest trying another type marker that might wipe off better.
+My two kids had to adjust the rules since it is really set up for more players but the card topics still did not facilitate fun play.
+I gave it one star which means &#34;I hate it&#34;.
+That pretty much sums it up.
+Had a great time taking Pictionary Frame Game for my family to play while we stayed at a hotel for a few days.
+This was the perfect game that did not require too much space and was lots of fun for us all.
+The marker was a little messy because there was not an eraser that came with the game.
+Some of the cards were too difficult for younger children.
+This kept my family busy for a while and the kids wanted to play over and over again.
+I love when game makers decide to change things up in order to breathe new life into their games, which is why I was excited to see how Pictionary turned out.
+See, redesigning a game can go either very right or very wrong.Pictionary Frame Game is sort of in the middle of the two.
+It can be a very fun game to play but there's one little problem: the instructions are a big confusing.
+It took us quite awhile to figure out how to play properly, and to be honest there are still a few things we're confused about but we've made up our own rules :D
+We really had a great time playing this game.
+My 9 year old daughter begged to play more.
+The game has a few flaws, but I think the fun outweighed them all.
+It was nice not having to use paper to draw on.
+The screen sits upright and is clear so everyone playing has a good view of the drawing.The box says for ages 8 and up, but some of the clues are a little complex and kids may not understand them all.
+We just allowed the person drawing to pick another clue off the card.It was easy to adjust the game to play as long or as short as you wanted.Notes:- We had a ton of fun playing this game.
+None of the issues affected how much fun it was.- Cards, timer, die, marker and instructions all store in yellow base.- No storage box.
+Screen and base are just loose.- 9 year old needed help understanding what some of the clues were- No eraser.
+You must use a damp cloth- Base squeals like nails on a chalkboard when slid on the table- 30 Second timer is kinda short
+The Pictionary Frame Game is a lot of fun for the whole family.
+My kids range in age from 7 - 14 and all of them loved playing this on family game night.
+Highly recommended for the whole family.
+I was looking to see how this version of the venerable old game &#8220;Pictionary&#8221; would play out.
+The hook for this game is that you draw things on a see-through &#8220;window&#8221; rather than a sheet of paper.
+The instructions list three ways to play: the usual (classic) way; a modified type of charades game where you draw a picture on the window and use it as a prop for your pantomime; and where you trace whatever the player on the other side of the window is drawing.
+The first and second ways to play were fun, but nobody liked the trace game.The not-so good things about the game is that there is no storage box for everything, the included marker could have been darker, and the timer was good for only 30 seconds (you need longer to draw something and allow for good guesses).
+While giving a good view of parts, the plastic packaging for the game was hard to open; a better choice would have been to use a standard cardboard box that could have also been used as a storage box.Overall, the game was ok, but if the manufacturer had spent a few more dollars on my above complaints, it would have made for a better overall game.
+Three stars &#8230; as is, the game is &#8220;ok&#8221;.

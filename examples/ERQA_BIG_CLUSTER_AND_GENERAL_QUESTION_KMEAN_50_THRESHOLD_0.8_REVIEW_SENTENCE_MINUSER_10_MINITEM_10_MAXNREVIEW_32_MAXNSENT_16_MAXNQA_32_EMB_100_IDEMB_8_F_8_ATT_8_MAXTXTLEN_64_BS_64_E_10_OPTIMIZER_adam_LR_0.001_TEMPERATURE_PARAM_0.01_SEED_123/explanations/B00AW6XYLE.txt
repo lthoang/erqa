@@ -1,0 +1,180 @@
+Top question(s):
+is this toy ok for a 4 year old kid
+is this figure age appropriate fora 12yr old or is it for younger boys?
+Top sentence(s):
+He would definitely look great sitting on a collector's shelf.This Iron Man shoots small plastic missiles at the touch of a button.
+Iron Man is a favorite Marvel character of mine so I was excited to see this action figure.
+I usually keep a bunch of batteries around, but as luck would have it, I didn't have any left.
+Of course the launchers can be a bit of pain to pick up and might be easy to lose but the boys still got a kick out of it.The action figure itself looks pretty impressive.
+There are 10 missiles in 2 colors - red and ice blue, and you can load 5 at a time.
+
+Question attention weights:
+0.3596099317073822,0.5324194431304932,0.04710187017917633,0.060868777334690094
+Sentence attention weights:
+0.008136655203998089,0.0060693444684147835,0.007516122423112392,0.009942679665982723,0.006796485278755426,0.00527383666485548,0.007051490712910891,0.007856573909521103,0.009119566529989243,0.007243558298796415,0.0061770169995725155,0.007798932958394289,0.007337874732911587,0.0053229015320539474,0.008213050663471222,0.007199765648692846,0.005330195184797049,0.00453923037275672,0.0072761899791657925,0.00604796689003706,0.00696082366630435,0.006323545705527067,0.007486572023481131,0.005418059881776571,0.005117595195770264,0.008957644924521446,0.007276379037648439,0.006528490222990513,0.0059350887313485146,0.008288078010082245,0.006981434300541878,0.00720249256119132,0.0038262757007032633,0.007371680345386267,0.007357791066169739,0.007146371062844992,0.007236198987811804,0.00625772587954998,0.006087489891797304,0.004999613855034113,0.005456393118947744,0.005908246152102947,0.005734946578741074,0.00784307811409235,0.00850741472095251,0.007329361513257027,0.006383543834090233,0.008116480894386768,0.006997149903327227,0.007107725366950035,0.007062970660626888,0.005008638370782137,0.006237569265067577,0.004924315959215164,0.009119880385696888,0.006257086526602507,0.0048716627061367035,0.008280140347778797,0.007256506476551294,0.0045742313377559185,0.007845873944461346,0.00604412192478776,0.007594168186187744,0.0034770856145769358,0.007312532048672438,0.005116533022373915,0.004275168292224407,0.0044213528744876385,0.007432567421346903,0.007275091949850321,0.006716305390000343,0.007908469997346401,0.004428114742040634,0.006181142292916775,0.006632871925830841,0.00641197944059968,0.004616168327629566,0.00513880280777812,0.007046808954328299,0.003663567127659917,0.007220458704978228,0.006277631036937237,0.006454056594520807,0.0069713229313492775,0.006975687574595213,0.0034465754870325327,0.00781552866101265,0.0031630948651582003,0.006421258673071861,0.004993696231395006,0.006732284091413021,0.0038183527067303658,0.008211568929255009,0.007372299209237099,0.005679458379745483,0.004491573665291071,0.00474810553714633,0.00697895186021924,0.006355554796755314,0.004365046974271536,0.0061082919128239155,0.007130058947950602,0.007168820593506098,0.0076558347791433334,0.006641324609518051,0.00722123496234417,0.0071973977610468864,0.006245887838304043,0.006288979668170214,0.005064455792307854,0.003545976709574461,0.0029738047160208225,0.007020165678113699,0.00600465340539813,0.007698752451688051,0.006415910553187132,0.005227364134043455,0.006293084006756544,0.006935403682291508,0.006475482601672411,0.00581008056178689,0.005951511673629284,0.006859997753053904,0.00786610972136259,0.0076363119296729565,0.006966536398977041,0.0069502550177276134,0.0070312051102519035,0.00728901382535696,0.006258425302803516,0.007281094323843718,0.006159296724945307,0.005315795075148344,0.005475781857967377,0.006309194024652243,0.006453507114201784,0.006054003722965717,0.005558326840400696,0.006496971473097801,0.006246010772883892,0.0049977535381913185,0.006472832057625055,0.0052872453816235065,0.00685536814853549,0.004787692800164223,0.008637148886919022,0.00683935172855854,0.003804410807788372,0.0039000129327178,0.004427840933203697,0.007684661075472832,0.0046231504529714584,0.0038967858999967575,0.007158014923334122,0.0069307591766119,0.006806479766964912,0.007590769324451685
+0.009225609712302685,0.005830193404108286,0.009340927936136723,0.012716611847281456,0.0062992163002491,0.003599565476179123,0.007573255337774754,0.008632054552435875,0.010308035649359226,0.007427368313074112,0.006559994537383318,0.007389366626739502,0.008176898583769798,0.00474479841068387,0.008982853963971138,0.007442250847816467,0.005059562623500824,0.0036791469901800156,0.00905648060142994,0.006212220061570406,0.007227513939142227,0.006084028165787458,0.006613657344132662,0.004818236920982599,0.004307208117097616,0.010204643942415714,0.006090065464377403,0.006461975630372763,0.005929958075284958,0.008565857075154781,0.007035819813609123,0.007389933802187443,0.0026550644543021917,0.00719973212108016,0.0077379075810313225,0.007415675092488527,0.0076584829948842525,0.00595207279548049,0.0059779672883450985,0.004078281112015247,0.005804651882499456,0.005906498059630394,0.005479453131556511,0.0072001442313194275,0.009229941293597221,0.007711217273026705,0.005982038099318743,0.00910788495093584,0.006843503098934889,0.007212585769593716,0.007073676213622093,0.006707953289151192,0.006376838311553001,0.004319550469517708,0.0109592629596591,0.006177615839987993,0.004229594953358173,0.00814930722117424,0.007258024998009205,0.003582616802304983,0.007630692794919014,0.00661695608869195,0.008082211948931217,0.0025797425769269466,0.007679302711039782,0.005046018399298191,0.002796974265947938,0.0035028853453695774,0.008442086167633533,0.00732635660097003,0.006497988943010569,0.007300920318812132,0.0033679280895739794,0.0065160938538610935,0.005570895969867706,0.004991603083908558,0.0034927213564515114,0.004088425077497959,0.0070787398144602776,0.0029256821144372225,0.008774745278060436,0.006289758253842592,0.007370296865701675,0.006576679181307554,0.007194203324615955,0.0023076063953340054,0.008973801508545876,0.001877879723906517,0.007662771735340357,0.004910456947982311,0.006546346005052328,0.003071824787184596,0.009157887659966946,0.007860186509788036,0.005824114661663771,0.004069752059876919,0.004898824729025364,0.006995792966336012,0.007097355555742979,0.003299945266917348,0.005962393246591091,0.005674012470990419,0.008751951158046722,0.007975107058882713,0.006415266543626785,0.007504948880523443,0.007381981238722801,0.006900622043758631,0.005920978728681803,0.005380123853683472,0.002552594291046262,0.0019319035345688462,0.007365845609456301,0.005604016128927469,0.008183037862181664,0.007149919867515564,0.004928892944008112,0.006122867111116648,0.007321922108530998,0.00556270033121109,0.006094350945204496,0.006369306240230799,0.006771076004952192,0.008221521973609924,0.008128650486469269,0.007064166013151407,0.006926343776285648,0.0067784604616463184,0.007626520004123449,0.006039060652256012,0.007409829646348953,0.006282408721745014,0.004205889068543911,0.003968310542404652,0.006325585301965475,0.007739370223134756,0.006350192707031965,0.005782042630016804,0.006136126816272736,0.0061282264068722725,0.004395704250782728,0.0070763262920081615,0.005520358681678772,0.007350834086537361,0.004052451811730862,0.009557878598570824,0.007637311238795519,0.002805006457492709,0.0030756168998777866,0.0036479250993579626,0.0077997841872274876,0.003774466924369335,0.0031471445690840483,0.007424633018672466,0.007140394300222397,0.007276570424437523,0.008111716248095036
+0.00848997663706541,0.0058236559852957726,0.008303391747176647,0.010059499181807041,0.007620094809681177,0.004155331291258335,0.007039232645183802,0.007241136860102415,0.009319386444985867,0.006410994101315737,0.007794750388711691,0.007021753583103418,0.007323510944843292,0.0044880700297653675,0.007610829547047615,0.006308465264737606,0.005674893036484718,0.0051900469698011875,0.009428691118955612,0.005512201692909002,0.006268116645514965,0.007095226552337408,0.0057083554565906525,0.005770427640527487,0.004299770575016737,0.008904051035642624,0.006858218461275101,0.006332432385534048,0.005623443517833948,0.009203613735735416,0.0060687256045639515,0.006401079706847668,0.0042525664903223515,0.006210241466760635,0.0068441471084952354,0.0062326411716639996,0.006935463286936283,0.005122806411236525,0.005402089096605778,0.00513275433331728,0.005243138875812292,0.0050562587566673756,0.00513441301882267,0.009895551949739456,0.00845598615705967,0.007960584945976734,0.005257315468043089,0.008718765340745449,0.006193551700562239,0.006242773961275816,0.006310490425676107,0.008252539671957493,0.006252832245081663,0.00426807627081871,0.010120992548763752,0.005996176972985268,0.004852415062487125,0.008250742219388485,0.0064136371947824955,0.0043955640867352486,0.007144412491470575,0.007083662785589695,0.006948582828044891,0.004267932381480932,0.006432231981307268,0.005698113702237606,0.003034963272511959,0.004194028675556183,0.007619919255375862,0.006250070407986641,0.005804258864372969,0.006778047885745764,0.0044903503730893135,0.008418770506978035,0.006211327388882637,0.007032242137938738,0.004335127770900726,0.005854055285453796,0.006358729209750891,0.00425495021045208,0.007887549698352814,0.006189176347106695,0.00963248685002327,0.005944845266640186,0.006421821657568216,0.003817059798166156,0.0071641127578914165,0.0033594993874430656,0.007754853926599026,0.006420854479074478,0.0061264121904969215,0.004110507667064667,0.007735575083643198,0.007828239351511002,0.006502237170934677,0.004507264122366905,0.0070877294056117535,0.006832060869783163,0.007690254133194685,0.004069805610924959,0.0052372002974152565,0.006645730696618557,0.008580009452998638,0.007219604682177305,0.0053249383345246315,0.006455309223383665,0.0063928221352398396,0.006668507121503353,0.0072555383667349815,0.006605028640478849,0.004113473929464817,0.003565131686627865,0.00641820440068841,0.005394188687205315,0.006885784212499857,0.006085554137825966,0.005103503353893757,0.005468320567160845,0.006868211552500725,0.006302790716290474,0.005338676739484072,0.007835392840206623,0.006321542430669069,0.009457857348024845,0.006664358079433441,0.0063136182725429535,0.006238101050257683,0.007436517626047134,0.006661307066679001,0.006328109186142683,0.006441973615437746,0.008667489513754845,0.005986349191516638,0.005346660502254963,0.005516939330846071,0.008611095137894154,0.0056940000504255295,0.005533650051802397,0.005212641321122646,0.007836622186005116,0.0050865719094872475,0.00869192648679018,0.0055030942894518375,0.006805964279919863,0.0053780050948262215,0.007178085390478373,0.006472399923950434,0.0044763358309865,0.004519734065979719,0.004652219824492931,0.007253507152199745,0.00475922878831625,0.0032453397288918495,0.006521911360323429,0.006023005116730928,0.006618235260248184,0.006733691785484552
+0.00847744382917881,0.005903592333197594,0.008429160341620445,0.0102097038179636,0.007357392460107803,0.004070949275046587,0.007143234834074974,0.007321961689740419,0.009243248961865902,0.006494498811662197,0.007652555126696825,0.0069432491436600685,0.007396689150482416,0.004628817550837994,0.007706106174737215,0.006420629099011421,0.005684851203113794,0.005005265586078167,0.009390118531882763,0.005657069850713015,0.006367196328938007,0.00695792306214571,0.005715609528124332,0.005719651468098164,0.004331941716372967,0.00892963819205761,0.006606437731534243,0.006327839568257332,0.005721906200051308,0.009061546064913273,0.0061666090041399,0.006486303638666868,0.004136722534894943,0.006268953438848257,0.0069137196987867355,0.006355369929224253,0.00703112967312336,0.005245524924248457,0.005497748497873545,0.004993236158043146,0.005412088707089424,0.005232727155089378,0.005214393604546785,0.00927971862256527,0.008360886946320534,0.007815608754754066,0.005350676365196705,0.008698543533682823,0.0062351347878575325,0.006330809555947781,0.0063611045479774475,0.008340122178196907,0.006271242164075375,0.004361016675829887,0.010025126859545708,0.006009227596223354,0.0048101213760674,0.007955284789204597,0.0064615849405527115,0.0043546296656131744,0.007058242801576853,0.007083702366799116,0.007047418504953384,0.004166117869317532,0.006563968025147915,0.005693275947123766,0.003040734911337495,0.004203257616609335,0.007667692378163338,0.0063428496941924095,0.005875453818589449,0.0067124878987669945,0.00443085003644228,0.00834905356168747,0.0061240484938025475,0.006653306540101767,0.004226427059620619,0.005589264910668135,0.006423240061849356,0.0041947695426642895,0.007988020777702332,0.006252653431147337,0.009410310536623001,0.0059875925071537495,0.006490454543381929,0.0036824981216341257,0.007384755183011293,0.0032542909029871225,0.007897665724158287,0.006303994916379452,0.006163794547319412,0.0041244132444262505,0.007834775373339653,0.007853171788156033,0.006495000794529915,0.00455786706879735,0.0069339098408818245,0.006829916499555111,0.007617475464940071,0.004066142253577709,0.005353527143597603,0.006386035121977329,0.008757593110203743,0.007180175743997097,0.005494319833815098,0.0065615372732281685,0.006475435569882393,0.006765425205230713,0.007013790309429169,0.006571133621037006,0.003974876832216978,0.003406402189284563,0.006540777627378702,0.005476712714880705,0.006994411814957857,0.006276868749409914,0.0051598940044641495,0.005572418216615915,0.00692465016618371,0.0062149218283593655,0.0055307974107563496,0.007781377527862787,0.0063413893803954124,0.009173063561320305,0.006813394837081432,0.006381466519087553,0.006295790430158377,0.0072733866982162,0.006753107532858849,0.006325187627226114,0.006497677881270647,0.00833918247371912,0.0057024466805160046,0.005187751725316048,0.005647891201078892,0.008463761769235134,0.0058278730139136314,0.005617381073534489,0.005350950639694929,0.007632387336343527,0.0051283566281199455,0.008555514737963676,0.005663607735186815,0.006875697523355484,0.005229975562542677,0.007387964520603418,0.006625222507864237,0.004409589804708958,0.004402336664497852,0.004571672063320875,0.007261918392032385,0.004737466108053923,0.0033201605547219515,0.006603301502764225,0.006150449626147747,0.006751907989382744,0.006861224304884672
+Questions:
+is this figure age appropriate fora 12yr old or is it for younger boys?
+is this toy ok for a 4 year old kid
+How dangerous are the projectiles?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+"My 9 year old loves all-things-superhero!
+He was hugely excited when he opened the box and found this magnificent looking Iron Man.
+The action figure is pretty sleek and nicely detailed.
+He would definitely look great sitting on a collector's shelf.This Iron Man shoots small plastic missiles at the touch of a button.
+It's not very powerful and the missiles kind of ""lob"" out, and hey, that's perfectly fine with me.He also lights up and says a couple of phrases.
+I would like to note, however, that the description says that it requires 3 AAA batteries and that they are included.
+Ours did not have batteries installed.
+So, we were a little disappointed in that.
+I usually keep a bunch of batteries around, but as luck would have it, I didn't have any left.
+Not a big deal, just a little inconvenient.
+So, I recommend you have some batteries on-hand just in case.My star rating system is as follows:  If I really like something, it will get 4 stars.
+If I absolutely love it and think it is the most awesome thing ever, it will get 5 stars."
+I have three boys, 7,5, and 3.
+Since getting this Iron Man I have had to take this toy away from them many times because all three of them are fighting over it!
+It is that good for all ages!
+The body is tall and sturdy, the assembly was so easy my 7 year old did it.
+Simply turn a button on his back and he automatically shoots 5 bullets.
+Push his chest and he talks to you!
+It comes with spare bullets too!
+The boys love Iron Man, so naturally this is a favorite!
+I have nothing but good things to say about this well made product your boys are sure to love!
+I have two 7 year old nephews that just love to play with anything that shoots out launchers.
+So I figured this would be the perfect toy for them to play with when they visit me and I was absolutely correct.
+Their favorite feature of the action figure is obviously the shooter part.
+They launch to a pretty decent distance.
+Of course the launchers can be a bit of pain to pick up and might be easy to lose but the boys still got a kick out of it.The action figure itself looks pretty impressive.
+He's heavy but he's very well-built.
+The phrases that he says are okay but don't really add that much to the play factor.
+Parts of him light up when he speaks, which can be kind of cool.
+The toy require 3 AAA batteries, which of course are not included.
+But overall, I think it's a pretty good toy for kids.
+This is a great, sturdy toy.
+This Iron Man has a blaster that rotates and shoots its plastic missiles.
+He has several sayings and he is cool, but he is not that different from previous models.
+My 5 year old son loves him though.
+Just don't let the boys bring him into bath time!
+I have a preschooler who loves all superheroes and Iron Man in particular is one of his favorites.
+There are times when Iron Man has to go everywhere with us.
+It is a pretty big size, almost a foot tall, maybe?
+Iron Man is about the same size as our Buzz Lightyear action figure and we have been able to have some pretty epic battles.
+The gun has frozen up on us once or twice, but not often enough to cause a problem.
+I kind of wish that the knee joints were able to bend, but overall we love this toy!
+He says a couple of phrases, the sound is fine, but really the best part is just it's size.
+"I tend to NOT take my movies collectables out of their original boxes; however for the sake of this review, I tore into the package and loaded up Iron Man.
+Here is the report.Pros:-Mine seemed durable; nonetheless, I am an adult and did not smash it around like a child.
+Will it survive a child's recklessness?
+Perhaps not.-Nice detail work on the figure itself.Cons:-Visor does not go up.
+It would be perfect if Tony Stark could be found under this mask.-I don't love the idea of children shooting thin, plastic projectiles as each other.
+(Or of adults stepping on the clear-ish ones ...
+OUCH!
+)-Too over-sized.
+One cannot ""play"" with it in conjunction with another action-figure.-The gimmick is pretty short-lived.While I would not recommend this for a child, I do highly recommend it for collectors.
+The box is beautiful and handsomely displays the figure.
+If you love these films or these comics, buy it to add to your collection."
+Iron Man is a favorite Marvel character of mine so I was excited to see this action figure.
+Overall, I was not disappointed because it is well-made and not cheap in quality at all.
+The color scheme is cool and the weaponry adds to the figure.
+My only slight disappointment is that the legs do not bend so you cannot put this figure into a sitting position.
+Other than that, this is a really cool action figure.
+The detail on this Marvel Iron Man 3 Sonic Blasting Action Figure.
+And this observation is coming from an adult perspective.
+Although made of plastic, the paint details give it an impression of die-cast metal, certainly not a cheap-looking Iron Man figure.
+I collect Iron Man figures and I must say this is one of those Iron Man Toys, based on appearance, that can be a part of an adult collector's collection of Iron Man figures.
+Any kid who is into superheroes toys would surely enjoy playing with this especially that it has the Sonic Blasting features that shoots a barage of missiles in a motorized fashion.
+I sure enjoyed looking at this toy doing that!
+The hands and the legs semi articulates, not as much as a real action figure but having limited articulation is better than nothing.
+It is powered by 3 x AAA batteries.
+I really enjoyed having the Marvel Iron Man 3 Sonic Blasting Action Figure and it will not be a part of my Iron Man action figure collection.
+Highly recommended!
+"This is more of an action figure than a toy, and it's worthy to be a part of any serious collection.
+It's huge -- perhaps a foot tall.
+He's not very pose-able.
+He can move his legs in the hip socket somewhat, and his arms at the shoulder somewhat, but he cannot bend his knees, waist, elbows, or neck.
+He balances very well, and can stand for days without falling, if not attacked by a rampaging kitten.He comes with five red rockets and five blue rockets, and can store five at a time in the launcher.
+The rockets fly about three feet when you fire them, and he says things like, ""Fire repulsor cannons"" or ""Fire all weapons"" when he shoots.
+He also has a series of phrases he can say like, ""Iron Man, powering up"", ""Armor Online, ""Scanning for possible threats"" (if he detected the kitten, he clearly didn't register her as a threat to an action figure) although she could get him to ""Systems Critical"" in minutes if she got hold of him.
+His eyes and chest plate light up when he speaks.
+The chest plate (arc reactor for fans) serves as the talk button, so it isn't detailed.
+It's plain white.The only thing I don't like is the battery case (nitpicking, I know).
+Instead of a simple latch, it's held closed with a screw.
+I know this enhances the aesthetics of the statue, but it's a pain to change batteries."
+"What an awesome toy, my 3 year old grandson loves playing with it, and he is only vaguely aware of Iron Man from TV commercials and such.
+At 16 inches tall, Sonic Blasting Iron Man has a commanding, imposing presence, augmented by his voice and sound effects.
+(The box he comes in is 14"" high and his legs are detached and in the bottom of the box.
+They snap right onto the rest of his body.
+You'll need 3 AA batteries to operate him, and a Phillips head screwdriver to open and close the battery compartment.)
+My granddaughter (age 5) also enjoys playing with him when her brother and I are also playing.
+He stands stably and seems quite durable (though I wouldn't recommend playing with him on a sidewalk), he's handsomely designed and constructed, and you can set up targets for him to knock down with his 5 red and 5 blue missiles, which are fired by the motorized rotating missile launcher on his right wrist and forearm.
+(Just don't shoot the cat, and do keep track of the missiles, which are 3"" long and skinny and can easily disappear under couches and cushions, in air vents, under stoves and refrigerators, etc.
+)The best demo video for this product I've seen is on the product page for this item at Toys R Us dot com, so check it out if you want to see and hear this Action Figure in action.Many children will be thrilled to receive one of these Iron Man 3 Sonic Blasting Action Figures as a gift.
+The 14"" x 12"" x 4.5"" box it comes in is sturdy and attractive and just begs to have gift wrapping paper around it."
+Clad in his Mark 42 armor and equipped with a missile firing arm and various electronic sounds and phrases, the Iron Man 3 Sonic Blasting Action Figure is ready for battle!
+For whatever reason (to cut down on packaging maybe), the figure's legs are cut off just below the knees.
+The feet are in the box, but you have to assemble them.
+Once that's done, Iron Man stands a good 14 inches and looks pretty impressive.The good - the press-button firing is pretty darned cool.
+That barrel just spins and fires until it's empty, and you get some cool sound effects while it is going.
+The figure is also very detailed and makes a neat shelf piece.The not so good - to accommodate the firing mechanism and electronics, there is very little articulation with this figure.
+It's kind of lame as action figures go.
+They also give you twice as many missiles as the figure can hold, which is fine, but nowhere to store the extras.
+A couple of clips on the back or arms would have solved this.
+Instead those extras are bound to be lost.This is a big, hefty toy with some very cool features.
+It's probably not idea for smaller kids looking for an action figure to take with them, but older kids ought to get a kick out of the Iron Man 3 Sonic Blasting Action Figure.
+I thought my grandson would love this toy but before I could give it to him, my son who is a huge Marvel fam and way beyond the playing with action figures age grabbed it.
+lol A great collectible but he is going to allow his nephew to play with it supervised my him.
+It is very durable and well crafted and should provide both kids big and small many hours of enjoyment.
+My son LOVED this toy from the moment he looked at the box.
+(He seriously made us save the box too.)
+It needs to be said that he is an Iron Man fanatic, but he loves this toy above all his other Iron Man toys.
+Whoever designed this did a great job: the toy is even heavy, making it feel like it's a cut above most of his junky Transformers, etc.
+And - I didn't realize this from the picture - this Iron Man is about 18 inches tall, so it's pretty huge.Push the button in the center of his chest, and he says Iron Man phrases... neat, but almost pretty run of the mill.
+However, the fact that the sonic blaster is battery powered just pushes the toy over the edge into totally awesome.
+Seriously unexpected.Yes, it electronically launches choking hazards all over the place, but it's unlikely to take out an eye coming out of Iron Man's blaster because the front end is blunted, it's the back end that's somewhat sharp.
+Sure, turn it around and poke someone with it, different story.
+But half of the missiles were lost on the first day anyway.
+Honestly, the toy is so cool, we really don't mind so much.
+Not surprisingly, my son loves this Iron Man toy ... specifically the missiles that shoot out of his hand.
+He really doesn't do much ... just talks and shoots his missiles.
+A good toy for kids aged 4-7 years old.
+If I were an 8 year old boy who loved the Marvel movies, this would unquestionably be my favorite toy.
+It is exceptionally well-made, attractive, with many attractive features.
+It has not one but two buttons to activate voice recordings.
+It has a rotating weapon that shoots two different kinds of missiles.
+And it just looks cool.This is one of those rare toys that I find almost nothing negative to say about.
+I guess, maybe, it isn't education.
+But call me old fashioned.
+I just think toys should be fun.
+If they are educational, then fine.
+But a toy that educates but fails as a toy is a lousy toy.Even though this came out this summer, this would be a great Christmas toy if that Iron Lover you know happened to miss out.
+Also makes a great birthday present or no-special-occasion-of-any-kind present.
+Tried via Vine!Fun: 3: It shoots missiles and toys like this are pretty fun, I liked toys that did the same when I was younger.
+I like the talking ability of the toy.
+That said, it's not very poseable, the visor doesn't flip up, the missile 'cannon' should have been a gun for Iron Man to hold.
+I kinda thought Hasbro would use Legends articulation here, but they didn't, but Hasbro also dropped the quality of that line when they got the license.I saw a couple of reviews saying it was 'statue-like' and statues that cost 10x more are less detailed.
+I'm sorry for those people because being mass produced means toys can't really keep up with statues.Education: 2: I guess you can improve hand eye coordination, but really, it's barely above a 1.Durability: 2: It's not gonna last with the average child's playtime, overall.
+It's a Hasbro toy and the joints'll wear out sooner than later.
+The blockiness of it won't improve its lasting power.Overall: 3: It's a fun toy but lack of features to go with the price range make this a toy just for hardcore kid fans.
+Adults are far better off with nearly any Iron Man toy out there, and more importantly, a statue.
+"This Iron Man is 14"" tall (larger than I expected!)
+and is well-made.
+Don't forget the batteries - you'll need 3 AAs.
+You will also need a small phillips screwdriver to open the battery compartment.It looks impressive, but there isn't a lot of flexibility in posing.
+You can twist the 2 shoulder and 2 hip joints, as well as the neck, but there are no joints elsewhere, such as knees, anxles, wrists, etc.
+The shoulders and hips only rotate; they are not fully mobile.
+So the arms can go up and down, but not outward.
+You can turn the head to either side; but oddly only the eye closest to the front will then fully light up.However, it can fire missiles!
+There are 10 missiles in 2 colors - red and ice blue, and you can load 5 at a time.
+Press each into the holes to load the springs.
+A button on the back fires the missiles by releasing each missile.
+The pre-loaded spring fires one missile at a time several feet, or about 1 foot straight up.
+Then the revolver turns and the next missile is ready to fire.
+(This requires battery power.)
+If you hold the button down multiple missiles will fire, each a couple seconds apart.
+Another button on the chest activates just the lights and sound.
+I got this for a girl.
+I know, everyone and their dad buys this for boys, but why can't females enjoy the mighty Iron Man too?
+This model is made very well, is fun to shoot and looks a lot better than other Iron Men I've seen on the market.
+I would recommend it.

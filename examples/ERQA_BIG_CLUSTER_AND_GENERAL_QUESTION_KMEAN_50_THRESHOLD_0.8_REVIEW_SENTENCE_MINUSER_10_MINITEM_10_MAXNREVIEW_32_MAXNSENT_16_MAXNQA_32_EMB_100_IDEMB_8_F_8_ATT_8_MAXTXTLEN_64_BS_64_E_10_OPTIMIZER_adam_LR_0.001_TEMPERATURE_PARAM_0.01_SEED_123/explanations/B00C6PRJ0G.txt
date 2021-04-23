@@ -1,0 +1,187 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+My three year old grandson loves Cars and Lightening McQueen and it was sad to see his disappointment in this toy.
+Let me start by saying I have a pretty high tolerance for poorly functioning car tracks.
+It ranks up there withChase, the non-transforming Transformer.
+So grandma or grandpa get to be the official crank crew the whole time our grandson wants to play with this, which is fine, we figure it is quality one on one time with him.The kicker is that our grandson is a Cars nut from his bed to his sheets, and blankets, shoes, pj's color books, movies , you name it Cars  is THE thing.
+There's a small clear plastic piece that then pops up so the car finishes out the remainder of it's energy spinning around in it.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.006794484332203865,0.005532684735953808,0.005498322658240795,0.006038392893970013,0.0058043464086949825,0.007054555229842663,0.006154160015285015,0.004128472879528999,0.005917465314269066,0.005563261453062296,0.0065483334474265575,0.006860505789518356,0.006449518259614706,0.006597789470106363,0.00677815405651927,0.005259618628770113,0.005829828325659037,0.00645399559289217,0.005650661885738373,0.00579251442104578,0.004345971159636974,0.006092200055718422,0.005531669594347477,0.006400086916983128,0.008812513202428818,0.005574213340878487,0.005793738178908825,0.006671427749097347,0.005863316357135773,0.005863316357135773,0.006820052862167358,0.003343292511999607,0.00611896114423871,0.006548549514263868,0.005882159806787968,0.0046995775774121284,0.006618599407374859,0.009310184046626091,0.005374479107558727,0.004607696086168289,0.00429126201197505,0.003977739252150059,0.004536421503871679,0.0034592312294989824,0.005505555775016546,0.006670158356428146,0.0034027688670903444,0.006984489969909191,0.007004513405263424,0.006904182955622673,0.006012558937072754,0.006701516918838024,0.005790744908154011,0.004625360015779734,0.008632069453597069,0.00651228753849864,0.007678252179175615,0.00596354715526104,0.0032421217765659094,0.003453441197052598,0.004043626599013805,0.005621060263365507,0.0077339946292340755,0.006277938839048147,0.006008277181535959,0.004575008526444435,0.005515829659998417,0.0073112803511321545,0.00622456194832921,0.003552479902282357,0.0040851179510355,0.005357410758733749,0.007853599265217781,0.006077458616346121,0.0060079204849898815,0.005334216635674238,0.004152472130954266,0.00660601956769824,0.005893634632229805,0.004836700856685638,0.00411731144413352,0.006687254179269075,0.0057192277163267136,0.005581289995461702,0.007016907446086407,0.005354216787964106,0.006237571593374014,0.005976772401481867,0.006005306728184223,0.00673301424831152,0.006083130836486816,0.0062578702345490456,0.005465914960950613,0.0061656152829527855,0.004366854205727577,0.005868770647794008,0.005011703819036484,0.005833561532199383,0.0060540782287716866,0.007662144023925066,0.005836051888763905,0.006660856772214174,0.0028169082943350077,0.003971446305513382,0.004437989555299282,0.0037918314337730408,0.004305337090045214,0.008205359801650047,0.006810638587921858,0.0035846082028001547,0.00870839785784483,0.005205925088375807,0.005128918681293726,0.00373221468180418,0.005144134163856506,0.0034408324863761663,0.005002260208129883,0.006790840532630682,0.005103056784719229,0.006119149271398783,0.007487056311219931,0.006374020129442215,0.006118536461144686,0.00618230365216732,0.005442137364298105,0.006040497682988644,0.005628767888993025,0.005398723296821117,0.0053071435540914536,0.004799182061105967,0.0032718160655349493,0.006027169991284609,0.006224995944648981,0.006108894478529692,0.0057623544707894325,0.003045121906325221,0.004087327513843775,0.006345296278595924,0.005363942589610815,0.005412246100604534,0.0055175358429551125,0.008952642790973186,0.005441050976514816,0.005844262894243002,0.005749673116952181,0.005719686858355999,0.006766317877918482,0.005291962996125221,0.008077056147158146,0.005165422800928354,0.005331851541996002,0.006692694034427404,0.0068281106650829315,0.007807970978319645,0.006029644515365362,0.006974280346184969,0.01275719329714775,0.008704658597707748,0.008113031275570393,0.00627486826851964,0.0055237640626728535,0.00550682470202446,0.005773705430328846,0.003941638860851526,0.005716167856007814,0.004106182139366865,0.0068459357134997845,0.005830531008541584,0.005656997207552195,0.005769265815615654,0.008470369502902031
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+My four year old and eight year old broke into this set and had it set up before I could interject any assistance.
+I really appreciate minimal set up, no fuss packaging, etc...
+However, that's really the only nice thing I can say about this track.
+Why do I hate this track?
+Let me count the ways...1)Only one car.
+Who do you race?2)Really an extension of 1--incompatible.
+This track doesn't work with the metal cars toys or the micro drift cars toys or any of the other track sets I have purchased.
+This is a whole new line requiring trips to the store to purchase competition for the single McQueen car included.3)It doesn't work consistently.
+Failure to launch.
+Failure to make the full length of the track.
+This is frustrating for the kids and frustrating for me.
+Even if it's their favorite franchise, my kids won't play with a toy that won't work.4)The entire set seems to be cheap and made of inferior and warped plastic.
+This was a surprise, because typically I've been able to count on Disney products.For my family, this set will probably be recycled quickly.
+It hasn't been used since day one.
+To say I am disappointed is an understatement.
+In this video I show the race track, how it works, and where it fails.
+Overall the kids love it.
+Assembly was no problem - but I have four and six year old kids, so I've done my share of assembling various toys over the years.
+The whole design seems not to be very sturdy, and I expect it to last not very long, if my kids would play with it extensively.
+Which they will not.
+As described by other reviewers, the stunts do not work reliably, the design is for two cars but there is only one car delivered with the package, and it does not work on carpet.
+The car would not run very fast, even when Daddy cranked it up to the maximum, and some times it would just get stuck due to lack of momentum.
+It was more frustration than fun to play with this toy, and it did not help at all that the Cars logo was attached to it - my kids expected more from one their most cherished Disney franchises.
+"A pain in the neck to put together, and my grandson cannot crank the crank hard enough to get very far, plus you have to hang on with 2 hands when you crank, one to crank and the other hand to keep the whole track from moving, unless you are on carpet, then no sliding.
+So grandma or grandpa get to be the official crank crew the whole time our grandson wants to play with this, which is fine, we figure it is quality one on one time with him.The kicker is that our grandson is a Cars nut from his bed to his sheets, and blankets, shoes, pj's color books, movies , you name it Cars  is THE thing.
+So he is totally crazy about this little race track.
+I would not recommend this toy past 5 years old, it will not hold their interest.I am going to look for another car,  ""one is such a lonely number"", .
+We are glad we got this toy for him because he loves it."
+It is so frustrating to get a toy and not be able to put it together the first time.
+So my kids were never able to enjoy this toy.
+But this toy doesn't seem that fun anyway.
+It takes too much work for a kid to operate to get Lightning McQueen to zoom around the track.
+I do not recommend this toy.
+This wasn't hard to assemble.
+In theory it should work well.
+Problem is I have carpeting and I see I'm not alone in having issues with the lower track working correctly.It's very frustrating for my sons who are under age 5.
+I think there are better track options out there.
+Let me start by saying I have a pretty high tolerance for poorly functioning car tracks.
+We have hadHot Wheels Sharkbite Bay Play Setfor almost 3 years, and while it kind of stinks, we love it.
+My son plays with it constantly.
+We also have theHot Wheels Turbo Garage Playset, which gets even worse reviews than Sharkbite Bay, and I have no regrets on that track either.
+My kids play with it pretty often and don't have any trouble with it.So why do I prefer Hotwheels tracks to this Cars one?
+The Hotwheels tracks can be used to manually drive any of our hundred plus Hotwheels up and down and around the sets.
+The cars go on all kids of kid-powered adventures that sometimes last for an hour at a time.
+It's also worth mentioning that since they don't have a specific beginning and end point both my kids can use them at the same time.
+This Cars brand track has a launcher that only works with the specific, pricey Cars Stunt vehicles.
+Only one kid at a time can launch the car.
+The track is highly angled so you can't even drive a Hotwheel or any of our non-stunt Cars vehicles around on it with your hand.
+Disney has made this track too specialized, I really don't appreciate that.This Cars track was fairly easy to put together, if like me, your entire house is furnished by IKEA and you are pretty good at putting stuff together.
+It took me about 20 minutes for full assembly and stickers.
+Mostly I referred to the picture on the box, the instructions were ok. My six year old is having a great time with this!
+He's got a curious mind and he will play with it until he has figured out how each and every part goes together and what it is supposed to do.
+The car will go around the upper track just once or twice, and three of four times on the lower track.
+The Disney Cars Stunt Racers Double Decker Speedway could have been a great toy.
+Kids love the Cars movie so a track that features a way to replicate the movie experience into a playable format should be a great hit right?
+Wrong!The toy proved a bit complicated to assemble though thankfully all the pieces have letters that indicate the sequence in which they fit together.
+Once you put it together you quickly realize how poorly designed it is.
+The bottom track requires a hard floor to work properly (it wont work on carpet).
+The top track has a section that rarely works at all (the car always seems to get stuck).
+What fun in a racetrack if the car gets stuck in the track?To make matters worse, the track only comes with one car so the dual launching start gate is totally useless unless you spend extra money on more cars.
+Overall this had about 20 minutes of playtime for my kids before they became bored and were ready to move on to the next toy.
+This is not worth the money at all.
+"Mattel says, ""Kids will love reenacting their favorite scenes from the movies.""
+That's pretty much true, but all the reenacting will be in your child's imagination and not on this double decker speedway.With rickety plastic construction and instructions that are miles from intuitive, it will be forty minutes before you are ready for the fun.
+And what fun it will be.
+Watching your car feebly attempt to navigate the contraption over and over.
+On the plus side, your child will develop Popeye muscles from cranking the motor incessantly.Amazon's Recommended Age range is 3 to 7 years.
+The Manufacturer's Recommended Age is 3 to 10 years, which is ridiculous.
+A ten-year-old does not want to play with a dinky car toy.
+I would say even 7 years is pushing it, if not for the sheer dexterity needed to use this toy.
+Ultimately, you'll need TWO children: one to wind it up and one to hold the pieces together for some semblance of functionality, especially the Winner's Circle.
+You can't even crank sufficiently without moving the launching grid, thus negatively altering the alignment.
+Forget about seeing ""stunts"" on the track.
+What a joke.The idiocy of this toy knows no bounds.
+The stickers, for example.
+The instructions include this Helpful Hint: ""Apply labels before assembly by number as indicated.""
+Unfortunately, the accompanying illustrations show only a fully assembled track.
+The individual stickers are numbered.
+This is a fun toy, my son loves it.
+The quaility is good, I only have 2 complaints.
+The center part that spins the car around.
+You have to make sure that the arrows line up in order to get the clear wall to go down so cars can enter.
+Depending on age of child this can be difficult, and then to add to it - you line them up, you think it is going to work, but then you hit the button to release it and the force of the spring action makes the arrows disallign and the wall come up, this results in the car crashing into it and not entering the ring.
+The only other downside is that it only comes with one car, It is a race track for two cars.
+We didn't realize this until we put it together, so my son really wanted a second car so they could race.
+also, the cars are special where the tires get reved up, so regular CARS toys or matchbox toys will not work.
+I guess I need to look into getting him another car.
+He has had a ton of fun playing with it though.
+When i was a kid, I got at least on of the sets like this.
+I could invite friends over because I had two cars.
+Not that I did, because I had no friends.This would be a great set, except it comes with one car.
+One stinkin' car.
+If you are going to get a RACING track make sure it has two cars, otherwise there is no RACE.Overall, it is durable and easy to put together.
+My 9 year old did it in record time.
+The instructions are pretty simple.A nice little set, except, one car.
+"I have a son who loves the Cars movies, and loves playing with cars of any sort.
+So I thought this would be a good thing to try.Many people complain about the assembly instructions.
+I had no problems with them.
+It's very clear how it goes together.Others have complained about how flimsy it is, so I was expecting really flimsy.
+It wasn't.
+Ours holds together just fine.
+Nothing ever came apart.So assembly was quick and easy, only took a few minutes.Where it's a fail is in the performance of the toy itself.
+The lower level track (only use it on hard floor, this will NOT work on carpet) actually lets the car do three to five laps around it.
+There are simply external boundaries for the inner track that force the car to run in a figure 8 underneath the track.
+That part works fine, the car just pushes against the plastic guide on the outside and that forces it to go where it should, there's no ""track"" on the bottom.
+But the top track, the one that has the ""Winner's Circle"" and everything, is a complete disaster.
+Even with me cranking it as fast as it will go, the car *sometimes* can complete a single lap up there.
+More often than not, the ""trick"" parts of the track screw things up and the car stops there...The winners circle part has a spring inside that snaps it into place onto the track when you decide the race is over and press on the Piston Cup up there.
+Until that point it's rotated so as to not interfere with the race.
+Press the Piston Cup, the spring rotates it into place so it can capture the car.
+There's a small clear plastic piece that then pops up so the car finishes out the remainder of it's energy spinning around in it.
+"First of all, this was one of the most difficult toys I've ever had to assemble.
+The parts are very similar, but with subtle yet important differences.
+The winner's circle in particular was difficult to get installed correctly.
+There is only one usable configuration, unlike other track toys.Once assembled, it doesn't work very well.
+At my top cranking speed, I can get about one lap on the top level and around two on the lower level.
+The car often gets stuck entering the winner's circle.
+My six year-old son is lucky to be able to get enough speed to make it into the winner's circle without doing a lap.
+The gear ratio could be significantly higher to allow for higher speeds, and still not be too difficult to crank.That being said, my son, who is a huge ""Cars"" fan, still loves the toy.
+He played for hours without getting bored, and that says a lot for someone with his attention span.
+If your child loves ""Cars"" and won't be disappointed by the limitations, this set is worth getting."
+This is a great toy.
+The instructions are precise and easy to follow with hints along the way.
+The parts are lettered so it is easier to fit it together.
+The educational value is in putting it together with your child, showing planning and organization, learning how to read and follow directions - it all adds up to success.
+This is so much fun!
+Jesus' Blessings and Peace
+"I liked the concept of this toy because it looked like it would offer my test kidlets a number of different play choices, but the reality turned out somewhat different.First of all, this toy MUST be played on non-carpeted surfaces.
+To use the ""bottom"" level of the track, you need to have a hard surface otherwise the car won't be able to make a circuit of the inner course.
+Also, since the launcher is not attached to the device (so you can change the angle of entry) a hard surface is also needed to reach the upper course levels.Second complaint, only one race car is provided with the toy.
+It's hard to have a ""race"" when there's no one to race against, and you can't substitute any Hot Wheels or Matchbox cars that you might have on hand.Third complaint, the assembly instructions were not very clear and the letter-marks on the pieces were sometimes hard to see/find.
+This isn't something that the kids can put together themselves.We never did ever get the car to run completely around the upper tracks, though it did make a nice figure-8 on the floor-level track.
+We just couldn't get it to go fast enough to fully test the course.My recommendation?
+Save your money.
+There are better toys out there.
+This could have been a great toy if more time had been taken with the instructions, with the propulsion method, with the operation of the upper levels, and with the inclusion of at least two cars.
+Car racing sets are easy to create but few are created well.
+The kidlets didn't play with this much beyond the first day, and now I just see pieces of it scattered among the rest of their toys."
+"Have you ever seen a boy who LOVES the Cars movies stand eagerly by while his parents struggle to put together a toy that is ridiculously hard to assemble?
+Have you ever seen that boy try to comprehend why the toy - which looks like the coolest toy ever - doesn't work even remotely closely to how it's supposed to?
+Cars that are supposed to zoom across and then end up in the Winner's Circle either fall off the track, go about three inches, miss the track entirely, or zoom around in circles and just never end up in the winner's circle.This is seriously one of the worst designed toys I have ever had the misfortune to touch.
+It ranks up there withChase, the non-transforming Transformer.
+About the best thing I can say about this toy is that it hasn't actually physically hurt my son yet.Now I have to go out to Toys 'R Us and buy my distraught son a toy that actually works to make up for the fact that this thing doesn't work.
+He's just sitting there and every twenty seconds or so asking me ""why it not work, Daddy?""
+""Why the car not go on the track, Daddy?""
+""Why Lightning McQueen not go in the Green thing, Daddy?""
+Thanks a lot Mattel."
+Tried through Vine!The track was put together pretty easily by myself.
+I haven't tried it on carpet like some reviewers but on the linoleum floor it works pretty well.
+The upper track is pretty bad in my opinion, and overall I am glad I got this free.
+I'd say it couldn't be worth more than 15 bucks because it simply isn't fun.
+I'd say about 6 years old is the best kid age for this toy but that may be pushing it.I think Disney just let the manufacturer give 'em money and slap their logo on this, and Cars is a far cry from a great Pixar franchise, but someone let it rival Hot Wheels by slapping four times the price on the same toy, basically.Anyway if you must have Cars, I would skip this race track entirely.
+"As with most Disney/Pixar films, there are any number of product tie-ins.Most, like this one, from ""PLANES"", offer good value for the money; are a good deal of fun for both young (under 10?)
+Kids AND their aging grandpas; and have, at least one, totally unnecessary, add-on that one needs to buy separately.In this case the A-OTOBS is a second stunt car.See, the set allows for TWO cars to be ""released"" at one time.But the set only comes with one.And, if you're a 7 year-old, you DO NOT want to learn that there are things you could be doing with your awesome new speedway,That.You.Can't.Do.`Cause you don't have the part.`C'mon guys!You do so much right... would it hurt to complete the set?
+(And, yes, if you kids... the 7 year old AND the...um... older one... have cars from other sets ,some WILL work... but, still)"
+It is sad that Disney/Pixar would put out such an inferior product for their young fans of Cars.
+My three year old grandson loves Cars and Lightening McQueen and it was sad to see his disappointment in this toy.
+He was so excited to get this and then increasingly frustrated as grandma tries to wade through poorly written instructions.
+Finally his dad took over and even then it took about a half hour to put it together.Was it worth the frustration?
+In a word, no.
+There is only one car included but the track is designed for two.
+So right away you know you aren't going to get your money's worth.
+The structure is very flimsy and you know it will not last long.
+You have to crank the cars to make them go.
+This too was frustrating for a 3 year old.
+The car didn't go long before it had to cranked again.
+The stunts don't always work and you hold your breath that it will do the them.Overall, I would not recommend this product.
+It's not well made, well constructed or delivered in a satisfactory manner.
+If I had paid for this, I would have returned it.
+It was a major disappointment to a little boy who loves the Cars franchise.
+Truly it made me wonder how much Disney/Pixar cares for its fans.

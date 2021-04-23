@@ -1,0 +1,269 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+This is a fun, fast, enjoyable game which the children and even parents and grandparents enjoy.
+That's it for gameplay.
+***Update: Game has become one of my daughter's favorites.
+The game has endless possibilities due to this arrangement.
+And while it's not quite as enjoyable as some of the others they've produced, this is still a fun game for kids or for the whole family.The premise is pretty simple.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.002074585296213627,0.004440957214683294,0.0028016516007483006,0.0043008048087358475,0.0019347630441188812,0.0033523503225296736,0.0036547938361763954,0.0028954369481652975,0.0037540711928159,0.004046679008752108,0.005233918782323599,0.0028029996901750565,0.005233918782323599,0.004851611331105232,0.004784319084137678,0.0038736264687031507,0.0021999848540872335,0.002106435364112258,0.005375699605792761,0.003848740831017494,0.005375699605792761,0.005968587007373571,0.004894942976534367,0.004888621624559164,0.0053323665633797646,0.003995983861386776,0.004651046823710203,0.006202233489602804,0.001976899104192853,0.0031479315366595984,0.0048325564712285995,0.002525750081986189,0.002983626676723361,0.004770987201482058,0.005023437552154064,0.0026908740401268005,0.006169926840811968,0.0017006703419610858,0.003955154679715633,0.003103570081293583,0.0035418185871094465,0.0037989350967109203,0.002203061943873763,0.0029180082492530346,0.004600731655955315,0.0017785371746867895,0.003275563707575202,0.0050806086510419846,0.0037703467532992363,0.002725613536313176,0.0017199846915900707,0.0030112953390926123,0.0036942868027836084,0.0019245155854150653,0.0029521400574594736,0.004042938817292452,0.0053609260357916355,0.00536931399255991,0.005325838457792997,0.0018487864872440696,0.004960525315254927,0.003480810672044754,0.0069250017404556274,0.004681394901126623,0.002714593894779682,0.003876429283991456,0.001841583289206028,0.002381100319325924,0.00381444301456213,0.0032250448130071163,0.002822014270350337,0.0036520075518637896,0.004641382023692131,0.002741775242611766,0.00419578468427062,0.004773884546011686,0.004971979185938835,0.0038166181184351444,0.0049584475345909595,0.0027804370038211346,0.004994648974388838,0.004728402476757765,0.0029922041576355696,0.00547785172238946,0.001902325893752277,0.0028085638768970966,0.003695487277582288,0.0021063752938061953,0.0014912397600710392,0.003028497099876404,0.003029587911441922,0.003953860141336918,0.005261547397822142,0.00387933268211782,0.005979585461318493,0.0012961673783138394,0.005525944288820028,0.003481104504317045,0.005303814075887203,0.001740236533805728,0.004253988154232502,0.005458153784275055,0.00367544824257493,0.0030777184292674065,0.0026762199122458696,0.005255999509245157,0.004625352099537849,0.0041939024813473225,0.002512257779017091,0.005894249305129051,0.006022159941494465,0.005993872415274382,0.004023190122097731,0.005282154772430658,0.002539656590670347,0.0039550079964101315,0.004415776114910841,0.0019183973781764507,0.0027435296215116978,0.0030899615958333015,0.005373743828386068,0.002860073000192642,0.004677886608988047,0.004931540694087744,0.005516653880476952,0.003637621644884348,0.002323581138625741,0.0047891330905258656,0.003141260938718915,0.00526095274835825,0.004153810441493988,0.005406767595559359,0.0034670906607061625,0.005290445405989885,0.004434931557625532,0.004115459509193897,0.0018258689669892192,0.004058151971548796,0.003959049936383963,0.005287881474941969,0.004287195857614279,0.002942335093393922,0.004105033818632364,0.0052093700505793095,0.0053550247102975845,0.005020526237785816,0.004632440395653248,0.0014585113385692239,0.005945032928138971,0.005493088159710169,0.004260562360286713,0.002775107743218541,0.0058979978784918785,0.004695386625826359,0.004862154833972454,0.004401435609906912,0.004284934606403112,0.004352633375674486,0.004439830780029297,0.005352031905204058,0.005429299548268318,0.005213822703808546,0.0018617628375068307,0.001865227590315044,0.0035112788900732994,0.0052008964121341705,0.0031598384957760572,0.00208442029543221,0.0016866540536284447,0.0019714341033250093,0.0023572405334562063,0.0041605569422245026,0.001612472115084529,0.0057181669399142265,0.005433014594018459,0.00684646749868989,0.005368028301745653,0.0026405102107673883,0.005540024023503065,0.0022155209444463253,0.0032420065253973007,0.0019657928496599197,0.002137694275006652,0.0035359314642846584,0.003841162659227848,0.00526595301926136,0.005379827693104744,0.004919209983199835,0.0015420290874317288,0.0023887907154858112,0.0018810211913660169,0.005834425799548626,0.004824306350201368,0.005379827693104744,0.004830994177609682,0.005351133644580841,0.0034520658664405346,0.003697180887684226,0.005351133644580841,0.005678392015397549,0.0017080577090382576,0.00185992824845016,0.005595311522483826,0.005606819875538349,0.004913299810141325,0.004569143056869507,0.004071439616382122,0.003752482123672962,0.0019770630169659853,0.0053367605432868,0.0014598064590245485,0.002973168855533004,0.003059927374124527,0.0023427088744938374,0.002630008850246668,0.0021691550500690937,0.005125637166202068,0.004933536052703857,0.004643482156097889,0.0028647598810493946,0.0056363982148468494,0.002402355894446373,0.00589890917763114,0.0024484337773174047,0.0022523989900946617,0.0030025539454072714,0.004286821000277996,0.004596078302711248,0.005234956741333008,0.0032698053400963545,0.005712124519050121,0.0053768218494951725,0.004835043102502823,0.00540263531729579,0.003613743232563138,0.0034640065860003233,0.004199534188956022,0.004817226901650429,0.0036372775211930275,0.0042468770407140255,0.00359824625775218,0.0020771832205355167,0.005184793379157782,0.0038605337031185627,0.00836231280118227,0.005080514587461948,0.004645953886210918,0.005658388137817383,0.0026022952515631914,0.004684605170041323,0.005347541067749262,0.00425661401823163,0.001815958064980805
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+I have a 5 yr old and she loves find the hidden object games, and Candyland, so I figured this would be a great combo for her to play.While the board is heavy cardboard, having to put it together means it is actually not as durable as it could be, though that is part of the fun-moving the house around.
+The game does need to be on fabric, versus bare wood or countertop, to keep it from moving when the younger kids are playing.It is a really fun game, one that younger kids can understand easily and will want to play- perfect for family fun night or a Christmas present!
+"I say it reminds me of Candyland because of the object cards that move your piece randomly on the playing board that has the matching object.
+Instead of color cards you roll a die to move, if you roll a 6 you get an object card.The game has replay value because the pictures cards are randomly placed on the grid every time a new game is started.I played this game with my 5 and 7 year olds.
+While it started off fun, it was more frustrating in the end as we all made it near the attic multiple times only to roll a 6 to pick an object card and get sent somewhere lower on the board.My son said ""Please someone win so it is just over!""
+We finally ran out of object cards and our suffering ended.
+Needless to say this will not be on the rotation for a while.My five year old kept on accidentally pushing the picture cards around on the board.
+Otherwise everything is heavy cardboard."
+"I was intrigued by this game because I love the game ""Ruin"" (http://www.amazon.com/Ruin-The-Interchangeable-Board-Game/dp/B001D784UW/ref=sr_1_2?s=toys-and-games&ie;=UTF8&qid;=1366243135&sr;=1-2&keywords;=ruin), but that one's not too good for kids.Though the premise of the two games is obviously different, the setup is very similar.
+Take the random board pieces, spread them across the play surface, and - voila!
+- a different game every time.
+And this is a good game for kids, although my 3-year-old is possibly a tad too young to make it well through a whole game.As to other reviews that the game pieces are not as well constructed in ""this version"" as they were in ""previous versions""?
+Well, this is my first experience with the game.
+The pieces seem to be holding up fine with the few times we've played the game.
+If you take care of it (and make sure your child also takes care of it), it should last for several years."
+I've never been a fan of games, but I play them quite a bit in classrooms when I'm teaching young kids.
+Ravensburger Race to the Roof is kind of fun and the kids I played it with seemed to enjoy it.
+There's a board and cards, and the players are in competition to reach the attic before anyone else.
+Sound like fun?
+The description claims that recognition and association skills are enhanced by having kids identify objects in the room, so, yeah, I guess this is educational.
+Well, it is kind of fun to play.
+I got this game and sat down the same day to play it with two five year old girls.
+They were very interested in it and had fun playing.
+It was fun for me as an adult too.
+How is it played?
+The youngest player goes first.
+The players arrange different type of rooms in boxes in rows horizontally and vertically.
+The game has endless possibilities due to this arrangement.
+The player rolls and advances that many spaces to the attic.
+The first one in the attic wins.
+What is the twist?
+If a six is rolled, a person gets an object card and must find it in the arranged picture cards of rooms on the board.
+This could advance the player or cause them to go back spaces.
+The only problem I had was for five year olds the room cards moved around too much and complicated things.
+I would recommend the game.
+Being a big fan of their other board games like Make N' Break as well as some of the puzzles they've produced, I had fairly high expectations for this game.
+And while it's not quite as enjoyable as some of the others they've produced, this is still a fun game for kids or for the whole family.The premise is pretty simple.
+You roll the die, get cards, and move forwards and backwards in your quest to get from the basement to the attic.
+The educational value for this one comes not only from figuring out where to move after rolling the die, but also from trying to find the objects on your game card.
+As with other products from the same company it's a good mix of fun and learning, which is pretty much all you can ask as a parent.
+With the ability to mix up the cards and the different rolls of the die, there is still some value in repeated play.The board isn't really thick, but neither is it flimsy or likely to crease easily.
+The game pieces are solid, as are the object cards.
+I'm not a big fan of the graphics (slightly garish), but I don't think they're really made to appeal to adults.
+Overall, I'd say this is a very enjoyable game  and a very good value given the low price.
+"As a parent and now grandparent of game-lovers, I am always on the lookout for games that adults can play along with little ones.
+Unlike many of games geared toward children, Ravensburger's ""Race To The Roof"" does not cause adults to cringe when a child presents it for playing.
+""Race To The Roof"" can be played with and enjoyed by children who are younger than the suggested age range of 5 years or older.
+The objects to be located are ones with which most children will be familiar; if not, the unfamiliar items provide a learning opportunity.
+Counting the spaces one must move reinforces the ability to sequence numbers.
+Having to move backward gives children the opportunity to ""overcome"" a set-back and to learn that luck sometimes plays a part in who wins and who loses.The quality of Ravensburger's ""Race To The Roof"" is a bit less than I would have expected.
+Instead of a game board that is one-piece and hinged in the center, ""Race To The Roof"" has a two piece game-board.
+Unlike older board-game playing surfaces, this item is not constructed of a very heavy cardboard.
+While it might be somewhat difficult for very young children to damage, determined three-year olds would have no trouble bending the pieces.
+The wooden game pieces are unevenly painted; our yellow picec shows the wood-grain around its center point.
+Illustrations are simplistic; this seems to be a trend with illustrations in books as well as in games.Ravensburger produces games that are both fun to play and provide learning opportunities for children.
+I would like to see Ravensburger use better quality components so that their games last through several children and can be kept by parents to be played with future generations."
+"Race to the Roof is an interesting game.
+It's suggested for ages 5+ but seems appropriate for a younger set in my opinion.
+My 7 year old has played it but finds it simplistic and always chooses more complex games.
+I would perhaps suggest this for ages 3-6 instead.Gameplay is simple and consists of rolling dice to advance gamepieces through 16 rooms along a path from front door to attic - first to reach the attic wins.
+However, rolling a 6 means drawing an item card (each having a picture of a single household item) and then moving one's gamepiece to the room where that item is located.
+This may help or hinder the affected player, depending upon the item's location - sometimes you move closer to the finish line, sometimes back to the start, or somewhere in between.
+That's it for gameplay.
+It's certainly simple enough for most kids aged 3-4 to grasp, hence my recommendation for going younger than the suggested age range.
+The skills involved also seem appropriate for younger ones - object recognition, turn taking, counting.
+Older kids will find it less engaging since there is no strategy involved - it all comes down to the luck of the roll.One downside to playing this with younger kids is that the board setup is delicate.
+The 16 room cards are simply laid on the board and slight bumps of the board can send the whole thing a bit askew.
+Not a big deal, but it can get annoying straightening the cards back out frequently as little hands & elbows tend to bump the board from time to time.Race to the Roof is not a bad game, but neither is it a great one.
+It is a perfectly acceptable game for teaching basic lessons like turn taking and counting, and it's simple enough for even the smallest players to understand.
+The lack of any element of strategy, however, along with the delicate board layout, keeps it from rating better than ""okay."""
+This is an interesting game for young children.You put tiles down to set up the board.
+The board will then have a new path each playthrough, leading from the basement to the attic of a house.
+Along the way, you collect objects from cards.
+You roll dice to proceed, and each card you draw (when you roll six) could send you up or down or win you an object.The tiles need to remain aligned for the game to be playable, and there's nothing keeping the tiles aligned.
+They are just loosely sitting there.
+I solved this with two large books holding one corner straight.The games takes a bit of patience, but for kids, it's enjoyable.
+The construction quality is acceptable for its purpose, but nothing to write home about.
+The board has a lot of clever hidden images, and is creative.So long as you don't plan to play this many times, it's a decent game.
+This little game is great for the whole family.
+My son loves it and he plays it day and night whether anyone wants to play it with him or not.The concept is to get to the attic of the house before anyone else does.
+With a modern take on the Sorry game concept, you can be propelled forward or backwards with cards when you roll a six.
+The pictures of the rooms are cool for kids to look at because there are so many items in them sort of like an I Spy picture.
+The room cards are removable so that every time you play, you can set the house up a different way - which is almost as much fun as playing to my son.I fully endorse this game for kids who are learning about the different rooms of the house and what items might be in which room.
+It's also good for child socialization.
+This is a good game to play with a young child.The rules are simple and easy to understand.You never have to count higher than six.You need to find items on the game board making for varied activity.You redraw the game board every time you play, keeping the game fresh.The rooms and house do not make a stable playing surface.This can cause problems during normal movement and can be catastrophic when excited.The game is a variant of Chutes and Ladders.The colors are muted but nice.Illustrations are standard.Overall, this is a nice game to play with small children with reasonable replay ability.
+"We have a few other Ravensburger items (Snail's Pace Race,Funny Bunny,Thomas & Friends Birthday Surprise 24 Piece Floor Puzzle, andColorama) so I definitely had a certain expectation of the quality.
+And unfortunately, I was disappointed.The biggest problem is the board--it just sucks.
+It's NOT the typical heavy-duty fold-in-half board found in other games, but is a thinner material that comes in two separate pieces that fit together like a puzzle (and only two big tabs at that).
+The individual pieces are also of a thinner stock, but that's actually okay...but they constantly get knocked out of place and bumped around the board because there's nothing holding them in place.
+Every little jostle of the board or a heavy-handed kid trying to move pieces mess up the tiles.
+So you're spending half your time fixing the board.
+Within mere minutes of playing, I was trying to figure out how I could fix it with sticky Velcro pieces.
+For a company that usually has really high quality games and pieces, this was a BIG disappointment.That said, the game is fun, and I like that each game will be different because the cards always get placed differently.
+Also, though (I think) it's rated for ages 5+, my almost 4yo had no problems playing it (though he lost interest after about 10 minutes the first few times).
+Sidenote: one alternate way we play is to pick another number (besides 6) where you get to pick a card.
+This way there's more searching for objects and moving around instead of just plodding ahead...which we came up with after almost a whole game of no one getting a six.Trying to determine a rating on this one was a bit tough for me, as I've rated their other products four stars...and this one wasn't as good, so it should be three stars...but I feel it deserves a higher rating than ""it's okay.""
+But I will go with three stars because I can't do 3.5."
+A lot of the reviews for this game mention the original version that was much sturdier than this one.
+Luckily for me, I never heard of this game until I got it so I couldn't compare it to others.
+Sure, the house pieces could be sturdier (especially since this game is from Ravensburger), but I've realized many classic games are cheaply made these days so I can't hold that against the game.The game is fun-- much like Candyland and Shutes and Ladders-- but when we ran out of object cards and were moving forward with just the roll of the dice, my son lost interest.
+If we didn't follow the rules and kept using the object cards, we'd probably never finish the came.Maybe it works better with more than two players.
+Overall it is a fun game but keep in mind your younger child who likes the thrill of luck may become annoyed when the luck runs out.
+My daughter loves playing this game, but for some reason she only loves it if 4 people can pay together.
+Since we don't have 4 people in our family who are old enough to play this game, stuffed animals are added as needed to give us a grand total of 4 players.
+And yes, the stuffed animals are required to roll the die and take turns racing to the roof right along with the human players.This game is simple enough for young players, as no reading is required,  Plus, for us, this game is a spring board for creative storytelling, as I will come up with a question or two about what is going on in some of the rooms and my daughter will make up an answer to my question.....&#34;Where do you think the grandma got those flowers she is putting in that vase?&#34;  or &#34;Where do you think the mother is going, that she needs to change her dress so quickly?&#34; (If you saw the game pieces, you would know what I'm talking about here).My daughter also enjoys setting up the board, as the rooms can be placed in any desired order.
+There is no set way the house has to be set up.
+This means the game is never the same twice.
+This makes for a more interesting game.Overall, this is a really fun game that gets my daughter thinking creatively and inventing stories based on pictures she sees, plus it teaches her patience as she waits her turn to roll the die and move her piece closer to, or possibly farther away from, the roof.
+I usually love anything made by Ravensburger, but this game doesn't meet my expectations.
+The game is simple enough.
+There's no reading required and once you explain the rules my kids picked it up very quickly.
+There is no skill or strategy involved, so anyone could win any game depending on the role of the die.
+The pieces do move around the board, especially if you have some wild die rollers like I do.
+It's fun enough for a few games, but it doesn't have a lot of replay value.
+"We are huge fans of Ravensburger puzzles, which are challenging and amazingly well made, but had never played with one of their games.
+Race to the Roof, therefore, was a disappointment.
+The game is fairly simple to play once the pieces are put together -- but putting it together can be a tad frustrating for a kid dying to play with his new toy!
+The game is similar to simple preschool games like Candy Land/Chutes and Ladders: players have to hunt for items that match those on cards in order to figure out where a marker should move when rolling a 6.
+The board is modular, however, so it changes every time you play the game -- so, the board might not look the same twice.
+I agree with those who say the quality is cheesy -- not at all like other Ravensburger products.
+And, as others say, it would be nice if the ""rooms"" didn't sliee around so easily, which makes it hard to stay in control when antsy kids move the pieces around."
+"I ordered the Race to the Roof game for my daughter who is five years old.
+She loves to play board games and when she saw this one, she really wanted it.
+The game itself is very simple for children of her age.
+You put the ""house"" pieces in the house and then lay the deck of cards face down.
+Each player rolls the dice and whereever they land, that's how far they still are from the attic.
+If you land on a red circle, then you draw a card and go to the room shown on that card.
+It can get you more ahead or even take you back!
+It's a fun game and helps teach kids what items are in each room of the house."
+Given Ravensburger's reputation as a puzzle manufacturer, I was eager to get this board game for my six-year-old son.
+Their puzzles are high quality and very sturdy.
+The pieces interlock perfectly.
+We own three, along with their Tetris-like game, and I had always been satisfied with the company.
+Not this time.Because of its awful design, we never played it.
+The board comes in two pieces and is fairly flimsy cardboard.
+I expected a fold apart board like any other board game.
+But the worst part about it is there's nothing to hold the room cards on the board!
+A single bump sends them out of alignment.
+Coming from a puzzle maker, I was appalled.
+The board is going to get jostled.
+And don't even think about playing it on a carpeted floor.The concept itself is nothing new and fairly trivial.
+Chutes and Ladders, essentially, though a race to the attic seems less satisfying for some reason.
+I'd ordinarily recommend such a thing for young children, but not if the pieces are going to be sliding all over the place.
+Talk about frustrating.Ravensburger ought to be ashamed of this offering.
+The kids are gonna love this one.
+First, you put the game together and this is where I have the complaint of the game being a little cheaply made.
+The game board is made of thick cardboard but if you have younger kids who are not careful, they will move the room pieces around and get things out of alignment.
+We solved that problem by supervising the game play, making the kids play in a calm fashion, and laying the board on a tablecloth or other piece of fabric which helped keep the room pieces from moving around so much.You roll the dice and move around the board, starting in the basement and working your way up the house until you reach the attic.
+Along the way, you look for items on your game cards.
+It is sort of like a hidden object game, only easier.
+The first player to the attic wins.
+The game has a lot of replay value in that the rooms can be re-arranged each time you play.
+Overall, this is a really cute, fun game and I highly recommend it.
+Race to the Roof is a fun game, but I do agree that it might be better for a younger age:  ages 3-6.
+I have a 7 year old and a 5 year old and they had fun playing, but my 7 year old grew a little bored with it after awhile.It's easy to play.
+Just roll the dice and move your way from the basement, through the house, all the way up to the attic.
+Game cards let you look for items along the way and the first one to the attic wins.I do recommend this game and think kids will enjoy it.
+I'm very impressed with Ravensburger products such as their puzzles, so I was excited to see their games as nicely put together.
+My nephews received this gamed for Christmas and couldn't wait to play it!
+With my sister, we teamed up against the kids and everyone had a great time!
+The instructions were easy and it captivated their attention for the full length if the game.
+Loved it!
+"The game board is atypical, with two sections fitting together like a giant two-piece puzzle.
+The two sections have the same thickness as the ""object"" playing cards and the ""room"" cards that can be placed in a variety of combinations upon the board.Since they are not secured, everyone must be careful not to disturb the board in any way as to avoid the shifting of the cardboard ""rooms.""
+This can be extremely frustrating.The wooden playing pieces are bowling pin shaped, but quite small.
+Everyone begins at the front door.
+The youngest player goes first and throws the one die and moves the number of spaces.
+However, if the number is 6, then you must pick a object card, find the object within a room and move your playing piece to that spot.This is similar to ""chutes and ladders,"" except that the learned skill combines object identification with numerals.
+I only rolled a 6 once in the game-yet I won, because the object that I picked off the deck happened to be the racket (highest object on the board).
+Two turns later, I rolled the exact number of spaces to make it the rest of the way to the attic window.
+So, game could be over that quick or drag on if you keep rolling 6, and the objects that you happen to choose end up being within rooms on lower floors.The pictures are light pastel-colored, making it slightly harder to readily find the objects.
+This color scheme seems to be more geared towards girls, rather than boys who usually gravitate towards bolder colors.
+I noticed that Ravensburger is selling another version of this game, except it has the original artwork and is more vivid in color.Unfortunately, it seems that both games fail to address the need to secure the room pieces.
+It's frustrating to have to be so careful.
+Yes, this game will also teach self-control.
+***Update: Game has become one of my daughter's favorites.
+It's also one of only a few that I actually enjoy playing with her over and over.
+I found that you can also use this to practice foreign language vocabulary.
+The kids love this game.
+It's easy to play- one tries to get from the basement to the attic first, by rolling a die and following the cards' instructions while searching for items.It's suitable for most ages 3 or 4 and above; even though, they say 5-15.
+The set-up time is minimum, and one can start playing pretty quick without suffering through complex directions.The fun comes with the variations, and the fact that anyone can win.
+As said by others, it's like Chutes and Ladders.
+And our kids love Chutes and Ladders, especially, when mom or dad get sent back to the beginning!
+We try sometimes playing it with a adult handicap, e.g., kids can only go forward, but it's not necessary.The board needs to be stabilized on a solid, none shifting table surface to avoid the rooms moving, but we got the hang of it after the first game.
+We enjoy family movie night and also family game night.
+One can't do enough family time, and this game is a nice addition.
+First off the game is fun...but it does seem very cheap.
+I don't think it will last very long in the hands of our 5 - 7 kids playing it.
+Things can easily get moved around if the children aren't careful and with a 5+ recommend the younger kids are going to knock things around.The point of the game is to move from the basement to the attic.
+You look for items along the way, rolling the dice to move.
+The first player that makes it to the attic wins.
+Any time you play you can get sent back down to the bottom, so it can get a little exciting.
+I love the fact that you can change things up, move the rooms, etc, so things don't get boring.
+I do recommend this game for kids 5+ - just know that you might have some issues when the game is bumped around.
+But, I have this problem in a lot of the games that we play together.
+This game can change each time you play.
+The board is two pieces, and the rooms are actually pieces that are played go on the board and can be rearranged and place the rooms in different location.
+Also each time you roll a six, you pick an object card, find the room that the object is in, and you move to the red dot that is under that room.
+Up to 4 people can play.
+It is a real cute game.
+"I thought at first that this game was a variation on Candyland (you roll a dice and advance along a path to the end).
+But boy was I wrong--every game is different because the ""path"" is constructed differently based on how cards are placed on the board.
+As a result, the game never stales.
+What an ingenious idea.
+My three-year-old, five-year-olds, eight-year-old and eleven-year-old love it.
+My only complaint is that there are not enough markers for all of them to play (not a problem, just use some spare change as extra markers)."
+"As with other Ravensburger products, solid materials and good graphics add to the quality of this game.
+My 4 yr old especially likes the way the game changes every time; because the ""rooms"" in the house can be rearranged, it's never the same game twice.Gameplay is easy to learn, and a game takes about 20-25 minutes.
+It teaches matching skills and counting skills to young ones.Only knock is that the ""room"" cards slide a bit on the board, so if you aren't careful things can get out of alignment.
+Overall, happy with this product and enjoy playing with my daughter."
+This is a variation of Snakes and Ladders (aka Chutes and Ladders).
+Play begins by arranging a 4 x 3 grid of rooms on the board.
+Players then roll the dice to zig-zag their way up to the attic.
+Instead of snakes or chutes, players that roll a 6 must take a card and move their piece to the room that has the object on the card.
+This can help as often as it hurts, but because the board changes with each game, the results are more unpredictable than Snakes and Ladders.
+Children also have to take time to find the objects they need (a little bit of Where's Waldo in this) but after a few games, kids start to memorize what room has which objects.This is very much a child's first game.
+It is very simple.
+There is no strategy.
+It encourages cooperative play (taking turns), counting, and rule-based-play.
+I have had my fill of Snakes and Ladders, and an adult's patience will eventually be tested by this game.
+However, my kids have truly enjoyed it and keep pulling it out.
+Consistent with Ravensburger's other games, this one uses thick cardstock and is better made than most mass-market children's board games.
+That said, this game is a redesign of an old one.
+In the old one, the room pieces set in the board (like some of Ravensburger's beginner puzzles).
+In this version, the room pieces are merely placed atop the board.
+When you play the new version, the room pieces always slide around.
+I am a big fan of board games for children and this one does not dissapoint.
+I do agree however with other reviewers that it is more for the 4 to 6 age range.
+My grandson loves the I-Spy books so having to look for an item in the rooms to move on the way to the attic is great fun.
+Once again I am satisfied with another Ravensburger product.
+This was a well made game for several players.
+It's bright and fun.
+The group I genererally have playing it ranges in age from 4-9 years old.
+That is a bit of a stretch, but if I had three six year olds it would be perfect.
+Ravensburger always makes great puzzles and games for the family to enjoy and this Race To The Roof is no exception.
+The children always enjoy this Parent's Choice Gold Award Winning Game.
+The game itself is ever changing as you can set up the 16 rooms in any order to play.
+The room cards are very family designed with cute colorful pictures of the children, sisters, brothers, mom, dad, grandpma, grandpa and the family pets racing to the attic.
+Once the rooms are set up for your house design, players begin in the basement and take turns rolling the dice.You keep moving your players forward as the goal is to get to the attic first.
+Along the way, should you roll a 6, you have to take one of the 20 object cards, then you must find that object and move to that room.
+Of course you could move backwards if the object should be in a room behind you.
+The game takes about 20 minutes to play- 15 minutes if not many 6's are rolled.
+Two to four players can play and it is recommended for children 5 years old and up, although some pre-schoolers love moving through the house to get to the attic first.The game is wonderful as it gives your child social skills- learning to play with others, racing to win and seeking objects.
+We need more social skilled games instead of computer games for one, which isolate children, making them less able to cope with society.
+This is a fun, fast, enjoyable game which the children and even parents and grandparents enjoy.
+Once you play it, it's easy to see why it won the Parent's Choice Gold Award.
+"My two girls (ages 7, 10) really enjoy playing this game.
+They love ""find & see"" and ""I spy"" books, so this game combines their love of ""seeking"", with their love of board games.
+The rooms can be rearranged, so there's lots of repeat play value.
+I love that they are reaching for this game after school instead of their ipods for a change!
+It's even fun for me and dad to play with them too.
+It's a little like candyland/shoots and ladders- you can get sent back down to the bottom at any time, but having to look for the items on the cards really keeps them engaged, and is so good for such a wide age group!
+My ONLY complaint is with the pieces and cards sliding around on the board."

@@ -1,0 +1,187 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+Great addition to the game shelf, the retro look makes the time playing extra special for the holidays.
+I remember this game from when I was a kid and was thrilled to see it available again in this ""vintage"" packaging.
+.
+Why not simply make the template available for download?
+when does the game end?).
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.0037282223347574472,0.004600748419761658,0.004755321424454451,0.00761994905769825,0.007074433844536543,0.007585946004837751,0.007584570907056332,0.004320125561207533,0.0076406304724514484,0.008917075581848621,0.007809819653630257,0.0057663097977638245,0.006927963346242905,0.0031671386677771807,0.007586861029267311,0.004911222029477358,0.006720214616507292,0.007197617087513208,0.006586904637515545,0.00749620096758008,0.0028299535624682903,0.007788392249494791,0.008141463622450829,0.005504012107849121,0.008973109535872936,0.008099800907075405,0.0047499374486505985,0.003994590137153864,0.007313144393265247,0.007340799551457167,0.0026942293625324965,0.006415802985429764,0.004686878994107246,0.007738856133073568,0.004825021140277386,0.006415930110961199,0.007381288800388575,0.002710434142500162,0.005286132916808128,0.003256577532738447,0.007360576186329126,0.006840942893177271,0.006110244430601597,0.006613659672439098,0.004893629811704159,0.008254118263721466,0.007335508242249489,0.007531309965997934,0.005393084138631821,0.006019023712724447,0.003603605553507805,0.006234358064830303,0.005121687892824411,0.00365305389277637,0.006902583409100771,0.0061907037161290646,0.005966569762676954,0.003742612898349762,0.002123829210177064,0.006447490770369768,0.005383769981563091,0.004090470727533102,0.004510039463639259,0.007522264029830694,0.006413912866264582,0.00925862230360508,0.007543818559497595,0.006490022875368595,0.003029963932931423,0.007031763903796673,0.00763979135081172,0.00820907112210989,0.004906901624053717,0.003137384308502078,0.006364326924085617,0.008453236892819405,0.007482882123440504,0.0075329071842134,0.00403436878696084,0.005709491670131683,0.00741377379745245,0.006840833462774754,0.0054398332722485065,0.007398781832307577,0.006987550761550665,0.003444201312959194,0.00753399170935154,0.007395902182906866,0.004703185521066189,0.008286246098577976,0.007118947803974152,0.007474615704268217,0.0019392999820411205,0.006675591692328453,0.005292602349072695,0.004044111352413893,0.006442068610340357,0.0070968251675367355,0.0033176729921251535,0.004168182145804167,0.004399376921355724,0.0049525173380970955,0.007781381718814373,0.006561520043760538,0.007817964069545269,0.007989698089659214,0.006995908450335264,0.007098126225173473,0.0035016643814742565,0.0064265853725373745,0.006693865638226271,0.007788971997797489,0.0034569252748042345,0.0071929097175598145,0.007562593091279268,0.006344628054648638,0.005442761350423098,0.0067129600793123245,0.004803079180419445,0.006476612761616707,0.006552654318511486,0.008280270732939243,0.007154821418225765,0.00408309418708086,0.006983374245464802,0.007428637705743313,0.0027047134935855865,0.00742534501478076,0.005711880512535572,0.0068772705271840096,0.0035056951455771923,0.002763114869594574,0.007626991719007492,0.005964353214949369,0.002172263339161873,0.006456831004470587,0.006289892829954624,0.006568902172148228,0.004796953871846199,0.0071459924802184105,0.006489526946097612,0.005041849333792925,0.0028594520408660173,0.0071459924802184105,0.007449557539075613,0.0028730027843266726,0.00697701470926404,0.007434730418026447,0.006079420913010836,0.003634502412751317,0.005255986005067825,0.002440366894006729,0.002714679576456547,0.0032721960451453924,0.0073989564552903175,0.004318393301218748,0.0042890505865216255,0.0023224917240440845,0.005392245948314667,0.004173838067799807,0.0027552193496376276,0.004743052646517754,0.006809948943555355,0.005217440892010927,0.0026062559336423874,0.00719824293628335,0.002230907091870904,0.003705361159518361,0.007587061263620853,0.0053837476298213005,0.007464963477104902
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+I love this nostalgic design; the color scheme is beautifully done in the classic Yahtzee color scheme.
+This is not an exact replica of the originally released version - it seems authentic to the time period.
+The hubby and I have enjoyed playing Yahtzee for years.
+This set is my lucky set; during the first game I rolled Yahtzee 3 times - I do not remember this EVER happening before.
+This will make a great addtional to game night.
+It's hard to go wrong with a classic family game such as this.
+The rules and strategies are a little tricky for our nine year old to get her head around, but it's a good challenge for to have to think that way, and it's just a fun game for our whole family.
+Good dice game, interesting strategies, nice scorecards and cups .
+.
+.
+just a classic family game.
+Nothing negative to say about this product.
+I used to play Yahtzee all the time as a child.
+What brings back memories the most is holding the dice bin and roller the die.
+My kids are having similar playing.
+It took a while for some of the younger set to get the rules, but once they did, they were engrossed with the idea of rolling for the best scores.
+This set has the classic retro-look, which may not resonate with my kids, but definitely resonates with me.
+This is a fun game that involves thinking and is good for the whole family.
+This classic game I played as a kid is back in all it's glory.
+The kids are loving it!
+I have a 7, 5, and 3 year old and we all played and people were jumping and yelling YAHTZEE!
+all night!
+Simple and entertaining.
+"I got this game with my 12 year old in mind out of a desire to find an enjoyable way to improve his math without really letting him know that was my intention!
+I remember this game from when I was a kid and was thrilled to see it available again in this ""vintage"" packaging.
+No leather cup as others have mentioned; too bad.
+And yes, more score sheets should have been provided than one thin pad!
+I'll be xeroxing more rather than ordering extras!
+But the game itself is a lot of fun.
+With some other games, we have had kids in tears when they are close to winning until someone makes a move that sends them back to the beginning or something.
+As another reviewer mentioned, there is nothing other players can do in Yahtzee to suddenly reduce your score, which makes for a much friendlier game.
+A refreshing antidote to all the high-tech games out there; in this one you have to actually think!"
+We love yahtzee.
+And the kids are all into 'retro' anything.
+We enjoy playing this version of yahtzee, but the box is all that is classic.
+The original dice were red, see through.
+These are white, standard old cheapo dice.
+The cup in original yahtzee was card board with aluminum rims.
+The cup has a loud aluminum sound to it.
+(we swap out our Farley cup, which is very quiet)  the chips for yahtzee bonuses are a nice touch.
+There is one pad for scoring.Yahtzee is fun, we enjoy the game, it's a great game to have.
+The classic version doesn't feel terribly classic.
+And if you were going to make it 'off' classic then for Pete's sake make a better dice cup, but again, yahtzee is awesome, everyone should own it.
+This is the same classic Yahtzee game that my kids love to play.
+There is a fun tin cup in this edition that added a nice noise factor to the game that young boys particularly enjoyed.
+Overall, 5-stars.
+It's hard to improve on a classic game so returning back to basics is sometimes the best way to go!
+!
+We have played Yahtzee for many, many years, and, at times, had to make up our own scorecards because the game had fallen out of favor.
+It is back and this version is just as nice as the game we owned  40 years ago.
+It is so nice to have a replacement for our beat up cup, and to have the new Yahtzee dice is an added bonus.Very happy to return to the great games of yesterday with the same quality.
+Ok- I realize Yahtzee isn't the most exciting adult game out there but this edition is pure nostalgia and it is still a great game for kids.
+I bought this to introduce to my son as I remembered playing it with my parents and siblings when I was growing up.
+It took him a bit to get the hang of it (and to put down the iPad) but once we started playing he enjoyed it- especially the dice cup.
+If you haven't played Yahtzee before, it's easy to learn and just enough strategy involved to let younger kids think and enjoy themselves.
+If you ever enjoyed Yahtzee as a child, this is a must have edition.
+"So it's the Yahtzee game you can get anywhere, but certainly not the ""original components"" for everything.
+Basically, this is Yahtzee, but designed to look retro...doesn't make it good, doesn't make it bad - just depends on if you like the game itself.
+For me, if I saw this and the ""non-classic"" Yahtzee on the shelf together, I'd buy whichever was cheaper.As far as the game goes - if you like it already, it's as fun as it always has been.
+If you've never played before...give it a try!
+And if you've played and didn't like it, classic version isn't going to do much for you."
+Classic Yahtzee is a great game, and the &#34;classic&#34; version reminds me of when I played this game as a child.
+The packaging is great and the art is astounding, but the best part of the game is the game itself... nothing has changed and you roll the dice and get the combos!
+I dig this game and it's totally fun!
+Worth every penny.
+Great addition to the game shelf, the retro look makes the time playing extra special for the holidays.
+Would gift this game in a second and most likely will.
+Very pleased!
+"This classic version of the dice game Yahtzee comes not from original manufacturer Milton Bradley nor current brand owner Hasbro but licensee Winning Moves Games.
+I don't remember the bonus chips (for additional Yahtzees scored in the same game).
+Otherwise this seems as enjoyable as it did when I was a kid.
+Like the box says, it's an exciting game of skill and chance.
+Luck dictates how the dice roll out, but skill plays a part in assigning values to the score card.The biggest problem in my opinion is the sloppy transcription on the score card sheets.
+For example: missing total (9) for Threes in the upper half; missing apostrophe on front and back for ""Players Scores"".
+Extra score pads can be ordered online, which seems a lame moneygrab.
+Why not simply make the template available for download?
+I'll simply make two-sided copies myself.
+At least the instructions here are well done.
+At the risk of sounding the un-PC alarm, it's sort of nice to read instructions printed in English only.Conclusion: Yahtzee is an obvious addition to your family's toy chest."
+We have many different versions of Yahtzee and play all of them regularly.
+Both of my kids (8 & 5)are great in math, in part because I make them figure their score every time we play just like my mother used to do to me.
+I do help them a little from time to time, but usually they want to figure it out themselves anyway.The game itself is very nice.
+The pieces are very well made and as long as they don't get lost, will last us many years.
+They tablet is larger than the ones of recent years and is very nice to use.
+The cup is big enough to hold the dice and well made unlike some of the other versions I have had over the years.
+And lastly, the box is sturdy and should stand up to many openings and closings.Overall, I recommend this game, especially if you have kids that need a math lesson.
+Even if you don't, this game doesn't take up a lot of space and is a lot of fun to play.
+Enjoy!
+i've never played Yahtzee before and the instructions can definitely be better (i.e.
+when does the game end?).
+But the hardware is good but not sure what happens when we run out of the scorecards.
+Also, the box is huge for no reason at all.
+Classic Yahtzee is here!
+Yes, the original version of that all time bar/party favorite is in it's old form.
+I like the metal cup and the noise the dice make when rolling them inside.
+The game comes with score pad, dice, playing chips and the Yahzee cup.
+Can you top your friends score?
+Do you want to do something fun with your drinking buddies?
+The you will want to get the game classic &#34;Yahtzee and the party started!
+"Like most board games, Yahtzee can now be played as a video game and even a phone app, but it makes me happy just to rattle the dice in the cup which looks (and sounds) like the game we played as kids.The game requires attention to strategy but can nevertheless be won by luck.
+The game box indicates the game is for ages 8 and up, and I agree that learning the combinations (in cards you'd call them ""hands"") might be a little frustrating for kids who are much younger than that.Board games allow for more human interaction than video games, for which kids just stare at the screen."
+Yahtzee is a game of skill and chance.
+It requires a little challenging brain power for two or more players.
+It is for players ages eight and older.
+This is a classic.
+Every child should own this game.
+Although it is over fifty years old it continues to be a favorite family game.
+It is portable and takes bout thirty minutes for a game.
+This game includes an aluminum rimmed dice cup, five dice, a score pad, and bonus chips.
+To play you roll five dice to make a certain combination.
+Whomever scores the most points wins.
+Simple and fun.
+Classic Yahtzee is everything like Yahtzee with the one obvious exception of the packaging and the downgrading of the materials.
+The game has been around forever and has gone through several packaging updates.
+It is nice, however, to see the packaging look retro.
+I have always loved Yahtzee and we have played often.
+But we did need an upgrade since our cup is now obsolete and we didn't have score cards anymore.
+Not as good quality as say an original game but for the pricing and nostalgia alone I give it four stars.
+I love Yahtzee, its one of my favorite games.
+You have to use your math skills ( which I love ) and its clean fun!
+Jesus' Blessings and Peace
+I love that this game is simple enough to play with younger children with some very basic help from an adult.
+I think I've got my 7 and 9 year old boys hooked on it, and all I have to do is help them with the final scoring - even that, it's great math practice!
+There aren't really any rules to argue over, and because the score sheet tells you exactly what you need, there's very little to remember, if anything.
+This is a good Sunday night game to play before bed.
+There are no buzzers, batteries, or extended time periods to play.
+We love Yahtzee!
+Such a simple game, but also so fun to play and very addictive.
+Yahtzee is an all-time great, and this retro offering will make you feel like you've been taken back in time twenty years where copy machines weren't so readily available and handwriting new game sheets was the norm once you ran out of the sheets provided in the box.
+This is a great game at a great price.
+I love how Winning Moves Games is coming out with all of these 'classic' editions of long-time family favorite games such as Yahtzee, Clue, and Sorry.
+They were great games when they first came out years ago, and now I'm excited to introduce them to my 5-year old and make them part of our family.This edition of Yahtzee has a retro look to it - from the box and the instructions down to the cup that you shake the dice in.
+Game rules and playing are of course the same as always, and it's still just as fun as I remembered.
+My 5 year old is learning how to play and enjoys working on her counting skills and learning how to group the dice when we roll, to see how to score them.Easy fun for the whole family or even to play by yourself - this would make a great gift for somebody who has never played or even for somebody who remembers playing as a kid.
+This is a Hasbro licensed version sold by Winning Moves Games (which also produces retro versions of other classics like Risk and Monopoly).
+I am very tempted to give this 3 stars because the quality is underwhelming.
+The dice or okay.
+The cardboard dice cup has a noisy metal bottom.
+There are a paltry 20 score sheets.
+The chips are cheap.
+The box itself has nice graphics, but the cardboard is thin and the fit between the top and bottom is too tight; it won't be long before the whole thing rips.
+And it is a lot of box for not a lot of stuff.On the other hand, how much can you dress up a dice game anyway?
+All of the versions of Yahtzee appear to be low quality in one way or another.
+This one, at least, is simple and retro.
+If you need to buy a version of the game, I would recommend this one or the travel version (which has the virtue of being compact).
+Otherwise, get yourself five dice, a cup, and print out a copy of the rules and scoresheet.
+You can spend the money you've saved on beverages.
+"Yahtzee is one of my favorite standby games.
+I even like playing it as a solitaire game and seeing how high of a score I can get.
+I was using an electronic version of the game for solitaire, and a generic version of Yahtzee for multi-player play, so I'm glad to have an official set now as well.I'll start off with saying that the main selling point of this set is if you like retro graphics.
+The retro graphics appear on the box top, the instruction manual (which has a few), score sheets, and dice cup.
+If you already have a traditional Yahtzee game, this one doesn't really have anything new to offer other than its graphics, and the box takes up a lot of space for the small amount of supplies Yahtzee requires.
+That being said, if you don't have Yahtzee already and are nostalgic, then it's a nice option.
+I do wish they had gone a little more over-the-top with making it authentically retro, though.Most people know how to play Yahtzee, but to explain it very quickly, it's a game where you roll five dice, and have three turns to get the best score possible.
+On your second and third turns, you can roll as many or as few dice as you wish to.
+Scores are for things such as three of a kind, a full house, and individual numbers.The metal bottom of the cardboard dice cup makes a nice ""dinging"" sound when the dice are rolled in it, but the rim isn't turned in as well as it could be, at least in mine, and can catch them a bit.
+It's not a big deal if you toss them out--just if you attempt to roll them out gently.This set only comes with 20 score sheets.
+While each sheet can be used six times, Hasbro seemed to be skimping on this part of the set a little bit.Overall, it's a nice Yahtzee set, and Yahtzee is always a great way to make math fun!"
+In the 50's and 60's Board Games and Cards were very popular.
+I remember playing Yahtzee in the 60's mainly with older family than with friends.
+The older people in the 50's and 60's loved cards- my Mother's friends had Bridge Clubs and the men loved their Poker Nights.
+I always felt Yahtzee was a combination of a board type game using dice combined with the skill of cards.The object of Yahtzee is to get the most points by figuring out the points the dice will give you with 3 of a kind, large straight, full house, aces and other card type combinations.
+You get three chances to roll the most points you can figure out.
+You really had to figure out which dice would get you more points on the upper section or the lower section of your score card to score high.
+They even included chips in the game, as you could get a chip for every 100 points you score.When you roll the 5 dice all the same number, that was Yahtzee.
+It's nice to see Classic games coming around again to enjoy.
+For anyone who likes the strategy of playing cards, only with rolling 5 dice, Yahtzee brings that and more to this classic 50's game of both skill and chance.
+I am not sure why the designers at Hasbro decided to put QR codes on the front of game boxes, to make the classic angle of the box confusing...why couldn't they put that on the back or in the instructions?
+I like the set, the mascot that says thinking can be fun...yet, really think and it's fun, believe me.
+The cup I guess isn't leather with a metal rim like the original, but I didn't assume for the price point that the cup would be leather.
+Overall, a nice set and I enjoy it a lot.

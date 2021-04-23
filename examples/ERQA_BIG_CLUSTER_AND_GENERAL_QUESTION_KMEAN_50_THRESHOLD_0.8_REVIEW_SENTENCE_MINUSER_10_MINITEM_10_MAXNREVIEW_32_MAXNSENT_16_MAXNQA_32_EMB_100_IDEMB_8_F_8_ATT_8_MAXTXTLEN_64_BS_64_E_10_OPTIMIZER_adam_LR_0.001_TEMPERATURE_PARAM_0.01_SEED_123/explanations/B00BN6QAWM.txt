@@ -1,0 +1,120 @@
+Top question(s):
+how it compares to tupperware shape o ball
+The price just increased $6 to $19.99. Is it worth it?
+Top sentence(s):
+Made with 100% recycled materials, brightly colored, easy to grip for toddlers, and easy to open and empty for adults, what's not to love?My eight-month-old twins don't really understand shapes just yet, but these types of toys are recommended for ages 6 months and up, so I thought I'd see how they reacted to it.
+Despite the environmental hype, it is still the basic hand eye coordination toy that helps in baby's development.
+But compared with my son's Fisher Price shape sorter, this has a poor design.
+The Green Toys Shape Sorter Baby Toy is an eco take on a classic baby toy.
+Green Toys makes awesome, durable and sturdy toys and this shape sorter is no exception.
+
+Question attention weights:
+0.9298089742660522,0.043025143444538116,0.027165859937667847
+Sentence attention weights:
+0.005589097738265991,0.010629178956151009,0.012072400189936161,0.009046558290719986,0.009830215945839882,0.009714021347463131,0.011775543913245201,0.01090987864881754,0.01081182062625885,0.011331337504088879,0.008402625098824501,0.00754218315705657,0.008965237997472286,0.006228760350495577,0.010053387843072414,0.009487359784543514,0.009750526398420334,0.013122382573783398,0.011236072517931461,0.010324944742023945,0.011474119499325752,0.005948226433247328,0.011109939776360989,0.010000141337513924,0.010579553432762623,0.011438355781137943,0.010110306553542614,0.008973566815257072,0.008857816457748413,0.010029656812548637,0.010246561840176582,0.009175322949886322,0.015907367691397667,0.007781678810715675,0.01108574029058218,0.006991788279265165,0.005660061724483967,0.009033395908772945,0.008066633716225624,0.009306762367486954,0.010584442876279354,0.010318736545741558,0.012057453393936157,0.010411412455141544,0.011158769950270653,0.008637445978820324,0.013532399199903011,0.009253807365894318,0.008369967341423035,0.012177743017673492,0.00780539819970727,0.015612279996275902,0.0073188128881156445,0.010204821825027466,0.009685137309134007,0.013586236163973808,0.009445244446396828,0.010231061838567257,0.011002941988408566,0.011847982183098793,0.01009386871010065,0.011814652010798454,0.009204695001244545,0.011446057818830013,0.010754366405308247,0.013220188207924366,0.010653977282345295,0.010205202735960484,0.009080796502530575,0.009401303716003895,0.01013169065117836,0.011874347925186157,0.009759997949004173,0.00950841698795557,0.011272863484919071,0.010355550795793533,0.007008871529251337,0.01019546203315258,0.010210475884377956,0.008789991028606892,0.01028996892273426,0.010289669036865234,0.009643233381211758,0.009911338798701763,0.01024177111685276,0.009522141888737679,0.008542604744434357,0.00732708303257823,0.008977179415524006,0.010375378653407097,0.01393415592610836,0.01049640029668808,0.010171584784984589,0.01055714301764965,0.010827109217643738,0.010368116199970245,0.011228912509977818,0.010576382279396057,0.009894398972392082
+0.006891925353556871,0.009862890467047691,0.01466870866715908,0.008863937109708786,0.00874342117458582,0.009123534895479679,0.011826631613075733,0.009573590010404587,0.0105548445135355,0.010461886413395405,0.009362646378576756,0.007294073235243559,0.008344578556716442,0.007195984944701195,0.008790096268057823,0.009072018787264824,0.008937661536037922,0.015624537132680416,0.010151807218790054,0.00924598891288042,0.011257669888436794,0.005741137079894543,0.014223645441234112,0.008792474865913391,0.009623543359339237,0.01074672769755125,0.009137245826423168,0.010831855237483978,0.008058281615376472,0.010234801098704338,0.008833922445774078,0.007418838329613209,0.019137021154165268,0.006745354272425175,0.01001528650522232,0.007237827405333519,0.0052216132171452045,0.008743406273424625,0.008734215050935745,0.00883005652576685,0.010258253663778305,0.009422816336154938,0.011893056333065033,0.012200476601719856,0.011871397495269775,0.008120553568005562,0.015629803761839867,0.00851397030055523,0.007657196372747421,0.015622586011886597,0.007667543366551399,0.016767092049121857,0.006926429457962513,0.009285672567784786,0.009341568686068058,0.013300672173500061,0.011958414688706398,0.009062220342457294,0.010968303307890892,0.011549312621355057,0.009460831061005592,0.015033143572509289,0.010651466436684132,0.010774022899568081,0.010440192185342312,0.013682113960385323,0.009720256552100182,0.009112503379583359,0.008260892704129219,0.009010527282953262,0.008959256112575531,0.01569080352783203,0.008667868562042713,0.008334889076650143,0.0106727983802557,0.00927991233766079,0.006102877669036388,0.009119564667344093,0.009907050058245659,0.008007113821804523,0.009912915527820587,0.009521695785224438,0.008624988608062267,0.008624481037259102,0.009043737314641476,0.009318671189248562,0.00751840602606535,0.00916420016437769,0.0101471533998847,0.009584251791238785,0.016199732199311256,0.01143284235149622,0.012207673862576485,0.010001466609537601,0.009851513430476189,0.009378433227539062,0.010825983248651028,0.011064372956752777,0.014516374096274376
+0.007037090137600899,0.010279548354446888,0.014573176391422749,0.008636432699859142,0.008635202422738075,0.008755660615861416,0.011708198115229607,0.009770591743290424,0.011006498709321022,0.010814571753144264,0.009708758443593979,0.007159940432757139,0.008356651291251183,0.007088786922395229,0.008792657405138016,0.009830715134739876,0.008855214342474937,0.014954658225178719,0.009915847331285477,0.00942277628928423,0.011354864574968815,0.006249239668250084,0.013461409136652946,0.008697330951690674,0.009427755139768124,0.010353139601647854,0.009187507443130016,0.010648716241121292,0.007541141472756863,0.010023562237620354,0.009525187313556671,0.007467042189091444,0.017609266564249992,0.0072256033308804035,0.010188441723585129,0.0072198654524981976,0.00539291650056839,0.008662227541208267,0.009078079834580421,0.008952200412750244,0.010046135634183884,0.009145249612629414,0.011587846092879772,0.01087936107069254,0.012622649781405926,0.007899572141468525,0.017133207991719246,0.009220832958817482,0.008020354434847832,0.015309710055589676,0.008373328484594822,0.017604269087314606,0.0072294180281460285,0.009046081453561783,0.009886824525892735,0.01597258634865284,0.01102850679308176,0.00896729901432991,0.010790024884045124,0.011683911085128784,0.00956079363822937,0.013568517751991749,0.011023156344890594,0.010237027890980244,0.010193224996328354,0.014003106392920017,0.009388077072799206,0.008983581326901913,0.008498329669237137,0.00866783782839775,0.008993043564260006,0.01473217736929655,0.00875544361770153,0.008149432018399239,0.010464763268828392,0.009048924781382084,0.006136150099337101,0.00895675178617239,0.010727030225098133,0.007576780393719673,0.009600971825420856,0.00934096984565258,0.008541678078472614,0.008790113963186741,0.008899062871932983,0.010055489838123322,0.007251931354403496,0.008322902023792267,0.011181246489286423,0.0094603905454278,0.01697271503508091,0.011605172418057919,0.011428670957684517,0.009951673448085785,0.010071960277855396,0.009210572578012943,0.010385119356215,0.011173611506819725,0.014075929298996925
+Questions:
+how it compares to tupperware shape o ball
+The price just increased $6 to $19.99. Is it worth it?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+Green Toys...what a wonderful, refreshing and safe addition to baby's toys!Nice change from all the wild primary colors of most sorters, the unit stays together, shakes and rattles nicely, while shapes fit in without a little one becoming frustrated.Shapes are easy for tiny hands to grip, and playtime, as this sorter is introduced, is fun and educational.
+Here is what I like about the Green Toys Shape Sorter-I love the Green Toys recycled plastic.
+The pieces are durable, attractive, and of course recycled!-The two pieces of the sorter stay together very well.-The shape and size of the sorter is perfect for little hands to hold while sorting shapes.The one possible negative I see in this toy...-I have found that due to the size and shape of the sorter, sometimes shapes that have already been sorted block the path of incoming shapes.
+This can usually be remedied easily with a little shake, but I can foresee my son giving up on pushing a shape through due to the blockage.
+First let me say I LOVE Green Toys.
+I love that the products are made in the USA and that they are proactive in creating toys that are safe for our children to play with.
+Not only is it BPA free, but it is also PVC and Phthalates free.
+It's kid friendly and earth friendly since it's products are made from 100% recycled plastic.
+I wish all toy manufacturers were this committed to high quality products that are reasonably priced.I had the Fisher Price shape sorter previously and it was fine.
+But this new version by Green Toys is soooo much better.
+It has your typical shapes, star, square, circle, triangle in a variety of colors, that are little hand friendly.
+They are just the right size so that your little one can put them in their mouth without you having to worry about being a chocking hazard.
+But what I really love is that the top and bottom lock together so that it will keep all of the parts together.
+The added benefit to this is that because of the shape of the design of the sorter, it can act like a top that will spin (and makes a rattle noise that little ones love, and it can also act like a big rattle of sorts if some of the pieces are locked inside.The locking mechanism screws together pretty tightly so I'm fairly certain that a little one won't be able to open it on their own.
+The plastic feels heavier than most plastic toys, and has a nice feel to them.
+I've been going away from plastic, to wooden toys, but I love this plastic Green Toys Sorter Toy!
+I can't sing it's praises enough.
+This one is so much better in all ways then just about any other sorter I've seen.
+If you buy, it I doubt you will be disappointed.
+I expected to like it a lot, but I LOVE it a lot :)
+This is such a great toy that every child must have and the fact that is now 'Green' is amazing.
+The packaging is limited and the product it self is made USA from food-safe, 100% recycled plastic milk jugs.
+So all babies need a shape sorter.
+That is just a given.
+This is a great option.
+My guy is obsessed with putting things in containers, usually in the dog's water bowl, so getting him one of these was a must.
+I'm always hesitant to give my little guy any plastic toy for fear of lead paint and other chemicals.
+I love that Green Toys gives me eco friendly toys that don't make me worry about baby coming in contact with large amounts of chemical while gnawing on it.
+And it is dishwasher safe!
+That earns this toy huge bonus points from this busy mom of four.We love this toy and this company!
+The toys are well made from recycled materials without the use of nasty nasty chemicals.
+I have no complaints!
+Made with 100% recycled materials, brightly colored, easy to grip for toddlers, and easy to open and empty for adults, what's not to love?My eight-month-old twins don't really understand shapes just yet, but these types of toys are recommended for ages 6 months and up, so I thought I'd see how they reacted to it.
+Even with crunchy toys, squeaky toys and soft toys in reach, the twins often grab the little shaped blocks that came with set to gnaw on.
+They 'fight' over the big base, and then end up playing with the little shapes.
+Actually opening the sorter is very easy, just a 10 degree turn and it pops open, reverse to close it back up.
+It doesn't have to be in a certain position to close either, you can snap it open or closed in any position (ie.
+star above circle or whatnot).
+Toddlers could probably open it on their own, it doesn't need much force to open, but I don't think they could get their fingers pinched because it has a lip that covers the 'opening' edge.The edges are easy to grip for tiny hands, and the teeter-totter shape makes it fun to roll around and bump for a reaction.
+It feels super durable too.
+They've been playing with it for a month already, and it feels nearly bullet proof.
+It's not heavy, but the plastic is nice and thick.
+I'm not sure if its dishwasher safe, but it is very easy to clean in the sink if needed.
+This is the best shape sorter ever!
+We've had a few other kinds (Fisher Price Brilliant Baby and a wooden shape sorter box) that have one major downfall - the lid is easily removed.
+The problem with this design is that it takes away the challenge of putting the shapes through their holes, if you can just take the lid off and put them inside.
+Green Toys makes awesome, durable and sturdy toys and this shape sorter is no exception.
+We have several Green Toys products and we love them; they hold up great over time and are made from recycled milk jugs, so friendly for the environment.
+Also Made in USA and non-toxic.
+My 16 month old is having tons of fun with this shape sorter.
+"With all the emphasis on being environmentally friendly, it is not surprising that a toy manufacturer would push the ""recycled plastic"" button.
+Despite the environmental hype, it is still the basic hand eye coordination toy that helps in baby's development.
+The grandson displayed all the joy and frustration that my kids did when this type of toy was just made of simple plastic.
+The grandson is 18 months.
+He played with the toy..did something else...came back to the toy....got frustrated..tossed the pieces around..cried...mom came and helped...push rewind...and then play again... his greatest joy is when he had someone play with him.. the toy is made of good plastic..it survived the tosses... the beating on the floor.. and of course...the hand to mouth exercises."
+The Green Toys Shape Sorter Baby Toy is an eco take on a classic baby toy.
+As with the original, baby can play with the sorter putting the right shapes into the spaces.
+It is a very early puzzle and is a lot of fun.
+That it is made with recycled plastic is a nice bonus.
+I love this product simply because it is made from recyclables, is free of chemicals and made in the USA.
+It is a more expensive shape sorter, but does the same thing that other shape sorters do.
+I like the lid screws on and off, because it doesn't fall apart every time the little guy is playing with it.
+I also took another reviewers suggestion and separated the 2 pieces and put them on the floor.
+That way we didn't have to unscrew it for him and it kind of doubled the fun.
+I do wish there were more shapes and that the cost was lower.
+But overall, these Green products make great gifts, because you know you are giving a child something that is safe, healthy and educational.
+At the same time you are doing a small good deed for the environment.
+Before purchasing other products, I will definitely check to see if a Green product is available.
+It's always a good feeling to buy a Green Toys product because you know you're harming the environment less than you would with another product.
+This particular shape sorter is perfect for little hands.
+There's nothing too magical about this toy from an adult perspective (8 shapes that need to be &#34;sorted&#34; into corresponding holes), but toddlers love it and I'd like to think they are getting their little brains kickstarted by working through the problem.
+This spaceship reminiscent shape sorter is a step in a better direction.
+It comes with eight openings, but only four nice shapes.
+Most shape sorters have only one of each shape, so there is only one possibility for a fit.
+Having two chances to get it right is challenging enough for a baby, and lends itself to the concept of pairs and matching, besides.
+This will be easy to clean, and is verified BPA-free.
+As a grandmother and educator, this is a winner.
+This is such a nice product.
+There are a million plastic shape sorter toys, but what sets this one apart is the heavy duty plastic.
+It doesn't seem like it would get bent if you stepped on it.
+Plus the texture is a little less smooth, so it seems like little hands grasp it better.
+Cool product!
+Eco friendly too!
+I love all the Green Toys.
+This toy is sturdy, which is good, because it's already been put to far harder use than shape sorting in the few days it's been here.
+The slots for the shapes are a good size, too, not so big that kids can 'cheat' and put the triangle through the circle slot, but also not so snug that it takes supernaturally fine motor skills.
+The colors are bright without being garish.
+And you can supposedly chuck the whole thing in the dishwasher if something awful happens to it, though we haven't tried that yet.My only complaint about it is the shapes are too hard to get back out again.
+Even my pre-k kid can't twist it open, so when the baby gets all eight pieces slotted inside, the toy's just a rattle or projectile until an adult can come open it, dump everything out, and close it up again.
+This toy is so cute and I had high hopes!
+But compared with my son's Fisher Price shape sorter, this has a poor design.
+It's shaped kind of like a flying saucer, and the narrowest part is where the holes are.
+So when you go to put a shape through a hole, you can't get it in if there's already another shape in the area.
+The fuller it gets, the harder it is to get shapes in.
+And fyi, the FP shape sorter's shapes are NOT the same size as these.
+These are smaller than FP shapes.
+Hope this helps!
+This shape sorter is one of those toys that can last a baby a long time.
+For now, my boy is not yet &#34;sorting things,&#34; BUT he is still playing with it in many ways:- banging the shapes against each other and different surfaces,- shaking the sorter with shapes in it- sliding on the sorter halves on the carpet and floor,- banging the sorter halves against each otherSo, as you see, it can keep a child busy for some time.And the fact that this toy is &#34;green&#34; makes you feel good as well

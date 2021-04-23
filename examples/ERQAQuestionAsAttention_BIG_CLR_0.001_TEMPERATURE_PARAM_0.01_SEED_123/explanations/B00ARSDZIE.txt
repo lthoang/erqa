@@ -1,0 +1,187 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+I have never owned nor built a Ravensburg puzzle but have heard great things about them.My daughter is 3 years old.
+I tend to opt for more gender neutral designs.
+My little girls enjoy puzzles like this and it seems to help them develop skills.
+My kids enjoy the puzzle and I like how everything fits neatly all back in box without having to put the pieces back in a specific manner to ensure all the pieces fit.
+It's pieces are big enough for little hands to EASILY be able to grasp and manipulate into place.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.00765500171110034,0.009339788928627968,0.00647357665002346,0.0032312998082488775,0.0077829062938690186,0.006348891649395227,0.006167439743876457,0.005167782306671143,0.00708462530747056,0.007564681116491556,0.004728822037577629,0.006433616392314434,0.007136846426874399,0.0035634892992675304,0.007068343926221132,0.0031618596985936165,0.0034022140316665173,0.004716626368463039,0.007154226303100586,0.007136846426874399,0.006185263395309448,0.008047564886510372,0.007511933799833059,0.006693754345178604,0.0060267322696745396,0.007152915932238102,0.003980081994086504,0.005397212691605091,0.007111824583262205,0.007001472171396017,0.008943701162934303,0.008084426634013653,0.0074087283574044704,0.003204244188964367,0.007207859773188829,0.005773935001343489,0.002431936329230666,0.003173436736688018,0.002590741729363799,0.006333338562399149,0.003509305417537689,0.00395347410812974,0.0032345105428248644,0.0041193971410393715,0.004311318043619394,0.0071363127790391445,0.004540854599326849,0.002646646462380886,0.003577927593141794,0.006334883160889149,0.0069854985922575,0.007984721101820469,0.005347463767975569,0.004527281504124403,0.005998536013066769,0.0032247877679765224,0.0036208108067512512,0.006558701395988464,0.004319857805967331,0.006703163497149944,0.006111606955528259,0.003507326589897275,0.0033016095403581858,0.007004152983427048,0.004077273420989513,0.007022208999842405,0.007604151498526335,0.006613892037421465,0.007529034279286861,0.0039871009066700935,0.006664547603577375,0.007073218934237957,0.006834920961409807,0.006837761495262384,0.00646110437810421,0.006829476449638605,0.006394397933036089,0.0046532838605344296,0.0038064918480813503,0.006303003057837486,0.006745501887053251,0.006847495678812265,0.00883672945201397,0.005844013765454292,0.006280409172177315,0.004691235721111298,0.007393209263682365,0.004243758041411638,0.007283520419150591,0.004433316178619862,0.0021751527674496174,0.0023072916083037853,0.007854227907955647,0.009031448513269424,0.006875784136354923,0.0066922567784786224,0.005121235270053148,0.00633607292547822,0.006021093111485243,0.006900184787809849,0.007552475668489933,0.007206915877759457,0.008554205298423767,0.004901492036879063,0.007176042068749666,0.007552475668489933,0.00763595849275589,0.003605044446885586,0.006810625083744526,0.00770908035337925,0.008446943014860153,0.005151684861630201,0.005155825521796942,0.003341002156957984,0.0040672542527318,0.002803600626066327,0.0025347911287099123,0.007463389541953802,0.006002197973430157,0.004656449891626835,0.005681540817022324,0.0035979265812784433,0.006398905999958515,0.002427431521937251,0.0071255965158343315,0.006661502178758383,0.002715824171900749,0.00561118358746171,0.008278760127723217,0.007206641603261232,0.0038115624338388443,0.005090699065476656,0.007128870580345392,0.005193060729652643,0.006439872086048126,0.004338485188782215,0.005766847636550665,0.003875481430441141,0.007092528976500034,0.0071732900105416775,0.0037089865654706955,0.007483912166208029,0.0069701713509857655,0.007064188830554485,0.0067537506110966206,0.005834977608174086,0.007293131668120623,0.004409000277519226,0.006310176104307175,0.0027355027850717306,0.007101076189428568,0.007205675356090069,0.007126618642359972,0.0054566082544624805,0.006855386309325695,0.008339356631040573,0.0076537951827049255,0.0021243549417704344,0.007231048308312893,0.00759534165263176,0.004492286127060652,0.004548007156699896,0.007356283720582724,0.006970060523599386,0.0028178950306028128,0.006589136552065611,0.005834308452904224,0.005866163410246372,0.00779364351183176,0.007129490375518799,0.0046602399088442326
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+If you are looking for a quality puzzle, stop here!
+I have never owned nor built a Ravensburg puzzle but have heard great things about them.My daughter is 3 years old.
+We have never built a puzzle together.
+With the colder weather outside this is perfect for those indoor playing days.The puzzle pieces are made very well!
+It is a lot of fun to put together.
+My daughter&#8217;s face lit up when we when finished it together.
+I love the fact that you can store it in the &#8216;suitcase&#8217; so to speak it came with.
+The pieces will not get lost.This has been a hit in our house and it great to build on the living room coffee table or after dinner in the dinning room.
+I can see why a lot of people love Ravensburg puzzles.
+They are pure quality!
+Children's puzzles are often made very cheaply, but not this one.
+While it has only 24 pieces, because it's made for little kids, they are very large pieces.
+The cardboard is thick and they are designed to be easy to handle for little hands.
+The puzzle comes out to be much larger than I originally thought it was going to be, especially for the low price.
+The colors and picture on the front is beautiful.
+The box the puzzle comes in even works like a carying case for kids, with a flap opening on one side, and a plastic handle at the top.
+One thing I did notice is in the photo here online, the carrying handle is pictured as red.
+However the handle on the box I received is blue.
+So each of the boxes may come with different colored handles.This puzzle is really nice and is very suitable for gift giving.
+It looks like it should cost more than it does, and it is well made, so that kids can put it together again and again.
+Ravensburger makes great puzzles.
+The pieces fit together wonderfully and they are sturdy.This vibrant scene is no exception.
+The pictures is as shown on the box.
+The puzzle is 6 pieces long by four pieces high.
+This means you have 16 edge pieces and 8 inside pieces.The box has a handle and a Velcro closure, which is very convenient.
+The box itself is probably about 3 times as big as it needs to be.
+I wish it were smaller, only because of storage space.
+Also, on this particular puzzle, the two pieces in the top left corner are only clouds.
+This is a little annoying and was confusing for the kids the first time they put the puzzle together.
+However, it was only an issue the very first time and isn't a of problem anymore.
+My little girls enjoy puzzles like this and it seems to help them develop skills.
+This one captured their imagination immediately and they set about to putting it together.
+The level of difficulty is not high at all with only 24 pieces.
+We have several Ravensburger puzzles and art kits and have not been disappointed in any of them.
+This puzzle is extremely cute and I love the fact that it comes in a suitcase style box that any child can carry around.
+A 24 piece puzzle is the perfect size for a younger child, because it will allow them to figure it out without getting too frustrated.
+Overall I have nothing but good reviews for Ravensburger products and recommend them highly as purchases for yourself or gifts.
+My three and four year old nieces love puzzles and this Ravensburger Princess Puzzle was exactly what they wanted to try.Likes:*24 big puzzle pieces are easy to grab for little hands and helps develop hand/eye coordination and mental focus.
+*This is a pretty big floor puzzle that measures 27 x 19 inches when completed.
+*Fun, colorful, and adorable picture of young princess having a tea party with her bug friends will appeal to most little gals.
+*Puzzle pieces/surfaces are easy to wipe clean with a damp cloth.
+*Comes with convenient carrying case for bringing the puzzle along on trips to grandparents', relatives', or friends' house.Slight concern:*Puzzle pieces are choking hazards for children younger than three.Overall:A fun, introductory puzzle for younger kids that they'll play with again and again.
+"Ravensburger spells quality in the puzzle department and this little ""Princess"" puzzle is no exception.
+It's a 24-piece floor puzzle that is perfect for little hands and durable enough to hold up.
+It can be wiped down readily with a damp cloth and the real bonus is the carrying case.
+It's way better than those that you have to gather back up to put into a small cardboard box.
+This way it can be easily taken on a trip or to Grandma's house.FEATURES:&#9788;  24 pieces&#9788;  Approximately 27 x 29 inches&#9788;  Box size:  11.25"" x 8.75"" x 3.25""&#9788;  Ages 3 and upThe graphics are bright, lively, and have a lot of appeal.
+There are insects and a snail with googley eyes arriving for the little princess's tea party.
+Of course there are all those developmental things associated with puzzle building, but let's face it, the passion for building puzzles starts young.
+This ""Princess"" floor puzzle is definitely going to be a big hit for any little princess."
+A cute picture, and the puzzles pieces fit together quite nicely, which helps out little hands quite a bit.
+Our three year can't do it by herself yet, but with a little help she enjoys doing it.
+Completed it is nearly 2 1/2 by 1 1/2 feet, making a large puzzle.
+Suitcase is cardboard, but has a handle, and is a good place to store the puzzle.
+love this is easy to put together puzzle.
+It inspires memory and dexterity for the person using it.
+My 3 year old granddaughter absolutely loved, because it's picture is similar to her favorite new board book princess.Princess!.
+This puzzle is pretty good quality, comes in a nice little box that has velcro, kinda like a kiddos briefcase.
+This is a pretty big puzzle for the kiddos, very easy to put together and looks good enough for them to want to put it together all over again.
+Super cute puzzle with thick, chunky pieces, that comes in a great carry along box.
+The picture is super cute and very bright and colorful.
+My niece likes her new puzzle (he first), she had no problems putting at together since it is only 24 pieces.The suitcase box is also a nice touch.When assembled, the puzzle measures 27 x 19 inches.This is a quality puzzle from Ravensburger (I own several of they're adult puzzles, and I love them)
+This Princess Puzzle comes in a 'suitcase box' which is really similar to a normal box but the top folds over the front and there is a handle on top.
+it is a cute feature that my 3 year old appreciated for a few minutes, but ultimately it is not a big selling point.
+The actual puzzle is colorful, large (27 x 19 inches) and the pieces are fairly thick.
+I'm not entirely sure what the scene is all about, but it's pretty good for a 3 year old to enjoy.
+My daughter especially likes to put together the butterfly.
+This is a really nice and durable puzzle that is a gateway puzzle into the world of puzzles.
+The puzzle depicts a picture of a fairy girl on a tree having a tea party with a bunch of animals.
+It's a fairly big puzzle at 27 inches by 19 inches.
+The handle at the top is handy for carrying it to places.
+The pieces are very durable and can be handled by 3 year old hands.
+It can easily stand up to make ups and take downs.
+This is sort of a gateway puzzle.
+It's the start of puzzle making for your children at a young age.
+The puzzle will teach your children the basic puzzle making skills.
+Overall this is a great gateway puzzle for young children and I would definitely would recommend this to another friend with young children.
+My family loves Ravensburger Puzzles.
+They're durable, the coloring on the puzzles is vibrant, the pieces lock together smoothly, and the images are beautiful.
+The Princess Puzzle in a Box didn't disappoint.
+With 24 pieces, this was a simple puzzle for my kids to assemble.
+Every piece locked together nicely, the surface was smooth (easy to clean surface stated on box...it's true), and the image of the princess tea party is adorable.
+My kids enjoy the puzzle and I like how everything fits neatly all back in box without having to put the pieces back in a specific manner to ensure all the pieces fit.
+It would be a wonderful gift for any young puzzler in the family.
+Highly recommended!
+I think it's best to start children very early on tasks that expand their reasoning ability.
+I have always been a huge fan of puzzles as a learning experience.
+They help focus logic, problem solving, patience and spatial reasoning.
+And for the most part, kids love them.
+Even now, as an adult, I still like an occasional adult puzzle to stimulate my noggin.
+When it comes to puzzles, there is no denying the superior construction of the Ravensburger line.
+While they can sometimes be a little pricier, the added cost actually pays off when you're dealing with puzzles for small children.This colorful floor puzzle features a little princess at a tea party being ogled by a friendly butterfly and some curious lady bugs, bees and snails.
+Not necessarily my favorite design, it definitely skews toward a female child.
+I tend to opt for more gender neutral designs.
+The puzzle has 24 good sized pieces.
+As this is Ravensburger, they are cut perfectly, are sturdy, fit together seamlessly and can withstand a little rough play.
+I really liked that they had a slight coating so that you could wipe down the puzzle if it got a little smudgy.
+A Good starter puzzle.
+KGHarris, 10/13.
+Great first puzzle!
+Ravensburger always makes good quality puzzles; it's a brand I look for.
+This one is no different- it's great quality and well bonded.
+It's pieces are big enough for little hands to EASILY be able to grasp and manipulate into place.
+There's lots of end pieces that once in place pretty much guide the rest of the puzzle.
+Kids about 3 will enjoy putting it together over and over again.
+The case is nice to store the pieces in- and it helps teach kids to pick up their toys after play.
+I was pleasantly surprised by the quality of this puzzle.
+The pieces are very sturdy and made to withstand the abuse of tiny hands shoving them together and yanking them back apart again.The image on this puzzle is large and vibrant, making the puzzle relatively easy for little ones to put together.
+The suitcase-style carrying box is a great feature as well.
+I really have nothing negative to say about this product.
+Great item!
+"Tested by my 4yr old grandson & his almost 3 yr. old sister.
+We picked out the border pieces together  & they went on from there with very little help from me.The pieces are huge!
+I measured two of them to give you a general idea of their size...one was 7"" x 6"".
+A corner piece measured 5 1/2"" x 5 1/2"".
+Each sturdy piece has an easy clean surface  & is approximately 1/8"" thick.Another plus is the storage box which has a handle for carrying.
+The lid is fastened with Velcro & is designed so the puzzle pieces won't fall out.
+Even more importantly...the box is roomy!
+Meaning your child or you won't have to be extra careful getting the pieces back into the box.
+Oh my gosh, I remember the days when I'd put my kids' puzzles away & have to keep redoing it so the lid would close.
+Not so with this storage box, my grandkids put the pieces away in no time flat &  didn't have to fiddle around getting them in just so.Nice quality puzzle...5 stars"
+This is a pretty princess puzzle from Ravensburger with 24 heavy-duty pieces that are easy to handle and assemble into a large 27 in.
+x 19 in.
+format, 6 pieces across and 4 pieces high.The watercolor illustration is adorable with the princess in striped stockings having a tea party in a tree with a snail, a bee, a giant butterfly, and two ladybugs.The box is reusable, with a velcro closure and a handle.
+The little ones may have had more fun with the box than the puzzle!
+Good quality puzzle and cute picture.
+My 3 year old son loves it despite of the girly team (he likes butterflies, lady bugs, snails and coffee pot thanks to me drinking it everyday;) He starts to figure the puzzle out, needs some help but thanks to bigger size it's fun for him.
+The portable box with handle as a storage is a great idea.
+This is a very cute puzzle for little girls!
+It comes with 24 pieces which are very durable.
+The Princess and Butterfly design is very pretty.
+I love the portable suitcase box that it came in as well.
+Makes for a very great gift!
+Fun whimsical puzzle!
+-- The colors are great.I like the box the puzzle is a bit more light weight than I would like but large enough to make it easy for little fingers to help put the puzzle away.
+Ravensburger puzzles always have nice clean cuts and are durable and easy to put together.
+This Princess Puzzle is on the inexpensive side and has basic cardboard construction, but still high quality and a cute box.
+What makes it special is the watercolor artwork, which the artist clearly put a lot of work into.
+It is full of colorful details and is super cute.
+If you have a little girl who likes big puzzles, this is a good choice.
+We have quite a few puzzles by this company and I think they offer one of the best lines of moderately priced puzzles.
+This one is a cute princess puzzle with 24 pieces.
+It's bright and colorful and easy to put together.
+The pieces are solid and well cut.
+The print is on solid smooth paper and though we haven't played with it long, other puzzles we own have held up very well and haven't started to fray or fall apart.
+Comes in a nice box with a handle.I really recommend this company's puzzles.
+This is a nice puzzle and fun for little kids.
+Mine are 5 and 7, they like to take turns seeing who can put puzzles like this together quickly.Since it comes with a nice carry case you can easily keep all the pieces together and transport it to wherever you need.This puzzle set would make a great gift for the little princess in your life.
+My 3 1/2 year old daughter really enjoys this puzzle.
+She likes the colorful scene with a princess having a tea party with a butterfly and lady bugs.
+The pieces are very sturdy, and seem like they will stand the test of time.
+The storage box is very convenient.
+It has a velcro closure, and a small handle.
+The puzzle's quality is quite strong and seems pretty durable as it is made from a thick cardboard.
+The pieces are also large enough for a toddler to pick up and place them together.The packaging is attractive and comes in handy especially when our kid wants to be like an adult and carry a little 'bag' of something when we go out.Overall, a fun, educational and pretty puzzle for a 'little princess'.
+"This is a nice little puzzle for those who like - yes princesses.
+It comes in a suitcase box, which is nice, but the handle could be a bit more sturdy to go along with the quality of the puzzle and what this company usually makes.
+The box itself closes with Velcro, which again works well with a younger child.It is recommended for ages 1  to 6 years old which seems suitable.
+The pieces are sturdy and well made.
+The puzzle itself has just enough pieces to keep one interested but not frustrated.
+The finished puzzle is 27"" x 16"" with 24 pieces.This can be an enjoyable toy for younger puzzle fans and an exercise for young minds."
+As usual, Ravensburger  quality.
+The pieces are large enough for little hands and not so easy to lose.
+Very pretty graphics.
+The very nice storage suitcase is a subtle bow to neatness and even makes putting the puzzle away fun.
+Challenging for the little ones but easy enough to still be lots of fun!
+We have quite a few of the Ravensburger puzzles and they are really top quality.This one was a little too easy for our 5 year old, but she's always been very uninterested in puzzles.
+Left her alone in a room with it and she eventually got around to doing it - it's a very colorful pattern.
+Pieces are thick enough you can do them right on the carpet.
+Front of pieces are coated in nice wipeable material, though the backs are still cardboard.
+Box for storage is nice but ours came with a bit of shipping damage.

@@ -1,0 +1,217 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+I appreciate all the details put into the Empire State Building and the surrounding base puzzle.
+"This 3D puzzle is remarkably entertaining product, yet is simple enough to be enjoyed by a novice puzzler (me) and a novice puzzler's three year old daughter!I'm not much of a puzzle guy, but having done some academic work on the Empire State Building, I couldn't resist when I saw this product, and it did not disappoint.
+This Ravensburger puzzle is well made, plastic, and all the pieces are numbered, which I initially thought would take all the fun out of the puzzle but it was ultimately very helpful.I built the puzzle with a group of teens at the library I work at and they all seemed to have a fun time building it and I had a nice time helping them as well.
+However, for those who like to work puzzles but don't have a lot of time or space to spread thousands of pieces out, this is a great puzzle.6.
+It's not a bad product, I was just disappointed that it wasn't a puzzle in the traditional sense.If you do decide to purchase theRavensburger Empire State Building 216 Piece 3D Building Setyou should note that the pieces are not all in numerical order in the 2 packing bags.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.0037212620954960585,0.004542347975075245,0.005648893769830465,0.00598977180197835,0.005021918565034866,0.0038734180852770805,0.00378317735157907,0.00498597789555788,0.0033716538455337286,0.003705425653606653,0.005384845193475485,0.0052276793867349625,0.004457893315702677,0.006212066393345594,0.003620606381446123,0.005838465876877308,0.004731794819235802,0.005418458022177219,0.005432946607470512,0.005395310465246439,0.004413322079926729,0.004151925910264254,0.004538141656666994,0.004379356279969215,0.005023379810154438,0.00516014127060771,0.0053499252535402775,0.005163557827472687,0.004995822440832853,0.0031303248833864927,0.003903062781319022,0.004146227613091469,0.003721758956089616,0.005058582406491041,0.004206040408462286,0.005579228978604078,0.004914694000035524,0.005457310937345028,0.00514856306836009,0.004449553322046995,0.00270034815184772,0.005762467626482248,0.0051074521616101265,0.005119756795465946,0.005235256161540747,0.005459783598780632,0.00500090466812253,0.005313497968018055,0.004655793309211731,0.005209833849221468,0.004284240771085024,0.004699552431702614,0.0038843064103275537,0.004959280602633953,0.005521724931895733,0.004427233710885048,0.0056568230502307415,0.002512675477191806,0.004610835574567318,0.004799745976924896,0.004044696222990751,0.005847743712365627,0.005920390132814646,0.005029470194131136,0.003743043402209878,0.005699297413229942,0.00536228995770216,0.0048881410621106625,0.004686012398451567,0.0032933775801211596,0.006295365281403065,0.006764864549040794,0.004191448912024498,0.004859105218201876,0.006866609677672386,0.005213223397731781,0.005006775259971619,0.005311356857419014,0.005757584236562252,0.004264624789357185,0.00538644939661026,0.004693760070949793,0.005105058662593365,0.0054060108959674835,0.005060847848653793,0.005370223429054022,0.004305464681237936,0.00635069515556097,0.0038322284817695618,0.005126353353261948,0.0067650023847818375,0.004004932940006256,0.004833295941352844,0.004523491952568293,0.004542729817330837,0.0045020319521427155,0.005452860612422228,0.007979733869433403,0.0041775694116950035,0.0057703726924955845,0.005324960686266422,0.00395054230466485,0.004694835282862186,0.0041310484521090984,0.004558226093649864,0.005177137441933155,0.004954653326421976,0.005248402711004019,0.0053315963596105576,0.007406163960695267,0.005966583266854286,0.005693345796316862,0.003879703115671873,0.004901868291199207,0.005451462231576443,0.005811300128698349,0.00485585443675518,0.0033306998666375875,0.00343967042863369,0.005191803444176912,0.0054522012360394,0.004256966058164835,0.005070739891380072,0.0032269442453980446,0.005035065580159426,0.00561479339376092,0.005277725402265787,0.009393628686666489,0.00556274363771081,0.005138095002621412,0.004705601371824741,0.004375506192445755,0.005103605799376965,0.004825853742659092,0.004520644899457693,0.004851039033383131,0.004664008971303701,0.004587708972394466,0.005474601406604052,0.007137333508580923,0.0053358240984380245,0.0029060726519674063,0.005635123234242201,0.002276612212881446,0.004394947085529566,0.005812522955238819,0.005001348908990622,0.006827518809586763,0.005221934989094734,0.005757640115916729,0.005505276843905449,0.003344912314787507,0.005877178627997637,0.005091683007776737,0.005154946818947792,0.004466315731406212,0.004117798525840044,0.004321024287492037,0.005506481975317001,0.005639572627842426,0.004525923170149326,0.005399762652814388,0.005377315450459719,0.004809197969734669,0.005573743488639593,0.005956429988145828,0.006125194951891899,0.005146978888660669,0.0033675513695925474,0.006720138248056173,0.00446345517411828,0.005203031934797764,0.0053650434128940105,0.005829237401485443,0.004404802341014147,0.0030962866730988026,0.004817823879420757,0.0042784628458321095,0.002586087677627802,0.005663212388753891,0.003165369387716055,0.00560674536973238,0.004751156084239483,0.009694450534880161,0.005342674441635609,0.002406282117590308,0.0056671560741961,0.0050372048281133175,0.005485122092068195,0.0039330436848104,0.005330026615411043,0.004524656571447849,0.006950882263481617,0.005337363574653864,0.0048935445956885815,0.005389638245105743,0.008240760304033756,0.005628787912428379,0.004020511172711849,0.005171289201825857,0.0025333231315016747
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+"My 11 year old son and I put together the Ravensburger Empire State Building in basically an hour from start to finish with my son doing well over half of the work.
+I found the pieces to be very durable and the corners bent easy and almost all of them stayed ""locked in place"".
+The hardest part we had was keeping the pieces in place when we installed the ""observation decks"" that keep the whole thing together.
+Other than that, the hardest part was organizing all the numbered pieces.
+Once assembled, it looks very nice and is a suprising likeness.That being said, this is not a very enjoyable ""toy"".
+I'm not sure why the box has big bold ""PUZZLE"" on the cover because eventhough the pieces interlock like puzzles, that is the only similarity.
+Since they are numbered, it is very easy to follow the assembly requirements as once you finish a level or two you get the hang of it.
+The price is pretty reasonable and the age range of 10-15 is probably suitable although I would think that a 14-15 year old would find this model WAY too easy.
+I also doubt that there is the possibility of re-playability - you are basically paying $25 for something you'll assemble once.
+So unless your child enjoys about 1 hour of building and then displaying a dust-catcher in his/her beddroom, I'm not sure this is the greatest thing in the world."
+This is my first 3D puzzle.
+I found this to be extremely well made and durable.
+The pieces are plastic and well-constructed.
+Each piece is numbered and arrowed so you know exactly how to put the pieces together.Due to the numbers and arrows on each piece, it is not exactly a puzzle.
+There is nothing to figure out, you merely put each piece next the other, and when the arrow points up, you build up the next layer of the building.
+The hinged pieces are many, and bending each one left my fingertips tender.Overall it is easy to build up, even if it is frustrating to bend each hinged piece.
+It takes little time to build for an adult, so maybe a younger audience would have more fun or at least find it more challenging.
+I think I will just stick to regular puzzles.
+Lets just get right down to it - this isn't really a puzzle.
+It is much more like a project or a snap-together model kit.Why do I say this?
+Because the pieces are all numbered in the order in which to build them.Could you build this without using the number cheat-sheet printed on the back of teh pieces?
+Yes, but because the sides all very similar and in 3D, I would venture that not using the numbers would be nigh impossible.
+There really is no clue as to which floor is which as opposed to other 3D puzzle buildings.Other information:The kit takes about an hour to put together.
+It is well made, pieces (generally) fit snugly, should be easily disassembled and reassembled multiple times, and looks great when built.
+It is a quality kit.Sumary:So, as long as you know what you are getting into, some fun can be had.
+I'm a big fan of puzzles.
+I love puzzles but this is not a puzzle.
+It's basically a model with puzzle pieces.
+I've seen these 3D puzzles for years and always just assumed they are your basic heavy cardboard pieces except capable of turning corners.
+Actually these pieces are very sturdy plastic and the turns are achieved by literally bending the pieces which actually works a lot better than one might imagine.
+It's difficult to describe how the pieces bend and remain at a 90 degree angle but by and large it works well.
+The pieces do have a bit of a desire to straighten out but as the building comes to together the rigidity of the entire model keeps things in place.
+There are also a half dozen or so scaffolding pieces to keep the structure solid.From a `puzzle' aspect it's incredibly easy because all the pieces are numbered on the back.
+You could ignore the numbers but then the puzzle would go from ridiculously simple to crazy hard because almost all the pieces look identical (among other problems).
+I'm sure the makers added the numbers because they knew that it would be exceedingly frustrating without them.
+I managed to put the puzzle together in a couple of hours whereas a good sized actual puzzle can take me days or weeks.
+One big mistake I made was in building the top half before the bottom.
+There are two unlabeled bags of pieces and I randomly opened the top pieces first and so just went ahead and built it.
+The problem is it's IMPOSSIBLE to attach the top and bottom with both prebuilt.
+You absolutely have to build from the ground up or the top down.From a model standpoint it's not attractive enough that I would put it on my mantle and from a puzzle standpoint it's too easy so I'm unlikely to ever put it together again.
+I also would suspect that the bendable pieces will become increasingly prone to breaking as you continually bend and straighten them with repeated builds.
+My kids 7 and 9 love building these puzzles.
+I love that they are learning architecture while having fun.
+It took them a couple of hours to build it.
+They fit together perfectly a joy for the kids.
+I got this for my nephew so he could use his brain a little more than he normally does.
+The puzzle seems to be well made and sturdy but it's not as challenging as I initially thought it would be.
+The back of each piece is numbered so you can just follow the numbering to put it together.
+While this may bother some people who want more of a challenge, if you keep in mind that this is something for kids, it's probably better that way because it might be excessively challenging if the pieces weren't numbered.
+Either way, it keeps kids off of video games and TV for a nice bit of time which can't be bad.
+As other reviwers had mentioned, this isn't really a puzzle but a model.
+The pieces are numbered and they are typically assembled in order.
+It could be done as a puzzle, but the pattern of windows is so repetative it would be incredibly difficult to do so.
+The plastic pieces are assembled in order, going around the building.
+There are four stages where there are plastic platforms that go between the building.
+these are where the buidling narrows as it goes up.There are flat pieces that make up the side of the buidling, and pieces that bend at the corners.
+These bendable pieces have features on the back that interloc to keep them bent.
+However they do not stay bent well and achieving a 90 degree angle is very difficult.
+There is a third type of piece that just fits on the building like a mortice and tendon joint.
+It isn't a friction fit but instead is a tab going into a slot.
+When you get to a a point where the buidling is terraced, you insert a small platform that fits internal to the pieces, going onto posts protruding from the last row of puzzle pieces.The difficulty is that becuase the corners are not really 90 degress the platform is very difficult to get on.
+It relies on interacting with small posts coming out the back of a few pieces, but these are not in the right place because the walls are warped from the corner strain.
+It relies on a high-precision alignment which is impossible.
+The pieces that are slots don't add to the integrity of the structure, making it even more sloppy.
+It is a game by which the platforms are key to holding it together, but they can't be put on because the pieces aren't held together.
+Perhaps if I had six hands.For the pentultimate platform, we found it impossible to put it on.
+The hard plastic pieces are durable and for the puzzle part, the pieces fit together perfectly.
+The hinges are pretty cool, and again, they are strong.
+The issue with the overall design is the part whole where walls assemble: there is a side with little holes and the opposite side with little squares that fit into the holes.
+While those fit together easily, they come apart even more easily, and when trying to put it all together, it's hard to hold the various walls together while trying to lock them into lower floors.
+I tried several hours and made it partway through, but the middle section, which had about 8 sections like this, kept falling apart, and as I tried to get it onto the bottom, the hinged sections wanted to open again, and the bottom floor started to warp as the level I was working on began to fall apart.
+As I tried to fix the bottom level, squeezing the hinges, traditionally designed puzzle portions started to come apart.
+I'm not the most patient person, though I have solid manual dexterity (I am a seamstress and dancer, so this shouldn't have been so difficult).
+I'm not sure why this was so frustrating, but the strong start of this little project ended in frustration.
+I've seen other 3-d puzzles done in foam.
+Are they as pretty?
+No.
+They're quite clunky; however, they are easier to put together and, in my opinion, more fun.
+Nice try, but the next generation needs a better system for those important wall connections that doesn't come apart so easily.
+"I've read all of the poor reviews and almost all of them seem to be the result of not following the instructions.
+They are clear and I can see where you could run into problems if you do things wrong.
+Especially, if you are one of the throw the instructions away types.
+This thing is sturdy and does not have the ugly corner ""foam showing"" loom of many other 3D puzzles.
+If you follow the instructions and tame your time, you will end up with a gorgeous model which would look great on a shelf and start many conversations."
+"Because the pieces are identified by number, I would call this a construction toy, not a puzzle.My enjoyment of this Empire State Building building set is enhanced by my love for New York landmarks, which it was fun to ""build"".
+Because the pieces are durable plastic, one's ""achievement"" can be kept on display.Because the pieces are numbered, making the assembly task less challenging, I think the age range of 10-15 is a little high.
+At by 13 or 14 a young person who is interested in architectural models would be ready for the more complicated LEGO Architecture sets."
+"Several people have commented that this seems to be more of a model than a puzzle, and I believe that would be correct.
+This puzzle consists of 216 plastic pieces (many of them hinged) that are assembled in order to make a model of the Empire State Building.
+It took two of my kids and I about 1 1/2 hours to assemble the model, although about 20 minutes of that time was spent looking for piece ""150"" - which was apparently missing from our box.
+Here are the points I made while working this puzzle.1.
+The plastic pieces are sturdy, and we had no problem getting them the hinged pieces to bend and lock into place.2.
+The pieces fit together well and no glue is required for the puzzle to stay together.3.
+The plastic pieces are numbered on the back along with arrows pointing the direction to the next piece (which is helpful for moving up to the next level of pieces.)4.
+There is some problem with the pieces fitting well into the flat ""levels"" of the building.
+(I'm not sure how to describe it, but I mean the areas where the building gets ""smaller"" as it gets taller)  Although there were problems with the pieces fitting together, I was able to press the pieces together around the plastic piece, and they stayed in place.5.
+This is probably not going to be a satisfying puzzle for a diehard puzzle fan who is used to working huge, intricate puzzles.
+However, for those who like to work puzzles but don't have a lot of time or space to spread thousands of pieces out, this is a great puzzle.6.
+The missing piece.
+Piece #150 was missing from our puzzle.
+Following the instructions included in the package, I have contacted Ravensburg USA about the piece.
+I have provided everything required from their (extensive) list of requirements to replace the piece.
+I have no idea how long it will take, but we did assemble the puzzle without piece 150, and for display my kids just turn that side of the building to the back.
+I enjoy building puzzles and was looking forward to trying out a 3D puzzle when I selected this item.
+So far, I am disappointed.First, I do have to say that this is a quality set.
+It is made of plastic puzzle pieces that will hold up over time.
+That being said, it was not all that fun to build.I like looking at puzzles and trying to figure out the pattern to make all of the pieces fit together and watching the picture emerge.
+I felt kind of cheated with this puzzle - there is a number on each piece to tell you what order to place the piece in.Really, I would say this is more of a building kit somewhat like Legos, rather than a puzzle.
+You have to place the pieces together in numerical order and insert support pieces as you go.
+It's not a bad product, I was just disappointed that it wasn't a puzzle in the traditional sense.If you do decide to purchase theRavensburger Empire State Building 216 Piece 3D Building Setyou should note that the pieces are not all in numerical order in the 2 packing bags.
+After going thru the first bag, I thought there were missing pieces.
+The pieces ended up all being in the box, they were just mixed up in the bags (i.e.
+bag 1 contains most numbers under 120, but not all...#95 may be in the second bag with most pieces labeled in the 100s and 200s).
+I gave this gift to an older, retired person... what a total bomb.
+This is not for old, arthritic fingers AT ALL.
+You must be in great physical hand health to make this puzzle.
+It requires bending of pieces, because all the pieces come flat.
+But do the pieces even stay once they're bent?
+No, they can pop apart and you need to start again.Let's just say the person who I gave this to wanted to retire this puzzle and begin working outside the home again.
+"I was looking forward to receiving this 3D puzzle - it sounded like something my 10-year-old daughter would enjoy.
+It ended up being just okay.
+Some of the pieces didn't fit together quite right, so it was difficult at times to get them to stay in.
+My husband ended up having to help my daughter, and he had problems with the pieces, too.
+Now that it's completed, the top of the model leans a little to the side because some of the pieces don't fit properly.
+Also, the company should rename this as a model instead of a puzzle.
+The pieces are numbered, so there's no ""puzzling"" on how they go together.
+It was an okay way to spend some time, but wish it would have been a better quality, and more of a challenge."
+"This 3D puzzle is remarkably entertaining product, yet is simple enough to be enjoyed by a novice puzzler (me) and a novice puzzler's three year old daughter!I'm not much of a puzzle guy, but having done some academic work on the Empire State Building, I couldn't resist when I saw this product, and it did not disappoint.
+I was impressed with the high-quality pieces, which are hard plastic with a decal overlay.
+Pieces are precisely cut and fit together very well.
+""Inside"" corners are tab-in-slot, and ""outside"" corners are flat pieces cut in such a way as to bend and maintain their shape.
+Plastic accents like the spire and a cardboard base add nice finishing touches.Initially, I was disappointed that the backs of the pieces were numbered, because I thought this took away from the challenge.
+I was wrong.
+Plenty of challenge remained, as building a 3D puzzle has some unique balance and dexterity challenges that the 2D variety does not.
+This took me about four hours all told to complete, including the ""help"" I received from my three year old daughter, who thoroughly enjoyed the process.High quality, enjoyable and yet with some challenge involved, definitely worthwhile gift for building enthusiast, young engineer, or inexperienced 3D puzzler.
+Lots of fun for young and old.If you do not find this review helpful, please leave me a note on what I can do to make it more valuable."
+I am a puzzle maniac, having assembled jigsaw puzzles from 100 to 9000 pieces (a 13200 pieces is in the queue).
+Some of them were 3D puzzles, like the Taj Mahal, US Capitol, Neuschwanstein Castle, Big Ben, etc.
+This Empire State Building does not disappoint at all.
+Very high quality product from Ravensburger (as usual), all the pieces have an excellent finishing and they stick together very well.
+No glue is necessary.
+The final assembly resembles a lot the real building, is very stable, and it is a nice decoration you can have for a while in your home.
+It is just a shame that this is only a 216-pieces puzzle...
+It took me and my wife around 3 hours to finish this puzzle.Amazon.com was kind enough to provide this product for me through their Vine Program for reviewing and I was not request to provide a positive review.
+Opinions expressed here are my own.
+For many years I have purchased Ravensburger puzzles for my children, as well as gifts.
+These puzzles are unique as they are made extremely well.
+I have not found another puzzle to compare to their quality.We never did a 3D puzzle before and it was a little bit of a challenge.
+The pieces are numbered but it is not that easy to put together.
+The pieces all come in the box flat and you have to bend each one into locking tabs, which don't always stay.
+It was a challenge for the family and once completed we felt we now have a 3D version of the Empire State Building, which is beautiful, and we are not going to dismantle it any time in the near future.Great way to spend a snowy, rainy or just freezing day with the family so that everyone gets involved, as they will see the end results was definitely worth the time and effort.
+I would recommend this high and promised you wont be disappointed as it is made better then any other puzzle you have tried.
+A winner in my opinion.
+My wife and I do large puzzles from time to time which take several hours to complete.
+This is the first 3D puzzle we assembled.
+I would call this more a 'model' then a 'puzzle'... the pieces are plastic and it requires directions to properly assemble.
+It took about an hour and a half to complete, with half of our attention on the television the entire time.
+Each piece is numbered so you are expected to put the pieces together in order... this was a problem for us, since we normally do puzzles in sections so both of us are working on it at the same time.
+We tried doing separate sections, but once it came to fitting the sections together, it took a bit of time and patience.
+Much easier if done in order, but that makes this set pretty much just for one person ... unless you choose to take turns, which isn't a whole lot of fun.
+Overall, it was durable, very nice looking, but a bit too quick for us, and not much of a 'sharing' experience.
+I got the Ravensburger Empire State Building for my special needs class and I ended up having just as much fun as the kids.
+With only 216 pieces it was challenging enough to keep the students interested, yet easy enough for them to complete it (with minimal assistance from their grouchy teacher.)
+The directions are broken down into several easy steps, and if followed precisely, one will have an authentic rendering of the Empire State Building minus King Kong.The first thing I had the students do was line up the numbered pieces, in numerical order, in groups of 10.
+This was a great lesson in basic mathematics and was a bit more challenging than I anticipated.
+Once that task was done we set out to put the puzzle together.
+It took a while to get it all snapped together, but it was a straightforward process that required nimble hands.
+On more than one occasion we had to start over because the lower pieces fell apart.It was a great lesson that the students really enjoyed.
+I think any more than 216 pieces would have been overwhelming, but this puzzle was the perfect size for my high school students with varying disabilities.
+I am now looking into purchasing additional Ravensburger 3D puzzles because this one was such a success.
+Highly Recommended.
+"Using the term ""puzzle"" in marketing or labeling this product is a bit misleading since the pieces are numbered so that builders can simply assemble by the numbers.
+In many ways that is probably better since the faces look so similar for the pieces to this puzzle, but anyone that purchased this product and expected it to be a challenging puzzle is likely to be a bit disappointed.
+While you could ignore the numbers and treat it like a true puzzle, in the end most people are probably going to peek at the numbers and use them for guidance on where the pieces go.In terms of assembling the structure the build by numbers method works, but some pieces are a bit frustrating to put together and get to stay together.
+It can take several tries to get some of the combinations to actually stick and that may prove exceedingly frustrating for builders.As a build-by-numbers this may be a fun educational tool to include in a classroom for young students.
+At only 216 pieces it doesn't involve too many pieces to be able to build in a reasonable period of time, and with the numbers there to guide the builders students can exercise reading skills, counting skills, and manual dexterity as they create the finished product.
+In that area, I think this might be considered a 4 or 5 star product.
+In terms of a product sold for general consumption and family fun, well, I think it's a little less successful and settles back towards the 3 star range.Definitely better than sitting and vegging out watching many of the offerings on the television, but as a lasting experience, it may fall a little, well, flat, despite the 3D building.Final thought here, this may be the type of item that some would want to assemble and leave assembled.
+The only problem with that is finding the space to set it up, and then being mindful of the fact that it will likely wind up being a dust magnet.
+Of course you can break it back down and rebox it but that takes away the trophy effect that might have added value and a longer term sense of accomplishment."
+I am a big fan of Ravensburger's 3D Building Sets.
+I'm surprised that this is exactly 216 pieces as is Ravensburger Eiffel Tower 216 Piece 3D Building Set.
+How they constructed it so precisely baffles me.
+I appreciate all the details put into the Empire State Building and the surrounding base puzzle.
+It is very realistic.
+It is a joy to put together with my son and plan on obtaining more of Ravensburger's 3D Building Sets.
+I've never done a 3D puzzle before, but this one claimed to be a sturdy plastic puzzle with no glue required to hold it in place, so I decided to give it a try.I agree with the age range on this one...our child would never have the patience to put together a puzzle like this before age 10.
+If your child gets frustrated easily, this might not be the right puzzle choice just yet.It's best to bend every single edge piece before you start putting pieces together.
+The instructions were very easy to follow: Once you have your starting point, put the pieces together in order from left to right, and when the arrow points up, that's your cue to start on the next row up.
+You will be putting in 6 plastic bracers which connect to pegs on the inside of the puzzle pieces.From beginning to end, this took about 3 hours to put together.
+I found it was difficult to try and assemble more than one piece at a time, and some of the tab pieces were difficult to catch at just the right angle.
+The final product was very sturdy - it was knocked over twice and didn't break apart!I've uploaded some pictures so you can see what the finished puzzle looks like.NOTE: When you bend the edge pieces, make sure to bend them at a 90 degree angle.
+Any less, and the pieces will attempt to pull apart while you construct the rest of the building.There's an important distinction to make here - with a standard puzzle, you have some trial and error and it's fun to put all the pieces out on a table (picture side up) and work with several people to put it together.This 3D puzzle is more of a solitary / 2 person task which has to be done literally by the numbers.
+Without the instructions, this could have been very frustrating.Overall, this was a fun afternoon project, but it felt more like a model kit and less like a puzzle.
+"I've never done a 3-D puzzle before but I have done lots of the standard jigsaw puzzles.
+I usually find them at first but ultimately get frustrated near the end of the process.
+This Ravensburger puzzle is well made, plastic, and all the pieces are numbered, which I initially thought would take all the fun out of the puzzle but it was ultimately very helpful.I built the puzzle with a group of teens at the library I work at and they all seemed to have a fun time building it and I had a nice time helping them as well.
+In about an hour we were able to get the building halfway constructed.The pieces are durable and while I was concerned about where the pieces hinged and the possibility of the pieces breaking they're actually very sturdy and can be bent and unbent multiple times with no signs of stress or breakage.One problem we did run into was that while the building was getting taller it was a bit difficult to keep it exactly square which was problematic when trying to get the copper coloured pieces seated into place.
+Trying to ""flex"" the building back into a perfect square caused a piece or two to suddenly pop out in the middle of a wall and it was rather frustrating trying to get them back into place without having to deconstruct the building.Overall the puzzle was fun.
+I liked it.
+The teens liked it and I'd seriously consider purchasing a Ravensburger 3-D puzzle in the future."

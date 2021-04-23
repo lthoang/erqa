@@ -1,0 +1,219 @@
+Top question(s):
+We lovee this game but have gone through the cards quickly. Does anyone know if they sell extra packs yet?
+What are some of the questions asked of parents and kids? Just trying to figure out if this would be appropriate for my 5 1/2 year old...thanks!
+Top sentence(s):
+There are Wild cards and circles, I don't even know what they read since our pawns didn't move.
+The kids were all engaged and anxious to play the first time and we've played it a few times since.
+The guesses were totally hilarious.
+Compared to my own parents, I consider myself pretty in tune with pop culture and kid subjects.
+Any kid likes to be able to beat their parents and my son is no exception which is why he loves this game.
+
+Question attention weights:
+0.3670097887516022,0.3178988993167877,0.31509125232696533
+Sentence attention weights:
+0.005999540910124779,0.0055532557889819145,0.005041921976953745,0.004157974850386381,0.00559931481257081,0.004716311115771532,0.007916577160358429,0.004468113649636507,0.0049628629349172115,0.004934648517519236,0.004793569445610046,0.006204714998602867,0.005041921976953745,0.005334429442882538,0.005086197517812252,0.005321365315467119,0.005103809759020805,0.0024515336845070124,0.007795860059559345,0.004856775514781475,0.00502018304541707,0.0031678657978773117,0.004752057138830423,0.005382951814681292,0.006749069783836603,0.005207226146012545,0.00509990518912673,0.005081481300294399,0.004439279902726412,0.004337628372013569,0.005071599036455154,0.006812829989939928,0.005460057407617569,0.005012916401028633,0.003927363082766533,0.004868414252996445,0.0066060940735042095,0.004273937549442053,0.005299923941493034,0.005409903358668089,0.0050558545626699924,0.005349301267415285,0.005409903358668089,0.004880721680819988,0.005512522999197245,0.005618348717689514,0.005249371286481619,0.005303530488163233,0.00867319107055664,0.005094533786177635,0.0034940922632813454,0.005198685918003321,0.00507658114656806,0.0048245652578771114,0.005367068108171225,0.005752624943852425,0.004843884147703648,0.004453687462955713,0.004794597160071135,0.00640010554343462,0.0042462460696697235,0.0037197982892394066,0.005246072541922331,0.005699590779840946,0.004699978977441788,0.004357756115496159,0.004939117003232241,0.005075077526271343,0.004668430890887976,0.004804741591215134,0.0036059434060007334,0.003242574166506529,0.0038982215337455273,0.005132204387336969,0.005132204387336969,0.005065948236733675,0.0029414528980851173,0.0038258973509073257,0.004611888434737921,0.005434039514511824,0.0037827894557267427,0.005217338912189007,0.0036979294382035732,0.004788655787706375,0.00611107237637043,0.0050493567250669,0.004947972949594259,0.0048841554671525955,0.005610156804323196,0.0050756982527673244,0.00514629203826189,0.004947972949594259,0.0050643207505345345,0.004788655787706375,0.005510379560291767,0.005928826984018087,0.005296236369758844,0.0033138173166662455,0.004200465511530638,0.0033344586845487356,0.004945733584463596,0.004870226141065359,0.005133671220391989,0.004469233099371195,0.004795401357114315,0.005125846713781357,0.006275617983192205,0.005072332452982664,0.004884325433522463,0.0061942716129124165,0.004202930722385645,0.006339247338473797,0.004161882679909468,0.004424684680998325,0.0051122065633535385,0.004851940553635359,0.007229984737932682,0.01043959055095911,0.005928324069827795,0.005053629633039236,0.005458869505673647,0.004551502410322428,0.00541395228356123,0.003705481765791774,0.002417925978079438,0.003980765584856272,0.005352969281375408,0.006801788229495287,0.00646670488640666,0.005723797250539064,0.005393009167164564,0.007824904285371304,0.004527018405497074,0.005532681941986084,0.006936392746865749,0.0036637515295296907,0.004307350143790245,0.002688908251002431,0.004359471146017313,0.004997958894819021,0.0056451247073709965,0.005595535971224308,0.0038046245463192463,0.0045276000164449215,0.0046197534538805485,0.004793616011738777,0.004705406725406647,0.004379736725240946,0.005005913320928812,0.005311852321028709,0.0034164937678724527,0.004158124793320894,0.004752298817038536,0.005139493849128485,0.00479811429977417,0.004061219282448292,0.00509450351819396,0.005270760972052813,0.004967996384948492,0.004445386119186878,0.00602765241637826,0.004748211707919836,0.005267935339361429,0.004518572241067886,0.00485709123313427,0.005315154790878296,0.004264297895133495,0.005089056212455034,0.0052278246730566025,0.007017513271421194,0.005849469918757677,0.0038197969552129507,0.003906684927642345,0.004237516317516565,0.004663679748773575,0.00471690995618701,0.004763416945934296,0.0030557382851839066,0.004882578272372484,0.004688323009759188,0.004601521883159876,0.004782252945005894,0.005915279965847731,0.007700829301029444,0.005354981869459152,0.0059634968638420105,0.0047491551376879215,0.005409163422882557,0.00513241533190012,0.004952460993081331,0.0050342935137450695,0.0060473899357020855,0.005583175458014011,0.003807276487350464,0.004105746280401945,0.006271325517445803,0.006884532514959574,0.005959170870482922
+0.005811028182506561,0.005215092096477747,0.004740987438708544,0.0038954915944486856,0.005098408088088036,0.004433882422745228,0.006890088319778442,0.004264208022505045,0.005188230890780687,0.005038685165345669,0.004559237509965897,0.005404603201895952,0.004740987438708544,0.004925266839563847,0.005090006161481142,0.00508436793461442,0.004759754985570908,0.0026264977641403675,0.006722674239426851,0.004725856240838766,0.0048324489034712315,0.003940909169614315,0.005207454320043325,0.005021079909056425,0.006346199661493301,0.004911776166409254,0.00507892994210124,0.004790297243744135,0.004334039520472288,0.004686398431658745,0.005316886119544506,0.007303950376808643,0.0051705604419112206,0.004718262702226639,0.0042368583381175995,0.004789069294929504,0.006028196308761835,0.004372088238596916,0.005006073042750359,0.005038041155785322,0.004936454351991415,0.005012176930904388,0.005038041155785322,0.005345994606614113,0.005546886473894119,0.005705622490495443,0.005192298907786608,0.004635914694517851,0.007680407725274563,0.00481877475976944,0.004256448242813349,0.00490857707336545,0.004714698996394873,0.004890850279480219,0.005449770018458366,0.00572022283449769,0.005324951373040676,0.004548367578536272,0.004674176219850779,0.005939142312854528,0.004818531218916178,0.004509997554123402,0.006108650006353855,0.005518235731869936,0.004587249364703894,0.004285288974642754,0.004677261225879192,0.00481816940009594,0.004997058305889368,0.004779892973601818,0.004464680794626474,0.00417572446167469,0.004461932927370071,0.004854538012295961,0.004854538012295961,0.004911414813250303,0.0032367040403187275,0.004908877424895763,0.004550263751298189,0.0062958369962871075,0.004558973014354706,0.00473572313785553,0.0038131813053041697,0.004793821834027767,0.006338207051157951,0.004742681048810482,0.004669276066124439,0.0045289890840649605,0.0054019237868487835,0.004746816586703062,0.004764853976666927,0.004669276066124439,0.004782193340361118,0.004632323980331421,0.005767018534243107,0.005608994979411364,0.005037158727645874,0.003679680870845914,0.004959971643984318,0.004378586541861296,0.005191350821405649,0.004970259964466095,0.005625071935355663,0.005060884170234203,0.004891532473266125,0.00512451259419322,0.00634822016581893,0.005555266048759222,0.004731279797852039,0.0058500999584794044,0.004572815261781216,0.005888724699616432,0.004643168766051531,0.004575182683765888,0.0048635052517056465,0.004749490413814783,0.006642661523073912,0.00970323383808136,0.005971107631921768,0.005005452781915665,0.005056437104940414,0.004770060069859028,0.005096306558698416,0.004432942718267441,0.00349200121127069,0.004718247801065445,0.00499873049557209,0.007187787443399429,0.006934233009815216,0.0052634780295193195,0.005093162879347801,0.0074962228536605835,0.004413651302456856,0.005742866080254316,0.006645762827247381,0.004061291925609112,0.004391370341181755,0.0032406626269221306,0.004320128820836544,0.00476898392662406,0.005694704130291939,0.00558703625574708,0.004281327128410339,0.004737166687846184,0.004511099774390459,0.004954561125487089,0.004835608880966902,0.005328952334821224,0.005103200674057007,0.005155972670763731,0.003615427063778043,0.003865964012220502,0.004572139587253332,0.004864752758294344,0.0046459645964205265,0.004219053313136101,0.004834705963730812,0.004981572274118662,0.004713087808340788,0.004683444742113352,0.005575172137469053,0.0048506190069019794,0.005248669534921646,0.004919484257698059,0.004352050833404064,0.0052322642877697945,0.004602659959346056,0.005032586399465799,0.004993830341845751,0.006891255266964436,0.005503821652382612,0.004096805118024349,0.004917018115520477,0.004885855596512556,0.004378823097795248,0.005808142013847828,0.004797352943569422,0.004062689375132322,0.0050527905113995075,0.005275871139019728,0.004332196898758411,0.004541359841823578,0.006366817746311426,0.008437077514827251,0.005040022078901529,0.005102124065160751,0.004599407780915499,0.005074639338999987,0.004919622093439102,0.004689284134656191,0.0048361895605921745,0.0055593401193618774,0.005244118627160788,0.003819732926785946,0.004131540656089783,0.005674419458955526,0.007176443934440613,0.005594843067228794
+0.005800670012831688,0.005220639985054731,0.004797475412487984,0.0038728651124984026,0.005188287701457739,0.00450198445469141,0.007108074612915516,0.004312193486839533,0.00503557687625289,0.005131238605827093,0.004645074252039194,0.00553003279492259,0.004797475412487984,0.004997526295483112,0.004961045924574137,0.00515179755166173,0.004814887885004282,0.0024253970477730036,0.007115006912499666,0.00480422331020236,0.004947518929839134,0.0036786766722798347,0.005047596525400877,0.005119863897562027,0.006315537728369236,0.005003068130463362,0.00511176697909832,0.004850643686950207,0.004306308925151825,0.004726716782897711,0.005325447767972946,0.00701109180226922,0.005271365866065025,0.004769332706928253,0.0041641779243946075,0.004820604808628559,0.006289311219006777,0.00435719033703208,0.005069267470389605,0.005116702523082495,0.00492700282484293,0.005094981752336025,0.005116702523082495,0.005082810763269663,0.005546837579458952,0.0059527987614274025,0.0051797437481582165,0.00474624102935195,0.008160154335200787,0.004879575688391924,0.003923142794519663,0.004979266319423914,0.0047813113778829575,0.004956408869475126,0.005419324152171612,0.005628232378512621,0.005260804668068886,0.0045865424908697605,0.004635926336050034,0.006133454851806164,0.004935484379529953,0.00439097173511982,0.005725654773414135,0.0055564637295901775,0.004562782123684883,0.004242637660354376,0.004709329456090927,0.004872242454439402,0.00486999424174428,0.004797647707164288,0.004322079010307789,0.003781240899115801,0.004231409169733524,0.0049281371757388115,0.0049281371757388115,0.0049432250671088696,0.003083859570324421,0.004648851230740547,0.0045635877177119255,0.006051687989383936,0.004435203969478607,0.004804891534149647,0.003766273148357868,0.004775613080710173,0.006264051888138056,0.00480720354244113,0.004724177997559309,0.004679989535361528,0.005405537784099579,0.004830719903111458,0.004852063488215208,0.004724177997559309,0.004837658256292343,0.004652178380638361,0.00559511361643672,0.005717476364225149,0.005141015630215406,0.0035087293945252895,0.004835902247577906,0.004014698788523674,0.0050897435285151005,0.004913873504847288,0.005481973756104708,0.004831866826862097,0.0048128338530659676,0.005173517391085625,0.006276140920817852,0.005663036368787289,0.004593989346176386,0.005969499237835407,0.004597342573106289,0.006099232006818056,0.0044045159593224525,0.004613031167536974,0.0049015614204108715,0.004805076867341995,0.006797308102250099,0.010217463597655296,0.005843221675604582,0.005089065991342068,0.00512868445366621,0.0047048828564584255,0.005206041969358921,0.004390346352010965,0.0031919139437377453,0.004637422971427441,0.005037233699113131,0.007199688348919153,0.006633436772972345,0.005392689723521471,0.005212272051721811,0.007786739617586136,0.004426655825227499,0.005695284344255924,0.006964575499296188,0.003920516464859247,0.004327964037656784,0.003116015577688813,0.004460135940462351,0.004799621179699898,0.005711033474653959,0.005587431602180004,0.004155611619353294,0.004660585895180702,0.004532796796411276,0.0050138626247644424,0.004761241842061281,0.005141580477356911,0.005091548897325993,0.005260214675217867,0.0034338654950261116,0.0038614405784755945,0.004596094600856304,0.004930734168738127,0.004708786960691214,0.004286269657313824,0.004904026165604591,0.005044296849519014,0.0047698430716991425,0.004592921584844589,0.005671339575201273,0.004923129919916391,0.005247487686574459,0.005070709623396397,0.004411893896758556,0.0051842620596289635,0.004507326055318117,0.004971370100975037,0.005028014536947012,0.007084110751748085,0.005545345135033131,0.004003195557743311,0.004924113396555185,0.00466314097866416,0.004383651539683342,0.005408051423728466,0.004791272338479757,0.003811685834079981,0.005239406134933233,0.004960511811077595,0.004400544799864292,0.004496278241276741,0.006393407005816698,0.008137835189700127,0.0051639387384057045,0.005185162182897329,0.004635512828826904,0.0050744181498885155,0.004939298145473003,0.004744090139865875,0.00487584387883544,0.0056395516730844975,0.005445443093776703,0.003777503501623869,0.004007994197309017,0.005768196191638708,0.007310942746698856,0.005700421053916216
+Questions:
+We lovee this game but have gone through the cards quickly. Does anyone know if they sell extra packs yet?
+What are some of the questions asked of parents and kids? Just trying to figure out if this would be appropriate for my 5 1/2 year old...thanks!
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+I thought this would have been just another average game that I would play with the kids and that they would have been bored of after about 10 minutes.
+Was I in for a surprise.
+The game turned out to be much more fun than we thought possible.
+Even my 6 year old got in on the action by answering the questions that he knew the answers for.
+It turned out that quite a few questions that we thought we knew the answers for we actually had no clue.
+It was really funny also hearing my kids answer questions that the parents knew.
+The guesses were totally hilarious.
+My 15 year old actually thought that pineapples grew on trees.
+:) It's a very educational game and lots of fun for the entire family.
+I only wished that it was expandable because after playing for a while the kids started memorizing the answers.
+I would definitely recommend this game for anyone with kids and grandkids.
+They would totally enjoy it.
+I know our family did.
+We first played this with our 5 and 6.5 year old girls.
+I was a little unsure how much they would be able to answer at their young ages and rather limited exposure to popular culture, but they ended up winning!Each team reads trivia questions from a set of cards.
+The cards are divided so that one half has questions the children ask their parents, and vice versa.
+For this reason, it is important that your child(ren) can read fairly well.
+Correctly answered questions earn your team the chance to move your game piece ahead, almost in checkerboard-fashion.This game is easy to learn and fun to play!
+Any kid likes to be able to beat their parents and my son is no exception which is why he loves this game.
+The game play is simple enough, just answer a few questions and move a space for everyone you get right.
+My son is seven years old and he can get a lot of his questions right.
+The only frustrating part of the game is that there is a rule where if you land on an opponents space they have to go back two spaces.
+This normally would not be a problem but since teams are crossing the board in opposite directions you keep running into each other over and over and over and over again.
+It really makes the game take a long time.
+About half way through every game we stop using that rule.
+Otherwise the game is a lot of fun to have with the kids.
+Fun family game that puts the kids against the parents or even older siblings against the younger ones! '
+Have fun with the game and get creative like we did in our household to change things up and have even more fun.
+Game is a great way to build up family time together, and the kids really had a blast answering their questions.
+The only true downside was that the game only seemed to last us about 20-25min and even when we went to play a second game it seemed like we were picking up a lot of the same cards.
+So if I wanted to change anything about this game it would have to be to add about 12-20 more kids and parents' cards.What you get: game board, 101 question cards, 32 kids wild cards, 32 parents'' wild cards, and 4 tokens to help you move around the board.
+It also comes with a player guide to help clue you into all the funYou need a minimum of 2 people to play, so get creative and grab an uncle, aunt, or even an older sister to play with you.Age range: I would say anywhere between 6-15 years old will have a blast for the kids side, and adults can be any age over 16 years old.
+I found some of the questions I was not even sure of, and have to admit that the kids have won 4 out of 5 times that we have played.
+We love board games, and although the boys like the long ones that take 6 hours to play, the girls and I prefer the short and quick, fun ones.
+This one was a lot of fun and the questions did not involve just american popular culture but actually interesting, educational facts.
+I recommend it!
+My kids are 7 and 12.
+They usually fight horribly.
+Whenever we've tried to all play together, usually the kids start arguing and the fun is over.
+But this game, we ALL had a laugh-out-loud time.
+They started to bicker, and I reminded them that they were a TEAM, and they got along great.
+The first game took about 20 minutes, and both kids begged for a second game.
+I had a great time, too.
+I gave 5 stars for the educational value.
+I am learning a lot (Michelle Obama planted an organic garden at the white house) and the kids are learning too.
+I think this is THE BEST family game I've ever played.
+I could not recommend it higher.
+What fun we've had playing this with the kids.
+The kids were all engaged and anxious to play the first time and we've played it a few times since.
+It's nice to have fun family games to enjoy together.
+The game seems to be stacked a little in the kids' favor, or perhaps I'm just really crappy at trivia games.
+Other than that (or perhaps because of that) it's a good game.
+The kids loved it, especially my 9 year old daughter, who would have played it all day if she could.
+If I were to nit pick I'd say it could use more cards, since you pretty quickly end up seeing the same questions.
+I assume they've planned on selling more cards separately, just like Trivial Pursuit.That said, you're not going to find many games at this price that both kids and grownups will enjoy.
+Also, game play is flexible in terms of number of players.
+Two kids could even play against each other, reading the kid questions to each other.TIP: I recommend playing with one marker per team rather than two to speed up game play.
+I found the game more fun this way.In summary, the game is simple but fun.
+Sure beats another dull game ofSorry
+Playing this Beat the Parents board game was a pleasant experience.
+The goal of the game is to reach the other side of the board by answering trivia question.
+Parents are asked questions that are about today's pop culture (ie: twitter, young hollywood, tv and film) and kids are asked simple, more education based questions.The board game itself is quite durable.
+It folds only into two pieces, not the origami cranes that some boards are folded into.
+The cards, on the other hand, are flimsy.
+They are very easily bent.The age range for this game puzzles me.
+Some of the questions, even for a younger child, seemed pretty easy and some of the adult questions seemed really hard.
+To me, this game seems like it would work best with a child who is 8-12.Would I recommend this board game to parents?
+I'm not sure.
+If your child is a whiz kid who loves trivia games, then this is a good one to peek at.
+"Let me get some gripes out of the way first:- The game cards are very thin.
+Your child will bend the cards by holding them and possibly just by sneezing on them.- The game board is cheap and ugly.- There are not enough WILD spaces.
+There should be more, or at least they should be placed throughout the board.- The starting positions should be labeled ""start/finish,"" since they effectively function as both (for each respective team).- Very often, teams meet in the middle of the board and continually bump each other back and forth.But you know what?
+I still like this game from Toronto-based game development company Spin Master.
+Why?
+Most importantly, the questions are good.
+A trivia game is nothing without good questions.
+This game has effectively 303 questions for kids and just as many for parents, although with up to three questions per turn, you may start encountering repeats before long.
+Enjoyably (for your kids, anyway), parents receive plenty of questions pertaining to children's programming, like Dora the Explorer and Hannah Montana.
+So your kids get to watch you spin your gears over answers they may know better.
+For their part, kids get plenty of knowledge questions about science, nature, geography, and foreign languages.This game isn't perfect, as illustrated by my pre-review tirade.
+The objective is basic--move from one side of the board to the other--but it's more than playable.
+At the very least, Beat The Parents is empowering to young children and provides a means to spend family time together away from electronic devices.Recommended age: 6+(Obviously children need to be able to read in order to play.
+That shouldn't be a problem for anyone without developmental delays.
+Children can always ask for help by spelling difficult words.
+)I should also mention that the game is pretty much designed for a nuclear family of 2+2.
+Well, the kids had fun playing this game.
+We had some fun too.
+I was not too happy with the number of pop culture questions that were included.
+We do not get any TV so the parents missed alot of the questions because they didn't know that much about 'pop culture'.
+Other than that it was a good game.
+Didn't take too long to play which was nice.
+Who knows, we may have actually learned some stuff too!
+"This is a pretty fun game to play with your kids.
+It is best with two kids (or more) and two parents but it can be adapted to a smaller group, it's just not as much fun.
+I have reduced my review from 4 to 3 stars because after playing just a few games, we have exhausted the cards and questions so we keep picking up cards and saying, ""We did that one yesterday..."" There should be a larger selection of cards and since you answer up to three questions per team per turn, you quickly go through the allotted cards in just a few plays.The fact that you need four people to play is a little limiting.
+I've been playing with my kids (ages 7 and 12) and we get by.
+The kids are a team and the parents are a team.
+There is a large pile of trivia cards with both kids questions and parent questions.
+The kids questions are a mix of general knowledge, things they may learn in school, and some adult trivia.
+The parent questions are also a mix of general knowledge but also current pop culture based on kids books, TV shows and movies.
+If it was just my 7 year old, we'd have trouble since there are so many things she hasn't learned yet.
+But between her and my older son, they did great and answered a majority of questions correctly (not all or even most by any means).
+As the adult, I was also tripped up a number of times (this was not an intentional throwing of the game to allow them to win either... maybe it's time to hit the books again!
+).Each team has two game pieces that must advance from one side of the board to the other.
+When both game pieces for a team have reached the other side, that team wins.
+We have played a few games advancing pawns but then we tend to just do a question and answer version and not even keep track.
+I love that my 12 year old knows things that I don't and likes to rub it in.
+On the other hand, some of the kids questions open up discussions about events and people that were important in my childhood.The trivia cards are not very sturdy and will not last with repeated abuse but if you are careful with them, they are fine.The bottom line is that this is a pretty good trivia game, great for dialogue with your kids, it's easy to learn, quick to play, and good for a laugh.
+Beat the Parents comes with a folded board to play on, 4 pawns, two red and two yellow.
+The board itself is half yellow and half red.
+It comsists of circles your pawn would navigate from the two start circles on one side to ending the game on the other side.
+Kind of like checkers.The instructions are vague.
+There is a quick start instruction guide, sums up what to do...get to the other side after answering three questions per card.
+The kids start on the yellow half and parents on the red half, thus kids vs parents.
+Kids go first asking the parent a parent question, I couldn't answer and he couldn't even read to me.
+There are three questions on the same card.
+After you answer the first correctly move your pawn ahead one, go to the second question and repeat, then the third etc.
+There are Wild cards and circles, I don't even know what they read since our pawns didn't move.
+The game has to be played with an adult, the kids questions are not easy at all, the font on the cards is tiny as well.
+You can't help your child read the questions because the answers are right after the question...making the game not fun at all.
+The board is boring.
+My 7 year old and I didn't make it off start.It's a nice concept if they imrpove 90% of the game.
+We didn't enjoy the game at all.
+"Not much to say, the cards were either incredibly hard or incredibly easy, and there aren't enough questions in the game itself for it to even have much of a replay value with the same people again.
+If they released extra and better cards for it, or a newer better edition, I might consider buying it, but only after reading a lot of reviews for it.I like the concept of the game, its a great idea, but for it really work as a trivia game, it needs to have more cards (and not have the answers to questions on the cards so easily read), closer to the amount you'de get with a game like Apples to Apples or Trivial Pursuit, and have questions that aren't extremely easy for one age group and not the other, it is too easy for the children to win, and too hard for the adults, maybe that's the real reason its called ""Beat the Parents""?
+;PI'd pass on this one until a newer and better one comes out, or another game company improves upon it because this one just doesn't cut it as being fun or replayable.God Bless ~Amy"
+"""Beat the Parents"" board game, by SpinMaster, is a great Family Game Night game for parents and kids to play together.
+The concept is basically a simpler version of Trivial Pursuit but with separate questions for kids and parents.
+We've always had trouble playing trivia games with the kids because the questions are mostly too difficult.
+This game enables the parents and the kids to be on an even playing field.
+I have to say that some of the adult and kid questions alike can be pretty difficult!
+Compared to my own parents, I consider myself pretty in tune with pop culture and kid subjects.
+I still found some of the questions beyond my reach!
+The kids surprised us with their knowledge about our generation but even they were stumped on several questions.
+Barring the title of the game, kids could easily challenge other adults (uncles, aunts, older siblings, etc.)
+as well.Two complaints that I have about this game:  1) The Wild Card rules are not clear enough.
+2) We found an incorrect answer on one of the cards (The Pentagon is NOT in Washington, DC).What I love about this game:  1) It's a fun, fair game for all.
+2) The rules are pretty simple (except for the questionable Wild Card rules)and they are written right on the box and not printed on a piece of paper that would (in our house, at least) be lost within a day.
+3) You learn something new!Overall I give this game 4 stars.
+It was great fun and we'll definitely play it again soon.
+(Hint to parents: Brush up on your knowledge of kids' movies and Little Einstein!)"
+"Beat the Parents is a board game that pits the kids against the parents with their knowledge.
+I think this is brilliant by design, and my kids loved that they were playing against me.The problem for me is that the questions are things my kids won't know the answer to - and neither would I.
+Since we don't turn on the television much, nor do we follow ""popular"" movies, books, etc, and we're not very immersed in popular culture, none of us knew many of the answers.One of my daughters is 5, so when the game says it's for ages 6 and up, they mean it.
+She barely knew any of the answers.
+For me, my daughters would need to be older in order for me to know some of the answers to the questions, since they seem to be geared towards parents of older children.
+I'd venture an age range guess of 7-12 or 7-13.
+If they were older, and if we were immersed in popular culture, we'd have more of a chance to get the answers correct.So when several turns would pass in which none of us knew the answers to the questions, the game quickly got boring.
+Very quickly.Again, if your chidlren are older, watch more television, movies, etc, you might do better at this game than we did.
+I do feel bad that we didn't care for it, since we had high expectations for the game."
+Pop culture knowledge is a must.
+The kids will find it fun to have mom & dad guess what color belt comes after blue in Karate or Foofa, Plex and Toodee are from what show?
+The kids will need to be a certain age to know the answers to their questions, What is calico made from?
+What are jodhpurs?
+Then again some questions are super easy.
+The game is a fun way to spend an evening guessing at silly questions with the kids.
+We all had a good laugh at what we didn't know.
+The only problem I see is once we get through all of the question cards I doubt we will play again.
+Knowles.
+And now, if you are a parent, you stand just a little bit better chance than I did at beating my kids at this game which is aptly titled, Beat the Parents.
+Basically, the kids and adults divide up into two teams and take turns drawing cards which have three questions designated for the kids and three for the adults.
+Questions are asked of the other team until a wrong answer is given, and then the questioned team advances the number of spaces corresponding to the number of correct answers.
+There's a few other twists, but that's basically it.
+And, like most classic games, by keeping the rules simple, Beat the Parents winds up being a surprisingly fun game that even small children can participate in with older siblings (my six-year-old loves it).
+And the best part: the questions seemed rigged so that the kids have an edge on winning--uless you happen to be an adult who knows what animals comprise the G-Force.
+My kids love this game because, as the title promises, they get to Beat the Parents.
+Beat the Parents is a board game with an interesting concept that pits children against their parents in answering various trivia questions.
+These questions can range from either way too easy to way too obscure, depending on the age range.
+This means that a family can either have a very enjoyable experience or feel like they have wasted their time playing a game that was way too easy to finish.
+Also, there is a limited number of trivia cards which makes it feel as if there are a limited number of times that thsi game can be played before all of the answers are known.
+Overall, the concept is neat but the execution could definitely use some improvement.
+"The idea behind this board game is to illustrate how common information is to one generation, how obtuse to another.
+The questions relate not merely to pop culture, but to historical, scientific, and geographical facts as well.The categories parallel many of those that appear on TV's ""Jeopardy,"" but some are geared to youngsters (the age really depends on the intelligence level of your child).
+I do think that the game can be frustrating for younger kids (6 to 9) even though the box indicates suitability for ages 6 and up.The object of the game is simple: each time a question is answered correctly, a game piece is moved forward.
+The goal:  to get all your playing pieces to the opponent's side first.
+The cards contain a lot of questions, so the game should retain its freshness for some time.Read the rules carefully and don't skim.
+It will pay off once you're involved in the game.
+Fortunately, the rules don't comprise an Oxford English Dictionary-size rule book, so take a few minutes and digest the rules of play.
+I like the fact that the rules are printed directly on the box rather than on a separate enclosed sheet, which can easily be lost.
+This prevents having the game relegated to the ""useless"" heap when participants forget a rule or two and have nothing to refer to.It's a pleasure to find a game that presents an activity that can be enjoyed by all family members.
+So often these days, youngsters are glued to video games or smart phones and seem to be in a world of their own.
+""Beat the Parents"" encourages actual face-to-face communication.
+It reminds me of games I played as a kid:  ""Monopoly,"" ""Risk,"" ""Stratego,"" ""Concentration.""
+Board games seem to have declined in popularity among young people in the last few decades, so it's refreshing to see a new attempt to revive a once-popular entertainment passtime."
+I enjoyed playing this game with our kids.
+It is fun and simple to learn and can be played without needing any special talents (drawing, singing, dancing, etc.).
+The premise is simple; it's the kids against the parents to see who can answer the most questions.
+The catch is that the questions the kids ask the parents are one's the kids should know, but the parents would have trouble with.
+We definitely enjoyed the time together, but I must say we (the parents) smoked the kids every time we played.
+The questions were not hard enough for us.
+Maybe, we are just kids at heart and are aware of what is going on in our kids lives (what they watch, read, etc.
+), but the game needs to be more challenging to adults.
+"First off, this is a very cute idea and when everything lines up perfectly, it is the best game concept ever.
+The problem is that MOST of the time, it doesn't line up much at all.What do I mean by line up?
+The questions for kids are of too large of a span of ages which means some are too easy for players (painfully easy) and some are too hard for the players.
+That means you will have 6 year olds who feel lost at times and also have 12 year olds who feel bored most of the time because their questions were writen for 6 year olds.
+I think the ""kids"" that play should be between 5-8 years old to have the best time.Meanwhile, the parents should be no older than 35 of this review as the parent questions are pretty topical and if you are older, you are more likely to feel left out.So if you have the right mix of ages for the questions, the game is a lot of fun.
+But understand outside this ranges, you will likely be disappointed.I hope that is helpful!"

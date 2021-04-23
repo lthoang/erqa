@@ -1,0 +1,258 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+They are the perfect little ballet dancing tea party princesses with their friends but it's all burps, toots, and hysterical laughing when it's just them with their Daddy.
+Best for ages 8-13.
+It will stink up your house like you won't believe.
+Kind of an overpriced one trick pony.
+They do not require any special equipment that you would not be likely to have around the house, though you will need a number of common household items.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.005058412905782461,0.00454329838976264,0.00213244347833097,0.006214710883796215,0.0018971048993989825,0.006214710883796215,0.0024764861445873976,0.0019205020507797599,0.003653774969279766,0.00564474007114768,0.004972114227712154,0.006182804703712463,0.0057237823493778706,0.002788467798382044,0.0033033289946615696,0.004148904234170914,0.006223063450306654,0.0034240928944200277,0.005314342677593231,0.0034682806581258774,0.003355017164722085,0.002661145757883787,0.0019421014003455639,0.003578061703592539,0.0027430166956037283,0.002815228421241045,0.00552417291328311,0.0022151998709887266,0.0022540907375514507,0.00580289913341403,0.002404147293418646,0.002976273186504841,0.003912786021828651,0.005536256358027458,0.0034295343793928623,0.0054733227007091045,0.005189108662307262,0.003384691197425127,0.00485205976292491,0.004542223177850246,0.0052126748487353325,0.0028619959484785795,0.0023052531760185957,0.004532949533313513,0.0044455742463469505,0.0032121287658810616,0.005659002345055342,0.00550245214253664,0.006034091114997864,0.0020627817139029503,0.0032279135193675756,0.005047183018177748,0.0038448255509138107,0.0032670465297997,0.0022126538679003716,0.0015715764602646232,0.0016401596367359161,0.002053932286798954,0.002130800159648061,0.0020995631348341703,0.00478522339835763,0.0029624472372233868,0.0038000813219696283,0.0036193914711475372,0.0021096160635352135,0.0033012432977557182,0.0045663826167583466,0.003173910779878497,0.005286038853228092,0.003818612080067396,0.0018263360252603889,0.004150735680013895,0.0028236235957592726,0.002826766110956669,0.0033743437379598618,0.0036410274915397167,0.005186088848859072,0.0035776852164417505,0.005406190641224384,0.0043040066957473755,0.002305493224412203,0.004184939432889223,0.0036457411479204893,0.001982692629098892,0.0019918435718864202,0.002901875413954258,0.005602558609098196,0.004556260537356138,0.0039960769936442375,0.002173501765355468,0.0022502026986330748,0.003683516290038824,0.0030353788752108812,0.005889052525162697,0.005519483238458633,0.006036856677383184,0.005342720542103052,0.0030673095025122166,0.004580927547067404,0.006692633498460054,0.00542413117364049,0.002571766497567296,0.004861176013946533,0.006510477047413588,0.004261388443410397,0.006018237676471472,0.005122927017509937,0.0028625503182411194,0.002589607145637274,0.006007916294038296,0.005124966148287058,0.00574454665184021,0.0027036380488425493,0.004486870486289263,0.00837001483887434,0.002787721576169133,0.004325030837208033,0.002594109158962965,0.005161558277904987,0.0020887365099042654,0.001893025590106845,0.004550473764538765,0.0040224818512797356,0.0034444185439497232,0.0031559267081320286,0.0020464989356696606,0.0027708907146006823,0.0015860149869695306,0.006226322613656521,0.0038063519168645144,0.004111263435333967,0.0035228843335062265,0.0042027803137898445,0.0053148409351706505,0.0022169945295900106,0.004570303950458765,0.006903894245624542,0.004103906452655792,0.004920131526887417,0.0032591891940683126,0.005379118490964174,0.005471056792885065,0.00460191210731864,0.005762911401689053,0.004116020165383816,0.004130430985242128,0.0052170162089169025,0.005676299333572388,0.005119444336742163,0.0057093300856649876,0.006009289529174566,0.0057093300856649876,0.00435660220682621,0.0031566342804580927,0.005039835814386606,0.006780397612601519,0.005229793023318052,0.0026181451976299286,0.004661105573177338,0.003598635084927082,0.0016326658660545945,0.006491448730230331,0.00252708257175982,0.006950573530048132,0.004648564849048853,0.003537869779393077,0.0024494221433997154,0.004299313295632601,0.003716717939823866,0.002370191505178809,0.0037077569868415594,0.0027035390958189964,0.002237861743196845,0.006980853155255318,0.002393153263255954,0.0035051549784839153,0.005925037432461977,0.0057863458059728146,0.005002555903047323,0.005821615923196077,0.005912435241043568,0.003195196157321334,0.006609493400901556,0.006268710363656282,0.00442291796207428,0.004357741214334965,0.006757381837815046,0.004266526084393263,0.003814242547377944,0.005555884446948767,0.00487145921215415,0.003652391489595175,0.001625606557354331,0.005750734359025955,0.005426033399999142,0.002591935684904456,0.004534187261015177,0.003348443191498518,0.006678867153823376,0.002348046051338315,0.0041154660284519196,0.002414940157905221,0.005702368449419737,0.0033029415644705296,0.0023839790374040604,0.005956496577709913,0.0041750343516469,0.002705458551645279,0.0023270822130143642,0.004543996416032314,0.0028890944086015224,0.0059357439167797565,0.006195085123181343,0.005797103513032198,0.0057341475039720535,0.00544698303565383,0.003280257573351264,0.004500674549490213,0.005927994381636381,0.003091618185862899,0.004978541750460863,0.004675975535064936,0.0032656376715749502,0.003351418534293771,0.0018111937679350376,0.005022860132157803,0.0070591880939900875,0.0033735453616827726,0.006180096883326769,0.0024090753868222237,0.00399774918332696,0.005990525707602501,0.0020863886456936598,0.0028921794146299362,0.006665629800409079,0.0057413168251514435,0.0022256982047110796,0.0029426729306578636,0.005964308511465788,0.0028011216782033443,0.002743942430242896,0.005329175386577845
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+There is a lot of empty space in the box.
+So it came as an unpleasant surprise when I opened this large box and realized that there were ony a few items and a brochure included.
+The motorized toilet mixer is definitely a &#34;star&#34; of this set, the rest of the few included items - the stand, two beakers, measuting cups, trash can, and worm mixing spoon, are cheap toy quality.
+There are no ingredients included.
+The only appeal of this set is the &#34;gross factor&#34; which will most likely appeal to younger kids (it did to my 6 year old son).I already have The Magic School Bus Chemistry Lab, which is a bit more expensive at ~$35, but is a nice set with several tools like beakers, pipette, goggles, petri dish, etc.
+and many ingredients already included.
+The MSB Chem Lab does not have the &#34;grossness&#34; of this set, but my son liked it seemingly just as much.
+Additionally, The Magic School Bus series offers a Slime and Polymer Lab, which seems like it may appeal to kids looking for &#34;gross&#34; experiments and also may be a better value.My opinion of the &#34;That's Gross Science Lab&#34; set is based on the comparison of this set to The Magic Bus one.
+Considering what is included in this set, I don't think this set should cost &#62;50% of The Magic School Bus set.
+My son loves everything about this kit.
+He loves mixing things in the tiny toilet, adding things from a garbage can marked Toxic and stirring with a spoon that resembles a tapeworm.
+The instructions are easy to follow and most require only basic household ingredients.
+The results are delightfully icky.
+If you made him choose a favorite, it's currently a tossup between the fake blood and microwaving bars of Ivory Soap.
+(Our soap monsters didn't stink up the house, but I imagine if we'd let one burn we'd still regret it.
+)The booklet includes a basic explanation of each reactions, and can serve as a good starting point for a parent or teacher to explain what's happening.
+My son's had hours of fun with this.
+"Good for a birthday present; this is a fun science kit that includes a few things you wouldn't find elsewhere (like a small motorized toilet bowl for mixing things in, and a worm-shaped spoon for stirring).
+It has a fun, exciting brochure with lots of experiment ideas.
+Many require household ingredients, some of which you'll have around and some you won't, just depending on your house (borax, glue, colored cereal, corn starch, corn syrup, food coloring, chocolate syrup, etc.).
+But all the ones I've tried have been quite easy to do, and my kids (ages 6 and 9) have mostly been able to do it independently, though there were a couple of steps where they wanted help.Some of the ""gross"" things are just fine, like what turns out to be basically a rice crispy treat with crushed fruity pebbles (so the color looks a bit like vomit), but some are definitely on the ""gross"" side.
+We made fake blood (corn syrup, chocolate syrup, red food coloring, and something else), so it tasted yummy, but I have to say that the visual of a white toilet COMPLETELY FULL of what looked like blood was, in fact, a bit nauseating to me.
+So just be aware that sometimes the ""gross"" is mild and sometimes it's quite gross, and plan your own lunch accordingly ;)One mild complaint / tip: watch out for the battery compartment when washing the toilet bowl.
+I think we got water into ours, so it stopped playing music when you'd ""flush,"" even though it still worked as a mixer."
+this is still a good starter book on a difficult but important topic.Science is a great subject that all need to learn better and That&#8217;s Gross Science Lab attempts to bring the fun of learning to curious kids.
+It encourages kids to conduct science experiments, each with an emphasis on learning and on creating something, well, gross and disgusting.My girls love the subject of science and they did like this science set when it was introduced to them for the first time.
+I was a little disappointed when I opened the box and found it contained so little.
+You get three molds- one for barf, one for a centipede, and one for a maggot; a toilet mixer; a plastic jar; a bubble wand; spoon; two beakers and a stand.
+A small booklet with experiment ideas gets kids and parents started so they can create and laugh at so many gross things.With the experiments, there are a total of 20 and some of them are fun for kids.
+But one problem I have is that every single one of them requires household ingredients, which you may or may not have.
+We were still able to do some of them right away because all they required was baking soda, corn starch, eggs, etc.
+But others required a special visit to the store and this could be upsetting to children and parents who want to open the box and start experimenting immediately.What you get with this science kit isn&#8217;t much, but I must admit that it does get kids interested in science even more than before.
+In fact, that might be the most compelling reason to buy this science kit.
+It helps pique kids&#8217; interests and makes them want to investigate more about the world around them.
+Other than that, this is a toy of average worth that may or may not satisfy those who buy it.
+The concept of this book is great.
+The problem is that there were many items required in these experiments that I didn't have on hand.
+The kids were all psyched up about it but after opening it we were only able to do the baking soda and vinegar experiments.
+The parts are rather cheaply made.
+The scientific explanations are decent.
+The kids had fun flushing the toilet.
+I do feel I could just have easily looked up science experiments online and they would have been just as fun and educational.
+My daughters are in first and fourth grade, and they had a ball with this science kit.The kit comes with: a toilet bowl mixing bowl, a worm stirring stick, a plastic test tube holder, test tubes, and a colorful experiment booklet.The experiments were named fun things, like &#34;Stink Balloons&#34; and &#34;Overflowing Toilet Emergency.&#34; Yes, it is potty humor, but this is elementary school.My girls did the &#34;Foaming Flush&#34; experiment first.
+In it, you combine yeast with warm water and sugar, and let it sit.
+Bakers know what yeast does, but my girls did not, so it was fun for them to watch (and smell).The &#34;toilet&#34; requires two AAA batteries, which are not included.
+You will need a small Phillips-head screwdriver to put the batteries in, as well.This is an entertaining way to introduce chemistry concepts to your elementary-aged school children!
+We had some family fun with it.
+My ten-year-old was so excited to start using this set.
+The booklet of instructions is colorful and easy to follow.
+Some of the experiments include foaming flush, snot slime, yellow snow, cabbage crud and many more.
+Of course these experiments are done in a toilet bowl.The lab equipment includes a worm spoon, toilet bowl, barf mold, maggot mold, beakers and some other items.
+For a boy, this is all presented is a super fun way to see simple, but correct science.
+Some of the experiments are even edible (if you can get past the metal images).
+The experiments only use common household ingredients.I highly recommend this for kids who love science; for the kids that don't, this may just win them over!
+Teaching Science in a Way Kids Will Appreciate &#8230;While television, video gaming and foods have changed/advanced over the years, there are still a few kid staples that remain intact, like hide-and-seek, peanut butter and jelly sandwiches and the hilarity of &#8220;potty words&#8221; and bodily functions.
+The THAT&#8217;S GROSS SCIENCE LAB is a &#8220;chemistry&#8221; set aimed specifically at kids who still get a kick out of bathroom-related business.
+By getting down to a &#8220;dirty&#8221; level that will surely generate interest, Smartlab Toys has found a way to teach science in a manner that will likely ensure a good amount a learning in between the snickers and giggles.THAT&#8217;S GROSS SCIENCE LAB includes an array of lab tools: A bubble wand, beakers, a &#8220;biohazard&#8221; cylinder, a shaker that looks like a garbage can, a spoon shaped like a worm, a funnel and 3 molds to make vomit, maggots and centipedes.
+The centerpiece of this science set is the battery-operated (2 AAA batteries, not included) toilet bowl mixer with a seat and a button that starts the mixer (a spinning bottom plate that swirls the bowl&#8217;s contents like a real toilet) with accompanying flushing sounds &#8230; kids will love this.
+A wacky, colorful and entertaining instruction booklet provides a series of 26 experiments that tap into the filthy stuff kids will surely want to create:  stink bubbles/balloons, &#8220;snot slime&#8221; and &#8220;foaming flush&#8221;.
+Accompanying the step-by-step instructions for each experiment is a paragraph that explains the science behind the dirty creations &#8230; toilet chemistry!It is important to understand a few things before purchasing THAT&#8217;S GROSS SCIENCE LAB:- The kit only provides the mixing/lab tools and NONE OF THE INGREDIENTS.
+You will need to provide ALL the ingredients/agents used to conduct all the experiments.
+Many of the items are common and can be found in the kitchen area (eggs, food coloring, yeast, garlic clove, sugar, etc).
+Otherwise, you may need to add a few fairly cheap items to the grocery list.- Be aware of what you&#8217;re getting into.
+With potty-humor being the basis of this lab kit, expect gross results.
+The sights and smells generated by the lab are not pleasant and odors not only linger, they aren&#8217;t necessarily confined to one room in the home.
+Additionally, with food coloring being one of the more common ingredients used, it is best to set this lab up in place that can handle the mess.
+One off-handed benefit is that this kit can actually be used as a means rid your home of unwanted guests &#8230; if you aren&#8217;t embarrassed easily.
+Let me start by saying when most people read the words &#34;Science Lab&#34; they think everything is going to be included to actually perform the lab.
+That is not the case with this kit - you will need to supply all the ingredients needed to perform the various experiments.
+So, if you are looking for a pull out the box and get rolling kit - this isn't for you.
+With that said, what does come with the kit is very good.Your kids will be enthralled with the &#34;gross&#34; stuff, like the plastic toilet and garbage can - they make the science experiments &#34;gross&#34;.
+What I really liked were the experiments.
+The experiments take items you most likely have in your pantry/laundry room or you can easily obtain - this is so very important.
+There are zero experiments that I think you won't be able to do because of the inability to get supplies - something that I have experienced far too often with science books.
+The most dangerous thing kids will be asked to do (with adult supervision) is use the microwave.
+There are some things that will be impractical to buy if you don't already have them (like a diaper - you only need one), but overall the experiments are well laid out and easy for kids to understand.Overall a good framework for fun science the kids can will enjoy doing.
+There are a good mix of experiments - some react immediately, some within a few minutes, others require waiting up to 24 hours for results.
+Some are incredibly simple (but neat) like Naked Egg others are more complicated like Gaggots.
+All the experiments work - which is a very important thing for keeping kids interested.But again - you are buying a book that is going to give you some interesting (gross) ways to think about reactions for everyday household items and some fun &#34;props&#34; that you can use or not.
+Great for a science loving kid, a sleepover party, or to entertain the kids in a rainy day.
+what i liked most about this kit is that it is a very well-edited selection of experiments which capture the magic of science in easy, quick projects.
+i flip through kid science books on occasion and am simply overwhelmed by the myriad of options.
+that's good for some people, but i am exhausted after a long day and do not have the time or inclination to decide which one of 300 experiments that i have the time AND materials.
+others may be annoyed that not all of the ingredients are in the kit, but i much prefer the use of standard household items than running out of (or spilling) the sole container needed to execute an experiment.the ingredients for all 26 experiments are listed on the back of the instruction book: applesauce, baking soda, borax, butter/margarine, cabbage, carbonated water/soda, chocolate syrup, cocoa powder, cooking spray, corn syrup, cornstarch, dish soap, disposable diaper, dry yeast, egg, flavored gelatin, food coloring, garlic, honey, instant coffee, ivory soap, juice, lemon juice, marshmallows, milk, cereal, navy beans, nonfat evaporated milk, oatmeal, rubbing alcohol, sugar, vegetable oil, vinegar, water, white glue.my 3rd grade twin boys absolutely loved this set, which is easy enough for them to do with minimal supervision.
+i've tried doing science experiments with them before, but they either lacked 'wow' factor (growing salt crystals) or i didn't anticipate their grasp of the topic (tornado in a bottle).
+my boys saw the box and were immediately intrigued by 'that's gross' title, and fought over who would read the directions first.the first experiment we tried was the naked egg.
+you take a plastic garbage can from the kit (about the size of a salad dressing tupperware container) and place the egg in it.
+then you fill it with vinegar and leave it in the fridge for 24 hours.
+my son was amazed at the shell-less egg.
+he read in the book about the chemical reaction of vinegar with the eggshell to create carbon dioxide, and how the egg becomes rubbery because of osmosis.all of the 26 experiments are similar this.
+the kit provides basic items which aren't necessary to do the experiments, but they are just novelty items to keep kids entertained.
+for example, there is a small palm-sized replica of a toilet.
+is it necessary to create foam using baking soda and vinegar?
+no.
+however, it makes it a heck of a lot more fun for a kid to make a tiny toilet overflow with foam than a boring cup.
+My 9 year old loves this kit.
+I agree with other reviewers that it is a bit overpriced for what you get but it got kept my son entertained and that's worth something.
+We had many of the items required to do experiments (dish soap, milk, food coloring, baking soda, borax, water, yeast, q-tips, white glue) but were missing others (Ivory bar soap, plain gelatin, sprite).
+I am not opposed to buying a bar of Ivory or some plain gelatin on my next trip to the grocery store, so this was not a big deal to me like it is for some other reviewers.
+If all that stuff came with the kit, it would be a lot more expensive, and would require refills.
+I think this kit gets kids interested in something beyond video games and inspires them to ask questions, so I like the kit.
+For me the only drawback is that darned toilet, it is a pain to clean between experiments, and just like a regular toilet the lid gets nasty at the hinges and it can't be removed for easy cleaning.
+It would have been nice to have it snap off.
+I got this for my daughters.
+I knew they weren't into gross stuff, but I thought they would go for it.
+Not!
+If I had a son who was into it, my daughters would likely have joined in and had a great time, but instead I had a friend's son try it out.
+He isn't really into &#34;gross&#34; stuff either, but the sheer silliness mixed with science is a win-win.The quality isn't going to impress you--this isn't a $200 science kit.
+If you have experience with science kits in this price range you'll understand what I'm talking about.
+But they took a lot of pain to make the instructions very kid-friendly and lots of fun.
+26 experiments is a lot.
+Each one is clearly laid out with steps, tools needed (with pictures!)
+and the scientific principle.Although the amount of fun to me isn't worth 5 stars, I feel that for its comparable kits and the price range, it deserves them.
+While many people say this is geared to boys I would disagree, most little girls might act like they don't like &#34;gross&#34; stuff but as the mom of 2 of them I assure you they do.
+They are the perfect little ballet dancing tea party princesses with their friends but it's all burps, toots, and hysterical laughing when it's just them with their Daddy.
+I wanted something that my husband could do with our older daughter for some 1:1 time, in the past they've done some science experiments but they were boring and generic and neither seemed to have too much fun, or the ingredients in the little included packets would run out and there went that kit to the back of the closet.
+The fact that you have to supply your own household products makes this kit a great value... you can do the experiements over and over (and since my girls are 6yrs apart, that means I can still use this when my 4yr old gets older too).
+Sure the contents are gross, but that's what made it perfect for an afternoon of laughs and learning for my daughter and her Dad... and that little toy toilet was the hit!
+Great gift!
+When I saw that this product was labeled as a science lab, I was under the impression that the product would contain everything you needed to conduct a series of simple science experiments.
+I was quite shocked when I opened the box and basically found 4 containers, a spoon, a couple molds, a mini toilet, a bubble wand, and a book.My daughters and I began playing with the set on a whim one day (still thinking at least some ingredients were included).
+After finding out the set included nothing except the containers and the book, I started flipping through the book.
+The book contains a series of 20 simple experiments and 6 secondary experiments (a second experiment you can do with the results of the first).
+Some experiments are fun yet scientific based, while others are just included for the gross factor.
+The time required to conduct the experiments vary from instant to hours.
+The problem I ran into was the fact I had all the ingredients on hand for very few experiments.So what ingredients are needed?Experiment #1:  Baking soda, vinegar, food coloring, and waterExperiment #2:  Dry yeast, sugar, and waterExperiment #3:  Food coloring, unflavored gelatin, light corn syrup, and waterExperiment #4:  Borax, white glue, food coloring, and waterExperiment #5:  Garlic, dish soap, rubbing alcohol, and water.
+A garlic press is recommendedExperiment #6:  Garlic and water.
+A garlic press and a balloon are required.Experiment #7:  Corn starch, chocolate syrup, food coloring, light corn syrup, and waterExperiment #8:  Ivory bar soap and a microwaveExperiment #9:  Cooking spray, applesauce, unflavored gelatin, oatmeal/raisin bran, instant coffee/cocoa powder, and waterExperiment #10: Cooking spray, colored cereal, marshmallows, and butterExperiment #11: Cooking spray, juice/water, Jello (orange or yellow), and food coloringExperiment #12: Cooking spray, orange Jello, nonfat evaporated milk, food coloring, and waterExperiment #13: Milk, food coloring, dish soap, and waterExperiment #14: Honey, light corn syrup, milk, vegetable oil, and food coloringExperiment #15: Disposable diaper, food coloring, and waterExperiment #16: Cabbage (purple or red), lemon juice, baking soda, vinegar, dish soap, and waterExperiment #17: Vegetable oil and corn starchExperiment #18: Carbonated water or soda (clear or light colored is best) and navy beansExperiment #19: Raw egg and vinegarExperiment #20: Cornstarch and waterDespite the set being rather basic, if you have the ingredients handy, I think this can be a fun and educational experience for children.
+Not having the above list, I had the ingredients for 5 experiments and of those, 2 were something the kids already knew well.
+If I had the ingredient list before hand, we could have performed the much cooler experiments while the kids showed interest.Overall, I think this set has some value to it.
+On one hand, you can do most of these experiments for free with some old Tupperware containers and an internet connection.
+However, I think the customized containers, the flushing toilet mixer, and having all the data and directions complied in a single source makes things more fun for the kids and much easier on the adults.While I know prices of products fluctuate all the time, I am not sure the value for the money is there at roughly $20.
+If the kit was more in the $10 to $15 range, I would say that this is probably a must try.
+Any higher than that, in my opinion, it would not be worth the money.
+"This is an excellent gift for any parent (or other interested adult) who wants to encourage in kids an interest in science in an engaging and fun way.
+The ""experiments"" are not difficult, and they do not require too much parental involvement, though you may want to get in on the fun.
+They do not require any special equipment that you would not be likely to have around the house, though you will need a number of common household items.
+I actually think this is a plus, as you can do the experiments again and again if your child shows interest.
+Many kids younger than eight would be interested in these activities, though they may need help reading the instructions.
+We are having a hard winter here in northern Ohio, and I think many parents would love this science kit to help keep their children entertained and learning in a fun way on the many ""snow/calamity days"" we have been having.
+Directions for the experiments are clear.
+I do recommend this product."
+My 9 year-old daughter opened this up and I thought, &#34;There's not much to it.
+Some plastic containers, a direction book.&#34; Frankly, the contents alone make it hard to justify the price tag.
+However, after watching her play with it for hours, and hours, and days, I was sold.
+This would definitely make a great gift.It does require a little supervision to make sure there is adequate table covering.
+We used cookie sheets to contain things as well.
+There is a requirement to use a lot of your own materials.
+However, most of them I had around the house anyway.
+I did need to get borax and yeast but I often have them around.
+Some of the experiments were super fun.
+Others not so much.
+But the real fun came in creating them more so than the final product.
+We've rubberized the shell of an egg, created layers of stuff that don't mix but make a colorful stripped display and on and on.
+Some experiments we've done in the past but they were still fun to do it the SmartLab way.
+Others were brand new to me.I think one of the best things is the mixing toilet.
+It just adds that extra fun to it all.
+It is battery operated and not only rotates to mix whatever is in the bowl, but it has a toilet flushing sound as well.
+Nice idea, but really overpriced.
+I could get most of what is in the box in the &#34;gag&#34; section of my local Dollar Store.
+I guess maybe not the mixing toilet, but it's a $3 dollar gadget at most.
+My nephew did like the grossness factor of the experimentsand I really didn't mind that most of the supplies weren't in the box, but for what you get, this is a $10-$12 toy if that.
+They definitely  could have made the instruction book/phamphlet nicer with some more info in it and maybe threw in a couple test tubes to make it more &#34;sciencey.&#34;  I will say, my nephew is eight and we did have fun the night we did this, but he didn't ask to take it home with him and didn't ask to play with it again the next time he came over.
+Kind of an overpriced one trick pony.
+I gave this to my newly turned 12 year old and she and her younger sister have been doing these experiments for the past 3 days.
+They can do most of them by themselves but some require a little adult supervision.
+The experiments themselves are very simple, but they are done in a very interesting and gross way like adding vinegar to some baking soda in the toy toilet and watching it overflow.
+Most of the ingredients needed you probably already have like rubbing alcohol, vinegar, lemon juice, karo syrup, borax, etc.....but I still need to go out and acquire a few more from the grocery store so they can do the rest of the experiments.Some of the experiments are edible and the kids have had a great time with those.
+I really like how they can learn some simple chemical reactions and have a blast at the same time.
+The kit comes with good instructions and all the items needed (and are reusable to do the experiments again) except for the ingredients themselves to perform many experiments.
+My kids a little while ago took out the egg in a trashcan experiment though I don't yet know how it turned out.
+I expect the raw egg to have been chemically cooked by the vinegar it soaked in for 48 hours in the refrigerator.UPDATE 1-2-14:  My kids have since done almost all of the experiments (after I went to the grocery store and bought a boatload of necessary ingredients for them except the diapers - too expensive), and spent several hours one evening just having an absolute good time.
+I advise this strongly - PLEASE DON'T DO THE IVORY SOAP EXPERIMENT!!!
+It will stink up your house like you won't believe.
+It was freezing that evening and we still had to air the stench out of the house by opening the doors and turning on the house fan.
+And last night my youngest heard a strange noise that started suddenly in the kitchen and discovered that the toy toilet that was put away in the box after all the experiments were done had turned on for some reason and continued to run.
+The only way I could turn it off was to take the batteries out.
+I noticed some water inside the battery compartment so I told her to put it in the refrigerator to thoroughly dry it out.
+I don't yet know if the toilet will work properly or not at this point.
+Will update later to this intriguing saga..........!
+Science can be a little boring for most kids if they just read about it in a book.
+This kit can change their mindset about science.
+Filled with most everything needed to get started they will be on their way to making lots of gross stuff!
+This is a great way to get children interested in chemistry.
+The instruction book is written to the child and is easy to follow.
+Perfect rainy day fun or a supplement to a homeschool science class.
+I've used this a few times with my 7 and 9 year old boys.
+Most of the experiments are simple enough for them to do completely unsupervised, but then I'd miss out on the fun, too!
+I think the stink bubbles were probably their favorites, and I was surprised by the (overall) lack of mess they made.
+This is something we will continue to play with, and I like the chemistry facts thrown into the instruction book.
+For my boys, that has prompted a lot of questions and further learning and exploration, which is ALWAYS cool!
+Overall, we've had fun and will continue to have fun with this set.
+Smartlab is really a box with plastic tubes, containers, molds, and a booklet of safe experiments.
+It does not provide any ingredients needed to make the experiments work.
+Thankfully, the majority of the ingredients will be things you already have in your kitchen.
+While the first impression you think , &#34;What a rip!&#34; However, on the flip side when you do the experiments, the results usually have a &#34;Oh, cool!&#34; effect.The one experiment that I did not find which would've brought the fastest WOW factor is the basic baking soda and vinegar trick.
+It doesn't take much of any of each ingredient.
+Add a couple of drops of food color on some baking soda, mix, then add a couple of drops of white vinegar and watch the magic happen.
+(It gets messy though.
+)SmartLab Toys That's Gross Science Lab is fine messy fun for the curious child.
+The non-included ingredients are common kitchen ingredients that, if you don't already have at home, can be purchased for cheap in the grocery store.
+My daughter enjoyed the novelty of the kit &#8211; it includes some fun &#8220;equipment&#8221; (the toilet that mixes ingredients when you flush it was her favorite), but when the novelty wore off, she said it was just toys and instructions (many of which you can free from a quick google search).
+She said she wished the ingredients were included with the kit.
+And although the toilet was her favorite &#8220;toy,&#8221; it didn&#8217;t mix the ingredients well, so the &#8220;potty putty&#8221; didn&#8217;t turn out well.
+She recommends adult supervision for younger children because it can get messy.
+So although the kit is cute and funny, the final verdict was just okay.
+First, it's important to note that not everything you need for the experiments is contained within the box.
+This really isn't a big deal, as most of it is easily accessible, but if you're saving this for a snow day activity, you'll need to do some planning ahead.
+A bonus is that some of the experiments can be repeated again and again, as long as you have the ingredients.Second, it's tons of fun for young ones who like hands-on activities and appreciate a bit of a gross factor.
+I'm thinking that it's likely best appreciated by 5-8 year olds.
+The first thing my daughter asked: :Why is there no girl on the picture?&#34; Boys are not the only creatures who like all things gross.
+The equipment included is sturdy and well made.
+The book full of gross recipes is adorable, but could have been much bigger.
+The biggest let down is the fact that: You need a microwave for most recipes; there is no way to make them without one, or at least the authors did not provide an alternative.
+This kit is fun and easy.
+It doesn't include a lot of what you need, but that is fine with me.
+I'd rather have to provide our own items, than pay a mark-up on items I already have in the kitchen.A lot of these experiments take grossness to a whole new level, which makes them more fun for the target audience.
+They are fun and easy enough that eight year olds can do almost all of the experiments by themselves.
+It is also fun for older kids.
+My eleven year old son had great fun with this science lab kit.
+It uses common household items to perform 20 experiments listed in detail in a book included with the kit.
+Of course, the tiny toilet mixer was a highlight.
+(Need two AAA for this, not included in box.
+)Experiments include foaming flush, snot slime, potty putty, and barf.
+Lessons learned include gas expansion, chemical reaction, cell respiration, polymers, and surface tension.Items you will want on hand to perform experiments:2 AAA batteriesapplesaucebaking sodaboraxbutter or margarinepurple cabbagechocolate syrupcocoa powdercooking spraycorn syrup (light)cornstarchdish soapdisposable diaperdry yeasteggorange flavored gelatinfood coloringgarlicunflavored gelatinhoneyinstant coffeeivory soapjuicelemon juicemarshmallowsmilkmulticolored cereal (like Fruit Loops)navy beansnonfat evaporated milkoatmealrubbing alcoholsugarvegetable oilwhite vinegarwaterwhite glueInstructions are clear and easy to follow.
+Adult supervision required.
+Best for ages 8-13.
+I have two children who are passionate about science so we have had and have many, many, many, many science kits.
+This is not on our top 20 list of favorites.
+There are less expensive sets that have been more fun, educational, and required less planning than this one.The strong points of this set are the gimmicky mixing containers, such as the toilet and trash can, and the very well done full color instruction booklet.The weak points are that while the ingredients are common household items, they are not common household items we always have in our cabinets.
+Some of the items we do not keep on hand were:purple cabbagecarbonated waterdisposable diaperdry yeastunflavored gelatininstant coffeenavy beansnonfat evaporated milkMost of the experiments worked as described when we followed the directions.
+Some did not work.
+Some worked in a very unimpressive way (I'm talking to you, &#34;Whirling Technicolor Moo Juice&#34;).Many of these experiments are widely available on the internet, Youtube, or Pinterest.
+The molds and mixers are gimmicky in a way that even turned off my 8 year old.If you are looking for a rainy day set to hold your kids' attention for about 10 minutes, this does have quite the listing of experiments.
+You could always supplement the book with online videos if you are trying to make it more educational.
+Overall, I would not recommend this set to a friend.
+We've owned several science kits and this is hands down our favorite.
+I love that it has a complete shopping list for everything needed for all the experiments.
+That makes it super easy to have everything on hand.
+My 8 & 11 yr old daughters were able to complete all of the experiments with little to no supervision without making a huge mess (major plus).
+Best of all, it completely occupied them with no electronics, and they are super interested in science experiments now because these were not complicated, but had plenty of wow!
+factor!

@@ -1,0 +1,300 @@
+Top question(s):
+We purchased this for our grandson for his birthday.  Our light only stays on for about 20 seconds,  Should it stay on until shut off?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+Many different things on this toy to interact with.
+The kids and I have a great time creating stories and playing them out with the figures (Batman and Robin are included).
+The Imaginext DC Super Friends Batcave playset will entertain kids from 3 to ten.
+It sure is lightyears better than the Batcave playset I had as a kid.
+A nice minor bonus, it did come with the batteries (although the product description does say that it doesn't.
+
+Question attention weights:
+0.6364484429359436,0.042320478707551956,0.32123106718063354
+Sentence attention weights:
+0.004334553144872189,0.003659956157207489,0.0022664472926408052,0.0020659842994064093,0.003715326078236103,0.003314844099804759,0.0021962441969662905,0.0028547924011945724,0.0036276865284889936,0.005911711137741804,0.0024925239849835634,0.002874020952731371,0.0028015763964504004,0.004663117695599794,0.003893301822245121,0.0032515975181013346,0.0032187856268137693,0.001709345611743629,0.0035237600095570087,0.0026599650736898184,0.001745156361721456,0.0036588646471500397,0.0018109220545738935,0.004252706188708544,0.003644360229372978,0.005008789245039225,0.0033871454652398825,0.003405434312298894,0.00482951058074832,0.003272370435297489,0.0030500623397529125,0.0045901075936853886,0.004587005823850632,0.004546147771179676,0.003179965540766716,0.0024421110283583403,0.004479105584323406,0.0019286766182631254,0.002710197353735566,0.004766217432916164,0.004019628744572401,0.00453978544101119,0.00336856534704566,0.0038514109328389168,0.0052888705395162106,0.0035634625237435102,0.002454339759424329,0.0022532097063958645,0.0032371296547353268,0.004402486141771078,0.004669191315770149,0.0046894242987036705,0.004440930671989918,0.004600446671247482,0.004715379793196917,0.003970918245613575,0.003716510022059083,0.005001920275390148,0.005931325256824493,0.0036151683889329433,0.003805201966315508,0.002618787344545126,0.0024897772818803787,0.003927465528249741,0.0019057635217905045,0.0017770037520676851,0.003458175575360656,0.0034801261499524117,0.0020049691665917635,0.0059741646982729435,0.001965748844668269,0.004722577054053545,0.0032895109616219997,0.00319278403185308,0.0035413869190961123,0.004486392717808485,0.004245660733431578,0.004551788792014122,0.004925895947962999,0.004551788792014122,0.004429914057254791,0.0023539101239293814,0.0017748683458194137,0.005037244874984026,0.002158398972824216,0.0036134386900812387,0.004272823687642813,0.0031951176933944225,0.0016956616891548038,0.004082393366843462,0.0030030603520572186,0.0020913330372422934,0.0052816909737885,0.004138459451496601,0.0025740156415849924,0.003367549739778042,0.00370347173884511,0.0037092650309205055,0.00418675085529685,0.0048422496765851974,0.00501627754420042,0.0013961585937067866,0.005237655248492956,0.00501627754420042,0.005009503569453955,0.0016563482349738479,0.003301772987470031,0.0019166306592524052,0.0041937455534935,0.0024916797410696745,0.0017958215903490782,0.004434815142303705,0.003962540067732334,0.0035591309424489737,0.0027071021031588316,0.002251936588436365,0.003039696253836155,0.004061562474817038,0.004280924331396818,0.003801971673965454,0.0041761319153010845,0.002976679941639304,0.0042197210714221,0.0018317452631890774,0.0013374419650062919,0.004660600330680609,0.006710759364068508,0.0034957476891577244,0.004905230365693569,0.0031013451516628265,0.002127093030139804,0.004905230365693569,0.0038470474537461996,0.005409408360719681,0.004063485190272331,0.003551983507350087,0.004911493510007858,0.004692793823778629,0.0018823117716237903,0.004129319917410612,0.003120782785117626,0.0031921803019940853,0.0027778465300798416,0.004771584179252386,0.00445510121062398,0.004705246537923813,0.004894156940281391,0.0027518447022885084,0.0035896464250981808,0.004332072101533413,0.0049337176606059074,0.005115510430186987,0.003506948472931981,0.0020047274883836508,0.003144450718536973,0.004840373527258635,0.0025174112524837255,0.005521419923752546,0.003761540399864316,0.0031310950871556997,0.002964224200695753,0.0014750328846275806,0.002921756822615862,0.003185377223417163,0.004219179507344961,0.004826850723475218,0.00452443165704608,0.0014810065040364861,0.0035925223492085934,0.0037561559583991766,0.004223694559186697,0.003971997182816267,0.0035930487792938948,0.0037150715943425894,0.004383321851491928,0.004021298140287399,0.004833417013287544,0.004375924356281757,0.001716954866424203,0.004240293055772781,0.003950199112296104,0.004324873443692923,0.005334916058927774,0.003955494146794081,0.0051406570710241795,0.003989521414041519,0.004795170854777098,0.005463858135044575,0.0023737286683171988,0.004995704162865877,0.0032139234244823456,0.0029189272318035364,0.0030968275386840105,0.002581539796665311,0.001934086554683745,0.0032358437310904264,0.0034590500872582197,0.0035892087034881115,0.004174478352069855,0.001477472367696464,0.0032280171290040016,0.0014898701338097453,0.003988395445048809,0.0022136715706437826,0.004773195367306471,0.004990707151591778,0.004255075938999653,0.00417654775083065,0.002328331582248211,0.0040422664023935795,0.005039244890213013,0.003756633959710598,0.0017303524073213339,0.004577662330120802,0.0013398423325270414,0.001556502073071897,0.0036633394192904234,0.004326956812292337,0.0023731966502964497,0.004827307537198067,0.0019480278715491295,0.003529849462211132,0.0046521686017513275,0.004866348579525948,0.004144084639847279,0.004956250078976154,0.002949317218735814,0.004645814187824726,0.004956250078976154,0.0038454283494502306,0.0015430725179612637,0.002249815734103322,0.004579273518174887,0.004925525281578302,0.0036820978857576847,0.0021146510262042284,0.004926986526697874,0.003728888463228941,0.0033621203619986773,0.0029560790862888098,0.0014220632147043943,0.0028460067696869373,0.0044412328861653805,0.002586737275123596,0.005018804222345352,0.0012900991132482886,0.0017565175658091903,0.002379042562097311,0.0034795093815773726,0.0014564754674211144,0.0022143207024782896,0.0024125631898641586,0.004242644179612398,0.0029291657265275717,0.0027298573404550552,0.0030668633989989758,0.004126835148781538,0.0040363105945289135,0.0044455984607338905,0.003970651887357235,0.0037059697788208723,0.004478340037167072,0.004049174953252077,0.0019892596174031496,0.00433798274025321,0.003401630325242877,0.00457508210092783,0.0019403902115300298,0.0019380655139684677,0.004245340824127197,0.0033692822325974703,0.005081305745989084,0.0036326779518276453,0.004752127453684807,0.004424629732966423,0.001982066547498107,0.0015773237682878971,0.004335291218012571,0.00384470634162426
+0.0047933137975633144,0.0037439269945025444,0.002663341350853443,0.002704053185880184,0.004843869712203741,0.004640297032892704,0.0028973608277738094,0.0033919811248779297,0.004151827655732632,0.0051541877910494804,0.0029082417022436857,0.0033057136461138725,0.0028849595692008734,0.0038040759973227978,0.004490145482122898,0.00340956449508667,0.0039170728996396065,0.003101048292592168,0.005340447183698416,0.0028392404783517122,0.002290434902533889,0.003769213566556573,0.0031654355116188526,0.0040025594644248486,0.003697287291288376,0.0045023467391729355,0.003375102998688817,0.003334390465170145,0.003952637314796448,0.0033642183989286423,0.0027879297267645597,0.004065509419888258,0.00447037210687995,0.003751936601474881,0.004333768971264362,0.00240439479239285,0.003916498273611069,0.0023853157181292772,0.0022424086928367615,0.003906087251380086,0.0044125718995928764,0.0038504686672240496,0.0035836303140968084,0.004081388004124165,0.004218404646962881,0.0037084270734339952,0.002622225321829319,0.002665691776201129,0.003417283995077014,0.0038760153111070395,0.003821025136858225,0.0051466175355017185,0.003644065000116825,0.003620395204052329,0.00369392242282629,0.0031766286119818687,0.004979938734322786,0.004010935313999653,0.007716079708188772,0.0029445767868310213,0.00287763518281281,0.00282498961314559,0.002700626850128174,0.0031866966746747494,0.002765724901109934,0.002718461910262704,0.003972804173827171,0.0029912975151091814,0.0023576035164296627,0.004465785343199968,0.0022323697339743376,0.003908434882760048,0.003906048135831952,0.003928107209503651,0.0034411028027534485,0.003415173152461648,0.0039758444763720036,0.003717804094776511,0.004123025573790073,0.003717804094776511,0.004048932809382677,0.00199719937518239,0.002718850737437606,0.004007905721664429,0.002687276341021061,0.003862004028633237,0.0034941742196679115,0.004336460493505001,0.0032297365833073854,0.004540788475424051,0.0032099734526127577,0.002812776481732726,0.004598044324666262,0.004643801599740982,0.0028913221322000027,0.003115483094006777,0.003511149901896715,0.003293428337201476,0.0034738352987915277,0.004136734642088413,0.004045560024678707,0.0025249524042010307,0.004232536535710096,0.004045560024678707,0.004035206977277994,0.0026991120539605618,0.0028136507607996464,0.0032662455923855305,0.0035178472753614187,0.002463208045810461,0.0033766962587833405,0.003747686743736267,0.0036246636882424355,0.004520190879702568,0.0036043666768819094,0.002747262129560113,0.003862014040350914,0.003761324333027005,0.003947505261749029,0.0035175096709281206,0.0035465098917484283,0.0031800384167581797,0.004333082586526871,0.0031375191174447536,0.002476308960467577,0.003905407851561904,0.00520730996504426,0.003402316477149725,0.003927349578589201,0.003250512992963195,0.0028793788515031338,0.003927349578589201,0.0033648160751909018,0.004282505251467228,0.0038406923413276672,0.004688176326453686,0.0037301229313015938,0.003836077870801091,0.0030036780517548323,0.003651869250461459,0.002769005484879017,0.0031979368068277836,0.002621968276798725,0.005269393790513277,0.0037038656882941723,0.003840689780190587,0.006129714660346508,0.003217322751879692,0.0035071908496320248,0.0037009245716035366,0.003960165195167065,0.004009628668427467,0.003354855580255389,0.00344252772629261,0.002784737618640065,0.004525187890976667,0.002945157466456294,0.005645689554512501,0.0037794937379658222,0.0029061075765639544,0.0037438261788338423,0.00207252218388021,0.0035192782524973154,0.0029905003029853106,0.003876960836350918,0.003919146489351988,0.0040654675103724,0.0019054025178775191,0.0037029534578323364,0.0034914067946374416,0.003753683529794216,0.0039708251133561134,0.002844736911356449,0.003030112711712718,0.003725582268089056,0.004085988737642765,0.003911133855581284,0.004126749467104673,0.0023955318611115217,0.0034249296877533197,0.003504724008962512,0.0037129251286387444,0.004216055851429701,0.004131779074668884,0.004251883365213871,0.004028799943625927,0.003874398535117507,0.0044283177703619,0.002804526360705495,0.003916726913303137,0.0033228371758013964,0.003352910513058305,0.0033531987573951483,0.002648864407092333,0.0021968872752040625,0.003007656428962946,0.003749893279746175,0.0038182938005775213,0.0035416691098362207,0.0031110120471566916,0.0031450430396944284,0.0022065797820687294,0.0036683776415884495,0.0027671782299876213,0.003857686882838607,0.0041158078238368034,0.0035253996029496193,0.003954152576625347,0.002220035530626774,0.0040457588620483875,0.005013730376958847,0.0033302742522209883,0.0023166725877672434,0.003920295741409063,0.0018297794740647078,0.0027358010411262512,0.003380869049578905,0.0035436125472187996,0.0020917474757879972,0.0050822412595152855,0.0025352074299007654,0.004219295922666788,0.0055335708893835545,0.003929355647414923,0.003889349987730384,0.003977973945438862,0.0028897414449602365,0.00380455213598907,0.003977973945438862,0.0038167599122971296,0.0020719580352306366,0.0029256364796310663,0.003634467488154769,0.00426710769534111,0.0037684477865695953,0.0023997894022613764,0.003990298602730036,0.003524140687659383,0.003938762005418539,0.0038700539153069258,0.0018736098427325487,0.002976234769448638,0.004128485918045044,0.002826000563800335,0.005531886126846075,0.0022869426757097244,0.002400500699877739,0.0023795892484486103,0.003811500733718276,0.0026505242567509413,0.0025919778272509575,0.003957134205847979,0.003525984240695834,0.0038192204665392637,0.0035817809402942657,0.003569886786863208,0.003941616974771023,0.0037579836789518595,0.004219365306198597,0.004278648644685745,0.004857670050114393,0.004503645934164524,0.004400225356221199,0.0031613316386938095,0.003912439104169607,0.003934597130864859,0.003916729241609573,0.003399831708520651,0.002816401422023773,0.0037104454822838306,0.0033034624066203833,0.004080213140696287,0.003840309102088213,0.003991796635091305,0.003723246045410633,0.0036718323826789856,0.002265171380713582,0.004398785997182131,0.003791725030168891
+0.0046140290796756744,0.0036227074451744556,0.0024235625751316547,0.0018143114866688848,0.003652302548289299,0.002626868663355708,0.0025786994956433773,0.0029426540713757277,0.003292965702712536,0.006027745082974434,0.0028276387602090836,0.0032498245127499104,0.0030405258294194937,0.004778120666742325,0.00311641744337976,0.0037250828463584185,0.003163081593811512,0.002076733624562621,0.0032179870177060366,0.0028202971443533897,0.0016087060794234276,0.003608919680118561,0.0020110001787543297,0.004432839807122946,0.0039410339668393135,0.0051310076378285885,0.003289606422185898,0.0032918844372034073,0.00491280248388648,0.003026291960850358,0.0032235421240329742,0.004453941248357296,0.0046636564657092094,0.004781689960509539,0.0030150734819471836,0.0026347890961915255,0.004604051820933819,0.0017986017046496272,0.002828822238370776,0.00486238906159997,0.004167183768004179,0.004604821093380451,0.003391311503946781,0.003957543987780809,0.005755709484219551,0.0033247361425310373,0.0025197607465088367,0.0022672549821436405,0.003202647902071476,0.0043232436291873455,0.00480864429846406,0.003887148341163993,0.004151802975684404,0.004436913412064314,0.004751213360577822,0.0042879581451416016,0.0034658468794077635,0.005062495823949575,0.005959020461887121,0.003949195612221956,0.00369341135956347,0.0024920948781073093,0.0024039314594119787,0.003982165828347206,0.0020561516284942627,0.0017284998903051019,0.0031411643140017986,0.0032774650026112795,0.00191071059089154,0.005020506214350462,0.0021940376609563828,0.004924194421619177,0.002902280306443572,0.0034346305765211582,0.003729837015271187,0.004120178986340761,0.004344373010098934,0.00466571282595396,0.004960129037499428,0.00466571282595396,0.00434850761666894,0.002021704101935029,0.0017987325554713607,0.005241666454821825,0.002259345492348075,0.0035204682499170303,0.004348551854491234,0.0029741707257926464,0.0014761531492695212,0.004428823012858629,0.002997424453496933,0.0019009558018296957,0.005428466945886612,0.0042228796519339085,0.0024240328930318356,0.002977263182401657,0.0037851121742278337,0.0036152086686342955,0.003998718224465847,0.005164526402950287,0.0051236990839242935,0.00157664786092937,0.0053038690239191055,0.0051236990839242935,0.005108227487653494,0.0016446695663034916,0.0031067694071680307,0.0014222203753888607,0.0042242323979735374,0.002428166102617979,0.0019126363331452012,0.004522167611867189,0.003974761813879013,0.0027038028929382563,0.0028866087086498737,0.002023411216214299,0.003158333245664835,0.0037561992648988962,0.004372588358819485,0.0038666713517159224,0.0041762120090425014,0.002636639168485999,0.003711499273777008,0.001411425182595849,0.0012296766508370638,0.004879997577518225,0.00702526792883873,0.003368325298652053,0.005029592197388411,0.002906331792473793,0.0022048666141927242,0.005029592197388411,0.004012651275843382,0.0056086378172039986,0.0040966058149933815,0.003612509462982416,0.005029688123613596,0.004757447633892298,0.0015718271024525166,0.00424345163628459,0.003120728535577655,0.0028174924664199352,0.0024220715276896954,0.0049611227586865425,0.004484366625547409,0.0047665489837527275,0.0050266338512301445,0.003021872602403164,0.0036630884278565645,0.004478083457797766,0.005028690677136183,0.005104036070406437,0.003456039819866419,0.0019668920431286097,0.0028709806501865387,0.0050411405973136425,0.0023723857011646032,0.004640505649149418,0.0037373865488916636,0.002927519381046295,0.003039890667423606,0.001130186952650547,0.0031416367273777723,0.003358470508828759,0.004451030399650335,0.004939258098602295,0.00462464801967144,0.0012560004834085703,0.0038115934003144503,0.003787732683122158,0.004319025669246912,0.004255726933479309,0.003660590620711446,0.003933283034712076,0.004552921745926142,0.004044999834150076,0.005014707800000906,0.004168103914707899,0.0017506766598671675,0.004499100148677826,0.004252454731613398,0.00433181831613183,0.005540168844163418,0.004097835626453161,0.005141948349773884,0.0044883559457957745,0.0050453064031898975,0.005656394641846418,0.00219678389839828,0.005128636956214905,0.0027664012741297483,0.0030214476864784956,0.003154074540361762,0.0023084052372723818,0.0020324753131717443,0.0032671212684363127,0.0037742741405963898,0.00384720740839839,0.00413820706307888,0.0017204465111717582,0.003043962875381112,0.0011886487482115626,0.00415688706561923,0.0018458891427144408,0.004883342422544956,0.005057120695710182,0.004413248971104622,0.004452000372111797,0.0024556475691497326,0.0034774465020745993,0.004589376971125603,0.0035393252037465572,0.0014669484226033092,0.004636028781533241,0.001590293599292636,0.001381813664920628,0.0037494064308702946,0.0040732924826443195,0.002394893206655979,0.00502242986112833,0.0023523534182459116,0.0036571838427335024,0.005137238651514053,0.00490634934976697,0.004351945593953133,0.005044632125645876,0.002533198334276676,0.004634407348930836,0.005044632125645876,0.004219307564198971,0.001194050069898367,0.0023821054492145777,0.004837480373680592,0.005149472504854202,0.0034776278771460056,0.002078432124108076,0.00517555745318532,0.004089738707989454,0.003435852937400341,0.002995748072862625,0.001325206714682281,0.0032122107222676277,0.004632068332284689,0.0022252886556088924,0.003946993034332991,0.0012745269341394305,0.0013896990567445755,0.002291420940309763,0.0035939831286668777,0.0011582764564082026,0.0023706089705228806,0.0021443685982376337,0.004419418517500162,0.0030539236031472683,0.0025970125570893288,0.003333061933517456,0.004529866389930248,0.003980523440986872,0.004605880472809076,0.0042260014452040195,0.003612672444432974,0.004837641492486,0.0036961345467716455,0.001906522549688816,0.004519551992416382,0.003167533315718174,0.004460915923118591,0.001459725433960557,0.002308689523488283,0.004192678723484278,0.0032494179904460907,0.005159774795174599,0.0034488122910261154,0.0048989043571054935,0.004121710546314716,0.0019207035657018423,0.001361718401312828,0.004237310960888863,0.004088843706995249
+Questions:
+We purchased this for our grandson for his birthday.  Our light only stays on for about 20 seconds,  Should it stay on until shut off?
+What are the dimensions?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+"The most vivid memories of my 1980s childhood find me playing with my Super Powers action figures after school.
+When I sat down to share this playset with my three-and-a-half-year-old daughter (and Batman/Spiderman fan), it immediately made me wish I was a kid again.
+There's so much to do with this playset.
+This Batcave is four levels with several ""activation points"" where you can do something exciting.
+There's a little elevator and a telescope as well as the always-necessary projectile toy, in this instance a rocket launcher, which no Batcave should ever be without.The playset comes with two figures--Batman and Robin, obviously--as well as a Batcycle vehicle and a few other small accessories.
+Be warned that this practically screams ""expansion,"" so you'll most likely be getting at least a few villian figures, a Batmobile, and maybe even the Joker's Funhouse playset.
+Overall, this seems to be pretty sturdy as far as plastic playsets go, though it may be worth playing with your kids the first few times to teach them how to treat their toys.
+My daughter can be a little hyper, and this was her first exposure to smaller action-figure fun as opposed to plush animals and the like.
+But she has no trouble activating the elevator and stuff, and I know that this will provide her with hours and hours of fun, especially as she collects more of the series.This is a great way to introduce little fans to the Batman universe and the joys of action figures.
+It sure is lightyears better than the Batcave playset I had as a kid.
+It's major ""action"" feature was a big gray rock that could... fall down."
+My 3 year old cousin is now completely obsessed with this toy.
+His 8 year old brother is more of a sports/outdoor type, but even he seemed to get a kick out of this upgraded Batcave.First of all, this thing is pretty massive.
+It's almost as tall as the younger kid.
+It comes with Batman and Robin figures and a motorcycle.
+From the side of the box you can see that additional characters (Joker, Riddler, Penguin, etc.)
+are available along with a ton of accessories like a plane and boat.
+I agree with another reviewer who wrote that a Joker figure would be nice to play villain contra Batman & Robin, but this thing is pretty comprehensive for the price, so I'm not complaining.
+Also, this is meant for a younger age group, and I'm not even sure my cousin is up on the hero/villain concept anyway.Features include: a light-up Batman signal, elevator, tools, computer, rocket launcher, and telescope.
+The latter two are the only things that require assembly, but they're both simple.
+I'm horrible at putting stuff together, but it was a breeze.
+There's also a glider to go along with the cycle.Very durable (these are NOT gentle kids) and lots of fun.
+I've only docked the educational value, which you're probably not looking for here anyway.
+That said, I do think an argument could be made for dexterity.Excellent idea for a Christmas present.
+Highly recommended!
+Kids are having great fun with the Batcave and I love the frustration-free packaging.
+I wish more toys were packaged without all the extra junk that make them so difficult to open.
+This toy will keeps the kids busy for many hours.
+I would suggest buying a few more figures for added fun.
+"My son is a big fan of Batman / Justice League, and has lots of Imaginext characters, so this toy is heaven for him.
+It's roughly 2.5 feet tall and 1.5 feet wide, so it feels very big without taking up an exorbitant amount of room in our playspace.
+There are lots of gadgets, features, nooks and crannies that are perfect for stashing figures, having ""team meetings,"" ambushing visitors, etc.
+My 4-year-old son is convinced that he alone figured out the secret trick to making the elevator work, and is in heaven about that fact.
+It's a great toy, although at a price point of $60 I sort of expect it to be great.
+And the good news is that it doesn't disappoint."
+This is the second Batcave to come from Imaginext, and it's a big improvement over the first.
+This one actually goes up 4 levels, allowing a lot of fun!
+As with the other version, this includes both Batman and Robin figures, which I appreciate rather than them forcing you to buy something extra.
+It even includes a Batcycle so you're ready to race into action.
+The only thing missing is a bad guy.
+While I wouldn't expect the Joker (but for this price, I don't see why not), it would be cool to at least have someone to throw into the jail.As with other toys, this one has a lot of knobs to turn that bring out guns, twirl the Batcycle, etc, so there's a lot to keep a kid (and his dad!)
+busy for a long while.
+It's also durable, and packs up quickly for storage later (of course, it'll probably just end up in the middle of the room until mom says it's time to put it away cause it's cool!
+).The price on this may seem steep for a child's toy, but when you see the size of this thing you'll understand why.
+I can't say you'll be able to jump up and down on it without breaking something, but I CAN say this should take a lot of punishment before it falls apart for the most part.
+Highly recommended for kids AND their dads!
+I've come to know that when Fisher-Price and Imaginext puts something out, it's a pretty good toy.
+All I've bought from them has been very durable and high quality ~ the Batcave is no exception.
+It large and full of little doors and levers to keep my two boys captivated for hours.
+My only complaint was that it didn't come with any instructions, we had to look at the pictures to figure out where everything went.
+The boys are still figuring out what all it does.
+Comes with Batman, Robin and a motorcycle.
+Now we just need to buy the Joker so they can put him in jail!
+My boys play with it constantly.
+This one was a real win.
+It's durable, and has lots of little things the kids love like doors and elevators.
+They load it up with all kinds of action figures and they have a blast.
+Great for imaginary play.
+The Imaginext DC Super Friends Batcave playset will entertain kids from 3 to ten.
+It's a large structure with different levels for lots of imaginative play.
+However, many of the moving parts work clunkily out of the box or else feel like they won't stand up to a lot of playtime.
+Many of the moving parts are triggered by red discs that turn like knobs.
+Each disc has a pair of footprints for you to plug any Imaginext figure into and then turn like a key.
+However, the fit between the disc and the figures rarely snug enough to allow little hands to trigger the reaction this way.
+As a result, my kids gave up on this almost immediately and began opening gates and moving the elevator manually.
+Plus, the batsignal usually gets stuck when retracting back into its tube, the rocket launcher rarely moves far enough into place to clear the door in front of it, and so on.
+So while the basic structure is sound enough, many of te smaller and moving parts disappoint.
+Also, the footprint of the whole set is narrow enough that it tips over frequently.
+A pair of extending feet would have solved this problem.On the positive side, it works with all other Imaginext lines of toys, so our Batcave gas already been attacked by pirates, knights and dinosaurs.
+The kids and I have a great time creating stories and playing them out with the figures (Batman and Robin are included).
+So, it is an excellent launch point for developing imagination.Overall, my two boys love the Batcave.
+I would have enthusiastically given it a higher score if only more attention would have been paid to the construction quality and functionality of the moving parts.
+This Batcave was a gift for two grandsons, ages 4 and 6.
+The batcave was super simple to put together; only TWO things for the adult to do before they could play!The toy is large enough for both boys to play at the same time.
+I did buy an additional Batman toy, as this only comes with one.
+(Can you imagine the fight?
+*shudder*)The boys LOVED it!
+There are FOUR levels to play on!
+Really, who doesn't love the Batlight?
+And now they kids can play with their own!
+There are 5 activation discs that cause all kids of Batfun to happen!
+You can even catch the bad guys and put them in jail.
+Unfortunately, the bad guy will have to be purchased separately.There is a secret entrance, a Batcycle, a working elevator,and even a telescope!I highly recommend this toy for any young Batman fan, with the warning to the purchaser to buy at least one other figure.
+First thing, this is pretty darn big.
+It's one of the larger Imaginext play sets I've seen with four different levels of activity for your Batman fan.
+It was fairly easy to remove from the box, and set-up was simple with only a few pieces to attach.
+There weren't any included directions, however it was easy to see what pieces went where by looking at the pictures on the box.
+Batman and Robin along with a few miscellaneous pieces are included, although I agree with other reviewers that a villain would have been nice, especially considering the price point of this particular play set.
+The activation points did feel a little clunky when compared to other Imaginext playsets that we already own and although my daughter loves it, it just feels a little chintzy (at least compared to our other sets).
+That being said, it's already gotten many hours of play, it's great how there's a place for the bat cycle and the prison to lock up the bad guys is one of her favorite sections.
+Other Imaginext figures work also, so I'm sure over time our pirates and explorers will be visiting.
+I think the whole line of Imaginext toys is great for encouraging a child's imagination and I've gifted many sets over the years.
+Overall, I'm pleased with it and would definitely recommend it for kids 3 and up as some of the pieces are a bit on the smaller side.
+My son has many imaginext super friends pieces.
+This has been a great addition to his other bat toys in that line.
+He loves the multi-levels, jail for the bad guys (which we already have) and the bat cycle.
+All you need to do is add 2 AAA batteries and this is ready for hours of fun.
+Pieces are large enough that older toddlers can enjoy this, along with elementary age kids.
+A+ in our book.
+Like other Imaginext products, this one is a fantastic toy.
+Here are some of the highlights.
+It:...is sturdy and well built...is filled with switches and levers that trigger fun actions...is HUGE - four stories of fun!...has a lit Batman logo on the front (batteries required)...comes with the action figures (thank you!
+)All in all, this is another hit.
+I really can't think of any gripes about it at all.
+My kids LOVE it!
+"This product review is part of my obligation to Amazon for accepting to be a member of the Vine program, a club of selected customers that provide opinions about ""new and pre-released items.""
+We enter this club by accepting free copies of products but we promise in return to submit an opinion.The Batcave comes attractively packaged.
+The minute the kids saw it, they were jumping for joy.It comes with Batman and Robin figures; bat-cycle, bat-glider and a computer consol.As soon as the entrance is discovered the kids had a blast parking the cycle inside and they are still going strong.
+Both kids play with this toy regularly, but the youngest, Aidan will not give it up.
+A couple pieces have snapped off but are easy enough to snap back in.There were no instructions enclosed, except two pictures on the box, so there are still a couple of parts we have no idea what they are for.Still-they love it and the action figures are great.
+They have flexible wrists and their feet act as a ""key"" to turn some levers on the toy.The Bat signal flashes!The toy has enough gadgetry that it has become one of their favorites, stimulating their imagination and keeping them occupied for hours on end.
+An excellent product!"
+"We already have several Imaginext toys in our house which are a big hit.
+With currently two little nephews as well as superhero loving niece in the right age range, this will be a hit, too.
+The set has the standard sturdiness of an Imaginext toy with the fun of the Batman characters and mythos including a bat signal and the secrets of a hidden cave.
+Perhaps the only drawback is the lack of a villain figure for the set, but those are easily obtained online or even in brick and mortar stores since I have seen them there previously.
+The charm of this toy isn't lost on the grown-ups either.
+When we first opened it, my husband sighed and said, ""We didn't have toys like this when I was a kid.""
+No, we didn't but that makes playing along with the children in our lives all the more fun.
+Another bonus is that this skews both younger and older--not too dark for a two year old playing with his brother--but fun for a six year old who loves his Super Friends.
+Now I find myself wishing for a Justice League set or Superman's Fortress of Solitude."
+"""Fisher-Price Imaginext DC Super Friends Batcave"" is a terrific buy for young super-hero fans.
+Huge, well-designed with lots of activities, my nephews and nieces both love this toy set.
+The ""Imaginext Batcave"" comes with a Batman and Robin figure, a bat cycle, assorted weapons and lots more.If I have one knock, it's that as is usual with these toy sets, a few key accessories are purposely left out, with the hopes that you'll spend some more coin to buy them separately; as Fisher Price's marketing team well knows, any kid who's at least sightly familiar with Bat-Man will be hitting their parents up for such key accessories in no time.
+At least one villain should have been included (after all, the Batcave does come equipped with a jail, but B & R have no one to incarcerate) and a vehicle that both characters can fit into at the same time (preferably the Batmobile), as the rinky-dink cycle that the set comes with feels like an afterthought.Nitpicking aside, for budding superhero fans, this is a great gift and worth the price."
+This toy is a lot of fun for kids of all ages.
+Many different things on this toy to interact with.
+Bat light is a huge hit.
+Comes with accessories.
+Great fun for any Batman fan.
+The one flaw of this toy is that it didn't come with a vilan to put in the jail cell.
+You will have to go out and buy one of the vilans.
+This toy set is very durable and can withstand very active play.
+There are a lot of different levels to the set and very good for imaginative play.
+Highly recommend.
+"It was like Christmas at our house when the Fisher-Price Imaginext DC Super Friends Batcave arrived!
+My Son, Daughter and I played for hours with the small action figures and accessories.
+I was excited that finally we had a toy in our house that both kids could really enjoy.
+Just enough like a doll house for my daughter to really get a kick out it and just ""man"" enough for my son to make motor-cycle noises and other mechanical sounds that boys like to make.I was really a big fan of the bat-cycle that came with the product.
+It's perfect for little three year old fingers to grasp and play.
+The harpoon was especially neat with the capacity to really launch the small projectile a few feet (watch your eyes!).
+And I was really impressed with the working elevators and other moving parts on the batcave!The only thing that really seemed to be missing was a villain.
+The Batcave came with a jail, but no villain to lock up!
+Which leaves you to locking up Batman or Robin until you can purchase the Joker or someone else to throw in the pen.Overall we really enjoyed the toy, Though I think it's a bit over priced (add the Joker and I'll say it's worth it).
+I like the idea that you can add other accessories like the bat-boat, bat-plane, etc.
+along with other characters.
+Its a set you can build on.I recommend getting this set for a birthday present or Christmas and alerting uncles, aunts, friends, etc.
+and have them buy the accessory packs to make a complete set where everyone gets to share in the joy of building the collection.I really liked the bat cave, but if your going to get it, you need to grab a villain to make playing with it complete."
+Would absolutely make a great Christmas or birthday present.
+My six year old is in love with it and it's been played with by kids and adults alike in my home.
+Even the grown-ups have had fun.
+I like that there are not a lot of little pieces to get lost.
+The set is very playable the way that it comes however, you can add onto it with other compatible products or just use other toys you have around the house with it too.
+I had seen kids at play with the Imaginext dragon castle (don't remember the exact name of it) and that was a lot of fun and same idea, so I figured why not try this.
+The price is certainly not cheap but it is in the same range as similar toys.
+We've dropped it a few times and no harm done.
+I believe it's a solid toy and won't break easily.
+A nice minor bonus, it did come with the batteries (although the product description does say that it doesn't.
+The bat signal adds a little interest where it does light up.
+As a mom, I'm thankful this toy doesn't make noise!
+The Batcave did not live up to my Imaginext expectations.
+It consists of a caped Batman, with additional plastic batwings, Robin, the Batbike, a computer, telescope, 2 weapons, and a weapon shooter.
+The location where you put the weapon shooter is awkward.
+It attaches behind a door you use a button to turn to open, this enables you to shoot out of the doorway.
+A child playing by itself finds this frustrating because you can't be in front of and behind the cave at the same time.
+The cave is pretty big.
+The telescope is not fun to use, it's hard to see through it and hurts your eyes.
+And again, placement of the telescope allows you to raise and lower it.
+Once raised you can maneuver it, but the platform it's on lowers back down, making it difficult to view through it.
+The compter is too big, it keeps getting knocked over.
+The Batbike kept tipping over.
+The extendeble arm does not work very well and seems flimsy.
+I'm just not impressed with the one sided play, because it shofts you around to wither fron or back to use the items.
+We own many Imaginext products, this by far is the worst worst set up.
+Playing with my 8 year old when we couldn't see each other over the cave.
+Not so much fun.But I'm sure if your child is a bat fan, they will find a way to make it great play time.
+This toy just looks awesome.
+It has superheroes, a bat signal, a batcycle, and shooters.
+There is an elevator and a jail.
+Anything with shooters is very cool to my four year old son.
+Anything with wheels is cool.
+Superheroes are cool.
+Shooters, a batcycle, and superheroes together= totally awesome and hours spent playing.
+So from the kid angle, this has it all.From the parent angle, this comes with a minimum of small accessories (Batman, Robin, batcycle, etc) so there won't be a thousand small pieces to step on or lose.
+This toy is VERY easy to put together so no sacrificing a morning to toy assembly.
+AND, this seems pretty sturdy so it should stand up to some abuse.
+As a parent, these are the traits I value in a toy.
+As a parent, I like this toy.This set doesn't come with any of the batman bad guys but they are available separately for around 5-6 bucks at my local big box retailer.
+So in summary, this toy make the kiddos happy and occupied, its parent friendly, and the accessories are affordable.
+I definitely recommend.
+"Lights and ""shooters"" are important features for the boy who received this playset.
+Any toy that can shoot missiles is automatically fun.
+The elevator is also a hit, and the Batcycle vehicle.
+As one other reviewer pointed out, it might have been nice to have a bad-guy instead of Robin so that the you have someone to catch and put in the jail area.
+I'm not very fond of turning the activation discs by putting the action figure's feet into the slots...
+I'm wondering if the toy will be harder to use when the action figures get lost and the discs have to be turned with fingers or something else.
+But overall, while the toy doesn't really have any educational value to it, it is quite a bit of fun.
+I can imagine that this will be something that gets saved for the next generation of kids to play with, the same way that Star Wars toys were saved."
+I have four kids, three of whom are boys--and all of whom love Batman.
+We bought the original Imaginext Batcave three years ago--and my boys loved it.
+It is so well-made and durable--and literally gives your Batman-lovers hours of fun.
+When I had a chance to review the second one, I jumped at the chance--partially because I have Batman-obsessed kids, and partly because we left the old one at the grandparents house by mistake.The new Batcave is a little different from the old one--the Batsignal in front lights up, the cannon is different, Batcomputer slightly different, the telescope is new, etc.
+But all of the old Imaginext Batman stuff works well with it.
+I would not have bought the new one if it hadn't been given to me as a part of Amazon Vine.
+Why?
+The old one is still in great shape.
+It's held up beautifully--and this one seems to be just as well made.
+The kids transported it everywhere--and the thing held up great.
+I fully expect my 1 year old to be playing with this (and the old one) in a few years.My big complaint is that there are no Imaginext girl superheros.
+Would love to see a Batgirl and Wonder Woman figure added.We also have the Trio Batcave.
+My boys like it, but honestly--they haven't rebuilt the actual Bat out in awhile.
+It takes a long time--and they prefer to build smaller creations with the blocks.
+That's one advantage of the Imaginext Batcave as well.
+It's 99% assembled.
+The Fisher Price Imaginext Batcave stands approximately twenty-four inches tall, fifteen inches wide and six inches deep.
+It is a heavily vertical design so the Batcave's footprint is small - not a lot of floor space is required for play or storage.Included are two AAA batteries, but replacement will require a Phillips screwdriver.
+Precious little assembly is required - basically just snapping one piece into place.
+Clear instructions are located on the bottom of the box.The Batman, Robin and the Batcycle figures are all well detailed and provide great play value for use in the four-level Batcave structure.
+I plan to buy additional figures if for no other reason than someone must occupy the jail - and a Batmobile would look nice parked out front.
+Catwoman is also available separately, and along with the Joker, seem indispensible residents for any respectable Batcave.The toy is sturdy and I know this because it has been picked-up and dropped from some distance at least five times, with no damage incurred.
+The Fisher Price website has a slick demo video for the Batcave which walks the viewer step-by-step through each operation of the product.
+And, although the instructions are on the box, a PDF instruction manual is also available on the website.This is a toy that stimulates the imagination for hours of happy playtime.
+It would make a great gift for any holiday, birthday or even a terrific Halloween surprise.
+This is great for any youngster.
+My son and daughter love playing with this.
+I have to say it is big.
+I placed it on a small table and the kids have hours of fun.I brought a couple of figures to go along with this play-set as well.This is sturdy and will last a long time.We added the helicopter and the penguin set separately for extended play.My son loves the motorcycle and no tiny parts .
+These are great for little hands to grip and move around the set.
+Overall a must have for all the little ones.
+My three-year-old daughter loves this toy.
+It has plenty of features to keep her interested, and she enjoys using her other toys on it as well.Our Robin doesn't have a cape, so we're both curious about that, and then I wondered why Batman has a black cape instead of a blue one, but that's fairly inconsequential.Batman has a bit of trouble fitting into the bat-cycle, but Robin sits in it just fine.This is a big, cool toy with plenty of levels and features to keep my daughter entertained.
+This batcave has many cool features and almost three year son loves playing with it.
+There are a few little problems with it.
+My husband and I can't figure out where the Batwing goes on the set, and no instructions came with the set to tell us.
+Also, the elevator gets stuck quite a bit and you have to force it through certain areas.
+Some of the other moveable sections are also a bit clunky to operate as well.Overall though, it has quite a few neat features and it allows for great imaginary play.
+Since it such a hit with our son, we are planning to buy him some extra figures to go with it.
+It isn't perfect but not many toys are these days.
+I would recommend this for the imaginary play fun factor, especially if your child likes Batman.
+Fisher-Price Imaginext has really outdone themselves on this fantastic four full floors of fun Batcave.
+It comes basically put together with only 2 things an adult has to do before the kids move into this tall hideout for Batman and Robin- the first is to get a phillips screwdriver, go to the third floor behind the launcher door and put in the 2 AAA batteries.
+The second thing you need to do is to fit the wall to the hinge near the balcony, and that's it!
+After 2 minutes of your time, it's ready for play.This set is made for children ages 3 to 8, but I can tell you that even the older kids love it as well, as I see them spending more time playing with the younger ones with this set.
+The front of the set has this large Bat light that when you press a button lights up, and the kids especially love this yellow bat light in the dark.
+There are 5 activation discs, that when you place Batman or Robin on them and turn, make things happen.
+One reveals a secret entrance, a second rotates a turnstile for the included Batcycle, a third works on the Batcycle with a mechanical claw, a fourth raises and lowers the elevator for all 4 floors of Batcave access and the fifth reveals a working telescope to look out for the bad guys.
+There is also a knob that reveals a launcher that shoots projectiles- very safe rounded end plastic ones.You can attach the Batwing on the side of the Batcave and there is a secret entrance for Batman and Robin to pop out and surprise the villains.
+Then when they catch the bad guys, they can toss them in the jail.
+The only thing I wish they had included is a bad guy, as I have to go out and buy the Joker soon.
+I have found every small doll that the girls are missing from their rooms, as well as some of the poor Smurfs in this jail cell.
+This wonderfully large Batcave gets more play than anything else in the house and for that I give it 5 STARS for Fun and another 5 for sturdiness- this Batcave is built like a tank, which means it will last and not end up broken and in the garbage in a year.
+This All Around 5 STAR Batcave is highly recommended, as you will definitely get your money's worth out of it and the kids will absolutely love it.
+Fisher-Price is a must have standard for any parents piece of mind.
+When my girls were little I always got Fisher-Price toys for them for the wonderful quality and durability.
+Even though they cost a bit more they are worth every cent along with the piece of mind that you will get from a company that stops and thinks about what they are making before actually putting it into production.This batcave is going to be my grandson's haven.
+He asked for this for Christmas last year and for his birthday this year but low and behold he will be getting his wish come true for this Christmas.
+At 6 years old I can see this keeping him entertained for many, many hours of good creative fun that won't consist of sitting in front of the tv or playing a video game.
+Four floors of imagination and creativity will actually stimiulate the mind much better in my honest opinion without seeing all the violence that comes with many of the kids items today.This has a nice sturdy construction and it's super easy to set up so that even we adults can have a little play time first before giving it to the kiddo's.
+Hey I'm a big kid at heart and love to try things out before giving them to the kid's to make sure they are up to my standards.
+I also love the fact this comes with a few extra pieces already so that your child can get right into the imaginary crime fighting.
+Nice quiet education and peaceful playtime is always a top of the list priority.
+Now to see what they have for extra's to go along with this to make my grandson a super hero happy camper.This is a large piece and is perfect for the big gift that you could give to your child or grandchild.
+I just love the way the bat crest lights up on the front.
+It makes me think of when I watched the origional batman cartoons so many eons ago.I have always stood by Fisher-Price for their quality and creativity but also they are wonderful with customer assistance should you have a problem of any sort.
+This is a company that I hope will be around 100 years from now and going just as strong as today with the true meaning of caring about our little ones at all ages.
+We own the original DC Superfriends Batcave which has given us years of imaginative play.
+Our now 5 year old son has the same affection for this toy as he did that birthday two years ago.
+Now onto the NEW Batcave... it is just as cool if not a tad cooler because the bat symbol lights up with the press of a button.
+This batcave is taller than it's older brother and a bit mote sleek with it's elevator, traps, motorcycle and bigger cannon.
+My son ripped into the toy today and he stayed there for a good hour... Not a simple feat for any 5 year old boy!
+He loved that the bat signal on the front lit up but had a hard time locating the button behind.
+I too, had a bit of a problem.
+Then comes the complaint and whining of the non- included batwing that is advertised all over the box.
+Explain what 'not included' means to a 5 year old...
+Yes, as you guessed it didn't go so well.
+Our only true complaints would be that the button to turn on the bat signal is a bit hard to locate, this batcave version does not fold shut as the previous model and finally the price.
+I do realize that these toys are more durable but it is a bit steep.
+Highly recommend for your little Batman and DC Superfriends fanatics.
+This is a toy that will get years of play in your home and others as a hand me down.

@@ -1,0 +1,200 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+Throw in the holiday a theme and I'm right there.
+It is hard to press and takes repetitive movement.
+Personally, I think they make adorable stocking stuffers!
+It would make a cute stocking stuffer.
+Of course, sleeping with one is not recommended!
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.006742276716977358,0.00418797368183732,0.006016349885612726,0.00636562705039978,0.0033329580910503864,0.005837698932737112,0.005200226325541735,0.004665248095989227,0.0030619888566434383,0.005547135137021542,0.0031975540332496166,0.0067422883585095406,0.004923713859170675,0.006164578255265951,0.003919003996998072,0.004664563108235598,0.0032941594254225492,0.007322304416447878,0.0024972972460091114,0.004522484727203846,0.0020200307480990887,0.0048311506398022175,0.007543013896793127,0.004454837180674076,0.0034953742288053036,0.006829571444541216,0.007281756028532982,0.0024368392769247293,0.005035527050495148,0.0070473551750183105,0.00564377848058939,0.004826021380722523,0.002899815794080496,0.003054243978112936,0.007460890803486109,0.005342523101717234,0.0022062943316996098,0.007301394362002611,0.00432576984167099,0.006952499970793724,0.006409441586583853,0.008424511179327965,0.005782415624707937,0.01163127925246954,0.004172898828983307,0.0022224849089980125,0.004476519767194986,0.004466780461370945,0.0075691817328333855,0.004283474292606115,0.004583270754665136,0.0067316824570298195,0.004832137376070023,0.005977983120828867,0.009229795075953007,0.006656202487647533,0.005403459072113037,0.005539828911423683,0.007156839594244957,0.00718697952106595,0.004043635446578264,0.007030630949884653,0.007087001111358404,0.004341690335422754,0.006013725884258747,0.005344513338059187,0.00663903309032321,0.006422840524464846,0.007539732381701469,0.004672095645219088,0.002720516175031662,0.006977978628128767,0.0029778038151562214,0.0025163074024021626,0.00584042351692915,0.004490207880735397,0.006360332947224379,0.0024704723618924618,0.005598009563982487,0.003997862339019775,0.006500056944787502,0.006517182569950819,0.006462180521339178,0.007262424100190401,0.007253080140799284,0.007171880453824997,0.006555348169058561,0.00673332903534174,0.0022884178906679153,0.006890791468322277,0.004755780566483736,0.007803825195878744,0.002778054913505912,0.0028538634069263935,0.0026445030234754086,0.003276792587712407,0.006259305868297815,0.0048173824325203896,0.00473847147077322,0.005410191603004932,0.006886742543429136,0.002299162559211254,0.005958402995020151,0.004756321664899588,0.006917078513652086,0.00726875988766551,0.005370276980102062,0.006334776058793068,0.0071160984225571156,0.007233717944473028,0.007760843727737665,0.0040237195789813995,0.005428791977465153,0.007154386956244707,0.002151297405362129,0.008078265003859997,0.0025166920386254787,0.005110908765345812,0.0035081959795206785,0.006661274004727602,0.006388694513589144,0.00587224867194891,0.006754919420927763,0.006391771137714386,0.006720745004713535,0.003934306092560291,0.004546126816421747,0.004905293695628643,0.0033933413214981556,0.006079667713493109,0.0054163262248039246,0.006604500114917755,0.005345589015632868,0.007993997074663639,0.0069928038865327835,0.0028159720823168755,0.004419892560690641,0.006952391471713781,0.0037341343704611063,0.008051476441323757,0.006160855293273926,0.008182198740541935,0.006251269951462746,0.00841797050088644,0.004269142169505358,0.00908638071268797,0.004526206757873297,0.005436906591057777,0.006409456022083759,0.0028794973623007536,0.002270046854391694,0.00682695722207427,0.003912120126187801,0.005475708749145269,0.0056680296547710896,0.00649742828682065,0.00588639359921217,0.007012633141130209,0.007012633141130209,0.005295772571116686,0.0035702765453606844,0.005510054063051939,0.0019185765413567424,0.005459100939333439,0.00735908979550004,0.0029280611779540777,0.004970438778400421,0.007823067717254162,0.006133704446256161,0.006824292708188295,0.002342803170904517,0.005448559299111366,0.004646862857043743,0.0062514557503163815,0.004623322747647762,0.004057521931827068,0.003619800554588437,0.005399934481829405,0.006054610945284367,0.004958053585141897,0.00706216087564826,0.00665875943377614,0.006145446561276913,0.0029175681993365288
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+"When I first saw these toys, my instinct was think they would be annoying.
+Then we got it, and I saw the ""Toy of the Year"" award on the box.
+Toy of the year?!
+Compared to what?My children are all under the age of 7.
+We have had our share of noise-making, singing, push-for-sound toys.
+I tell you, this one takes the cake for most annoying.
+My two oldest asked what the annoying sound was, my middle child was less than amused and got bored after having to keep squeezing the tummy for the toy to keep singing.
+My youngest just walked away.They say these things can sing in harmony.
+However, you need to have two of the same for them to sing the song in harmony.
+You could also put both on the ""la la la"" mode to sing in harmony.
+The snowman toy only sings the lyrics to one song.We also got the reindeer, and they can somewhat harmonize in gibberish, but that mode was the most annoying of all.Overall, I don't recommend this toy.
+It may work as a gag-gift.
+In my opinion, this should have won, ""the most annoying toy of the year."""
+A year or two ago when I first saw the Sing-a-ma-jigs, I thought they were one of the cutest kids toys to come out in years.
+A bunny-like design, good size, and a cool singing feature that changes the vocals when you squeeze their hand make for a more interesting toy than some of the other 'must have' toys that came out around that same time.
+Since they've come out, there have been a lot of different variations of them, and this Snowman one is easily my favorite.
+While he sings Jingle Bells and the packaging is full of red and white, there's nothing mention of that 'C' word that upsets so many people for some reason these days.
+Still, this would make a lot of kids have a merry Christ-y Christmas (ooh, see what I did there?
+).Snowman works just like any other Sing-a-ma-jig: you squeeze his tummy to make him sing, one note at a time, and press his hand to change the mode.
+The three modes are Song, Harmony and Chatter.
+Song is the Jingle Bells song, Harmony is more of a choir-type of singing that sounds really cool, and Chatter is just weird talking sure to make kids laugh when they first hear it.
+As strange as it sounds, I think the Harmony mode is actually kind of beautiful if you look past the fact that a whacked out snowman-bunny is singing it.The toy is pretty durable but I get the feeling that, like most other plush toys with an electronic box inside, it's toast if it gets wet.
+I can't say for sure though, and I'm not going to experiment to find out.
+Just be careful that nothing gets on the stomach.
+To clean him up, I'd recommend using a damp cloth mixed with laundry soap.
+The only other thing to watch out for is the scarf since it's so thin.
+It's just one piece of fabric and can easily rip since it's not reinforced with any stitching.
+There's nothing I can see that'd be dangerous to kids under the recommended age for this guy.The Sing-a-ma-jigs are some of the better plush toys out there.
+The price is right, the singing feature is nice and there's a ton of variety with all the designs they have.
+We have a few other Sing-A-Ma-Jigs but I think this Snowman one is my favorite.
+He is super soft to touch (but hard inside) and adorable with his little scarf and hat!
+It comes with the 2 AAA batteries, which are required so right out of the box he is ready to go!
+He sings, harmonizes, and speaks jibberish!
+My boys love squeezing his belly (or palm) to hear him sing and watch his mouth move.
+This is a perfect extra little gift for someone (great stocking stuffer) or just add it to your Christmas decorations.
+You can use him alone or with other Sing-A-Ma-Jigs.
+This cute snow bear sings Jingle Bells one word at a time when you push his belly.
+You decide how long you want him to stretch a word by how long you push his belly.
+Change his mode by pushing his hand and he will sing sounds in the two other modes.
+My kids enjoy playing with these.
+It's  a toy they pick up and play with for a few minutes and then put down.
+It would make a cute stocking stuffer.
+I'm a sucker for this type of gimmicky toy.
+Throw in the holiday a theme and I'm right there.
+The Sing-a-ma-jig snowman promises all that it advertises.
+A goofy little plush that mouths the words it's singing when you press it's belly.The contraption will provide a few giggles right out of the box, becuase you can't help smiling at how goofy if looks as it starts singing, kind of like a crazed little muppet.
+The little electronic toned voice fits perfectly with the goofy image given off.
+My kids chuckled at it when we first pulled it from it's box, and had fun playing with it for about 10 to 15 minutes.And that is this toy's biggest problem.
+The novelty wears off really quick for anyone over the age of 2.
+This isn't going to replace your child's favorite plush as it's actually not very soft.
+It's stuffed pretty tight, and to top it off, the battery/voice compartment/speaker thing in the middle of the toy is barely padded, so the entire middle of the plush is basically cloth over a hard plastic case.If you happen to win one of these sing-a-ma-jigs in a claw machine at the arcade, it's a great prize.
+This might make a fun stocking stuffer, but don't expect to see this being played with beyond the holiday season.
+You must push the snowman's tummy to get each word of the songs out.
+If an adult does it, it is not at all difficult, but if a very young child tries, the effort required is great.
+It is hard to press and takes repetitive movement.
+It is a very cute toy and the kids like it, but our youngest got frustrated trying to play with it.
+Very adorable and fun, love the music and that it reacts and plays along to my squeezing it.
+Picked this up for a special little one for Christmas but every time I pass him on the shelf in my closet I play with him, he's just that much fun and very festive looking, too!
+Definitly a fun guy!
+We've already got several of these goofy-looking guys at home, and have given them out as gifts.
+One thing I've noticed -- to my astonishment, adults seem to love them as much (or more) as the kids!If toys are made for fun, this one meets all the requirements.
+I love this little guy's sweet and funny face, hat and scarf!
+He won't bring world peace or raise your IQ, but you will love him, guaranteed.
+The toy is a nice size for little ones to play with, and the animation keeps their attention.
+My grandson always gets a grin on his face when he hears the singing start.
+It would be nice if it had a setting to where it would do a song by itself instead of squeezing it for every word.
+Like some other reviewers, I think this toy is a bit complicated for very young children.
+Still, they may enjoy it purely as a cute, stuffed snowman that makes noises.
+I only have this one and it sounds like it's more fun if you have more than one Sing-A-Ma-Jig so they can sing together.
+I didn't even give it to a kid, I just tried it out for myself and displayed it over the holidays.
+"I got this singing snowman toy for my 3-year old niece Brianna (I'll give it to her at Thanksgiving) because it looked cute.
+When I got it in the mail, I decided to test it out for myself.
+I gently squeezed his belly and hear ""Jin-"" while the snowman's mouth started moving.
+I laughed and kept pressing his tummy: ""-gle bells jingle bells jingle all the way..."" Cool!
+It sang the whole song at the tempo of my choice.
+When the song was finished, it started over at the beginning again.
+What a great toy for my sweet Bre-Bre!
+After sitting still for about 20 seconds, the snowman enthusiastically says ""bye bye!""
+Gonna drive my sister-in-law Jennifer crazy, but I can't wait to see her playing with it.
+Definitely not for older kids but it's Fisher-Price--well known for toys for toddlers."
+I had never heard of a Sing-a-ma-jig so I was delighted when it came.
+And it even came with batteries, which is nearly unheard of.
+I think these are great gifts although I could not stop playing with it myself.
+So far it has held up well and keeps playing.
+I just love looking at its cute little face
+Sing-A-Ma-Jigs are cute and adorable.
+They remind me of TY toys where there are so many of them to collect....
+But just like with TY items, I think Sing-A-Ma-Jigs for many are losing popularity.
+The Holiday theme is great; you push his belly like all other Sing-A-Ma-Jigs except this one sings jingle bells.
+Great stocking stuffer, or perhaps prize for a game for kids.
+Toddlers I think enjoys these more or collectors but for everyone else, kids included I think after a few days these get tossed to the side.
+The novelty definitely wears off fast.
+There are so many, and again great to collect but over time, how many are kids going to have... and play with?It takes 2 AAA batteries, and they are soft on the outside but do have a hard plastic inside (around battery case, etc) You control how fast he sings from how fast or slow you press his belly.
+"First off, if you're a Sing-a-ma-jig fan already, I suppose you should just skip over this review, you'll probably enjoy this holiday version.
+However, for me, I just don't get what all the hype is about these things.My 5yr old first saw Sing-a-ma-jigs in the Fisher-Price catalog and without even knowing what they did, she thought they were cute and wanted one.
+Well, this snowman, not so cute...they lost her somewhere with the weird/creepy mouth.
+Then, upon feeling the material and stiffness of it, I cannot imagine any child getting snuggly with this.Okay, so the point of these isn't a bedtime lovey, so let's talk about what they 'do'.
+I'm not sure how all these younger kids are having fun with these because this one isn't super easy to squeeze on, and yes, you have to continue to squeeze for each note.
+The mouth becomes double creepy once it starts moving... yeah, my 2 yr old wanted nothing to do with this.
+The ""jibber jabber"" it speaks almost sounds like something is wrong with the toy!
+I can't imagine this being anything short of obnoxious to listen to nor can I see what benefit it is to a young child to listen to.
+Which I should also mention that this toy is loud and I for one would not want my child holding it up close to her ear (which for some reason kids are drawn to do with toys that make noise).Again, if you already know you like Sing-a-ma-jigs then please ignore my review, this would make a nice additon for a collector.
+Or maybe even if you've seen these things in person and it's your type of toy, sure.
+But, if you're like me and my oldest daughter and just read about these or saw them in the catalog, I'd be wary of them, especially the snowman!"
+"Impression: The toy was a instant hit with both a 2 year old and 4 year old girls.
+Both were happily squeezing it and making it sing.
+The 2 year old especially liked putting her fingers in the ""mouth"" and having it sing the next note.How it works: It important to realize how the snowman works.
+Each time you squeeze his belly, he sings 1 note of the song for as long as you hold it (within reason).
+Then the next note comes out when squeezed again.
+This makes for several nice things.
+First, its not annoyingly singing constantly like many toys and driving parents nuts.
+Plus, I think it can help kids learn how to sing note by note.
+Not sure if our kids will use it that way yet, but its worth a try.However, the snowman has been left for several weeks with little attention.
+I think with winter now here, it may get back into rotation.Overall, these toys are really pretty fun and really cute."
+"Basic concept:  You push it's belly, it sings one note of ""Jingle Bells"".By singing, I mean that it's mouth closes, and sound comes out.
+To a toddler, that's singing!
+To the parent, well, you're pushing his belly a lot.We've pushed it very slowly, and very fast, and he reliably sings the song on demand, so no issues there.
+However, the guy's not as soft as I'd like  Definitely not something you'd want to cuddle to bed with.
+I've had Tickle-Me-Elmos, I've had those puppets that also sing each time you flap the mouth, and none of those stuffed creatures are as hard as this snowman.Overall, he's still nice.
+For me, though, I still prefer the puppet-style singers."
+The snowman sing-a-ma-jig is quite cute and the kids loved it for a couple of days.
+My daughter really wanted one and kept asking for one for several months.
+So when this came up for review I decided it would be a good idea.
+She played with it for several days and then I didn't see her with it again.
+Christmas came and other things filled her time.
+It's hard for something like this to occupy more than a few days entertainment because of all the high tech toys and gadgets available these days.Pros:CuteFun to hear the songsNovelFestiveCons:Your hands can really get tired squeezing it's tummy for each note!Fun wears off quickly.Overall, I can say that I do like it.
+We have put it up in storage for the next holiday season where I'm sure it will get pulled out and played with again.
+I will be a part of our holiday decorating and does add to the festivities.
+I wander if I will need to change the batteries or if I should have removed them to prevent battery corrosion.
+I guess I'll find out in a year!
+I got the Fisher-Price Sing-a-ma-jigs Snowman because I thought my 2 year old would think it was fun.
+Unfortunately he was scared of it.
+It took him several days warm up to the odd looking toy enough to hold it.
+We've had the toy about two weeks and he still doesn't really play with the toy.
+I think older kids would find the toy entertaining for a few days.Sing-a-ma-jigs Snowman is an odd looking toy that is easy to use.
+You squeeze his stomach and he signs a note, keep squeezing and he will sign a song one note at a time.
+It can be challenge to get the song to sound like anything but noise.Overall the toy is interesting, but not a long term everyday toy.
+I actually had two children over today and let them test the product and one was two and one was four.
+It says for three and up but must say the four year old did not enjoy constantly having to push to get the jingle bells song and the two year old could not do it so it is not something I would recommend as a fun toy for young children think they would get to frustrated with it.
+Honestly, how can you say anything bad about a Sing-a-ma-jig?
+Much less, a snowman Sing-a-ma-jig!!
+I love the singing and the jibberish.
+The kids each snagged one and laughed and giggled for hours.
+Of course, sleeping with one is not recommended!
+Roll over on him and he will sing!Your Sing-a-ma-jig comes with the batteries needed to have fun right out of the box!
+Personally, I think they make adorable stocking stuffers!
+"The Sing-A-Ma-Jigs Snowman is one of those toys that is loved by the person (any person of any age) that is playing with it and annoying to anybody who is not playing.
+This little plush snowman has three modes.
+To switch modes you simply press its left hand.
+There is singing mode, harmony mode and jabber mode.To get any of these modes to play you have to squeeze the belly of the snowman for every single syllable or note.
+For example, in the singing mode the song is ""Jingle Bells"", for one push the snowman says ""Jingle"", the next push he sings ""Bells"" etc.
+I think a child would have to be at least 4 years old to do this easily.
+You have to be able to push down pretty hard.My first thought was that is toy was really ugly and stupid.This snowman has teeth, which my kids declared is downright freaky.
+But I have to say, my kids have enjoyed picking it up and playing with it.
+However, after about two minutes the rest of the household is yelling, ""Turn that thing off.So, if you are looking for a gift to give to somebody else's kid, this might just be the thing."
+"Our family has 4 of the ""regular"" Sing-a-ma-jigs.
+We bought the first one over a year ago and we still love them.
+They're fun to play with.
+It's fascinating the way they can harmonize!
+I ordered this Snowman version to have something new to share with my granddaughters (ages 5 & 2) when they visit for Christmas."
+"On Amazon, the image makes these jigs Fisher Price toys look like scary monsters or possibly adult toys rather than children's.
+In person, however, they're actually kinda cute and no doubt a hoot for youngsters.
+That enormous mouth opens when you squeeze his tummy and this particular Snowman will either sing the notes of ""Jingle Bells,"" sing the harmony, or speak random jibberish.Here's my pros and cons:PROS:- The opening mouth is unique and rewarding for little hands that like to squeeze.- The jigs hold the song notes if you keep the tummy pressed, which is a nice example of action-and-reaction- Small size, perfect for 3-4 year-oldsCONS:- Hard, not plush.
+Whatever contraption is in the stomach is made up of hard plastic and not padded very well.
+Certainly not a toy to cuddle with.- Annoying.
+Yes all toys that kids love will get annoying eventually, but I think even young kids will get tired of the hearing ""Jingle bells"" after a day or two.- ""Harmony"" and ""jibberish"" are worthless.
+The only setting worth playing with is the song version.
+The other settings are senseless and uninspired.OVERALL, not a bad toy by any means.
+Would I say it's the hot item of the season?
+Absolutely not.
+I like that there's a physical reward for playing with the toy (the opening mouth) but between the stiffness and limited speaking abilities I don't see this becoming a childhood classic.
+Fortunately, the price isn't so bad and you probably won't even have to change the batteries!"
+These little plush toys are a little creepy.
+My three year old niece runs away from it and tells us to put it away.
+To be fair, she doesn't like any animated toys.
+My 4 year old grandson is fascinated with the mouth.
+He is a thumb sucker and has more fun putting his finger in the mouth then actually playing the song.
+There is a little plastic nub that looks like a front tooth and a little felt bit that makes the tongue.
+Cute or Creepy?The toy does come with batteries, so that is a plus.
+Nothing worse than having a kid cry while you search the house for batteries.My thirty-five year old daughter loves it, as does my husband.
+They put a few of them together and set up a concert for the kids.
+The recommendation for age of 3 plus is probably a good one.
+Small babies might like the feel of the toy, but might not be able to continually press the button to play a song.I think that the adults will probably have more fun using these then the kids, but you would need a bunch of them to really get the full effect of harmony singing.
+Priced near $14.00 at retail, I would not buy it, but on discount at near $5-6 each I would pick up a few for fun.These will be used at Christmas as stocking stuffers and I'm sure the creepy, fun, Pa's, aunts and uncles of the family will let the kids make a racket with them, as the parents will probably be yelling to shut them off.

@@ -1,0 +1,177 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+I have all four, Yoshi, Princess Peach, Mario, and Donkey Kong.
+At 24 pieces, it only takes a few minutes to assemble and there aren't enough pieces to make a mistake.
+Also, the pink part attaches by pushing down and then sliding it forward.
+My kids loved the Knex Yoshi and Donkey Kong kart building set.
+Putting it together is not fun because there are only a handful of parts and then those parts keep falling off, including the wheels.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.004042176529765129,0.005357527639716864,0.007868826389312744,0.00662823673337698,0.0067132278345525265,0.007652299478650093,0.0090370187535882,0.003631511004641652,0.00912837591022253,0.006345597095787525,0.00685589574277401,0.006669636350125074,0.005715312901884317,0.008384543471038342,0.0066972109489142895,0.009095689281821251,0.006043293513357639,0.007392039056867361,0.0060575553216040134,0.006618456915020943,0.004901682026684284,0.007931051775813103,0.006288090720772743,0.004396870266646147,0.006010972894728184,0.0062898253090679646,0.0039035631343722343,0.005561541300266981,0.005626698024570942,0.00587481539696455,0.006900209467858076,0.006309024523943663,0.007652190048247576,0.006883212365210056,0.006945094559341669,0.0076460628770291805,0.005245489533990622,0.00700142839923501,0.005398962646722794,0.006121035199612379,0.00625535286962986,0.006570872385054827,0.004710723180323839,0.0053191715851426125,0.005928919184952974,0.008403761312365532,0.0027905101887881756,0.006406093947589397,0.006872079335153103,0.010970315895974636,0.0065293386578559875,0.008857945911586285,0.006078585051000118,0.006161926314234734,0.007101958617568016,0.0060457754880189896,0.006452198605984449,0.005886164028197527,0.003910304047167301,0.005992911756038666,0.006369251757860184,0.005044363439083099,0.012780883349478245,0.005071463529020548,0.007413395214825869,0.004556723404675722,0.006619628518819809,0.005084475502371788,0.00420003104954958,0.00662885932251811,0.005570484325289726,0.006001805420964956,0.006978420540690422,0.007076359819620848,0.006032790523022413,0.0071807620115578175,0.006086817476898432,0.007201679516583681,0.006227296777069569,0.00516858696937561,0.0036380216479301453,0.005170196294784546,0.005941891111433506,0.006101944018155336,0.006054137367755175,0.005867122672498226,0.0037704354617744684,0.006731507368385792,0.0066240811720490456,0.008610199205577374,0.0063387504778802395,0.0073278178460896015,0.006274779327213764,0.006082653533667326,0.005696254316717386,0.006950742099434137,0.003831311361864209,0.00789378397166729,0.0060623823665082455,0.006607018411159515,0.005636363290250301,0.004056581761687994,0.004963865503668785,0.007042498327791691,0.0036982919555157423,0.004521428141742945,0.006898224353790283,0.006167673040181398,0.004501380492001772,0.005596961360424757,0.0062566641718149185,0.005544555839151144,0.0062566641718149185,0.006923450622707605,0.004778526723384857,0.00671956455335021,0.006526829209178686,0.006526829209178686,0.006695722695440054,0.00623682513833046,0.006407713983207941,0.006289173383265734,0.007236703298985958,0.007268235553056002,0.006247084587812424,0.007631803397089243,0.00638558017089963,0.004483918193727732,0.006222856696695089,0.006862907204777002,0.0055448333732783794,0.006345827132463455,0.007401660550385714,0.0028546354733407497,0.007461588364094496,0.006493659690022469,0.006839914247393608,0.005109790712594986,0.0065490202978253365,0.00618601543828845,0.005317423027008772,0.006207616068422794,0.006576279643923044,0.006963453255593777,0.00625953171402216,0.004612671677023172,0.005740686319768429,0.005326123908162117,0.005673803389072418,0.006980269216001034,0.006686459761112928,0.005007835570722818,0.005300427787005901,0.005305798724293709,0.008096595294773579,0.007170010823756456,0.007058265618979931,0.0058779106475412846,0.0028179094661027193,0.005142447538673878,0.005570449400693178
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+My five year old son had a great time putting this Lego style toy together.
+It's easy enough for someone as young as five to build, but still fun enough that they don't lose interest.
+We have the Mario cart and the Donkey Kong cart and my son and husband have a blast racing the two using the pull back feature.
+These little cars are fast, fun to put together and provide tons of entertainment.
+I think that younger fans of Super Mario Bros will really enjoy these toy carts and I highly recommend them!
+I really wasn't impressed with this toy.
+Putting it together is not fun because there are only a handful of parts and then those parts keep falling off, including the wheels.
+Even the parts of the wheels that came attached fall off about every third time you pull the car back.
+Also, the pink part attaches by pushing down and then sliding it forward.
+If it comes lose (slides back) it rubs against the wheels and they will not spin.
+This toy has vibrant colors and is cute.
+There will be no problem putting it together as it's super simple and the instructions are clear.We can push it forward and the wheels roll.
+They don't roll in reverse.
+The gorilla has a bottom half, but it's necessary to take that off to place him in the cart.The cart falls apart if rolled too hard.
+It's not meant to be used for any real rolling action as it's just decorative.
+My kids loved the Knex Yoshi and Donkey Kong kart building set.
+They aren't very familiar with the characters but they loved building the karts and then pulling them back and letting them go.These are perfect sets for those who would be just getting into building sets.
+It's rated for 6+ but younger children could build them with help from an adult.
+My boys who are ages 6 and 8 were able to build them without help.
+They just snap together.
+My boys are at the age where they are just starting to play with some of the more complicated Lego sets.
+In our experience, the Knex sets are just as good of quality as Lego and are a little easier for them to play with.Big hit!
+I'm just going to be frank: I love Yoshi.
+Since I first saw him as a child, I just plain loved his lolling tongue, orange sneakers, and giant eyes.
+When my Yoshi's Island cartridge (for the SNES) was stomped by an oblivious brother, I paid a small fortune to replace it (it was out-of-print).
+I mean, it's Yoshi!
+Why do I love Mario Party?
+Well, a great deal of that passion centers around Yoshi and his awesomeness (and adorable sound effects).
+I love turning those squares into green eggs!
+So, I'll admit to not being particularly objective here.
+I would love this little toy regardless of any potential flaws.Assembly: easy breezy!
+A child could (literally) do it.
+And, I have, in fact, seen these in the children's craft section at A.C. Moore, so know that these are entirely appropriate for young people.Fun factor: It does go farther than I thought on a single pull-back.
+(But, I just wanted it to look at ... not to race.
+So, please feel free to take that into account.)
+Now, you can motorize it with other K'NEX Wii products.
+That could be a great option for those who want to invest in the tracks.Cute factor: Ten out of ten!
+It's already hanging-out on my tv stand ... making the room cheerier just by its presence!
+I have the K'Nex Nintendo Mario Kart 7 Mario, Princess Daisy and Donkey Kong.
+All three sets are designed to be VERY simple to put together.
+Kids who do lego's or K'Nex all the time will have these together in under 5 minutes and probably won't even need the directions.
+There are very few pieces and no complicated segments to this pull back car's assembly.
+As far as the pull back function, it works as expected.While I don't see this as something kids will put together again and again, it does seem like a piece that would look good on a shelf or in a diorama.
+If you have a hard core Mario Kart fan in your house, this might be a great stocking stuffer!
+All my kids, and myself, love Mario games, and we're MarioKart devotees.
+Separately, I received a K'NEX Nintendo Mario Kart 7 Piranha Plant Slide Track Set, so I got this pullback kart so my kids would have more than one.
+While the track set itself turned out to be a near disaster of a construction toy (see my review there), this pullback kart was easy to put together and at least all the pieces fit this time, unlike the kart in the track set.
+Now my kids just play with this as a stand-alone pullback toy.
+This is an extremely simple item to put together.
+At 24 pieces, it only takes a few minutes to assemble and there aren't enough pieces to make a mistake.
+There are four pictures in the directions and they are very easy to understand.
+It's a cute little car that goes forward after you pull it back.I'm not sure why this is called a Birthday Kart.I did find it a little creepy that Princess Peach needs to be divided in half to fit in the car,I also have the Donkey Kong version.
+Donkey Kong has a pretty stout little car that shoots forward after you pull it back a little.
+It is a 25 piece set that is really easy to put together.
+There is an exploded picture on the outside of the box and it doesn't really take any more direction than that.
+The pieces look more like Lego parts than K'nex parts.I did not find it as creepy to take Kong in half as I did Princess Peach, but still.
+Donkey Kong has feelings, too.
+My son was very excited to get this set and it goes together pretty seamlessly.
+The only real complaint I had was the sheer number of individual plastic bags inside!
+Most children would become very frustrated getting them open so that they had all the pieces to assemble.
+I'd suggest if giving as a gift that you pre-open them.
+The K'Nex Nintendo Mario Kart 7 Pullback Karts are a lot of fun.
+I have all four, Yoshi, Princess Peach, Mario, and Donkey Kong.
+They are fairly easy to put together (except the decals take a little bit more of a delicate hand.)
+The Karts work very so so on carpet but do pretty well on wood or tile floors.
+I like to sit across the room from another player and race them back and forth at each other.
+I've read that these will work with Lego brand, so I'll have to pull out my kids old Legos for my grandchildren and have a ball.
+This is a nice pullback toy car.
+It's K'NEX but the blocks are compatible with the regular Lego blocks so you can modify it with Lego if you want.
+The pieces are brightly colored and attractive.There are a few good things about it.
+Some of them are that this car is very easy to put together.
+Even without the instructions it was fairly easy to put together.Unlike some of the other pullback cars I've owned, this one is much bigger than most of them.
+This can be a good thing or a bad thing because it looks cooler and bigger but it also doesn't go as fast.
+I like that the Donkey Kong comes with a pair of legs instead of just a top so you can play with him separately.
+It's also good that they included a golden mushroom instead of just a car.There are also a few cons.
+One con is that the hub caps don't fit on very tightly on the wheel but that can be fixed just by adjusting the tires.
+Also, sometimes for me, the car pulls to the right and either Donkey Kong's head comes off while pulling it or the piece which holds him to the kart comes off with DK.Summary: Easy to put together, good looking.
+Overall this is a nice big pullback car that is great for younger children.
+"I was expecting something pretty small, but this is quite a bit larger than I had expected.
+My 9 year old son and I do a lot of Lego and Megablok building kits, so I was expecting something about on par with those, and had used the Mario figure as the baseline to reference the scale based on lego figures, so was quite a bit off.There's not many pieces here, so it's a very quick build.
+Nothing difficult for younger kids, so within a few minutes you'll have a fully assembled cart.My biggest concern was with how well the glider ""wing"" would be secured - I know how my son plays with toys, and I knew he would use this to hold it while playing with it in the air.
+But it's more than solid enough for that.The colors are bright and vibrant, and it holds up well to play.
+The pull back feature is about on par with most toys with similar features, it works alright on smooth surfaces.The wheels are really rubber, which is a nice change of pace from companies that use harder plastic for wheels that don't often stick very well.Mario can have his bottom half pulled off (like lego figures) and then his top half sits on the cart as if he's sitting in it.And the sail comes off easily by sliding forward, so it's quick and easy to play with it in standard cart mode or gliding cart mode.I may have to get one of the motors just to try it out, since I know my son would enjoy that.For the price, definitely a decent little toy, especially for someone who is as big a fan of Mario Kart as my son is."
+This is toy basically has three functions.1) You get to put it together.
+Assembly is very simple.
+My eight year old had no trouble, and I think even fairly young kids could do it with a little help.
+It's fun, and keeps kids busy for a few minutes.2) It's a pullback racer, so if you have at least one other car, you can do races.
+That will keep your kids busy for another 30-60 minutes over the next week.3) It's a cool Mario toy.
+It's good looking enough that fans of Mario Kart will probably enjoy having the whole set to display someplace.
+Frankly, kids are more likely to want to play actual Mario Kart than race these on any given day, but they love having them.
+This is a fun little toy if you have kids who, like mine, love the Mario franchise.
+I gave this to my six-year-old daughter and she was able to assemble it with little instruction.
+(And in fact, there really are few instructions.
+Just some pictures on the box.
+)On second thought, I would suggest a parent put this together unless your child is really proficient with K&iexcl;NEX/Lego type toys.
+It appears that a few of the smaller pieces got broken already, and while she got the thing together, and it looked like it was correct, the tires were still rubbing, which made the pull-and-go motion not work.
+(That's sort of a bummer, because she's well within the recommended age range and generally has good fine motor skills.)
+Disassembling and reassembling seemed to fix that problem, but be on the lookout for that misbehavior!I&iexcl;ll probably still have to get the Mario one for my son, though.
+I think these are a lot more fun if everyone has one.
+We love Nintendo, Mario and Donkey Kong in our house so this was a cute idea that had to be tested out.
+I was a little skeptical that a pull back car could cost $17 and only contain 25 pieces.
+That comes out to about 68 cents per piece of plastic (well, there is a pull-back motor included...).My 9-year old daughter assembled it.
+She has made a bunch of LEGO sets in her time as well as K'NEX sets.
+She got it together easily enough and went to do the pull back.
+The car moved about 8&#34;.
+So she pulled it back more and it started to come apart (the fins on the back kept falling off).
+It then went into a spin.
+After some adjustments, we finally got it to go about three feet but it never lasted long.
+It fell apart and was really fickle at moving forward.I would not buy this nor any of the cars in the series.
+There are building kits out there (even K'NEX kits) that are a much better value than this.The only cool thing about it is the Donkey Kong figure and the mushroom.
+Very easy to put together.
+Once it's working it can go far on a smooth surface.
+Kids have lots of fun.
+I just used super glue for small parts, because my 3 year old would constantly take it apart and than could not fix it.
+This was a great product  ti add to our already expanding KNEX sets.
+This does not take long to put together.
+easy simple to use.
+keep out of little one hands.
+The car was cute after we put it together, Did not fall apart easily.
+Very well made as well.great to add to the place set.
+This car is quick and easy to assemble.
+There aren't too many pieces that need put together.
+Just small pieces like wheels, the exhaust (?)
+things that stick out of the back, the mechanism that turns the wheels etc.
+There is a small sheet with a few tiny stickers to be applied as well.
+Pretty easy, even for the younger of the indicated age range - 6 yrs and up.
+After the minimal assembly, you are ready to play.
+This is a fun pull-back and go race car featuring Yoshi.
+Probably best to have a few other of the Mario sets to play along, but fun none the less.
+Durable enough.. no worries of any pieces getting broken, as there are none that really can break.
+Although this was easy enough to assemble, the body is supposed to be interchangeable and therefore doesn't permanently attach to the pullback part, it also has trouble temporarily attaching.
+My four year old can be a little rough on toys so more often than not I find pieces of this rather than one assembled toy, the pullback racing is so fun that it does make up for a lot of my rebuilding time.
+"The first thing my kids and their grandparents thought when they saw the K'Nex Princess Peach Kart was ""Legos.""
+It comes with a Princess Peach figure that comes apart (only half her body goes in the kart) and a banana peel.
+My daughter says she likes the Princess Peach kart because it's fun to race her brother, who has the Donkey Kong Kart.
+It's just pull back and release, nothing fancy.Though it looks easier to piece together than Legos, my daughter says it was difficult because it took fifteen minutes to build when it should have taken five and therefore she gives it four stars.
+Honestly, I don't see her playing with it much, but she insists she likes it."
+Maybe I expected too much from this K'NEX toy model, or maybe it's really intended for younger kids than the 6+ age the box recommends ... but there wasn't much to assembly with this toy glider kart.
+A few snaps, a few stickers and VIOLA!
+You're done.
+A 6 year old would not be challenged at all... except on getting the stickers on just right.
+However, if you have a Mario fan in the family like I do, they will enjoy this toy.
+It works pretty much like every other pullback toy on the market, though it doesn't go very far.
+What makes it more fun is to have two or more karts together so the kids can race them.
+Imagination takes the toy a little further when your child sets up obstacles or ramps to see how far they can make them jump.
+It's definitely made from cheap plastic and not very durable, so I don't recommend extreme play.
+All in all it's a good novelty toy but not much of a challenge for kids who love to really work with K'NEX models.
+K'NEX Nintendo Mario Kart 7 Mario Pullback Glider KartI am more familiar with the bristle block type of K'NEX.
+This toy is more Lego like than what I would consider the traditional K'NEX.
+The instructions are clear.
+The parts are well made.
+The little pull back motor seems durable.
+I don't see a problem with a normal five year old assembling this toy.
+I can't see a seven or eight year old being interested in assembly as I suspect they would find it too easy.
+It does include a super leaf which I had to Google to see what the heck that is.
+It is a power-up item that doesn't seem to have any function except hype.
+List price is $16.99, $14.99 at Amazon and value wise I think $9.99 would be more realistic.
+In all fairness though, it is price substantially better than similar Lego kits.
+We've got 6 of these (4 of the current ones: Yoshi Bumble, Mario Glider, Peach Birthday Girl, Donkey Kong Buggy, and 2 older carts: Luigi and an older green Yoshi and cart).They are a lot of fun to play with and don't take much time or effort to put together at all!
+The pull-back action does very well, and on a smooth surface these can go quite far.Each set comes with clear instructions that are easy to follow.The only thing I'll add is that if you have younger kids, you might consider using a hobby glue to put a lot of the pieces together with as they can pop apart pretty easily.
+We did this with the first two already as the frustration level of our 3 year old got kind of high when his cart kept coming apart when racing.

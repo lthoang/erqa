@@ -1,0 +1,263 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+Under three, the tokens could be a choking hazard and they probably wouldn't have the patience needed to take turns.It is nice having 4 different games in one box.
+It's very nice that Ravensburger, a German company, designed these four fascinating boards games for kids three and up - fascinating for the kids, that is!The games are:- Tasty Bonds- King of the Castle- The Bird's Nest- Garden PartyAll the games are fun for little kids and, more importantly, appropriate for their ages.
+You get to steal other people's bones, which can be frustrating for those younger players who simply must win every game.My granddaughter definitely loved playing all four games but the next time we played on a different visit, she became cranky.
+So the games proceed smoothly and quickly until you get near the end and then progress slows to a crawl and everyone ends up bored.The third game features a castle and many creatures, both mythical and commonplace.
+As with most of these games, the end of the game ends up annoyingly frustrating because you are facing a 1/6 chance of winning on your last turn.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.0035714604891836643,0.004396980162709951,0.004100973252207041,0.0034547592513263226,0.005654965993016958,0.004486416466534138,0.003734108293429017,0.004454369191080332,0.003765433095395565,0.0018398095853626728,0.0029963951092213392,0.003918883390724659,0.004154101014137268,0.0040386999025940895,0.004076848272234201,0.005497669335454702,0.0039291707798838615,0.005126961972564459,0.003930428996682167,0.004869658034294844,0.004005092661827803,0.0041232057847082615,0.004191562533378601,0.0032903803512454033,0.0031223620753735304,0.0021054670214653015,0.004244208335876465,0.004041342064738274,0.004111478105187416,0.004203242715448141,0.003709400538355112,0.0038091191090643406,0.003436333267018199,0.00442283833399415,0.003992483019828796,0.004729813896119595,0.00525324372574687,0.0037052405532449484,0.003902985481545329,0.0035813404247164726,0.004605633672326803,0.003686303971335292,0.003788956208154559,0.003999281208962202,0.003329863538965583,0.004560145549476147,0.0038958971854299307,0.002262464025989175,0.0041033118031919,0.004222801886498928,0.004156840965151787,0.004719959571957588,0.003037072718143463,0.0052826316095888615,0.003182663582265377,0.005471300799399614,0.0039562322199344635,0.0032529926393181086,0.005170936696231365,0.0033207328524440527,0.003990994766354561,0.004505837801843882,0.004218148998916149,0.00400937395170331,0.005289497319608927,0.008764970116317272,0.003600425086915493,0.002831102581694722,0.004154217429459095,0.004135883413255215,0.003984982147812843,0.004683277104049921,0.003431866643950343,0.004883234389126301,0.0034796458203345537,0.0028601372614502907,0.004607825074344873,0.0020736660808324814,0.0031947302632033825,0.0038346019573509693,0.004298490937799215,0.0037826208863407373,0.004715648479759693,0.0040051587857306,0.004077651537954807,0.003892558393999934,0.00391076086089015,0.004128699190914631,0.002219095593318343,0.003648855024948716,0.003576483577489853,0.005683818832039833,0.003820753889158368,0.0033828720916062593,0.003615581663325429,0.005696251057088375,0.0027435263618826866,0.0036799097433686256,0.003958786837756634,0.0042621367610991,0.002316494472324848,0.003962574992328882,0.003461809130385518,0.0027044264134019613,0.0034316331148147583,0.003533607115969062,0.004016486927866936,0.004094971343874931,0.0029250881634652615,0.0036995154805481434,0.0031968667171895504,0.0021015566308051348,0.006273912265896797,0.007320245262235403,0.004147556144744158,0.0038672643713653088,0.004076206125319004,0.004054217133671045,0.004038811661303043,0.0037085143849253654,0.004042214248329401,0.0038919379003345966,0.002512991428375244,0.006111552473157644,0.0037379786372184753,0.0045869494788348675,0.0025725755840539932,0.00438504246994853,0.004241469316184521,0.00425421167165041,0.003679576562717557,0.0037433526013046503,0.004237822722643614,0.004789791069924831,0.0037479230668395758,0.004014026373624802,0.004010931588709354,0.002857473911717534,0.00359924859367311,0.0041008819825947285,0.005022538360208273,0.0038067009299993515,0.0040022991597652435,0.004187018144875765,0.004026385489851236,0.0036406891886144876,0.004918289836496115,0.00577143207192421,0.0036491036880761385,0.004203700460493565,0.003949181642383337,0.006147904321551323,0.004210613667964935,0.003969116136431694,0.004661109298467636,0.0031621644739061594,0.003502484178170562,0.003961171489208937,0.004838543012738228,0.003871792694553733,0.0053176977671682835,0.003648881334811449,0.003418352222070098,0.003008840838447213,0.004610722418874502,0.002520484384149313,0.003864855505526066,0.005121253896504641,0.004166239872574806,0.0032821015920490026,0.00394971901550889,0.004220386501401663,0.004587293602526188,0.005191410426050425,0.00261756987310946,0.004595039412379265,0.004215382505208254,0.0036860767286270857,0.004361649043858051,0.0030568037182092667,0.004431264940649271,0.005544246174395084,0.004363080020993948,0.004715439863502979,0.0034813538659363985,0.004298580810427666,0.0043069408275187016,0.004388608504086733,0.004155096132308245,0.003198674414306879,0.004053107462823391,0.0030505226459354162,0.0037960982881486416,0.0033767528366297483,0.0041344924829900265,0.004337973892688751,0.005320931319147348,0.0037942093331366777,0.003826049156486988,0.003954512532800436,0.004008283838629723,0.00459456630051136,0.0048981765285134315,0.0035895751789212227,0.005254907067865133,0.004282138776034117,0.004111898131668568,0.0037612842861562967,0.0040081944316625595,0.005383716430515051,0.0038966189604252577,0.0038254978135228157,0.0037135216407477856,0.011104132048785686,0.003973384853452444,0.004495576489716768,0.004532619379460812,0.004234088584780693,0.003693572012707591,0.005071800202131271,0.003130431519821286,0.0020403109956532717,0.004227621480822563,0.0027463564183562994,0.007433734834194183,0.003976859617978334,0.0039607989601790905,0.002969760447740555,0.0033848665188997984,0.0032703240867704153,0.0030683125369250774,0.0032902308739721775,0.003944787196815014,0.003928643651306629,0.0034519960172474384,0.004782780073583126,0.0036567547358572483,0.005318363197147846,0.0034563886001706123,0.00522043788805604,0.0033019278198480606,0.003112338250502944,0.004383922554552555,0.003955618478357792,0.004439783748239279,0.002581710694357753,0.0033913692459464073
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+We have been having a lot of fun with this board game set in our home.
+The games are just right for a 3 or 4-year-old kid and they are unique and creative game ideas.
+I was able to stay pretty amused with this along with my daughter for quite a while.
+The age recommendation is about right, but I would suggest being careful with the die, since it's small enough that some kids could swallow it.
+It would also be easy to replace the die with a bigger die if that is a concern for your child.
+The game pieces are also easy to tell apart, which makes clean up and organization a bit easier.
+This is a good choice for kids that aren't ready yet for some of the more complicated board games.
+This is a great set of four games that are simple to play and that don't get boring.My son's favorite is the castle and the dog bones game.
+Each of the four sets has different cards and rules, and each seems to require different types of strategy.
+I think this is a great chance for him to use his judgment to see what happens next and also learn to take turns.My older boys grew up on Candyland and Chutes and Ladders.
+Those are classics, but seriously, Candyland got tiresome quick!
+These are a new generation of low-tech, hands-on, colorful, and cute games.Highly recommend!
+We played just one of the games six times in a row.
+For a group of `firsts', this is actually quite nice.
+I liked that the four games were diversified enough to the point where they were really four different games.
+Quality wise, they are a tad cheap, and the crude art work isn't always the most alluring, but this is for younger kids and for that it works.
+It teaches them, in simplified terms, gameplay that will help them in picking up more advanced board games and help them get the hang of gameplay before getting into more competitive games.
+Some of the games are a tad too simplistic, and there were times when the gameplay could become VERY one-sided because of the rules.
+The dog bone game in particular left my daughter stuck at start and myself with EVERY game piece because she couldn't roll the right color.
+I felt bad for her, and she got really frustrated, but we worked through it and it did help teach her the value of playing and not necessarily winning.
+As a collection for youngsters, I like this.
+I will say though, I think this is overpriced for what you get.
+I wouldn't pay over $20 for this, that's for sure.
+In fact, with the quality of the games themselves, I'd say $10 is an appropriate price.
+This really feels more like a Dollar Store game collection than anything else.
+So, while I think that this is a nice stepping stone, the singular gameplay options and the price itself cause me to give this a narrow three stars.
+This is quite simply a wonderful set of games.
+Because of some previous experiences with children board games, I was a bit skeptical, thinking that they would be pretty unpleasant to play and/or have really cheap pieces that bent or broke easily.
+So with low expectations I opened the box and was...delighted!
+The boards are sturdy and really cute!
+I love that there a many different pieces and cards for the different games, so that there is a good amount of variety, yet it is not overwhelming or confusing to a small child either.
+The pieces and cards are also of good quality and games are  enjoyable, simple (although you can add some difficulty), and most importantly, they do not take a long time to play!
+They are perfect for younger kids who want to play a board game, but don't have a long attention span and need something engaging but simple.
+I really would recommend this set and will probably buy this as a gift for someone in the future.
+These four games seem uniquely designed to introduce board games to kids between the ages of, say, 3 and 5, maybe 6.
+They accomplish this goal very well.
+I'm not sure they're the greatest games available, but they're the best I've found for this age group.
+I love board games and it's great to have games to play with the little kids.
+"The 4 First Games Combo Pack is a box that contains four games.
+The box includes two 2-sided game boards - one on each side of the two boards.
+All the pieces are bright, colorful and of good quality.The games are King of the Castle, Tasty Bones, Garden Party and the Bird's nest.King of the Castle:This one is the best out of the four and our favorite.
+It's a lot like Candy Land.
+Same principle as Candy Land but you primarily use a die to move around the board.
+You also must land on the last space color exactly to win.
+Chance cards send you all over the board, backwards and forwards.
+Teaches and reinforces color, following directions, and taking turns.Tasty Bones:This one is a little complicated and our least favorite.
+You start by having to roll a certain color to get started and this can take a while.
+You roll the die and move left to right or up and down to the nearest square on the board of the color that you just rolled.
+The rules don't specify what to do if there isn't that color available in the rows you to need to move to so we just skipped a turn.
+You could also just roll again.
+It was really kind of boring and pointless so we just quit playing this one.Garden Party:A little fun.
+You roll the die and try to get one of each color flower to ""plant"" in your garden.
+First one to plant their garden wins.
+No much to the game so does not take long to play and not particularly that great or fun of a game either.The Bird's Nest:The kids had fun on this one just rooting for which color would come up.You must roll your die in a certain order to move your game piece.
+This is a great set of games for younger kids who are starting to show an interest in playing rules based games.
+My 4 and 6 year old sons and I have played through each of these games and they've had the neighbor kids over once to play as well.
+I like that you get four games in a fairly compact space.
+There are two double-sided game boards .
+My kids seem to favor King of the Castle and The Bird's Nest.
+I'm not sure they quite get the rules of King of the Castle, but they have a good time anyway and they are slowly catching on.
+Garden party is also a hit.
+They seemed to have fun playing Tasty Bones, but they haven't asked to play it again.I'm not sure how much staying power these games will have, but it's definitely been a great introduction into rule-based games for my kids.
+From here I can see them moving into more complicated games.
+For the price it's a great value and the quality of the game boards and pieces is very high.
+People say too much TV has made American kids dumber than the kids in Asia and Europe, and now too much mobile gaming is probably making the situation worse!
+It's very nice that Ravensburger, a German company, designed these four fascinating boards games for kids three and up - fascinating for the kids, that is!The games are:- Tasty Bonds- King of the Castle- The Bird's Nest- Garden PartyAll the games are fun for little kids and, more importantly, appropriate for their ages.
+They're wholesome yet easy to learn, and can be played by from 1 to 6 kids.
+Now, it does come with a small die which means it should be kept away from children under 3, or in my case, from my youngest boy who's 4 but who still puts all kinds of stuff in his mouth!
+Six- and seven-year-olds will find the games fun, too, and their colorful designs are appealing to our little visitors, too!Finally, a set of games that can keep my kids away from mobile games.
+For how long, that I don't know, but at least now I know there still **are** healthy alternatives out there!
+After all, these traditional games do not emit any radiation!
+To be honest it's middle of the road as far as toys go.
+It won't change the world, but it will keep the kids busy for 20 minutes.
+there are a lot of small parts and foldable cards that come with it; a younger child will tear it up quickly.My five year old son says he likes it, but has lost most of the pieces at this point.
+My 3 year old daughter is often left out when it comes to board game fun in our family.
+She's just not ready for Sorry, Life, Monopoly and all the others classics.
+So it can be a point of contention in our household when my 11 year old wants to play one of these games.
+Now we have an alternative with this set of 4 beginner board games.
+I highly recommend it for your pre-schooler.
+"All 4 games that come in this box are great.
+They all support 2 players and expand to at least 4 players.
+The 4 games range in difficulty.
+Two of them are a bit simpler, while the other two have a higher degree of difficulty for a young child.
+The nice part about the more difficult games is that they are still within the grasp of the younger kids.
+It will just take them a bit longer to understand the game.I boards and pieces are also of a nice quality.
+The box itself feels nice and sturdy, but the divider inside is flimsy.
+Mine was crushed a bit when I got it.Two of the games used small cards.
+They aren't too difficult to figure out which game they go to, but it would have been nice if they colored the backs of them different based on the game.
+What I mean is that both set's have blue ink on the back; I would prefer that one have red ink on the back while the other had blue ink.
+This way a child would quickly be able to identify that the red cards are for this game and the blue cards are for that game.Pro: 4 games in one boxPro: All games in the box are goodPro: Good quality pieces / boxPro: The 4 games have a difficulty rangeCon: Game cards are the same color despite being for different gamesCon: Inside the box a flimsy divider separates pieces from the boardsP.S,When I asked my 3 yr old which of the 4 games she liked best, she said, ""All of them."""
+Great kids games, very educational.
+They teach kids how to count, identify shapes, colors and animals as well as the importance of losing and that you don't have to win to have fun.
+Great family fun.It is nice that this package comes with four games in one, and each game has a different lesson.
+The age range says 3 to 8 years of age, but I'm thinking these games are more for children 3 to 5, depending on your child's educational level.
+My daughter is 8 and these games are way too young for her, but she is very advanced for her age.
+These are also games that the kids can play with each other and learn to interact and cooperate.
+My kids (young 3 & 5) enjoyed playing these games (in particular King of the Castle).
+The 5 year old had no problem understanding the rules, but the 3 year old need to be instructed what to do each turn.
+All the games were simple enough.
+The package contains two reversible boards to play the four games, a single die with 6 colors, peg like player pieces, and cards to play the castle and flower games.
+I don't like that the  game cards are similar in art style and shape, since it requires sorting to play the appropriate game (not difficult since the flower cards go to that game and the animal cards go to the other), but it would've been easier if they made them more distinct.PROS:+ Fun+ Age appropriate+ Variety of gamesCONS:- Boards are smaller than Candy Land.- Some pieces from different games can get mixed together.
+"I have always loved playing board games, anything from monopoly to chess.
+When my daughter turned 2, my wife and bought her first board game, Candy Land.
+I still vividly remember playing Candy Land and Shoots and Ladders with my mom when I was a toddler.
+However, at 2 years old, even Candy Land has some tough elements to comprehend.
+My daughter had a difficult time understanding which space she was supposed to move her piece to even though she could identify and match the colors.4 First Games offers a progression of board game conventions to ease children into the abstract concepts needed to play and enjoy board games.
+The four games are each given age guidelines (1 x 3+, 2 x 4+ and 1 x 5+).
+I would subtract a year or two from each of these guidelines for most children.
+The first game teaches the concept of a path of spaces to move a piece over and also the die rolling game mechanic that comes up often.
+This first game features a bird theme and while the game-play is completely dull and broken for an adult, it serves well to introduce the aforementioned concepts.The second game is really simple enough for most 2 year olds.
+It involves rolling a die and matching the color that comes up to the color of a flower cardboard game piece.
+You collect 5 different flowers, 1 of each color, with the 6th color (green) or repeats of earlier collected colors causing the player to waste their turn.
+As with most of these games, the end of the game ends up annoyingly frustrating because you are facing a 1/6 chance of winning on your last turn.
+So the games proceed smoothly and quickly until you get near the end and then progress slows to a crawl and everyone ends up bored.The third game features a castle and many creatures, both mythical and commonplace.
+It is similar to Candy Land in that you progress along a fixed path with colored spaces towards a castle.
+Drawing a card with a creature will transport you to the matching space, which could be far ahead or behind your game piece.
+As my daughter was familiar with Candy Land, we were able to play this third game through together on our first attempt, with only occasional correction for where to move.
+This game is 4 games in one.
+They are easy for young children to play and understand.
+It contains several small cardboard cards, which have the potential to get bent, ripped or lost, so be careful with that!
+It's fun to have a variety in one box for the children to play with.
+While for an adult, these games are neither challenging or exciting, I think they're just right for young children.
+"My 3 year old granddaughter loves this set of simple games, and so do I. I've given her some rudimentary lessons in chess that involve learning the names of pieces and how they move, but as someone who has loved board games since starting out with Candy Land in the 1950s, I've yearned for board games that we could play together that would be both undemanding for her (unlike chess!)
+and enjoyable and fun for both of us (and that wouldn't inspire demands for candy!).
+4 First Games fills the bill.
+The learning curve is slight, the games are visually appealing a la good children's picture books and game play is short enough (about 15 minutes) that there is no time for boredom to set in.
+The subject matter or themes of the games are wholesome and inoffensive (the ""dice"" in the game is a single die with a different color spot on each side, and is a far cry from traditional dice used for gambling).
+My 2 year old grandson is not quite ready to play these games but he is clearly interested.Ravensburger is a German game company founded in 1883 and known for making high quality games, jigsaw puzzles, children's books and crafts products.
+Ravensburg is a town in Southern Germany about 2 hours driving time from Munich and Zurich.
+According to Ravensurger, when you think of waltz you think of Vienna, when you think of fashion you think of Paris, and when you think of games you think of Ravensburg."
+My 4.5 year old son loves these games.
+They are simple and from an adult perspective, fairly repetitive and based on luck versus skill, but for my son, he's excited to be able to quickly understand the games and to have as good of a shot of winning as anyone else.
+The bone game is the most advanced but my son was able to enjoy that one as well.My main complaint is that some of the games have a slow ending.
+For example, being able to land on the last bone in the bone game can take a long time.
+In the meantime, players are moving back and forth across the almost empty board one space at a time.My child would give this five stars for fun and the fact that there are four games in one box makes it a convenient item to take to grandma's.
+"While I think ""early"" 3 may be a bit too young for these games, they're easy enough for most kids nearing 4 to understand, and short enough to keep their attention.
+I'd wager that most adults can figure the gameplay out without even looking at the instructions.I appreciated that there was variance in the games, where some of them could be used to teach colors, or simply how to take turns.
+The simplicity makes it easy to adapt the games, if there's a particular area you're hoping to build your child's skills in.The overall quality of the boards and pieces are a cut above Candy Land, but they're still just cardboard, so don't expect miraculous resistance to toddler abuse.To be honest, I think the suggested retail price is a bit high on this item, even if I take the view ""Would I pay $X.XX for these games individually?""
+because more likely than not, I wouldn't buy the individual games that way.
+Were it not for that, I could see being a bit more generous with the stars."
+I got this for my 2 1/2 year old girl.
+Usually games that are 3+ can be adapted for younger kids.
+My daughter plays a lot with older kids, so I thought she would catch on.
+However, she didn't really seem to get most of the games.
+we tried the one where you put the flowers in the gardens.
+You have to roll the dice and then pick the right color flower.
+She ended up just putting flowers in all the gardens, so there was no real winner.
+She still really enjoyed it and even though we didn't play quite right, we were still playing together -- so that's a plus!
+I like that there are four games in one box and they seem to be pretty gender neutral.
+The pieces are sturdy and I think she'll really enjoy them in a few months.
+"There are four games in this box.
+The four games are King of the Castle, Tasty Bones, The Bird's Nest, and Garden party.
+My granddaughter is currently three and a half years old, our target audience for these games.
+We played these games a couple of times and there were clear favorites.Garden Party:This game is probably the easiest to understand and was clearly the favorite.
+The game is easy to understand and play and the pieces have bright colors.
+Each player has five different flowers on their portion of the board.
+Each person rolls a die in turn.
+If the color on the die matches a flower, then that player gets to put a flower piece on the board.
+If they already have that flower, then the next player rolls the die.This game goes very quickly, taking minutes to play.
+This game is easy for very young players to understand and win, and my granddaughter wanted to play it after being away from it for a while.
+I was moderately surprised that this game was easier for my granddaughter to play than The Bird's Nest, considering this game is recommended for ages 4 and up and The Bird's Nest is recommended for ages 3 and up.The Bird's Nest:This game is recommended for ages 3 and up and is another easy to understand and play game.
+Each person chooses a path and places their playing piece on the white starting square.
+You may only move forward by rolling the color next to you.
+If you roll white, you move forward one square.
+Once a player gets next to the nest, it takes a white die to move into the center.
+This game is about as fast as Garden Party and generated a lot of laughter in the under 5 set, but seemed a little less exciting than Garden Party because there is nothing to collect or match.King of the Castle:This game is recommended for ages 4 and up, and was a bit of a challenge to play because the rules are somewhat complicated.
+"My three year old son is a nut for games so I jumped on the opportunity to get this.
+When I opened the box, my immediate reaction was ""wow, everything is so colorful and well made!""
+This was no Candyland with cheap little cards and plastic pieces.
+As usual, Ravensburger upholds its name with quality components in their games.At the writing of this review, we've already played all the games many times and here are my impressions:The Bird's nest - according to the age specification, this is the most elementary of the games since it is appropriate for 3 and up.
+It's VERY simple.
+The kids roll a colored dice and advance one step if the rolled color matches the color of their next step.
+Truly ANY KID can play this game, even younger than 3 I bet.
+The only skill you need is color recognition.
+I thought my son would be bored with how elementary this game was but he loves it and squeals with excitement with the colors match.Garden party - I'm not sure why they have the age rating as 4+ because it is so easy I bet an advanced 2 year old could play it.
+Again, the only skill needed is color recognition.
+Each player has a garden and the goal is to get every flower to complete it.
+The colors match the colors on a dice.
+When you roll red, you get the red flower and add it to your garden.
+This game is very simple but I think out of the four, this is my favorite just because it's so attractive looking and I like the idea of making a garden.King of the Castle - For ages 4+, this game is very similar to Candyland.
+You roll the dice and move your piece to the corresponding color on the path.
+If you roll white, you get transported to a different place on the board.
+These are four nice games for kids 3+ and 1-6 people can play.
+The bright colors attract the eyes and the quick game play time is perfect for younger ages.Games are:Tasty Bones where the goal is to get bones to fill your dog's belly.King of the Castle where the goal is to be the first one to arrive at the castle.The bird's nest where you must get your bird into its nest.Garden party where the most beautiful blooms in the flower bed wins the game.The small parts are listed as a choking hazard for kids under 3 and the game is made in the Czech Republic.Overall it's good entertainment for the family and a great way to introduce little kids to board games.
+"I got this for my sister's 3 year old triplets and they love it!
+The games are pretty simple and are a great way to introduce kids to board games.
+There's no reading required in order to play, just color matching.
+With the prices of toys and games going up all the time, it's nice to get something that's 4 games in one box.
+My nieces and nephew absolutely had so much fun with the games.
+For ""Bird's Nest"" you have to be the first to reach the nest in the middle.
+For ""Garden Party"" you have to be the first to collect one flower of each color.
+Wonderful that you can work on color concepts while still having fun!The other two games are more difficult.
+The castle game is similar to Candyland because  you have to move to the corresponding color.
+The ""Tasty Bones"" game works on the left, right, back, and forth concept which is great except that my niece was frustrated that sometimes she had to move back.
+Personally I would save that game for an older child.I highly recommend this value pack of games to any preschooler parent looking to get their child started with board games, especially since there are 4 games to try out.
+This made a great birthday gift too!"
+The 4 First Games Collection has been a blast for us.
+My daughter is 4 years old and is now in board game Heaven with these.
+The boards are sturdy, well made, and colorful.
+The little cards that come with the game were easy to punch out.
+There are a couple of sets, used for different games, and I was pleased that the square ones are different sizes for each game (one just a little bigger).
+This keeps them from being mixed up.From a mom's point of view, the bird game and the one with the flower bed are a little mind-numbing after a while, but my daughter loved them.
+(To be fair, she had me playing them about twenty times in a row, so anything might be mind-numbing after that!
+)I found that the castle game and the dog bone game are a little more challenging and more interesting for the slightly older kids and to keep mom from losing her sanity!My daughter was so enthralled with this game that it was lovely spending a Saturday morning together (and Sunday, Monday, Tuesday, etc., etc., etc) playing board games instead of watching TV or playing computer games.
+I was thrilled.And my daughter's absolute favorite part?
+The game rules which included things like the youngest player goes first and the shortest player goes first!
+She told me that the game makers knew that little kids should go first.
+:-)  This was a winner!
+I have 6 grandchildren, all under the age of 5, so I expect this set will get a lot of use.
+Inside the box are two reversible game boards, 6 tokens, and several pieces needed for the different games.
+No reading is needed for any of the games, which will help with my crew.
+They do need to recognize colors.
+The games are recommended for ages 3 and up.
+Under three, the tokens could be a choking hazard and they probably wouldn't have the patience needed to take turns.It is nice having 4 different games in one box.
+I was afraid they were going to be basically the same game with a different picture on the game board, but they are not.
+The instructions are clear and should provide a lot of fun when visiting grandma.ETA:  I wanted everyone to realize that one of the games is for 3 and up, 2 are for 4 and up, and 1 is for 5 and up.
+My granddaughter couldn't wait to start playing these games and we quickly learned how to play each one.The boards are durable and the playing pieces are large.
+It's all delightfully colorful.
+Some of the games are mostly luck but some do require some strategy.
+Of course, any time you are playing a game, cooperation skills--like taking turns--are involved.Bird's Nest is a luck based game and can take a while if you don't roll the right color.
+This can become frustrating for one and all if everyone is waiting for a chance to get out of the nest and start playing but once everyone is out it was a lot of fun.Garden Party has flowers and completely based on chance.
+It was fun enough but this was not the game my granddaughter wanted to play again immediately after finishing it the first time so she must have seen that it wasn't complicated.King of the Castle is similar toCandy Land - The World of Sweets Board Gameand quickly learned if the child has already played the classic game.
+This one wasn't as much fun in my granddaughter's eyes, probably because it is so very similar.Tasty Bones is perhaps the most complicated but my granddaughter really liked this one best.
+You try to collect bones while moving either horizontally or vertically (never diagonally) along the board.
+You get to steal other people's bones, which can be frustrating for those younger players who simply must win every game.My granddaughter definitely loved playing all four games but the next time we played on a different visit, she became cranky.
+I think she was overly tired before we even settled down to play.
+Next time we'll pull out the box right away and play one game until she wants to do something else.
+I have a feeling that she'll want to play Tasty Bones first, the game the requires the most strategic thinking of the four.
+The amazon product page says that this game is for 36 months - 8 years.
+I'm on board with the 36 months part but 8 years - not so much.
+My daughter is almost 4 and of the four games in this box, two of them are perhaps a little too young/basic for her and two of them are just right, but I can't see them going much beyond age 4.5-5 years.The quality of the game board and pieces are nice.
+I've found that all the Ravenburger items we have bought are high quality, durable and well thought out.
+I'm pleased with the way they included two boards with two sides to each.
+And the cards that go with each game are slightly different sizes so you can quickly sort them out.My daughter enjoys the castle game, the dog bones game and the flowers game the most.
+The bird game is a little maddening as you have to keep rolling and rolling to get the right color before you can proceed.
+No one liked that game much (and as such, we only played it once.
+)I would say overall, for four games for a preschooler, this is a good value and definitely worth it even if all the games don't get equal play.
+This is a great birthday party gift.
+The boards have bright colors and are durable.
+The games are easy to play, but I would not suggest them for children under 4 years-old, as they are probably too complicated for that age group.
+Also, there are small pieces that come with the board set.
+Furthermore, I don't think that most children under 4 years-old would be able to roll a die.The games come with 2 playing boards, 20 colored blossoms, 6 playing pieces, and 1 colored die.
+Although this is the perfect number of pieces for to play each of the games, I wish that little kids' games came with extra playing pieces, as they inevitably get misplaced or broken/torn.
+Four color based board games for the little guy in one box.
+It reminds me of Candyland, but based on a 6 sided die instead of a deck of cards.
+(It comes with a 6 sided die with colors on each of the sides.
+The little guys will really enjoy the games, very simple to learn and also teaches matching colors.

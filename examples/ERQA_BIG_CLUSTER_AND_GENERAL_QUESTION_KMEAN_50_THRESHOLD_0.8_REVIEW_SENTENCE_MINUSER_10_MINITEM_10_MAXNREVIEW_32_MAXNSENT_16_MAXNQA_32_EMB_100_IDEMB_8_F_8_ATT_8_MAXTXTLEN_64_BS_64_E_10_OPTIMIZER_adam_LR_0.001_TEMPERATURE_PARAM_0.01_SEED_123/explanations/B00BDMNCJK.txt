@@ -1,0 +1,175 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+The stencil and patterned paper are the best features of the kit, as they keep kids occupied for hours and can be used to creative fun, stylish designs.
+The Alex Tres Chic Designer Look Book is a really fun crafting kit for girls who are old enough to be interested in fashion but still young enough to enjoy stickers, glitter glue, and lots of purples and pinks.
+A few years ago this would've been her favorite thing.
+Along with these, paper, glue, scissors, alphabet stickers, glitter pens, and ribbons are included.
+The kit comes with 5 sheets of patterned paper, each of which is printed with 2 to 4 different patterns that resemble such fashion necessities as denim, lace, houndstooth, polka dots, zebra, leopard, and sequins.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.005733578000217676,0.008485311642289162,0.00608916487544775,0.005255844909697771,0.007294018287211657,0.006017846986651421,0.0082742590457201,0.006453029811382294,0.013090459629893303,0.008808379992842674,0.00873714592307806,0.00534337293356657,0.004083576146513224,0.006157358642667532,0.009446929208934307,0.005682032089680433,0.00628721434623003,0.004845296032726765,0.005730207543820143,0.007563448045402765,0.006003356073051691,0.004789946135133505,0.00775733171030879,0.005494830198585987,0.005465355701744556,0.008275569416582584,0.00604380713775754,0.006311244331300259,0.006940142251551151,0.006468226667493582,0.006220534909516573,0.005083703435957432,0.006329833995550871,0.005917026195675135,0.007607089821249247,0.004298326559364796,0.005484109744429588,0.007095386739820242,0.00815571565181017,0.00850404892116785,0.007243317551910877,0.006038982886821032,0.005734410136938095,0.005182680673897266,0.0072571756318211555,0.005067320074886084,0.004360218998044729,0.005998153705149889,0.00914965383708477,0.005878268741071224,0.003714554477483034,0.006233179476112127,0.005029415246099234,0.00644397409632802,0.006298980675637722,0.005560168530791998,0.007137206383049488,0.006671187002211809,0.00636413786560297,0.005109106190502644,0.007438382133841515,0.006305444519966841,0.004485401790589094,0.011297612451016903,0.006032564677298069,0.00461276900023222,0.00431839982047677,0.005945110693573952,0.009447639808058739,0.005269323009997606,0.007061235141009092,0.007394591346383095,0.006415104493498802,0.006229497957974672,0.006176706403493881,0.006708950269967318,0.005423294845968485,0.009873141534626484,0.004998382646590471,0.004463972989469767,0.005974786821752787,0.004724325146526098,0.007310069631785154,0.008004692383110523,0.00611884007230401,0.0057879844680428505,0.006026833783835173,0.0057932841591537,0.006128685083240271,0.004361644387245178,0.006386521738022566,0.006456925068050623,0.0077994586899876595,0.0055150799453258514,0.006292884238064289,0.005963378120213747,0.005239272024482489,0.00603069830685854,0.006256480235606432,0.007457413244992495,0.0055251047015190125,0.006305281538516283,0.00673836562782526,0.006440782453864813,0.006318561267107725,0.006796141155064106,0.005648558493703604,0.004742331802845001,0.0062269000336527824,0.007131520658731461,0.006389872170984745,0.0056909192353487015,0.006110521499067545,0.005981176160275936,0.004829720593988895,0.004611479118466377,0.005594720132648945,0.004894322250038385,0.006806280463933945,0.006075672805309296,0.007306223269551992,0.007330741733312607,0.00449739582836628,0.0056212348863482475,0.006250747945159674,0.00647764140740037,0.007502370048314333,0.006328682880848646,0.0060088494792580605,0.00577800115570426,0.005995097104460001,0.005336303263902664,0.004739827010780573,0.005337265320122242,0.004278251435607672,0.004878770560026169,0.0060820127837359905,0.0061638243496418,0.00876088161021471,0.004723005928099155,0.005944638047367334,0.005943953059613705,0.0053161438554525375,0.006202755495905876,0.005971817299723625,0.008590620942413807,0.010787797160446644,0.006591905374079943,0.005864406004548073,0.007220633327960968,0.0069182757288217545,0.006003006361424923,0.005579266231507063,0.006501749157905579,0.005839879624545574,0.004707140848040581,0.004967248532921076,0.0059767719358205795,0.00519363721832633
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+This is essentially a very nice scrapbooking kit for kids.
+My daughter (8) has had hours of entertainment creating pages, playing with it and creating pages.There are stickers, stencils, glitter glue, and more in there - everything you could imagine needing.She's created about 20 pages and there are about 30 left in the book - highly recommend this book!
+My girls are fashion freaks.
+Whenever they can, they will design clothes, setup make- believe runways, and otherwise create a fashionable atmosphere in the home.
+Their love of all things fashion led me to the Alex Toys Craft Tres Chic Designer Look Back, a toy intended to bring out the young fashion designer in your home.As expected, my girls took an instant liking to this kit and they are still using it today.
+There are other fashion toys like this one, but this is one of the better ones for a several good reasons.
+The greatest among them is the sheer contents of the package.
+With 390 essentials, there is enough here to keep your young fashion designer going for a long time.
+The stencil and patterned paper are the best features of the kit, as they keep kids occupied for hours and can be used to creative fun, stylish designs.
+The kit really succeeds at releasing a child&#8217;s inner creativity, and that alone makes it worth the purchase.About the only item I don&#8217;t find very useful is the included scissors- they don&#8217;t cut well at all and should be discarded.
+You will need to supply your own.
+The manufacturer would be best off if they just eliminated this item.
+Most homes already have multiple pairs of scissors anyway, so the inclusion of scissors is unnecessary.Once kids are finished creating fashions, they can store them in the included book.
+It all makes for a very fun fashion kit that creative, stylish children will love and continue to use for quite some time.
+In the words of my girls, Alex Toys Craft Tres Chic Designer Look Back is awesome, plain and simple.
+It's basically a scrap book for kids who are interested in fashion and style.
+My seven-year old daughter loves it.
+The cover of the book is pink and light green with Ooh La La!
+printed on it.
+Some of the pages have a basic drawing of a girl and you get to design her outfit, accessories and to do this you can use the enclosed stencils, patterned paper, jewels, or stickers.
+It's an adorable set and fun.
+The only downside to the item is that it is spiral bound and with a lot of looking (it is a look book after all), the pages might tear out eventually.
+I'm happy with the book and my daughter enjoys making new pages.
+She designs some of the girls, and she puts her own picture on some of the pages, making it more like a scrapbook with designs attached.
+This book comes with everything you need for a fun project.
+This includes the scrapbook, scissors (which we really didn't like), glue, stickers, and much much more.
+I love kits that truly are able to be opened and use immediately and this one does just that.
+The focus is fashion, so keep that in mind when considering your purchase.It has a lot of small pieces, so I wouldn't recommend for a child younger than six.
+It can get a bit messy, so keep that in mind as well.
+I think the perfect age is that 8 - 12 range, but a little younger and a little older could still enjoy this kit.
+Had lots of fun doing it with my daughter.
+My two nieces loved this, without any adult direction or help, they opened this up and started working away.
+They loved that they could make the pages however they wanted, and quickly learned how to stencil/cut out different dresses and pieces.Lets kids be creative, and gives them all the tools for it.
+For kids younger than 7-9 or so it might be harder for them, but still could be fine for working with them to do it.
+The ALEX Toys - Craft Tres Chic Designer Look Book has been a great introduction to scrap-booking for my nearly six year old daughter.
+My daughter adores dressing fashionably as well as doing arts and crafts in her free time.
+This book has opened a world of opportunity in adding too and expressing the creative streak she already has.
+I learned my daughter actually has a good eye for pattern matching, color choosing, and fun fashionable outfit looks!This kit basically comes with nearly everything you would need to start piecing the book together.
+The book is hardcover, spiral bound and has 49 pages to have your way with.
+Also included with the kit are stickers, outfit stencils, paper fabrics, ribbon, gems, a glue stick, glitter glue, sticky gems, frames, a round tipped straight edge pair of scissors, and instructions on how to get started.
+If you were gifting the set, I would recommend adding some fun gel pens to add a little extra pizazz and personal touches.The pages within feature fun chic designs and colors.
+There are paper doll looking girls on some of the pages in which cut out clothes and stickers can be placed upon to creative some fun looks!
+The stickers feature accessories such as sunglasses, earrings, purses, necklaces, scarves, as well as letters to spell out words.
+The paper included in which to stencil then cut out the outfit has patterns of glitter, hounds tooth, polka dot, denim, lace and more!
+Apart from the pre-designed pages with the girls on them within the look book there are completely blank pages in which you can write your own thoughts, glue and paste outfits from magazines or wherever else that leads to inspiration.
+A whole lot of creativity is allowed within just 49 pages and I just love that!The kit is of high quality.
+It's made well and far after you are done putting together the look book, you can use the fashion stencils for art.
+Maybe it'll inspire a future fashion designer!
+This would be a wonderful go to activity for a rainy day or any other time when your child has an itch to be creative.
+I can't say enough good things about the set!
+Alex Toys's Craft Sets are always high quality.
+We often chose them for birthday gifts for boys and girls and they are always a hit.
+The Tres Chic Designer Look Book is another winner in my opinion.
+This is a great present for any budding fashion designer.
+The stencils are really fun, my daughter had a great time coming up with different outfit pairing.
+The stickers and gems are plentiful, too!
+It comes with it's own scissors as well as a glue stick.
+The book that is included is a very nice quality scrapbook as well, which helps to keep all their new designs organized!
+Once again, Alex Crafts has not let us down.
+This set combines two of my daughter's favorite activities.....scrapbooking and fashion design.
+She loves to scrapbook with me and I often give her some of my supplies to make her own books.
+She also has a set of fashion plates and creates all manner of fashionable dresses with them, and this set gives my 6-year old the best of both worlds.
+It comes with everything she needs (stencils, stickers, paper, scissors and glue) to create a fashion scrapbook of her own.
+The Alex Tres Chic Designer Look Book is a really fun crafting kit for girls who are old enough to be interested in fashion but still young enough to enjoy stickers, glitter glue, and lots of purples and pinks.
+My 8-year old daughter loves it!
+The scrapbook is a spiral bound 10&#8221;x 10&#8221; hardcover book containing 48 pages (counting front and back of each sheet separately).
+The pages alternate between blank pages and pages containing a printed design (e.g., a paper doll-like figure standing beside a chaise lounge or with a poodle beside the Eifel Tower), so that each 2-page spread contains a blank page and a printed page.
+Girls can decorate the pages with clothes that they design using the stencils and provided patterned paper.
+The kit comes with 5 sheets of patterned paper, each of which is printed with 2 to 4 different patterns that resemble such fashion necessities as denim, lace, houndstooth, polka dots, zebra, leopard, and sequins.
+There are a ton of fun stickers of shoes, jewelry, headbands, sunglasses, hats, scarves, and purses that can be used to accessorize the designs.
+The provided scissors aren&#8217;t the highest quality but they get the job done.
+The provided gluestick doesn&#8217;t work well at all, so I would recommend swapping it out for a gluestick made by a trusted glue brand.
+Like most Alex craft kits, overall this kit is high quality and provides many hours of fun.
+Recommend.
+This was a good value for the price.
+It has a hardback spiral album with cute backgrounds like Paris, poodles, pretty prints, etc.
+It has the drawings of girls, and you get stencils of different dresses, skirts, tops, pants along with stickers of shoes, boots, scarves, hats, handbags, and glasses.
+Along with these, paper, glue, scissors, alphabet stickers, glitter pens, and ribbons are included.
+This would make a great gift for any child from age 6 up, who is interested in fashion or art.
+This would also be a fun set for someone recovering from an illness who needs something to do, because everything you need is in the box.
+The only negative I found was the glue stick does not work very well, so a different glue stick will probably be needed.
+The scissors are round point so would be safe.
+Good set for the price.
+If you need a gift for a girl who is a budding fashionista, this might be right up her alley.
+It's fun for girls to come up with coordinating outfits and try new ideas.
+My two both were engrossed by this and spent several quiet hours working on designs.
+The scissors are not the best ones, so make sure you have some handy to use, everything else you need is included.
+I was surprised at just how much excitement this product earned.
+Two eight year olds spent a good half hour putting together designs and stenciling figures.
+There was some frustration with the stencils and I really enjoyed that it gave their small motor skills a workout.There is a decent sampling of scrapbooking supplies in the kit - scissors, 10 x 10 scrapbook, patterned paper, stickers, stencils, glitter glue, ribbon and a Glue stick to put it all together.
+For the creative child who wants to design clothing, make paper dolls or just try her hand at making her first scrapbook, this is a good gift.
+I do think it is slightly overpriced since, if you scrapbook yourself, you may have most of these items anyway and it certainly wouldn't add up to much.On the whole, it is a nice gift for a creative youngster who likes pink and it may spark an interest in scrapbooking and fashion design.
+Great quality and lots of option how to dress the girls.
+All clothes and accessories can be mixed and match.
+Honestly my 3 year old son like it (stickers!)
+and me even more ( I felt like a little girl again;) He loved to cut and glue stuff together and play what to wear.
+I wouldn't normally buy it for him (I didn't even know thing like that existed) so it was great option to try some other toy than trucks, diggers etc;)It makes a wonderful gift.
+My daughter had a lot of fun with this kit.
+Scissors glittery paper, glue pens and stickers are always a hit with young girls.
+The stencils to help make the outfits were also enjoyable to my daughter.
+Overall fun kit but really not a ton of supplies in here.
+Price of $20 for this kits is a little crazy as you can get way more at a Scrapbook store for this amount.
+But overall very happy with the kit.
+When I first saw this product I though it was a designer note book of sorts for young girls.
+Something my daughter could draw in and design things, however upon arrival I realized that it is a scrap book!
+That's way better and my daughter who is almost 8 absolutely loves it.
+Shes been wanting to do scrap booking for a few years now so this is a great start.The kit includes everything you need to get started but I think that if you giving this to a young girl in your life you may want to include a few things.
+Like a disposable camera more patterned paper some cool pens and maybe other little things like that.There are a pair of scissors included but it does say for ages 6 and up so most children have practiced how to use them at that point.If your child is crafty and artsy like mine then this is the perfect gift for them.
+Recommended!
+Stickers, scissors, shiny paper AND glitter glue pens?!?
+How could it not be a hit with my daughters, who love to do crafts.The only bummer for us is that they went through the glitter glue pens pretty quickly, and one of them got jammed.At any rate, this provided us with a fun day of arts and crafts.
+My niece likes to dress up and is quite a fashionista but this craft set did not keep her interest.
+I asked her what she did not like and she said it was not that cutesy or pretty enough.
+It also looked cheap she said so I defer to her expertise on this review.
+My daughter dove right into this set.
+I think it works well for kids K to 1st grade.
+I would be hesitant to give it to someone in grade 2 or above.
+I'm not as enamored with the kit as my daughter; I think it is thin on supplies and the scrapbook is going to fill up quickly.
+The best part, I think, are the clothing stencils.
+The plastic for the stencils is thin, but they get the job done.
+I am always tempted to tell people to just buy a blank notebook and a bunch of art supplies a la carte and let the kids go, but kids do like these sets and they do provide a modicum of design ideas.
+This is a very nice designer scrapbooking kit.
+It has paper dolls that you create clothes for using the stencils and paper.
+Then you make scenes on the pages of the book.
+There are stickers and other accessories to make very fancy pages.
+It's very much like scrapbooking for paper dolls.
+My 9 year old found that tracing the stencils onto the paper and seeing the lines in order to cut them a little hard.
+Creating scenes for the dolls just didn't get her excited about this toy.
+I guess she is not that into scrapbooking and paper dolls/fashion yet.
+My niece will love it.
+I guess you need to know the kid you are buying for and know what they like.
+She was way more intoALEX Toys - Do-it-Yourself Wear!
+Duct Tape Party 769XNotes:- There are stencils and you trace outfits for the paper dolls.
+After tracing you cut them out.- No pencil included to trace- High quality book and materials- Makes a very nice gift
+My 12-year-old daughter has been cutting on barbie clothing and pretty much any other type of fabric that she can get her hands on to make her own clothing designs for several years now.
+When I saw this product I knew it would be right up her alley.
+She's been enjoying it for several weeks now.
+She's made some really neat designs and has been having fun filling up the book.The description states that it comes with 390 essentials but 359 of those essentials are stickers and sticky gems.
+There's a pair of scissors that are worthless, they're weird and don't cut worth a darn.
+There's a glue stick that my daughter can't hardly get the lid off of, it's even hard for me.
+What makes this kit awesome is the 5 patterned papers that have 4 different prints on each and the shapes/stencils for the clothing.
+This kit would be perfect if there were more of those 2 things.
+The stencils can be used with other materials, not just the prints from this kit.
+The ribbons are nice too.The book that comes with this kit is nice.
+It's neat to be able to have a place to put the designs and keep it to look back on someday.My daughter has said although she really likes this, she thinks it's a bit too young for her now.
+She thinks it's more geared towards 8-9 year olds.
+A few years ago this would've been her favorite thing.
+I would recommend it for 8-12 year olds though who enjoy this type of thing.
+My daughter has really been enjoying this scrapbook.
+There are enough supplies to where she is still going with it.
+The book itself has almost fifty pages.
+There are stencils and paper that looks like fabric samples to make your own fashions for the doll outlines on the pages.
+When those fabric samples are used up, you can use other paper, such as patterned origami paper.
+There are also lots of stickers and shiny gems, which my daughter loves to use as embellishments.The scissors are difficult to use.
+We ditched them and use our own scissors, but otherwise everything is easy to use.
+My daughter can outline the stencils and cut out the blouses or skirts or whatever she wants and glues them to the pages.
+She likes going back and looking at her previous designs each time before she starts on something new.
+I like that she is using her imagination and then reviewing what she did to make any improvements she wants to to her style.
+This has definitely been a fun craft item and I would certainly buy it for anyone in the six to ten year old range that enjoys these sorts of crafts.

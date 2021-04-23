@@ -1,0 +1,256 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+But as long as he's amused, I'm satisfied.
+Save your money, or better yet: try a real campfire.
+Part of a campfire toy line that is great for young children with active imaginations, this is a wonderful idea.
+That is a record.
+My kids 11 & 14 are so excited and we plan to set up a fake fire place for Christmas with it.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.005719092208892107,0.002467931481078267,0.005475346930325031,0.005826611537486315,0.003504638560116291,0.005425726529210806,0.003952379804104567,0.007770323194563389,0.003347070887684822,0.004981387406587601,0.005472468212246895,0.003932131454348564,0.005190693773329258,0.005290548782795668,0.003058462170884013,0.004356241784989834,0.003008261788636446,0.0018503274768590927,0.0030213387217372656,0.0035559621173888445,0.002485311822965741,0.005933226551860571,0.00345224654302001,0.003918494563549757,0.004374886397272348,0.003266026498749852,0.005473277997225523,0.00434849364683032,0.0025957177858799696,0.002195787848904729,0.005972325336188078,0.00636600935831666,0.005815716460347176,0.003868442727252841,0.004334387369453907,0.0029948002193123102,0.0021685482934117317,0.005476984195411205,0.005701616406440735,0.002576231025159359,0.003314123721793294,0.00544365681707859,0.005398667883127928,0.0024741659872233868,0.004628598690032959,0.003843112150207162,0.005242920480668545,0.00544365681707859,0.002547226147726178,0.004393553361296654,0.004055353347212076,0.004248496610671282,0.005671969614923,0.0017100294353440404,0.002243670867756009,0.007132981903851032,0.004137153271585703,0.0023495079949498177,0.0016875608125701547,0.006434100680053234,0.0023887029383331537,0.004610902164131403,0.0038952298928052187,0.004849542863667011,0.005203808192163706,0.004344162065535784,0.0033544113393872976,0.004694378934800625,0.005345851648598909,0.0022235943470150232,0.001675194245763123,0.00189194455742836,0.004022897686809301,0.0036537095438688993,0.0037881580647081137,0.004449002910405397,0.006625341717153788,0.00529351644217968,0.004003745503723621,0.005661129951477051,0.005511637777090073,0.005511637777090073,0.002224651398137212,0.0038180877454578876,0.0028909877873957157,0.005293107125908136,0.00577541533857584,0.004659496713429689,0.005406605079770088,0.005464349873363972,0.0032141138799488544,0.0032819039188325405,0.0022589818108826876,0.0016129112336784601,0.002064768923446536,0.0023952319752424955,0.005075659602880478,0.002438425086438656,0.0047393799759447575,0.00446897791698575,0.002245362615212798,0.0027405705768615007,0.0030358892399817705,0.0033683886285871267,0.005661488976329565,0.005395872518420219,0.005556280259042978,0.005168886389583349,0.002743117744103074,0.005289365071803331,0.005112959537655115,0.004184608813375235,0.002514925319701433,0.0016065738163888454,0.0018219194607809186,0.0030992638785392046,0.005470177624374628,0.005470177624374628,0.0028194410260766745,0.005065755918622017,0.005434198305010796,0.0045586335472762585,0.002394177485257387,0.0037917676381766796,0.0028481390327215195,0.004179889336228371,0.006132836919277906,0.004616397898644209,0.005568671505898237,0.004228072240948677,0.005568671505898237,0.005798290017992258,0.00490699615329504,0.0030391039326786995,0.0033555105328559875,0.00353240012191236,0.004167020786553621,0.00514838844537735,0.0053014010190963745,0.006165333557873964,0.005391587037593126,0.0056421407498419285,0.003606576705351472,0.004060212057083845,0.001978893531486392,0.005374149885028601,0.004527269396930933,0.0027249876875430346,0.0031622357200831175,0.0016687035094946623,0.003400451736524701,0.004693111404776573,0.0051384880207479,0.003980332054197788,0.004304991569370031,0.004809012170881033,0.0045406571589410305,0.0042943935841321945,0.0043784137815237045,0.006233499851077795,0.002309325849637389,0.005120398942381144,0.004192666616290808,0.003706905758008361,0.0039819818921387196,0.004526692908257246,0.0025361438747495413,0.004317653365433216,0.0036730135325342417,0.003853204660117626,0.004066056571900845,0.0034525638911873102,0.0020711475517600775,0.004310272634029388,0.005999122746288776,0.0033329895231872797,0.005806561093777418,0.005884710233658552,0.0056549180299043655,0.006394100375473499,0.00446499465033412,0.004190126899629831,0.004269459284842014,0.004261559806764126,0.005881933495402336,0.005880909040570259,0.0040739295072853565,0.003412785241380334,0.0040175942704081535,0.0039106933400034904,0.0020566985476762056,0.002639977028593421,0.0031140439677983522,0.0025109134148806334,0.0024131648242473602,0.004274603445082903,0.003001639386638999,0.005142705049365759,0.001673855702392757,0.002489115810021758,0.0039825839921832085,0.0025619259104132652,0.003759773215278983,0.003113840240985155,0.005580910015851259,0.0028691506013274193,0.005087675992399454,0.0040269759483635426,0.0026405516546219587,0.0038861683569848537,0.0024178691674023867,0.003744942368939519,0.003676287131384015,0.004741602577269077,0.005439082160592079,0.0058883302845060825,0.004061737097799778,0.004120676312595606,0.003339829621836543,0.004480021074414253,0.004787983372807503,0.007255129981786013,0.005318060051649809,0.0021938111167401075,0.006671777926385403,0.004395690746605396,0.005928996950387955,0.0034914619754999876,0.005382373463362455,0.0030296079348772764,0.005456842016428709,0.005639529321342707,0.004292646422982216,0.0045132823288440704,0.005726739298552275,0.003733451245352626,0.004628801718354225,0.003304565092548728,0.005089507903903723,0.0048441109247505665
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+But it doesn't.
+My three year old got the biggest kick out of this plastic log.
+It's a log he can touch.
+Of course there are concerns about a kid being drawn to a flame, but the log and flame look fake and it sounds like a fan.
+It's perfect for indoor sleep overs.
+My kid has a room full of toys, and when his friends come to play, I more often than not find the kids centered around this thing.
+I don't get it.
+But as long as he's amused, I'm satisfied.
+This campfire log claims to look like a campfire, and while I a skeptic at first, it has a nice glowing and flickering fire effect.
+However, it is so noisy because of the fan to make the flame move.
+It's not a toy I'm going to keep for my children.
+The noise is rather annoying, like a vacuum cleaner that has been left to run.
+Some crackling fire noises would have been nice.
+All that said, my kids couldn't stop turning it on.
+They thought it was great, but since I found the noise far too annoying, it wasn't in the house longer than about 20 minutes.
+Can't say how much they'd end up playing with it.
+Lightweight and solid yet cheap looking (it does NOT look real) and underwhelming; this fake campfire really does absolutely nothing noteworthy and its existence somewhat baffles me.
+I got this for an indoor campout with my daughter.I was not impressed.She was.Go figure.I understand, to a degree, the concept, but the cheaply looking piece somewhat negates the point behind this thing.
+It just looks like a plastic turd and the supposed `embers' look more like an open wound.
+The flickering flame, made of a thin fabric, dances while the log is turned on, which is pretty cool since from the picture I thought it was a solid plastic flame that lit up, so the fact that it actually moves was pretty cool (I guess).
+It blows cold air, which is strange.
+I just don't see this making much of an impact.
+It has a specific purpose, but I can't see kids finding lasting enjoyment by pretending to sit around the campfire.
+It just doesn't provide enough to warrant wasting time in front of it.
+It doesn't even produce that much light.
+Like I said, my daughter loved the idea while we were snuggled in sleeping bags in the living room.
+She hasn't touched it since, but I'm sure she'll beg me to turn it on next time she gets the notion to sleep on the floor.Oh, and I'm actually not offended by the sound of the flame.
+I like white noise (I find it comforting) and I didn't find the noise level too severe or overbearing.
+It took you out of the campfire vibe, considering that a real campfire doesn't sound like that (would it have been too much to ask that this sound like snapping embers and twigs instead?)
+but then again, a real campfire doesn't look like a gigantic bloody bear dropping either.
+I got this toy last week and have been trying it out with my daughter.
+She thinks it's okay, but it's not anything overly exciting to her.
+And I'm not really impressed much with it either.
+It lights up the flame at the top fine, but what bugs me is the noise.
+The flame is made of cloth and there is a fan inside that blows to make the cloth flame dance and move around to look like a real flame.
+It is a neat effect, but the noise is kind of aggravating.
+It's kind of a buzzing motor sound, not as quiet or soft as a regular fan's sound.
+It's too bad because this could have been a fun night light to use if your kids had a sleep over or wanted to leave it on all night, pretending to sleep around a camp fire.
+But the noise will not make you want to do that.
+It would have been better if they made a plastic flame and it just lit up, and not bothered with a fan or motor at all.
+Ok, you need a fake log with a fake flame for your kids to play with, but you don't have one.
+What do you do?
+Well, you buy this one is what you do.
+The real question is, why does someone actually need a fake log with a fake flame?
+I guess to keep the kids from bringing a real flaming log into the house?
+Hey, works for me.As other reviews have mentioned, the noise this makes is not very burning log like.
+It's more flappy fan like.
+But so what.
+Kids have good imaginations, and they probably won't care about the noise.
+They need a flaming log, darnit.
+And lo and behold, why here's one right now.
+Oh joy!
+"I chose this toy, based on the fact that I love novelty lamps AND campfires.
+I wasn't going to use this as a toy, because I am a grown woman.Campfires, and I have been around many, crackle and spit and make hardly any noise unless they are built very big and then they can get all roaring.This Campfire, once turned on, sounds like a vacuum cleaner, or an Old AC unit cranking up.
+Its the fan inside to make the cloth ""flame"" dance around, its really really loud and if I was a kid and wanted to pretend play like I was camping, I would be really upset that my campfire drowned out the campsite and made it seem like an industrial complex instead of a forest.did not like."
+Part of a campfire toy line that is great for young children with active imaginations, this is a wonderful idea.
+For kids who live in cities whose families can't often make the journey to an actual camping ground, or for families whose children just can't get enough of camping.
+They have so many different accessories to go with the campfire, too, but this is the centerpiece of the collection.
+All items are slightly rounded bulky plastic so you don't have to worry about any sharp edges with the youngest crowd.
+It is too noisy though.
+It would be great if in the future they made this pretend campfire to make crackling campfire noises rather than the irritating motor sound it makes.
+I think we adults were more concerned about this, as the kids didn't seem to care.
+Still - it'd be a nice feature to see added.
+I am really less than impressed with this toy.
+It is a plastic log with a very loud fan that blows a little piece of fabric around trying to look like a flame.
+Oh, did I mention it is loud?
+The other reviewers who compared it to a vacuum sound had it dead on.
+If this is on, we're yelling back and forth to be heard and it sounds nothing like a fire where you'd expect a crackling, comforting sound.
+This is one to skip.
+The campfire flame effect is created by a computer type case fan embedded in the log.
+The fan blows a flame shaped fabric causing it to flutter.
+As it flutters, the fabric reflects the orange yellow lighting, creating a nice effect with an ember margin.
+The problem was that the unit I received came with a noisy fan, which can probably be replaced with an ultraquiet case fan.
+Still, the noise detracted from the illusion.
+We all love the campfire fake log on fire.
+It is very cool.
+My kids 11 & 14 are so excited and we plan to set up a fake fire place for Christmas with it.
+Even though it is plastic; it looks very realistic.
+The only problem is that the fan that flicks the cloth fire is very loud.
+11 year old wants to turn it on all the time.
+For a 1 or 2 year old this might be a little fun, but anyone older..forget it.
+I thought that it would be a novel fun toy.
+It makes way too much noise and after the first 5 seconds it stops being amusing .... and becomes a real drag quickly.
+I would only recommend this as a gag gift.... or a payback gift for those that gave you something really chessy.
+this is a really neat product for kids as it gives them a chance to pretend to camp in the house.
+My boys really loved these and had so much fun playing with it and building tents and pretending to cook on the fire.
+It looks very real and looks like a campfire.
+The only problem is the fan blowing the flames is kind of irritating but other than that no real problems.
+Overall a fun idea with the sound being the only problem.
+It could have been alot better if they fixed that but still a fun toy.
+"This log is kind of a cool concept, especially paired with the other toys in the camping line that they have to offer.
+I think most imaginitive kids will get a kick out of the glowing ""fire"" and I appreciate that it is a cool to the touch fire.
+The only complaint I have is that the fan that makes the ""fire"" (a piece of fabric) flicker, is very loud.My son wanted to use it as a ""night light"" but he found it too loud to do so and coudn't sleep and told me he had to turn it off after about 15 minutes.But for regular play - I think this thing is a winner."
+"The day that we received this fake burning log our children (ages 3.5 and 5) played ""camp out"" using sheets and various pieces of furniture, with the log as a centerpiece.
+They had fun with the log for approximately one half hour, after which they lost all interest.The log comes equipped with a small internal fan that gives motion to the fake ""flames"".
+As far as the noise of the fan goes, it is not that bad (at least initially) - I can list at least a dozen toys that are louder and considerably more obnoxious.
+I will admit, however, that the noise becomes grating after a while - even the kids complained about it.Well there you have it.
+This is a fake burning log with a noisy fan that is intended to simulate the camping out experience while indoors.
+Unfortunately, our children did not find the log to be terribly interesting, and as such it is not worth much (maybe $1.99).
+Fortunately, we will have the real camping out experience to fall back on - I am sure the kids will like that more."
+My kids love to camp, so this is a hit.
+realistic camp fire, it is fun that it has a flame and embers just like a real camp fire.
+Great for at home during the winter when they want to pretend to camp.
+Goes well with other camp accessories.
+Great fun, kids enjoy it.
+This is fun for pretend play.
+My son has had fun with it.
+I think the flame is fairly realistic.
+It does make a blowing sound as other people mention in their reviews, but I didn't find it to be too distracting.
+"My kids (approx 5&3) really like this toy campfire.
+It's fun to imagine keeping warm or cooking over it.
+The button on the front runs it for a few seconds at a time and is really all I encourage my kids to use, because while the fan that flows the fabric ""flame"" around is bearable in short bursts, it's too monotonous for continuous use.
+If it was more of a hum rather than a whir then I could write it off as white noise, but it sounds like the dust busters of the 90's noisy, but bearable for short stints.
+The educational aspect is also up in there air because it is cool to the touch kids like to touch the ""flame"", so it brings up a point for dialog about fire safety, but is it really the best place to start with ""this fire is okay to touch"".
+Other than that I think my kids really enjoy it, it looks good and it seems well made.PROS:+ Looks great when glowing+ Sparks imagination+ Fire safety talking points+ Short duration button or continuous on/off switchCONS:- Too irritating of a noise with prolonged use, so using it as a night light is out.- May encourage kids to experiment with fire?"
+Some reviews criticize the toy because it isn't realistic.
+I say, so what?
+It is meant for young kids looking to have fun.
+My grandson loves it and enjoys turning it on before he goes to bed.
+This is an odd toy, but very charming.
+My 2.5 year old is entranced by it.
+It would make a nice prop at a Scouting ceremony or for a theatrical production.
+It doesn't have a lot of play value beyond being a prop.It consists of a fake plastic log, with a light insight, and a fan that blows a fabric flame.
+The effect is not realistic, but it gets the point across.
+The battery-operated fan is a little noisy and detracts form the effect slightly.
+"Like another reviewer, I had hoped maybe this toy could double as a nightlight.
+How lovely it would be to let your kids pretend they are sleeping in their ""campsite,"" right?
+That idea flew right out the window as soon as I picked up the package and pushed the ""try me"" button.
+WHIRRRRRRRRRRRRRRRZZZZZZZ.
+The fan used to make the ""flames"" ""flicker"" is INCREDIBLY LOUD.
+It sounds like a large paper shredder.
+Or a kitchen disposal.
+Or a dust buster.
+Considering my kids hate all of those sounds, I decided I wouldn't even give it to them, as it would only cause annoyance and angst all around.
+It's not interesting enough to give to them without the batteries, either, as the modeling is shoddy and it only roughly looks like a log.
+It could just as easily pass for grizzly scat with some crumpled orange paper sticking out the top.
+Ugly, loud, not that fun...fail."
+Okay I will be honest, I was excited about this toy more than I think my children were.
+As a former Girl Scout, I have fond memories of sitting by a camp fire roasting marshmallows.
+Sorry to digress...here comes this pretend campfire.
+So simple, yet there was nothing like this available for children to my knowledge.
+My sons have a play tent that they use in the house and I thought how great to have a camp fire to go along with it.
+Again, I think I am more excited about the possibilities of this toy and pretend play than my boys are currently.
+I could see using this toy outside alongside maybe a real adult camp fire.
+This campfire lights when you press a button and stays lit for about 30 seconds or so while a fan blows fabric that looks like flames.
+It doesn't stay on long, but it's easy to just hit the button again (which is part of the fun).
+So if you have a little guy or gal who is a little camper or you want to mix up your imaginative play a little bit, this is a wonderful addition.
+The price is reasonable and there are other accessories like a pretend marshmallow and stick, canteen and lantern you can add to make the experience complete.
+"I'm an earthy grandma who will do whatever it takes to spur kids' love of the outdoors and creative imagination, even if that means setting up a fake campfire.
+What child wouldn't like a little flaming log in their bedroom, backyard tent or playroom?
+It's very realistic (at least through a child's eye), and currently the ""hot"" toy at our house.
+The younger grandkids love it--for them, it's camping wherever and whenever.
+I like it because it's simple, safe and portable.
+Even though the log is a bit noisy, what toy isn't?
+I notice the Campfire Kids toy line is often markedly reduced--that might be a good time to complete the campfire experience."
+"This product makes me think of the old fake advertisement from Ren and Stimpy.
+""It's log, it's log, it's big-it's heavy-it's wood!""
+Who needs a fake log?
+We'', it turns out that I do.
+My kids love to act and put on impromptu plays with their friends.
+This piece can be adjusted so that it ""burns"" continuously or you can push a button for a short burst of ""flame"".
+The continuous setting is perfect as a stage prop.
+I have actually seen similar items (fake torches) used in our local community theater.
+The girls have also used it as a prop for their American Girl dolls, who like to toast mini marshmallows on toothpicks while gathered round the log, which to them is a large hunk of tree trunk.
+One minor issue is the rather noisy motor."
+Kids love camping.
+In fact, my boys love it when we set up a tent in their bedroom, sprawl out the sleeping bags, and turn on the nightlight lantern, so when I saw the Campfire Kids Campfire, I knew they'd love it.As soon as they saw the box, they were excited and couldn't wait to check it out.
+As a parent, it seems like such a simple toy--I mean it's a fake log with a fake fire, but my boys love it.
+They carry it from room to room and can't wait to turn the lights out, so they can watch the 'fire' light up.
+I think it's great that you can buy other accessories such as roasting sticks and a fish pan fry to go along with this, too.
+Kids will easily get lost in their imagination and feel as though they're really camping.The only negative thing I'd point out is that it has a rather loud humming sound when turned on.
+Parents might easily get annoyed with the sound after awhile, but as far as the fun factor goes for kids, it can't be beat!
+This product is a fun idea for the family to create camping like environment indoors.
+I looks  like rear campfire.
+Appear durable.
+There is one flaw however that it makes some noice, due to the fan that give the flames/cloth movement so it looks real.
+If that fan could be little quieter, than I would give this product 5 stars.
+"Lately my children have been putting up the indoor tent and playing at camping out.
+I thought this would be something cute for them to create a little bit of atmosphere.
+It's actually kinda cute to watch them site by their campfire ""roasting"" weenies.
+No, it does not give off heat.
+My only complaint about this campfire is it is quite loud.
+But then again I guess it would have to be for the blower to blow up the fabric to make it appear like flame.
+They have been playing with this for a few weeks now and it has handled their rough housing it.
+I have a 6 year old boy and a 10 year old girl.
+Would I recommend it?
+Sure, I would just warn it's not the quietest toy there is."
+"This is a nice-looking log with simulated glowing embers.
+I appreciate that there is a button beneath that can be set to allow one to either have the log ""burn"" continually, or not.
+To save on batteries (4 AAs) you can set toy to be activated in about 7 second increments when pressing the ""try me"" button.
+*I almost threw away the box before realizing (upon reading directions) that there is a perforated panel that needs to be popped out and placed beneath the log to further add to this simulated campfire.
+One could easily overlook this, since there is no delineation between the panel and the rest of the background insert other than the subtle perforation.
+The yellow in the panel compliments the yellow jagged fabric of the ""flame.""
+It would be nice if the panel was separate from box to avoid accidentally throwing this away.The downside:  No ""crackling"" flame sounds.
+The whirling fan used to blow ""flame"" is too loud for me.
+I wish it were replaced with a subtle crackling sound-even for a little while, like with the ""try me"" button.
+It is the SIGHT and SOUND of a campfire that makes it seem real in the absence of heat.
+Perhaps if the motor wasn't as loud it wouldn't be such an issue.To be fair, this is just one part of a complete set.
+On the box, there are photos of other accessories to complete the ""campfire"" experience (lantern, indoor tent, fish fry, roasting sticks and more).
+It seems that the lantern has outdoor sounds.
+Hopefully, this log will add to the ambiance rather than drown out those sounds.
+I could not be able to make this assessment without having the lantern as well.This log would make a nice prop or toy for imaginative play.
+I would make sure that a child is supervised with this, or at least old enough not to want to rip the fabric out or try to stick objects into the crevice.
+"This is one of those items that you really have to be a kid to enjoy, because as an adult you tend to focus on the negative aspects of the Campfire Kids Campfire, seeing the things that could be improved, while from the kid's point-of-view, it's a cool toy.My test subjects were my niece and nephew (ages 6 and 3) - two kids who have never seen either a real campfire or a fireplace fire before.
+They are both in the ""clubhouse"" phase right now, so this toy was perfect for them.
+As soon as the toy was out of the box, my niece ran to the pantry and got straws and mini-marshmallows so that we could ""toast"" them over the fire.
+They've currently got it set up with their Christmas decorations.
+It hasn't been buried away in the toy box, never to see the light of day again.As an adult, while thankfully I'm still able to see the fun aspect in the toy, I found that the sound of the fan was just too loud for me to successfully pretend that it was a real fire.
+The ""flame"" is a sheet of colored cloth that blown in the wind provided by the fan.
+Close-up, it looks exactly like what it is, but it you put it at a distance, and the room lighting is low, it really does sort of look like a flickering fire.
+I give the makers props for trying to get the glowing embers look on the top of the log; the log itself looks like plastic log.
+It does seem to be sturdy, though.Is this something that you can pop into your unused fireplace and pretend that you have a fire going?
+Only if you've got those glass doors that will block out the sound of the running fan.
+Is this a nice novelty toy for kids who have good imaginations and enjoy the outdoors?
+Yes.
+Don't expect more than what is being offered, and you won't be disappointed with it."
+My kids love the idea of camping, sleeping in a tent and having a campfire.
+Unfortunately I am not the type of parent who has ever spent a night in the wilderness and have never given this opportunity to them.
+I thought this fake campfire log could start some imaginative play in their play tents and sleeping bags.The log is extremely noisy, doesn't look very realistic, and only stays on for a very short amount of time.
+You're constantly having to turn it back on, but don't really want to because of the noise of the internal mechanism.
+After a couple of days, my kids have shoved it to a dark corner of the room and haven't played with it in weeks.
+Save your money, or better yet: try a real campfire.
+We were so excited to open this.
+While we thought it was funny the kids love it!They set up a blanket tent in their room and have played campout for three nights straight.Lanterns sleeping bags and a safe roaring fire make it very real like.Simply turn press the button and a real looking fire pops up only it is cool to the touch.The fan is on the bottom so you have to place it on a piece of cardboard that comes with the product so nothing gets sucked into it and breaks it but my kids are loving it and I like that they are playing together for three nights.
+That is a record.
+the only thing i would complain about this play fire log is that it has a rather noisy fan.
+other than that, the kids love to play with this item.
+they take it outside in the tree house and pretend they are having a camp fire.
+so far, the batteries have lasted since about christmas.
+i suppose that because it makes so much noise, you really can't forget to shut it off.
+it does stay cool to the touch and it works for its intended purpose.
+"This thing is NOISY.
+It reminds me a small square box space heater that I used MANY years ago.
+It it that kind of loud noise that can get annoying very quickly.
+It is such a cute idea, though.
+It's just a plastic log with a fabric ""flame"".
+And it would be great as a campfire nightlight if it weren't so noisy.
+If the sound of a loud space heater does not bother you, then this won't either.
+Different noises/level of noise affect people differently.
+So, the key to knowing if this is the toy for you is how much you like/dislike the sound of a loud fan."

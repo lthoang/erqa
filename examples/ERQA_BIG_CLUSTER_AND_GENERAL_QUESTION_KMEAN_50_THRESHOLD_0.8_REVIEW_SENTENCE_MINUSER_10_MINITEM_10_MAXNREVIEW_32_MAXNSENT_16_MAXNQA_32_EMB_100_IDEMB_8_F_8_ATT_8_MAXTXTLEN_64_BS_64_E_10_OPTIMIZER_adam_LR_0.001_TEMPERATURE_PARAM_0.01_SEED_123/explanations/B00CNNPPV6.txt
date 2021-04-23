@@ -1,0 +1,246 @@
+Top question(s):
+What age is this appropiate for?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+Its printed face contorts from plastic sticks being shoved into it by varying degrees.To play, you take turns rolling a die to determine how many &#34;clicks&#34; you push the sticks into the balloon.
+The top piece that holds the legs into places doesn't exactly snap into place so as the balloon bulges out in different directions, I notice they legs starting to come out of place at the top but it hasn't completely come apart or anything during a game.The directions do tell you to use a balloon pump (not included) to blow up the balloon and even though the kids just happened to have one, it was too small for these balloons.
+Can you use regular balloon?
+Also, if you're interested in game mechanics, this is not so much a game as an activity.
+It did not come with a balloon pump, which is a huge oversight for a game that suggests blowing up the balloons with a balloon pump.The game does build a little suspense and it helps if you add to that with younger kids -- a lot of &#34;Oh no!&#34; &#34;This just might be it!&#34; adds to the build-up.
+
+Question attention weights:
+0.3311710059642792,0.22990749776363373,0.19490498304367065,0.24401652812957764
+Sentence attention weights:
+0.004051757510751486,0.0049195075407624245,0.004897317383438349,0.004802156705409288,0.0050781057216227055,0.0028985270764678717,0.005113302730023861,0.004049374721944332,0.004933528136461973,0.005603399593383074,0.005510564893484116,0.004622024949640036,0.0027155636344105005,0.005794804077595472,0.004314141348004341,0.006106549873948097,0.004071451257914305,0.0043656793422997,0.0041482229717075825,0.0031434805132448673,0.004309902433305979,0.004742995835840702,0.005620745476335287,0.004356744699180126,0.0036506964825093746,0.005627661012113094,0.0048980750143527985,0.002954798983410001,0.0035734057892113924,0.005158327054232359,0.0042824456468224525,0.003251081332564354,0.004340249113738537,0.004542359616607428,0.003698280779644847,0.003226161003112793,0.004395646043121815,0.004798654932528734,0.004916192963719368,0.004395646043121815,0.003505169879645109,0.003977619577199221,0.004044446162879467,0.004393281415104866,0.00254820310510695,0.004336776677519083,0.004211715422570705,0.004542706999927759,0.0038446050602942705,0.004834931809455156,0.004735393449664116,0.004233082756400108,0.005703103728592396,0.006381400395184755,0.003454720601439476,0.007233447395265102,0.0038372857961803675,0.004248427227139473,0.004774605855345726,0.00385560211725533,0.00392345804721117,0.0035487583372741938,0.004836659412831068,0.0036827875301241875,0.004648439586162567,0.005925297737121582,0.0029603068251162767,0.0039225793443620205,0.004958669189363718,0.00463456567376852,0.004010616801679134,0.004474589601159096,0.003569535445421934,0.0030772951431572437,0.004309141077101231,0.0057175238616764545,0.004309141077101231,0.003545839339494705,0.0036553526297211647,0.00429318193346262,0.004333219490945339,0.0058039091527462006,0.004125984385609627,0.005899336189031601,0.004464838188141584,0.00546410633251071,0.005831925198435783,0.002636147430166602,0.004364162217825651,0.005537881515920162,0.005143198184669018,0.00457912078127265,0.004893914330750704,0.003960781265050173,0.003297068877145648,0.007116437423974276,0.0055382936261594296,0.004418202675879002,0.0035749981179833412,0.004534715786576271,0.005268608219921589,0.0036064679734408855,0.004517947323620319,0.00693605188280344,0.004815143998712301,0.003432897850871086,0.004242946859449148,0.004762639291584492,0.004403506871312857,0.004095165058970451,0.0050125098787248135,0.004112461116164923,0.004831297323107719,0.00401339353993535,0.0038041118532419205,0.004382913466542959,0.0052672140300273895,0.003051572712138295,0.004345852881669998,0.005803531967103481,0.004749505780637264,0.004301858134567738,0.004298211075365543,0.005517618730664253,0.005388668272644281,0.0042653921991586685,0.0044630141928792,0.004343660548329353,0.005417985375970602,0.0039876122027635574,0.00499224616214633,0.004062097519636154,0.004394743125885725,0.0036042777355760336,0.0044447435066103935,0.0044792708940804005,0.003970649559050798,0.004596582148224115,0.005472981836646795,0.007072595413774252,0.00473730219528079,0.0037219556979835033,0.004094517324119806,0.0031158989295363426,0.0031974399462342262,0.003595673944801092,0.005073705222457647,0.004576861392706633,0.004008954390883446,0.0036725387908518314,0.004311654716730118,0.004620865453034639,0.004302905406802893,0.004257265478372574,0.0028279784601181746,0.002719289856031537,0.004845891613513231,0.003449830459430814,0.007878364995121956,0.0039286850951612,0.005073640029877424,0.005320381838828325,0.004465453326702118,0.0031296999659389257,0.005751356482505798,0.004161098971962929,0.004572322126477957,0.0046516163274645805,0.004740444011986256,0.004138958174735308,0.0047508906573057175,0.004219551105052233,0.0050577265210449696,0.004234838765114546,0.004922827240079641,0.004560618195682764,0.00436447886750102,0.004249865189194679,0.0036780405789613724,0.006780693307518959,0.004314672667533159,0.005056517198681831,0.004337472841143608,0.005140428896993399,0.0035596408415585756,0.004388819448649883,0.005354818422347307,0.006632973439991474,0.005173449404537678,0.0046444968320429325,0.0037057087756693363,0.0056431288830935955,0.004253637511283159,0.0058062998577952385,0.003390468889847398,0.004992214031517506,0.004896169528365135,0.004539107903838158,0.003608474275097251,0.004241153132170439,0.004130993969738483,0.007488129194825888,0.003582478268072009,0.004253641702234745,0.0035680606961250305,0.004509573802351952,0.0040084063075482845,0.004224726930260658,0.004368287976831198,0.004828158300369978,0.0037025385536253452,0.004344682674854994,0.0042043523862957954,0.004366816487163305,0.005003507249057293,0.0044142259284853935,0.003390505677089095,0.004318284336477518,0.004293240141123533,0.0046264105476439,0.002296112012118101,0.005324453115463257,0.004682699218392372
+0.004033761098980904,0.0053712730295956135,0.004986022599041462,0.005096085835248232,0.004862334579229355,0.002998874057084322,0.004940242972224951,0.004712167661637068,0.004772194195538759,0.005038773640990257,0.005274993367493153,0.003611127147451043,0.0029143579304218292,0.005558009725064039,0.004198173526674509,0.005675251130014658,0.003994489088654518,0.004234850872308016,0.003929018042981625,0.002907074522227049,0.00437643937766552,0.004479523282498121,0.005380365066230297,0.004242841154336929,0.0036842701956629753,0.005891342647373676,0.004506228491663933,0.003194699063897133,0.0035574198700487614,0.004909411538392305,0.004146090243011713,0.0035474696196615696,0.004324781242758036,0.004288986325263977,0.003992045298218727,0.0034549757838249207,0.004268736578524113,0.0045423018746078014,0.00477351201698184,0.004268736578524113,0.003636306617408991,0.0045881085097789764,0.004696735646575689,0.00426613399758935,0.0027062157168984413,0.0042442744597792625,0.0042110043577849865,0.004459043964743614,0.003993372432887554,0.0046867625787854195,0.004796097986400127,0.004090688191354275,0.005725687835365534,0.006563408765941858,0.003823527367785573,0.007141517475247383,0.00416744826361537,0.00410190224647522,0.00465730344876647,0.00388885335996747,0.004092107526957989,0.0036753863096237183,0.004595426842570305,0.0035189474001526833,0.004482022952288389,0.006377317011356354,0.0030414690263569355,0.0038707121275365353,0.004911334719508886,0.004562348127365112,0.003923374693840742,0.004352118354290724,0.0040828632190823555,0.0032770694233477116,0.004167848266661167,0.005796049255877733,0.004167848266661167,0.0035659275017678738,0.004359572194516659,0.0039597139693796635,0.004224723670631647,0.005594927817583084,0.0038528097793459892,0.0055180867202579975,0.004861068446189165,0.005126200616359711,0.005668573081493378,0.002665458945557475,0.004203637130558491,0.005642299074679613,0.004832414444535971,0.004695780109614134,0.004765606485307217,0.0037715593352913857,0.0032787828240543604,0.007087862119078636,0.005084033124148846,0.004191170912235975,0.003974932711571455,0.004383968189358711,0.005126861855387688,0.003606158774346113,0.004441699478775263,0.006900676991790533,0.004248712677508593,0.00365552119910717,0.004677535966038704,0.004475611262023449,0.0044318269938230515,0.004176038783043623,0.005334510933607817,0.0042123314924538136,0.0051308865658938885,0.003969249315559864,0.003536037402227521,0.004626507870852947,0.0056504798121750355,0.0031597428023815155,0.00421467749401927,0.005533812567591667,0.004784042481333017,0.004187798127532005,0.004118337761610746,0.0052118259482085705,0.006200400646775961,0.0041322181932628155,0.004733327776193619,0.004277315456420183,0.005431509111076593,0.004443041048943996,0.004939809441566467,0.0037879091687500477,0.004435447044670582,0.003770597977563739,0.0048206523060798645,0.004186068195849657,0.0038955877535045147,0.004449851345270872,0.00541643425822258,0.007046190556138754,0.004546226002275944,0.0040528359822928905,0.004700005520135164,0.003186043817549944,0.003011040622368455,0.0035849844571202993,0.0048716310411691666,0.0049966913647949696,0.003866326529532671,0.003674593521282077,0.004610646981745958,0.00459720054641366,0.0041953641921281815,0.004434243775904179,0.0029124142602086067,0.002905595116317272,0.004608122631907463,0.0034679388627409935,0.0076711964793503284,0.003909520339220762,0.004846435971558094,0.005410352256149054,0.004336136393249035,0.003573716850951314,0.0063002146780490875,0.003759506158530712,0.004427730571478605,0.004536148626357317,0.004637759178876877,0.0042482297867536545,0.004723092075437307,0.004279909655451775,0.0052835578098893166,0.004725681152194738,0.005640973802655935,0.0044297571294009686,0.004422154277563095,0.004112761002033949,0.003646041499450803,0.007320098578929901,0.00423673028126359,0.00490998849272728,0.004196621011942625,0.005050037056207657,0.0035651703365147114,0.004603283014148474,0.005534896161407232,0.007058131042867899,0.004916802980005741,0.004295636899769306,0.003612050088122487,0.0056554824113845825,0.004110946319997311,0.005896552465856075,0.0035549383610486984,0.004630990792065859,0.0047073932364583015,0.004511618986725807,0.003897008253261447,0.004131685476750135,0.003966039977967739,0.007336486130952835,0.003725035348907113,0.00412440812215209,0.003366494784131646,0.004700911231338978,0.0038727696519345045,0.004149049520492554,0.0047356802970170975,0.004759584087878466,0.0036798224318772554,0.004223997704684734,0.004290337208658457,0.004246156197041273,0.004946540109813213,0.004215598572045565,0.0034973991569131613,0.004108692519366741,0.004172948654741049,0.004721581935882568,0.002567729214206338,0.0055450014770030975,0.0045446306467056274
+0.003762330859899521,0.006261325441300869,0.005415476392954588,0.005803854204714298,0.004865007475018501,0.0022576821502298117,0.005541951861232519,0.005249256733804941,0.004384975414723158,0.005020502954721451,0.005147684831172228,0.0030284228269010782,0.0021572322584688663,0.006234399043023586,0.004003521054983139,0.006152281071990728,0.0036379939410835505,0.003985787741839886,0.003482308704406023,0.0021596262231469154,0.004847557749599218,0.004185020457953215,0.005688024219125509,0.003985194955021143,0.003510555252432823,0.0072949789464473724,0.004250656347721815,0.002551706274971366,0.0029546066652983427,0.005067413207143545,0.0038407715037465096,0.00310466974042356,0.004251409787684679,0.003897896269336343,0.0036905640736222267,0.002986605279147625,0.004024946596473455,0.004332062788307667,0.004879902116954327,0.004024946596473455,0.003224947489798069,0.005039165262132883,0.004517390392720699,0.004019239917397499,0.002046910347416997,0.003952189814299345,0.004056468140333891,0.004347785841673613,0.004031118005514145,0.004683515056967735,0.005025409162044525,0.003759827231988311,0.006020430475473404,0.007933540269732475,0.0034708098974078894,0.008987529203295708,0.00413532042875886,0.003775461809709668,0.004647915717214346,0.00352631532587111,0.00400952436029911,0.003300971118733287,0.004407275002449751,0.002950678113847971,0.0043204049579799175,0.007566066458821297,0.0023296219296753407,0.00348591897636652,0.005077927373349667,0.004489355254918337,0.0034819678403437138,0.00405325461179018,0.004278908018022776,0.002699275966733694,0.003868628526106477,0.0067427754402160645,0.003868628526106477,0.0031683780252933502,0.004839328583329916,0.0033873419743031263,0.0039582522585988045,0.006276864558458328,0.003336495952680707,0.006038245279341936,0.00582354748621583,0.005305174738168716,0.005648024845868349,0.0018182976637035608,0.0038957223296165466,0.0063871461898088455,0.004640941508114338,0.004632778000086546,0.004766758531332016,0.0033514967653900385,0.0026204525493085384,0.008881852962076664,0.005400851834565401,0.0038425419479608536,0.004027610644698143,0.0041862353682518005,0.005339870695024729,0.003238159464672208,0.00421074079349637,0.008378516882658005,0.003795246360823512,0.00318453973159194,0.005183388013392687,0.004303403664380312,0.004285432863980532,0.004153142683207989,0.005676242522895336,0.004044084344059229,0.005399581044912338,0.003611169755458832,0.0028255924116820097,0.004699907265603542,0.006452645640820265,0.0025335722602903843,0.00393306277692318,0.0058109452947974205,0.004814641084522009,0.003878226736560464,0.0038056958001106977,0.005742116365581751,0.006943540647625923,0.0038261061999946833,0.0050803725607693195,0.004045514855533838,0.006260997615754604,0.0046187774278223515,0.0052472627721726894,0.003169845789670944,0.004334192723035812,0.003371630096808076,0.005354283377528191,0.003856676397845149,0.0034961244091391563,0.004364414140582085,0.005988472606986761,0.008861251175403595,0.004373630043119192,0.004156304523348808,0.005303746555000544,0.002632872434332967,0.0023689919617027044,0.0031505944207310677,0.004932251758873463,0.005211395677179098,0.0033521323930472136,0.003153859404847026,0.004978123586624861,0.004633229225873947,0.003919909242540598,0.004498615860939026,0.0022294840309768915,0.0022551051806658506,0.004641306586563587,0.003151920158416033,0.009662083350121975,0.0034824686590582132,0.0052201165817677975,0.00610443577170372,0.004089409485459328,0.002970379078760743,0.008464430458843708,0.003100029192864895,0.004221825394779444,0.00442908052355051,0.004623664543032646,0.0038393274880945683,0.004693095572292805,0.004077804274857044,0.005641703028231859,0.004872635006904602,0.006620187312364578,0.004260637331753969,0.004066162742674351,0.003794051706790924,0.0033595869317650795,0.00990845263004303,0.00399364810436964,0.0050557395443320274,0.003920527175068855,0.005215969868004322,0.0029759714379906654,0.004694085102528334,0.006087867543101311,0.009053593501448631,0.004867378622293472,0.0037898418959230185,0.0030417966190725565,0.006675989832729101,0.0038016890175640583,0.0065117101185023785,0.002973959781229496,0.004568813368678093,0.004626976326107979,0.0043673268519341946,0.003670006524771452,0.003834516042843461,0.0035391973797231913,0.010098382830619812,0.003589198226109147,0.003807412926107645,0.002679249970242381,0.00505584804341197,0.003369774902239442,0.0038807420060038567,0.0046267155557870865,0.0047164116986095905,0.0031694117933511734,0.003968135919421911,0.004062493797391653,0.004009993281215429,0.005084420554339886,0.003907889127731323,0.0028666502330452204,0.0038397815078496933,0.0038810798432677984,0.004956886172294617,0.0018865799065679312,0.005991756916046143,0.004432239104062319
+0.003944968339055777,0.0054684593342244625,0.005129009019583464,0.005119159817695618,0.004960509482771158,0.002656243508681655,0.005246452055871487,0.004541411995887756,0.004650566261261702,0.005443050526082516,0.005346500780433416,0.004015613347291946,0.002534935250878334,0.005775276571512222,0.004124189727008343,0.006233000196516514,0.003919624723494053,0.004207700490951538,0.0038535648491233587,0.002757321810349822,0.004856944549828768,0.004544171504676342,0.005641524214297533,0.004201110918074846,0.003767637303099036,0.0063687036745250225,0.00449715182185173,0.002816383494064212,0.0032981664407998323,0.005059936549514532,0.004090666305273771,0.0031872806139290333,0.00435052253305912,0.004249111749231815,0.003675793530419469,0.0032049159053713083,0.004237365908920765,0.0047337086871266365,0.004875642247498035,0.004237365908920765,0.003409881377592683,0.00462860194966197,0.004165790043771267,0.004233273211866617,0.0023015181068331003,0.004169910214841366,0.004191028885543346,0.004443965386599302,0.003962430637329817,0.004737756680697203,0.004852261859923601,0.004045536741614342,0.005523516796529293,0.006939473561942577,0.003441838314756751,0.007521749008446932,0.00404879916459322,0.004064563661813736,0.004859133157879114,0.0037356792017817497,0.003983421251177788,0.003490886650979519,0.004630690906196833,0.0033912542276084423,0.004491274710744619,0.006508623715490103,0.0026920309755951166,0.0037490357644855976,0.004947129637002945,0.004571084398776293,0.0038290522061288357,0.004305611830204725,0.0039006362203508615,0.002978494856506586,0.004127890337258577,0.006115959957242012,0.004127890337258577,0.003362952033057809,0.00419523986056447,0.0038914396427571774,0.004197929985821247,0.005936549045145512,0.003840738907456398,0.005957471206784248,0.005232795141637325,0.00525515154004097,0.0055757309310138226,0.002316172467544675,0.004162544384598732,0.005814684089273214,0.004905472043901682,0.0046763913705945015,0.004759334959089756,0.003699913388118148,0.003048176411539316,0.007898595184087753,0.005784897133708,0.004150769207626581,0.0038635660894215107,0.004379441030323505,0.005306771490722895,0.0034889825619757175,0.004454478155821562,0.007269348483532667,0.004372158087790012,0.0033240860793739557,0.0047295792028307915,0.0045487950555980206,0.0044405036605894566,0.004160595592111349,0.005373882595449686,0.004254098515957594,0.005119443871080875,0.0038567001465708017,0.0034553813748061657,0.004515289794653654,0.005824560299515724,0.0028457241132855415,0.004173702094703913,0.00572604313492775,0.004697115626186132,0.004118993878364563,0.004122294485569,0.0057855285704135895,0.005711482372134924,0.004084658343344927,0.004900909494608641,0.0041906521655619144,0.005645907949656248,0.004317814949899912,0.0050423890352249146,0.003721944522112608,0.0043168021366000175,0.003463475964963436,0.004722049459815025,0.004384466912597418,0.003792696399614215,0.004528483375906944,0.005772614385932684,0.007576087024062872,0.004602569155395031,0.003978406544774771,0.004618323873728514,0.0030248595867305994,0.0029111348558217287,0.003422635607421398,0.0049996390007436275,0.004750560503453016,0.0037030447274446487,0.003488765796646476,0.0046506039798259735,0.0045573231764137745,0.004139374941587448,0.004343761131167412,0.002667149994522333,0.0025588979478925467,0.0047999597154557705,0.003444867441430688,0.00833678524941206,0.003711059922352433,0.00511660473421216,0.00558267580345273,0.0042876205407083035,0.0032234196551144123,0.006740952841937542,0.003683841321617365,0.004400881472975016,0.0045370194129645824,0.004770917352288961,0.0040000914596021175,0.0046793329529464245,0.004123616963624954,0.00517507828772068,0.004744107369333506,0.005395394749939442,0.004425880499184132,0.0042197201400995255,0.004074491560459137,0.003604247234761715,0.00782841071486473,0.00419279420748353,0.005006246268749237,0.004170859698206186,0.005137292202562094,0.0033388868905603886,0.0045179761946201324,0.00560021074488759,0.007387793622910976,0.004938716068863869,0.004151034634560347,0.003508700290694833,0.006044815294444561,0.004073098301887512,0.00605281675234437,0.0032587756868451834,0.004874184262007475,0.004719333723187447,0.004567436873912811,0.0036902837455272675,0.004080471117049456,0.003890770487487316,0.008621986955404282,0.003685027128085494,0.00407352764159441,0.0031323940493166447,0.004757903050631285,0.0037223391700536013,0.004106785170733929,0.004489939659833908,0.004800617229193449,0.0034877897705882788,0.0041929734870791435,0.004134963732212782,0.0042252554558217525,0.004993484355509281,0.004211695399135351,0.003284804057329893,0.004117248579859734,0.00414314353838563,0.004822578746825457,0.002215321408584714,0.005706500262022018,0.004565443843603134
+Questions:
+What age is this appropiate for?
+do regular ballons work?
+Does anyone know what size replacement balloons does this game take?  The balloon packages show actual sizes, not small, medium ror large.  Thanks.
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+This was a delightful toy for the entire family during a recent game night.In fact, it was the adults who really got into it.
+While my niece who is 8-years-old and my nephew who is 5-years-old played it three times, the adults wanted to keep playing it but smartly chose to stop after the kids got bored.The only caveat to this game is that it is hard for an 8-year-old to set this up.
+In fact, my niece couldn't do it by herself.
+She tried it and it fell apart practically instantaneously.
+When the adults set it up, it remained upright and fully functional.
+i would advise on adult supervision for the set up.Also, this is definitely not for the kids who hate loud noises as the balloon will pop noisily.The game does not come with a pump.
+If you blow up the balloon manually, it's a lot harder to insert it into the stand.
+Make sure you keep a balloon pump (or a bike pump, etc.)
+handy prior to playing this game.This game is definitely a keeper for any game night, to get the adults and the kids invested in playtime.
+Kids love balloons.
+They love popping balloons.
+As a pastor I can testify to this fact because every time we have balloons at a children's event, the biggest thrill the kids get is popping them - when they aren't trying to throw them at each other.This game allows the kids to pop a balloon and it allows to do them in a way that won't send the balloon flying around the room.
+You put it in the holder which has poles sticking out of it.
+As the kids take turns, each one has to drive a pole a certain number of movements into the balloon.
+You never know when the balloon will pop, so the tension mounts with each turn.It comes with some cute balloons, but any balloon will fit.
+This is a perfect game when you have kids around - just remember to use &#34;balloon safety&#34; and dispose properly of popped balloons ...EDITED - I brought this over to my granddaughter's house to play on Christmas Eve - it actually scared her, even though she has often wanted to pop the balloons with the other kids.
+She is on the autistic spectrum so it could be just her - or it could be the faces.
+Don't know what it was, but I guess this won't be a game we play together with much.
+My kids were hooting and hollering and completely in love with the idea of playing this game.
+It was a true crowd pleaser during family game night, to the point where my kids asked to play it over and over again.
+Well, when you only get twelve balloons, that can be a problem.Conceptually, I like the idea of this game, and gameplay is tense and fun (no one wants to pop a balloon) and I have to admit that it excited my wife and I too (I don't think anyone wants to pop a balloon LESS than a parent).
+Still, I have to take a point down for the lack of balloons.
+Gameplay is truly limited thanks to that aspect.
+You have to restock.
+Pumping the balloon is a pain too, since the game does not come with a pump and the one that I had at the house was too small for the balloon (the nozzle was too small) and blowing it up without the pump is a bit of a pain because of the base.Still, the game is a lot of fun, and watching the balloon face contort with each click of the stick is hilarious.
+The game can be over too soon, especially if you have kids anxious to be the one to pop him (being the loser is so much fun with this game) and so before you know it you are out twelve balloons and trying to find a way to restock.I guess having so much fun to want to play it over and over isn't really a downside, right?
+I don't know what it is about a popping balloon, but even when you know it's coming, it makes you jump.
+My husband and kids put this together to play and I watched as they one by one pushed the sticks in with each roll of the dice.
+Each time a stick would be pushed in, I would expect it to pop.
+I didn't realize a balloon could hold up so well to various methods of medieval torture.
+And even though I was expecting the pop and knew it was coming, it made me jump every time.
+While everyone else would cheer, yell or laugh, I would need pried off the living room ceiling.
+The kids loved this, and so did my husband.
+A very simple yet entertaining group game.
+*Tip*I'd suggest putting pets in another room when everyone's playing the game, since the random balloon pops and everyone yelling and laughing at them could be a bit nerve-racking to them.
+My oldest son(5) recently started daily injections.
+As you would expect, he hates them.
+We try to do something fun after each of them, and this was used as one of his &#34;surprises&#34;.
+It did the trick and took his mind off that mean needle.This game is really fun!
+Not only did my children enjoy it, but I did, too.
+It does come with a few issues, though.First of all, as I put the thing together, the instructions say to never use your mouth to blow up the balloon.
+You must use a balloon pump.
+A balloon pump isn't included, so I chose to use my mouth to blow up the balloon, since I had excited children waiting to play.
+It went fine.
+I was able to blow up the balloon while it was in the frame without any problem.Secondly, we couldn't get the top clip piece to stay put.
+There's a clip that holds the 3 pieces of the frame together at the top.
+It kept coming lose no matter how tight I tried to get it.
+When I took the thing apart, I couldn't get one frame piece to come apart.
+So, 2 were so lose the whole thing kept coming apart, but one was so tight I had to put it in the box together, and therefore, couldn't close the lid.Third, one of the sticks was broke within minutes of playing the game.
+Thankfully, there are 4 extras included, so we can still play.
+Plus, the recommended age is 8 and up.
+The idea of this game is simple really.
+Blow a balloon, set it in the stand and taking turn you have to insert of stick and hope that the balloon won&#8217;t pop up.
+In a way the game will challenge you to defy the law of science.
+How can the balloon stay put with bursting?As much as I find this game original, I wonder what happens when there isn&#8217;t any more balloons to use in the box.
+Can you use regular balloon?
+And if not, where could you get a pack of extra balloons?Being a mom, I know how kids react differently to sudden noise.
+Some kids will laugh while others might start crying.
+A balloon popping can be unnerving for a young child.
+I am unsure how this game will be welcomed in family who will get it.
+Part of me like the challenge and somewhat like to be on the edge when playing a game.
+But the other side of me, it not enjoying the idea of having a balloon popping suddenly.Other families might enjoy this kind of game but I have mixed feelings about it.
+I suspect that you could use regular balloons when you have used all the ones included in the box.
+I find this game to be good for fearless kids and families.
+My daughter got this game (she is 12 years old) and we had a great time playing game.
+This is great family game for all ages - reminds me of Jenga.
+Each player takes a turn rolling the dice then  they push the in stick in that many clicks until the balloon pops.
+My daughter set up the game and we played it many time that first night.
+She is excited to use it next time she has a sleep over.
+The game is very easy to assemble and disassemble.
+The pieces are all plastic.
+Sturdy enough if you handle with care, but the sticks do seem like they would not be hard to break if misused.
+The instructions explicitly say you need a balloon pump to inflate the balloon, pump not included.
+I&#8217;m not sure how many people have a balloon pump lying around the house in arms reach.
+I do not.
+Despite the warning, I decided to blow the balloon up with my mouth.
+It was easy and worked fine.
+It may be harder for an 8 year old, the starting age for this game, but for an adult is should be no problem.
+I wouldn&#8217;t recommend children blowing it up manually, mainly because if you overinflate the balloon you can easily pop it.
+The instructions didn&#8217;t really indicate how much you are supposed to inflate the balloon, so I used my best judgment.
+You can kind of adjust the amount of time the game will last by how much you inflate the balloon.I admit, the first time we played the game was a little bit stressful.
+I&#8217;m a grown woman and I was nervous about the balloon popping!
+The balloon lasted a lot longer than it looked like it should.
+It was a lot of fun, but the game lasted less than five minutes.
+You can make it last longer by inflating the balloon less.The game says that you can get refill balloons from the web site, but you can&#8217;t order them directly, at least not that I was able to find.
+This Boom Boom Balloon game is a lot of fun for ages 8 and up.
+I was somewhat leery about a game that involved popping balloons but the noise and mess were far more manageable than expected.The game play is fairly straight forward, with players rolling dice to see how many clicks they must push the sticks into the frame that holds the balloon.
+Sooner or later the balloon will pop!You will quickly go through the 12 included balloons so you might want to get an extra pack right away.Recommended!CFH
+My kids were excited by this experience.
+For their age (4), it's suspenseful.12 balloons didn't seem like nearly enough.
+But we can get more balloons.
+This game is very poorly constructed.
+The red part snaps together but frequently the pieces slid apart from one another.
+Nine sticks are required but they include a &#34;bonus&#34; stick - you can guess why.
+Two broke within half an hour.
+Also, if you're interested in game mechanics, this is not so much a game as an activity.
+You roll the die and push the sticks in that many clicks (the die goes up to 3) and try not to pop the balloon.
+There's really not much to it - super simple.
+As you can imagine, it digressed after about 2 complete games into just playing with the balloons, or trying to pop it with the sticks.The other really silly thing is that you have to blow up the balloon while it's in the contraption and they say to use a pump, which they don't include.
+You can blow it up normally but it's pretty awkward.
+The one thing I did like is that you don't have to tie it in a knot because of this slot they have on the bottom.
+That was kind of cool.Overall I really can't recommend it, though I would imagine it would suit some audiences.
+This is one of those simple, yet very fun and exciting games that will set everyone&#8217;s teeth on edge, winners or losers.
+The whole idea is not to pop that balloon.
+Once you have the structure of the game set up and a balloon in the center, it&#8217;s time for the fun to start.
+You blow up a funny-faced balloon and tie in into the frame and then put the sticks into the frame.
+You insert them until you hear a sharp &#8220;click.&#8221;When it&#8217;s your turn you throw the die to see how many times you&#8217;ll have to hear that click.
+For example, if you throw a three, you&#8217;ll have to choose which sticks you want to push in and do it three times.
+Of course you&#8217;ll have to hear that click three times before it&#8217;s the next person&#8217;s turn.
+At first it&#8217;s not challenging, nor exciting, but once that balloon has been hit several times, it gets exciting.
+Who&#8217;s going to pop that balloon?
+No one wants to hear it pop.FEATURES:&#9658;  Boom Boom Balloon is the crazy game where each player tries to keep the balloon from popping!&#9658;  Roll the die and &#8220;click&#8221; a stick for each number rolled.&#9658;  Be careful!
+Too many clicks and the balloon will go BOOM!&#9658;  Boom Boom Balloon is made for 2 or more players ages 8+ and does not require batteries.&#9658;  Includes: 1 Balloon Frame, 12 Balloons, Die, 10 Sticks, 1 Instruction GuideOf course there&#8217;s that element of surprise when the balloon does pop, especially if it&#8217;s not expected.
+Everyone will flinch when it goes off.
+It&#8217;s a great party game for two or more players.
+The recommended age is 8+, but it&#8217;s so simple that with a bit of supervision younger players will enjoy playing.
+The only problem at this point in time is getting the replacement balloons.
+They are a thicker than average balloon and of course they have those funny faces.
+I love this game.
+It is so much fun for kids and adults.
+Easy to play you just roll the dice and push the stick in the balloon until it pops.
+Hurry and buy two everyone will want one.
+"We spent more time putting this game together than actually playing it.
+As another reviewer commented, after you do put it together it does not stay together... it does not ""snap"" in place so when you turn it over to put in another balloon it falls apart and you have to put it back together.
+Also game play is pretty simple and fast... the balloon pops within 2-3 turns and then you're on to the next balloon... it's not the balloon version of ""Jenga"" which is sort of what I expected... not a lot of suspense, just 3 rolls and you're boom boom done.Also a bit annoying that it requires a balloon pump yet does not include one.Issues aside, this isn't really a game, just a way to pop balloons quickly... and I'm guessing your kids can do that just fine without spending the money on this product.Sorry, can't recommend..."
+Most of the &#34;play&#34; time with this game comes from trying to reassemble it.
+It does not click together securely which is weird for a game that is based on pressure.
+Every time you put a new balloon in you have to rebuild the game.After the first couple balloons, the interest was gone.
+It quickly gets really easy to tell when the balloon will burst.
+This is a novel idea and I applaud the effort to try something that hasn't been done a million times.
+But the novelty wears off quickly and you are left with a balloon poking game.
+I am shaking my head at the makers of this &#34;game.&#34; Yes, I used quotes because these pieces of plastic and 12 balloons are not what I would consider a game.
+The construction is poor.
+Hard to blow up the balloon inside the balloon holder.
+The sticks are too sensitive and it is two easy to push them in, which leads to a pre-empted balloon pop.
+May I add that you only get 12 balloons with the cute faces on them, so after the kids have played it for 2-3 day...its over!
+This sounded like fun but quickly becomes a lot of work.
+Assembly was not easy although my 9 year-old eventually got it together.
+It comes with a few balloons but not enough to keep game play for months.
+It did not come with a balloon pump, which is a huge oversight for a game that suggests blowing up the balloons with a balloon pump.The game does build a little suspense and it helps if you add to that with younger kids -- a lot of &#34;Oh no!&#34; &#34;This just might be it!&#34; adds to the build-up.
+But I didn't think the game had enough long term appeal.
+It's an okay idea that lacks a little in execution.
+The game was pretty easy to put together and you can either blow the balloon up with a pump or by mouth.
+You just have to make sure you don't blow it up too much.To play, you just roll the dice, and stick the balloon that amount with one of the provided plastic sticks.
+It's fun to watch the balloon change shape and kids will be excited for it to pop, however, my family found that once you played it a few times, it lost its appeal.
+Boom Boom Balloon is a simple and fun game for kids ages eight through eleven.
+It is for two or more players and a game lasts about fifteen minutes.
+Each player takes a turn rolling the dice.
+For every number they roll, they must push in a stick that same number of clicks.
+The anticipation of wondering when the ballon will pop makes the kids full of anticipation and excitement.
+If the balloon pops on your turn then you are out.
+Twelve silly faced balloons come with the game but any regular balloons can be used.
+It is a simple but fun game.
+I took the Boom Boom Balloon game to a birthday party to see how the youngsters would like it.
+It certainly seems harmless enough.Unfortunately, it reminded one of the young ladies at the party of a halo brace that her brother had to wear for several months after breaking bones in his neck in an automobile accident.
+She started crying when the sticks were inserted and it took quite a while for her to settle down.It seems that it was a horrible accident and her brother had to spend several weeks in a hospital to recover and he still has scars from the screws that went into his skull as well as problems walking normally.
+Our kids enjoy this game, but I have a hard time looking at it as the poor balloon face is being stuck from so many angles.
+I never knew that a balloon could withstand so much punishment before popping.
+Its printed face contorts from plastic sticks being shoved into it by varying degrees.To play, you take turns rolling a die to determine how many &#34;clicks&#34; you push the sticks into the balloon.
+If the balloon pops on your turn, you lose.
+The rounds last longer for our kids since they wisely choose to spread their clicks evenly rather than focus solely on one area of the balloon.The game is very sturdy for us once assembled correctly.
+It locks into place so that my son can even turn it around to see how the balloon is being deformed.
+Though the game comes with 12 face-printed balloons, you can also use regular balloons and draw faces on them.
+I prefer using balloons without faces so as to not give the balloons personalities (although some kids may be amused by the element of torture).Also, despite instructions stating that you need a balloon pump, our teenage son can inflate it with his mouth (it's possible to blow from underneath once built or blow up the balloon first and build the structure around it).Though the game is recommended for 8 and up, I can see children slightly younger really enjoying this (as long as game is assembled by a teen or adult-it's not easy).
+I think that if your child is both delighted and fascinated by popping balloons than that would be a good age.
+However, if your child is frightened and cries from a balloon popping, then he/she may still be too young.
+This was a great game.
+It had everyone thinking about other ways to play the game as well.
+Our family had a blast taking turns.
+We did this till the balloons ran out.
+We we went to the dollar store and brought more the next day.
+Sometimes it pops getting started.
+But after awhile you will easily get the hang of it.
+The company also sells the replacement balloons for  five dollars.
+The kids  just drew our own faces on the balloons .
+Overall great fun for all ages.
+Little ones might be afraid of the the balloon popping.
+We played this a couple of nights ago and was so much fun.
+The little ones were able to join in and they thought it would be cool.
+It was fun watching their faces as they were afraid it was going to go off in their face at anytime.
+Fun family time
+Ha, this game is as much fun for adults as it is for kids.
+A great family game.
+Exciting, intense ... and just plain exciting.
+One of the best games I ever offered my grandchildren.
+It was hilarious to watch the adults jump in anxious for their turn.
+This game is a winner and would make a great holiday gift.
+Bravo, Boom Boom Balloon!
+When we first played this game, I thought it was odd that it only came with twelve balloons.
+You'd think that a game that centers around poking sticks into a balloon, until it pops, would include dozens of balloons.
+By the second time that we played the game, we realized that it is so cheaply made that the 12 balloons will probably outlast the sticks and frame.
+The sticks break easily and the frame is very flimsy.I'm not saying that I don't recommend this game.
+For the price, it is unique and fun.
+Just don't expect it to last for more than one or two game play sessions.
+I've played this game with my 12-year-old daughter and 10-year-old son.
+They'd been seeing the commercials on TV and thought it looked like a lot of fun.
+We did find it to be very fun and exciting and it's very suspenseful as well.
+It's funny watching their faces as they push the pins further into the balloon.
+When it's not their turn, they typically sit back and cover their eyes and/or ears.
+It sure cracks me up just watching them.I thought the assembly was very fast and easy.
+I didn't have any problems whatsoever.
+The top piece that holds the legs into places doesn't exactly snap into place so as the balloon bulges out in different directions, I notice they legs starting to come out of place at the top but it hasn't completely come apart or anything during a game.The directions do tell you to use a balloon pump (not included) to blow up the balloon and even though the kids just happened to have one, it was too small for these balloons.
+I ended up blowing the balloons up the good old fashion way with my mouth.
+It was just fine that way.
+Once I accidentally tied the balloon without thinking but you don't truly need to do that.
+You can just secure it at the bottom as indicated in the directions.
+Either way works just fine.My kids and I were truly amazed at how many pokes the balloons can actually take.
+We enjoy this game quite a bit and I would recommend it.
+Just know that it recommends using a balloon pump that it doesn't come with and know that there are only 12 balloons that come with the game.
+These balloons have cute faces on them but when they run out I'm sure a standard pack of balloons from the store will do just as well.
+My grandsons, ages 5 and 8, had a great time with this game.
+It's easy to put together and easy to play.
+Grandpa played with them too, as my son and daughter-in-law watched.
+Everyone got excited and were talking at the same time trying to tell them how to play and how to win.
+They soon learned, and the 5-year-old, who is very mechanically inclined, quickly took over and was telling everybody which way to put the sticks in and how to get them out.
+This game is supposed to be for children ages 8 and over, but it was easy for the 5-year-old to learn to play, and he played with it the longest and had the most fun.
+My super smart 8-year-old grandson got bored with it after a while and went off to do something else, but the five-year-old kept playing with grandpa.
+Overall a fun game that's easy to assemble, easy to play and provides excitement for the whole family.
+This is a cute toy.
+The kids really enjoy popping the balloon.
+The game recommends using a balloon pump but blowing them up works just fine.
+Also they only recommend their own balloons.
+It works just fine with good balloons, not the cheap ones because they break too easily.

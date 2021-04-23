@@ -1,0 +1,324 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+For example, in the section ""Your Digestive System,"" the child must trace a path from the mouth to the stomach (or other areas).
+Nice addition to our small LF Tag library.
+We have a wide variety of Tag products from books to maps to activity cards.
+Other systems, such as the lymphatic system and excretory system aren't mentioned at all.
+I was a little disappointed when I initially saw the two sided chart, the growth chart and the stickers.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.0031862633768469095,0.002548306481912732,0.0032286529894918203,0.002632847987115383,0.005171394906938076,0.0030802246183156967,0.0017635516123846173,0.002408902393653989,0.003335369750857353,0.0037322586867958307,0.00315442425198853,0.002028366317972541,0.002776172012090683,0.002216401742771268,0.0024005426093935966,0.004783547017723322,0.003382690716534853,0.0022101954091340303,0.0036258951295167208,0.003429391421377659,0.0036678395699709654,0.0029674966353923082,0.0032376237213611603,0.0028779683634638786,0.004028180614113808,0.002460258547216654,0.00331312557682395,0.002645035507157445,0.003788340138271451,0.0025524115189909935,0.003476350801065564,0.003123263129964471,0.003078712150454521,0.004366670735180378,0.0034407246857881546,0.0031017172150313854,0.002918357029557228,0.0029049923177808523,0.002060569589957595,0.004428975284099579,0.003183504566550255,0.004223104566335678,0.003559504635632038,0.0031512316782027483,0.0032900378573685884,0.003330293809995055,0.0022509132977575064,0.0028404495678842068,0.003344400320202112,0.0023001504596322775,0.0036070849746465683,0.003191904164850712,0.0025655648205429316,0.0032413259614259005,0.003094852901995182,0.003245443571358919,0.0034400783479213715,0.003173559671267867,0.0023656932171434164,0.0033624537754803896,0.0035289544612169266,0.0018736657220870256,0.0035281372256577015,0.0038874202873557806,0.003494669683277607,0.0034779226407408714,0.003794162068516016,0.0033291943836957216,0.0016741355648264289,0.0035886066034436226,0.003022470511496067,0.0021426209714263678,0.0033803191035985947,0.003223881358280778,0.003486167872324586,0.0032319428864866495,0.004563748370856047,0.00392775796353817,0.0031346450559794903,0.003717393847182393,0.003192259231582284,0.0025599447544664145,0.005587352439761162,0.003406091360375285,0.0034162532538175583,0.002914050128310919,0.002610002178698778,0.0020486097782850266,0.002147064544260502,0.0034531070850789547,0.003054421627894044,0.0035716742277145386,0.0023532186169177294,0.004302421119064093,0.0032770014367997646,0.003249283879995346,0.003157725092023611,0.0032038791105151176,0.0032504606060683727,0.004514322150498629,0.003279302967712283,0.0035198444966226816,0.0027447151951491833,0.0025733516085892916,0.0038869590498507023,0.003217802383005619,0.0038854521699249744,0.0032921545207500458,0.002897895872592926,0.005605609156191349,0.0033754841424524784,0.0024592457339167595,0.00438767159357667,0.0030295595061033964,0.004087419714778662,0.0032015505712479353,0.006643849890679121,0.003500071819871664,0.0025282136630266905,0.0033014356158673763,0.002900682855397463,0.0020779266487807035,0.0026194697711616755,0.0034468872472643852,0.0018343199044466019,0.00291597843170166,0.0020977994427084923,0.0022959262132644653,0.0030575194396078587,0.00317956879734993,0.0024941174779087305,0.0026193922385573387,0.0027777738869190216,0.00317956879734993,0.0024522808380424976,0.0036607543006539345,0.0031777331605553627,0.003291022963821888,0.002862272784113884,0.002883146982640028,0.0026052172761410475,0.0034137398470193148,0.005966841243207455,0.003544393228366971,0.0030055642127990723,0.0032996966037899256,0.0028856429271399975,0.004678858444094658,0.003647398669272661,0.003377512563019991,0.004365528468042612,0.002802805742248893,0.003274827031418681,0.002105971798300743,0.0017752550775185227,0.002734513720497489,0.004585804883390665,0.0029079646337777376,0.0037614605389535427,0.004127181135118008,0.0030908582266420126,0.0039415000937879086,0.0034258358646184206,0.003201066982001066,0.005098047666251659,0.0028711408376693726,0.003155175596475601,0.0029247531201690435,0.0028121776413172483,0.002917780540883541,0.003429907374083996,0.003215682227164507,0.003382874419912696,0.0019975195173174143,0.003450985299423337,0.003206029301509261,0.003223532112315297,0.003382099559530616,0.004356087185442448,0.0033585624769330025,0.003984870854765177,0.0032896085176616907,0.0029857391491532326,0.0020103149581700563,0.003146529197692871,0.0031970010604709387,0.003323423210531473,0.002865611109882593,0.002834167331457138,0.0023903793189674616,0.0035837520845234394,0.0031638892833143473,0.002743163611739874,0.004436549264937639,0.004665195941925049,0.0025362218730151653,0.003530720714479685,0.0024277400225400925,0.0033221507910639048,0.00401536887511611,0.003175925463438034,0.0031578310299664736,0.003212619572877884,0.0031728146132081747,0.003850312903523445,0.004278373904526234,0.003712547244504094,0.004949388559907675,0.0034873648546636105,0.003093789331614971,0.002597529673948884,0.004138818476349115,0.0028787595219910145,0.003807307919487357,0.0026237962301820517,0.003329080529510975,0.0041151936165988445,0.0019077054457738996,0.0061148847453296185,0.003779585240408778,0.0033040009438991547,0.002931231167167425,0.003688310505822301,0.003780610393732786,0.002997147385030985,0.00201378483325243,0.002477698726579547,0.0041625951416790485,0.0032166491728276014,0.0033857065718621016,0.003664531745016575,0.003762263571843505,0.003099602647125721,0.0028596692718565464,0.0026912980247288942,0.002380482852458954,0.002884028712287545,0.005116937216371298,0.002177467569708824,0.00408811355009675,0.0045958589762449265,0.0027886745519936085,0.005107077769935131,0.004305731039494276,0.004050279501825571,0.0034216931089758873,0.003058462170884013,0.0030928910709917545,0.003280900651589036,0.0026320400647819042,0.0025373981334269047,0.0030928910709917545,0.005368892103433609,0.0031685270369052887,0.003489268245175481,0.003098392626270652,0.0030373584013432264,0.0019467836245894432,0.0029331038240343332,0.003279848489910364,0.0033507870975881815,0.002237350447103381,0.004041147883981466,0.0027140590827912092,0.0030271364375948906,0.0026282325852662325,0.0037645406555384398,0.0038963062688708305,0.004313403274863958,0.003103791968896985,0.0017963959835469723,0.003297291463240981,0.0012884758180007339,0.0034066112712025642,0.002361755119636655,0.0033302882220596075,0.0032538380473852158,0.0033812278416007757,0.002589290961623192,0.0033632281702011824,0.003034630324691534,0.004401798360049725,0.003240773221477866,0.0037575906608253717,0.0032826284877955914,0.0030365469865500927,0.003526948392391205,0.002527871634811163,0.0026384873781353235,0.0027009625919163227,0.0032322444021701813,0.0037928272504359484,0.002609322313219309,0.002567688236013055,0.0036001838743686676,0.002392873167991638,0.004359825514256954,0.002191714709624648,0.0042497338727116585,0.0016025478253141046,0.004800747148692608,0.002539413282647729,0.0017130906926468015,0.00303509715013206,0.0034365952014923096,0.0033729616552591324,0.0038000871427357197,0.0024833448696881533
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+My 5 yr old loves this, that he can touch on something and hear what it's called.
+He has started talking about the human body and naming parts of his own body.
+He'll play with it instead of watching TV and that makes me happy.
+I'm going to have to start getting some other LeapFrog Tag Interactive Pks.
+He doesn't play with the books so much, so I was worried he wouldn't stay with this for any length of time, but this is different, I think because it's more interactive than the books.
+I'm going to try the map next.
+"First off, the Human Body Discovery Pack is pretty neat...it's not book form like the other Tag products, but an accordian style board with 9 views of inside and outside the body.
+Skeletal, muscular, digestive, respiratory, nervous system: these are four separate pages.
+One is a ""making healthy choices"" game board, 2 pages are an up-close anatomy view, one page on skin, and one on the body's ability's to do many things.
+Kids can play a game (two levels), repeat sections aloud,and the others are interactive generic pages.
+I like it that kids are asked questions.Age wise, this was perfect for my five year old.
+The pictures aren't too detailed, and not over simplified either.
+I'd like to think he could learn all the different names for bones, etc...but if not, at least he sees how complex his body is, and I've already used it to show him where his tummy-ache is coming from.It also comes with a cute fold out growth chart with health reminders.In all, the information is useful and age-appropriate.But here's the thing:  it's the TAG system itself that annoys me.
+When you have a TAG, you buy the device and you buy the books or games, but you aren't done.
+Instead of providing audio (the basis to which the entire program works) on CD, you have to install Leapfrog's setup on to your computer (which took quite awhile, even though I already had the LeapFrog Explorer).
+You have to connect via USB, follow the vague computer instructions and finally, slowly, download the audio to your computer and THEN download it to the TAG reader.
+It seems an extra hassle.
+I wouldn't mind it if it were on a CD, but it seems unreasonable to have to go online to get to the guts of it all, especially if you have a kid breathing down your neck eager to play.Additionally, while you can download the audio to your TAG, it can't hold every book/game you've purchased, so at times you have to get rid of audio files on TAG (they remain on your computer, though) to make room for new ones.
+That means keeping track of which games/books are ""in play"" and which aren't.I like the TAG, I've also purchased the Phonics set, the Solar System, etc (not on VINE, on my own) and my son does like them.
+Each time I do the downloads for audio though I get irritated.
+Perhaps because this isn't a ""cartridge"" game system...which ultimately is much easier to manage.However, my two cents is this: buy the Leapfrog Explorer or LeapPad.
+Yes, it costs more, but has more options.
+I am such a fan of Leap Frog products, which almost always manage to be educational AND fun.
+The Human Body Discovery Pack was no different.
+My 3 and 5 year old were very excited to spread out the fold-out sheet and start exploring.
+The fold-out is broken down into sections for each body system - skeletal, muscular, digestive, nervous and respiratory.
+Each section has neat facts that explain how your body works.
+The art is also child-friendly, with a child's body depicted for each system.
+As with other Tag books, you have the option of essentially a learning or story mode and a game mode.
+For each system you can touch on a part of the body, an organ or a function, and hear facts like 'this is a muscle that helps you chew' or 'these are phalanges, also called finger bones'.
+You can also press the game button, which leads you through quizzes on what you've learned.
+In the muscular system, for instance, you have about 30 seconds to answer as many questions as you can on what muscles do what function: 'find a muscle that helps you jump'.
+The last page of the fold-out also has a simple game called Making Healthy Choices.
+You start in the morning and lead your person through a map, making healthy choices throughout a day by answering yes and no questions until the person arrives back home.
+There are even some neat songs in here that my daughter has picked up about washing hands and brushing teeth.
+Again, Leap Frog has made it fun!
+Also included in the pack is a little growth chart for measuring height over time, and a set of stickers for each body system.Overall, I think this is another home run for Leap Frog.
+The pack is a great introduction to how the body works, aimed at children with fun songs, kids' voices doing a lot of the narration and neat facts that can start them thinking about what goes on inside your body.
+Our son already had good results with the LeapFrog Tag reading system, so we were interested to see how he'd respond to the Interactive Human Body Discovery pack, which serves as a fun, informative introduction to anatomy.It incorporates all the Tag bells and whistles that make learning an entertaining experience, including silly sound effects, quizzes and games.
+He also enjoyed learning about how those various organs and parts of the human body compared with those of different animals.But although the package says it's recommended for 4-8 years, our 7-year-old seemed a tad old for many of the features.
+It didn't take him long to get through everything and, once he did, there wasn't much left that would engage him further.
+To us, it would be more ideal for 4-6-year-olds.The discovery pack doesn't include the Tag reader, but it does contain some extras like a growth chart with interactive stickers and glow-in-the-dark bones.
+As with the other Tag learning systems, you need to download the audio onto your Tag Reader pen via an internet connection.
+My 4 year old likes to tell me that curly hair has oval follicles, this was the funniest thing she learned from the book, such a random thing for her to tell me but very cool!
+GREAT book.
+Unlike a typical book, this one is more of a hard cardboard board-book.
+It folds out to show the various body parts and of course works like you'd expect the Tag book to do.
+The problem (or not) depending on your viewpoint is that you kind of need some background as to what you're wanting to learn.
+There's really no story or integration of learning the body with some other topic.
+Therefore, if what you're expecting is simply some interactive pictures and you already have a plan of how to teach your child about the body, then this is a good add-on resource.
+However, I think most kids see Tag books as more of a story to be read, and that's not what this product is.
+Similar to the Tag maps (like the US states), your child either has to already have an innate interest in the subject in order to find value in this toy.
+Otherwise, the games, sounds, and activities aren't likely to hold their interest very long.
+My children played with it a couple times, then basically forgot about it.
+They liked the stickers and the fact that even those worked with the system, and the book is pretty durable.
+Overall, though, until they maybe start these lessons in school, it's unlikely it will be of much interest to them.
+I gave this Leap Frog system to my little girl for her birthday.
+She immediately took to it and started to have fun.
+That is something important when it comes to learning and the attention span of a child.
+It helps her learn words and how to read.
+The stories are clever!
+It also teaches on the human body in an interactive way.
+For example, when learning about the way we breath, it tells the child to go from the mouth to the lungs.
+Then it explains to go to the heart.
+From that point it takes a journey of how oxygen reaches the fingers and how the resulting carbon dioxide exits the body.
+I was impressed how well it put the process in the language a five year old could understand and enjoy.
+We are a Leap Frog loving family, and this Interactive Human Body Discovery Pack is a great educational tool while still being tons of fun.
+Of course, having the Tag pen is imperative to being able to use this toy.
+The age range is for 4-8.This set includes a growth chart with stickers and glow-in-the-dark bones and a foldout two-sided interactive book.As far as being durable, though the pictures are well done, the carboard will continually be weakened with extended use.As with most Leap Frog items, there are varying degrees of information so that kids can learn at their own level.
+Our kids enjoy playing the game (which can be played one or two player).
+The charts include the digestive, respiratory, muscular, skeletal and nervous symptoms.
+On the flip side, kids will learn about exercise, eating well, the parts of skin, and a chart labeling various organs.PROBLEM: My husband, who is a registered nurse, pointed out a flaw.
+On the front of the box, the heart is pictured on the incorrect side.On the chart that the kids play with, the heart is pictured on the correct side, but the lungs show that they each have three lobes.
+This is incorrect.
+The left lung should only have two lobes and the right lung has three lobes.Even with that incorrect picture, we still feel like this is a worthwhile toy.
+Our kids (ages 8 and 3) love to use it and enjoy telling me all the neat things they have learned.
+If you have a kid who is rough with his/her toys, I think you will find that the fold out chart will eventually crack.
+We really enjoy the LeapFrog Tag system.
+We had several books and the world map before we got this product, so my 4.5 year old daughter was familiar with how the Tag pen works.
+Even so, I was amazed at how naturally she navigated this Human Body Discovery Pack.
+I think it shows the continuity of the products and how they are designed.
+I did not read the description very well before ordering and so I was expecting it to be a book about the human body.
+I was a little disappointed when I initially saw the two sided chart, the growth chart and the stickers.
+But I have to say that this captivates my daughter as well as any of the Tag books.The set introduced (or reinforces for those who have already learned) basic facts about the human body including the organs, skeletal, digestive, respiratory, circulatory, and nervous systems.
+The method of learning is inviting and interactive because it includes lots of questions that a child can answer as they learn.My only complaint is that the Interactive growth chart is pretty flimsy, I wish they would have made it on a sturdier paper to prolong use.
+My boys have had theLeapFrog TAG Reading System - Greenfor a while and they have grown with the LeapFrog Tag books.
+For young readers the pen will read for them, then later on they can read the books themselves with occasional help from the pen if needed.
+Fun sounds make it interesting too.My oldest loves anything science or health related so I was tickled to get him the Human Body Discovery Pack.
+It works the same way that the other LeapFrog Tag books do with the pen but this is a chart on the human body.
+It's hardbacked like a book and unfolds.
+It covers the different body systems like the organs and nervous system.
+My oldest who is 7 loves it.
+It comes with stickers too and they work with the pen too.We have never had a bad experience with any of our LeapFrog products (and we have alot) and this is no exception.On a side note - you need high speed internet to work with the TAG pen because you need to download the audio for it.
+I know most people already have high speed but when we first got our TAG pen, we did not and could not get the audio to download over our dial-up.
+Just a FYI.
+"Overall this is a great product.
+Like most tag reader products it has multiple levels of activities and interactivity - including games, information and songs.
+It is an overview and nothing in depth, which I would expect from a product like this.
+My kids have played with it quite a lot and even fought over it.
+:)A few things I didn't like were:1.
+The format.
+I found the way it folded out awkward to handle for the 3 panel image (which was the focus).
+It makes more sense for maps, but the human body, not so much.
+I think I would have preferred a book format.
+At the same time, I think this will last longer.2.
+Some of the panels were weak compared to other panels.
+For example, the ""your amazing body"" panel and the ""muscular system"" panel overstate the obvious, while the skeletal system and digestive system go into substantially more detail.3.
+There was a definite overemphasis on the digestive system.
+The 3 panel ""inside your body"" image (which is the largest) focuses primarily on the digestive system, and so does the digestive system panel on the other side.
+Other systems, such as the lymphatic system and excretory system aren't mentioned at all.
+I know they can't do everything, but a little more variety would have been nice.Even with those drawbacks it's a solid product.
+"When I started playing with theLeapFrog Tag Reading Systemand the Interactive Human Body Discovery pack I was mesmerized.
+Mind you, I used to use Dolch cards with children when all else failed and worked heavily withHooked on Phonics, another product that Amazon sells and one I reviewed.
+Children are naturally inquisitive and want to learn, but when it becomes drudgery or ends in frustration or failure ... no thanks!LeapFrog is success at the end of small handheld Tag that encourages interactive learning.
+There are online tutorials that children can access with the aid of a parent, caretaker, or teacher, but what better way to learn than independently?
+Once you have the Tag, which by the way is a seamless software installation process, a bit of instruction and away we go on the way to learning.At the same time children will develop fine motor skills as they use the Tag.
+For example, in the section ""Your Digestive System,"" the child must trace a path from the mouth to the stomach (or other areas).
+Once there was a cheery correction, but the Tag is patient and ""waits"" for a successful conclusion in the digestive journey.Children are naturally curious about anatomy and physiology, but generally in more simplistic terms.
+Just as many want to their children the proper names for body parts, the Interactive Human Body Discovery Pack is an exciting journey into the body.
+There are even interactive stickers that come alive to ""talk"" to children.
+For example, an unusual sticker of the digestive system, depending on where the Tag is placed, says ""large intestine,"" or ""small intestine.
+""WHAT'S IN THE BOX:++  A ""jumbo"" 2-sided chart and game board++  An interactive growth chart (there are also stickers to use with this)++  Interactive sticker sheets and the ever-favorite glow-in-the dark type (bones)++  More than three hundred ""interactive responses"" and more than forty activitiesThe suggested age range in four to eight years, but can be quite variable depending on the child.
+The double-sided body chart is very sturdy.
+If you think about a board book, this chart is heavier and with a bit of care, should hold up for quite some time.
+If you'd like to protect the tag and the discovery pack I'd recommend picking up aLeapFrog Storage Caseto go along with it.
+This is a vibrant, exciting venture into the body that children will be excited about.
+Everyone will love it whether using in as a teaching tool in the homeschool or classroom setting or just for fun.
+"The LeapFrog Tag System is a fun gadget on its own, and the Human Body Discovery Pack adds to the educational value of the system.First of all, for clarity's sake, this pack does not include an actual ""book.""
+The description does not claim to contain a book, but the description blends over from this product to the overall Tag System and talks about books.
+This is not one.
+That's fine with me, but you need to know what you are buying here.What you are buying is a board, a few sheets of stickers, and a growth chart.
+All of these are printed with the Amato System to enable the Tag Pen you have to give you information about the human body.The anatomy information is kid-friendly.
+By this, there are parts about body organs and systems, but Leap Frog is not springing on parents the need to discuss body parts that you may not want to talk about yet.
+That's a good thing.
+It also uses the proper terms for intestinal parts and for bones, which helps kids think in those terms.The game included is fun for either one or two players, and the glow-in-the-dark skeleton is a good size: it won't be glowing long into the night and causing nightmares.The durability rating I gave is for these reasons: 1.)
+Overall, you need the Tag Pen.
+It's electronic and fairly tough, but kids are kids.
+2.)
+The double-sided board will wear out, but it's fairly tough.
+3.)
+The stickers and growth chart are going to be one-use items.
+That's fine, but that makes the bulk of this pack disposable rather than durable.In all, for an entry point into the human body and healthy habits, this makes a great purchase."
+We have a wide variety of Tag products from books to maps to activity cards.
+I've always appreciated how the interactive learning drew kids in and you never have to worry about inappropriate content.
+With this package you receive a double-sided fold-out board, a paper growth chart and some stickers.
+They all fit neatly into a Tag storage case unlike the maps and interact with your Tag reading system (not included).
+If you've never used Tag before, it's fairly user friendly although it can be time consuming to set up the account and then download the body pack information to the pen.
+The body pack information file size is rather large compared to most of the other books and activities; you may have to make room on your Tag pen if it's already loaded with books or cards.
+It's recommended for ages 4-7 and after playing with it, I think that's a fairly accurate age range.
+Slightly older kids will like it initially for the novelty, but most likely will let it gather dust after a few tries.
+Younger kids may be interested, but some of the concepts may be slightly too detailed.
+Overall, the board seems sturdy and the interactive stickers are a great touch.
+It's easy to use and it's great how it teaches basic body systems.
+The board game for 2 players was a bit hit or miss; you have to keep track of where you are on the board and whose turn it is.
+I think this is a nice, basic way to introduce anatomy and organ systems to children without being overwhelming.
+I should disclose that my kids have never liked the Tag line of toys, not the hardware toys themselves nor the many book titles I've bought them.
+I should also point out that to use this title with the Tag pen, as with all Tag titles, you have to download the audio file via the LeapFrog Connect program first, and this said program is very buggy and you'll need all the patience you can muster to get the title to work on the Tag hardware.
+You'll also need to sign up for a LeapFrog account and give away a few pieces of personal information.
+The audio file for this title is about 3MB.There are a few pieces of materials in this pack, including two sticker sheets.
+The educational content, like most Tag titles and other LeapFrog electronic titles (Leapster, Explorer, etc.
+), feels quite minimal.
+It almost seems to me that most of the 3MB of audio is spent on background music that sounds more like annoying noise effect.
+There's also very little interactivity beyond point-to-me-to-hear-what-I-am.
+The games, for example, are shallow and not fun at all.
+All this is NOT helped by the Tag's very poor-quality mono speaker.Suffice it to say that, no surprise to me, my kids played for about two minutes and lost interest.
+I had to play through it and endure the pain in order to write this review!
+My kids played with the pack a few times, and they seem to like it very much.
+They liked the growth chart in particular.
+It was fun to apply stickers with body parts to the chart, the only thing that the stickers had a white border around each body part, and thus take more space then allotted in the picture, so the stickers overlap and look messy, although my kids didn't mind.
+They also liked the games on the board, there were some easier ones for the younger one, and some were more advanced.
+The game does go in quite a few details about anatomy, so there is definitely room to grow.
+The board itself seems to be very thick and sturdy
+First of all, the TAG system is pretty cool!
+There are some drawbacks (having to download material from the web can be a little tedious and the pen only holds so much data so you have to pick and choose your titles judiciously).
+However, overall the system has been a favorite toy in my house.
+The TAG interactive human body discovery pack is full of fun and education (how often can you use those two words together?).
+My kids enjoy playing with it and are inadvertantly learning at the same time.
+I think this is a great pack and would recommend it to anyone with younger children.
+"My 4 year old loves anything medical or that has to do with the human body; I guess that makes sense as her mom is a nurse and her dad a nurse anesthetist.
+She had never seen or used a Leap Frog Tag before and found it so intuitive and entertaining that with about 2 minutes of tutorial she began to play and didn't put it down for almost two hours.
+She has used it for an extended period of time almost daily for the last week.
+I say all this to demonstrate that it is a fun toy.
+A toy could be the most educational thing around, but if the kids feel like it is work to use it, it won't work.
+The great thing about this is that she feels like she is playing a game while learning.Basically the LepFrog Tag Interactive Human Body Discovery Pack has a page devoted to each of the body's major systems (i.e.
+circulatory, respiratory, digestive, skeletal, muscular, etc...no reproductive).
+Each of these pages has a game or challenge so that your child can play and learn.
+For example, the digestive/gastrointestinal page has you track the path of food from mouth to anus.
+At each point the basic function of the organ is described.
+Then there is another challenge where the child is asked, ""Which organ removes water from the food?""
+The child then tags the Tag pen on the large intestine.
+Each page can also be used apart from the game setting by simply tapping on a body part, the tag reader replies with the name and function.
+She is quizzing herself over the bones of the body.
+It's hilarious to hear her say, ""Daddy I hit my patella"" or ""look, my metatarsals are in my feet.""
+I wish I knew these anatomy and physiology basics when I was 4!The pack is so well done that I can do nothing other than highly recommend it.
+This is a great addition to our Tag book library.
+It consists of a sturdy fold-out board (similar to a game board) with all sorts of activities that teach all about the human body, including all of the different systems.
+It has cute songs, a fun game to review what is learned, and a game about healthy choices.
+There is also included a cute interactive growth chart.My 5-year-old son loves this!
+He has been playing the game a lot and really enjoying it.
+After trying this out and loving it, I think we'd also love theLeapFrog Tag Solar System Adventure Packas well as the maps.
+Helps make learning fun, which I really appreciate for my children.
+Great product.
+My three and five year old boys both love occasionally reading their Tag books.
+They seem to go in spurts as far as how often they actually use them.
+This newest product from Leap Frog sounded neat.
+Unlike their books, this product is definitely more enjoyable for the 7-9 year old range.
+My young boys tried it out for about twenty minutes and then never picked it up again.
+I was curious as to why they didn't show more interest, so I played with it.
+This well made cardboard fold-out basically just spouts off definitions about the body and its inner workings.
+The game board that is one of the only purely fun things about this pack was basic at best.
+If you have an older child who is interested in the human body and how it works, they will love this.
+If you have a younger child that enjoys playing with their Tag, skip this one.
+Lot of fun and educational.
+Both my 4 and 6 year old enjoy this Leap Frog pack.
+Lots of good information presented at in a manner the kids can understand and spark some more interest about the human body.
+You get a bunch of stuff in the pack that keeps the kids interested.
+For 20 bucks it is a decent deal relative to other LF media.
+Since there are no cartoon/movie characters, you don't pay the premium for licensing.
+Nice addition to our small LF Tag library.
+This is a great extension for you tag reader.
+Especially for the older set, who already know how to read.
+Our TAG reader has long been abandoned since my oldest learned how to read very early.
+I think this is great for the precocious preschooler but most 4-5 year olds will need help with the reading.
+That said my 5 year old, played with this for hours.
+He enjoyed reading and investigating.
+He was able to read and do everything on his own (he is reading on a 5th+ grade level), I would expect most kids who can read late 1st grade could get through most.
+Content wise, it's K-2nd with a little higher if you add in some extension activities.
+I think it is a good value for the price and highly recommend.
+This is a really innovative way to engage a child in learning about the human body.
+This set is aimed at kids who are just about done with the tag reader series (aka kids who are independent readers) and not for the low end of the tag age range.The material is well presented and logical for the age group and my 4yr old can follow along independently or lead me through the activities.
+All the material is age appropriate.The set typical of the tag series with the download being available on the website and links to your tag account.
+Setup was easy and straight forward.
+The set is a bit large to be prepared to manage your memory on the Tag pen!
+Lots of information, kid friendly and great introduction to the human body!
+This is a great 5 piece set by LeapFrog for use with the Tag Reader Pen only.
+It comes with a 2 sided interactive chart and a game board.
+There are over 300 responses and 40+ activities in this set.
+The interactive growth chart and glow in the dark stickers are great add on's that come with the set.
+It does take about 3.5 MB on the reader, compared to most books 1-2MB but its well worth it.Its for ages 4-7, but my son is special needs, age 12 and he just loves it.
+He can't read, but Tag does it for him, and he is learning so much about the body and nutrition in doing so.
+He has a few favorite songs as well, what more can you want then great learning and fun together!We own many Tag books and accessories.
+We have a great library with tag and this is an excellent addition!
+I love the tag reading system in general but I found this pack to be very educational even more so than many other books.
+It covers not only the human anatomy (including skin, & nervous system) but goes over healthy habits such as exercise and proper eating in a fun way where kids can play but also learn.
+This was used by a 6 & 8 year old and they really enjoyed it and I felt good knowing they were learning as well.
+Highly recommend.
+"I gave this to my nearly 6 year old, and he hasn't been able to stop playing.
+He even had to bring it over to a playdate to show it off.
+I asked him how he liked it, and he said, ""Great!""
+There you go-- that's a 6 year old's code for ""5 stars.
+""We've been a huge fan of the Tag pen and books, and this one is no exception.
+Actually, it might be the best one that we own yet.
+I think that there's only one negative aspect to the Tag reading system, and that is that the Tag pen will not hold enough books.
+Keep that in mind if you're looking to get more Tag books.
+This book takes up a good chunk of the pen's memory storage, so if you already have a lot of Tag books loaded on your pen, you'll probably have to make some room.is it worth it?
+Definitely.
+It is a kid-friendly introduction to the body.
+With a press of the pen, the child can learn about various systems-- the skeletal, nervous, digestive, respiratory and muscular systems.
+There's a ""board game"" that quizzes the child on what they've learned with true/false (""yes"" or ""no"") answers.
+For example, the game will ask if the femur is part of the skeletal system, and if they get the correct answer, they move an extra space.
+This game can have one or two players, which is great because my son can play by himself or invite his younger sister, a friend, or me to join him.
+There are tons more that this Discovery Pack teaches-- my son has literally already spent hours playing with it, and I'm sure he has hours more before he'll even begin to get bored.
+While I often think of Tag as an educational toy for preschoolers, this Human Body Discovery Pack is good for children up to third grade.
+It contains one durable fold-out body chart, one growth chart, and interactive stickers that can be read with the Tag pen.I am impressed with the content of this pack.
+It explores every major system in the human body in more detail than I expected:- skeletal system: Identify all the major bones in the body.
+Do you know where the carpal is?- muscular system: Which muscles make you do what movements?- digestive system: Traces the path food makes through the digestive system.- respiratory and circulatory systems: Traces the route oxygen takes through your respiratory and circulatory systems when you breathe.- nervous system: Reviews the five senses.- skin and hairSome of this is pretty advanced for a preschooler, even at level one.
+The child must master level one to be able to play level two.My eight year-old daughter gives this activity pack five stars, because she says she learns a lot from it.
+My eleven year-old son also rates it five stars for its educational value.
+He says he knew a lot of the answers because he's older, but he didn't know all the bones in the body.My little girl wanted to make sure her big brother knows this is her toy and wasn't happy he played with it.
+When they fight over a toy, it means they like it.
+Having been introduced to the TAG system through Amazon Vine, I admit that I've become a huge fan and ended up buying many more for the kids to play with.
+They are great on road trips especially, but the kids really love to play with them even at home.
+So when I saw this educational human body one I was all over it!I was a little worried about it being a fold-up board as opposed to a book but I shouldn't have worried.
+LeapFrog has done a great job in quality and I don't foresee any issues with it falling apart on us, even with lots of little hands playing with them!
+We've had it for two months now of heavy use and it looks brand new!As far as content goes it's VERY well thought out and I even learned quite a bit from it.
+It not only teaches them, but it teaches them without them even realizing it.
+That's GREAT in my mind; no better way to learn than to have a hands on, fun experience, especially when it comes to science.
+Highly recommend!
+My daughter is 6 and my son is almost 4 and they just cant get enough of the tag interactive human body discovery pack.
+We just recently introduced our kids to the tag reading system and honestly I don't know why I waited so long.
+Books and discovery packs like this make the whole tag reading system priceless.My kids both love to learn and have similar physical 3D books called Uncover and they look at them all the time and this just goes above and beyond that.
+With so many phrases and activities it provides hours of learning and entertainment.This discovery pack also includes a board game, interactive growth chart and stickers plus you can add extra fun with glow in the dark bones.
+LeapFrog knows where its at, well done.
+I highly recommend this tag discovery pack trust me its worth it!
+My six year old pretty much abandoned his Tag reader and Tag books after he learned to read independently since he didn't need the Tag to read them for him anymore.
+This pack made his Tag reader brand new to him again.
+It's recommended for 6-8 year olds and is actually more fun if you know how to read.
+There are charts of the body systems and when you touch an organ it tells you what it is and what it does.
+There are stickers and a growth chart.
+His favorite thing was the board game.
+It is for one or two players and uses the Tag reader for everything, even the spinner.
+The only drawback is that you have to remember where you are on the game board since there are no game pieces.
+It's a fairly quick game though, probably about 10 minutes long - also good if you want to play a game with your kids but don't have a lot of time.Since I already have an online Leap Frog account and my son already had his Tag account set up, downloading this pack was quick and easy.
+If you are new to Leap Frog toys, I'm guessing the initial set-up of your account and the Tag would take 10-15 minutes.I'm so glad that Leap Frog decided to make Tag activities for older kids and that my son can keep having fun with his Tag reader!
+We are a Tag-loving household, with two Tag Jrs and three Tag reader pencils among the kids.
+While we enjoy many of the books and packs, this one is exceptionally well done.Since getting this, I've had conversations with my five-year-old daughter and three-year-old son about the nervous system, the circulatory system, and the muscular system, just to name a few.
+(Side note: I don't think the three-year-old would be as engaged in this if it weren't for his sister, so I wouldn't recommend it for kids that young.)
+I wouldn't have thought to delve as deep into anatomy for this age as this pack does, so I am thankful Leapfrog came out with it so that I can be discussing organs and bones and muscles with my kids at an early age, letting them learn about them on their own, and playing the review game with them to see how much is sinking in.
+I am a mom of four boys, ages 3 to 10, and we are big fans of the Tag learning system.
+This Human Body Discovery Pack is a fun addition to our library.
+The book itself isn't really a book, but more like a fold-out board book.
+It has six panels, firmly connected, and decorated both front and back.
+It gives a basic overview of the body systems and the hidden clues and catchy little songs make it fun for the kids to explore.I'd say my 3-year-old and 5-year-olds have enjoyed it the most because the body is still quite a mystery to them.
+My older boys have learned quite a bit in school already and were less impressed with the information presented.It's a fun system, but I will warn you that the picture makes it look like there is a lot more included than there really is.
+There are several sticker sheets that DO work with the tag pen, but my kids made short work of them, creating different monsters out of body parts, and then the stickers were never seen again.
+So I wouldn't say that was a very durable part of the package.
+However, I would absolutely recommend this for a road trip when they would have plenty of time to explore each and every thing.
+It would keep them busy for hours.

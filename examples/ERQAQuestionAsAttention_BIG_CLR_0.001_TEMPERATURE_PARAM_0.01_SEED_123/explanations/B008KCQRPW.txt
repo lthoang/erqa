@@ -1,0 +1,213 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Does it house mold?
+Top sentence(s):
+Soft grip and smooth edges are things all children can appreciate.
+It's very well made and it floats well too.
+Love the plane and the life lesson that came with it.
+The packaging is simple brown cardboard but it's practical.
+What a great idea!
+
+Question attention weights:
+0.09345431625843048,0.35400527715682983,0.5525404214859009
+Sentence attention weights:
+0.005160997621715069,0.004571293946355581,0.0044002230279147625,0.00577081274241209,0.005897322203963995,0.005514247342944145,0.005582740064710379,0.004649452865123749,0.0052422150038182735,0.00576793123036623,0.005215131677687168,0.005937236826866865,0.005766000133007765,0.004105956293642521,0.004397976212203503,0.004478203598409891,0.0057869297452270985,0.005423380993306637,0.005506750196218491,0.004595046862959862,0.004281409550458193,0.005064088851213455,0.004722082056105137,0.005828700959682465,0.005666058976203203,0.005759077612310648,0.006092694588005543,0.005569117143750191,0.005508778151124716,0.005960905458778143,0.0053782351315021515,0.00461063114926219,0.0050816708244383335,0.00409219553694129,0.005910894833505154,0.005470742005854845,0.004290046636015177,0.005839612800627947,0.006047995761036873,0.005965609103441238,0.004621042404323816,0.004929168615490198,0.005374744068831205,0.005177352111786604,0.00503009557723999,0.004167879465967417,0.006063873879611492,0.005944659002125263,0.005781203042715788,0.004696397576481104,0.006212746724486351,0.0037282679695636034,0.005456435959786177,0.004998895805329084,0.003641619347035885,0.004264372400939465,0.0037759291008114815,0.004565890412777662,0.004032508935779333,0.00405895384028554,0.005536389071494341,0.005662616807967424,0.005538105498999357,0.003713754238560796,0.00562620721757412,0.005825631786137819,0.005349654238671064,0.004286130890250206,0.004744603298604488,0.005136819090694189,0.005950090475380421,0.004687355365604162,0.006175201386213303,0.005313373636454344,0.005934873130172491,0.005137053318321705,0.004308595787733793,0.005845421925187111,0.004884056746959686,0.0059432415291666985,0.005962409544736147,0.005303425248712301,0.004557360894978046,0.004678849596530199,0.005777680315077305,0.004531748127192259,0.004816026426851749,0.006257991772145033,0.005617841612547636,0.005666079930961132,0.005816229619085789,0.006044914945960045,0.005549493711441755,0.006443560589104891,0.005998753011226654,0.005268691573292017,0.004537941422313452,0.00380905088968575,0.005734915845096111,0.006103467661887407,0.004450108390301466,0.005579376593232155,0.005693690851330757,0.005236252211034298,0.005603088531643152,0.005863280966877937,0.004820519592612982,0.005810719449073076,0.005322667770087719,0.005891066510230303,0.004469574429094791,0.006084469147026539,0.006067775189876556,0.004012664780020714,0.006011271849274635,0.004961723927408457,0.0051705664955079556,0.006072239950299263,0.005972726736217737,0.005682503804564476,0.0049521964974701405,0.004469670820981264,0.0038363405037671328,0.003415447659790516,0.0040114084258675575,0.0040437751449644566,0.004151966422796249,0.0036348269786685705,0.004081552382558584,0.004473733250051737,0.004720841534435749,0.004466752987354994,0.005686527583748102,0.005154157057404518,0.005101582035422325,0.004970839247107506,0.005717611405998468,0.005387406796216965,0.0054862922988832,0.003585950704291463,0.0052686529234051704,0.006170433014631271,0.006129911169409752,0.006038433872163296,0.0063026100397109985,0.003971632570028305,0.005752792116254568,0.004436481278389692,0.005749071948230267,0.00444825878366828,0.006364205852150917,0.005999852437525988,0.004942166619002819,0.005156550090759993,0.0043233162723481655,0.00489549757912755,0.004968622233718634,0.005658250767737627,0.0058215949684381485,0.006055767647922039,0.004431302193552256,0.004699476063251495,0.004701433703303337,0.005074851680546999,0.0034502737689763308,0.006201195530593395,0.0055750105530023575,0.004601167980581522,0.005172241013497114,0.005286947824060917,0.005925157573074102,0.004233290906995535,0.006618842016905546,0.004926703404635191,0.005854032468050718,0.005939214024692774,0.005261044949293137,0.004512621555477381,0.005602087825536728,0.005355900153517723,0.006153701338917017,0.005015925969928503,0.005181189626455307,0.006014733575284481,0.004918763414025307,0.006236137822270393,0.005751635879278183,0.0057276152074337006,0.004545596428215504,0.0058961412869393826,0.005360521841794252,0.005687959957867861
+0.004226492252200842,0.0038466358091682196,0.0036173344124108553,0.006212027743458748,0.006309750489890575,0.00587906688451767,0.00589372031390667,0.00438973493874073,0.005426482763141394,0.0061845919117331505,0.004722817335277796,0.0067527033388614655,0.006179247982800007,0.0030346447601914406,0.003561449469998479,0.003941736649721861,0.006377232261002064,0.0055341594852507114,0.005798602011054754,0.004338261671364307,0.00381689565256238,0.005060662981122732,0.0037903091870248318,0.006355450954288244,0.005610691849142313,0.0069235144183039665,0.006688321474939585,0.005611020140349865,0.005593748763203621,0.0064385454170405865,0.005390091333538294,0.0037924840580672026,0.004593735095113516,0.0027093261014670134,0.006403597537428141,0.005412222817540169,0.004431437235325575,0.006259291432797909,0.006772542372345924,0.007605742663145065,0.004247037228196859,0.004467207472771406,0.0054353452287614346,0.0055574835278093815,0.004575321450829506,0.0030825191643089056,0.006886605639010668,0.006307660136371851,0.005854406859725714,0.0038618582766503096,0.007018875330686569,0.002253464423120022,0.005474667530506849,0.005278024356812239,0.0024079701397567987,0.003782646730542183,0.002369860652834177,0.00450775446370244,0.002822965383529663,0.002680848352611065,0.006491761188954115,0.005876077804714441,0.005886116996407509,0.003360035130754113,0.005751921329647303,0.006337412167340517,0.005179541651159525,0.004160238429903984,0.00439603952690959,0.0047545903362333775,0.006603316403925419,0.0040665278211236,0.006606880575418472,0.005238476675003767,0.0062667131423950195,0.005192022304981947,0.00307804555632174,0.006283167749643326,0.005274565890431404,0.006568555720150471,0.00655293557792902,0.005365976132452488,0.0040710992179811,0.00377117982134223,0.006279382389038801,0.003392038634046912,0.004377535078674555,0.007157713640481234,0.006667997222393751,0.0054486473090946674,0.007366147357970476,0.006819357629865408,0.005459790118038654,0.007384008262306452,0.008075271733105183,0.005502778105437756,0.0034888898953795433,0.0027316175401210785,0.006458693649619818,0.006732953246682882,0.003409250406548381,0.0056040240451693535,0.006378521211445332,0.004994149319827557,0.0056626261211931705,0.00644453801214695,0.0066593908704817295,0.006190100684762001,0.005609459243714809,0.0063661388121545315,0.003768105059862137,0.007010482717305422,0.006853189785033464,0.0029501686803996563,0.006838029250502586,0.004510687664151192,0.0055207968689501286,0.006816217675805092,0.0070971231907606125,0.006541816052049398,0.004392637871205807,0.0031691172625869513,0.0027167934458702803,0.0022564788814634085,0.0031180409714579582,0.0028338178526610136,0.0031741177663207054,0.0022405365016311407,0.0034180774819105864,0.004023307468742132,0.004599947948008776,0.0038894163444638252,0.005461038090288639,0.005034466274082661,0.004632942844182253,0.004650035873055458,0.006087963469326496,0.005579393822699785,0.0055046407505869865,0.0021228347904980183,0.005243760067969561,0.007192475721240044,0.007105065044015646,0.0064722755923867226,0.00763128325343132,0.003010424552485347,0.005865221843123436,0.0034836595878005028,0.007058626040816307,0.0036496601533144712,0.007473468314856291,0.006761846598237753,0.004379905294626951,0.005222126841545105,0.003149244701489806,0.005459289066493511,0.0048280986957252026,0.006242457777261734,0.006326780188828707,0.0072760446928441525,0.003421638859435916,0.003917986992746592,0.004888184368610382,0.004304835572838783,0.0026764606591314077,0.0075080194510519505,0.006013691425323486,0.003845382947474718,0.005223042331635952,0.005603496450930834,0.006567076779901981,0.003002157434821129,0.0076769576407969,0.005201720166951418,0.006387221161276102,0.006607286632061005,0.006267235614359379,0.0034214628394693136,0.005829542875289917,0.0055083162151277065,0.006610811688005924,0.004149590618908405,0.004650872200727463,0.006652931682765484,0.004409492947161198,0.0076105836778879166,0.006024818867444992,0.006226864643394947,0.0035159543622285128,0.006531831342726946,0.0049300892278552055,0.006017420906573534
+0.004293814767152071,0.003757339669391513,0.0035324301570653915,0.006407558917999268,0.006369235459715128,0.0059557282365858555,0.006210558116436005,0.00406083045527339,0.005551893264055252,0.006374145392328501,0.004675793927162886,0.006954851560294628,0.006368458271026611,0.0027549967635422945,0.0034010745584964752,0.0038557101506739855,0.00649528531357646,0.005409343168139458,0.00582587206736207,0.004261309280991554,0.003540192963555455,0.005047182086855173,0.0033401590771973133,0.006580081302672625,0.005816537421196699,0.00711946003139019,0.006905317306518555,0.005799782928079367,0.0058915638364851475,0.0065978835336863995,0.005383318290114403,0.003469618735834956,0.0043564741499722,0.002651615533977747,0.006649404764175415,0.005494503304362297,0.004435929469764233,0.006386260502040386,0.007004857063293457,0.007535084616392851,0.003844328923150897,0.004045985173434019,0.005568215157836676,0.005477671045809984,0.0046094912104308605,0.0029507125727832317,0.007150833494961262,0.006549196783453226,0.005991435144096613,0.0035589926410466433,0.007234554272145033,0.002061959123238921,0.005610475316643715,0.005366828758269548,0.0023183785378932953,0.003723197616636753,0.002255451399832964,0.004203406628221273,0.002802938222885132,0.002265768824145198,0.006642328109592199,0.006077170372009277,0.006041009910404682,0.0031508326064795256,0.005733405705541372,0.00648336810991168,0.005149133503437042,0.003959843423217535,0.004381684586405754,0.004718428943306208,0.006841081194579601,0.003998414147645235,0.006823802832514048,0.005318698938935995,0.006292392965406179,0.004854667000472546,0.002994829323142767,0.006526484619826078,0.004995435010641813,0.006799270398914814,0.006744083482772112,0.005412015598267317,0.003968370147049427,0.0037156788166612387,0.006426407024264336,0.003236226737499237,0.004458683542907238,0.007450280245393515,0.007129194680601358,0.005645164754241705,0.007320445496588945,0.007070074789226055,0.005294996313750744,0.007535184267908335,0.007818528451025486,0.005477640312165022,0.003509677015244961,0.0026088545564562082,0.006550184451043606,0.0067524085752666,0.0029542972333729267,0.005564830731600523,0.006604343187063932,0.004860115237534046,0.005725827533751726,0.006654764525592327,0.005976265762001276,0.006362986285239458,0.005524107255041599,0.006650459952652454,0.0036556031554937363,0.007012117188423872,0.007136260624974966,0.0029318961314857006,0.007166815921664238,0.004556386265903711,0.00545566575601697,0.006951635703444481,0.007165152113884687,0.006704399827867746,0.004248079843819141,0.003094429848715663,0.0025195505004376173,0.0020428483840078115,0.003040414536371827,0.002707885578274727,0.002992238150909543,0.00203360035084188,0.0034337632823735476,0.0037676403298974037,0.004284237511456013,0.0037380538415163755,0.0055796680971980095,0.005195977166295052,0.004541587550193071,0.004276779945939779,0.0062455045990645885,0.0056409384123981,0.005475986748933792,0.0020277188159525394,0.005365431774407625,0.00706426752731204,0.0073840743862092495,0.006727118510752916,0.007861349731683731,0.0029107967857271433,0.006158929783850908,0.0030545485205948353,0.007141876500099897,0.003248142311349511,0.0077730040065944195,0.00701980572193861,0.0045105586759746075,0.005081981886178255,0.002945441287010908,0.005176052916795015,0.0047141131944954395,0.00638771615922451,0.006545011419802904,0.007496415171772242,0.003269390668720007,0.003535393625497818,0.004690770525485277,0.004275199491530657,0.002337090205401182,0.0076325926929712296,0.005924338474869728,0.0038369297981262207,0.00531481858342886,0.005789813585579395,0.006748569197952747,0.002941656159237027,0.007911525666713715,0.005016267765313387,0.006551915314048529,0.006834736559540033,0.005920863710343838,0.003312435932457447,0.006015942431986332,0.005751286167651415,0.006729671265929937,0.003915869630873203,0.004440869204699993,0.0068075149320065975,0.004324445966631174,0.007791590411216021,0.005782999563962221,0.006296626757830381,0.003356140572577715,0.006683707237243652,0.004909678362309933,0.006264215335249901
+Questions:
+Does the plane detach from the base, or is it one piece? Thank you!
+Does it house mold?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+"The best things about this plane are in the title of my review.
+It's all recycled plastic, it drains easily and washes (if you need it) easily, and it works in the tub.
+The idea of a draining bath toy is wonderful, considering how assorted rubber duckies get nasty quickly due to only having one small drainage hole.
+This is a great toy, but a little large (6"" high by about 8"" long) for really little ones.
+Great for toddlers, though.
+The propeller works, and the entire toy seems sturdy.
+I rate it five stars for all these reasons."
+There are so many things to love about this airplane.
+Lets start with the wonderful design, and a size that is perfect for a small child.Not to heavy yet very sturdy design.
+Love the colours.
+And...its made in the USA!!
+And from recycle plastic which makes it an environmentally wise toy as well.
+Not cheap plastic!
+Top plastic.And this sea plane is great at bath time, at the lake or back yard creek.
+Am going to be buying some other Green Toys for young friends this coming holiday season.
+Including a dump truck, fire truck, tug  boat.
+Nice thing is they have colours that any girl or boy would love.
+The Green Toys Seaplane is wonderful.
+My 2.5 year old grandson loves it.
+When he saw it, he immediately took it and made flying noises as he flew it around with his hand.
+He was very interested when I explained how it landed on water and how his grandfather had been on one and how you climb out onto the wing and then the pontoon.
+When I told him it could go in the water as well, he couldn't wait for bath time.
+He enjoyed landing it in the middle of his bubble bath and once rinsed, it dried overnight, ready for play the next day.
+Sturdy, colorful, just right size for little hands and safe!
+This toy was for my 3 year old son.
+He's very into airplanes so he was excited to get this one.
+Because there are no wheels and it's a seaplane he immediately wanted to bring it into the bath.
+I hesitated a bit because I was afraid that water might get inside and not come out, but I did give in.
+And so far it hasn't been an issue.
+I shake the water out each time and it seems to all come out just fine.
+There are lots of holes for drainage.
+And he can spend hours in the bath playing with it.
+But outside the bath he hasn't played with it much.
+I think because it doesn't have wheels he just has it in his head that he can only have it in the water.I LOVE that this is a green toy.
+I don't have to worry about harmful chemicals or anything poisonous.
+I also think it's pretty durable.
+He hasn't thrown it or anything and I'm sure some boys would since it's an airplane, but in the bath it's had some crash landings and there's no signs of anything breaking or wearing down.
+It's holding up well so far.
+It doesn't feel like anything fancy as far as the plastic goes, but I think it's stronger than it looks.I think it's a great toy for younger kids.
+I was considering getting something of the same brand for my nephews that are younger (1 & 2) because it's something I feel safe with them having.
+This is a good, solid toy that my son enjoys playing while he takes a bath.
+He always brings it with him now - together with a bucket of other toys.
+The beauty of this toy is that it is in one piece and feels well-made.
+I am sure that being made from 100% recycled material will make this toy attractive to some people, but I am actually indifferent on this area and cannot really notice any difference.
+Very nice to see a traditional type of a toy without any technical characteristics to it.
+I feel like tehre are so many toys these days with technology that it's rare to see a good-old plain toys like this.
+It's very sturdy and the quality seem very good.
+Plus it's made with recycled materils.
+"If you have read any of the reviews you already know what I said in the title.
+That is the whole idea of green toys, that they are solid and environmentally friendly.As per usual with Green Toys this is a basic product with no sounds, lights, or other techno enhancements.
+The propeller moves, the pontoons allow for flotation etc.
+It is extremely well made and has survived numerous ""crash landings"" on the side of the tub.I do wish that the cockpit was big enough to accommodate some sort of figurine, as that always seems to heighten the level of imaginative play my son engages in (the man is saving someone or something).
+I think a toy that allowed for that sort of interaction would probably keep his interest more and move this from a ""sometimes plays with"" toy to an ""often plays with"" toy.
+Something to keep in mind if your child is similar.One additional note, the toy is on the large side for bath play and takes quite a while to dry completely as water seeps into the fuselage when it is submerged."
+"This is our family's fourth Green Toys product - we also have the schoolbusGreen Toys School Busand the tow truck/race car comboGreen Toys Flatbed Truck and Race Car.
+I find it to be the same high quality as the others - bright colors,  no small or easily removable parts, not easy to damage or damaging to other objects - but my 8 month old son does not like it quite as much.
+I suspect this is because unlike the others,  the sea plane lacks wheels and therefore does not slide as well.
+However,  this is not a problem for the toy, as it would be fine for a slightly older child who is able to walk (and therefore make the plane ""fly"").
+I think it would also be a good pool or bath toy for a large bath tub - it says it floats but we have not tried it.
+The propellers spin,  but do not prevent a safety hazard and as with all Green Toys, I like that it is made from recycled and BPA free materials so it is safe when parts are in my sons mouth.
+This also has good educational potential for an older child."
+I liked the concept of going green and buying such toys.
+In fact, the packaging was by far one of the best features as well.
+It was simple to open and remove the toy, unlike many other toys where you have what seems like 50+ twisties or plastic bindings you need to remove.The toy was built solidly, as I can contest since my twin toddlers kept throwing it on the ground and it hasn't broken yet.The toy can also be played in the water, but it's not something I would recommend as the landing platform on the plane can hold a lot of water and eventually you'll get mold if you don't dry it out appropriately.Overall, a very nicely constructed & packaged product.
+If you are looking for a plastic seaplane, here you go.
+It is constructed of fairly solid plastic which will stand up to normal play.
+The propeller rotates.
+The plane floats in water.
+Drainage holes allow you to drain out water when necessary.
+The cockpit isn't roomy enough for a pilot figurine.
+There is really nothing more to say.Bottom line: Get it if you want a seaplane.
+We love Green toys!
+This is our fourth Green Toy and we love them all!
+This toy is sturdy, bright, durable, American made and made with recyclable materials!
+We especially enjoyed the fact that this one float, so it can be a fun addition to bathtime!
+Green Toys are always great  and the Sea Plane is no exception
+If you are willing to pay more money for a durable toy which is pollutant free, made in the USA, and made mostly of recycle material...then this is your toy.
+It is simple, large, sturdy, and catches the eyes of a child.
+They seem to enjoy playing with it, despite the fact that it basically is just a plane that floats and has a propeller you can spin with your finger.
+I guess sometimes, simple is the best.
+Still strikes me as a bit pricey for what it is.
+Green toys vehicles are substantial and do not break easily.
+The plastic is thick and can withstand a lot of abuse.
+This plan is fun to use in the tub but it is quite large and fills the tub enough that you can't really fly it anywhere.
+It would be a bit better in a pool or lake I would imagine.
+The boat really does float, but you can teach the kids about how the bouys fill with water and then the boat plane sinks.
+Overall this is a fun toy that has gotten a fair amount of playtime in our house.
+I am a teacher.
+I have my class recycle all plastic from their lunch.
+We take out the schools paper recycling every week but I knew I wasn't really getting through to them why we did this.
+Then I got this wonderful plane.
+It is well made.
+It floats it has realistic features and I can tell them it came for the plastic they have worked so hard to recycle.
+Here is something they can touch and play with and know it wouldn't be here without their help.
+Love the plane and the life lesson that came with it.
+I am looking for more green toys for the classroom
+I had previously tried the Green Toy truck with a racecar on its bed with a one-year-old, and it was a hit.
+This seaplane has the same chunky styling with just enough movement to keep things interesting for the baby.
+He was especially charmed to find it in his bathtub!So, in addition to all that no-harm-to-the-environment manufacturing, it is also a fun toy.
+I expect it to remain a favorite for years as his imagination kicks in!
+I got a green toy bus a few months ago and just like that toy this one is satisfying even though it is simple with no bells or whistles.
+My son is four and still loves this toys, and this plane he really loves.
+It goes in the tub with him and he loves to float it and play.
+I buy him so many toys many of which are complicated or have many pieces and as it turns out these simple toys he loves as  much.
+I also love that they are green.
+This is a terrific toy, well made and simple to play with.
+My daughter took it to the park and in the bathtub and was entertaining to both my 1 yr old granddaughter and 3 yr old grandson.
+So, very versatile and easy to take anywhere and therefore provide portable fun for a child.
+This plane is a hit.
+Both my 14 month old and 6 year old love it.
+It's a great bath and beach toy.
+Simple, safe fun that allows them to use their imagination!
+I love that it is eco-friendly and safe.
+We love wooden toys but they are not practical for outside or water play.
+We will be buying more as gifts and more green toys for sure.
+The plane is larger than I expected.
+It dries well we highly recommend.
+"The first thing I noticed about this toy is that it is dishwasher safe....strange, but there is was, right on the package.
+As I read package, I also noticed that it is safe for use with food.
+I soon realized that this is standard for all ""Green Toys"" packaging, as they also make many other toys, including play dishes.
+The box was easy to open, and the plane was easy to remove, as there were no plastic ties etc.
+It reminded me of Amazon's ""frustration free packaging"" which I have taken advantage of in the past.
+As for the material the plane is made from, it is a hard plastic, and even after taking several crash landings onto our hardwood floors, it has not cracked or chipped.The toy itself if not huge, but it is a good size for little hands to play with, and my 20 month old twins were immediately intrigued.
+For the first few days they were content to push it around on the floor (note- there are no wheels) and make revving sounds.
+After a few days we decided to try it out in the bath, which had mixed results.
+Yes, the plane did float as advertised, but only until the pontoons filled up with water, then it promptly sank to the bottom of the tub.
+As evident in the picture, the pontoons have large drainage holes, which is great for draining water out of the plane, but it also allows water into the pontoons.
+With two 20 month olds in the bath, the whole tub is like a hurricane, so the sea plane didn't stand a chance.
+I turned it upside down in the empty tub to drain, and by the next morning it was totally dry, and ready to go back to the living room for ""dry land"" play.Overall, I was happy to find a good quality, basic toy to encourage imagination in my kids.
+It bothers me that most toys now have some sort of ""bells and whistles"" to attract kids, so I was very happy to find an ""old fashioned"" toy that appeals to my babies and has offered (so far) hours of fun play."
+"This airplane however doesn't do too much.
+Our two year old is happy to use it in the tub, although it is a bit bigger than most tub toys, it does float well.
+In summer, it may do better in a splashing pool.
+The only moving part is the propeller.
+The rest of it is hard plastic and colorful.
+He plays with it on the floor too, but he has to conjure up his own version of the sounds a plane might make, as it doesn't do any of that.
+An imaginative child will enjoy it, but I think our boy will be bored before long.
+He prefers more interaction from a toy, and this is a bit pricey at $20.00 for something that doesn't really do anything but float.This is our third purchase of green-toy products.
+We like the idea of recycling and environment-friendly toys.
+Our girls have the dish set which we all really like a lot, as it is so sturdy and colorful, and you can actually pour and drink from the cups, but that's another product, another review.On the plus side, this little airplane is a ""green-toy"" and durable.
+It will last and not end up in the trash like many broken toys."
+"What could be more fun than a seaplane in a bathtub?
+Not much, apparently!
+This one is a huge hit and it goes very well with our Little People, or so my kids think!
+It's very well made and it floats well too.
+The blade on the front actually turns around and there has been no end of plane noises in the house lately, both in and out of the tub.
+I would definitely recommend this for the toddler to 6 year old boy range.
+It's original and different and you are also supporting the environment by buying a plastic toy.
+Yup, you heard me right.
+Although I didn't get this toy for it's ""green"" status, I can also appreciate that it's made out of recycled plastics.
+What a great idea!
+5 stars!"
+I got the Green Toys Seaplane as a bath toy for my son.
+It's very durable and floats even when pontoons fill with water.
+This toy is perfect for the bath because of its simple construction and large size (9 x 9 x 5 inches) make it easy to find even in thick bubbles.
+My son enjoys playing with the seaplane even out of the bath.
+It's amazing to watch him play with this battery less and noiseless plane and use his imagination.
+"Like all my toy reviews, it all comes down to whether the kids like it.
+Well, my kids love it.
+Age 3, 5 and 6.
+Boys and girls.The propeller is wonderfully realistic - shaped like a true propeller so that it spins when blown on and when pushed through the water.
+My kids were the ones to point this out to me, and it really adds to their enjoyment.Unlike a lot bath toys it doesn't hold the water inside after you get out of the bath.
+It has big drainage holes, and tipping it upside down for a few seconds is all it takes to clean it out.If you read the dimensions you'll see it's on the large side for a bath toy: 9"" x 9"" x 5"".
+It helps that we have a six foot bath, but you might not want this if you have a small tub.
+On the other hand, they like playing with it outside the tub, too, and I know we will be taking it to the river and the municipal pool come summertime.I gave it five stars on ""educational value"" because it is made in the USA from 100% consumer recycled plastics.
+That makes playing with it a great ""teachable moment"" for environmental awareness."
+My 4 month old daughter is too young to know what a seaplane is, but this is a wonderful toy for her now too.
+It has a soft almost suede-like surface that is easy to grasp even when wet.
+The edges are all smooth and rounded.
+It floats but it also can submerge and bob around in the water.
+She really likes it now, and I like it too and know that she'll be able to play with this for years.
+It may nto be meant for babies as young as she is, but it works because it's such a well made toy and doesn't cut any corners.
+Soft grip and smooth edges are things all children can appreciate.
+This simple yet fun airplane can go in the dishwasher, and the kids have been more excited about it than I expected.
+The product picture is accurate in color and detail.
+The kids (and I!)
+think it's cool that it's made from recycled milk jugs.I know I've already mentioned this, but it's huge to me that it can do in the dishwasher.
+So many bath and water toys get funky over time, so I'm thankful for ease in washing this one.
+Nicely designed and very colorful seaplane.
+It has one moving part - the propeller and it has an open cockpit your child can place a small pilot like a LEGO character.
+It floats well so is good for playtime in the tub.
+From propeller to fin it is nine inches, the floaters are nine inches and the wingspan is nine inches.
+As for the price I would guess you are probably paying twice as much as unrecycled plastic.
+Wouldn't you think it should be half the price since the oil has already been turned into plastic?
+One must pay to be green I guess.Overall it's a nice toy.
+The packaging is simple brown cardboard but it's practical.
+My guess is any small child will enjoy this plane.
+My three year old loves it.
+This is a great little seaplane that is made from 100& collected and recycled plastics.
+Definitely handy for teaching your kids about ecological ideas and also for regular play.
+The seaplane floats in water and is perfect for bath time as a result.
+There's not much more to say but this is an adorable toy that I was more than happy to hand over to my two kids, who loved it instantly.

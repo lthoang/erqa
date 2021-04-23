@@ -1,0 +1,104 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Hello, come in their original packaging?
+Top sentence(s):
+A remote control vehicle for a toddler?
+"My kids were thrilled when they first saw this.
+The steering wheel has just two buttons for straight forward and spin.
+It took a bit of explanation to get my son to figure out how to use the remote, as he tended to just push the forward button and get frustrated when the truck would run into an obstacle.
+The remote is very simple and perfect for little hands to manuever.
+
+Question attention weights:
+0.10737521946430206,0.25393885374069214,0.2771320044994354,0.36155393719673157
+Sentence attention weights:
+0.014700903557240963,0.0070857033133506775,0.01474764384329319,0.015790317207574844,0.009896877221763134,0.010202721692621708,0.013253622688353062,0.009704535827040672,0.016008686274290085,0.01515521202236414,0.009397190064191818,0.012186968699097633,0.012425933964550495,0.008927351795136929,0.010221374221146107,0.011436402797698975,0.008915578946471214,0.008539104834198952,0.014363405294716358,0.011646008118987083,0.008530369959771633,0.014642717316746712,0.01574871502816677,0.012799625284969807,0.015524771064519882,0.009161876514554024,0.021098904311656952,0.01516612246632576,0.01261806022375822,0.01328952331095934,0.015724074095487595,0.015265275724232197,0.013108963146805763,0.009865839965641499,0.013317838311195374,0.009922769851982594,0.014023196883499622,0.016482774168252945,0.014283720403909683,0.010743031278252602,0.011899245902895927,0.015626210719347,0.015486570075154305,0.008999596349895,0.011096451431512833,0.010964508168399334,0.015159206464886665,0.009033583104610443,0.015185514464974403,0.01720212772488594,0.005945492070168257,0.007239579223096371,0.008542725816369057,0.010210834443569183,0.014917412772774696,0.013185868971049786,0.011722925119102001,0.013811877928674221,0.013053255155682564,0.015694068744778633,0.010612758807837963,0.008317064493894577,0.015190853737294674,0.009886732324957848,0.011095946654677391,0.012162419967353344,0.015566384419798851,0.012048677541315556,0.015566384419798851,0.015566384419798851,0.00857718475162983,0.01491269189864397,0.015166659839451313,0.015424678102135658,0.011325553059577942,0.0070411874912679195,0.012278140522539616,0.006957071367651224,0.007659854833036661,0.009807685390114784,0.013934901915490627
+0.014843025244772434,0.005769211798906326,0.01604008674621582,0.016819791868329048,0.008381236344575882,0.009307476691901684,0.013894292525947094,0.009282538667321205,0.01731112040579319,0.015983588993549347,0.008825236931443214,0.012027456425130367,0.012967181392014027,0.00839321594685316,0.009666179306805134,0.011784517206251621,0.008296334184706211,0.007753818295896053,0.014850898645818233,0.011014172807335854,0.007702959235757589,0.015170496888458729,0.01684630662202835,0.014367716386914253,0.016400035470724106,0.008243822492659092,0.024155398830771446,0.015887580811977386,0.012437702156603336,0.013346311636269093,0.01661504991352558,0.01612778566777706,0.013142003677785397,0.008439403958618641,0.013328209519386292,0.009404005482792854,0.014248033054172993,0.017709799110889435,0.01459480170160532,0.010365718975663185,0.011640782468020916,0.01648811250925064,0.016026495024561882,0.007848517037928104,0.010767235420644283,0.01006169430911541,0.015898289158940315,0.008475695736706257,0.01571013405919075,0.017291786149144173,0.004797555506229401,0.00595856411382556,0.0076550887897610664,0.009716474451124668,0.015701383352279663,0.014063690789043903,0.01087598130106926,0.014570345170795918,0.01327857282012701,0.016539767384529114,0.00905758235603571,0.006708357483148575,0.015912316739559174,0.009114089421927929,0.009864085353910923,0.011735925450921059,0.01642354018986225,0.011540231294929981,0.01642354018986225,0.01642354018986225,0.007346848491579294,0.01611269637942314,0.01638864539563656,0.016230445355176926,0.01125390361994505,0.00583181157708168,0.012678464874625206,0.006343263201415539,0.006738657597452402,0.008906877599656582,0.01385447010397911
+0.014558794908225536,0.006069466471672058,0.016074078157544136,0.016915451735258102,0.007561162579804659,0.008768531493842602,0.014313808642327785,0.009177513420581818,0.01759353093802929,0.016053970903158188,0.008744466118514538,0.01191838551312685,0.013053979724645615,0.008011003024876118,0.009350250475108624,0.011266646906733513,0.008366895839571953,0.0074274116195738316,0.015005680732429028,0.01143143605440855,0.007994089275598526,0.015321602113544941,0.01695132814347744,0.013619313016533852,0.016579644754529,0.00840923935174942,0.023532507941126823,0.016034472733736038,0.012645207345485687,0.01364499144256115,0.016710566356778145,0.0162131879478693,0.013335577212274075,0.008730239234864712,0.013134927488863468,0.008798475377261639,0.014352312311530113,0.017865583300590515,0.01456388272345066,0.01055973395705223,0.011552519164979458,0.01665131002664566,0.016669832170009613,0.00786942895501852,0.010914591141045094,0.01007040124386549,0.016078421846032143,0.008008016273379326,0.015956129878759384,0.017426859587430954,0.004554434679448605,0.00551958754658699,0.007678843103349209,0.009646665304899216,0.015660298988223076,0.01413553487509489,0.010742533951997757,0.014703070744872093,0.013451586477458477,0.016778411343693733,0.009160026907920837,0.007191116455942392,0.015760555863380432,0.00932591687887907,0.010061271488666534,0.011583368293941021,0.016587726771831512,0.011477897875010967,0.016587726771831512,0.016587726771831512,0.007345365826040506,0.015558500774204731,0.016287580132484436,0.01635652594268322,0.010780253447592258,0.006121739745140076,0.012129112146794796,0.0059342640452086926,0.007006957661360502,0.009221503511071205,0.01420713122934103
+0.014826246537268162,0.005861272569745779,0.016250064596533775,0.01703108660876751,0.007874583825469017,0.008910438977181911,0.014137393794953823,0.00896009337157011,0.017213579267263412,0.01626427471637726,0.008482733741402626,0.011741980910301208,0.013075785711407661,0.007948297075927258,0.009508484043180943,0.0109342560172081,0.008366008289158344,0.007249258924275637,0.014494872651994228,0.011195805855095387,0.007519794162362814,0.015748267993330956,0.017060380429029465,0.013863486237823963,0.0167691670358181,0.008193068206310272,0.023733487352728844,0.016229884698987007,0.012531915679574013,0.013185814023017883,0.016955187544226646,0.016414597630500793,0.013302427716553211,0.008280959911644459,0.013463219627737999,0.008868234232068062,0.014277404174208641,0.018007751554250717,0.014861985109746456,0.010413889773190022,0.011265257373452187,0.016848759725689888,0.01679052971303463,0.0077215079218149185,0.010910438373684883,0.009724661707878113,0.016259653493762016,0.007753161247819662,0.016068559139966965,0.01734170876443386,0.004289785400032997,0.005176411475986242,0.0075641353614628315,0.009443101473152637,0.015784690156579018,0.013557201251387596,0.010977908037602901,0.01492993626743555,0.013642599806189537,0.016944866627454758,0.009225309826433659,0.0069045922718942165,0.015658944845199585,0.009200305677950382,0.010143216699361801,0.012009136378765106,0.01679421029984951,0.011765877716243267,0.01679421029984951,0.01679421029984951,0.007065306417644024,0.015961401164531708,0.016437895596027374,0.016558896750211716,0.011099547147750854,0.006074537057429552,0.012151917442679405,0.006195935420691967,0.006911784410476685,0.008916203863918781,0.01433430053293705
+Questions:
+can you comment on any operating differences of the 2 kid galaxy fire trucks? the jumbo is 9.8 x 14.5. the other is 7 x 5.5. Otherwise, are they the same?
+From the videos, the Jumbo sized truck looks much slower... Can anyone confirm if the Jumbo and Kids galaxy fire trucks are equal in speed tests?
+Hello, come in their original packaging?
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+My three-year-old loves all things cars and firetrucks, so I figured he'd go crazy for this product.
+After all, it's not only a firetruck, but one he could drive himself with the RC remote!
+What wasn't to love?First off, the construction is great.
+The truck itself is quite large, and it's constructed from a pretty soft-sided plastic.
+I wasn't at all worried about my son ramming it into the walls or doorframes, and I haven't noticed any damage as a result of this happening.
+It looks really cute as it zooms around.The remote is made of harder plastic and looks like a steering wheel with a big, white rocker switch in the middle.
+By pressing on the upper portion, the remote makes the truck move forward.
+Pressing on the lower portion makes the truck spin.
+It took a bit of explanation to get my son to figure out how to use the remote, as he tended to just push the forward button and get frustrated when the truck would run into an obstacle.
+Once we showed him how to make it turn, though, he was happier with it.
+The remote is the perfect size and shape for small hands.But even though I'm very impressed with the construction and quality of the truck, my son didn't really take to it.
+He likes it and will place it with his other (smaller) cars and trucks, but he rarely uses the remote to move it around.
+This may just be due to personal preference, as he likes to arrange his cars and then move them around with his hands, so I wouldn't necessarily dissuade others from purchasing it for a child his age.
+Still, of all the toys he owns, this is one he doesn't play with very frequently.
+"I was a little wary of this ""all Chinese-made plastic"" toy at first, but the truth is, it is big and squishy and the remote is just right for little kids (my 2.5 year old adores this thing).
+I don't like that the truck and remote take separate kinds of batteries, and I will confess that the battery covers are rather cheaply constructed, but the remote works very well and the truck is pretty fast and pretty hilarious to watch.
+Furthermore, because the outer shell is soft, you don't have to worry about paint dings etc.
+when your kids crash it into the walls (and they invariably will).
+:)We've had it for a couple of months now and it has stood the endurance test, so far, with two rambunctious boys."
+What a great first RC car!
+Kid Galaxy My 1st RC GoGo Auto Jumble Fire Truck is a wonderful and durable toy for kids 2 and up.
+It's big size and bright colors make it a sure attention grabber for kids!
+The remote is very simple and perfect for little hands to manuever.
+I love that it is wireless, considering most first remote control cars for kids this age are attatched by wire to the remote.
+A great toy for boys and girls both!
+I was a bit hesitant when I ordered Jumbo Fire Truck as I thought it might be a bit too advanced for my 32 month old grandson.
+A remote control vehicle for a toddler?
+Well, it is perfect!
+It took him about 15 minutes to figure out how to maneuver the toggle to get the truck to where he wanted it to go.
+It only turns right and goes forward so it is very limited to what it can do but, I think it is perfect for a toddler as a FIRST remote controlled toy.
+You really don't want it to do anything more than go forward and turn.
+It was very easy for my grandson to use.
+If you want a toy that does more than go forward and turn right, then this toy isn't for you.
+It is very simple and basic and as I stated before, it is great as a starter remote control toy.The toy is big and soft so it won't hurt anything if it runs into something.
+It has nice bright colors and is not heavy.
+The only drawback is the number of batteries that it takes, one 9 volt battery and three AA batteries which don't last long.
+Other than that, it's a good little remote controlled toy for a toddler.
+"My kids were thrilled when they first saw this.
+It's HUGE, and a nice flexible but sturdy plastic, not like the standard hard plastic cars.
+They figured out the remote part pretty quick (the oldest is 6 and the 4 year old spent the most time ""behind the wheel,"" for reference) and had fun racing it around.
+It only turns one direction, as another reviewer noted, and that got old fast for the kids.
+It is LOUD, which got old for me fast.
+One of the back wheels appeared to be broken and non-functional right out of the box, which is really annoying.
+But the kids still like playing with it--now that the batteries are gone they push it around, which is still loud, unfortunately.I prefer the (battery free) chunky trucks from Green Toys to this one, by far, and so do they."
+"Overall this will be fun for a preschool ""driver"".
+The large size, slow speed and simple controls make it right for the young side of the recommended age range.
+My three-year-old learned to use it very quickly and enjoyed it for quite a while.
+My general experience with remote control vehicles is that they're delicate and hard to master but so far so good with this one.The size is fun but otherwise the truck isn't especially exciting.
+There are no lights or sirens, for example.
+The steering wheel has just two buttons for straight forward and spin.
+The ""spin"" goes backward slightly which keeps young drivers from getting stuck against a wall.The 4 AA and 1 9V batteries needed are not included, so you'll want to have them on hand if you're surprising a young friend."
+"update, with the batteries in my niece reports Kid Galaxy my 1st RC fire truck is a hit with my great nephew and his many cousins, they love it and its withstood ""playtime"" daily from the ""herd"" of toddlers.
+they have other fire related trucks and with them it saves buildings daily, they are so happy to add it to his toys and so far has been thumbs up on durability!first review- i sent this to my niece and her one and a half year old baby boy.. he loved the bright colors but they didnt have the batteries to make it go right on hand.. in general he liked it.. i will have to update on durablility.
+in general its a cute fire truck and he did like holding it.."
+This bright red fire truck is great for a young child.
+I gave this to my grandson for his 3rd birthday and he loves it.
+It is made of soft plastic but is durable and easy for him to operate.
+The truck goes forward and in circles as it only turns right.
+It does require batteries so if your giving it as a gift I would add them as the child will want to start playing with the truck right away.
+"I was a bit surprised to see this in just a plastic bag with a piece of paper for directions.
+I am also not crazy about all the batteries that are needed and not included, 1 9V and 3 AA.The truck is fairly noisy, noisier than expected.
+It doesn't make any special sounds and honestly is just like any average remote control toy minus this is a ""soft"" toy."
+"This fire truck was a big hit in my house with our 4 year old son and his 3 year old friend.
+The truck is oversized and slightly squishy, which prevents any mishaps when it inevitably runs into things.
+The remote control is simple to use and shaped like a steering wheel with one big rocker button that pushes forwards or back.
+The range is good and we didn't have any problems with interference, even when running another RC car with it and having lots of ""crashes"".Great fun for kids about 2 and up."
+"My three year old was happy with this.
+It was easy for him to use, and soft edges kept him from hurting the baby he was ""chasing"" with it.
+It's cute, a little cheap looking, and I can see that he will out grow it pretty quickly.
+For now, he is having fun, wish I would have found it when he was two."
+"The only ""wow"" factor is the size of this truck - but soon it turns into disappointment due to the limited functionality (number of batteries needed, poor remote control, disproportionate design, ladders that cant be removed and overall no visual appeal than size).
+For the advertised price-point, options for radio-controlled toys are quite broad and this doesn't deserve to be on the top of your list."
+Bottom lIne up front: We got this for our almost-three-year-old niece.
+She LOVED it.
+Anything that keeps a two-year-old entertained for more than 5 consecutive minutes can't be that bad.It's not fancy, it's pretty straight forward.
+The control is very simple - Press one one button to go straight and press the other button to make it back up in a circle for turning.
+The backing up thing is a little tricky because two-year-olds (at least my two-year-old) takes a little time to grasp the concept of a reverse turning radius, but she's also not racing this little fire engine.
+She presses it - it moves - she giggles.
+Again - any toy that gets more than 5 minutes of consecutive use is a success story.The only draw back that we saw was that it appears to be on a very close frequency to the baby monitor in the house - So at random times the fire truck will jerk forward a little bit.
+This is not an issue during the day when no one is home (although could be if your security system has a motion detector) but the first time it happend to us at night - we were watching a scary movie and the thing jumped forward an inch... Just so you know.And while I would not buy it specifically for an older child, all of the other kids on the house (to include the 38-year-old kid) actually enjoys playing with it.
+Granted the older kids like chasing the dog, but still - it's nice when a family can enjoy something together.So in conclusion - It's a great, age-appropriate toy for a two year old, and probably a three year old too.

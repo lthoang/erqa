@@ -1,0 +1,208 @@
+Top question(s):
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Top sentence(s):
+At first, it can be stressful, trying to get whatever you are rolling for before someone else presses the buzzer.
+Each depicts a typical Yahtzee target, including full house, four of a kind, small straight, large straight and, of course, Yahtzee.
+And the kids and the grandkids loved playing Yahtzee with mom even though she won all the time.
+The set comes with one battery-operated buzzer unit (batteries not included), 20 dice, 22 game cards, one game board, four barriers and a game guide.
+Our family thinks that this World Series of Yahtzee is fun for an occasional change, but we really enjoy the regular old fashioned Yahtzee more.
+
+Question attention weights:
+1.0
+Sentence attention weights:
+0.005038254428654909,0.0025589189026504755,0.004745794460177422,0.005744477733969688,0.008195719681680202,0.003545444691553712,0.005132468417286873,0.005212702788412571,0.00629460671916604,0.007038508076220751,0.005820124875754118,0.00514793349429965,0.0027464719023555517,0.005259560886770487,0.00784387905150652,0.0025315936654806137,0.005964570213109255,0.005135782063007355,0.007339697331190109,0.004913470707833767,0.004647068213671446,0.0048424554988741875,0.007072443142533302,0.0058169057592749596,0.005158513318747282,0.0092204874381423,0.004858768545091152,0.00210726261138916,0.00802187155932188,0.0031712891068309546,0.0025239477399736643,0.004692858085036278,0.005524056497961283,0.0035462449304759502,0.005344592500478029,0.0048424554988741875,0.004969309084117413,0.005654485430568457,0.004288440104573965,0.007188810501247644,0.006027559749782085,0.002659216057509184,0.0050415038131177425,0.003648211248219013,0.005082791205495596,0.006682515610009432,0.008644210174679756,0.0049479505978524685,0.005889360327273607,0.005209794268012047,0.004660387057811022,0.0037692412734031677,0.008642568252980709,0.005080105271190405,0.006590827833861113,0.005317328032106161,0.005057488102465868,0.004498602822422981,0.004495890811085701,0.006128284614533186,0.005244748666882515,0.004056258127093315,0.005775097291916609,0.005078698508441448,0.010168232955038548,0.00551330903545022,0.005850966088473797,0.004358476027846336,0.005872639361768961,0.008216804824769497,0.006428825203329325,0.006920504849404097,0.0028091620188206434,0.0036622295156121254,0.004963904619216919,0.007926198653876781,0.004804660100489855,0.005163662601262331,0.004876643884927034,0.004582128021866083,0.0063953762874007225,0.004813061095774174,0.004130267072468996,0.005020771641284227,0.004286590963602066,0.003894208464771509,0.005343503784388304,0.004739968106150627,0.004916968755424023,0.005279937759041786,0.005573794711381197,0.004027603659778833,0.0026946167927235365,0.00656710984185338,0.0055342670530080795,0.00520483311265707,0.00343544059433043,0.004959613550454378,0.004904859699308872,0.0026695476844906807,0.0030865322332829237,0.004489272832870483,0.004606157541275024,0.0047998675145208836,0.005515208933502436,0.004668455570936203,0.005910055711865425,0.0027594566345214844,0.0063650282099843025,0.007009458262473345,0.003523981897160411,0.004833541810512543,0.00511123426258564,0.004508635029196739,0.004683346021920443,0.0053534721955657005,0.006143888924270868,0.00511123426258564,0.005226561333984137,0.0075960345566272736,0.0055162194184958935,0.004128878936171532,0.004998961463570595,0.005360057111829519,0.00416351854801178,0.0035563744604587555,0.0038229029159992933,0.007132213097065687,0.005069113336503506,0.005069113336503506,0.005096135661005974,0.004849591292440891,0.007461987901479006,0.005307979416102171,0.004371439106762409,0.005649147089570761,0.0030827652662992477,0.007553329691290855,0.005435212515294552,0.006009889300912619,0.005493813194334507,0.004559550900012255,0.007540454622358084,0.008016928099095821,0.005159424152225256,0.00562993623316288,0.005153822246938944,0.004304840695112944,0.005102530587464571,0.00421599205583334,0.004914149176329374,0.003932534717023373,0.005327965598553419,0.005292227491736412,0.005796986166387796,0.006369900889694691,0.005432604346424341,0.0029234730172902346,0.003958423156291246,0.0028974185697734356,0.005852547474205494,0.005854676011949778,0.003909419756382704,0.007886188104748726,0.00521200941875577,0.003689364530146122,0.005007537547498941,0.004876981023699045,0.0047579677775502205,0.004437097813934088,0.005170140881091356,0.004683063831180334,0.0053416090086102486,0.006690111942589283,0.005328253842890263,0.005617970135062933,0.003579276381060481,0.004492722451686859,0.00626775436103344,0.00518442178145051,0.007837610319256783,0.00418141158297658,0.005322964861989021,0.006720063742250204,0.004338038619607687,0.004803000949323177,0.0046525802463293076,0.005258845165371895,0.003368201432749629,0.005544743034988642,0.004142812918871641,0.008589859120547771
+Questions:
+What kind of batteries does it use?  Would this be good on an airplane? Or better to get the travel version?  what is size of this toy?  can you charge the ipad while it's in the case?  What is the difference between InnoTab 2 and InnoTab 2"s"  What is "Frustration Free Packaging"?  Do Baby Stella outfits fit these dolls?  How tall is it?  Can you turn the sound off?  do you have to have a i pad ?  Is there black chalk?  are the wheels plastic?  Do hot wheels cars work on this track?  how big is it?  Does this work with the ipad mini?  For what ages?  Can I order more balloons on Amazon to come with the game? How? Thanks!  does it come with any cargo cars or just Thomas engine?  are there any cargo cars you can buy separately that Thomas can pull?  does it use touch screen? 
+Reviews:
+There really isn't much set up to this game.
+It took me a grand total of about 10 minutes to get it open and ready to be played.Once starting, the game moved really fast.
+I think each game took about 15 minutes, at the most.
+My 6 year old son was able to keep up with the flow of the game really well and understood what the special cards (Sm Straight, Full House, etc) were after we showed him a couple of times.The only thing that was a bit frustrating was having to remember which cards were available and having to keep an eye on the board as well as the dice.
+I just solved that by trying for whatever was the largest point value on the board and not worrying about the other cards.Once a player hits their buzzer a little tune plays for 5 seconds and the other players have until that stops to push their buzzer.
+Then the system will light up to show how touched first and then second to collect their points.It's fast and easy and fun and I can't wait to add this to our church wide and family game nights.
+I don't really recommend this game.
+The game says for 2 to 4 players but, was boring with just 2 players.
+The fast pace of the game lead to the cardboard pieces getting bent; so they don't lay flat anymore and it make them hard to shuffle.
+I'll stick to old fashion Yahtzee!
+World Series of Yahtzee is a fast paced spin on traditional Yahtzee.
+You must still try to get certain number of spreads, i.e.
+full house, small & large straights, etc., but which spread you get depends on a draw of the cards.
+Yes, CARDS.
+Instead of the handy score pad, you and up to three others must roll the die at the same time in hopes of winning a spread listed on one of 9 cards and activating the 5 second timer.
+Once you press the timer, opponents have 5 seconds to achieve a spread and lock in their points.
+If you aren't fast enough, you lose.
+Sounds complicated, but it's pretty simple and extremely fun.
+I recommend this game to Yahtzee lovers everywhere.
+It's a fun spin on an old game.
+"I recently introduced my six-year-old daughter to the original Yahtzee on a trip to her grandparents house, so she was excited to get this version.
+I too, was curious to see what it would be like.
+While the basic Yahtzee theme is still there, this game is quite a bit different than the original Yahtzee game.Rather than each player rolling the dice in turn, there are four sets of dice so that up to four players can roll simultaneously.
+There is a board consisting of eight card spaces around the outside and a four-way buzzer in the middle.
+There are 22 small carboard cards that get laid out in the eight spaces.
+Each depicts a typical Yahtzee target, including full house, four of a kind, small straight, large straight and, of course, Yahtzee.
+There are also cards for ones, twos, etc.
+Before beginning play for each round, players study the eight cards arrayed on the board so they know the targets they can try to roll for.Then on an agreed mark players all begin to roll their dice trying to match at least one of the target cards.
+Once you have made a match, you press your triangle on the buzzer.
+The buzzer than plays music for five more seconds, allowing the other players five more seconds to roll and try to match a card.
+Any player that makes a match during that time must also press their triangle on the buzzer.After the five seconds is up, the triangle for the first player to buzz in will light up, and that player selects the card that matches his/or her dice, then s/he presses the buzzer again, which makes the buzzer light up by the second player to buzz in, who then also selects his or her card.
+The buzzer will continue to light up in turn for each player who buzzed in.
+Any player who did not buzz in does not get a card.
+Also, if you buzzed in but someone else has already claimed the card you matched (and if you didn't match any other card), then you do not get a card.
+Once all players have taken their cards, any blank spaces are filled in with new cards until there are no new cards to put down.
+Play continues until all cards are taken.
+Though this is still Yahtzee, it is set in a much different way...I play ALOT of the original...this game was fun and easy to set up...I could picture playing this with the 8-12 year old sect- it would be a fun brain challenge
+We're a gaming family.
+Between the phone apps (go Android!
+), the PSP, 3DS, Wii, PS3, and PC... the stack of board games doesn't get touched much.
+So we were basically unenthusiastic to play the new Yahtzee, despite it being electronic.Within 5 minutes of play,  we loved it!
+We were racing each other to win the cards and rack up the points, trash talking and laughing all the way.It was easy to learn,  even for the ones who never played Yahtzee, including my 8 yr old.
+The fast paced nature of the game and racing to hit the buzzer before anyone else combined to make this a really fun game and a great stress reducer.
+I already ordered two more to have on hand for birthday gifts.
+It's nice to see the kids playing something non-virtual!
+My mother loved playing Yahtzee, first with us kids and then with the grandkids.
+And the kids and the grandkids loved playing Yahtzee with mom even though she won all the time.
+Because of her love for the game I am pretty sure mom would have loved playing World Series of Yahtzee by Hasbrow.World Series of Yahtzee is a fast-paced, fast-action game in which everyone rolls the dice at once instead of taking turns and deliberately thinking about each move.
+Eight cards are turned up showing eight Yahtzee combinations, such as three sixes, three fours, full-house, small straight, four of a kind, etc.Everybody rolls and decides which of the eight combos to go for.
+The one who rolls their combo first, hits the buzzer to lock in their score.
+When the first player hits the buzzer, all other players are given five seconds to keep on rolling and come with a winning toss.
+The cards, each one with a point value, are collected by winning players at the end of each round the play begins again.You can play best three of five or play to see who gets the 10th win first.
+The set comes with one battery-operated buzzer unit (batteries not included), 20 dice, 22 game cards, one game board, four barriers and a game guide.
+You can play the game with two or four persons, age 8 and older.The only drawback is that two sets of dice have white dots and two sets have dark-colored dots.
+Mom would have had problems viewing the dark-colored dots which would put her at a competitive disadvantage.
+The kids and grandkids would be fine with that but mom would say it's not fair.
+And I would have to agree.
+You could pass the dark-dot dice around from player to player to spread the unfairness around.
+Or we could ask Hasbrow to put white dots on all the dice.
+Your call.But this game is so much fun that I'm not sure I will every play traditional Yahtzee again
+This is a really fun game.
+I love Yahtzee and board games and this is a new modern uptake on the classic game.
+Perfect game for hanging out with friends or family!
+This is certainly a different way to play Yatzee.
+At first, it can be stressful, trying to get whatever you are rolling for before someone else presses the buzzer.
+Those five seconds goes quickly.
+My wife was freaking out.
+But once you play for a few times, you develop a rhythm and it is a fun game.
+The more players the more exciting.
+Although, I enjoy the original game of Yahtzee, but this one is also entertaining.
+Board and table games are much better than computer games as it brings the family together.
+If you like Yahtzee, then you'll love this game.
+It has the old school Yahtzee as well as some new twists that can make game night with family or friends more exciting (we contemplated playing strip Yahtzee, just to spice it up even more, but settled on chips and salsa instead).
+If you want a new game, but nothing so extreme as say Killer Bunnies, this is your game.
+"Dad doesn't like board games.
+However, he soon grew to enjoy the World Series of Yahtzee Board Game, especially after beating me three times in a row.
+He had never played Yahtzee.
+(I play the traditional version all the time with my best friend, Sue; we both love it.)
+First, I introduced Dad to the rules about the traditional version (Yahtzee).
+I explained what small and large straights, full houses and Yahtzees are.
+We played a few rounds of the game in order to familiarize ourselves with its operation.
+Dad, who is almost seventy-nine, is a quick learner.There are eight cards on a board.
+The ""host"" yells, ""Rock 'N' Row!""
+and players begin rolling five dice.
+Each player tries to match one of the eight cards, which may have one or more of the following:  Yahtzee, four of a kind, three of a kind, small straight, large straight, three ones, three twos, three threes, three fours, three fives and five sixes.
+The first one to match a card, hits their side of the buzzer, music plays for five seconds during which the other players must continue rolling their dice until they match a card.
+Each player who matches a card removes the card and replaces it with a card from the deck.
+There are a total number of twenty-two cards.
+The game is over when all cards have been removed from the board.
+Players count points that are given on each card and the player with the most points wins that round.
+"It was a rough start.
+We had to restart the game a time or two because a couple of the players wanted to stay in the ""Old School"" Yahtzee state of mind, but we eventually got them to the present.So World Series Yahtzee - 2 to 4 players, simultaneously roll their dice to be the first to match a card on the board.
+The first player to match a card hits his/her buzzer the other players have 5 seconds to match a card, hit their buzzer or risk not gaining any points that round.
+(Any one who knows my reviews knows there's a little more to it than that but that's the jest).You are suppose to see who can get 10 cards first but I find this pretty close to impossible with 4 players.
+So second goal is to see who can get the most points by accumulating the cards with the highest point value.Pretty fun, cool game.
+We liked it."
+Our family loves games, primarily older games such as Yahtzee, Scrabble, Domino's, and Uno.
+One of the reasons we love games so much and these in particular is they allow you to hang out together and talk while you are playing a game.
+They also allow you to play with as many people as you can fit around a table.
+The World Series of Yahtzee is just as fun, but it limits play to 2-4 players and since it is such a fast and time based game, you are concentrating on the game and really do not have time for a conversation while playing.
+This is not necessarily a bad thing, it's just different.The players (2-4) each roll 5 dice and the goal is to match your throw with your Yahtzee cards.
+As soon as you have a match you hit a buzzer and continue until all 22 cards are gone.
+Usually you play 3-5 total games to gauge a winner.
+It is definitely more exciting and faster paced than most games and because of that it moves along very quickly.Pro's* It will probably interest a new generation of (younger) Yahtzee players.
+* It was a lot of fun to beat my son who was convinced he was faster than me.
+* It makes you concentrate and helps with counting and hand and eye coordination.Con's* It is not a game to have a conversation around.
+* Only 2-4 players at a time, and our family games usually have at least 6 or 7.
+* The buzzer got annoying after a while* It would be a little intimidating to play with children under 9 yrs, if the rest of the group was older.
+* Could have been made a little sturdier (but that is my gripe with most games these days)Overall, It was fun and educational.
+It will never replace our favorite Yahtzee game but it has been played with many times since we opened it by my son and a few of his teenage friends.
+Who doesn't love to scream Yahtzee!
+As a child I enjoyed playing the game and of course the screaming of Yahtzee!
+whenever I got it.
+Now there is this newer updated fast paced version of beat the clock aka other players during roll play.
+This game is fast paced and somewhat easy to play with the game cards to help one along.
+We had a really good time playing it.
+Only complaint is that it didn't come with batteries.
+But, whatever.
+Good game.
+We've played it several times now.
+I have an 8 and 10 year old and they enjoy it more than the original.
+"I still remember Yahtzee games from forty years ago and the excited yell of anyone who rolled the coveted ""Yahtzee"" - five dice with the same number.Twenty years ago I bought aYahtzeegame for my own family - and it was just like I remembered it.
+Which would have been fine for circa 1970, but in the video game era is frankly a little slow.
+You wait YOUR turn while all the other players in the game take their three (or less) rolls of the dice.
+There is a bit of strategy to it, but the degree to which blind luck determines a game was hammered home to me recently when I downloaded an electronic version of the game for a handheld device - not as fun as the game I remembered from my childhood.This new Yahtzee game adds action and excitement to the relatively stale concept: all players roll at once and an electronic button in the center of the playing board allows players to jump in and claim needed dice combinations.
+This game keeps the best parts of old Yahtzee and adds needed excitement.
+Good for old Yahtzee fans and anyone looking for an exciting dice game."
+You've played Yahtzee.
+Of course you have.
+The difference here is everyone is take their turn at the same time!
+The game is very fast pace and loads of fun thought younger children may struggle a bit to think fast and keep up.
+Well constructed and recommended.
+Hey it's Yahtzee!
+Of course it is fun!
+Yahtzee is a family favorite and this variation is a fast paced and engaging version.
+2-4 players can play and everyone begins by choosing 5 same colored dice.
+The goal is to match the 8 cards on the board where all players roll the dice till they have a match.
+The music, the buzzer all create excitement and a lot of fun.
+The quality of the board itself is just okay and hope it lasts for a good time.
+The price is good and if you like the original Yahtzee, try this one and you might just love it!
+"If you're already pretty familiar with Yahtzee and know your small straights from large straights, and don't mind learning some new rules, this is a fun, fast variation.
+I especially like that the cards are thick instead of thin cardboard, so they don't fly around in all the excitement.I played this game with both of my kids and we all enjoyed it.
+The ""educational"" part is that at the end, you don't just count up cards; you have to use your arithmetic skills to add up the point value, so someone with fewer cards can still win if they got some 50-point Yahtzee cards.
+That adds strategy to the game as well; do you want to buzz in first with a lower hand, or hold out for a higher-point hand?The game itself is in a sturdy box (unlike the Monopoly HOtels box) and is easy to pack away and store.
+Fun for 2, 3 or 4 players."
+I am not a fan of the original game Yahtzee.
+I mean it's good but not one that I go out of my way to play and I don't even own it but I thought I'd give this board game a try because you never know.Boy am I glad I did!
+This variation on the traditional game is a lot of fun.
+Because everyone is rolling at once, the game goes much more quickly and, because everyone is rolling together, players quickly match their rolls with the options (specific three-of-a-kind, four-of-a-kind, straights, full house, and, of course, Yahtzee).
+It took a couple of rounds to get a strong rhythm with some of us pushing the button when we didn't need to.
+Frankly, that made the learning a little more fun as we complicated what was obviously a simple concept.Hasbro has created a free downloadable app to give you an idea of how the game works.
+I tried the app before playing the board game and I have to say that, while the app is good, the game is far more fun.
+With the app you roll until you get whatever it is you're going after and then you wait for the other person to make their roll and take their card.
+Given that each player makes multiple rolls, waiting for the other player slows down the game.
+With the board game, you're all going at once and the first person to buzz in with a match to one of the cards sets a five-second (!)
+timer.
+If the other players don't hit their button before those five seconds are up, their chance at getting a card is over.
+With the app, you will be waiting more than 5 seconds for your next chance to roll and choose.Definitely more fun than the traditional game and the more players, the more intense.
+The World Series of Yahtzee Board Games is a more engaging approaching to the traditional Yahtzee game.
+All players are simultaneously engaged in rolling the dice to match certain cards that have been drawn and place on the game board.
+When a player rolls one of the dice combinations from the cards, he/she hit a button to initiate the next phase of play.
+It does require a quick response time.
+Its rules are a bit more involved than traditional Yahtzee, but it is more engaging and entertaining for all of the players.
+"The gaudy noisy console alone may drive adults away from this variant of Yahtzee..while the digital aspect may enhance appeal to kids, the increased requirement of speed/response may make this game too ""hyper"" and noisy pretty soon.
+The subtle changes in the rules may also limit the interest of those already familiar with the original game.The game pieces look ""casino-like"" but the board itself is quite flimsy and not likely to withstand repeated use.
+Overall, an OK twist to the original game, but probably not enough to keep the kids gravitating towards ""Temple Runs""..."
+I guess I didn't see where this game needed batteries.
+It could work out well without them.
+Basically, it's an Yahtzee game with a case of ADD.
+It is fun with a group of people.
+I find it more fun to do the regular game with two people.
+It's a fun variant on the original game and I think there is enough room for me to put my other game in this box.
+I like the dice too.
+This is a fun spin on Yahtzee.
+It is fast paced and keeps the game moving.
+Other reviewers have explained how the game works, so I am not going to repeat those details.
+I will, though, say that I sometimes find the sound a bit annoying but kids and young adults find the sound a great addition.
+I also find the game to be a bit fast paced at time--definitely not as relaxing as the original Yahtzee game.
+I love the original Yahtzee game and continue to prefer that version.
+However, I can see why younger people would prefer the new bells and whistles on this game.
+World Series of Yahtzee board game is a fast paced twist on the Yahtzee I grew up playing.
+This game has a game board with space for 8 of the Yahtzee cards.
+There are 4 sets of dice, each set a different color combination of die and dots, so this game can have up to 4 players.
+There is a buzzer in the middle of the game board that has loud sound effects needed for playing the game.The assembly instructions were clear, but one of my black barriers would not slide on very well.
+The point of the game is to collect one of the cards that is face up on the board with each turn.
+All the players roll their dice at the same time and the first one to have dice that matches one of the cards hits the buzzer and collects the card.
+Other player have five seconds to keep rolling and try to match a card.
+Empty spaces on the board are filled with new cards and the next round begins.
+The winner is the one with the highest score once the points on the cards totaled.With every player rolling at once, this game moves very fast.
+Anyone who likes an electronic component to games, should be pleased with the buzzer and it's music and sound effects.
+This game is quite different from regular Yahtzee since there are only 22 cards and it's a race to get them, compared to every player having a leisurely turn at every score on the paper.
+Our family thinks that this World Series of Yahtzee is fun for an occasional change, but we really enjoy the regular old fashioned Yahtzee more.
